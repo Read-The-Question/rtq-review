@@ -1,9206 +1,10 @@
 ---
 slug: "topics/topic-tdivision-ng1"
 title: "Topic - Division - NG1"
-date: 2026-04-07 08:55:53
-questions_count: "109"
+date: 2026-04-11 15:41:12
+questions_count: "47"
 ---
 <ul class="question default-decimal question_type_question list_type_default-decimal">
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28</p>
-</div>
-<div class="papername">
-<p>aldenham-school--11-plus--maths--9999--sample-paper-3:1:15</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-<li>
-tdecimal
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-What is half of $3.08?$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">What is half of $3.08?$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= 3.08 \div 2  \\\\
-&= 1.54
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$1.54$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= 3.08 \div 2  \\\\
-&= 1.54
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$1.54$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28" id="FORM-5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>8CE05634-6A49-4F35-A3BA-F011513512BF</p>
-</div>
-<div class="papername">
-<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:2:6</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-Work out $1638 \div 7$.
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Work out $1638 \div 7$.
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= 1638 \div 7 \\\\
-&= \dfrac {1638} {7} \\\\
-&= \dfrac {7 \times 234} {7} \\\\
-&= \dfrac {\cancel{7} \times 234} {\cancel{7}} \\\\
-&= 234
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$234$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= 1638 \div 7 \\\\
-&= \dfrac {1638} {7} \\\\
-&= \dfrac {7 \times 234} {7} \\\\
-&= \dfrac {\cancel{7} \times 234} {\cancel{7}} \\\\
-&= 234
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$234$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8CE05634-6A49-4F35-A3BA-F011513512BF" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8CE05634-6A49-4F35-A3BA-F011513512BF" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8CE05634-6A49-4F35-A3BA-F011513512BF" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8CE05634-6A49-4F35-A3BA-F011513512BF" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8CE05634-6A49-4F35-A3BA-F011513512BF" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8CE05634-6A49-4F35-A3BA-F011513512BF" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8CE05634-6A49-4F35-A3BA-F011513512BF" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8CE05634-6A49-4F35-A3BA-F011513512BF" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8CE05634-6A49-4F35-A3BA-F011513512BF" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8CE05634-6A49-4F35-A3BA-F011513512BF" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="8CE05634-6A49-4F35-A3BA-F011513512BF" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8CE05634-6A49-4F35-A3BA-F011513512BF" id="FORM-8CE05634-6A49-4F35-A3BA-F011513512BF" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-8CE05634-6A49-4F35-A3BA-F011513512BF">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC</p>
-</div>
-<div class="papername">
-<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:2:9</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-Divide $31500$ by $30$.
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Divide $31500$ by $30$.
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= \dfrac {31500} {30} \\\\
-&= \dfrac {1050 \times 3 \times 10} {3 \times 10} \\\\
-&= \dfrac {1050 \times \cancel{3} \times 1\cancel{0}} {\cancel{3} \times 1\cancel{0}} \\\\
-&= 1050
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$1050$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= \dfrac {31500} {30} \\\\
-&= \dfrac {1050 \times 3 \times 10} {3 \times 10} \\\\
-&= \dfrac {1050 \times \cancel{3} \times 1\cancel{0}} {\cancel{3} \times 1\cancel{0}} \\\\
-&= 1050
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$1050$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC" id="FORM-E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>B4B68EBB-B4F3-46DC-91E5-FCCC518381FF</p>
-</div>
-<div class="papername">
-<p>bancrofts-school--11-plus--maths--2013--sample-paper-1:1:5</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-Divide $3112$ by $8$.
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Divide $3112$ by $8$.
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= \dfrac{3112}{8} \\\\
-&= \dfrac{389 \times 8}{8} \\\\
-&= \dfrac{389 \times \cancel{8}}{\cancel{8}} \\\\
-&= 389
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$389$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= \dfrac{3112}{8} \\\\
-&= \dfrac{389 \times 8}{8} \\\\
-&= \dfrac{389 \times \cancel{8}}{\cancel{8}} \\\\
-&= 389
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$389$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4B68EBB-B4F3-46DC-91E5-FCCC518381FF" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4B68EBB-B4F3-46DC-91E5-FCCC518381FF" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4B68EBB-B4F3-46DC-91E5-FCCC518381FF" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4B68EBB-B4F3-46DC-91E5-FCCC518381FF" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4B68EBB-B4F3-46DC-91E5-FCCC518381FF" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4B68EBB-B4F3-46DC-91E5-FCCC518381FF" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4B68EBB-B4F3-46DC-91E5-FCCC518381FF" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4B68EBB-B4F3-46DC-91E5-FCCC518381FF" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4B68EBB-B4F3-46DC-91E5-FCCC518381FF" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4B68EBB-B4F3-46DC-91E5-FCCC518381FF" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="B4B68EBB-B4F3-46DC-91E5-FCCC518381FF" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4B68EBB-B4F3-46DC-91E5-FCCC518381FF" id="FORM-B4B68EBB-B4F3-46DC-91E5-FCCC518381FF" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-B4B68EBB-B4F3-46DC-91E5-FCCC518381FF">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>095B2163-257B-4E20-A394-2216498E34FD</p>
-</div>
-<div class="papername">
-<p>bancrofts-school--11-plus--maths--2016--sample-paper-2:1:5</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-Divide $60600$ by $8$.
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Divide $60600$ by $8$.
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= \dfrac{60600}{8} \\\\
-&= \dfrac{7575 \times 8}{8} \\\\
-&= \dfrac{7575 \times \cancel{8}}{\cancel{8}} \\\\
-&= 7575
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$7575$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= \dfrac{60600}{8} \\\\
-&= \dfrac{7575 \times 8}{8} \\\\
-&= \dfrac{7575 \times \cancel{8}}{\cancel{8}} \\\\
-&= 7575
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$7575$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="095B2163-257B-4E20-A394-2216498E34FD" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="095B2163-257B-4E20-A394-2216498E34FD" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="095B2163-257B-4E20-A394-2216498E34FD" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="095B2163-257B-4E20-A394-2216498E34FD" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="095B2163-257B-4E20-A394-2216498E34FD" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="095B2163-257B-4E20-A394-2216498E34FD" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="095B2163-257B-4E20-A394-2216498E34FD" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="095B2163-257B-4E20-A394-2216498E34FD" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="095B2163-257B-4E20-A394-2216498E34FD" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="095B2163-257B-4E20-A394-2216498E34FD" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="095B2163-257B-4E20-A394-2216498E34FD" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="095B2163-257B-4E20-A394-2216498E34FD" id="FORM-095B2163-257B-4E20-A394-2216498E34FD" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-095B2163-257B-4E20-A394-2216498E34FD">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>A7B38294-BE7C-4024-8AA5-C14D696AA448</p>
-</div>
-<div class="papername">
-<p>bancrofts-school--11-plus--maths--2017--sample-paper-3:1:3</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-Divide $2412$ by $9$.
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Divide $2412$ by $9$.
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= \dfrac{2412}{9} \\\\
-&= \dfrac{268 \times 9}{9} \\\\
-&= \dfrac{268 \times \cancel{9}}{\cancel{9}} \\\\
-&= 268
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$268$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= \dfrac{2412}{9} \\\\
-&= \dfrac{268 \times 9}{9} \\\\
-&= \dfrac{268 \times \cancel{9}}{\cancel{9}} \\\\
-&= 268
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$268$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A7B38294-BE7C-4024-8AA5-C14D696AA448" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A7B38294-BE7C-4024-8AA5-C14D696AA448" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A7B38294-BE7C-4024-8AA5-C14D696AA448" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A7B38294-BE7C-4024-8AA5-C14D696AA448" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A7B38294-BE7C-4024-8AA5-C14D696AA448" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A7B38294-BE7C-4024-8AA5-C14D696AA448" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A7B38294-BE7C-4024-8AA5-C14D696AA448" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A7B38294-BE7C-4024-8AA5-C14D696AA448" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A7B38294-BE7C-4024-8AA5-C14D696AA448" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A7B38294-BE7C-4024-8AA5-C14D696AA448" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="A7B38294-BE7C-4024-8AA5-C14D696AA448" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A7B38294-BE7C-4024-8AA5-C14D696AA448" id="FORM-A7B38294-BE7C-4024-8AA5-C14D696AA448" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-A7B38294-BE7C-4024-8AA5-C14D696AA448">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>DD68D940-1996-4CAB-96C8-2F8F80E59537</p>
-</div>
-<div class="papername">
-<p>bancrofts-school--11-plus--maths--2021--sample-paper-7:1:5</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-Divide $3934$ by $7$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Divide $3934$ by $7$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= \dfrac{3934}{7} \\\\
-&= \dfrac{562 \times 7}{7} \\\\
-&= \dfrac{562 \times \cancel{7}}{\cancel{7}} \\\\
-&= 562
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$562$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= \dfrac{3934}{7} \\\\
-&= \dfrac{562 \times 7}{7} \\\\
-&= \dfrac{562 \times \cancel{7}}{\cancel{7}} \\\\
-&= 562
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$562$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DD68D940-1996-4CAB-96C8-2F8F80E59537" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DD68D940-1996-4CAB-96C8-2F8F80E59537" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DD68D940-1996-4CAB-96C8-2F8F80E59537" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DD68D940-1996-4CAB-96C8-2F8F80E59537" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DD68D940-1996-4CAB-96C8-2F8F80E59537" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DD68D940-1996-4CAB-96C8-2F8F80E59537" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DD68D940-1996-4CAB-96C8-2F8F80E59537" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DD68D940-1996-4CAB-96C8-2F8F80E59537" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DD68D940-1996-4CAB-96C8-2F8F80E59537" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DD68D940-1996-4CAB-96C8-2F8F80E59537" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="DD68D940-1996-4CAB-96C8-2F8F80E59537" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DD68D940-1996-4CAB-96C8-2F8F80E59537" id="FORM-DD68D940-1996-4CAB-96C8-2F8F80E59537" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-DD68D940-1996-4CAB-96C8-2F8F80E59537">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>468DD01B-3AB0-4217-ACBF-3D0D294F43A1</p>
-</div>
-<div class="papername">
-<p>brentwood-school--11-plus--maths--9999--sample-paper-1:1:11</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-<li>
-tdecimal
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-Calculate $34.3 \div 0.7$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Calculate $34.3 \div 0.7$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= \dfrac{34.3}{0.7} \\\\
-&= \dfrac{34.3 \times 10}{0.7 \times 10} \\\\
-&= \dfrac{343}{7} \\\\
-&= \dfrac{49 \times 7}{7} \\\\
-&= \dfrac{49 \times \cancel{7}}{\cancel{7}} \\\\
-&= 49
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$49$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= \dfrac{34.3}{0.7} \\\\
-&= \dfrac{34.3 \times 10}{0.7 \times 10} \\\\
-&= \dfrac{343}{7} \\\\
-&= \dfrac{49 \times 7}{7} \\\\
-&= \dfrac{49 \times \cancel{7}}{\cancel{7}} \\\\
-&= 49
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$49$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="468DD01B-3AB0-4217-ACBF-3D0D294F43A1" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="468DD01B-3AB0-4217-ACBF-3D0D294F43A1" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="468DD01B-3AB0-4217-ACBF-3D0D294F43A1" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="468DD01B-3AB0-4217-ACBF-3D0D294F43A1" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="468DD01B-3AB0-4217-ACBF-3D0D294F43A1" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="468DD01B-3AB0-4217-ACBF-3D0D294F43A1" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="468DD01B-3AB0-4217-ACBF-3D0D294F43A1" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="468DD01B-3AB0-4217-ACBF-3D0D294F43A1" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="468DD01B-3AB0-4217-ACBF-3D0D294F43A1" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="468DD01B-3AB0-4217-ACBF-3D0D294F43A1" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="468DD01B-3AB0-4217-ACBF-3D0D294F43A1" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="468DD01B-3AB0-4217-ACBF-3D0D294F43A1" id="FORM-468DD01B-3AB0-4217-ACBF-3D0D294F43A1" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-468DD01B-3AB0-4217-ACBF-3D0D294F43A1">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>C5086124-D4C0-4B41-8F3E-7997B53C51C3</p>
-</div>
-<div class="papername">
-<p>chigwell-school--11-plus--maths--2020--sample-paper-1:1:2</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-Calculate $111111 \div 7$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Calculate $111111 \div 7$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= 111111 \div 7 \\\\
-&= \dfrac {111111} {7} \\\\
-&= \dfrac {7 \times 15873} {7} \\\\
-&= \dfrac {\cancel{7} \times 15873} {\cancel{7}} \\\\
-&= 15873
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$15873$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= 111111 \div 7 \\\\
-&= \dfrac {111111} {7} \\\\
-&= \dfrac {7 \times 15873} {7} \\\\
-&= \dfrac {\cancel{7} \times 15873} {\cancel{7}} \\\\
-&= 15873
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$15873$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="C5086124-D4C0-4B41-8F3E-7997B53C51C3" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="C5086124-D4C0-4B41-8F3E-7997B53C51C3" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="C5086124-D4C0-4B41-8F3E-7997B53C51C3" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="C5086124-D4C0-4B41-8F3E-7997B53C51C3" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="C5086124-D4C0-4B41-8F3E-7997B53C51C3" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="C5086124-D4C0-4B41-8F3E-7997B53C51C3" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="C5086124-D4C0-4B41-8F3E-7997B53C51C3" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="C5086124-D4C0-4B41-8F3E-7997B53C51C3" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="C5086124-D4C0-4B41-8F3E-7997B53C51C3" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="C5086124-D4C0-4B41-8F3E-7997B53C51C3" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="C5086124-D4C0-4B41-8F3E-7997B53C51C3" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="C5086124-D4C0-4B41-8F3E-7997B53C51C3" id="FORM-C5086124-D4C0-4B41-8F3E-7997B53C51C3" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-C5086124-D4C0-4B41-8F3E-7997B53C51C3">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>EA082533-4294-4C7E-9B5B-D99FB25AD9B3</p>
-</div>
-<div class="papername">
-<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:1:8</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-Work out these divisions:
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Work out these divisions:
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-%empty%
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-%empty%
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-</div>
-<ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
-<li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion">
-<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-$568$ divided by $8$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$568$ divided by $8$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= 568 \div 8 \\\\
-&= \dfrac {568} {8} \\\\
-&= \dfrac {71 \times 8} {8} \\\\
-&= \dfrac {71 \times \cancel {8}} {\cancel{8}} \\\\
-&= 71
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$71$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= 568 \div 8 \\\\
-&= \dfrac {568} {8} \\\\
-&= \dfrac {71 \times 8} {8} \\\\
-&= \dfrac {71 \times \cancel {8}} {\cancel{8}} \\\\
-&= 71
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$71$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion">
-<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-$1846$ divided by $13$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$1846$ divided by $13$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= 1846 \div 13 \\\\
-&= \dfrac {1846} {13} \\\\
-&= \dfrac {142 \times 13} {13} \\\\
-&= \dfrac {142 \times \cancel {13}} {\cancel{13}} \\\\
-&= 142
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$142$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= 1846 \div 13 \\\\
-&= \dfrac {1846} {13} \\\\
-&= \dfrac {142 \times 13} {13} \\\\
-&= \dfrac {142 \times \cancel {13}} {\cancel{13}} \\\\
-&= 142
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$142$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EA082533-4294-4C7E-9B5B-D99FB25AD9B3" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EA082533-4294-4C7E-9B5B-D99FB25AD9B3" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EA082533-4294-4C7E-9B5B-D99FB25AD9B3" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EA082533-4294-4C7E-9B5B-D99FB25AD9B3" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EA082533-4294-4C7E-9B5B-D99FB25AD9B3" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EA082533-4294-4C7E-9B5B-D99FB25AD9B3" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EA082533-4294-4C7E-9B5B-D99FB25AD9B3" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EA082533-4294-4C7E-9B5B-D99FB25AD9B3" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EA082533-4294-4C7E-9B5B-D99FB25AD9B3" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EA082533-4294-4C7E-9B5B-D99FB25AD9B3" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="EA082533-4294-4C7E-9B5B-D99FB25AD9B3" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EA082533-4294-4C7E-9B5B-D99FB25AD9B3" id="FORM-EA082533-4294-4C7E-9B5B-D99FB25AD9B3" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-EA082533-4294-4C7E-9B5B-D99FB25AD9B3">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>D5204F4A-B807-43B1-A353-487CB9B6B8B2</p>
-</div>
-<div class="papername">
-<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:1:4</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-$96 \div 6 =$
-
--  $17$ 
--  $14$ 
--  $15$
--  $16$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$96 \div 6 =$
-<emptyline>
--  $17$ 
--  $14$ 
--  $15$
--  $16$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&=  \dfrac{96}{6} \\\\
-&=  \dfrac{16 \times 6}{6} \\\\
-&=  \dfrac{16 \times \cancel 6}{\cancel 6} \\\\
-&=  16
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="option" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Option**
-
-<p>D</p>
-</div>
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$16$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&=  \dfrac{96}{6} \\\\
-&=  \dfrac{16 \times 6}{6} \\\\
-&=  \dfrac{16 \times \cancel 6}{\cancel 6} \\\\
-&=  16
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">D</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$16$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D5204F4A-B807-43B1-A353-487CB9B6B8B2" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D5204F4A-B807-43B1-A353-487CB9B6B8B2" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D5204F4A-B807-43B1-A353-487CB9B6B8B2" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D5204F4A-B807-43B1-A353-487CB9B6B8B2" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D5204F4A-B807-43B1-A353-487CB9B6B8B2" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D5204F4A-B807-43B1-A353-487CB9B6B8B2" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D5204F4A-B807-43B1-A353-487CB9B6B8B2" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D5204F4A-B807-43B1-A353-487CB9B6B8B2" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D5204F4A-B807-43B1-A353-487CB9B6B8B2" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D5204F4A-B807-43B1-A353-487CB9B6B8B2" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="D5204F4A-B807-43B1-A353-487CB9B6B8B2" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D5204F4A-B807-43B1-A353-487CB9B6B8B2" id="FORM-D5204F4A-B807-43B1-A353-487CB9B6B8B2" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-D5204F4A-B807-43B1-A353-487CB9B6B8B2">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>9A3D9E21-52B8-4FAF-B576-1B242FC6F65F</p>
-</div>
-<div class="papername">
-<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:2:2</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-$410.3 \div 1000 =$
-
--   $41.03$
--   $4.103$
--   $0.4103$ 
--   $0.04103$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$410.3 \div 1000 =$
-<emptyline>
--   $41.03$
--   $4.103$
--   $0.4103$ 
--   $0.04103$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= 410.3 \div 1000 \\\\
-&= \dfrac {410.3} {1000} \\\\
-&= 0.4103
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="option" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Option**
-
-<p>C</p>
-</div>
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$0.4103$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= 410.3 \div 1000 \\\\
-&= \dfrac {410.3} {1000} \\\\
-&= 0.4103
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">C</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$0.4103$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9A3D9E21-52B8-4FAF-B576-1B242FC6F65F" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9A3D9E21-52B8-4FAF-B576-1B242FC6F65F" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9A3D9E21-52B8-4FAF-B576-1B242FC6F65F" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9A3D9E21-52B8-4FAF-B576-1B242FC6F65F" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9A3D9E21-52B8-4FAF-B576-1B242FC6F65F" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9A3D9E21-52B8-4FAF-B576-1B242FC6F65F" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9A3D9E21-52B8-4FAF-B576-1B242FC6F65F" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9A3D9E21-52B8-4FAF-B576-1B242FC6F65F" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9A3D9E21-52B8-4FAF-B576-1B242FC6F65F" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9A3D9E21-52B8-4FAF-B576-1B242FC6F65F" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="9A3D9E21-52B8-4FAF-B576-1B242FC6F65F" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9A3D9E21-52B8-4FAF-B576-1B242FC6F65F" id="FORM-9A3D9E21-52B8-4FAF-B576-1B242FC6F65F" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-9A3D9E21-52B8-4FAF-B576-1B242FC6F65F">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>EC50BF96-8275-40FB-9755-C0806452FE6D</p>
-</div>
-<div class="papername">
-<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:1:4</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-$96 \div 6 =$
-
-- $17$
-- $14$
-- $15$
-- $16$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$96 \div 6 =$
-<emptyline>
-- $17$
-- $14$
-- $15$
-- $16$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= 96 \div 6 \\\\
-&= \dfrac{96}{6} \\\\
-&= \dfrac{16 \times 6}{6} \\\\
-&= \dfrac{16 \times \cancel 6}{ \cancel6} \\\\
-&= 16
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="option" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Option**
-
-<p>D</p>
-</div>
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$16$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= 96 \div 6 \\\\
-&= \dfrac{96}{6} \\\\
-&= \dfrac{16 \times 6}{6} \\\\
-&= \dfrac{16 \times \cancel 6}{ \cancel6} \\\\
-&= 16
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">D</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$16$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EC50BF96-8275-40FB-9755-C0806452FE6D" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EC50BF96-8275-40FB-9755-C0806452FE6D" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EC50BF96-8275-40FB-9755-C0806452FE6D" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EC50BF96-8275-40FB-9755-C0806452FE6D" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EC50BF96-8275-40FB-9755-C0806452FE6D" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EC50BF96-8275-40FB-9755-C0806452FE6D" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EC50BF96-8275-40FB-9755-C0806452FE6D" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EC50BF96-8275-40FB-9755-C0806452FE6D" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EC50BF96-8275-40FB-9755-C0806452FE6D" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EC50BF96-8275-40FB-9755-C0806452FE6D" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="EC50BF96-8275-40FB-9755-C0806452FE6D" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EC50BF96-8275-40FB-9755-C0806452FE6D" id="FORM-EC50BF96-8275-40FB-9755-C0806452FE6D" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-EC50BF96-8275-40FB-9755-C0806452FE6D">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>11E67077-E5D7-4AAB-8230-3443578B97AB</p>
-</div>
-<div class="papername">
-<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:2:2</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-$410.3 \div 1000 =$
-
-- $41.03$
-- $4.103$
-- $0.4103$
-- $0.04103$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$410.3 \div 1000 =$
-<emptyline>
-- $41.03$
-- $4.103$
-- $0.4103$
-- $0.04103$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= 410.3 \div 1000 \\\\
-&= \dfrac {410.3} {1000} \\\\
-&= 0.4103
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="option" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Option**
-
-<p>C</p>
-</div>
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$0.4103$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= 410.3 \div 1000 \\\\
-&= \dfrac {410.3} {1000} \\\\
-&= 0.4103
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">C</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$0.4103$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="11E67077-E5D7-4AAB-8230-3443578B97AB" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="11E67077-E5D7-4AAB-8230-3443578B97AB" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="11E67077-E5D7-4AAB-8230-3443578B97AB" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="11E67077-E5D7-4AAB-8230-3443578B97AB" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="11E67077-E5D7-4AAB-8230-3443578B97AB" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="11E67077-E5D7-4AAB-8230-3443578B97AB" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="11E67077-E5D7-4AAB-8230-3443578B97AB" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="11E67077-E5D7-4AAB-8230-3443578B97AB" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="11E67077-E5D7-4AAB-8230-3443578B97AB" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="11E67077-E5D7-4AAB-8230-3443578B97AB" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="11E67077-E5D7-4AAB-8230-3443578B97AB" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="11E67077-E5D7-4AAB-8230-3443578B97AB" id="FORM-11E67077-E5D7-4AAB-8230-3443578B97AB" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-11E67077-E5D7-4AAB-8230-3443578B97AB">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>47273DED-F558-4135-96EA-25B112E5F200</p>
-</div>
-<div class="papername">
-<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:4</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-$3072 \div 12$ 
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$3072 \div 12$ 
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= \dfrac{3072}{12} \\\\
-&= \dfrac{256 \times 3 \times 4}{3 \times 4} \\\\
-&= \dfrac{256 \times \cancel{3} \times \cancel{4}}{\cancel{3} \times \cancel{4}} \\\\
-&= 256
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$256$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= \dfrac{3072}{12} \\\\
-&= \dfrac{256 \times 3 \times 4}{3 \times 4} \\\\
-&= \dfrac{256 \times \cancel{3} \times \cancel{4}}{\cancel{3} \times \cancel{4}} \\\\
-&= 256
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$256$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="47273DED-F558-4135-96EA-25B112E5F200" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="47273DED-F558-4135-96EA-25B112E5F200" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="47273DED-F558-4135-96EA-25B112E5F200" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="47273DED-F558-4135-96EA-25B112E5F200" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="47273DED-F558-4135-96EA-25B112E5F200" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="47273DED-F558-4135-96EA-25B112E5F200" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="47273DED-F558-4135-96EA-25B112E5F200" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="47273DED-F558-4135-96EA-25B112E5F200" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="47273DED-F558-4135-96EA-25B112E5F200" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="47273DED-F558-4135-96EA-25B112E5F200" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="47273DED-F558-4135-96EA-25B112E5F200" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="47273DED-F558-4135-96EA-25B112E5F200" id="FORM-47273DED-F558-4135-96EA-25B112E5F200" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-47273DED-F558-4135-96EA-25B112E5F200">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>82458AC6-CD20-4DD9-B868-A47690878AF1</p>
-</div>
-<div class="papername">
-<p>colfes-school--11-plus--maths--9999--sample-paper:1:4</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-Divide $5616$ by $8$.
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Divide $5616$ by $8$.
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= \dfrac{5616}{8} \\\\
-&= \dfrac{702 \times 8}{8} \\\\
-&= \dfrac{702 \times \cancel{8}}{\cancel{8}} \\\\
-&= 702
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$702$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= \dfrac{5616}{8} \\\\
-&= \dfrac{702 \times 8}{8} \\\\
-&= \dfrac{702 \times \cancel{8}}{\cancel{8}} \\\\
-&= 702
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$702$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="82458AC6-CD20-4DD9-B868-A47690878AF1" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="82458AC6-CD20-4DD9-B868-A47690878AF1" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="82458AC6-CD20-4DD9-B868-A47690878AF1" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="82458AC6-CD20-4DD9-B868-A47690878AF1" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="82458AC6-CD20-4DD9-B868-A47690878AF1" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="82458AC6-CD20-4DD9-B868-A47690878AF1" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="82458AC6-CD20-4DD9-B868-A47690878AF1" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="82458AC6-CD20-4DD9-B868-A47690878AF1" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="82458AC6-CD20-4DD9-B868-A47690878AF1" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="82458AC6-CD20-4DD9-B868-A47690878AF1" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="82458AC6-CD20-4DD9-B868-A47690878AF1" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="82458AC6-CD20-4DD9-B868-A47690878AF1" id="FORM-82458AC6-CD20-4DD9-B868-A47690878AF1" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-82458AC6-CD20-4DD9-B868-A47690878AF1">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>E31A408D-4BBF-4961-BB3F-6E1193B3B262</p>
-</div>
-<div class="papername">
-<p>csse--11-plus--maths--2015--sample-paper-1:1:4</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-%empty%
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-
-
-
-
-<ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
-<li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion">
-<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-Calculate: $195 \div 15$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Calculate: $195 \div 15$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= \dfrac{195}{15} \\\\
-&= \dfrac{13 \times 3 \times 5}{3 \times 5} \\\\
-&= \dfrac{13 \times \cancel{3} \times \cancel{5}}{\cancel{3} \times \cancel{5}} \\\\
-&= 13
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$13$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= \dfrac{195}{15} \\\\
-&= \dfrac{13 \times 3 \times 5}{3 \times 5} \\\\
-&= \dfrac{13 \times \cancel{3} \times \cancel{5}}{\cancel{3} \times \cancel{5}} \\\\
-&= 13
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$13$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion">
-<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-Divide $14$ by $0.2$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Divide $14$ by $0.2$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= \dfrac{14}{0.2} \\\\
-&= \dfrac{14 \times 10}{0.2 \times 10} \\\\
-&= \dfrac{14 \times 10}{2} \\\\
-&= \dfrac{14 \times 5 \times 2}{2} \\\\
-&= \dfrac{14 \times 5 \times \cancel{2}}{\cancel{2}} \\\\
-&= 14 \times 5 \\\\
-&= 70
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$70$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= \dfrac{14}{0.2} \\\\
-&= \dfrac{14 \times 10}{0.2 \times 10} \\\\
-&= \dfrac{14 \times 10}{2} \\\\
-&= \dfrac{14 \times 5 \times 2}{2} \\\\
-&= \dfrac{14 \times 5 \times \cancel{2}}{\cancel{2}} \\\\
-&= 14 \times 5 \\\\
-&= 70
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$70$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E31A408D-4BBF-4961-BB3F-6E1193B3B262" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E31A408D-4BBF-4961-BB3F-6E1193B3B262" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E31A408D-4BBF-4961-BB3F-6E1193B3B262" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E31A408D-4BBF-4961-BB3F-6E1193B3B262" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E31A408D-4BBF-4961-BB3F-6E1193B3B262" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E31A408D-4BBF-4961-BB3F-6E1193B3B262" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E31A408D-4BBF-4961-BB3F-6E1193B3B262" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E31A408D-4BBF-4961-BB3F-6E1193B3B262" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E31A408D-4BBF-4961-BB3F-6E1193B3B262" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E31A408D-4BBF-4961-BB3F-6E1193B3B262" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="E31A408D-4BBF-4961-BB3F-6E1193B3B262" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E31A408D-4BBF-4961-BB3F-6E1193B3B262" id="FORM-E31A408D-4BBF-4961-BB3F-6E1193B3B262" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-E31A408D-4BBF-4961-BB3F-6E1193B3B262">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>A3D8068B-24C5-46C6-8558-E0B2311AA73D</p>
-</div>
-<div class="papername">
-<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:6</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-Work out $4050 \div 100$.
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Work out $4050 \div 100$.
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= \dfrac{4050}{100} \\\\
-&= 40.5
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$40.5$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= \dfrac{4050}{100} \\\\
-&= 40.5
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$40.5$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A3D8068B-24C5-46C6-8558-E0B2311AA73D" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A3D8068B-24C5-46C6-8558-E0B2311AA73D" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A3D8068B-24C5-46C6-8558-E0B2311AA73D" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A3D8068B-24C5-46C6-8558-E0B2311AA73D" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A3D8068B-24C5-46C6-8558-E0B2311AA73D" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A3D8068B-24C5-46C6-8558-E0B2311AA73D" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A3D8068B-24C5-46C6-8558-E0B2311AA73D" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A3D8068B-24C5-46C6-8558-E0B2311AA73D" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A3D8068B-24C5-46C6-8558-E0B2311AA73D" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A3D8068B-24C5-46C6-8558-E0B2311AA73D" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="A3D8068B-24C5-46C6-8558-E0B2311AA73D" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A3D8068B-24C5-46C6-8558-E0B2311AA73D" id="FORM-A3D8068B-24C5-46C6-8558-E0B2311AA73D" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-A3D8068B-24C5-46C6-8558-E0B2311AA73D">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>76853B80-475C-45FC-8F30-B40957F57E47</p>
-</div>
-<div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:21</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-$2.3 \div 1000 =$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$2.3 \div 1000 =$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&=  2.3 \div 1000 \\\\
-&=  \dfrac {2.3} {1000} \\\\
-&=  0.0023
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$0.0023$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&=  2.3 \div 1000 \\\\
-&=  \dfrac {2.3} {1000} \\\\
-&=  0.0023
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$0.0023$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" id="FORM-76853B80-475C-45FC-8F30-B40957F57E47" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-76853B80-475C-45FC-8F30-B40957F57E47">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>21C67B7B-044B-4F38-8EF5-F6242FC9D5FE</p>
-</div>
-<div class="papername">
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-a:1:4</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-Calculate $2184 \div 7$.
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Calculate $2184 \div 7$.
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= \dfrac {2184} {7} \\\\
-&= \dfrac {312 \times 7} {7} \\\\
-&= \dfrac {312 \times \cancel{7}} {\cancel{7}} \\\\
-&= 312
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$312$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= \dfrac {2184} {7} \\\\
-&= \dfrac {312 \times 7} {7} \\\\
-&= \dfrac {312 \times \cancel{7}} {\cancel{7}} \\\\
-&= 312
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$312$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="21C67B7B-044B-4F38-8EF5-F6242FC9D5FE" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="21C67B7B-044B-4F38-8EF5-F6242FC9D5FE" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="21C67B7B-044B-4F38-8EF5-F6242FC9D5FE" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="21C67B7B-044B-4F38-8EF5-F6242FC9D5FE" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="21C67B7B-044B-4F38-8EF5-F6242FC9D5FE" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="21C67B7B-044B-4F38-8EF5-F6242FC9D5FE" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="21C67B7B-044B-4F38-8EF5-F6242FC9D5FE" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="21C67B7B-044B-4F38-8EF5-F6242FC9D5FE" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="21C67B7B-044B-4F38-8EF5-F6242FC9D5FE" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="21C67B7B-044B-4F38-8EF5-F6242FC9D5FE" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="21C67B7B-044B-4F38-8EF5-F6242FC9D5FE" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="21C67B7B-044B-4F38-8EF5-F6242FC9D5FE" id="FORM-21C67B7B-044B-4F38-8EF5-F6242FC9D5FE" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-21C67B7B-044B-4F38-8EF5-F6242FC9D5FE">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C</p>
-</div>
-<div class="papername">
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-b:1:4</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-$3258 \div 9$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$3258 \div 9$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= 3258 \div 9 \\\\
-&= \dfrac {3258} {9} \\\\
-&= \dfrac {362 \times 9} {9} \\\\
-&= \dfrac {362 \times \cancel {9}} {\cancel {9}} \\\\
-&= 362
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$362$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= 3258 \div 9 \\\\
-&= \dfrac {3258} {9} \\\\
-&= \dfrac {362 \times 9} {9} \\\\
-&= \dfrac {362 \times \cancel {9}} {\cancel {9}} \\\\
-&= 362
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$362$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C" id="FORM-7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>012B2EE9-6837-4285-9A6B-930DDEE39FAD</p>
-</div>
-<div class="papername">
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-c:1:4</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-$385 \div 7$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$385 \div 7$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= 385 \div 7 \\\\
-&= \dfrac {385} {7} \\\\
-&= \dfrac {55 \times 7} {7} \\\\
-&= \dfrac {55 \times \cancel{7} } {\cancel{7} } \\\\
-&= 55
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$55$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= 385 \div 7 \\\\
-&= \dfrac {385} {7} \\\\
-&= \dfrac {55 \times 7} {7} \\\\
-&= \dfrac {55 \times \cancel{7} } {\cancel{7} } \\\\
-&= 55
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$55$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="012B2EE9-6837-4285-9A6B-930DDEE39FAD" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="012B2EE9-6837-4285-9A6B-930DDEE39FAD" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="012B2EE9-6837-4285-9A6B-930DDEE39FAD" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="012B2EE9-6837-4285-9A6B-930DDEE39FAD" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="012B2EE9-6837-4285-9A6B-930DDEE39FAD" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="012B2EE9-6837-4285-9A6B-930DDEE39FAD" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="012B2EE9-6837-4285-9A6B-930DDEE39FAD" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="012B2EE9-6837-4285-9A6B-930DDEE39FAD" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="012B2EE9-6837-4285-9A6B-930DDEE39FAD" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="012B2EE9-6837-4285-9A6B-930DDEE39FAD" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="012B2EE9-6837-4285-9A6B-930DDEE39FAD" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="012B2EE9-6837-4285-9A6B-930DDEE39FAD" id="FORM-012B2EE9-6837-4285-9A6B-930DDEE39FAD" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-012B2EE9-6837-4285-9A6B-930DDEE39FAD">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>9E2D3610-906A-449B-82A4-3DB6E141D0E4</p>
-</div>
-<div class="papername">
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-d:1:4</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-$602 \div 7$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$602 \div 7$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= 602 \div 7 \\\\
-&= \dfrac {602} {7} \\\\
-&= \dfrac {86 \times 7} {7} \\\\
-&= \dfrac {86 \times \cancel {7} } {\cancel {7} } \\\\
-&= 86
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$86$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= 602 \div 7 \\\\
-&= \dfrac {602} {7} \\\\
-&= \dfrac {86 \times 7} {7} \\\\
-&= \dfrac {86 \times \cancel {7} } {\cancel {7} } \\\\
-&= 86
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$86$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9E2D3610-906A-449B-82A4-3DB6E141D0E4" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9E2D3610-906A-449B-82A4-3DB6E141D0E4" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9E2D3610-906A-449B-82A4-3DB6E141D0E4" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9E2D3610-906A-449B-82A4-3DB6E141D0E4" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9E2D3610-906A-449B-82A4-3DB6E141D0E4" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9E2D3610-906A-449B-82A4-3DB6E141D0E4" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9E2D3610-906A-449B-82A4-3DB6E141D0E4" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9E2D3610-906A-449B-82A4-3DB6E141D0E4" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9E2D3610-906A-449B-82A4-3DB6E141D0E4" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9E2D3610-906A-449B-82A4-3DB6E141D0E4" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="9E2D3610-906A-449B-82A4-3DB6E141D0E4" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9E2D3610-906A-449B-82A4-3DB6E141D0E4" id="FORM-9E2D3610-906A-449B-82A4-3DB6E141D0E4" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-9E2D3610-906A-449B-82A4-3DB6E141D0E4">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>4B064430-A3B1-49A5-B5A7-D36E815440A4</p>
-</div>
-<div class="papername">
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-e:1:3</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-$60.2 \div 7$ 
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$60.2 \div 7$ 
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= 60.2 \div 7 \\\\
-&= \dfrac {60.2} {7} \\\\
-&= 8.6
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$8.6$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= 60.2 \div 7 \\\\
-&= \dfrac {60.2} {7} \\\\
-&= 8.6
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$8.6$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="4B064430-A3B1-49A5-B5A7-D36E815440A4" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="4B064430-A3B1-49A5-B5A7-D36E815440A4" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="4B064430-A3B1-49A5-B5A7-D36E815440A4" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="4B064430-A3B1-49A5-B5A7-D36E815440A4" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="4B064430-A3B1-49A5-B5A7-D36E815440A4" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="4B064430-A3B1-49A5-B5A7-D36E815440A4" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="4B064430-A3B1-49A5-B5A7-D36E815440A4" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="4B064430-A3B1-49A5-B5A7-D36E815440A4" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="4B064430-A3B1-49A5-B5A7-D36E815440A4" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="4B064430-A3B1-49A5-B5A7-D36E815440A4" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="4B064430-A3B1-49A5-B5A7-D36E815440A4" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="4B064430-A3B1-49A5-B5A7-D36E815440A4" id="FORM-4B064430-A3B1-49A5-B5A7-D36E815440A4" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-4B064430-A3B1-49A5-B5A7-D36E815440A4">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>7B44CDC5-44AD-4134-9F9B-4445554B8624</p>
-</div>
-<div class="papername">
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-f:1:3</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-$6.48 \div 6$ 
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$6.48 \div 6$ 
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= \dfrac{6.48}{6} \\\\
-&= 1.08
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$1.08$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= \dfrac{6.48}{6} \\\\
-&= 1.08
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$1.08$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B44CDC5-44AD-4134-9F9B-4445554B8624" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B44CDC5-44AD-4134-9F9B-4445554B8624" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B44CDC5-44AD-4134-9F9B-4445554B8624" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B44CDC5-44AD-4134-9F9B-4445554B8624" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B44CDC5-44AD-4134-9F9B-4445554B8624" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B44CDC5-44AD-4134-9F9B-4445554B8624" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B44CDC5-44AD-4134-9F9B-4445554B8624" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B44CDC5-44AD-4134-9F9B-4445554B8624" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B44CDC5-44AD-4134-9F9B-4445554B8624" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B44CDC5-44AD-4134-9F9B-4445554B8624" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="7B44CDC5-44AD-4134-9F9B-4445554B8624" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B44CDC5-44AD-4134-9F9B-4445554B8624" id="FORM-7B44CDC5-44AD-4134-9F9B-4445554B8624" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-7B44CDC5-44AD-4134-9F9B-4445554B8624">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>D56CB89E-081A-43B7-9F25-BF4B5D96E857</p>
-</div>
-<div class="papername">
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-h:1:4</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-$62.1 \div 9$ 
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$62.1 \div 9$ 
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= \dfrac{62.1}{9} \\\\
-&= 6.9
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$6.9$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= \dfrac{62.1}{9} \\\\
-&= 6.9
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$6.9$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D56CB89E-081A-43B7-9F25-BF4B5D96E857" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D56CB89E-081A-43B7-9F25-BF4B5D96E857" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D56CB89E-081A-43B7-9F25-BF4B5D96E857" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D56CB89E-081A-43B7-9F25-BF4B5D96E857" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D56CB89E-081A-43B7-9F25-BF4B5D96E857" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D56CB89E-081A-43B7-9F25-BF4B5D96E857" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D56CB89E-081A-43B7-9F25-BF4B5D96E857" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D56CB89E-081A-43B7-9F25-BF4B5D96E857" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D56CB89E-081A-43B7-9F25-BF4B5D96E857" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D56CB89E-081A-43B7-9F25-BF4B5D96E857" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="D56CB89E-081A-43B7-9F25-BF4B5D96E857" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D56CB89E-081A-43B7-9F25-BF4B5D96E857" id="FORM-D56CB89E-081A-43B7-9F25-BF4B5D96E857" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-D56CB89E-081A-43B7-9F25-BF4B5D96E857">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>567D9B09-49DB-4FD6-8961-9EFA889F07C8</p>
-</div>
-<div class="papername">
-<p>emanuel-school--11-plus--maths--9999--sample-paper-1:1:4</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-Work out the following divisions
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Work out the following divisions
-</code></pre>
-</div>
-
-
-
-
-<ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
-<li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion">
-<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-$6146$ divided by $7$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$6146$ divided by $7$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= \dfrac{6146}{7} \\\\
-&= \dfrac{878 \times 7}{7} \\\\
-&= \dfrac{878 \times \cancel{7}}{\cancel{7}} \\\\
-&= 878
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$878$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= \dfrac{6146}{7} \\\\
-&= \dfrac{878 \times 7}{7} \\\\
-&= \dfrac{878 \times \cancel{7}}{\cancel{7}} \\\\
-&= 878
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$878$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion">
-<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-$56{,}400$ divided by $12$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$56{,}400$ divided by $12$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= \dfrac{56400}{12} \\\\
-&= \dfrac{4700 \times 4 \times 3}{4 \times 3} \\\\
-&= \dfrac{4700 \times \cancel{4} \times \cancel{3}}{\cancel{4} \times \cancel{3}} \\\\
-&= 4700
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$4700$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= \dfrac{56400}{12} \\\\
-&= \dfrac{4700 \times 4 \times 3}{4 \times 3} \\\\
-&= \dfrac{4700 \times \cancel{4} \times \cancel{3}}{\cancel{4} \times \cancel{3}} \\\\
-&= 4700
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$4700$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="567D9B09-49DB-4FD6-8961-9EFA889F07C8" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="567D9B09-49DB-4FD6-8961-9EFA889F07C8" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="567D9B09-49DB-4FD6-8961-9EFA889F07C8" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="567D9B09-49DB-4FD6-8961-9EFA889F07C8" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="567D9B09-49DB-4FD6-8961-9EFA889F07C8" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="567D9B09-49DB-4FD6-8961-9EFA889F07C8" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="567D9B09-49DB-4FD6-8961-9EFA889F07C8" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="567D9B09-49DB-4FD6-8961-9EFA889F07C8" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="567D9B09-49DB-4FD6-8961-9EFA889F07C8" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="567D9B09-49DB-4FD6-8961-9EFA889F07C8" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="567D9B09-49DB-4FD6-8961-9EFA889F07C8" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="567D9B09-49DB-4FD6-8961-9EFA889F07C8" id="FORM-567D9B09-49DB-4FD6-8961-9EFA889F07C8" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-567D9B09-49DB-4FD6-8961-9EFA889F07C8">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>3094BD4F-8880-44CC-A61D-DD96963CDF4F</p>
-</div>
-<div class="papername">
-<p>epsom-college--11-plus--maths--9999--sample-paper-1:1:4</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-Work out $4336 \div 8$ 
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Work out $4336 \div 8$ 
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= \dfrac{4336}{8} \\\\
-&= \dfrac{542 \times 8}{8} \\\\
-&= \dfrac{542 \times \cancel{8}}{\cancel{8}} \\\\
-&= 542
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$542$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= \dfrac{4336}{8} \\\\
-&= \dfrac{542 \times 8}{8} \\\\
-&= \dfrac{542 \times \cancel{8}}{\cancel{8}} \\\\
-&= 542
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$542$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="3094BD4F-8880-44CC-A61D-DD96963CDF4F" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="3094BD4F-8880-44CC-A61D-DD96963CDF4F" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="3094BD4F-8880-44CC-A61D-DD96963CDF4F" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="3094BD4F-8880-44CC-A61D-DD96963CDF4F" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="3094BD4F-8880-44CC-A61D-DD96963CDF4F" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="3094BD4F-8880-44CC-A61D-DD96963CDF4F" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="3094BD4F-8880-44CC-A61D-DD96963CDF4F" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="3094BD4F-8880-44CC-A61D-DD96963CDF4F" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="3094BD4F-8880-44CC-A61D-DD96963CDF4F" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="3094BD4F-8880-44CC-A61D-DD96963CDF4F" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="3094BD4F-8880-44CC-A61D-DD96963CDF4F" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="3094BD4F-8880-44CC-A61D-DD96963CDF4F" id="FORM-3094BD4F-8880-44CC-A61D-DD96963CDF4F" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-3094BD4F-8880-44CC-A61D-DD96963CDF4F">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>683367F1-48F9-455E-BF09-190330CA1563</p>
-</div>
-<div class="papername">
-<p>forest-school--11-plus--maths--2012--sample-paper-4:1:4</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-Work out $3138 \div 6$.
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Work out $3138 \div 6$.
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= 3138 \div 6 \\\\
-&= \dfrac {3138} {6} \\\\
-&= \dfrac {523 \times 6} {6} \\\\
-&= \dfrac {523 \times \cancel {6}} {\cancel{6}} \\\\
-&= 523
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$523$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= 3138 \div 6 \\\\
-&= \dfrac {3138} {6} \\\\
-&= \dfrac {523 \times 6} {6} \\\\
-&= \dfrac {523 \times \cancel {6}} {\cancel{6}} \\\\
-&= 523
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$523$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="683367F1-48F9-455E-BF09-190330CA1563" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="683367F1-48F9-455E-BF09-190330CA1563" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="683367F1-48F9-455E-BF09-190330CA1563" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="683367F1-48F9-455E-BF09-190330CA1563" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="683367F1-48F9-455E-BF09-190330CA1563" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="683367F1-48F9-455E-BF09-190330CA1563" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="683367F1-48F9-455E-BF09-190330CA1563" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="683367F1-48F9-455E-BF09-190330CA1563" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="683367F1-48F9-455E-BF09-190330CA1563" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="683367F1-48F9-455E-BF09-190330CA1563" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="683367F1-48F9-455E-BF09-190330CA1563" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="683367F1-48F9-455E-BF09-190330CA1563" id="FORM-683367F1-48F9-455E-BF09-190330CA1563" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-683367F1-48F9-455E-BF09-190330CA1563">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>335931D3-F653-4FC2-8C81-984C89CDD28A</p>
-</div>
-<div class="papername">
-<p>forest-school--11-plus--maths--2012--sample-paper-4:1:9</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-Calculate $3.6 \div 0.4$.
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Calculate $3.6 \div 0.4$.
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= 3.6 \div 0.4 \\\\
-&= \dfrac{3.6}{0.4} \\\\
-&= \dfrac{3.6 \times 10}{0.4 \times 10} \\\\
-&= \dfrac{36}{4} \\\\
-&= \dfrac{9 \times 4}{4} \\\\
-&= \dfrac{9 \times \cancel{4}}{\cancel{4}} \\\\
-&= 9
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$9$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= 3.6 \div 0.4 \\\\
-&= \dfrac{3.6}{0.4} \\\\
-&= \dfrac{3.6 \times 10}{0.4 \times 10} \\\\
-&= \dfrac{36}{4} \\\\
-&= \dfrac{9 \times 4}{4} \\\\
-&= \dfrac{9 \times \cancel{4}}{\cancel{4}} \\\\
-&= 9
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$9$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="335931D3-F653-4FC2-8C81-984C89CDD28A" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="335931D3-F653-4FC2-8C81-984C89CDD28A" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="335931D3-F653-4FC2-8C81-984C89CDD28A" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="335931D3-F653-4FC2-8C81-984C89CDD28A" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="335931D3-F653-4FC2-8C81-984C89CDD28A" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="335931D3-F653-4FC2-8C81-984C89CDD28A" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="335931D3-F653-4FC2-8C81-984C89CDD28A" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="335931D3-F653-4FC2-8C81-984C89CDD28A" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="335931D3-F653-4FC2-8C81-984C89CDD28A" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="335931D3-F653-4FC2-8C81-984C89CDD28A" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="335931D3-F653-4FC2-8C81-984C89CDD28A" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="335931D3-F653-4FC2-8C81-984C89CDD28A" id="FORM-335931D3-F653-4FC2-8C81-984C89CDD28A" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-335931D3-F653-4FC2-8C81-984C89CDD28A">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>D86B5CD2-B310-4B3D-BCD1-127D66A71211</p>
-</div>
-<div class="papername">
-<p>forest-school--11-plus--maths--2020--sample-paper-3:1:4</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-Work out $20504 \div 8$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Work out $20504 \div 8$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= \dfrac {20504} {8} \\\\
-&= \dfrac {2563 \times 8} {8} \\\\
-&= \dfrac {2563 \times \cancel {8} } {\cancel {8} } \\\\
-&= 2563
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$2563$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= \dfrac {20504} {8} \\\\
-&= \dfrac {2563 \times 8} {8} \\\\
-&= \dfrac {2563 \times \cancel {8} } {\cancel {8} } \\\\
-&= 2563
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$2563$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D86B5CD2-B310-4B3D-BCD1-127D66A71211" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D86B5CD2-B310-4B3D-BCD1-127D66A71211" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D86B5CD2-B310-4B3D-BCD1-127D66A71211" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D86B5CD2-B310-4B3D-BCD1-127D66A71211" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D86B5CD2-B310-4B3D-BCD1-127D66A71211" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D86B5CD2-B310-4B3D-BCD1-127D66A71211" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D86B5CD2-B310-4B3D-BCD1-127D66A71211" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D86B5CD2-B310-4B3D-BCD1-127D66A71211" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D86B5CD2-B310-4B3D-BCD1-127D66A71211" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D86B5CD2-B310-4B3D-BCD1-127D66A71211" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="D86B5CD2-B310-4B3D-BCD1-127D66A71211" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D86B5CD2-B310-4B3D-BCD1-127D66A71211" id="FORM-D86B5CD2-B310-4B3D-BCD1-127D66A71211" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-D86B5CD2-B310-4B3D-BCD1-127D66A71211">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>70B6482A-053A-4C75-9484-742E48456844</p>
-</div>
-<div class="papername">
-<p>forest-school--11-plus--maths--9999--sample-paper-1:1:4</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-Work out $3647 \div 7$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Work out $3647 \div 7$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= 3647 \div 7 \\\\
-&= \dfrac {3647} {7} \\\\
-&= \dfrac {521 \times 7} {7} \\\\
-&= \dfrac {521 \times \cancel {7} } {\cancel {7} } \\\\
-&= 521
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$521$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= 3647 \div 7 \\\\
-&= \dfrac {3647} {7} \\\\
-&= \dfrac {521 \times 7} {7} \\\\
-&= \dfrac {521 \times \cancel {7} } {\cancel {7} } \\\\
-&= 521
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$521$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70B6482A-053A-4C75-9484-742E48456844" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70B6482A-053A-4C75-9484-742E48456844" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70B6482A-053A-4C75-9484-742E48456844" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70B6482A-053A-4C75-9484-742E48456844" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70B6482A-053A-4C75-9484-742E48456844" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70B6482A-053A-4C75-9484-742E48456844" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70B6482A-053A-4C75-9484-742E48456844" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70B6482A-053A-4C75-9484-742E48456844" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70B6482A-053A-4C75-9484-742E48456844" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70B6482A-053A-4C75-9484-742E48456844" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="70B6482A-053A-4C75-9484-742E48456844" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70B6482A-053A-4C75-9484-742E48456844" id="FORM-70B6482A-053A-4C75-9484-742E48456844" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-70B6482A-053A-4C75-9484-742E48456844">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>094AFB6D-358C-4145-92FF-E6AAAE189284</p>
-</div>
-<div class="papername">
-<p>forest-school--11-plus--maths--9999--sample-paper-2:1:4</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-Work out $234567 \div 9$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Work out $234567 \div 9$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= \dfrac {234567} {9} \\\\
-&= \dfrac {26063 \times 9} {9} \\\\
-&= \dfrac {26063 \times \cancel {9} } {\cancel {9} } \\\\
-&= 26063
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$26063$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= \dfrac {234567} {9} \\\\
-&= \dfrac {26063 \times 9} {9} \\\\
-&= \dfrac {26063 \times \cancel {9} } {\cancel {9} } \\\\
-&= 26063
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$26063$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="094AFB6D-358C-4145-92FF-E6AAAE189284" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="094AFB6D-358C-4145-92FF-E6AAAE189284" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="094AFB6D-358C-4145-92FF-E6AAAE189284" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="094AFB6D-358C-4145-92FF-E6AAAE189284" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="094AFB6D-358C-4145-92FF-E6AAAE189284" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="094AFB6D-358C-4145-92FF-E6AAAE189284" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="094AFB6D-358C-4145-92FF-E6AAAE189284" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="094AFB6D-358C-4145-92FF-E6AAAE189284" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="094AFB6D-358C-4145-92FF-E6AAAE189284" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="094AFB6D-358C-4145-92FF-E6AAAE189284" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="094AFB6D-358C-4145-92FF-E6AAAE189284" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="094AFB6D-358C-4145-92FF-E6AAAE189284" id="FORM-094AFB6D-358C-4145-92FF-E6AAAE189284" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-094AFB6D-358C-4145-92FF-E6AAAE189284">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3</p>
-</div>
-<div class="papername">
-<p>forest-school--11-plus--maths--9999--sample-paper-2:1:17</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-What is $6 \div 0.3?$ 
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">What is $6 \div 0.3?$ 
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= 6 \div 0.3 \\\\
-&= \dfrac {6} {0.3} \\\\
-&= \dfrac {6 \times 10} {0.3 \times 10} \\\\
-&= \dfrac {60} {3} \\\\
-&= \dfrac {3 \times 20} {3} \\\\
-&= \dfrac {\cancel{3} \times 20} {\cancel{3}} \\\\
-&= 20
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$20$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= 6 \div 0.3 \\\\
-&= \dfrac {6} {0.3} \\\\
-&= \dfrac {6 \times 10} {0.3 \times 10} \\\\
-&= \dfrac {60} {3} \\\\
-&= \dfrac {3 \times 20} {3} \\\\
-&= \dfrac {\cancel{3} \times 20} {\cancel{3}} \\\\
-&= 20
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$20$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3" id="FORM-628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>B4449DC1-1575-4507-A704-4819998A11BE</p>
-</div>
-<div class="papername">
-<p>forest-school--11-plus--maths--9999--sample-paper-3:1:4</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-Work out $868 \div 7$.
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Work out $868 \div 7$.
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= 868 \div 7 \\\\
-&= \dfrac {868} {7} \\\\
-&= \dfrac {124 \times 7} {7} \\\\
-&= \dfrac {124 \times \cancel {7}} {\cancel {7}} \\\\
-&= 124
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$124$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= 868 \div 7 \\\\
-&= \dfrac {868} {7} \\\\
-&= \dfrac {124 \times 7} {7} \\\\
-&= \dfrac {124 \times \cancel {7}} {\cancel {7}} \\\\
-&= 124
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$124$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4449DC1-1575-4507-A704-4819998A11BE" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4449DC1-1575-4507-A704-4819998A11BE" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4449DC1-1575-4507-A704-4819998A11BE" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4449DC1-1575-4507-A704-4819998A11BE" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4449DC1-1575-4507-A704-4819998A11BE" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4449DC1-1575-4507-A704-4819998A11BE" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4449DC1-1575-4507-A704-4819998A11BE" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4449DC1-1575-4507-A704-4819998A11BE" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4449DC1-1575-4507-A704-4819998A11BE" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4449DC1-1575-4507-A704-4819998A11BE" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="B4449DC1-1575-4507-A704-4819998A11BE" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4449DC1-1575-4507-A704-4819998A11BE" id="FORM-B4449DC1-1575-4507-A704-4819998A11BE" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-B4449DC1-1575-4507-A704-4819998A11BE">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B</p>
-</div>
-<div class="papername">
-<p>hampton-court-house--11-plus--maths--9999--sample-paper-1:1:4</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-Work out: 
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Work out: 
-</code></pre>
-</div>
-
-
-
-
-<ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
-<li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion">
-<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-$240 \div 4$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$240 \div 4$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= \dfrac{240}{4} \\\\
-&= \dfrac{60 \times 4}{4} \\\\
-&= \dfrac{60 \times \cancel{4}}{\cancel{4}} \\\\
-&= 60
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$60$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= \dfrac{240}{4} \\\\
-&= \dfrac{60 \times 4}{4} \\\\
-&= \dfrac{60 \times \cancel{4}}{\cancel{4}} \\\\
-&= 60
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$60$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion">
-<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-$561351 \div 3$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$561351 \div 3$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= \dfrac{561351}{3} \\\\
-&= \dfrac{187117 \times 3}{3} \\\\
-&= \dfrac{187117 \times \cancel{3}}{\cancel{3}} \\\\
-&= 187117
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$187117$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= \dfrac{561351}{3} \\\\
-&= \dfrac{187117 \times 3}{3} \\\\
-&= \dfrac{187117 \times \cancel{3}}{\cancel{3}} \\\\
-&= 187117
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$187117$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B" id="FORM-BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>8BF6354C-8D75-45C0-8079-9BEDED7947D0</p>
-</div>
-<div class="papername">
-<p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2:1:4</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-
-
-$4716 \div 9$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">
-<emptyline>
-$4716 \div 9$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= 4716 \div 9 \\\\
-&= \dfrac {4716} {9} \\\\
-&= \dfrac {524 \times 9} {9} \\\\
-&= \dfrac {524 \times \cancel {9}} {\cancel {9}} \\\\
-&= 524
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$524$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= 4716 \div 9 \\\\
-&= \dfrac {4716} {9} \\\\
-&= \dfrac {524 \times 9} {9} \\\\
-&= \dfrac {524 \times \cancel {9}} {\cancel {9}} \\\\
-&= 524
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$524$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8BF6354C-8D75-45C0-8079-9BEDED7947D0" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8BF6354C-8D75-45C0-8079-9BEDED7947D0" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8BF6354C-8D75-45C0-8079-9BEDED7947D0" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8BF6354C-8D75-45C0-8079-9BEDED7947D0" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8BF6354C-8D75-45C0-8079-9BEDED7947D0" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8BF6354C-8D75-45C0-8079-9BEDED7947D0" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8BF6354C-8D75-45C0-8079-9BEDED7947D0" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8BF6354C-8D75-45C0-8079-9BEDED7947D0" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8BF6354C-8D75-45C0-8079-9BEDED7947D0" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8BF6354C-8D75-45C0-8079-9BEDED7947D0" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="8BF6354C-8D75-45C0-8079-9BEDED7947D0" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8BF6354C-8D75-45C0-8079-9BEDED7947D0" id="FORM-8BF6354C-8D75-45C0-8079-9BEDED7947D0" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-8BF6354C-8D75-45C0-8079-9BEDED7947D0">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>30C3C512-7162-4A6B-B685-EDF3C0ACEFDD</p>
-</div>
-<div class="papername">
-<p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2:1:5</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-$2492 \div 28$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$2492 \div 28$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= \dfrac{2492}{28} \\\\
-&= \dfrac{89 \times 7 \times 4}{7 \times 4} \\\\
-&= \dfrac{89 \times \cancel{7} \times \cancel{4}}{\cancel{7} \times \cancel{4}} \\\\
-&= 89
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$89$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= \dfrac{2492}{28} \\\\
-&= \dfrac{89 \times 7 \times 4}{7 \times 4} \\\\
-&= \dfrac{89 \times \cancel{7} \times \cancel{4}}{\cancel{7} \times \cancel{4}} \\\\
-&= 89
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$89$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="30C3C512-7162-4A6B-B685-EDF3C0ACEFDD" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="30C3C512-7162-4A6B-B685-EDF3C0ACEFDD" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="30C3C512-7162-4A6B-B685-EDF3C0ACEFDD" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="30C3C512-7162-4A6B-B685-EDF3C0ACEFDD" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="30C3C512-7162-4A6B-B685-EDF3C0ACEFDD" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="30C3C512-7162-4A6B-B685-EDF3C0ACEFDD" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="30C3C512-7162-4A6B-B685-EDF3C0ACEFDD" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="30C3C512-7162-4A6B-B685-EDF3C0ACEFDD" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="30C3C512-7162-4A6B-B685-EDF3C0ACEFDD" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="30C3C512-7162-4A6B-B685-EDF3C0ACEFDD" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="30C3C512-7162-4A6B-B685-EDF3C0ACEFDD" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="30C3C512-7162-4A6B-B685-EDF3C0ACEFDD" id="FORM-30C3C512-7162-4A6B-B685-EDF3C0ACEFDD" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-30C3C512-7162-4A6B-B685-EDF3C0ACEFDD">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>D65F0DDB-5E4F-4860-AE6C-744DFDB68439</p>
-</div>
-<div class="papername">
-<p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1:1:4</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-
-
-$3465 \div 9$  
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">
-<emptyline>
-$3465 \div 9$  
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= \dfrac{3465}{9} \\\\
-&= \dfrac{385 \times 9}{9} \\\\
-&= \dfrac{385 \times \cancel{9}}{\cancel{9}} \\\\
-&= 385
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$385$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= \dfrac{3465}{9} \\\\
-&= \dfrac{385 \times 9}{9} \\\\
-&= \dfrac{385 \times \cancel{9}}{\cancel{9}} \\\\
-&= 385
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$385$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D65F0DDB-5E4F-4860-AE6C-744DFDB68439" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D65F0DDB-5E4F-4860-AE6C-744DFDB68439" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D65F0DDB-5E4F-4860-AE6C-744DFDB68439" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D65F0DDB-5E4F-4860-AE6C-744DFDB68439" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D65F0DDB-5E4F-4860-AE6C-744DFDB68439" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D65F0DDB-5E4F-4860-AE6C-744DFDB68439" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D65F0DDB-5E4F-4860-AE6C-744DFDB68439" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D65F0DDB-5E4F-4860-AE6C-744DFDB68439" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D65F0DDB-5E4F-4860-AE6C-744DFDB68439" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D65F0DDB-5E4F-4860-AE6C-744DFDB68439" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="D65F0DDB-5E4F-4860-AE6C-744DFDB68439" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D65F0DDB-5E4F-4860-AE6C-744DFDB68439" id="FORM-D65F0DDB-5E4F-4860-AE6C-744DFDB68439" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-D65F0DDB-5E4F-4860-AE6C-744DFDB68439">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>063D11DB-B660-4D14-8DF6-9A3863B3EF2E</p>
-</div>
-<div class="papername">
-<p>john-lyon-school--11-plus--maths--9999--sample-paper-1:1:5</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-Calculate $2874 \div 6$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Calculate $2874 \div 6$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= \dfrac{2874}{6} \\\\
-&= \dfrac{479 \times 6}{6} \\\\
-&= \dfrac{479 \times \cancel{6}}{\cancel{6}} \\\\
-&= 479
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$479$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= \dfrac{2874}{6} \\\\
-&= \dfrac{479 \times 6}{6} \\\\
-&= \dfrac{479 \times \cancel{6}}{\cancel{6}} \\\\
-&= 479
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$479$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="063D11DB-B660-4D14-8DF6-9A3863B3EF2E" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="063D11DB-B660-4D14-8DF6-9A3863B3EF2E" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="063D11DB-B660-4D14-8DF6-9A3863B3EF2E" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="063D11DB-B660-4D14-8DF6-9A3863B3EF2E" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="063D11DB-B660-4D14-8DF6-9A3863B3EF2E" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="063D11DB-B660-4D14-8DF6-9A3863B3EF2E" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="063D11DB-B660-4D14-8DF6-9A3863B3EF2E" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="063D11DB-B660-4D14-8DF6-9A3863B3EF2E" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="063D11DB-B660-4D14-8DF6-9A3863B3EF2E" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="063D11DB-B660-4D14-8DF6-9A3863B3EF2E" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="063D11DB-B660-4D14-8DF6-9A3863B3EF2E" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="063D11DB-B660-4D14-8DF6-9A3863B3EF2E" id="FORM-063D11DB-B660-4D14-8DF6-9A3863B3EF2E" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-063D11DB-B660-4D14-8DF6-9A3863B3EF2E">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>B9F2AACC-07E6-416A-8019-32D0486A7404</p>
-</div>
-<div class="papername">
-<p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1:1:3</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-Calculate $2943 \div 27$. Show your working. 
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Calculate $2943 \div 27$. Show your working. 
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= \dfrac{2943}{27} \\\\
-&= \dfrac{109 \times 3 \times 9}{3 \times 9} \\\\
-&= \dfrac{109 \times \cancel{3} \times \cancel{9}}{\cancel{3} \times \cancel{9}} \\\\
-&= 109
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$109$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= \dfrac{2943}{27} \\\\
-&= \dfrac{109 \times 3 \times 9}{3 \times 9} \\\\
-&= \dfrac{109 \times \cancel{3} \times \cancel{9}}{\cancel{3} \times \cancel{9}} \\\\
-&= 109
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$109$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B9F2AACC-07E6-416A-8019-32D0486A7404" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B9F2AACC-07E6-416A-8019-32D0486A7404" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B9F2AACC-07E6-416A-8019-32D0486A7404" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B9F2AACC-07E6-416A-8019-32D0486A7404" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B9F2AACC-07E6-416A-8019-32D0486A7404" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B9F2AACC-07E6-416A-8019-32D0486A7404" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B9F2AACC-07E6-416A-8019-32D0486A7404" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B9F2AACC-07E6-416A-8019-32D0486A7404" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B9F2AACC-07E6-416A-8019-32D0486A7404" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B9F2AACC-07E6-416A-8019-32D0486A7404" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="B9F2AACC-07E6-416A-8019-32D0486A7404" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B9F2AACC-07E6-416A-8019-32D0486A7404" id="FORM-B9F2AACC-07E6-416A-8019-32D0486A7404" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-B9F2AACC-07E6-416A-8019-32D0486A7404">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>B6829B80-2FC8-4D72-B971-CA20FC89C45F</p>
-</div>
-<div class="papername">
-<p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1:1:7</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-Work out $495 \div 9$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Work out $495 \div 9$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= \dfrac {495} {9} \\\\
-&= \dfrac {55 \times 9} {9} \\\\
-&= \dfrac {55 \times \cancel {9}} {\cancel {9}} \\\\
-&= 55
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$55$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= \dfrac {495} {9} \\\\
-&= \dfrac {55 \times 9} {9} \\\\
-&= \dfrac {55 \times \cancel {9}} {\cancel {9}} \\\\
-&= 55
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$55$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B6829B80-2FC8-4D72-B971-CA20FC89C45F" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B6829B80-2FC8-4D72-B971-CA20FC89C45F" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B6829B80-2FC8-4D72-B971-CA20FC89C45F" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B6829B80-2FC8-4D72-B971-CA20FC89C45F" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B6829B80-2FC8-4D72-B971-CA20FC89C45F" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B6829B80-2FC8-4D72-B971-CA20FC89C45F" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B6829B80-2FC8-4D72-B971-CA20FC89C45F" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B6829B80-2FC8-4D72-B971-CA20FC89C45F" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B6829B80-2FC8-4D72-B971-CA20FC89C45F" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B6829B80-2FC8-4D72-B971-CA20FC89C45F" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="B6829B80-2FC8-4D72-B971-CA20FC89C45F" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B6829B80-2FC8-4D72-B971-CA20FC89C45F" id="FORM-B6829B80-2FC8-4D72-B971-CA20FC89C45F" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-B6829B80-2FC8-4D72-B971-CA20FC89C45F">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>D58A1CA0-643B-4DB8-88B1-E5984C4307A8</p>
-</div>
-<div class="papername">
-<p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1:1:8</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-Work out $689 \div 13$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Work out $689 \div 13$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= \dfrac {689} {13} \\\\
-&= \dfrac {53 \times 13} {13} \\\\
-&= \dfrac {53 \times \cancel{13}} {\cancel{13}} \\\\
-&= 53
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$53$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= \dfrac {689} {13} \\\\
-&= \dfrac {53 \times 13} {13} \\\\
-&= \dfrac {53 \times \cancel{13}} {\cancel{13}} \\\\
-&= 53
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$53$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D58A1CA0-643B-4DB8-88B1-E5984C4307A8" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D58A1CA0-643B-4DB8-88B1-E5984C4307A8" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D58A1CA0-643B-4DB8-88B1-E5984C4307A8" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D58A1CA0-643B-4DB8-88B1-E5984C4307A8" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D58A1CA0-643B-4DB8-88B1-E5984C4307A8" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D58A1CA0-643B-4DB8-88B1-E5984C4307A8" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D58A1CA0-643B-4DB8-88B1-E5984C4307A8" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D58A1CA0-643B-4DB8-88B1-E5984C4307A8" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D58A1CA0-643B-4DB8-88B1-E5984C4307A8" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D58A1CA0-643B-4DB8-88B1-E5984C4307A8" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="D58A1CA0-643B-4DB8-88B1-E5984C4307A8" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D58A1CA0-643B-4DB8-88B1-E5984C4307A8" id="FORM-D58A1CA0-643B-4DB8-88B1-E5984C4307A8" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-D58A1CA0-643B-4DB8-88B1-E5984C4307A8">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>66F011FD-DFE1-4337-8556-F1E6A13528AA</p>
-</div>
-<div class="papername">
-<p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1:1:32</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-$800 \div \ldots = 20$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$800 \div \ldots = 20$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-Let the missing number $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-800 \div a               &= 20 \\\\
-\dfrac {800} {a}         &= 20 \\\\
-a                        &= \dfrac {800} {20} \\\\
-a                        &= \dfrac {40 \times 20} {20} \\\\
-a                        &= \dfrac {40 \times \cancel {20}} {\cancel{20}} \\\\
-a                        &= 40
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$40$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Let the missing number $= a$
-<emptyline>
-As per the question,
-<emptyline>
-$
-\begin{aligned}
-800 \div a               &= 20 \\\\
-\dfrac {800} {a}         &= 20 \\\\
-a                        &= \dfrac {800} {20} \\\\
-a                        &= \dfrac {40 \times 20} {20} \\\\
-a                        &= \dfrac {40 \times \cancel {20}} {\cancel{20}} \\\\
-a                        &= 40
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$40$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="66F011FD-DFE1-4337-8556-F1E6A13528AA" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="66F011FD-DFE1-4337-8556-F1E6A13528AA" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="66F011FD-DFE1-4337-8556-F1E6A13528AA" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="66F011FD-DFE1-4337-8556-F1E6A13528AA" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="66F011FD-DFE1-4337-8556-F1E6A13528AA" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="66F011FD-DFE1-4337-8556-F1E6A13528AA" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="66F011FD-DFE1-4337-8556-F1E6A13528AA" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="66F011FD-DFE1-4337-8556-F1E6A13528AA" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="66F011FD-DFE1-4337-8556-F1E6A13528AA" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="66F011FD-DFE1-4337-8556-F1E6A13528AA" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="66F011FD-DFE1-4337-8556-F1E6A13528AA" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="66F011FD-DFE1-4337-8556-F1E6A13528AA" id="FORM-66F011FD-DFE1-4337-8556-F1E6A13528AA" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-66F011FD-DFE1-4337-8556-F1E6A13528AA">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>61429349-2C45-4897-BF28-8035D8AF2916</p>
-</div>
-<div class="papername">
-<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:1:5</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-What is $423\div9 ?$
-
-- $43$
-- $47$
-- $35$
-- $57$
-- $37$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">What is $423\div9 ?$
-<emptyline>
-- $43$
-- $47$
-- $35$
-- $57$
-- $37$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= 423 \div 9  \\\\
-&= \dfrac {423} {9} \\\\
-&= \dfrac {47 \times 9} {9} \\\\
-&= \dfrac {47 \times \cancel{9}} {\cancel {9}} \\\\
-&= 47
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="option" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Option**
-
-<p>B</p>
-</div>
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$47$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= 423 \div 9  \\\\
-&= \dfrac {423} {9} \\\\
-&= \dfrac {47 \times 9} {9} \\\\
-&= \dfrac {47 \times \cancel{9}} {\cancel {9}} \\\\
-&= 47
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">B</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$47$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="61429349-2C45-4897-BF28-8035D8AF2916" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="61429349-2C45-4897-BF28-8035D8AF2916" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="61429349-2C45-4897-BF28-8035D8AF2916" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="61429349-2C45-4897-BF28-8035D8AF2916" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="61429349-2C45-4897-BF28-8035D8AF2916" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="61429349-2C45-4897-BF28-8035D8AF2916" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="61429349-2C45-4897-BF28-8035D8AF2916" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="61429349-2C45-4897-BF28-8035D8AF2916" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="61429349-2C45-4897-BF28-8035D8AF2916" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="61429349-2C45-4897-BF28-8035D8AF2916" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="61429349-2C45-4897-BF28-8035D8AF2916" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="61429349-2C45-4897-BF28-8035D8AF2916" id="FORM-61429349-2C45-4897-BF28-8035D8AF2916" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-61429349-2C45-4897-BF28-8035D8AF2916">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>013A4F20-B9F1-456D-B4CF-9269AD495B40</p>
-</div>
-<div class="papername">
-<p>latymer-upper-school--11-plus--maths--2020--sample-paper-1:1:4</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-Jenny divides $344$ by $9$. What remainder should she get? 
-
-A: $6$ 
-
-B: $5$ 
-
-C: $4$ 
-
-D: $3$ 
-
-E: $2$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Jenny divides $344$ by $9$. What remainder should she get? 
-<emptyline>
-A: $6$ 
-<emptyline>
-B: $5$ 
-<emptyline>
-C: $4$ 
-<emptyline>
-D: $3$ 
-<emptyline>
-E: $2$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= \dfrac {344} {9} \\\\
-&= 38 \text { remainder } 2
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="option" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Option**
-
-<p>E</p>
-</div>
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$2$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= \dfrac {344} {9} \\\\
-&= 38 \text { remainder } 2
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">E</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$2$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="013A4F20-B9F1-456D-B4CF-9269AD495B40" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="013A4F20-B9F1-456D-B4CF-9269AD495B40" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="013A4F20-B9F1-456D-B4CF-9269AD495B40" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="013A4F20-B9F1-456D-B4CF-9269AD495B40" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="013A4F20-B9F1-456D-B4CF-9269AD495B40" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="013A4F20-B9F1-456D-B4CF-9269AD495B40" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="013A4F20-B9F1-456D-B4CF-9269AD495B40" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="013A4F20-B9F1-456D-B4CF-9269AD495B40" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="013A4F20-B9F1-456D-B4CF-9269AD495B40" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="013A4F20-B9F1-456D-B4CF-9269AD495B40" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="013A4F20-B9F1-456D-B4CF-9269AD495B40" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="013A4F20-B9F1-456D-B4CF-9269AD495B40" id="FORM-013A4F20-B9F1-456D-B4CF-9269AD495B40" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-013A4F20-B9F1-456D-B4CF-9269AD495B40">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>70382E63-64F3-46A0-A27B-B2C30F526106</p>
-</div>
-<div class="papername">
-<p>latymer-upper-school--11-plus--maths--2020--sample-paper-1:1:5</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-What is $912 \div 16?$ 
-
-- $58$ 
-- $57$ 
-- $56$ 
-- $54$ 
-- $52$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">What is $912 \div 16?$ 
-<emptyline>
-- $58$ 
-- $57$ 
-- $56$ 
-- $54$ 
-- $52$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= 912 \div 16 \\\\
-&= \dfrac {912} {16} \\\\
-&= \dfrac {57 \times 4 \times 4} {4 \times 4} \\\\
-&= \dfrac {57 \times \cancel{4} \times \cancel{4}} {\cancel {4} \times \cancel{4}} \\\\
-&= 57
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="option" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Option**
-
-<p>B</p>
-</div>
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$57$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= 912 \div 16 \\\\
-&= \dfrac {912} {16} \\\\
-&= \dfrac {57 \times 4 \times 4} {4 \times 4} \\\\
-&= \dfrac {57 \times \cancel{4} \times \cancel{4}} {\cancel {4} \times \cancel{4}} \\\\
-&= 57
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">B</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$57$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70382E63-64F3-46A0-A27B-B2C30F526106" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70382E63-64F3-46A0-A27B-B2C30F526106" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70382E63-64F3-46A0-A27B-B2C30F526106" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70382E63-64F3-46A0-A27B-B2C30F526106" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70382E63-64F3-46A0-A27B-B2C30F526106" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70382E63-64F3-46A0-A27B-B2C30F526106" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70382E63-64F3-46A0-A27B-B2C30F526106" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70382E63-64F3-46A0-A27B-B2C30F526106" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70382E63-64F3-46A0-A27B-B2C30F526106" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70382E63-64F3-46A0-A27B-B2C30F526106" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="70382E63-64F3-46A0-A27B-B2C30F526106" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70382E63-64F3-46A0-A27B-B2C30F526106" id="FORM-70382E63-64F3-46A0-A27B-B2C30F526106" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-70382E63-64F3-46A0-A27B-B2C30F526106">Initial</p>
-</div>
-</div>
-</li>
 <li class="questionContainer">
 <div class="question_envelope rag_ng1 rag_prns question">
 <div class="uuid">
@@ -9218,13 +22,21 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
+</li>
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tremainder
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -9242,13 +54,13 @@ What remainder do you get when you divide $283$ by $9?$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What remainder do you get when you divide $283$ by $9?$
-<emptyline>
-- $4$ 
-- $5$ 
-- $6$ 
-- $7$ 
-- $8$
+<pre class="language-latex"><code class="language-latex">What remainder do you get when you divide &#36;283&#36; by &#36;9?&#36;
+
+- &#36;4&#36; 
+- &#36;5&#36; 
+- &#36;6&#36; 
+- &#36;7&#36; 
+- &#36;8&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -9272,12 +84,31 @@ What remainder do you get when you divide $283$ by $9?$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/latymer-upper-school/2020/sample-paper-2/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 283 by 9" title="papers/latymer-upper-school/2020/sample-paper-2/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= \dfrac {283} {9} \\\\
 &= 31 \text{ remainder } 4
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -9314,12 +145,22 @@ $4$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="283" divisor="9" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= \dfrac {283} {9} \\\\
 &= 31 \text{ remainder } 4
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -9340,7 +181,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$4$
+<pre class="language-latex"><code class="language-latex">&#36;4&#36;
 </code></pre>
 </div>
 </div>
@@ -9411,13 +252,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -9429,7 +273,7 @@ $\dfrac{34024}{8}$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$\dfrac{34024}{8}$
+<pre class="language-latex"><code class="language-latex">&#36;\dfrac{34024}{8}&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -9453,6 +297,22 @@ $\dfrac{34024}{8}$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/north-london-collegiate-school/sample/sample-paper-1/answers/generated/long-division/s01-q05-w01-ld00.svg" alt="Long division of 34024 by 8" title="papers/north-london-collegiate-school/sample/sample-paper-1/answers/generated/long-division/s01-q05-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 & = \dfrac {34024}{8}                                  \\\\
@@ -9461,6 +321,9 @@ $
 & = 4253                                               
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -9491,14 +354,24 @@ $4253$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="34024" divisor="8" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 & = \dfrac {34024}{8}                                  \\\\
 & = \dfrac {4253 \times 8}{8}                         \\\\
 & = \dfrac {4253 \times \cancel{8}}{\cancel{8}}         \\\\
 & = 4253                                               
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -9519,7 +392,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$4253$
+<pre class="language-latex"><code class="language-latex">&#36;4253&#36;
 </code></pre>
 </div>
 </div>
@@ -9590,13 +463,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -9608,7 +484,7 @@ Work out $336 \div  6$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $336 \div  6$ 
+<pre class="language-latex"><code class="language-latex">Work out &#36;336 \div  6&#36; 
 </code></pre>
 </div>
 <div class="workings">
@@ -9632,6 +508,22 @@ Work out $336 \div  6$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/oundle-school/2008/sample-paper-1/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 336 by 6" title="papers/oundle-school/2008/sample-paper-1/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &=  336 \div  6 \\\\
@@ -9641,6 +533,9 @@ $
 &=  56
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -9671,7 +566,15 @@ $56$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="336" divisor="6" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &=  336 \div  6 \\\\
 &=  \dfrac{336}{6} \\\\
@@ -9679,7 +582,9 @@ $56$
 &=  \dfrac{56 \times \cancel {6}}{\cancel {6}} \\\\
 &=  56
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -9700,7 +605,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$56$
+<pre class="language-latex"><code class="language-latex">&#36;56&#36;
 </code></pre>
 </div>
 </div>
@@ -9771,13 +676,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -9789,7 +697,7 @@ $2010 \div 6 =$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$2010 \div 6 =$ 
+<pre class="language-latex"><code class="language-latex">&#36;2010 \div 6 =&#36; 
 </code></pre>
 </div>
 <div class="workings">
@@ -9813,6 +721,22 @@ $2010 \div 6 =$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/reigate-grammar-school/2010/sample-paper-1/answers/generated/long-division/s01-q05-w01-ld00.svg" alt="Long division of 2010 by 6" title="papers/reigate-grammar-school/2010/sample-paper-1/answers/generated/long-division/s01-q05-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 2010 \div 6 \\\\
@@ -9822,6 +746,9 @@ $
 &= 335
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -9852,7 +779,15 @@ $335$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="2010" divisor="6" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 2010 \div 6 \\\\
 &= \dfrac {2010} {6} \\\\
@@ -9860,7 +795,9 @@ $335$
 &= \dfrac {335 \times \cancel{6}} {\cancel {6}} \\\\
 &= 335
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -9881,7 +818,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$335$
+<pre class="language-latex"><code class="language-latex">&#36;335&#36;
 </code></pre>
 </div>
 </div>
@@ -9952,13 +889,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -9975,9 +915,9 @@ Use this answer to find
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
 <pre class="language-latex"><code class="language-latex">Given that
-<emptyline>
-$567 \div 27 = 21$
-<emptyline>
+
+&#36;567 \div 27 = 21&#36;
+
 Use this answer to find
 </code></pre>
 </div>
@@ -10061,6 +1001,23 @@ Use this answer to find
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>43E49811-4CB4-4A10-81FE-D4F1B174090C</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -10072,7 +1029,7 @@ $567 \div 21 =$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$567 \div 21 =$
+<pre class="language-latex"><code class="language-latex">&#36;567 \div 21 =&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -10127,7 +1084,7 @@ $27$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$27$
+<pre class="language-latex"><code class="language-latex">&#36;27&#36;
 </code></pre>
 </div>
 </div>
@@ -10148,7 +1105,7 @@ $27$
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$27$
+<pre class="language-latex"><code class="language-latex">&#36;27&#36;
 </code></pre>
 </div>
 </div>
@@ -10157,6 +1114,23 @@ $27$
 </li>
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>EBEE405A-9C26-4C00-A405-F7AFC46DBCE4</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -10168,7 +1142,7 @@ $56.7 \div 2.7 =$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$56.7 \div 2.7 =$
+<pre class="language-latex"><code class="language-latex">&#36;56.7 \div 2.7 =&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -10230,14 +1204,14 @@ $21$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= \dfrac {56.7} {2.7} \\\\
 &= \dfrac {56.7 \times 10} {2.7 \times 10} \\\\
 &= \dfrac {567} {27} \\\\
 &= 21
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -10258,7 +1232,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$21$
+<pre class="language-latex"><code class="language-latex">&#36;21&#36;
 </code></pre>
 </div>
 </div>
@@ -10332,13 +1306,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -10352,8 +1329,8 @@ Use your answer to write down the answers to
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What is $4000 \div 40$
-<emptyline>
+<pre class="language-latex"><code class="language-latex">What is &#36;4000 \div 40&#36;
+
 Use your answer to write down the answers to
 </code></pre>
 </div>
@@ -10417,7 +1394,7 @@ $100$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 4000 \div 40 \\\\
 &= \dfrac {4000} {40} \\\\
@@ -10425,7 +1402,7 @@ $100$
 &= \dfrac {\cancel{4} \times 100 \times \cancel{10}} {\cancel{4} \times \cancel{10}} \\\\
 &= 100
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -10446,13 +1423,30 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$100$
+<pre class="language-latex"><code class="language-latex">&#36;100&#36;
 </code></pre>
 </div>
 </div>
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>ADDAF287-CDB7-4A12-93BD-66056F4A9D78</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -10464,7 +1458,7 @@ $4000 \div 20$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$4000 \div 20$
+<pre class="language-latex"><code class="language-latex">&#36;4000 \div 20&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -10528,7 +1522,7 @@ $200$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 4000 \div 20 \\\\
 &= \dfrac {4000} {20} \\\\
@@ -10537,7 +1531,7 @@ $200$
 &= 100 \times 2 \\\\
 &= 200
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -10558,7 +1552,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$200$
+<pre class="language-latex"><code class="language-latex">&#36;200&#36;
 </code></pre>
 </div>
 </div>
@@ -10567,6 +1561,23 @@ $
 </li>
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>8CC97A4B-B648-4F42-9976-7D2C4DB8E99F</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -10578,7 +1589,7 @@ $4000 \div 80$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$4000 \div 80$
+<pre class="language-latex"><code class="language-latex">&#36;4000 \div 80&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -10643,7 +1654,7 @@ $50$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 4000 \div 80 \\\\
 &= \dfrac {4000} {80} \\\\
@@ -10653,7 +1664,7 @@ $50$
 &= \dfrac {50 \times \cancel{2}} {\cancel{2}} \\\\
 &= 50
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -10674,7 +1685,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$50$
+<pre class="language-latex"><code class="language-latex">&#36;50&#36;
 </code></pre>
 </div>
 </div>
@@ -10748,13 +1759,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -10766,7 +1780,7 @@ Given that $35 \times 17 = 595$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Given that $35 \times 17 = 595$
+<pre class="language-latex"><code class="language-latex">Given that &#36;35 \times 17 = 595&#36;
 </code></pre>
 </div>
 
@@ -10776,6 +1790,23 @@ Given that $35 \times 17 = 595$
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>1FD227F2-963E-4BE8-A0B2-4883A3C99AEB</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -10787,7 +1818,7 @@ What is $595 \div 17?$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What is $595 \div 17?$
+<pre class="language-latex"><code class="language-latex">What is &#36;595 \div 17?&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -10847,12 +1878,12 @@ $35$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 595 \div 17 \\\\
 &= 35
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -10873,7 +1904,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$35$
+<pre class="language-latex"><code class="language-latex">&#36;35&#36;
 </code></pre>
 </div>
 </div>
@@ -10882,6 +1913,23 @@ $
 </li>
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>FFA9DA0E-E2B4-43FE-B20F-557AFE73D754</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -10893,7 +1941,7 @@ What is $59500 \div 17?$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What is $59500 \div 17?$
+<pre class="language-latex"><code class="language-latex">What is &#36;59500 \div 17?&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -10956,7 +2004,7 @@ $3500$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 59500 \div 17 \\\\
 &= \dfrac {59500} {17} \\\\
@@ -10964,7 +2012,7 @@ $3500$
 &= 35 \times 100 \\\\
 &= 3500
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -10985,7 +2033,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$3500$
+<pre class="language-latex"><code class="language-latex">&#36;3500&#36;
 </code></pre>
 </div>
 </div>
@@ -10994,6 +2042,23 @@ $
 </li>
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>26150CFC-3EEE-4B46-BE39-051968A07A2C</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -11005,7 +2070,7 @@ What is $(595 + 595 + 595) \div 17?$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What is $(595 + 595 + 595) \div 17?$
+<pre class="language-latex"><code class="language-latex">What is &#36;(595 + 595 + 595) \div 17?&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -11068,7 +2133,7 @@ $105$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= (595 + 595 + 595) \div 17 \\\\
 &= \dfrac {595 + 595 + 595} {17} \\\\
@@ -11076,7 +2141,7 @@ $105$
 &= 35 \times 3 \\\\
 &= 105
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -11097,7 +2162,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$105$
+<pre class="language-latex"><code class="language-latex">&#36;105&#36;
 </code></pre>
 </div>
 </div>
@@ -11171,13 +2236,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -11199,6 +2267,23 @@ tdivision
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>658E24C7-61FA-4BB1-8DF3-D084969C3E1A</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -11210,7 +2295,7 @@ What is $8000 \div 100?$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What is $8000 \div 100?$
+<pre class="language-latex"><code class="language-latex">What is &#36;8000 \div 100?&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -11272,14 +2357,14 @@ $80$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 8000 \div 100 \\\\
 &= \dfrac {8000} {100} \\\\
 &= \dfrac {80 \cancel{0} \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
 &= 80
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -11300,7 +2385,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$80$
+<pre class="language-latex"><code class="language-latex">&#36;80&#36;
 </code></pre>
 </div>
 </div>
@@ -11309,6 +2394,23 @@ $
 </li>
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>A47762BA-103A-4C2A-A535-B36E72B99F7A</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -11320,7 +2422,7 @@ What is $8000 \div 400?$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What is $8000 \div 400?$
+<pre class="language-latex"><code class="language-latex">What is &#36;8000 \div 400?&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -11385,7 +2487,7 @@ $20$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 8000 \div 400 \\\\
 &= \dfrac {8000} {400} \\\\
@@ -11395,7 +2497,7 @@ $20$
 &= \dfrac {20 \times \cancel{4}} {\cancel{4}} \\\\
 &= 20
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -11416,7 +2518,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$20$
+<pre class="language-latex"><code class="language-latex">&#36;20&#36;
 </code></pre>
 </div>
 </div>
@@ -11425,6 +2527,23 @@ $
 </li>
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>E191D461-1318-4D3F-B4FD-D5740D1ED9C3</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -11436,7 +2555,7 @@ What is $8000 \div 50?$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What is $8000 \div 50?$
+<pre class="language-latex"><code class="language-latex">What is &#36;8000 \div 50?&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -11500,7 +2619,7 @@ $160$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 8000 \div 50 \\\\
 &= \dfrac {8000} {50} \\\\
@@ -11509,7 +2628,7 @@ $160$
 &= 80 \times 2 \\\\
 &= 160
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -11530,7 +2649,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$160$
+<pre class="language-latex"><code class="language-latex">&#36;160&#36;
 </code></pre>
 </div>
 </div>
@@ -11604,13 +2723,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -11625,8 +2747,8 @@ $74 \times 39 = 2886$
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
 <pre class="language-latex"><code class="language-latex">Given that
-<emptyline>
-$74 \times 39 = 2886$
+
+&#36;74 \times 39 = 2886&#36;
 </code></pre>
 </div>
 
@@ -11636,6 +2758,23 @@ $74 \times 39 = 2886$
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>81CFA312-6097-4658-B613-86A94FDAF97B</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -11647,7 +2786,7 @@ What is $2886 \div 74?$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What is $2886 \div 74?$
+<pre class="language-latex"><code class="language-latex">What is &#36;2886 \div 74?&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -11707,12 +2846,12 @@ $39$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 2886 \div 74 \\\\
 &= 39
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -11733,7 +2872,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$39$
+<pre class="language-latex"><code class="language-latex">&#36;39&#36;
 </code></pre>
 </div>
 </div>
@@ -11742,6 +2881,23 @@ $
 </li>
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>60FC99FE-E072-4C75-9DD5-B9E8E8CBFC49</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -11753,7 +2909,7 @@ What is $288.6 \div 74?$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What is $288.6 \div 74?$
+<pre class="language-latex"><code class="language-latex">What is &#36;288.6 \div 74?&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -11817,7 +2973,7 @@ $3.9$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 288.6 \div 74 \\\\
 &= \dfrac {288.6} {74} \\\\
@@ -11826,7 +2982,7 @@ $3.9$
 &= \dfrac {39} {10} \\\\
 &= 3.9
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -11847,7 +3003,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$3.9$
+<pre class="language-latex"><code class="language-latex">&#36;3.9&#36;
 </code></pre>
 </div>
 </div>
@@ -11856,6 +3012,23 @@ $
 </li>
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>824512F1-3434-4D45-B820-0FFD44A8DAEE</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -11867,7 +3040,7 @@ What is $(28862886) \div 74?$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What is $(28862886) \div 74?$
+<pre class="language-latex"><code class="language-latex">What is &#36;(28862886) \div 74?&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -11935,7 +3108,7 @@ $390039$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= (28862886) \div 74 \\\\
 &= \dfrac {28862886} {74} \\\\
@@ -11948,7 +3121,7 @@ $390039$
 &= 390000 + 39 \\\\
 &= 390039
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -11969,7 +3142,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$390039$
+<pre class="language-latex"><code class="language-latex">&#36;390039&#36;
 </code></pre>
 </div>
 </div>
@@ -12043,13 +3216,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -12071,6 +3247,23 @@ tdivision
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>03253F53-C24D-4E57-AA7D-1ABD4684888A</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -12082,7 +3275,7 @@ What is $6000 \div 100?$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What is $6000 \div 100?$
+<pre class="language-latex"><code class="language-latex">What is &#36;6000 \div 100?&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -12144,14 +3337,14 @@ $60$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 6000 \div 100 \\\\
 &= \dfrac {6000} {100} \\\\
 &= \dfrac {60  \cancel{0} \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
 &= 60
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -12172,7 +3365,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$60$
+<pre class="language-latex"><code class="language-latex">&#36;60&#36;
 </code></pre>
 </div>
 </div>
@@ -12181,6 +3374,23 @@ $
 </li>
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>F1AC7387-254E-44E0-A0F3-A7CFCAB0873C</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -12192,7 +3402,7 @@ What is $6000 \div 200?$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What is $6000 \div 200?$
+<pre class="language-latex"><code class="language-latex">What is &#36;6000 \div 200?&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -12257,7 +3467,7 @@ $30$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 6000 \div 200 \\\\
 &= \dfrac {6000} {200} \\\\
@@ -12267,7 +3477,7 @@ $30$
 &= \dfrac {30 \times \cancel{2}} {\cancel{2}} \\\\
 &= 30
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -12288,7 +3498,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$30$
+<pre class="language-latex"><code class="language-latex">&#36;30&#36;
 </code></pre>
 </div>
 </div>
@@ -12297,6 +3507,23 @@ $
 </li>
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>86BF62E0-AD62-4708-BEAE-A9D1B4271AD0</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -12308,7 +3535,7 @@ What is $6000 \div 300?$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What is $6000 \div 300?$
+<pre class="language-latex"><code class="language-latex">What is &#36;6000 \div 300?&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -12373,7 +3600,7 @@ $20$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 6000 \div 300 \\\\
 &= \dfrac {6000} {300} \\\\
@@ -12383,7 +3610,7 @@ $20$
 &= \dfrac {20 \times \cancel{3}} {\cancel{3}} \\\\
 &= 20
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -12404,7 +3631,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$20$
+<pre class="language-latex"><code class="language-latex">&#36;20&#36;
 </code></pre>
 </div>
 </div>
@@ -12478,13 +3705,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -12579,6 +3809,23 @@ tdivision
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>B16B91F0-DE9F-4AC6-8F9E-03CE3244F6D1</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -12590,7 +3837,7 @@ What is $9000 \div 100?$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What is $9000 \div 100?$
+<pre class="language-latex"><code class="language-latex">What is &#36;9000 \div 100?&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -12652,14 +3899,14 @@ $90$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 9000 \div 100 \\\\
 &= \dfrac {9000} {100} \\\\
 &= \dfrac {90  \cancel{0} \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
 &= 90
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -12680,7 +3927,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$90$
+<pre class="language-latex"><code class="language-latex">&#36;90&#36;
 </code></pre>
 </div>
 </div>
@@ -12689,6 +3936,23 @@ $
 </li>
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>0CCE8FC9-24A5-4541-8FDE-4025BD3AB3EE</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -12700,7 +3964,7 @@ What is $9000 \div 300?$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What is $9000 \div 300?$
+<pre class="language-latex"><code class="language-latex">What is &#36;9000 \div 300?&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -12763,7 +4027,7 @@ $30$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 9000 \div 300 \\\\
 &= \dfrac {9000} {300} \\\\
@@ -12771,7 +4035,7 @@ $30$
 &= \dfrac {\cancel{100} \times \cancel{3} \times 30} {\cancel{100} \times \cancel{3}} \\\\
 &= 30
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -12792,7 +4056,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$30$
+<pre class="language-latex"><code class="language-latex">&#36;30&#36;
 </code></pre>
 </div>
 </div>
@@ -12801,6 +4065,23 @@ $
 </li>
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>FD31DC1E-39C7-4B21-AD18-35399F8B789D</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -12812,7 +4093,7 @@ What is $9000 \div 600?$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What is $9000 \div 600?$
+<pre class="language-latex"><code class="language-latex">What is &#36;9000 \div 600?&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -12875,7 +4156,7 @@ $15$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 9000 \div 600 \\\\
 &= \dfrac {9000} {600} \\\\
@@ -12883,7 +4164,7 @@ $15$
 &= \dfrac {\cancel{100} \times \cancel{6} \times 15} {\cancel{100} \times \cancel{6}} \\\\
 &= 15
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -12904,7 +4185,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$15$
+<pre class="language-latex"><code class="language-latex">&#36;15&#36;
 </code></pre>
 </div>
 </div>
@@ -12978,13 +4259,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -12996,7 +4280,7 @@ Work out $4992 \div 16$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $4992 \div 16$
+<pre class="language-latex"><code class="language-latex">Work out &#36;4992 \div 16&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -13020,6 +4304,22 @@ Work out $4992 \div 16$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/sevenoaks-school/2010/sample-paper-1/answers/generated/long-division/s01-q03-w01-ld00.svg" alt="Long division of 4992 by 16" title="papers/sevenoaks-school/2010/sample-paper-1/answers/generated/long-division/s01-q03-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 4992 \div 16 \\\\
@@ -13029,6 +4329,9 @@ $
 &= 312
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -13059,7 +4362,15 @@ $312$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="4992" divisor="16" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 4992 \div 16 \\\\
 &= \dfrac{4992}{16} \\\\
@@ -13067,7 +4378,9 @@ $312$
 &= \dfrac{312 \times \cancel{4} \times \cancel{4}}{\cancel{4} \times \cancel{4}} \\\\
 &= 312
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -13088,7 +4401,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$312$
+<pre class="language-latex"><code class="language-latex">&#36;312&#36;
 </code></pre>
 </div>
 </div>
@@ -13159,13 +4472,21 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
+</li>
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tremainder
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -13177,7 +4498,7 @@ What is the remainder when $354972$ is divided by $7 \text{?}$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What is the remainder when $354972$ is divided by $7 \text{?}$
+<pre class="language-latex"><code class="language-latex">What is the remainder when &#36;354972&#36; is divided by &#36;7 \text{?}&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -13201,12 +4522,31 @@ What is the remainder when $354972$ is divided by $7 \text{?}$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/sevenoaks-school/2015/sample-paper-6/answers/generated/long-division/s01-q10-w01-ld00.svg" alt="Long division of 354972 by 7" title="papers/sevenoaks-school/2015/sample-paper-6/answers/generated/long-division/s01-q10-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= \dfrac{354972}{7} \\\\
 &= 50710 \text{ remainder } 2
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -13237,12 +4577,22 @@ $2$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="354972" divisor="7" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= \dfrac{354972}{7} \\\\
 &= 50710 \text{ remainder } 2
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -13263,7 +4613,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$2$
+<pre class="language-latex"><code class="language-latex">&#36;2&#36;
 </code></pre>
 </div>
 </div>
@@ -13334,13 +4684,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -13352,7 +4705,7 @@ Divide $285 \div 3$.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Divide $285 \div 3$.
+<pre class="language-latex"><code class="language-latex">Divide &#36;285 \div 3&#36;.
 </code></pre>
 </div>
 <div class="workings">
@@ -13376,6 +4729,22 @@ Divide $285 \div 3$.
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/st-albans-high-school-for-girls/2016/sample-paper-1/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 285 by 3" title="papers/st-albans-high-school-for-girls/2016/sample-paper-1/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 285 \div 3 \\\\
@@ -13385,6 +4754,9 @@ $
 &= 95
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -13415,7 +4787,15 @@ $95$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="285" divisor="3" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 285 \div 3 \\\\
 &= \dfrac{285}{3} \\\\
@@ -13423,7 +4803,9 @@ $95$
 &= \dfrac{95 \times \cancel{3}}{\cancel{3}} \\\\
 &= 95
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -13444,7 +4826,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$95$
+<pre class="language-latex"><code class="language-latex">&#36;95&#36;
 </code></pre>
 </div>
 </div>
@@ -13515,13 +4897,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -13557,6 +4942,22 @@ Divide 301 ÷ 7
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/st-albans-high-school-for-girls/2017/sample-paper-2/answers/generated/long-division/s01-q05-w01-ld00.svg" alt="Long division of 301 by 7" title="papers/st-albans-high-school-for-girls/2017/sample-paper-2/answers/generated/long-division/s01-q05-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 301 \div 7 \\\\
@@ -13566,6 +4967,9 @@ $
 &= 43
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -13596,7 +5000,15 @@ $43$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="301" divisor="7" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 301 \div 7 \\\\
 &= \dfrac{301}{7} \\\\
@@ -13604,7 +5016,9 @@ $43$
 &= \dfrac{43 \times \cancel{7}}{\cancel{7}} \\\\
 &= 43
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -13625,7 +5039,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$43$
+<pre class="language-latex"><code class="language-latex">&#36;43&#36;
 </code></pre>
 </div>
 </div>
@@ -13696,13 +5110,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -13714,7 +5131,7 @@ $207 \div 9 = \ldots$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$207 \div 9 = \ldots$ 
+<pre class="language-latex"><code class="language-latex">&#36;207 \div 9 = \ldots&#36; 
 </code></pre>
 </div>
 <div class="workings">
@@ -13738,6 +5155,22 @@ $207 \div 9 = \ldots$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/st-francis-college/2017/sample-paper-1/answers/generated/long-division/s01-q05-w01-ld00.svg" alt="Long division of 207 by 9" title="papers/st-francis-college/2017/sample-paper-1/answers/generated/long-division/s01-q05-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 207 \div 9 \\\\
@@ -13748,6 +5181,9 @@ $
 &= 23
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -13778,7 +5214,15 @@ $23$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="207" divisor="9" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 207 \div 9 \\\\
 &= \dfrac{207}{9} \\\\
@@ -13787,7 +5231,9 @@ $23$
 &= \dfrac{23 \times \cancel{3} \times \cancel{3}} {\times \cancel{3} \times {\cancel{3}}} \\\\
 &= 23
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -13808,7 +5254,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$23$
+<pre class="language-latex"><code class="language-latex">&#36;23&#36;
 </code></pre>
 </div>
 </div>
@@ -13879,13 +5325,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -13897,7 +5346,7 @@ $1081 \div 23= \ldots$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$1081 \div 23= \ldots$
+<pre class="language-latex"><code class="language-latex">&#36;1081 \div 23= \ldots&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -13960,7 +5409,7 @@ $47$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 1081 \div 23 \\\\
 &= \dfrac{1081}{23} \\\\
@@ -13968,7 +5417,7 @@ $47$
 &= \dfrac{47 \times \cancel{23}}{\cancel{23}}\\\\
 &= 47
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -13989,7 +5438,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$47$
+<pre class="language-latex"><code class="language-latex">&#36;47&#36;
 </code></pre>
 </div>
 </div>
@@ -14060,13 +5509,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -14078,7 +5530,7 @@ $12321 \div 9$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$12321 \div 9$ 
+<pre class="language-latex"><code class="language-latex">&#36;12321 \div 9&#36; 
 </code></pre>
 </div>
 <div class="workings">
@@ -14102,6 +5554,22 @@ $12321 \div 9$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/st-georges-college/2012/sample-paper-1/answers/generated/long-division/s01-q06-w01-ld00.svg" alt="Long division of 12321 by 9" title="papers/st-georges-college/2012/sample-paper-1/answers/generated/long-division/s01-q06-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 12321 \div 9  \\\\
@@ -14111,6 +5579,9 @@ $
 &= 1369
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -14141,7 +5612,15 @@ $1369$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="12321" divisor="9" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 12321 \div 9  \\\\
 &= \dfrac {12321} {9}  \\\\
@@ -14149,7 +5628,9 @@ $1369$
 &= \dfrac {1369 \times \cancel{9}  } {\cancel{9} }  \\\\
 &= 1369
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -14170,7 +5651,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$1369$
+<pre class="language-latex"><code class="language-latex">&#36;1369&#36;
 </code></pre>
 </div>
 </div>
@@ -14241,13 +5722,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -14259,7 +5743,7 @@ Calculate $483 \div 21$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Calculate $483 \div 21$
+<pre class="language-latex"><code class="language-latex">Calculate &#36;483 \div 21&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -14283,6 +5767,22 @@ Calculate $483 \div 21$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/st-pauls-girls-school/2016/sample-paper-2/answers/generated/long-division/s01-q05-w01-ld00.svg" alt="Long division of 483 by 21" title="papers/st-pauls-girls-school/2016/sample-paper-2/answers/generated/long-division/s01-q05-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 483 \div 21 \\\\
@@ -14292,6 +5792,9 @@ $
 &= 23
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -14322,7 +5825,15 @@ $23$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="483" divisor="21" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 483 \div 21 \\\\
 &= \dfrac{483}{21} \\\\
@@ -14330,7 +5841,9 @@ $23$
 &= \dfrac{23 \times \cancel{3} \times \cancel{7}}{\cancel{3} \times \cancel{7}} \\\\
 &= 23
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -14351,7 +5864,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$23$
+<pre class="language-latex"><code class="language-latex">&#36;23&#36;
 </code></pre>
 </div>
 </div>
@@ -14422,13 +5935,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -14440,7 +5956,7 @@ Calculate $391$ divided by seventeen.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Calculate $391$ divided by seventeen.
+<pre class="language-latex"><code class="language-latex">Calculate &#36;391&#36; divided by seventeen.
 </code></pre>
 </div>
 <div class="workings">
@@ -14464,6 +5980,22 @@ Calculate $391$ divided by seventeen.
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/st-pauls-girls-school/2017/sample-paper-1/answers/generated/long-division/s01-q06-w01-ld00.svg" alt="Long division of 391 by 17" title="papers/st-pauls-girls-school/2017/sample-paper-1/answers/generated/long-division/s01-q06-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= \dfrac{391}{17} \\\\
@@ -14472,6 +6004,9 @@ $
 &= 23
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -14502,14 +6037,24 @@ $23$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="391" divisor="17" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= \dfrac{391}{17} \\\\
 &= \dfrac{17 \times 23}{17} \\\\
 &= \dfrac{\cancel{17} \times 23}{\cancel{17}} \\\\
 &= 23
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -14530,7 +6075,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$23$
+<pre class="language-latex"><code class="language-latex">&#36;23&#36;
 </code></pre>
 </div>
 </div>
@@ -14587,3006 +6132,6 @@ $
 <li class="questionContainer">
 <div class="question_envelope rag_ng1 rag_prns question">
 <div class="uuid">
-<p>096AA73E-3271-49CC-97D7-2319FEA61B14</p>
-</div>
-<div class="papername">
-<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:1:2</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-Work out the answers to: 
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Work out the answers to: 
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-%empty%
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-%empty%
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-</div>
-<ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
-<li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion">
-<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-$9642 \div  3$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$9642 \div  3$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= 9642 \div  3 \\\\
-&= \dfrac{9642}{3} \\\\
-&= \dfrac{{3214} \times 3 }{3} \\\\
-&= \dfrac{3214 \times \cancel 3}{\cancel3 } \\\\
-&= 3214
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$3214$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= 9642 \div  3 \\\\
-&= \dfrac{9642}{3} \\\\
-&= \dfrac{{3214} \times 3 }{3} \\\\
-&= \dfrac{3214 \times \cancel 3}{\cancel3 } \\\\
-&= 3214
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$3214$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion">
-<div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-$512 \div  16$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$512 \div  16$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&=  512 \div  16 \\\\
-&= \dfrac{512}{16} \\\\
-&= \dfrac{{32} \times 16 }{16} \\\\
-&= \dfrac{32 \times \cancel 16}{\cancel 16 } \\\\
-&= 32
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$32$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&=  512 \div  16 \\\\
-&= \dfrac{512}{16} \\\\
-&= \dfrac{{32} \times 16 }{16} \\\\
-&= \dfrac{32 \times \cancel 16}{\cancel 16 } \\\\
-&= 32
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$32$
-</code></pre>
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="096AA73E-3271-49CC-97D7-2319FEA61B14" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="096AA73E-3271-49CC-97D7-2319FEA61B14" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="096AA73E-3271-49CC-97D7-2319FEA61B14" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="096AA73E-3271-49CC-97D7-2319FEA61B14" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="096AA73E-3271-49CC-97D7-2319FEA61B14" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="096AA73E-3271-49CC-97D7-2319FEA61B14" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="096AA73E-3271-49CC-97D7-2319FEA61B14" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="096AA73E-3271-49CC-97D7-2319FEA61B14" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="096AA73E-3271-49CC-97D7-2319FEA61B14" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="096AA73E-3271-49CC-97D7-2319FEA61B14" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="096AA73E-3271-49CC-97D7-2319FEA61B14" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="096AA73E-3271-49CC-97D7-2319FEA61B14" id="FORM-096AA73E-3271-49CC-97D7-2319FEA61B14" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-096AA73E-3271-49CC-97D7-2319FEA61B14">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>74D1D6EA-DD18-4834-B06D-9B3F7F9AE838</p>
-</div>
-<div class="papername">
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:1</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-Work out $1449 \div 23$
-
-- $65$
-- $63$
-- $71$
-- $76$
-- $69$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Work out $1449 \div 23$
-<emptyline>
-- $65$
-- $63$
-- $71$
-- $76$
-- $69$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= 1449 \div 23 \\\\
-&= \dfrac{1449}{23} \\\\
-&= \dfrac{23 \times 63}{23} \\\\
-&= \dfrac{\cancel{23} \times 63}{\cancel{23}} \\\\
-&= 63
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="option" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Option**
-
-<p>B</p>
-</div>
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$63$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= 1449 \div 23 \\\\
-&= \dfrac{1449}{23} \\\\
-&= \dfrac{23 \times 63}{23} \\\\
-&= \dfrac{\cancel{23} \times 63}{\cancel{23}} \\\\
-&= 63
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">B</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$63$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="74D1D6EA-DD18-4834-B06D-9B3F7F9AE838" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="74D1D6EA-DD18-4834-B06D-9B3F7F9AE838" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="74D1D6EA-DD18-4834-B06D-9B3F7F9AE838" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="74D1D6EA-DD18-4834-B06D-9B3F7F9AE838" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="74D1D6EA-DD18-4834-B06D-9B3F7F9AE838" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="74D1D6EA-DD18-4834-B06D-9B3F7F9AE838" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="74D1D6EA-DD18-4834-B06D-9B3F7F9AE838" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="74D1D6EA-DD18-4834-B06D-9B3F7F9AE838" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="74D1D6EA-DD18-4834-B06D-9B3F7F9AE838" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="74D1D6EA-DD18-4834-B06D-9B3F7F9AE838" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="74D1D6EA-DD18-4834-B06D-9B3F7F9AE838" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="74D1D6EA-DD18-4834-B06D-9B3F7F9AE838" id="FORM-74D1D6EA-DD18-4834-B06D-9B3F7F9AE838" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-74D1D6EA-DD18-4834-B06D-9B3F7F9AE838">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>AE655B5A-1C78-4083-9657-5F993A978A4C</p>
-</div>
-<div class="papername">
-<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:28</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-$6.05 \div 5$
-
-- $12.1$
-- $1.21$
-- $21$
-- $1.1$
-- $1.05$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$6.05 \div 5$
-<emptyline>
-- $12.1$
-- $1.21$
-- $21$
-- $1.1$
-- $1.05$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= \dfrac{6.05}{5} \\\\
-&= \dfrac{6.05 \times 100}{5 \times 100} \\\\
-&= \dfrac{605}{5 \times 100} \\\\
-&= \dfrac{121 \times 5}{5 \times 100} \\\\
-&= \dfrac{121 \times \cancel{5}}{\cancel{5} \times 100} \\\\
-&= \dfrac{121}{100} \\\\
-&= 1.21
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="option" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Option**
-
-<p>B</p>
-</div>
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$1.21$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= \dfrac{6.05}{5} \\\\
-&= \dfrac{6.05 \times 100}{5 \times 100} \\\\
-&= \dfrac{605}{5 \times 100} \\\\
-&= \dfrac{121 \times 5}{5 \times 100} \\\\
-&= \dfrac{121 \times \cancel{5}}{\cancel{5} \times 100} \\\\
-&= \dfrac{121}{100} \\\\
-&= 1.21
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">B</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$1.21$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="AE655B5A-1C78-4083-9657-5F993A978A4C" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="AE655B5A-1C78-4083-9657-5F993A978A4C" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="AE655B5A-1C78-4083-9657-5F993A978A4C" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="AE655B5A-1C78-4083-9657-5F993A978A4C" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="AE655B5A-1C78-4083-9657-5F993A978A4C" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="AE655B5A-1C78-4083-9657-5F993A978A4C" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="AE655B5A-1C78-4083-9657-5F993A978A4C" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="AE655B5A-1C78-4083-9657-5F993A978A4C" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="AE655B5A-1C78-4083-9657-5F993A978A4C" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="AE655B5A-1C78-4083-9657-5F993A978A4C" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="AE655B5A-1C78-4083-9657-5F993A978A4C" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="AE655B5A-1C78-4083-9657-5F993A978A4C" id="FORM-AE655B5A-1C78-4083-9657-5F993A978A4C" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-AE655B5A-1C78-4083-9657-5F993A978A4C">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>ABFAF4A1-6003-4101-BF68-1852178153EC</p>
-</div>
-<div class="papername">
-<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:4</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-Work out $2136 \div 8$ 
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Work out $2136 \div 8$ 
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= 2136 \div 8 \\\\
-&= \dfrac{2136}{8} \\\\
-&= \dfrac{267 \times {8}}{8} \\\\
-&= \dfrac{267 \times {\cancel{8}}}{\cancel{8}} \\\\
-&= 267
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$267$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= 2136 \div 8 \\\\
-&= \dfrac{2136}{8} \\\\
-&= \dfrac{267 \times {8}}{8} \\\\
-&= \dfrac{267 \times {\cancel{8}}}{\cancel{8}} \\\\
-&= 267
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$267$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="ABFAF4A1-6003-4101-BF68-1852178153EC" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="ABFAF4A1-6003-4101-BF68-1852178153EC" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="ABFAF4A1-6003-4101-BF68-1852178153EC" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="ABFAF4A1-6003-4101-BF68-1852178153EC" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="ABFAF4A1-6003-4101-BF68-1852178153EC" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="ABFAF4A1-6003-4101-BF68-1852178153EC" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="ABFAF4A1-6003-4101-BF68-1852178153EC" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="ABFAF4A1-6003-4101-BF68-1852178153EC" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="ABFAF4A1-6003-4101-BF68-1852178153EC" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="ABFAF4A1-6003-4101-BF68-1852178153EC" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="ABFAF4A1-6003-4101-BF68-1852178153EC" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="ABFAF4A1-6003-4101-BF68-1852178153EC" id="FORM-ABFAF4A1-6003-4101-BF68-1852178153EC" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-ABFAF4A1-6003-4101-BF68-1852178153EC">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>148893CA-DDDE-435B-A79A-07B6DFCC34EA</p>
-</div>
-<div class="papername">
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:1:4</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-Divide: $324 \div 9$ 
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Divide: $324 \div 9$ 
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-& = \dfrac {324}{9}                                  \\\\
-& = \dfrac {36 \times 9}{9}                 \\\\
-& = \dfrac {36 \times \cancel 9}{\cancel 9} \\\\
-& = 36                                               
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$36$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-& = \dfrac {324}{9}                                  \\\\
-& = \dfrac {36 \times 9}{9}                 \\\\
-& = \dfrac {36 \times \cancel 9}{\cancel 9} \\\\
-& = 36                                               
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$36$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="148893CA-DDDE-435B-A79A-07B6DFCC34EA" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="148893CA-DDDE-435B-A79A-07B6DFCC34EA" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="148893CA-DDDE-435B-A79A-07B6DFCC34EA" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="148893CA-DDDE-435B-A79A-07B6DFCC34EA" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="148893CA-DDDE-435B-A79A-07B6DFCC34EA" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="148893CA-DDDE-435B-A79A-07B6DFCC34EA" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="148893CA-DDDE-435B-A79A-07B6DFCC34EA" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="148893CA-DDDE-435B-A79A-07B6DFCC34EA" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="148893CA-DDDE-435B-A79A-07B6DFCC34EA" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="148893CA-DDDE-435B-A79A-07B6DFCC34EA" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="148893CA-DDDE-435B-A79A-07B6DFCC34EA" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="148893CA-DDDE-435B-A79A-07B6DFCC34EA" id="FORM-148893CA-DDDE-435B-A79A-07B6DFCC34EA" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-148893CA-DDDE-435B-A79A-07B6DFCC34EA">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9</p>
-</div>
-<div class="papername">
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:1:4</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-Divide: $76 \div 2$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Divide: $76 \div 2$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-      & = \dfrac {76}{2}                                  \\\\
-      & = \dfrac {2 \times 38}{2}                         \\\\
-      & = \dfrac {\cancel {2} \times 38}{\cancel {2}}         \\\\
-      & = 38                                               
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$38$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-      & = \dfrac {76}{2}                                  \\\\
-      & = \dfrac {2 \times 38}{2}                         \\\\
-      & = \dfrac {\cancel {2} \times 38}{\cancel {2}}         \\\\
-      & = 38                                               
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$38$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9" id="FORM-956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>EE08C79E-E66D-4719-8A51-03C3EBDE0F59</p>
-</div>
-<div class="papername">
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3:1:4</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-Divide: $92 \div 4$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Divide: $92 \div 4$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-      & = \dfrac {92}{4}                                  \\\\
-      & = \dfrac {4 \times 23}{4}                         \\\\
-      & = \dfrac {\cancel {4} \times 23}{\cancel {4}}         \\\\
-      & = 23                                               
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$23$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-      & = \dfrac {92}{4}                                  \\\\
-      & = \dfrac {4 \times 23}{4}                         \\\\
-      & = \dfrac {\cancel {4} \times 23}{\cancel {4}}         \\\\
-      & = 23                                               
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$23$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EE08C79E-E66D-4719-8A51-03C3EBDE0F59" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EE08C79E-E66D-4719-8A51-03C3EBDE0F59" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EE08C79E-E66D-4719-8A51-03C3EBDE0F59" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EE08C79E-E66D-4719-8A51-03C3EBDE0F59" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EE08C79E-E66D-4719-8A51-03C3EBDE0F59" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EE08C79E-E66D-4719-8A51-03C3EBDE0F59" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EE08C79E-E66D-4719-8A51-03C3EBDE0F59" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EE08C79E-E66D-4719-8A51-03C3EBDE0F59" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EE08C79E-E66D-4719-8A51-03C3EBDE0F59" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EE08C79E-E66D-4719-8A51-03C3EBDE0F59" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="EE08C79E-E66D-4719-8A51-03C3EBDE0F59" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EE08C79E-E66D-4719-8A51-03C3EBDE0F59" id="FORM-EE08C79E-E66D-4719-8A51-03C3EBDE0F59" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-EE08C79E-E66D-4719-8A51-03C3EBDE0F59">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>13DBEA5B-15F2-411C-8312-F9FBABF0D11B</p>
-</div>
-<div class="papername">
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:1:4</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-Divide: $264 \div 11$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Divide: $264 \div 11$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-& = \dfrac {264}{11}                                  \\\\
-& = \dfrac {24 \times 11}{11}                         \\\\
-& = \dfrac {24 \times \cancel{11}}{\cancel{11}}         \\\\
-& = 24                                               
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$24$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-& = \dfrac {264}{11}                                  \\\\
-& = \dfrac {24 \times 11}{11}                         \\\\
-& = \dfrac {24 \times \cancel{11}}{\cancel{11}}         \\\\
-& = 24                                               
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$24$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="13DBEA5B-15F2-411C-8312-F9FBABF0D11B" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="13DBEA5B-15F2-411C-8312-F9FBABF0D11B" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="13DBEA5B-15F2-411C-8312-F9FBABF0D11B" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="13DBEA5B-15F2-411C-8312-F9FBABF0D11B" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="13DBEA5B-15F2-411C-8312-F9FBABF0D11B" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="13DBEA5B-15F2-411C-8312-F9FBABF0D11B" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="13DBEA5B-15F2-411C-8312-F9FBABF0D11B" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="13DBEA5B-15F2-411C-8312-F9FBABF0D11B" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="13DBEA5B-15F2-411C-8312-F9FBABF0D11B" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="13DBEA5B-15F2-411C-8312-F9FBABF0D11B" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="13DBEA5B-15F2-411C-8312-F9FBABF0D11B" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="13DBEA5B-15F2-411C-8312-F9FBABF0D11B" id="FORM-13DBEA5B-15F2-411C-8312-F9FBABF0D11B" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-13DBEA5B-15F2-411C-8312-F9FBABF0D11B">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97</p>
-</div>
-<div class="papername">
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:1:4</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-Divide: $87 \div 3$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Divide: $87 \div 3$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-& = \dfrac {87}{3}                                  \\\\
-& = \dfrac {29 \times 3}{3}                         \\\\
-& = \dfrac {29 \times \cancel{3}}{\cancel{3}}         \\\\
-& = 29                                               
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$29$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-& = \dfrac {87}{3}                                  \\\\
-& = \dfrac {29 \times 3}{3}                         \\\\
-& = \dfrac {29 \times \cancel{3}}{\cancel{3}}         \\\\
-& = 29                                               
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$29$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97" id="FORM-0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>FB729FC0-98CB-48DC-A644-636E885B5BD6</p>
-</div>
-<div class="papername">
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:1:4</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-Divide: $78 \div 6$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Divide: $78 \div 6$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= 78 \div 6 \\\\
-&= \dfrac {78} {6} \\\\
-&= \dfrac {13 \times 6} {6} \\\\
-&= \dfrac {13 \times \cancel{6} } {\cancel{6}} \\\\
-&= 13
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$13$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= 78 \div 6 \\\\
-&= \dfrac {78} {6} \\\\
-&= \dfrac {13 \times 6} {6} \\\\
-&= \dfrac {13 \times \cancel{6} } {\cancel{6}} \\\\
-&= 13
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$13$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="FB729FC0-98CB-48DC-A644-636E885B5BD6" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="FB729FC0-98CB-48DC-A644-636E885B5BD6" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="FB729FC0-98CB-48DC-A644-636E885B5BD6" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="FB729FC0-98CB-48DC-A644-636E885B5BD6" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="FB729FC0-98CB-48DC-A644-636E885B5BD6" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="FB729FC0-98CB-48DC-A644-636E885B5BD6" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="FB729FC0-98CB-48DC-A644-636E885B5BD6" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="FB729FC0-98CB-48DC-A644-636E885B5BD6" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="FB729FC0-98CB-48DC-A644-636E885B5BD6" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="FB729FC0-98CB-48DC-A644-636E885B5BD6" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="FB729FC0-98CB-48DC-A644-636E885B5BD6" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="FB729FC0-98CB-48DC-A644-636E885B5BD6" id="FORM-FB729FC0-98CB-48DC-A644-636E885B5BD6" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-FB729FC0-98CB-48DC-A644-636E885B5BD6">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>BE040332-BBE8-4C8A-A8BD-80A84C71D6E1</p>
-</div>
-<div class="papername">
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:1:16</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-How many times does $35$ divide into $4207$ and what is the remainder?
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">How many times does $35$ divide into $4207$ and what is the remainder?
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= \dfrac{4207}{35} \\\\
-&= 120 \text{ remainder } 7
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-Quotient $=$ $120$
-
-</div>
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-Remainder $=$ $7$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= \dfrac{4207}{35} \\\\
-&= 120 \text{ remainder } 7
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Quotient</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$120$
-</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Remainder</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$7$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BE040332-BBE8-4C8A-A8BD-80A84C71D6E1" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BE040332-BBE8-4C8A-A8BD-80A84C71D6E1" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BE040332-BBE8-4C8A-A8BD-80A84C71D6E1" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BE040332-BBE8-4C8A-A8BD-80A84C71D6E1" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BE040332-BBE8-4C8A-A8BD-80A84C71D6E1" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BE040332-BBE8-4C8A-A8BD-80A84C71D6E1" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BE040332-BBE8-4C8A-A8BD-80A84C71D6E1" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BE040332-BBE8-4C8A-A8BD-80A84C71D6E1" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BE040332-BBE8-4C8A-A8BD-80A84C71D6E1" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BE040332-BBE8-4C8A-A8BD-80A84C71D6E1" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="BE040332-BBE8-4C8A-A8BD-80A84C71D6E1" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BE040332-BBE8-4C8A-A8BD-80A84C71D6E1" id="FORM-BE040332-BBE8-4C8A-A8BD-80A84C71D6E1" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-BE040332-BBE8-4C8A-A8BD-80A84C71D6E1">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A</p>
-</div>
-<div class="papername">
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:4</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-Divide: $108 \div 4$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Divide: $108 \div 4$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= 108 \div 4 \\\\
-&= \dfrac {108} {4} \\\\
-&= \dfrac {27 \times 4} {4} \\\\
-&= \dfrac {27 \times \cancel {4}} {\cancel {4}} \\\\
-&= 27
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$27$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= 108 \div 4 \\\\
-&= \dfrac {108} {4} \\\\
-&= \dfrac {27 \times 4} {4} \\\\
-&= \dfrac {27 \times \cancel {4}} {\cancel {4}} \\\\
-&= 27
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$27$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A" id="FORM-24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>DEF306C6-4B02-40CC-97C6-0C1E0966876A</p>
-</div>
-<div class="papername">
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:7</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-Divide $3$ by $0.5$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Divide $3$ by $0.5$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= 3 \div 0.5 \\\\
-&= \dfrac{3}{0.5} \\\\
-&= \dfrac{3 \times 10}{0.5 \times 10} \\\\
-&= \dfrac{30}{5} \\\\
-&= \dfrac{5 \times 6}{5} \\\\
-&= \dfrac{\cancel{5} \times 6}{\cancel{5}} \\\\
-&= 6
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$6$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= 3 \div 0.5 \\\\
-&= \dfrac{3}{0.5} \\\\
-&= \dfrac{3 \times 10}{0.5 \times 10} \\\\
-&= \dfrac{30}{5} \\\\
-&= \dfrac{5 \times 6}{5} \\\\
-&= \dfrac{\cancel{5} \times 6}{\cancel{5}} \\\\
-&= 6
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$6$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DEF306C6-4B02-40CC-97C6-0C1E0966876A" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DEF306C6-4B02-40CC-97C6-0C1E0966876A" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DEF306C6-4B02-40CC-97C6-0C1E0966876A" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DEF306C6-4B02-40CC-97C6-0C1E0966876A" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DEF306C6-4B02-40CC-97C6-0C1E0966876A" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DEF306C6-4B02-40CC-97C6-0C1E0966876A" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DEF306C6-4B02-40CC-97C6-0C1E0966876A" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DEF306C6-4B02-40CC-97C6-0C1E0966876A" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DEF306C6-4B02-40CC-97C6-0C1E0966876A" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DEF306C6-4B02-40CC-97C6-0C1E0966876A" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="DEF306C6-4B02-40CC-97C6-0C1E0966876A" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DEF306C6-4B02-40CC-97C6-0C1E0966876A" id="FORM-DEF306C6-4B02-40CC-97C6-0C1E0966876A" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-DEF306C6-4B02-40CC-97C6-0C1E0966876A">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>9B643A5B-96B3-4E47-8CAD-CF6B0281E069</p>
-</div>
-<div class="papername">
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:4</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-Divide: $78 \div 6$
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Divide: $78 \div 6$
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= 78 \div 6 \\\\
-&= \dfrac {78} {6} \\\\
-&= \dfrac {13 \times 6} {6} \\\\
-&= \dfrac {13 \times \cancel {6}} {\cancel {6}} \\\\
-&= 13
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$13$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= 78 \div 6 \\\\
-&= \dfrac {78} {6} \\\\
-&= \dfrac {13 \times 6} {6} \\\\
-&= \dfrac {13 \times \cancel {6}} {\cancel {6}} \\\\
-&= 13
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$13$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9B643A5B-96B3-4E47-8CAD-CF6B0281E069" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9B643A5B-96B3-4E47-8CAD-CF6B0281E069" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9B643A5B-96B3-4E47-8CAD-CF6B0281E069" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9B643A5B-96B3-4E47-8CAD-CF6B0281E069" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9B643A5B-96B3-4E47-8CAD-CF6B0281E069" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9B643A5B-96B3-4E47-8CAD-CF6B0281E069" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9B643A5B-96B3-4E47-8CAD-CF6B0281E069" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9B643A5B-96B3-4E47-8CAD-CF6B0281E069" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9B643A5B-96B3-4E47-8CAD-CF6B0281E069" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9B643A5B-96B3-4E47-8CAD-CF6B0281E069" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="9B643A5B-96B3-4E47-8CAD-CF6B0281E069" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9B643A5B-96B3-4E47-8CAD-CF6B0281E069" id="FORM-9B643A5B-96B3-4E47-8CAD-CF6B0281E069" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-9B643A5B-96B3-4E47-8CAD-CF6B0281E069">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
-<p>F63F1192-DAF0-475A-9DFF-53413EC4FDB2</p>
-</div>
-<div class="papername">
-<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:1:4</p>
-</div>
-<div class="rag">
-<p>Waffles Woof</p>
-</div>
-<div class="rag">
-<p>rag_wf_ng1</p>
-</div>
-<div class="rag">
-<p>rag_wf_prns</p>
-</div>
-<div class="topics">
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Question**
-
-Divide $623$ by $8$, giving your answer and the remainder.
-
-</div>
-<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="questioncodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">Divide $623$ by $8$, giving your answer and the remainder.
-</code></pre>
-</div>
-<div class="workings">
-<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Tips**
-
-<div class="tip">
-%empty%
-</div>
-</div>
-<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Formulas**
-
-<div class="formula">
-%empty%
-</div>
-</div>
-<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Working**
-
-$
-\begin{aligned}
-&= 623 \div 8 \\\\
-&= \dfrac{623}{8} \\\\
-&= 77 \text{ remainder } 7
-\end{aligned}
-$
-</div>
-</div>
-<div class="answers">
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$77$
-
-</div>
-<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-
-**Answer**
-
-$7$
-
-</div>
-</div>
-<div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="workingcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$
-\begin{aligned}
-&= 623 \div 8 \\\\
-&= \dfrac{623}{8} \\\\
-&= 77 \text{ remainder } 7
-\end{aligned}
-$
-</code></pre>
-</div>
-</div>
-<div class="answers">
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$77$
-</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
-</div>
-<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="answercodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">$7$
-</code></pre>
-</div>
-</div>
-
-
-<div class="review">
-<ul class="review">
-<li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="F63F1192-DAF0-475A-9DFF-53413EC4FDB2" onclick="submitReview(event)">PRCC</button>
-</li>
-<li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="F63F1192-DAF0-475A-9DFF-53413EC4FDB2" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="F63F1192-DAF0-475A-9DFF-53413EC4FDB2" onclick="submitReview(event)">PRG</button>
-</li>
-<li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="F63F1192-DAF0-475A-9DFF-53413EC4FDB2" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="F63F1192-DAF0-475A-9DFF-53413EC4FDB2" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="F63F1192-DAF0-475A-9DFF-53413EC4FDB2" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="F63F1192-DAF0-475A-9DFF-53413EC4FDB2" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="F63F1192-DAF0-475A-9DFF-53413EC4FDB2" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="F63F1192-DAF0-475A-9DFF-53413EC4FDB2" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="F63F1192-DAF0-475A-9DFF-53413EC4FDB2" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="F63F1192-DAF0-475A-9DFF-53413EC4FDB2" onclick="resetComment(event)">Reset Comments</button>
-</li>
-</ul>
-
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="F63F1192-DAF0-475A-9DFF-53413EC4FDB2" id="FORM-F63F1192-DAF0-475A-9DFF-53413EC4FDB2" onsubmit="submitComment(event)">
-<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
-<br>
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</form>
-
-<p class="review_status initial" id="REVIEW-STATUS-F63F1192-DAF0-475A-9DFF-53413EC4FDB2">Initial</p>
-</div>
-</div>
-</li>
-<li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
-<div class="uuid">
 <p>BEA79F91-7D8F-4228-A2B4-1035AC0B64CC</p>
 </div>
 <div class="papername">
@@ -17601,13 +6146,21 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
+</li>
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tremainder
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -17629,6 +6182,28 @@ tdivision
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>3D5292D4-8909-4995-B3F5-AE07ED419490</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tremainder
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -17640,7 +6215,7 @@ Divide $911$ by $6$ giving your answer and the remainder.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Divide $911$ by $6$ giving your answer and the remainder.
+<pre class="language-latex"><code class="language-latex">Divide &#36;911&#36; by &#36;6&#36; giving your answer and the remainder.
 </code></pre>
 </div>
 <div class="workings">
@@ -17664,12 +6239,31 @@ Divide $911$ by $6$ giving your answer and the remainder.
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-kings-school-chester/sample/sample-paper-2/answers/generated/long-division/s01-q04-s01-w01-ld00.svg" alt="Long division of 911 by 6" title="papers/the-kings-school-chester/sample/sample-paper-2/answers/generated/long-division/s01-q04-s01-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= \dfrac{911}{6} \\\\
 &= 151 \text{ remainder } 5
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -17707,12 +6301,22 @@ $5$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="911" divisor="6" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= \dfrac{911}{6} \\\\
 &= 151 \text{ remainder } 5
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -17733,7 +6337,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$151$
+<pre class="language-latex"><code class="language-latex">&#36;151&#36;
 </code></pre>
 </div>
 <div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -17752,7 +6356,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$5$
+<pre class="language-latex"><code class="language-latex">&#36;5&#36;
 </code></pre>
 </div>
 </div>
@@ -17761,6 +6365,23 @@ $
 </li>
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>ECE9EF73-0032-4B31-9AC4-10A22F11E299</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tlcm
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #be123c; border-radius: 999px; background: #ffe4e6; color: #881337; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: no
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -17777,10 +6398,10 @@ Write one number that fits all three of these statements.
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
 <pre class="language-latex"><code class="language-latex">Write one number that fits all three of these statements.
-<emptyline>
-- The number is a multiple of $4$
-- The number is a multiple of $6$
-- The number ends in $2$
+
+- The number is a multiple of &#36;4&#36;
+- The number is a multiple of &#36;6&#36;
+- The number ends in &#36;2&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -17835,7 +6456,7 @@ $12$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$12$
+<pre class="language-latex"><code class="language-latex">&#36;12&#36;
 </code></pre>
 </div>
 </div>
@@ -17856,7 +6477,7 @@ $12$
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$12$
+<pre class="language-latex"><code class="language-latex">&#36;12&#36;
 </code></pre>
 </div>
 </div>
@@ -17930,13 +6551,21 @@ $12$
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
+</li>
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdecimal
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -17948,7 +6577,7 @@ Divide $1908$ by $6$.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Divide $1908$ by $6$.
+<pre class="language-latex"><code class="language-latex">Divide &#36;1908&#36; by &#36;6&#36;.
 </code></pre>
 </div>
 <div class="workings">
@@ -17972,6 +6601,22 @@ Divide $1908$ by $6$.
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2008/group-1/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 1908 by 6" title="papers/the-london-independent-girls-schools-consortium/2008/group-1/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 1908 \div 6 \\\\
@@ -17981,6 +6626,9 @@ $
 &= 318
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -18011,7 +6659,15 @@ $318$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="1908" divisor="6" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 1908 \div 6 \\\\
 &= \dfrac{1908}{6} \\\\
@@ -18019,7 +6675,9 @@ $318$
 &= \dfrac{318 \times \cancel 6}{\cancel 6} \\\\
 &= 318
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -18040,7 +6698,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$318$
+<pre class="language-latex"><code class="language-latex">&#36;318&#36;
 </code></pre>
 </div>
 </div>
@@ -18111,13 +6769,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -18132,8 +6793,8 @@ $29648 \div 8$
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
 <pre class="language-latex"><code class="language-latex">
-<emptyline>
-$29648 \div 8$
+
+&#36;29648 \div 8&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -18157,6 +6818,22 @@ $29648 \div 8$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2008/group-2/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 29648 by 8" title="papers/the-london-independent-girls-schools-consortium/2008/group-2/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= \dfrac{29648}{8} \\\\
@@ -18165,6 +6842,9 @@ $
 &= 3706
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -18195,14 +6875,24 @@ $3706
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="29648" divisor="8" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= \dfrac{29648}{8} \\\\
 &= \dfrac{3706 \times 8}{8} \\\\
 &= \dfrac{3706 \times \cancel{8}}{\cancel{8}} \\\\
 &= 3706
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -18223,7 +6913,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$3706
+<pre class="language-latex"><code class="language-latex">&#36;3706
 </code></pre>
 </div>
 </div>
@@ -18294,13 +6984,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -18315,8 +7008,8 @@ $3256 \div 4$
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
 <pre class="language-latex"><code class="language-latex">
-<emptyline>
-$3256 \div 4$
+
+&#36;3256 \div 4&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -18340,6 +7033,22 @@ $3256 \div 4$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2009/group-1/answers/generated/long-division/s01-q03-w01-ld00.svg" alt="Long division of 3256 by 4" title="papers/the-london-independent-girls-schools-consortium/2009/group-1/answers/generated/long-division/s01-q03-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 3256 \div 4 \\\\
@@ -18349,6 +7058,9 @@ $
 &= 814
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -18379,7 +7091,15 @@ $814$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="3256" divisor="4" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 3256 \div 4 \\\\
 &= \dfrac{3256}{4} \\\\
@@ -18387,7 +7107,9 @@ $814$
 &= \dfrac{814 \times \cancel 4}{\cancel 4} \\\\
 &= 814
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -18408,7 +7130,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$814$
+<pre class="language-latex"><code class="language-latex">&#36;814&#36;
 </code></pre>
 </div>
 </div>
@@ -18479,13 +7201,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -18497,7 +7222,7 @@ $2016 \div 9$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$2016 \div 9$
+<pre class="language-latex"><code class="language-latex">&#36;2016 \div 9&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -18521,6 +7246,22 @@ $2016 \div 9$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2009/group-2/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 2016 by 9" title="papers/the-london-independent-girls-schools-consortium/2009/group-2/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= \dfrac{2016}{9} \\\\
@@ -18529,6 +7270,9 @@ $
 &= 224
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -18559,14 +7303,24 @@ $224$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="2016" divisor="9" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= \dfrac{2016}{9} \\\\
 &= \dfrac{224 \times 9}{9} \\\\
 &= \dfrac{224 \times \cancel 9}{\cancel 9} \\\\
 &= 224
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -18587,7 +7341,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$224$
+<pre class="language-latex"><code class="language-latex">&#36;224&#36;
 </code></pre>
 </div>
 </div>
@@ -18658,13 +7412,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -18676,7 +7433,7 @@ $3216 \div 6 =$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$3216 \div 6 =$
+<pre class="language-latex"><code class="language-latex">&#36;3216 \div 6 =&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -18700,6 +7457,22 @@ $3216 \div 6 =$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2010/group-1/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 3216 by 6" title="papers/the-london-independent-girls-schools-consortium/2010/group-1/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 3216 \div 6 \\\\
@@ -18709,6 +7482,9 @@ $
 &= 536
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -18739,7 +7515,15 @@ $536$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="3216" divisor="6" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 3216 \div 6 \\\\
 &= \dfrac{3216}{6} \\\\
@@ -18747,7 +7531,9 @@ $536$
 &= \dfrac{536 \times \cancel 6}{\cancel 6} \\\\
 &= 536
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -18768,7 +7554,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$536$
+<pre class="language-latex"><code class="language-latex">&#36;536&#36;
 </code></pre>
 </div>
 </div>
@@ -18839,13 +7625,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -18857,7 +7646,7 @@ $4644 \div 6 =$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$4644 \div 6 =$
+<pre class="language-latex"><code class="language-latex">&#36;4644 \div 6 =&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -18881,6 +7670,22 @@ $4644 \div 6 =$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2011/group-1/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 4644 by 6" title="papers/the-london-independent-girls-schools-consortium/2011/group-1/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 4644 \div 6 \\\\
@@ -18890,6 +7695,9 @@ $
 &= 774
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -18920,7 +7728,15 @@ $774$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="4644" divisor="6" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 4644 \div 6 \\\\
 &= \dfrac{4644}{6} \\\\
@@ -18928,7 +7744,9 @@ $774$
 &= \dfrac{774 \times \cancel 6}{\cancel 6} \\\\
 &= 774
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -18949,7 +7767,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$774$
+<pre class="language-latex"><code class="language-latex">&#36;774&#36;
 </code></pre>
 </div>
 </div>
@@ -19020,13 +7838,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -19038,7 +7859,7 @@ Divide $21060$ by $9$.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Divide $21060$ by $9$.
+<pre class="language-latex"><code class="language-latex">Divide &#36;21060&#36; by &#36;9&#36;.
 </code></pre>
 </div>
 <div class="workings">
@@ -19062,6 +7883,22 @@ Divide $21060$ by $9$.
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2011/group-2/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 21060 by 9" title="papers/the-london-independent-girls-schools-consortium/2011/group-2/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= \dfrac{21060}{9} \\\\
@@ -19070,6 +7907,9 @@ $
 &= 2340
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -19100,14 +7940,24 @@ $2340$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="21060" divisor="9" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= \dfrac{21060}{9} \\\\
 &= \dfrac{2340 \times 9}{9} \\\\
 &= \dfrac{2340 \times \cancel 9}{\cancel 9} \\\\
 &= 2340
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -19128,7 +7978,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$2340$
+<pre class="language-latex"><code class="language-latex">&#36;2340&#36;
 </code></pre>
 </div>
 </div>
@@ -19199,13 +8049,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -19217,7 +8070,7 @@ Work out $5502 \div 6$.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $5502 \div 6$.
+<pre class="language-latex"><code class="language-latex">Work out &#36;5502 \div 6&#36;.
 </code></pre>
 </div>
 <div class="workings">
@@ -19241,6 +8094,22 @@ Work out $5502 \div 6$.
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2012/group-1/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 5502 by 6" title="papers/the-london-independent-girls-schools-consortium/2012/group-1/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 5502 \div 6 \\\\
@@ -19250,6 +8119,9 @@ $
 &= 917
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -19280,7 +8152,15 @@ $917$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="5502" divisor="6" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 5502 \div 6 \\\\
 &= \dfrac{5502}{6} \\\\
@@ -19288,7 +8168,9 @@ $917$
 &= \dfrac{917 \times \cancel{6}}{\cancel{6}} \\\\
 &= 917
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -19309,7 +8191,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$917$
+<pre class="language-latex"><code class="language-latex">&#36;917&#36;
 </code></pre>
 </div>
 </div>
@@ -19380,13 +8262,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -19398,7 +8283,7 @@ Work out $1548 \div  6$.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $1548 \div  6$.
+<pre class="language-latex"><code class="language-latex">Work out &#36;1548 \div  6&#36;.
 </code></pre>
 </div>
 <div class="workings">
@@ -19422,6 +8307,22 @@ Work out $1548 \div  6$.
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2012/group-2/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 1548 by 6" title="papers/the-london-independent-girls-schools-consortium/2012/group-2/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 1548 \div  6 \\\\
@@ -19431,6 +8332,9 @@ $
 &= 258
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -19461,7 +8365,15 @@ $258$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="1548" divisor="6" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 1548 \div  6 \\\\
 &= \dfrac{1548}{6} \\\\
@@ -19469,7 +8381,9 @@ $258$
 &= \dfrac{258 \times \cancel 6}{\cancel 6} \\\\
 &= 258
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -19490,7 +8404,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$258$
+<pre class="language-latex"><code class="language-latex">&#36;258&#36;
 </code></pre>
 </div>
 </div>
@@ -19561,13 +8475,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -19579,7 +8496,7 @@ Work out $5922 \div 6$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $5922 \div 6$
+<pre class="language-latex"><code class="language-latex">Work out &#36;5922 \div 6&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -19603,6 +8520,22 @@ Work out $5922 \div 6$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2013/group-1/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 5922 by 6" title="papers/the-london-independent-girls-schools-consortium/2013/group-1/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 5922 \div 6 \\\\
@@ -19612,6 +8545,9 @@ $
 &= 987
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -19642,7 +8578,15 @@ $987$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="5922" divisor="6" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 5922 \div 6 \\\\
 &= \dfrac{5922}{6} \\\\
@@ -19650,7 +8594,9 @@ $987$
 &= \dfrac{987 \times \cancel 6}{\cancel 6} \\\\
 &= 987
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -19671,7 +8617,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$987$
+<pre class="language-latex"><code class="language-latex">&#36;987&#36;
 </code></pre>
 </div>
 </div>
@@ -19742,13 +8688,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -19760,7 +8709,7 @@ Work out $2394 \div 9$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $2394 \div 9$ 
+<pre class="language-latex"><code class="language-latex">Work out &#36;2394 \div 9&#36; 
 </code></pre>
 </div>
 <div class="workings">
@@ -19784,6 +8733,22 @@ Work out $2394 \div 9$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2013/group-2/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 2394 by 9" title="papers/the-london-independent-girls-schools-consortium/2013/group-2/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 2394 \div 9 \\\\
@@ -19793,6 +8758,9 @@ $
 &= 266
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -19823,7 +8791,15 @@ $266$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="2394" divisor="9" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 2394 \div 9 \\\\
 &= \dfrac{2394}{9} \\\\
@@ -19831,7 +8807,9 @@ $266$
 &= \dfrac{266 \times \cancel 9}{\cancel 9} \\\\
 &= 266
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -19852,7 +8830,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$266$
+<pre class="language-latex"><code class="language-latex">&#36;266&#36;
 </code></pre>
 </div>
 </div>
@@ -19923,13 +8901,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -19941,7 +8922,7 @@ Work out $7083 \div 9$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $7083 \div 9$
+<pre class="language-latex"><code class="language-latex">Work out &#36;7083 \div 9&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -19965,6 +8946,22 @@ Work out $7083 \div 9$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2014/group-1/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 7083 by 9" title="papers/the-london-independent-girls-schools-consortium/2014/group-1/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 7083 \div 9 \\\\
@@ -19974,6 +8971,9 @@ $
 &= 787
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -20004,7 +9004,15 @@ $787$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="7083" divisor="9" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 7083 \div 9 \\\\
 &= \dfrac{7083}{9} \\\\
@@ -20012,7 +9020,9 @@ $787$
 &= \dfrac{787 \times \cancel 9}{\cancel 9} \\\\
 &= 787
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -20033,7 +9043,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$787$
+<pre class="language-latex"><code class="language-latex">&#36;787&#36;
 </code></pre>
 </div>
 </div>
@@ -20104,13 +9114,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -20122,7 +9135,7 @@ Work out $3832 \div 8$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $3832 \div 8$
+<pre class="language-latex"><code class="language-latex">Work out &#36;3832 \div 8&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -20146,6 +9159,22 @@ Work out $3832 \div 8$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2014/group-2/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 3832 by 8" title="papers/the-london-independent-girls-schools-consortium/2014/group-2/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 3832 \div 8 \\\\
@@ -20155,6 +9184,9 @@ $
 &= 479
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -20185,7 +9217,15 @@ $479$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="3832" divisor="8" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 3832 \div 8 \\\\
 &= \dfrac{3832}{8} \\\\
@@ -20193,7 +9233,9 @@ $479$
 &= \dfrac{479 \times \cancel 8}{\cancel 8} \\\\
 &= 479
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -20214,7 +9256,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$479$
+<pre class="language-latex"><code class="language-latex">&#36;479&#36;
 </code></pre>
 </div>
 </div>
@@ -20285,13 +9327,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -20303,7 +9348,7 @@ Work out $2964 \div 6$.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $2964 \div 6$.
+<pre class="language-latex"><code class="language-latex">Work out &#36;2964 \div 6&#36;.
 </code></pre>
 </div>
 <div class="workings">
@@ -20327,6 +9372,22 @@ Work out $2964 \div 6$.
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2015/group-1/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 2964 by 6" title="papers/the-london-independent-girls-schools-consortium/2015/group-1/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 2964 \div 6 \\\\
@@ -20336,6 +9397,9 @@ $
 &= 494
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -20366,7 +9430,15 @@ $494$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="2964" divisor="6" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 2964 \div 6 \\\\
 &= \dfrac{2964}{6} \\\\
@@ -20374,7 +9446,9 @@ $494$
 &= \dfrac{494 \times \cancel 6}{\cancel 6} \\\\
 &= 494
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -20395,7 +9469,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$494$
+<pre class="language-latex"><code class="language-latex">&#36;494&#36;
 </code></pre>
 </div>
 </div>
@@ -20466,13 +9540,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -20484,7 +9561,7 @@ Work out $3024 \div 9$.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $3024 \div 9$.
+<pre class="language-latex"><code class="language-latex">Work out &#36;3024 \div 9&#36;.
 </code></pre>
 </div>
 <div class="workings">
@@ -20508,6 +9585,22 @@ Work out $3024 \div 9$.
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2015/group-2/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 3024 by 9" title="papers/the-london-independent-girls-schools-consortium/2015/group-2/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 3024 \div 9 \\\\
@@ -20517,6 +9610,9 @@ $
 &= 336
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -20547,7 +9643,15 @@ $336$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="3024" divisor="9" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 3024 \div 9 \\\\
 &= \dfrac{3024}{9} \\\\
@@ -20555,7 +9659,9 @@ $336$
 &= \dfrac{336 \times \cancel 9}{\cancel 9} \\\\
 &= 336
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -20576,7 +9682,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$336$
+<pre class="language-latex"><code class="language-latex">&#36;336&#36;
 </code></pre>
 </div>
 </div>
@@ -20647,13 +9753,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -20665,7 +9774,7 @@ Work out $4802 \div 7$.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $4802 \div 7$.
+<pre class="language-latex"><code class="language-latex">Work out &#36;4802 \div 7&#36;.
 </code></pre>
 </div>
 <div class="workings">
@@ -20689,6 +9798,22 @@ Work out $4802 \div 7$.
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 4802 by 7" title="papers/the-london-independent-girls-schools-consortium/2016/group-1/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 4802 \div 7 \\\\
@@ -20698,6 +9823,9 @@ $
 &= 686
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -20728,7 +9856,15 @@ $686$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="4802" divisor="7" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 4802 \div 7 \\\\
 &= \dfrac{4802}{7} \\\\
@@ -20736,7 +9872,9 @@ $686$
 &= \dfrac{686 \times \cancel 7}{\cancel 7} \\\\
 &= 686
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -20757,7 +9895,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$686$
+<pre class="language-latex"><code class="language-latex">&#36;686&#36;
 </code></pre>
 </div>
 </div>
@@ -20828,13 +9966,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -20846,7 +9987,7 @@ Work out $2898 \div 6$.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $2898 \div 6$.
+<pre class="language-latex"><code class="language-latex">Work out &#36;2898 \div 6&#36;.
 </code></pre>
 </div>
 <div class="workings">
@@ -20870,6 +10011,22 @@ Work out $2898 \div 6$.
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-2/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 2898 by 6" title="papers/the-london-independent-girls-schools-consortium/2016/group-2/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 2898 \div 6 \\\\
@@ -20879,6 +10036,9 @@ $
 &= 483
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -20909,7 +10069,15 @@ $483$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="2898" divisor="6" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 2898 \div 6 \\\\
 &= \dfrac{2898}{6} \\\\
@@ -20917,7 +10085,9 @@ $483$
 &= \dfrac{483 \times \cancel 6}{\cancel 6} \\\\
 &= 483
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -20938,7 +10108,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$483$
+<pre class="language-latex"><code class="language-latex">&#36;483&#36;
 </code></pre>
 </div>
 </div>
@@ -21009,13 +10179,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -21027,7 +10200,7 @@ Work out $525 \div 25$.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $525 \div 25$.
+<pre class="language-latex"><code class="language-latex">Work out &#36;525 \div 25&#36;.
 </code></pre>
 </div>
 <div class="workings">
@@ -21051,6 +10224,22 @@ Work out $525 \div 25$.
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-manchester-grammar-school/2010/arithmetic-1/answers/generated/long-division/s01-q03-w01-ld00.svg" alt="Long division of 525 by 25" title="papers/the-manchester-grammar-school/2010/arithmetic-1/answers/generated/long-division/s01-q03-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 525 \div 25 \\\\
@@ -21060,6 +10249,9 @@ $
 &= 21
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -21090,7 +10282,15 @@ $21$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="525" divisor="25" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 525 \div 25 \\\\
 &= \dfrac {525} {25} \\\\
@@ -21098,7 +10298,9 @@ $21$
 &= \dfrac {\cancel{5} \times \cancel{5} \times 21} {\cancel{5} \times \cancel{5}} \\\\
 &= 21
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -21119,7 +10321,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$21$
+<pre class="language-latex"><code class="language-latex">&#36;21&#36;
 </code></pre>
 </div>
 </div>
@@ -21190,13 +10392,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -21208,7 +10413,7 @@ Work out $6.48 \div 0.6$, writing your answer as a decimal number.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $6.48 \div 0.6$, writing your answer as a decimal number.
+<pre class="language-latex"><code class="language-latex">Work out &#36;6.48 \div 0.6&#36;, writing your answer as a decimal number.
 </code></pre>
 </div>
 <div class="workings">
@@ -21273,7 +10478,7 @@ $10.8$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= \dfrac{6.48}{0.6} \\\\
 &= \dfrac{6.48 \times 100}{0.6 \times 100} \\\\
@@ -21283,7 +10488,7 @@ $10.8$
 &= \dfrac{108}{10} \\\\
 &= 10.8
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -21304,7 +10509,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$10.8$
+<pre class="language-latex"><code class="language-latex">&#36;10.8&#36;
 </code></pre>
 </div>
 </div>
@@ -21375,13 +10580,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -21393,7 +10601,7 @@ Work out $2047 \div 23$.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $2047 \div 23$.
+<pre class="language-latex"><code class="language-latex">Work out &#36;2047 \div 23&#36;.
 </code></pre>
 </div>
 <div class="workings">
@@ -21417,6 +10625,22 @@ Work out $2047 \div 23$.
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-manchester-grammar-school/2017/arithmetic-a/answers/generated/long-division/s01-q03-w01-ld00.svg" alt="Long division of 2047 by 23" title="papers/the-manchester-grammar-school/2017/arithmetic-a/answers/generated/long-division/s01-q03-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 2047 \div 23 \\\\
@@ -21426,6 +10650,9 @@ $
 &= 89
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -21456,7 +10683,15 @@ $89$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="2047" divisor="23" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 2047 \div 23 \\\\
 &= \dfrac{2047}{23} \\\\
@@ -21464,7 +10699,9 @@ $89$
 &= \dfrac{89 \times \cancel{23}}{\cancel{23}} \\\\
 &= 89
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -21485,7 +10722,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$89$
+<pre class="language-latex"><code class="language-latex">&#36;89&#36;
 </code></pre>
 </div>
 </div>
@@ -21556,13 +10793,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -21574,7 +10814,7 @@ Work out $44.8 \div 0.7$.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $44.8 \div 0.7$.
+<pre class="language-latex"><code class="language-latex">Work out &#36;44.8 \div 0.7&#36;.
 </code></pre>
 </div>
 <div class="workings">
@@ -21639,7 +10879,7 @@ $64$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 44.8 \div 0.7 \\\\
 &= \dfrac {44.8} {0.7} \\\\
@@ -21649,7 +10889,7 @@ $64$
 &= \dfrac {64 \times \cancel{7}} {\cancel{7}} \\\\
 &= 64
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -21670,7 +10910,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$64$
+<pre class="language-latex"><code class="language-latex">&#36;64&#36;
 </code></pre>
 </div>
 </div>
@@ -21741,13 +10981,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -21759,7 +11002,7 @@ Calculate $273 \div 7$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Calculate $273 \div 7$
+<pre class="language-latex"><code class="language-latex">Calculate &#36;273 \div 7&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -21783,6 +11026,22 @@ Calculate $273 \div 7$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-perse-school/sample/specimen-paper-2/answers/generated/long-division/s01-q11-w01-ld00.svg" alt="Long division of 273 by 7" title="papers/the-perse-school/sample/specimen-paper-2/answers/generated/long-division/s01-q11-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 273 \div 7 \\\\
@@ -21792,6 +11051,9 @@ $
 &= 39
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -21822,7 +11084,15 @@ $39$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="273" divisor="7" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 273 \div 7 \\\\
 &= \dfrac{273}{7} \\\\
@@ -21830,7 +11100,9 @@ $39$
 &= \dfrac{39 \times \cancel 7}{\cancel 7} \\\\
 &= 39
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -21851,7 +11123,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$39$
+<pre class="language-latex"><code class="language-latex">&#36;39&#36;
 </code></pre>
 </div>
 </div>
@@ -21922,13 +11194,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -21948,15 +11223,15 @@ Which **ONE** of the following numbers is NOT divisible by $3?$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Which **ONE** of the following numbers is NOT divisible by $3?$
-<emptyline>
-- $18171$   
-<emptyline>
-- $44481$   
-<emptyline>
-- $38501$   
-<emptyline>
-- $57060$
+<pre class="language-latex"><code class="language-latex">Which **ONE** of the following numbers is NOT divisible by &#36;3?&#36;
+
+- &#36;18171&#36;   
+
+- &#36;44481&#36;   
+
+- &#36;38501&#36;   
+
+- &#36;57060&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -22024,14 +11299,14 @@ $38501$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">| Number    |         Sum                                           | Divisible $3$ |
+<pre class="language-latex"><code class="language-latex">| Number    |         Sum                                           | Divisible &#36;3&#36; |
 |:------:   |:----------------------------------------------------: | :-----------: |
-|  $18171$  | $1 + 8 + 1 + 7 + 1 = \rtq_abbr_working_color_wrong_answer{18}$                      |  Yes          |
-|  $44481$  | $4 + 4 + 4 + 8 + 1 = \rtq_abbr_working_color_wrong_answer{21}$                      |  Yes          |
-|  $38501$  | $3 + 8 + 5 + 0 + 1 = \rtq_abbr_working_color_answer{17}$                        |  No           |
-|  $57060$  | $5 + 7 + 0 + 6 + 0 = \rtq_abbr_working_color_wrong_answer{18}$                      |  Yes          |
-<emptyline>
-Number not divisible $= 38501$
+|  &#36;18171&#36;  | &#36;1 + 8 + 1 + 7 + 1 = \rtq_abbr_working_color_wrong_answer{18}&#36;                      |  Yes          |
+|  &#36;44481&#36;  | &#36;4 + 4 + 4 + 8 + 1 = \rtq_abbr_working_color_wrong_answer{21}&#36;                      |  Yes          |
+|  &#36;38501&#36;  | &#36;3 + 8 + 5 + 0 + 1 = \rtq_abbr_working_color_answer{17}&#36;                        |  No           |
+|  &#36;57060&#36;  | &#36;5 + 7 + 0 + 6 + 0 = \rtq_abbr_working_color_wrong_answer{18}&#36;                      |  Yes          |
+
+Number not divisible &#36;= 38501&#36;
 </code></pre>
 </div>
 </div>
@@ -22052,7 +11327,7 @@ Number not divisible $= 38501$
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$38501$
+<pre class="language-latex"><code class="language-latex">&#36;38501&#36;
 </code></pre>
 </div>
 </div>
@@ -22123,13 +11398,16 @@ Number not divisible $= 38501$
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -22143,8 +11421,8 @@ Use this result to **write down** the answers to each of the following:
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$6764 \div 89 = 76$
-<emptyline>
+<pre class="language-latex"><code class="language-latex">&#36;6764 \div 89 = 76&#36;
+
 Use this result to **write down** the answers to each of the following:
 </code></pre>
 </div>
@@ -22228,6 +11506,23 @@ Use this result to **write down** the answers to each of the following:
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>0E0A5274-12D2-4DF4-A5DF-370440C2AF45</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -22239,7 +11534,7 @@ $6764 \div 76$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$6764 \div 76$
+<pre class="language-latex"><code class="language-latex">&#36;6764 \div 76&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -22299,12 +11594,12 @@ $89$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 6764 \div 76 \\\\
 &= 89
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -22325,7 +11620,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$89$
+<pre class="language-latex"><code class="language-latex">&#36;89&#36;
 </code></pre>
 </div>
 </div>
@@ -22334,6 +11629,23 @@ $
 </li>
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>599159DD-4D73-4D66-8DC4-2B79003C8D43</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -22345,7 +11657,7 @@ $7.6 \times 0.89$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$7.6 \times 0.89$
+<pre class="language-latex"><code class="language-latex">&#36;7.6 \times 0.89&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -22409,7 +11721,7 @@ $6.764$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 7.6 \times 0.89 \\\\
 &= \dfrac{7.6 \times 10}{10} \times \dfrac{0.89 \times 100}{100} \\\\
@@ -22418,7 +11730,7 @@ $6.764$
 &= \dfrac{6764}{1000} \\\\
 &= 6.764
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -22439,7 +11751,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$6.764$
+<pre class="language-latex"><code class="language-latex">&#36;6.764&#36;
 </code></pre>
 </div>
 </div>
@@ -22513,13 +11825,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -22531,7 +11846,7 @@ Divide: $9786 \div 7$.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Divide: $9786 \div 7$.
+<pre class="language-latex"><code class="language-latex">Divide: &#36;9786 \div 7&#36;.
 </code></pre>
 </div>
 <div class="workings">
@@ -22555,6 +11870,22 @@ Divide: $9786 \div 7$.
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/trinity-school-croydon/sample/sample-paper-1/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 9786 by 7" title="papers/trinity-school-croydon/sample/sample-paper-1/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 9786 \div 7 \\\\
@@ -22564,6 +11895,9 @@ $
 &= 1398
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -22594,7 +11928,15 @@ $1398$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="9786" divisor="7" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 9786 \div 7 \\\\
 &= \dfrac{9786}{7} \\\\
@@ -22602,7 +11944,9 @@ $1398$
 &= \dfrac{1398 \times \cancel 7}{\cancel 7} \\\\
 &= 1398
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -22623,7 +11967,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$1398$
+<pre class="language-latex"><code class="language-latex">&#36;1398&#36;
 </code></pre>
 </div>
 </div>
@@ -22694,13 +12038,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -22712,7 +12059,7 @@ $12321 \div 37$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$12321 \div 37$
+<pre class="language-latex"><code class="language-latex">&#36;12321 \div 37&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -22736,6 +12083,22 @@ $12321 \div 37$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/whitgift-school/sample/sample-paper-1/answers/generated/long-division/s02-q05-w01-ld00.svg" alt="Long division of 12321 by 37" title="papers/whitgift-school/sample/sample-paper-1/answers/generated/long-division/s02-q05-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 12321 \div 37 \\\\
@@ -22745,6 +12108,9 @@ $
 &= 333
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -22775,7 +12141,15 @@ $333$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="12321" divisor="37" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 12321 \div 37 \\\\
 &= \dfrac{12321}{37} \\\\
@@ -22783,7 +12157,9 @@ $333$
 &= \dfrac{333 \times \cancel 37}{\cancel 37} \\\\
 &= 333
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -22804,7 +12180,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$333$
+<pre class="language-latex"><code class="language-latex">&#36;333&#36;
 </code></pre>
 </div>
 </div>

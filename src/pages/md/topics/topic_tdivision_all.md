@@ -1,12 +1,12 @@
 ---
 slug: "topics/topic-tdivision-all"
 title: "Topic - Division - All"
-date: 2026-04-07 08:55:53
+date: 2026-04-11 15:41:12
 questions_count: "111"
 ---
 <ul class="question default-decimal question_type_question list_type_default-decimal">
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28</p>
 </div>
@@ -17,21 +17,26 @@ questions_count: "111"
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
-<li>
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdecimal
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -43,7 +48,7 @@ What is half of $3.08?$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What is half of $3.08?$
+<pre class="language-latex"><code class="language-latex">What is half of &#36;3.08?&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -103,12 +108,12 @@ $1.54$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 3.08 \div 2  \\\\
 &= 1.54
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -129,7 +134,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$1.54$
+<pre class="language-latex"><code class="language-latex">&#36;1.54&#36;
 </code></pre>
 </div>
 </div>
@@ -138,41 +143,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28" id="FORM-5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28" id="FORM-5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -184,7 +189,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>8CE05634-6A49-4F35-A3BA-F011513512BF</p>
 </div>
@@ -195,18 +200,26 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
+</li>
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdecimal
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -218,7 +231,7 @@ Work out $1638 \div 7$.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $1638 \div 7$.
+<pre class="language-latex"><code class="language-latex">Work out &#36;1638 \div 7&#36;.
 </code></pre>
 </div>
 <div class="workings">
@@ -242,6 +255,22 @@ Work out $1638 \div 7$.
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/alderley-edge-school-for-girls/2019/sample-paper-1/answers/generated/long-division/s02-q06-w01-ld00.svg" alt="Long division of 1638 by 7" title="papers/alderley-edge-school-for-girls/2019/sample-paper-1/answers/generated/long-division/s02-q06-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 1638 \div 7 \\\\
@@ -251,6 +280,9 @@ $
 &= 234
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -281,7 +313,15 @@ $234$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="1638" divisor="7" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 1638 \div 7 \\\\
 &= \dfrac {1638} {7} \\\\
@@ -289,7 +329,9 @@ $234$
 &= \dfrac {\cancel{7} \times 234} {\cancel{7}} \\\\
 &= 234
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -310,7 +352,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$234$
+<pre class="language-latex"><code class="language-latex">&#36;234&#36;
 </code></pre>
 </div>
 </div>
@@ -319,41 +361,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8CE05634-6A49-4F35-A3BA-F011513512BF" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="8CE05634-6A49-4F35-A3BA-F011513512BF" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8CE05634-6A49-4F35-A3BA-F011513512BF" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="8CE05634-6A49-4F35-A3BA-F011513512BF" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8CE05634-6A49-4F35-A3BA-F011513512BF" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="8CE05634-6A49-4F35-A3BA-F011513512BF" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8CE05634-6A49-4F35-A3BA-F011513512BF" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="8CE05634-6A49-4F35-A3BA-F011513512BF" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8CE05634-6A49-4F35-A3BA-F011513512BF" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="8CE05634-6A49-4F35-A3BA-F011513512BF" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8CE05634-6A49-4F35-A3BA-F011513512BF" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="8CE05634-6A49-4F35-A3BA-F011513512BF" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8CE05634-6A49-4F35-A3BA-F011513512BF" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="8CE05634-6A49-4F35-A3BA-F011513512BF" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8CE05634-6A49-4F35-A3BA-F011513512BF" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="8CE05634-6A49-4F35-A3BA-F011513512BF" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8CE05634-6A49-4F35-A3BA-F011513512BF" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="8CE05634-6A49-4F35-A3BA-F011513512BF" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8CE05634-6A49-4F35-A3BA-F011513512BF" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="8CE05634-6A49-4F35-A3BA-F011513512BF" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="8CE05634-6A49-4F35-A3BA-F011513512BF" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="8CE05634-6A49-4F35-A3BA-F011513512BF" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8CE05634-6A49-4F35-A3BA-F011513512BF" id="FORM-8CE05634-6A49-4F35-A3BA-F011513512BF" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="8CE05634-6A49-4F35-A3BA-F011513512BF" id="FORM-8CE05634-6A49-4F35-A3BA-F011513512BF" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -365,7 +407,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC</p>
 </div>
@@ -376,18 +418,26 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
+</li>
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdecimal
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -399,7 +449,7 @@ Divide $31500$ by $30$.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Divide $31500$ by $30$.
+<pre class="language-latex"><code class="language-latex">Divide &#36;31500&#36; by &#36;30&#36;.
 </code></pre>
 </div>
 <div class="workings">
@@ -423,6 +473,22 @@ Divide $31500$ by $30$.
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/alderley-edge-school-for-girls/2019/sample-paper-1/answers/generated/long-division/s02-q09-w01-ld00.svg" alt="Long division of 31500 by 30" title="papers/alderley-edge-school-for-girls/2019/sample-paper-1/answers/generated/long-division/s02-q09-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= \dfrac {31500} {30} \\\\
@@ -431,6 +497,9 @@ $
 &= 1050
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -461,14 +530,24 @@ $1050$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="31500" divisor="30" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= \dfrac {31500} {30} \\\\
 &= \dfrac {1050 \times 3 \times 10} {3 \times 10} \\\\
 &= \dfrac {1050 \times \cancel{3} \times 1\cancel{0}} {\cancel{3} \times 1\cancel{0}} \\\\
 &= 1050
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -489,7 +568,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$1050$
+<pre class="language-latex"><code class="language-latex">&#36;1050&#36;
 </code></pre>
 </div>
 </div>
@@ -498,41 +577,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC" id="FORM-E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC" id="FORM-E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -544,7 +623,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>B4B68EBB-B4F3-46DC-91E5-FCCC518381FF</p>
 </div>
@@ -555,18 +634,26 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
+</li>
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdecimal
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -578,7 +665,7 @@ Divide $3112$ by $8$.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Divide $3112$ by $8$.
+<pre class="language-latex"><code class="language-latex">Divide &#36;3112&#36; by &#36;8&#36;.
 </code></pre>
 </div>
 <div class="workings">
@@ -602,6 +689,22 @@ Divide $3112$ by $8$.
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/bancrofts-school/2013/sample-paper-1/answers/generated/long-division/s01-q05-w01-ld00.svg" alt="Long division of 3112 by 8" title="papers/bancrofts-school/2013/sample-paper-1/answers/generated/long-division/s01-q05-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= \dfrac{3112}{8} \\\\
@@ -610,6 +713,9 @@ $
 &= 389
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -640,14 +746,24 @@ $389$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="3112" divisor="8" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= \dfrac{3112}{8} \\\\
 &= \dfrac{389 \times 8}{8} \\\\
 &= \dfrac{389 \times \cancel{8}}{\cancel{8}} \\\\
 &= 389
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -668,7 +784,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$389$
+<pre class="language-latex"><code class="language-latex">&#36;389&#36;
 </code></pre>
 </div>
 </div>
@@ -677,41 +793,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4B68EBB-B4F3-46DC-91E5-FCCC518381FF" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B4B68EBB-B4F3-46DC-91E5-FCCC518381FF" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4B68EBB-B4F3-46DC-91E5-FCCC518381FF" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B4B68EBB-B4F3-46DC-91E5-FCCC518381FF" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4B68EBB-B4F3-46DC-91E5-FCCC518381FF" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B4B68EBB-B4F3-46DC-91E5-FCCC518381FF" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4B68EBB-B4F3-46DC-91E5-FCCC518381FF" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B4B68EBB-B4F3-46DC-91E5-FCCC518381FF" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4B68EBB-B4F3-46DC-91E5-FCCC518381FF" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B4B68EBB-B4F3-46DC-91E5-FCCC518381FF" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4B68EBB-B4F3-46DC-91E5-FCCC518381FF" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B4B68EBB-B4F3-46DC-91E5-FCCC518381FF" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4B68EBB-B4F3-46DC-91E5-FCCC518381FF" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B4B68EBB-B4F3-46DC-91E5-FCCC518381FF" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4B68EBB-B4F3-46DC-91E5-FCCC518381FF" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B4B68EBB-B4F3-46DC-91E5-FCCC518381FF" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4B68EBB-B4F3-46DC-91E5-FCCC518381FF" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B4B68EBB-B4F3-46DC-91E5-FCCC518381FF" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4B68EBB-B4F3-46DC-91E5-FCCC518381FF" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B4B68EBB-B4F3-46DC-91E5-FCCC518381FF" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="B4B68EBB-B4F3-46DC-91E5-FCCC518381FF" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="B4B68EBB-B4F3-46DC-91E5-FCCC518381FF" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4B68EBB-B4F3-46DC-91E5-FCCC518381FF" id="FORM-B4B68EBB-B4F3-46DC-91E5-FCCC518381FF" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B4B68EBB-B4F3-46DC-91E5-FCCC518381FF" id="FORM-B4B68EBB-B4F3-46DC-91E5-FCCC518381FF" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -723,7 +839,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>095B2163-257B-4E20-A394-2216498E34FD</p>
 </div>
@@ -734,18 +850,26 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
+</li>
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdecimal
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -757,7 +881,7 @@ Divide $60600$ by $8$.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Divide $60600$ by $8$.
+<pre class="language-latex"><code class="language-latex">Divide &#36;60600&#36; by &#36;8&#36;.
 </code></pre>
 </div>
 <div class="workings">
@@ -781,6 +905,22 @@ Divide $60600$ by $8$.
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/bancrofts-school/2016/sample-paper-2/answers/generated/long-division/s01-q05-w01-ld00.svg" alt="Long division of 60600 by 8" title="papers/bancrofts-school/2016/sample-paper-2/answers/generated/long-division/s01-q05-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= \dfrac{60600}{8} \\\\
@@ -789,6 +929,9 @@ $
 &= 7575
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -819,14 +962,24 @@ $7575$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="60600" divisor="8" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= \dfrac{60600}{8} \\\\
 &= \dfrac{7575 \times 8}{8} \\\\
 &= \dfrac{7575 \times \cancel{8}}{\cancel{8}} \\\\
 &= 7575
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -847,7 +1000,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$7575$
+<pre class="language-latex"><code class="language-latex">&#36;7575&#36;
 </code></pre>
 </div>
 </div>
@@ -856,41 +1009,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="095B2163-257B-4E20-A394-2216498E34FD" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="095B2163-257B-4E20-A394-2216498E34FD" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="095B2163-257B-4E20-A394-2216498E34FD" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="095B2163-257B-4E20-A394-2216498E34FD" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="095B2163-257B-4E20-A394-2216498E34FD" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="095B2163-257B-4E20-A394-2216498E34FD" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="095B2163-257B-4E20-A394-2216498E34FD" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="095B2163-257B-4E20-A394-2216498E34FD" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="095B2163-257B-4E20-A394-2216498E34FD" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="095B2163-257B-4E20-A394-2216498E34FD" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="095B2163-257B-4E20-A394-2216498E34FD" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="095B2163-257B-4E20-A394-2216498E34FD" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="095B2163-257B-4E20-A394-2216498E34FD" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="095B2163-257B-4E20-A394-2216498E34FD" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="095B2163-257B-4E20-A394-2216498E34FD" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="095B2163-257B-4E20-A394-2216498E34FD" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="095B2163-257B-4E20-A394-2216498E34FD" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="095B2163-257B-4E20-A394-2216498E34FD" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="095B2163-257B-4E20-A394-2216498E34FD" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="095B2163-257B-4E20-A394-2216498E34FD" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="095B2163-257B-4E20-A394-2216498E34FD" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="095B2163-257B-4E20-A394-2216498E34FD" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="095B2163-257B-4E20-A394-2216498E34FD" id="FORM-095B2163-257B-4E20-A394-2216498E34FD" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="095B2163-257B-4E20-A394-2216498E34FD" id="FORM-095B2163-257B-4E20-A394-2216498E34FD" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -902,7 +1055,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>A7B38294-BE7C-4024-8AA5-C14D696AA448</p>
 </div>
@@ -913,18 +1066,26 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
+</li>
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdecimal
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -936,7 +1097,7 @@ Divide $2412$ by $9$.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Divide $2412$ by $9$.
+<pre class="language-latex"><code class="language-latex">Divide &#36;2412&#36; by &#36;9&#36;.
 </code></pre>
 </div>
 <div class="workings">
@@ -960,6 +1121,22 @@ Divide $2412$ by $9$.
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/bancrofts-school/2017/sample-paper-3/answers/generated/long-division/s01-q03-w01-ld00.svg" alt="Long division of 2412 by 9" title="papers/bancrofts-school/2017/sample-paper-3/answers/generated/long-division/s01-q03-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= \dfrac{2412}{9} \\\\
@@ -968,6 +1145,9 @@ $
 &= 268
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -998,14 +1178,24 @@ $268$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="2412" divisor="9" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= \dfrac{2412}{9} \\\\
 &= \dfrac{268 \times 9}{9} \\\\
 &= \dfrac{268 \times \cancel{9}}{\cancel{9}} \\\\
 &= 268
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -1026,7 +1216,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$268$
+<pre class="language-latex"><code class="language-latex">&#36;268&#36;
 </code></pre>
 </div>
 </div>
@@ -1035,41 +1225,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A7B38294-BE7C-4024-8AA5-C14D696AA448" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A7B38294-BE7C-4024-8AA5-C14D696AA448" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A7B38294-BE7C-4024-8AA5-C14D696AA448" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A7B38294-BE7C-4024-8AA5-C14D696AA448" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A7B38294-BE7C-4024-8AA5-C14D696AA448" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A7B38294-BE7C-4024-8AA5-C14D696AA448" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A7B38294-BE7C-4024-8AA5-C14D696AA448" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A7B38294-BE7C-4024-8AA5-C14D696AA448" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A7B38294-BE7C-4024-8AA5-C14D696AA448" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A7B38294-BE7C-4024-8AA5-C14D696AA448" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A7B38294-BE7C-4024-8AA5-C14D696AA448" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A7B38294-BE7C-4024-8AA5-C14D696AA448" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A7B38294-BE7C-4024-8AA5-C14D696AA448" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A7B38294-BE7C-4024-8AA5-C14D696AA448" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A7B38294-BE7C-4024-8AA5-C14D696AA448" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A7B38294-BE7C-4024-8AA5-C14D696AA448" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A7B38294-BE7C-4024-8AA5-C14D696AA448" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A7B38294-BE7C-4024-8AA5-C14D696AA448" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A7B38294-BE7C-4024-8AA5-C14D696AA448" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A7B38294-BE7C-4024-8AA5-C14D696AA448" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="A7B38294-BE7C-4024-8AA5-C14D696AA448" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="A7B38294-BE7C-4024-8AA5-C14D696AA448" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A7B38294-BE7C-4024-8AA5-C14D696AA448" id="FORM-A7B38294-BE7C-4024-8AA5-C14D696AA448" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A7B38294-BE7C-4024-8AA5-C14D696AA448" id="FORM-A7B38294-BE7C-4024-8AA5-C14D696AA448" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -1081,7 +1271,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>DD68D940-1996-4CAB-96C8-2F8F80E59537</p>
 </div>
@@ -1092,18 +1282,26 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
+</li>
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdecimal
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -1115,7 +1313,7 @@ Divide $3934$ by $7$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Divide $3934$ by $7$
+<pre class="language-latex"><code class="language-latex">Divide &#36;3934&#36; by &#36;7&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -1139,6 +1337,22 @@ Divide $3934$ by $7$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/bancrofts-school/2021/sample-paper-7/answers/generated/long-division/s01-q05-w01-ld00.svg" alt="Long division of 3934 by 7" title="papers/bancrofts-school/2021/sample-paper-7/answers/generated/long-division/s01-q05-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= \dfrac{3934}{7} \\\\
@@ -1147,6 +1361,9 @@ $
 &= 562
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -1177,14 +1394,24 @@ $562$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="3934" divisor="7" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= \dfrac{3934}{7} \\\\
 &= \dfrac{562 \times 7}{7} \\\\
 &= \dfrac{562 \times \cancel{7}}{\cancel{7}} \\\\
 &= 562
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -1205,7 +1432,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$562$
+<pre class="language-latex"><code class="language-latex">&#36;562&#36;
 </code></pre>
 </div>
 </div>
@@ -1214,41 +1441,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DD68D940-1996-4CAB-96C8-2F8F80E59537" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="DD68D940-1996-4CAB-96C8-2F8F80E59537" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DD68D940-1996-4CAB-96C8-2F8F80E59537" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="DD68D940-1996-4CAB-96C8-2F8F80E59537" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DD68D940-1996-4CAB-96C8-2F8F80E59537" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="DD68D940-1996-4CAB-96C8-2F8F80E59537" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DD68D940-1996-4CAB-96C8-2F8F80E59537" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="DD68D940-1996-4CAB-96C8-2F8F80E59537" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DD68D940-1996-4CAB-96C8-2F8F80E59537" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="DD68D940-1996-4CAB-96C8-2F8F80E59537" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DD68D940-1996-4CAB-96C8-2F8F80E59537" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="DD68D940-1996-4CAB-96C8-2F8F80E59537" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DD68D940-1996-4CAB-96C8-2F8F80E59537" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="DD68D940-1996-4CAB-96C8-2F8F80E59537" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DD68D940-1996-4CAB-96C8-2F8F80E59537" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="DD68D940-1996-4CAB-96C8-2F8F80E59537" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DD68D940-1996-4CAB-96C8-2F8F80E59537" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="DD68D940-1996-4CAB-96C8-2F8F80E59537" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DD68D940-1996-4CAB-96C8-2F8F80E59537" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="DD68D940-1996-4CAB-96C8-2F8F80E59537" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="DD68D940-1996-4CAB-96C8-2F8F80E59537" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="DD68D940-1996-4CAB-96C8-2F8F80E59537" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DD68D940-1996-4CAB-96C8-2F8F80E59537" id="FORM-DD68D940-1996-4CAB-96C8-2F8F80E59537" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="DD68D940-1996-4CAB-96C8-2F8F80E59537" id="FORM-DD68D940-1996-4CAB-96C8-2F8F80E59537" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -1260,7 +1487,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>468DD01B-3AB0-4217-ACBF-3D0D294F43A1</p>
 </div>
@@ -1271,21 +1498,26 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
-<li>
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdecimal
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -1297,7 +1529,7 @@ Calculate $34.3 \div 0.7$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Calculate $34.3 \div 0.7$
+<pre class="language-latex"><code class="language-latex">Calculate &#36;34.3 \div 0.7&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -1361,7 +1593,7 @@ $49$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= \dfrac{34.3}{0.7} \\\\
 &= \dfrac{34.3 \times 10}{0.7 \times 10} \\\\
@@ -1370,7 +1602,7 @@ $49$
 &= \dfrac{49 \times \cancel{7}}{\cancel{7}} \\\\
 &= 49
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -1391,7 +1623,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$49$
+<pre class="language-latex"><code class="language-latex">&#36;49&#36;
 </code></pre>
 </div>
 </div>
@@ -1400,41 +1632,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="468DD01B-3AB0-4217-ACBF-3D0D294F43A1" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="468DD01B-3AB0-4217-ACBF-3D0D294F43A1" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="468DD01B-3AB0-4217-ACBF-3D0D294F43A1" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="468DD01B-3AB0-4217-ACBF-3D0D294F43A1" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="468DD01B-3AB0-4217-ACBF-3D0D294F43A1" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="468DD01B-3AB0-4217-ACBF-3D0D294F43A1" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="468DD01B-3AB0-4217-ACBF-3D0D294F43A1" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="468DD01B-3AB0-4217-ACBF-3D0D294F43A1" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="468DD01B-3AB0-4217-ACBF-3D0D294F43A1" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="468DD01B-3AB0-4217-ACBF-3D0D294F43A1" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="468DD01B-3AB0-4217-ACBF-3D0D294F43A1" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="468DD01B-3AB0-4217-ACBF-3D0D294F43A1" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="468DD01B-3AB0-4217-ACBF-3D0D294F43A1" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="468DD01B-3AB0-4217-ACBF-3D0D294F43A1" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="468DD01B-3AB0-4217-ACBF-3D0D294F43A1" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="468DD01B-3AB0-4217-ACBF-3D0D294F43A1" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="468DD01B-3AB0-4217-ACBF-3D0D294F43A1" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="468DD01B-3AB0-4217-ACBF-3D0D294F43A1" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="468DD01B-3AB0-4217-ACBF-3D0D294F43A1" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="468DD01B-3AB0-4217-ACBF-3D0D294F43A1" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="468DD01B-3AB0-4217-ACBF-3D0D294F43A1" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="468DD01B-3AB0-4217-ACBF-3D0D294F43A1" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="468DD01B-3AB0-4217-ACBF-3D0D294F43A1" id="FORM-468DD01B-3AB0-4217-ACBF-3D0D294F43A1" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="468DD01B-3AB0-4217-ACBF-3D0D294F43A1" id="FORM-468DD01B-3AB0-4217-ACBF-3D0D294F43A1" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -1446,7 +1678,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>C5086124-D4C0-4B41-8F3E-7997B53C51C3</p>
 </div>
@@ -1457,18 +1689,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -1480,7 +1715,7 @@ Calculate $111111 \div 7$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Calculate $111111 \div 7$
+<pre class="language-latex"><code class="language-latex">Calculate &#36;111111 \div 7&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -1504,6 +1739,22 @@ Calculate $111111 \div 7$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/chigwell-school/2020/sample-paper-1/answers/generated/long-division/s01-q02-w01-ld00.svg" alt="Long division of 111111 by 7" title="papers/chigwell-school/2020/sample-paper-1/answers/generated/long-division/s01-q02-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 111111 \div 7 \\\\
@@ -1513,6 +1764,9 @@ $
 &= 15873
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -1543,7 +1797,15 @@ $15873$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="111111" divisor="7" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 111111 \div 7 \\\\
 &= \dfrac {111111} {7} \\\\
@@ -1551,7 +1813,9 @@ $15873$
 &= \dfrac {\cancel{7} \times 15873} {\cancel{7}} \\\\
 &= 15873
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -1572,7 +1836,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$15873$
+<pre class="language-latex"><code class="language-latex">&#36;15873&#36;
 </code></pre>
 </div>
 </div>
@@ -1581,41 +1845,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="C5086124-D4C0-4B41-8F3E-7997B53C51C3" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C5086124-D4C0-4B41-8F3E-7997B53C51C3" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="C5086124-D4C0-4B41-8F3E-7997B53C51C3" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C5086124-D4C0-4B41-8F3E-7997B53C51C3" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="C5086124-D4C0-4B41-8F3E-7997B53C51C3" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C5086124-D4C0-4B41-8F3E-7997B53C51C3" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="C5086124-D4C0-4B41-8F3E-7997B53C51C3" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C5086124-D4C0-4B41-8F3E-7997B53C51C3" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="C5086124-D4C0-4B41-8F3E-7997B53C51C3" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C5086124-D4C0-4B41-8F3E-7997B53C51C3" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="C5086124-D4C0-4B41-8F3E-7997B53C51C3" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C5086124-D4C0-4B41-8F3E-7997B53C51C3" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="C5086124-D4C0-4B41-8F3E-7997B53C51C3" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C5086124-D4C0-4B41-8F3E-7997B53C51C3" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="C5086124-D4C0-4B41-8F3E-7997B53C51C3" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C5086124-D4C0-4B41-8F3E-7997B53C51C3" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="C5086124-D4C0-4B41-8F3E-7997B53C51C3" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C5086124-D4C0-4B41-8F3E-7997B53C51C3" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="C5086124-D4C0-4B41-8F3E-7997B53C51C3" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C5086124-D4C0-4B41-8F3E-7997B53C51C3" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="C5086124-D4C0-4B41-8F3E-7997B53C51C3" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="C5086124-D4C0-4B41-8F3E-7997B53C51C3" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="C5086124-D4C0-4B41-8F3E-7997B53C51C3" id="FORM-C5086124-D4C0-4B41-8F3E-7997B53C51C3" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C5086124-D4C0-4B41-8F3E-7997B53C51C3" id="FORM-C5086124-D4C0-4B41-8F3E-7997B53C51C3" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -1627,7 +1891,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>EA082533-4294-4C7E-9B5B-D99FB25AD9B3</p>
 </div>
@@ -1638,18 +1902,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -1744,6 +2011,23 @@ Work out these divisions:
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>93F722A8-3C1E-4D2C-B6CB-39E8E9A317CF</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -1755,7 +2039,7 @@ $568$ divided by $8$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$568$ divided by $8$
+<pre class="language-latex"><code class="language-latex">&#36;568&#36; divided by &#36;8&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -1818,7 +2102,7 @@ $71$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 568 \div 8 \\\\
 &= \dfrac {568} {8} \\\\
@@ -1826,7 +2110,7 @@ $71$
 &= \dfrac {71 \times \cancel {8}} {\cancel{8}} \\\\
 &= 71
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -1847,7 +2131,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$71$
+<pre class="language-latex"><code class="language-latex">&#36;71&#36;
 </code></pre>
 </div>
 </div>
@@ -1856,6 +2140,23 @@ $
 </li>
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>8B14073E-AC6F-4EDC-AB6A-19E1B0ADAB45</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -1867,7 +2168,7 @@ $1846$ divided by $13$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$1846$ divided by $13$
+<pre class="language-latex"><code class="language-latex">&#36;1846&#36; divided by &#36;13&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -1930,7 +2231,7 @@ $142$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 1846 \div 13 \\\\
 &= \dfrac {1846} {13} \\\\
@@ -1938,7 +2239,7 @@ $142$
 &= \dfrac {142 \times \cancel {13}} {\cancel{13}} \\\\
 &= 142
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -1959,7 +2260,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$142$
+<pre class="language-latex"><code class="language-latex">&#36;142&#36;
 </code></pre>
 </div>
 </div>
@@ -1971,41 +2272,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EA082533-4294-4C7E-9B5B-D99FB25AD9B3" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="EA082533-4294-4C7E-9B5B-D99FB25AD9B3" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EA082533-4294-4C7E-9B5B-D99FB25AD9B3" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="EA082533-4294-4C7E-9B5B-D99FB25AD9B3" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EA082533-4294-4C7E-9B5B-D99FB25AD9B3" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="EA082533-4294-4C7E-9B5B-D99FB25AD9B3" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EA082533-4294-4C7E-9B5B-D99FB25AD9B3" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="EA082533-4294-4C7E-9B5B-D99FB25AD9B3" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EA082533-4294-4C7E-9B5B-D99FB25AD9B3" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="EA082533-4294-4C7E-9B5B-D99FB25AD9B3" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EA082533-4294-4C7E-9B5B-D99FB25AD9B3" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="EA082533-4294-4C7E-9B5B-D99FB25AD9B3" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EA082533-4294-4C7E-9B5B-D99FB25AD9B3" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="EA082533-4294-4C7E-9B5B-D99FB25AD9B3" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EA082533-4294-4C7E-9B5B-D99FB25AD9B3" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="EA082533-4294-4C7E-9B5B-D99FB25AD9B3" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EA082533-4294-4C7E-9B5B-D99FB25AD9B3" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="EA082533-4294-4C7E-9B5B-D99FB25AD9B3" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EA082533-4294-4C7E-9B5B-D99FB25AD9B3" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="EA082533-4294-4C7E-9B5B-D99FB25AD9B3" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="EA082533-4294-4C7E-9B5B-D99FB25AD9B3" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="EA082533-4294-4C7E-9B5B-D99FB25AD9B3" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EA082533-4294-4C7E-9B5B-D99FB25AD9B3" id="FORM-EA082533-4294-4C7E-9B5B-D99FB25AD9B3" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="EA082533-4294-4C7E-9B5B-D99FB25AD9B3" id="FORM-EA082533-4294-4C7E-9B5B-D99FB25AD9B3" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -2017,7 +2318,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>D5204F4A-B807-43B1-A353-487CB9B6B8B2</p>
 </div>
@@ -2028,18 +2329,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -2056,12 +2360,12 @@ $96 \div 6 =$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$96 \div 6 =$
-<emptyline>
--  $17$ 
--  $14$ 
--  $15$
--  $16$
+<pre class="language-latex"><code class="language-latex">&#36;96 \div 6 =&#36;
+
+-  &#36;17&#36; 
+-  &#36;14&#36; 
+-  &#36;15&#36;
+-  &#36;16&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -2085,6 +2389,22 @@ $96 \div 6 =$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/city-of-london-freemens-school/sample/sample-paper-1/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 96 by 6" title="papers/city-of-london-freemens-school/sample/sample-paper-1/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &=  \dfrac{96}{6} \\\\
@@ -2093,6 +2413,9 @@ $
 &=  16
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -2129,14 +2452,24 @@ $16$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="96" divisor="6" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &=  \dfrac{96}{6} \\\\
 &=  \dfrac{16 \times 6}{6} \\\\
 &=  \dfrac{16 \times \cancel 6}{\cancel 6} \\\\
 &=  16
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -2157,7 +2490,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$16$
+<pre class="language-latex"><code class="language-latex">&#36;16&#36;
 </code></pre>
 </div>
 </div>
@@ -2166,41 +2499,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D5204F4A-B807-43B1-A353-487CB9B6B8B2" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D5204F4A-B807-43B1-A353-487CB9B6B8B2" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D5204F4A-B807-43B1-A353-487CB9B6B8B2" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D5204F4A-B807-43B1-A353-487CB9B6B8B2" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D5204F4A-B807-43B1-A353-487CB9B6B8B2" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D5204F4A-B807-43B1-A353-487CB9B6B8B2" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D5204F4A-B807-43B1-A353-487CB9B6B8B2" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D5204F4A-B807-43B1-A353-487CB9B6B8B2" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D5204F4A-B807-43B1-A353-487CB9B6B8B2" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D5204F4A-B807-43B1-A353-487CB9B6B8B2" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D5204F4A-B807-43B1-A353-487CB9B6B8B2" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D5204F4A-B807-43B1-A353-487CB9B6B8B2" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D5204F4A-B807-43B1-A353-487CB9B6B8B2" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D5204F4A-B807-43B1-A353-487CB9B6B8B2" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D5204F4A-B807-43B1-A353-487CB9B6B8B2" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D5204F4A-B807-43B1-A353-487CB9B6B8B2" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D5204F4A-B807-43B1-A353-487CB9B6B8B2" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D5204F4A-B807-43B1-A353-487CB9B6B8B2" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D5204F4A-B807-43B1-A353-487CB9B6B8B2" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D5204F4A-B807-43B1-A353-487CB9B6B8B2" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="D5204F4A-B807-43B1-A353-487CB9B6B8B2" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="D5204F4A-B807-43B1-A353-487CB9B6B8B2" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D5204F4A-B807-43B1-A353-487CB9B6B8B2" id="FORM-D5204F4A-B807-43B1-A353-487CB9B6B8B2" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D5204F4A-B807-43B1-A353-487CB9B6B8B2" id="FORM-D5204F4A-B807-43B1-A353-487CB9B6B8B2" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -2212,7 +2545,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>9A3D9E21-52B8-4FAF-B576-1B242FC6F65F</p>
 </div>
@@ -2223,18 +2556,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -2251,12 +2587,12 @@ $410.3 \div 1000 =$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$410.3 \div 1000 =$
-<emptyline>
--   $41.03$
--   $4.103$
--   $0.4103$ 
--   $0.04103$
+<pre class="language-latex"><code class="language-latex">&#36;410.3 \div 1000 =&#36;
+
+-   &#36;41.03&#36;
+-   &#36;4.103&#36;
+-   &#36;0.4103&#36; 
+-   &#36;0.04103&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -2323,13 +2659,13 @@ $0.4103$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 410.3 \div 1000 \\\\
 &= \dfrac {410.3} {1000} \\\\
 &= 0.4103
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -2350,7 +2686,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$0.4103$
+<pre class="language-latex"><code class="language-latex">&#36;0.4103&#36;
 </code></pre>
 </div>
 </div>
@@ -2359,41 +2695,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9A3D9E21-52B8-4FAF-B576-1B242FC6F65F" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9A3D9E21-52B8-4FAF-B576-1B242FC6F65F" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9A3D9E21-52B8-4FAF-B576-1B242FC6F65F" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9A3D9E21-52B8-4FAF-B576-1B242FC6F65F" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9A3D9E21-52B8-4FAF-B576-1B242FC6F65F" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9A3D9E21-52B8-4FAF-B576-1B242FC6F65F" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9A3D9E21-52B8-4FAF-B576-1B242FC6F65F" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9A3D9E21-52B8-4FAF-B576-1B242FC6F65F" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9A3D9E21-52B8-4FAF-B576-1B242FC6F65F" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9A3D9E21-52B8-4FAF-B576-1B242FC6F65F" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9A3D9E21-52B8-4FAF-B576-1B242FC6F65F" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9A3D9E21-52B8-4FAF-B576-1B242FC6F65F" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9A3D9E21-52B8-4FAF-B576-1B242FC6F65F" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9A3D9E21-52B8-4FAF-B576-1B242FC6F65F" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9A3D9E21-52B8-4FAF-B576-1B242FC6F65F" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9A3D9E21-52B8-4FAF-B576-1B242FC6F65F" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9A3D9E21-52B8-4FAF-B576-1B242FC6F65F" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9A3D9E21-52B8-4FAF-B576-1B242FC6F65F" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9A3D9E21-52B8-4FAF-B576-1B242FC6F65F" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9A3D9E21-52B8-4FAF-B576-1B242FC6F65F" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="9A3D9E21-52B8-4FAF-B576-1B242FC6F65F" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="9A3D9E21-52B8-4FAF-B576-1B242FC6F65F" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9A3D9E21-52B8-4FAF-B576-1B242FC6F65F" id="FORM-9A3D9E21-52B8-4FAF-B576-1B242FC6F65F" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9A3D9E21-52B8-4FAF-B576-1B242FC6F65F" id="FORM-9A3D9E21-52B8-4FAF-B576-1B242FC6F65F" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -2405,7 +2741,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>EC50BF96-8275-40FB-9755-C0806452FE6D</p>
 </div>
@@ -2416,18 +2752,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -2444,12 +2783,12 @@ $96 \div 6 =$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$96 \div 6 =$
-<emptyline>
-- $17$
-- $14$
-- $15$
-- $16$
+<pre class="language-latex"><code class="language-latex">&#36;96 \div 6 =&#36;
+
+- &#36;17&#36;
+- &#36;14&#36;
+- &#36;15&#36;
+- &#36;16&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -2473,6 +2812,22 @@ $96 \div 6 =$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/city-of-london-freemens-school/sample/sample-paper-2/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 96 by 6" title="papers/city-of-london-freemens-school/sample/sample-paper-2/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 96 \div 6 \\\\
@@ -2482,6 +2837,9 @@ $
 &= 16
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -2518,7 +2876,15 @@ $16$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="96" divisor="6" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 96 \div 6 \\\\
 &= \dfrac{96}{6} \\\\
@@ -2526,7 +2892,9 @@ $16$
 &= \dfrac{16 \times \cancel 6}{ \cancel6} \\\\
 &= 16
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -2547,7 +2915,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$16$
+<pre class="language-latex"><code class="language-latex">&#36;16&#36;
 </code></pre>
 </div>
 </div>
@@ -2556,41 +2924,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EC50BF96-8275-40FB-9755-C0806452FE6D" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="EC50BF96-8275-40FB-9755-C0806452FE6D" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EC50BF96-8275-40FB-9755-C0806452FE6D" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="EC50BF96-8275-40FB-9755-C0806452FE6D" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EC50BF96-8275-40FB-9755-C0806452FE6D" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="EC50BF96-8275-40FB-9755-C0806452FE6D" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EC50BF96-8275-40FB-9755-C0806452FE6D" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="EC50BF96-8275-40FB-9755-C0806452FE6D" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EC50BF96-8275-40FB-9755-C0806452FE6D" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="EC50BF96-8275-40FB-9755-C0806452FE6D" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EC50BF96-8275-40FB-9755-C0806452FE6D" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="EC50BF96-8275-40FB-9755-C0806452FE6D" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EC50BF96-8275-40FB-9755-C0806452FE6D" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="EC50BF96-8275-40FB-9755-C0806452FE6D" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EC50BF96-8275-40FB-9755-C0806452FE6D" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="EC50BF96-8275-40FB-9755-C0806452FE6D" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EC50BF96-8275-40FB-9755-C0806452FE6D" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="EC50BF96-8275-40FB-9755-C0806452FE6D" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EC50BF96-8275-40FB-9755-C0806452FE6D" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="EC50BF96-8275-40FB-9755-C0806452FE6D" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="EC50BF96-8275-40FB-9755-C0806452FE6D" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="EC50BF96-8275-40FB-9755-C0806452FE6D" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EC50BF96-8275-40FB-9755-C0806452FE6D" id="FORM-EC50BF96-8275-40FB-9755-C0806452FE6D" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="EC50BF96-8275-40FB-9755-C0806452FE6D" id="FORM-EC50BF96-8275-40FB-9755-C0806452FE6D" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -2602,7 +2970,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>11E67077-E5D7-4AAB-8230-3443578B97AB</p>
 </div>
@@ -2613,18 +2981,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -2641,12 +3012,12 @@ $410.3 \div 1000 =$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$410.3 \div 1000 =$
-<emptyline>
-- $41.03$
-- $4.103$
-- $0.4103$
-- $0.04103$
+<pre class="language-latex"><code class="language-latex">&#36;410.3 \div 1000 =&#36;
+
+- &#36;41.03&#36;
+- &#36;4.103&#36;
+- &#36;0.4103&#36;
+- &#36;0.04103&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -2713,13 +3084,13 @@ $0.4103$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 410.3 \div 1000 \\\\
 &= \dfrac {410.3} {1000} \\\\
 &= 0.4103
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -2740,7 +3111,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$0.4103$
+<pre class="language-latex"><code class="language-latex">&#36;0.4103&#36;
 </code></pre>
 </div>
 </div>
@@ -2749,41 +3120,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="11E67077-E5D7-4AAB-8230-3443578B97AB" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="11E67077-E5D7-4AAB-8230-3443578B97AB" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="11E67077-E5D7-4AAB-8230-3443578B97AB" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="11E67077-E5D7-4AAB-8230-3443578B97AB" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="11E67077-E5D7-4AAB-8230-3443578B97AB" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="11E67077-E5D7-4AAB-8230-3443578B97AB" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="11E67077-E5D7-4AAB-8230-3443578B97AB" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="11E67077-E5D7-4AAB-8230-3443578B97AB" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="11E67077-E5D7-4AAB-8230-3443578B97AB" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="11E67077-E5D7-4AAB-8230-3443578B97AB" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="11E67077-E5D7-4AAB-8230-3443578B97AB" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="11E67077-E5D7-4AAB-8230-3443578B97AB" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="11E67077-E5D7-4AAB-8230-3443578B97AB" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="11E67077-E5D7-4AAB-8230-3443578B97AB" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="11E67077-E5D7-4AAB-8230-3443578B97AB" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="11E67077-E5D7-4AAB-8230-3443578B97AB" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="11E67077-E5D7-4AAB-8230-3443578B97AB" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="11E67077-E5D7-4AAB-8230-3443578B97AB" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="11E67077-E5D7-4AAB-8230-3443578B97AB" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="11E67077-E5D7-4AAB-8230-3443578B97AB" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="11E67077-E5D7-4AAB-8230-3443578B97AB" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="11E67077-E5D7-4AAB-8230-3443578B97AB" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="11E67077-E5D7-4AAB-8230-3443578B97AB" id="FORM-11E67077-E5D7-4AAB-8230-3443578B97AB" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="11E67077-E5D7-4AAB-8230-3443578B97AB" id="FORM-11E67077-E5D7-4AAB-8230-3443578B97AB" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -2795,7 +3166,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>47273DED-F558-4135-96EA-25B112E5F200</p>
 </div>
@@ -2806,18 +3177,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -2829,7 +3203,7 @@ $3072 \div 12$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$3072 \div 12$ 
+<pre class="language-latex"><code class="language-latex">&#36;3072 \div 12&#36; 
 </code></pre>
 </div>
 <div class="workings">
@@ -2853,6 +3227,22 @@ $3072 \div 12$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/city-of-london-school-for-girls/sample/sample-paper-1/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 3072 by 12" title="papers/city-of-london-school-for-girls/sample/sample-paper-1/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= \dfrac{3072}{12} \\\\
@@ -2861,6 +3251,9 @@ $
 &= 256
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -2891,14 +3284,24 @@ $256$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="3072" divisor="12" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= \dfrac{3072}{12} \\\\
 &= \dfrac{256 \times 3 \times 4}{3 \times 4} \\\\
 &= \dfrac{256 \times \cancel{3} \times \cancel{4}}{\cancel{3} \times \cancel{4}} \\\\
 &= 256
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -2919,7 +3322,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$256$
+<pre class="language-latex"><code class="language-latex">&#36;256&#36;
 </code></pre>
 </div>
 </div>
@@ -2928,41 +3331,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="47273DED-F558-4135-96EA-25B112E5F200" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="47273DED-F558-4135-96EA-25B112E5F200" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="47273DED-F558-4135-96EA-25B112E5F200" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="47273DED-F558-4135-96EA-25B112E5F200" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="47273DED-F558-4135-96EA-25B112E5F200" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="47273DED-F558-4135-96EA-25B112E5F200" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="47273DED-F558-4135-96EA-25B112E5F200" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="47273DED-F558-4135-96EA-25B112E5F200" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="47273DED-F558-4135-96EA-25B112E5F200" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="47273DED-F558-4135-96EA-25B112E5F200" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="47273DED-F558-4135-96EA-25B112E5F200" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="47273DED-F558-4135-96EA-25B112E5F200" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="47273DED-F558-4135-96EA-25B112E5F200" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="47273DED-F558-4135-96EA-25B112E5F200" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="47273DED-F558-4135-96EA-25B112E5F200" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="47273DED-F558-4135-96EA-25B112E5F200" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="47273DED-F558-4135-96EA-25B112E5F200" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="47273DED-F558-4135-96EA-25B112E5F200" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="47273DED-F558-4135-96EA-25B112E5F200" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="47273DED-F558-4135-96EA-25B112E5F200" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="47273DED-F558-4135-96EA-25B112E5F200" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="47273DED-F558-4135-96EA-25B112E5F200" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="47273DED-F558-4135-96EA-25B112E5F200" id="FORM-47273DED-F558-4135-96EA-25B112E5F200" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="47273DED-F558-4135-96EA-25B112E5F200" id="FORM-47273DED-F558-4135-96EA-25B112E5F200" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -2974,7 +3377,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>82458AC6-CD20-4DD9-B868-A47690878AF1</p>
 </div>
@@ -2985,18 +3388,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -3008,7 +3414,7 @@ Divide $5616$ by $8$.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Divide $5616$ by $8$.
+<pre class="language-latex"><code class="language-latex">Divide &#36;5616&#36; by &#36;8&#36;.
 </code></pre>
 </div>
 <div class="workings">
@@ -3032,6 +3438,22 @@ Divide $5616$ by $8$.
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/colfes-school/sample/sample-paper/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 5616 by 8" title="papers/colfes-school/sample/sample-paper/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= \dfrac{5616}{8} \\\\
@@ -3040,6 +3462,9 @@ $
 &= 702
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -3070,14 +3495,24 @@ $702$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="5616" divisor="8" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= \dfrac{5616}{8} \\\\
 &= \dfrac{702 \times 8}{8} \\\\
 &= \dfrac{702 \times \cancel{8}}{\cancel{8}} \\\\
 &= 702
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -3098,7 +3533,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$702$
+<pre class="language-latex"><code class="language-latex">&#36;702&#36;
 </code></pre>
 </div>
 </div>
@@ -3107,41 +3542,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="82458AC6-CD20-4DD9-B868-A47690878AF1" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="82458AC6-CD20-4DD9-B868-A47690878AF1" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="82458AC6-CD20-4DD9-B868-A47690878AF1" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="82458AC6-CD20-4DD9-B868-A47690878AF1" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="82458AC6-CD20-4DD9-B868-A47690878AF1" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="82458AC6-CD20-4DD9-B868-A47690878AF1" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="82458AC6-CD20-4DD9-B868-A47690878AF1" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="82458AC6-CD20-4DD9-B868-A47690878AF1" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="82458AC6-CD20-4DD9-B868-A47690878AF1" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="82458AC6-CD20-4DD9-B868-A47690878AF1" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="82458AC6-CD20-4DD9-B868-A47690878AF1" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="82458AC6-CD20-4DD9-B868-A47690878AF1" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="82458AC6-CD20-4DD9-B868-A47690878AF1" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="82458AC6-CD20-4DD9-B868-A47690878AF1" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="82458AC6-CD20-4DD9-B868-A47690878AF1" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="82458AC6-CD20-4DD9-B868-A47690878AF1" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="82458AC6-CD20-4DD9-B868-A47690878AF1" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="82458AC6-CD20-4DD9-B868-A47690878AF1" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="82458AC6-CD20-4DD9-B868-A47690878AF1" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="82458AC6-CD20-4DD9-B868-A47690878AF1" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="82458AC6-CD20-4DD9-B868-A47690878AF1" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="82458AC6-CD20-4DD9-B868-A47690878AF1" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="82458AC6-CD20-4DD9-B868-A47690878AF1" id="FORM-82458AC6-CD20-4DD9-B868-A47690878AF1" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="82458AC6-CD20-4DD9-B868-A47690878AF1" id="FORM-82458AC6-CD20-4DD9-B868-A47690878AF1" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -3153,7 +3588,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>E31A408D-4BBF-4961-BB3F-6E1193B3B262</p>
 </div>
@@ -3164,18 +3599,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -3197,6 +3635,23 @@ tdivision
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>C1BDA626-60A8-45A2-AA00-88534DFC7678</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -3208,7 +3663,7 @@ Calculate: $195 \div 15$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Calculate: $195 \div 15$
+<pre class="language-latex"><code class="language-latex">Calculate: &#36;195 \div 15&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -3232,6 +3687,22 @@ Calculate: $195 \div 15$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/csse/2015/sample-paper-1/answers/generated/long-division/s01-q04-s01-w01-ld00.svg" alt="Long division of 195 by 15" title="papers/csse/2015/sample-paper-1/answers/generated/long-division/s01-q04-s01-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= \dfrac{195}{15} \\\\
@@ -3240,6 +3711,9 @@ $
 &= 13
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -3270,14 +3744,24 @@ $13$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="195" divisor="15" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= \dfrac{195}{15} \\\\
 &= \dfrac{13 \times 3 \times 5}{3 \times 5} \\\\
 &= \dfrac{13 \times \cancel{3} \times \cancel{5}}{\cancel{3} \times \cancel{5}} \\\\
 &= 13
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -3298,7 +3782,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$13$
+<pre class="language-latex"><code class="language-latex">&#36;13&#36;
 </code></pre>
 </div>
 </div>
@@ -3307,6 +3791,23 @@ $
 </li>
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>57A56A0E-C550-4EA6-BE0F-908F63619302</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -3318,7 +3819,7 @@ Divide $14$ by $0.2$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Divide $14$ by $0.2$
+<pre class="language-latex"><code class="language-latex">Divide &#36;14&#36; by &#36;0.2&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -3383,7 +3884,7 @@ $70$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= \dfrac{14}{0.2} \\\\
 &= \dfrac{14 \times 10}{0.2 \times 10} \\\\
@@ -3393,7 +3894,7 @@ $70$
 &= 14 \times 5 \\\\
 &= 70
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -3414,7 +3915,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$70$
+<pre class="language-latex"><code class="language-latex">&#36;70&#36;
 </code></pre>
 </div>
 </div>
@@ -3426,41 +3927,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E31A408D-4BBF-4961-BB3F-6E1193B3B262" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="E31A408D-4BBF-4961-BB3F-6E1193B3B262" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E31A408D-4BBF-4961-BB3F-6E1193B3B262" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="E31A408D-4BBF-4961-BB3F-6E1193B3B262" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E31A408D-4BBF-4961-BB3F-6E1193B3B262" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="E31A408D-4BBF-4961-BB3F-6E1193B3B262" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E31A408D-4BBF-4961-BB3F-6E1193B3B262" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="E31A408D-4BBF-4961-BB3F-6E1193B3B262" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E31A408D-4BBF-4961-BB3F-6E1193B3B262" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="E31A408D-4BBF-4961-BB3F-6E1193B3B262" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E31A408D-4BBF-4961-BB3F-6E1193B3B262" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="E31A408D-4BBF-4961-BB3F-6E1193B3B262" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E31A408D-4BBF-4961-BB3F-6E1193B3B262" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="E31A408D-4BBF-4961-BB3F-6E1193B3B262" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E31A408D-4BBF-4961-BB3F-6E1193B3B262" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="E31A408D-4BBF-4961-BB3F-6E1193B3B262" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E31A408D-4BBF-4961-BB3F-6E1193B3B262" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="E31A408D-4BBF-4961-BB3F-6E1193B3B262" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E31A408D-4BBF-4961-BB3F-6E1193B3B262" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="E31A408D-4BBF-4961-BB3F-6E1193B3B262" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="E31A408D-4BBF-4961-BB3F-6E1193B3B262" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="E31A408D-4BBF-4961-BB3F-6E1193B3B262" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="E31A408D-4BBF-4961-BB3F-6E1193B3B262" id="FORM-E31A408D-4BBF-4961-BB3F-6E1193B3B262" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="E31A408D-4BBF-4961-BB3F-6E1193B3B262" id="FORM-E31A408D-4BBF-4961-BB3F-6E1193B3B262" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -3472,7 +3973,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>A3D8068B-24C5-46C6-8558-E0B2311AA73D</p>
 </div>
@@ -3483,18 +3984,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -3506,7 +4010,7 @@ Work out $4050 \div 100$.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $4050 \div 100$.
+<pre class="language-latex"><code class="language-latex">Work out &#36;4050 \div 100&#36;.
 </code></pre>
 </div>
 <div class="workings">
@@ -3566,12 +4070,12 @@ $40.5$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= \dfrac{4050}{100} \\\\
 &= 40.5
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -3592,7 +4096,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$40.5$
+<pre class="language-latex"><code class="language-latex">&#36;40.5&#36;
 </code></pre>
 </div>
 </div>
@@ -3601,41 +4105,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A3D8068B-24C5-46C6-8558-E0B2311AA73D" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A3D8068B-24C5-46C6-8558-E0B2311AA73D" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A3D8068B-24C5-46C6-8558-E0B2311AA73D" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A3D8068B-24C5-46C6-8558-E0B2311AA73D" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A3D8068B-24C5-46C6-8558-E0B2311AA73D" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A3D8068B-24C5-46C6-8558-E0B2311AA73D" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A3D8068B-24C5-46C6-8558-E0B2311AA73D" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A3D8068B-24C5-46C6-8558-E0B2311AA73D" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A3D8068B-24C5-46C6-8558-E0B2311AA73D" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A3D8068B-24C5-46C6-8558-E0B2311AA73D" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A3D8068B-24C5-46C6-8558-E0B2311AA73D" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A3D8068B-24C5-46C6-8558-E0B2311AA73D" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A3D8068B-24C5-46C6-8558-E0B2311AA73D" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A3D8068B-24C5-46C6-8558-E0B2311AA73D" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A3D8068B-24C5-46C6-8558-E0B2311AA73D" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A3D8068B-24C5-46C6-8558-E0B2311AA73D" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A3D8068B-24C5-46C6-8558-E0B2311AA73D" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A3D8068B-24C5-46C6-8558-E0B2311AA73D" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A3D8068B-24C5-46C6-8558-E0B2311AA73D" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A3D8068B-24C5-46C6-8558-E0B2311AA73D" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="A3D8068B-24C5-46C6-8558-E0B2311AA73D" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="A3D8068B-24C5-46C6-8558-E0B2311AA73D" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="A3D8068B-24C5-46C6-8558-E0B2311AA73D" id="FORM-A3D8068B-24C5-46C6-8558-E0B2311AA73D" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A3D8068B-24C5-46C6-8558-E0B2311AA73D" id="FORM-A3D8068B-24C5-46C6-8558-E0B2311AA73D" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -3647,7 +4151,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>76853B80-475C-45FC-8F30-B40957F57E47</p>
 </div>
@@ -3658,18 +4162,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -3681,7 +4188,7 @@ $2.3 \div 1000 =$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$2.3 \div 1000 =$
+<pre class="language-latex"><code class="language-latex">&#36;2.3 \div 1000 =&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -3742,13 +4249,13 @@ $0.0023$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &=  2.3 \div 1000 \\\\
 &=  \dfrac {2.3} {1000} \\\\
 &=  0.0023
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -3769,7 +4276,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$0.0023$
+<pre class="language-latex"><code class="language-latex">&#36;0.0023&#36;
 </code></pre>
 </div>
 </div>
@@ -3778,41 +4285,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" id="FORM-76853B80-475C-45FC-8F30-B40957F57E47" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" id="FORM-76853B80-475C-45FC-8F30-B40957F57E47" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -3824,7 +4331,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>21C67B7B-044B-4F38-8EF5-F6242FC9D5FE</p>
 </div>
@@ -3835,18 +4342,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -3858,7 +4368,7 @@ Calculate $2184 \div 7$.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Calculate $2184 \div 7$.
+<pre class="language-latex"><code class="language-latex">Calculate &#36;2184 \div 7&#36;.
 </code></pre>
 </div>
 <div class="workings">
@@ -3882,6 +4392,22 @@ Calculate $2184 \div 7$.
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/dulwich-college/sample/specimen-paper-a/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 2184 by 7" title="papers/dulwich-college/sample/specimen-paper-a/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= \dfrac {2184} {7} \\\\
@@ -3890,6 +4416,9 @@ $
 &= 312
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -3920,14 +4449,24 @@ $312$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="2184" divisor="7" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= \dfrac {2184} {7} \\\\
 &= \dfrac {312 \times 7} {7} \\\\
 &= \dfrac {312 \times \cancel{7}} {\cancel{7}} \\\\
 &= 312
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -3948,7 +4487,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$312$
+<pre class="language-latex"><code class="language-latex">&#36;312&#36;
 </code></pre>
 </div>
 </div>
@@ -3957,41 +4496,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="21C67B7B-044B-4F38-8EF5-F6242FC9D5FE" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="21C67B7B-044B-4F38-8EF5-F6242FC9D5FE" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="21C67B7B-044B-4F38-8EF5-F6242FC9D5FE" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="21C67B7B-044B-4F38-8EF5-F6242FC9D5FE" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="21C67B7B-044B-4F38-8EF5-F6242FC9D5FE" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="21C67B7B-044B-4F38-8EF5-F6242FC9D5FE" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="21C67B7B-044B-4F38-8EF5-F6242FC9D5FE" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="21C67B7B-044B-4F38-8EF5-F6242FC9D5FE" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="21C67B7B-044B-4F38-8EF5-F6242FC9D5FE" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="21C67B7B-044B-4F38-8EF5-F6242FC9D5FE" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="21C67B7B-044B-4F38-8EF5-F6242FC9D5FE" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="21C67B7B-044B-4F38-8EF5-F6242FC9D5FE" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="21C67B7B-044B-4F38-8EF5-F6242FC9D5FE" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="21C67B7B-044B-4F38-8EF5-F6242FC9D5FE" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="21C67B7B-044B-4F38-8EF5-F6242FC9D5FE" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="21C67B7B-044B-4F38-8EF5-F6242FC9D5FE" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="21C67B7B-044B-4F38-8EF5-F6242FC9D5FE" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="21C67B7B-044B-4F38-8EF5-F6242FC9D5FE" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="21C67B7B-044B-4F38-8EF5-F6242FC9D5FE" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="21C67B7B-044B-4F38-8EF5-F6242FC9D5FE" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="21C67B7B-044B-4F38-8EF5-F6242FC9D5FE" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="21C67B7B-044B-4F38-8EF5-F6242FC9D5FE" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="21C67B7B-044B-4F38-8EF5-F6242FC9D5FE" id="FORM-21C67B7B-044B-4F38-8EF5-F6242FC9D5FE" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="21C67B7B-044B-4F38-8EF5-F6242FC9D5FE" id="FORM-21C67B7B-044B-4F38-8EF5-F6242FC9D5FE" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -4003,7 +4542,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C</p>
 </div>
@@ -4014,18 +4553,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -4037,7 +4579,7 @@ $3258 \div 9$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$3258 \div 9$
+<pre class="language-latex"><code class="language-latex">&#36;3258 \div 9&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -4061,6 +4603,22 @@ $3258 \div 9$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/dulwich-college/sample/specimen-paper-b/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 3258 by 9" title="papers/dulwich-college/sample/specimen-paper-b/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 3258 \div 9 \\\\
@@ -4070,6 +4628,9 @@ $
 &= 362
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -4100,7 +4661,15 @@ $362$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="3258" divisor="9" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 3258 \div 9 \\\\
 &= \dfrac {3258} {9} \\\\
@@ -4108,7 +4677,9 @@ $362$
 &= \dfrac {362 \times \cancel {9}} {\cancel {9}} \\\\
 &= 362
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -4129,7 +4700,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$362$
+<pre class="language-latex"><code class="language-latex">&#36;362&#36;
 </code></pre>
 </div>
 </div>
@@ -4138,41 +4709,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C" id="FORM-7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C" id="FORM-7B4CCE3C-8F7C-49FD-AB57-B7A6D20AA77C" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -4184,7 +4755,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>012B2EE9-6837-4285-9A6B-930DDEE39FAD</p>
 </div>
@@ -4195,18 +4766,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -4218,7 +4792,7 @@ $385 \div 7$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$385 \div 7$
+<pre class="language-latex"><code class="language-latex">&#36;385 \div 7&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -4242,6 +4816,22 @@ $385 \div 7$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/dulwich-college/sample/specimen-paper-c/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 385 by 7" title="papers/dulwich-college/sample/specimen-paper-c/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 385 \div 7 \\\\
@@ -4251,6 +4841,9 @@ $
 &= 55
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -4281,7 +4874,15 @@ $55$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="385" divisor="7" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 385 \div 7 \\\\
 &= \dfrac {385} {7} \\\\
@@ -4289,7 +4890,9 @@ $55$
 &= \dfrac {55 \times \cancel{7} } {\cancel{7} } \\\\
 &= 55
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -4310,7 +4913,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$55$
+<pre class="language-latex"><code class="language-latex">&#36;55&#36;
 </code></pre>
 </div>
 </div>
@@ -4319,41 +4922,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="012B2EE9-6837-4285-9A6B-930DDEE39FAD" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="012B2EE9-6837-4285-9A6B-930DDEE39FAD" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="012B2EE9-6837-4285-9A6B-930DDEE39FAD" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="012B2EE9-6837-4285-9A6B-930DDEE39FAD" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="012B2EE9-6837-4285-9A6B-930DDEE39FAD" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="012B2EE9-6837-4285-9A6B-930DDEE39FAD" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="012B2EE9-6837-4285-9A6B-930DDEE39FAD" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="012B2EE9-6837-4285-9A6B-930DDEE39FAD" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="012B2EE9-6837-4285-9A6B-930DDEE39FAD" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="012B2EE9-6837-4285-9A6B-930DDEE39FAD" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="012B2EE9-6837-4285-9A6B-930DDEE39FAD" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="012B2EE9-6837-4285-9A6B-930DDEE39FAD" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="012B2EE9-6837-4285-9A6B-930DDEE39FAD" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="012B2EE9-6837-4285-9A6B-930DDEE39FAD" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="012B2EE9-6837-4285-9A6B-930DDEE39FAD" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="012B2EE9-6837-4285-9A6B-930DDEE39FAD" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="012B2EE9-6837-4285-9A6B-930DDEE39FAD" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="012B2EE9-6837-4285-9A6B-930DDEE39FAD" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="012B2EE9-6837-4285-9A6B-930DDEE39FAD" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="012B2EE9-6837-4285-9A6B-930DDEE39FAD" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="012B2EE9-6837-4285-9A6B-930DDEE39FAD" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="012B2EE9-6837-4285-9A6B-930DDEE39FAD" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="012B2EE9-6837-4285-9A6B-930DDEE39FAD" id="FORM-012B2EE9-6837-4285-9A6B-930DDEE39FAD" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="012B2EE9-6837-4285-9A6B-930DDEE39FAD" id="FORM-012B2EE9-6837-4285-9A6B-930DDEE39FAD" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -4365,7 +4968,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>9E2D3610-906A-449B-82A4-3DB6E141D0E4</p>
 </div>
@@ -4376,18 +4979,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -4399,7 +5005,7 @@ $602 \div 7$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$602 \div 7$
+<pre class="language-latex"><code class="language-latex">&#36;602 \div 7&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -4423,6 +5029,22 @@ $602 \div 7$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/dulwich-college/sample/specimen-paper-d/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 602 by 7" title="papers/dulwich-college/sample/specimen-paper-d/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 602 \div 7 \\\\
@@ -4432,6 +5054,9 @@ $
 &= 86
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -4462,7 +5087,15 @@ $86$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="602" divisor="7" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 602 \div 7 \\\\
 &= \dfrac {602} {7} \\\\
@@ -4470,7 +5103,9 @@ $86$
 &= \dfrac {86 \times \cancel {7} } {\cancel {7} } \\\\
 &= 86
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -4491,7 +5126,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$86$
+<pre class="language-latex"><code class="language-latex">&#36;86&#36;
 </code></pre>
 </div>
 </div>
@@ -4500,41 +5135,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9E2D3610-906A-449B-82A4-3DB6E141D0E4" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9E2D3610-906A-449B-82A4-3DB6E141D0E4" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9E2D3610-906A-449B-82A4-3DB6E141D0E4" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9E2D3610-906A-449B-82A4-3DB6E141D0E4" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9E2D3610-906A-449B-82A4-3DB6E141D0E4" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9E2D3610-906A-449B-82A4-3DB6E141D0E4" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9E2D3610-906A-449B-82A4-3DB6E141D0E4" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9E2D3610-906A-449B-82A4-3DB6E141D0E4" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9E2D3610-906A-449B-82A4-3DB6E141D0E4" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9E2D3610-906A-449B-82A4-3DB6E141D0E4" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9E2D3610-906A-449B-82A4-3DB6E141D0E4" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9E2D3610-906A-449B-82A4-3DB6E141D0E4" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9E2D3610-906A-449B-82A4-3DB6E141D0E4" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9E2D3610-906A-449B-82A4-3DB6E141D0E4" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9E2D3610-906A-449B-82A4-3DB6E141D0E4" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9E2D3610-906A-449B-82A4-3DB6E141D0E4" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9E2D3610-906A-449B-82A4-3DB6E141D0E4" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9E2D3610-906A-449B-82A4-3DB6E141D0E4" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9E2D3610-906A-449B-82A4-3DB6E141D0E4" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9E2D3610-906A-449B-82A4-3DB6E141D0E4" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="9E2D3610-906A-449B-82A4-3DB6E141D0E4" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="9E2D3610-906A-449B-82A4-3DB6E141D0E4" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9E2D3610-906A-449B-82A4-3DB6E141D0E4" id="FORM-9E2D3610-906A-449B-82A4-3DB6E141D0E4" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9E2D3610-906A-449B-82A4-3DB6E141D0E4" id="FORM-9E2D3610-906A-449B-82A4-3DB6E141D0E4" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -4546,7 +5181,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>4B064430-A3B1-49A5-B5A7-D36E815440A4</p>
 </div>
@@ -4557,18 +5192,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -4580,7 +5218,7 @@ $60.2 \div 7$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$60.2 \div 7$ 
+<pre class="language-latex"><code class="language-latex">&#36;60.2 \div 7&#36; 
 </code></pre>
 </div>
 <div class="workings">
@@ -4641,13 +5279,13 @@ $8.6$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 60.2 \div 7 \\\\
 &= \dfrac {60.2} {7} \\\\
 &= 8.6
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -4668,7 +5306,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$8.6$
+<pre class="language-latex"><code class="language-latex">&#36;8.6&#36;
 </code></pre>
 </div>
 </div>
@@ -4677,41 +5315,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="4B064430-A3B1-49A5-B5A7-D36E815440A4" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="4B064430-A3B1-49A5-B5A7-D36E815440A4" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="4B064430-A3B1-49A5-B5A7-D36E815440A4" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="4B064430-A3B1-49A5-B5A7-D36E815440A4" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="4B064430-A3B1-49A5-B5A7-D36E815440A4" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="4B064430-A3B1-49A5-B5A7-D36E815440A4" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="4B064430-A3B1-49A5-B5A7-D36E815440A4" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="4B064430-A3B1-49A5-B5A7-D36E815440A4" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="4B064430-A3B1-49A5-B5A7-D36E815440A4" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="4B064430-A3B1-49A5-B5A7-D36E815440A4" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="4B064430-A3B1-49A5-B5A7-D36E815440A4" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="4B064430-A3B1-49A5-B5A7-D36E815440A4" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="4B064430-A3B1-49A5-B5A7-D36E815440A4" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="4B064430-A3B1-49A5-B5A7-D36E815440A4" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="4B064430-A3B1-49A5-B5A7-D36E815440A4" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="4B064430-A3B1-49A5-B5A7-D36E815440A4" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="4B064430-A3B1-49A5-B5A7-D36E815440A4" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="4B064430-A3B1-49A5-B5A7-D36E815440A4" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="4B064430-A3B1-49A5-B5A7-D36E815440A4" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="4B064430-A3B1-49A5-B5A7-D36E815440A4" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="4B064430-A3B1-49A5-B5A7-D36E815440A4" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="4B064430-A3B1-49A5-B5A7-D36E815440A4" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="4B064430-A3B1-49A5-B5A7-D36E815440A4" id="FORM-4B064430-A3B1-49A5-B5A7-D36E815440A4" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="4B064430-A3B1-49A5-B5A7-D36E815440A4" id="FORM-4B064430-A3B1-49A5-B5A7-D36E815440A4" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -4723,7 +5361,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>7B44CDC5-44AD-4134-9F9B-4445554B8624</p>
 </div>
@@ -4734,18 +5372,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -4757,7 +5398,7 @@ $6.48 \div 6$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$6.48 \div 6$ 
+<pre class="language-latex"><code class="language-latex">&#36;6.48 \div 6&#36; 
 </code></pre>
 </div>
 <div class="workings">
@@ -4817,12 +5458,12 @@ $1.08$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= \dfrac{6.48}{6} \\\\
 &= 1.08
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -4843,7 +5484,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$1.08$
+<pre class="language-latex"><code class="language-latex">&#36;1.08&#36;
 </code></pre>
 </div>
 </div>
@@ -4852,41 +5493,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B44CDC5-44AD-4134-9F9B-4445554B8624" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="7B44CDC5-44AD-4134-9F9B-4445554B8624" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B44CDC5-44AD-4134-9F9B-4445554B8624" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="7B44CDC5-44AD-4134-9F9B-4445554B8624" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B44CDC5-44AD-4134-9F9B-4445554B8624" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="7B44CDC5-44AD-4134-9F9B-4445554B8624" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B44CDC5-44AD-4134-9F9B-4445554B8624" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="7B44CDC5-44AD-4134-9F9B-4445554B8624" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B44CDC5-44AD-4134-9F9B-4445554B8624" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="7B44CDC5-44AD-4134-9F9B-4445554B8624" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B44CDC5-44AD-4134-9F9B-4445554B8624" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="7B44CDC5-44AD-4134-9F9B-4445554B8624" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B44CDC5-44AD-4134-9F9B-4445554B8624" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="7B44CDC5-44AD-4134-9F9B-4445554B8624" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B44CDC5-44AD-4134-9F9B-4445554B8624" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="7B44CDC5-44AD-4134-9F9B-4445554B8624" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B44CDC5-44AD-4134-9F9B-4445554B8624" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="7B44CDC5-44AD-4134-9F9B-4445554B8624" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B44CDC5-44AD-4134-9F9B-4445554B8624" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="7B44CDC5-44AD-4134-9F9B-4445554B8624" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="7B44CDC5-44AD-4134-9F9B-4445554B8624" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="7B44CDC5-44AD-4134-9F9B-4445554B8624" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="7B44CDC5-44AD-4134-9F9B-4445554B8624" id="FORM-7B44CDC5-44AD-4134-9F9B-4445554B8624" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="7B44CDC5-44AD-4134-9F9B-4445554B8624" id="FORM-7B44CDC5-44AD-4134-9F9B-4445554B8624" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -4898,7 +5539,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>D56CB89E-081A-43B7-9F25-BF4B5D96E857</p>
 </div>
@@ -4909,18 +5550,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -4932,7 +5576,7 @@ $62.1 \div 9$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$62.1 \div 9$ 
+<pre class="language-latex"><code class="language-latex">&#36;62.1 \div 9&#36; 
 </code></pre>
 </div>
 <div class="workings">
@@ -4992,12 +5636,12 @@ $6.9$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= \dfrac{62.1}{9} \\\\
 &= 6.9
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -5018,7 +5662,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$6.9$
+<pre class="language-latex"><code class="language-latex">&#36;6.9&#36;
 </code></pre>
 </div>
 </div>
@@ -5027,41 +5671,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D56CB89E-081A-43B7-9F25-BF4B5D96E857" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D56CB89E-081A-43B7-9F25-BF4B5D96E857" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D56CB89E-081A-43B7-9F25-BF4B5D96E857" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D56CB89E-081A-43B7-9F25-BF4B5D96E857" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D56CB89E-081A-43B7-9F25-BF4B5D96E857" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D56CB89E-081A-43B7-9F25-BF4B5D96E857" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D56CB89E-081A-43B7-9F25-BF4B5D96E857" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D56CB89E-081A-43B7-9F25-BF4B5D96E857" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D56CB89E-081A-43B7-9F25-BF4B5D96E857" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D56CB89E-081A-43B7-9F25-BF4B5D96E857" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D56CB89E-081A-43B7-9F25-BF4B5D96E857" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D56CB89E-081A-43B7-9F25-BF4B5D96E857" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D56CB89E-081A-43B7-9F25-BF4B5D96E857" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D56CB89E-081A-43B7-9F25-BF4B5D96E857" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D56CB89E-081A-43B7-9F25-BF4B5D96E857" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D56CB89E-081A-43B7-9F25-BF4B5D96E857" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D56CB89E-081A-43B7-9F25-BF4B5D96E857" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D56CB89E-081A-43B7-9F25-BF4B5D96E857" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D56CB89E-081A-43B7-9F25-BF4B5D96E857" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D56CB89E-081A-43B7-9F25-BF4B5D96E857" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="D56CB89E-081A-43B7-9F25-BF4B5D96E857" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="D56CB89E-081A-43B7-9F25-BF4B5D96E857" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D56CB89E-081A-43B7-9F25-BF4B5D96E857" id="FORM-D56CB89E-081A-43B7-9F25-BF4B5D96E857" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D56CB89E-081A-43B7-9F25-BF4B5D96E857" id="FORM-D56CB89E-081A-43B7-9F25-BF4B5D96E857" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -5073,7 +5717,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>567D9B09-49DB-4FD6-8961-9EFA889F07C8</p>
 </div>
@@ -5084,18 +5728,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -5117,6 +5764,23 @@ Work out the following divisions
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>8E6093A3-128D-4780-8DFE-26CC1D2C10C9</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -5128,7 +5792,7 @@ $6146$ divided by $7$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$6146$ divided by $7$
+<pre class="language-latex"><code class="language-latex">&#36;6146&#36; divided by &#36;7&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -5152,6 +5816,22 @@ $6146$ divided by $7$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/emanuel-school/sample/sample-paper-1/answers/generated/long-division/s01-q04-s01-w01-ld00.svg" alt="Long division of 6146 by 7" title="papers/emanuel-school/sample/sample-paper-1/answers/generated/long-division/s01-q04-s01-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= \dfrac{6146}{7} \\\\
@@ -5160,6 +5840,9 @@ $
 &= 878
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -5190,14 +5873,24 @@ $878$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="6146" divisor="7" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= \dfrac{6146}{7} \\\\
 &= \dfrac{878 \times 7}{7} \\\\
 &= \dfrac{878 \times \cancel{7}}{\cancel{7}} \\\\
 &= 878
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -5218,7 +5911,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$878$
+<pre class="language-latex"><code class="language-latex">&#36;878&#36;
 </code></pre>
 </div>
 </div>
@@ -5227,6 +5920,23 @@ $
 </li>
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>1A2F6D1A-EB61-4AFB-9463-6584DCD148DD</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -5238,7 +5948,7 @@ $56{,}400$ divided by $12$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$56{,}400$ divided by $12$
+<pre class="language-latex"><code class="language-latex">&#36;56{,}400&#36; divided by &#36;12&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -5300,14 +6010,14 @@ $4700$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= \dfrac{56400}{12} \\\\
 &= \dfrac{4700 \times 4 \times 3}{4 \times 3} \\\\
 &= \dfrac{4700 \times \cancel{4} \times \cancel{3}}{\cancel{4} \times \cancel{3}} \\\\
 &= 4700
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -5328,7 +6038,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$4700$
+<pre class="language-latex"><code class="language-latex">&#36;4700&#36;
 </code></pre>
 </div>
 </div>
@@ -5340,41 +6050,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="567D9B09-49DB-4FD6-8961-9EFA889F07C8" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="567D9B09-49DB-4FD6-8961-9EFA889F07C8" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="567D9B09-49DB-4FD6-8961-9EFA889F07C8" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="567D9B09-49DB-4FD6-8961-9EFA889F07C8" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="567D9B09-49DB-4FD6-8961-9EFA889F07C8" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="567D9B09-49DB-4FD6-8961-9EFA889F07C8" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="567D9B09-49DB-4FD6-8961-9EFA889F07C8" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="567D9B09-49DB-4FD6-8961-9EFA889F07C8" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="567D9B09-49DB-4FD6-8961-9EFA889F07C8" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="567D9B09-49DB-4FD6-8961-9EFA889F07C8" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="567D9B09-49DB-4FD6-8961-9EFA889F07C8" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="567D9B09-49DB-4FD6-8961-9EFA889F07C8" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="567D9B09-49DB-4FD6-8961-9EFA889F07C8" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="567D9B09-49DB-4FD6-8961-9EFA889F07C8" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="567D9B09-49DB-4FD6-8961-9EFA889F07C8" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="567D9B09-49DB-4FD6-8961-9EFA889F07C8" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="567D9B09-49DB-4FD6-8961-9EFA889F07C8" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="567D9B09-49DB-4FD6-8961-9EFA889F07C8" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="567D9B09-49DB-4FD6-8961-9EFA889F07C8" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="567D9B09-49DB-4FD6-8961-9EFA889F07C8" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="567D9B09-49DB-4FD6-8961-9EFA889F07C8" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="567D9B09-49DB-4FD6-8961-9EFA889F07C8" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="567D9B09-49DB-4FD6-8961-9EFA889F07C8" id="FORM-567D9B09-49DB-4FD6-8961-9EFA889F07C8" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="567D9B09-49DB-4FD6-8961-9EFA889F07C8" id="FORM-567D9B09-49DB-4FD6-8961-9EFA889F07C8" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -5386,7 +6096,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>3094BD4F-8880-44CC-A61D-DD96963CDF4F</p>
 </div>
@@ -5397,18 +6107,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -5420,7 +6133,7 @@ Work out $4336 \div 8$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $4336 \div 8$ 
+<pre class="language-latex"><code class="language-latex">Work out &#36;4336 \div 8&#36; 
 </code></pre>
 </div>
 <div class="workings">
@@ -5444,6 +6157,22 @@ Work out $4336 \div 8$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/epsom-college/sample/sample-paper-1/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 4336 by 8" title="papers/epsom-college/sample/sample-paper-1/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= \dfrac{4336}{8} \\\\
@@ -5452,6 +6181,9 @@ $
 &= 542
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -5482,14 +6214,24 @@ $542$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="4336" divisor="8" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= \dfrac{4336}{8} \\\\
 &= \dfrac{542 \times 8}{8} \\\\
 &= \dfrac{542 \times \cancel{8}}{\cancel{8}} \\\\
 &= 542
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -5510,7 +6252,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$542$
+<pre class="language-latex"><code class="language-latex">&#36;542&#36;
 </code></pre>
 </div>
 </div>
@@ -5519,41 +6261,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="3094BD4F-8880-44CC-A61D-DD96963CDF4F" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="3094BD4F-8880-44CC-A61D-DD96963CDF4F" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="3094BD4F-8880-44CC-A61D-DD96963CDF4F" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="3094BD4F-8880-44CC-A61D-DD96963CDF4F" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="3094BD4F-8880-44CC-A61D-DD96963CDF4F" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="3094BD4F-8880-44CC-A61D-DD96963CDF4F" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="3094BD4F-8880-44CC-A61D-DD96963CDF4F" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="3094BD4F-8880-44CC-A61D-DD96963CDF4F" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="3094BD4F-8880-44CC-A61D-DD96963CDF4F" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="3094BD4F-8880-44CC-A61D-DD96963CDF4F" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="3094BD4F-8880-44CC-A61D-DD96963CDF4F" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="3094BD4F-8880-44CC-A61D-DD96963CDF4F" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="3094BD4F-8880-44CC-A61D-DD96963CDF4F" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="3094BD4F-8880-44CC-A61D-DD96963CDF4F" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="3094BD4F-8880-44CC-A61D-DD96963CDF4F" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="3094BD4F-8880-44CC-A61D-DD96963CDF4F" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="3094BD4F-8880-44CC-A61D-DD96963CDF4F" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="3094BD4F-8880-44CC-A61D-DD96963CDF4F" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="3094BD4F-8880-44CC-A61D-DD96963CDF4F" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="3094BD4F-8880-44CC-A61D-DD96963CDF4F" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="3094BD4F-8880-44CC-A61D-DD96963CDF4F" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="3094BD4F-8880-44CC-A61D-DD96963CDF4F" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="3094BD4F-8880-44CC-A61D-DD96963CDF4F" id="FORM-3094BD4F-8880-44CC-A61D-DD96963CDF4F" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="3094BD4F-8880-44CC-A61D-DD96963CDF4F" id="FORM-3094BD4F-8880-44CC-A61D-DD96963CDF4F" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -5565,7 +6307,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>683367F1-48F9-455E-BF09-190330CA1563</p>
 </div>
@@ -5576,18 +6318,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -5599,7 +6344,7 @@ Work out $3138 \div 6$.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $3138 \div 6$.
+<pre class="language-latex"><code class="language-latex">Work out &#36;3138 \div 6&#36;.
 </code></pre>
 </div>
 <div class="workings">
@@ -5623,6 +6368,22 @@ Work out $3138 \div 6$.
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/forest-school/2012/sample-paper-4/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 3138 by 6" title="papers/forest-school/2012/sample-paper-4/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 3138 \div 6 \\\\
@@ -5632,6 +6393,9 @@ $
 &= 523
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -5662,7 +6426,15 @@ $523$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="3138" divisor="6" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 3138 \div 6 \\\\
 &= \dfrac {3138} {6} \\\\
@@ -5670,7 +6442,9 @@ $523$
 &= \dfrac {523 \times \cancel {6}} {\cancel{6}} \\\\
 &= 523
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -5691,7 +6465,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$523$
+<pre class="language-latex"><code class="language-latex">&#36;523&#36;
 </code></pre>
 </div>
 </div>
@@ -5700,41 +6474,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="683367F1-48F9-455E-BF09-190330CA1563" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="683367F1-48F9-455E-BF09-190330CA1563" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="683367F1-48F9-455E-BF09-190330CA1563" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="683367F1-48F9-455E-BF09-190330CA1563" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="683367F1-48F9-455E-BF09-190330CA1563" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="683367F1-48F9-455E-BF09-190330CA1563" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="683367F1-48F9-455E-BF09-190330CA1563" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="683367F1-48F9-455E-BF09-190330CA1563" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="683367F1-48F9-455E-BF09-190330CA1563" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="683367F1-48F9-455E-BF09-190330CA1563" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="683367F1-48F9-455E-BF09-190330CA1563" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="683367F1-48F9-455E-BF09-190330CA1563" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="683367F1-48F9-455E-BF09-190330CA1563" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="683367F1-48F9-455E-BF09-190330CA1563" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="683367F1-48F9-455E-BF09-190330CA1563" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="683367F1-48F9-455E-BF09-190330CA1563" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="683367F1-48F9-455E-BF09-190330CA1563" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="683367F1-48F9-455E-BF09-190330CA1563" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="683367F1-48F9-455E-BF09-190330CA1563" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="683367F1-48F9-455E-BF09-190330CA1563" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="683367F1-48F9-455E-BF09-190330CA1563" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="683367F1-48F9-455E-BF09-190330CA1563" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="683367F1-48F9-455E-BF09-190330CA1563" id="FORM-683367F1-48F9-455E-BF09-190330CA1563" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="683367F1-48F9-455E-BF09-190330CA1563" id="FORM-683367F1-48F9-455E-BF09-190330CA1563" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -5746,7 +6520,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>335931D3-F653-4FC2-8C81-984C89CDD28A</p>
 </div>
@@ -5757,18 +6531,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -5780,7 +6557,7 @@ Calculate $3.6 \div 0.4$.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Calculate $3.6 \div 0.4$.
+<pre class="language-latex"><code class="language-latex">Calculate &#36;3.6 \div 0.4&#36;.
 </code></pre>
 </div>
 <div class="workings">
@@ -5845,7 +6622,7 @@ $9$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 3.6 \div 0.4 \\\\
 &= \dfrac{3.6}{0.4} \\\\
@@ -5855,7 +6632,7 @@ $9$
 &= \dfrac{9 \times \cancel{4}}{\cancel{4}} \\\\
 &= 9
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -5876,7 +6653,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$9$
+<pre class="language-latex"><code class="language-latex">&#36;9&#36;
 </code></pre>
 </div>
 </div>
@@ -5885,41 +6662,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="335931D3-F653-4FC2-8C81-984C89CDD28A" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="335931D3-F653-4FC2-8C81-984C89CDD28A" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="335931D3-F653-4FC2-8C81-984C89CDD28A" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="335931D3-F653-4FC2-8C81-984C89CDD28A" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="335931D3-F653-4FC2-8C81-984C89CDD28A" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="335931D3-F653-4FC2-8C81-984C89CDD28A" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="335931D3-F653-4FC2-8C81-984C89CDD28A" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="335931D3-F653-4FC2-8C81-984C89CDD28A" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="335931D3-F653-4FC2-8C81-984C89CDD28A" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="335931D3-F653-4FC2-8C81-984C89CDD28A" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="335931D3-F653-4FC2-8C81-984C89CDD28A" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="335931D3-F653-4FC2-8C81-984C89CDD28A" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="335931D3-F653-4FC2-8C81-984C89CDD28A" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="335931D3-F653-4FC2-8C81-984C89CDD28A" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="335931D3-F653-4FC2-8C81-984C89CDD28A" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="335931D3-F653-4FC2-8C81-984C89CDD28A" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="335931D3-F653-4FC2-8C81-984C89CDD28A" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="335931D3-F653-4FC2-8C81-984C89CDD28A" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="335931D3-F653-4FC2-8C81-984C89CDD28A" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="335931D3-F653-4FC2-8C81-984C89CDD28A" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="335931D3-F653-4FC2-8C81-984C89CDD28A" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="335931D3-F653-4FC2-8C81-984C89CDD28A" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="335931D3-F653-4FC2-8C81-984C89CDD28A" id="FORM-335931D3-F653-4FC2-8C81-984C89CDD28A" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="335931D3-F653-4FC2-8C81-984C89CDD28A" id="FORM-335931D3-F653-4FC2-8C81-984C89CDD28A" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -5931,7 +6708,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>D86B5CD2-B310-4B3D-BCD1-127D66A71211</p>
 </div>
@@ -5942,18 +6719,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -5965,7 +6745,7 @@ Work out $20504 \div 8$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $20504 \div 8$
+<pre class="language-latex"><code class="language-latex">Work out &#36;20504 \div 8&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -5989,6 +6769,22 @@ Work out $20504 \div 8$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/forest-school/2020/sample-paper-3/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 20504 by 8" title="papers/forest-school/2020/sample-paper-3/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= \dfrac {20504} {8} \\\\
@@ -5997,6 +6793,9 @@ $
 &= 2563
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -6027,14 +6826,24 @@ $2563$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="20504" divisor="8" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= \dfrac {20504} {8} \\\\
 &= \dfrac {2563 \times 8} {8} \\\\
 &= \dfrac {2563 \times \cancel {8} } {\cancel {8} } \\\\
 &= 2563
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -6055,7 +6864,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$2563$
+<pre class="language-latex"><code class="language-latex">&#36;2563&#36;
 </code></pre>
 </div>
 </div>
@@ -6064,41 +6873,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D86B5CD2-B310-4B3D-BCD1-127D66A71211" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D86B5CD2-B310-4B3D-BCD1-127D66A71211" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D86B5CD2-B310-4B3D-BCD1-127D66A71211" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D86B5CD2-B310-4B3D-BCD1-127D66A71211" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D86B5CD2-B310-4B3D-BCD1-127D66A71211" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D86B5CD2-B310-4B3D-BCD1-127D66A71211" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D86B5CD2-B310-4B3D-BCD1-127D66A71211" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D86B5CD2-B310-4B3D-BCD1-127D66A71211" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D86B5CD2-B310-4B3D-BCD1-127D66A71211" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D86B5CD2-B310-4B3D-BCD1-127D66A71211" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D86B5CD2-B310-4B3D-BCD1-127D66A71211" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D86B5CD2-B310-4B3D-BCD1-127D66A71211" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D86B5CD2-B310-4B3D-BCD1-127D66A71211" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D86B5CD2-B310-4B3D-BCD1-127D66A71211" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D86B5CD2-B310-4B3D-BCD1-127D66A71211" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D86B5CD2-B310-4B3D-BCD1-127D66A71211" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D86B5CD2-B310-4B3D-BCD1-127D66A71211" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D86B5CD2-B310-4B3D-BCD1-127D66A71211" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D86B5CD2-B310-4B3D-BCD1-127D66A71211" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D86B5CD2-B310-4B3D-BCD1-127D66A71211" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="D86B5CD2-B310-4B3D-BCD1-127D66A71211" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="D86B5CD2-B310-4B3D-BCD1-127D66A71211" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D86B5CD2-B310-4B3D-BCD1-127D66A71211" id="FORM-D86B5CD2-B310-4B3D-BCD1-127D66A71211" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D86B5CD2-B310-4B3D-BCD1-127D66A71211" id="FORM-D86B5CD2-B310-4B3D-BCD1-127D66A71211" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -6110,7 +6919,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>70B6482A-053A-4C75-9484-742E48456844</p>
 </div>
@@ -6121,18 +6930,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -6144,7 +6956,7 @@ Work out $3647 \div 7$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $3647 \div 7$
+<pre class="language-latex"><code class="language-latex">Work out &#36;3647 \div 7&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -6168,6 +6980,22 @@ Work out $3647 \div 7$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/forest-school/sample/sample-paper-1/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 3647 by 7" title="papers/forest-school/sample/sample-paper-1/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 3647 \div 7 \\\\
@@ -6177,6 +7005,9 @@ $
 &= 521
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -6207,7 +7038,15 @@ $521$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="3647" divisor="7" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 3647 \div 7 \\\\
 &= \dfrac {3647} {7} \\\\
@@ -6215,7 +7054,9 @@ $521$
 &= \dfrac {521 \times \cancel {7} } {\cancel {7} } \\\\
 &= 521
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -6236,7 +7077,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$521$
+<pre class="language-latex"><code class="language-latex">&#36;521&#36;
 </code></pre>
 </div>
 </div>
@@ -6245,41 +7086,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70B6482A-053A-4C75-9484-742E48456844" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="70B6482A-053A-4C75-9484-742E48456844" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70B6482A-053A-4C75-9484-742E48456844" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="70B6482A-053A-4C75-9484-742E48456844" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70B6482A-053A-4C75-9484-742E48456844" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="70B6482A-053A-4C75-9484-742E48456844" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70B6482A-053A-4C75-9484-742E48456844" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="70B6482A-053A-4C75-9484-742E48456844" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70B6482A-053A-4C75-9484-742E48456844" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="70B6482A-053A-4C75-9484-742E48456844" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70B6482A-053A-4C75-9484-742E48456844" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="70B6482A-053A-4C75-9484-742E48456844" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70B6482A-053A-4C75-9484-742E48456844" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="70B6482A-053A-4C75-9484-742E48456844" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70B6482A-053A-4C75-9484-742E48456844" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="70B6482A-053A-4C75-9484-742E48456844" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70B6482A-053A-4C75-9484-742E48456844" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="70B6482A-053A-4C75-9484-742E48456844" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70B6482A-053A-4C75-9484-742E48456844" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="70B6482A-053A-4C75-9484-742E48456844" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="70B6482A-053A-4C75-9484-742E48456844" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="70B6482A-053A-4C75-9484-742E48456844" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70B6482A-053A-4C75-9484-742E48456844" id="FORM-70B6482A-053A-4C75-9484-742E48456844" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="70B6482A-053A-4C75-9484-742E48456844" id="FORM-70B6482A-053A-4C75-9484-742E48456844" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -6291,7 +7132,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>094AFB6D-358C-4145-92FF-E6AAAE189284</p>
 </div>
@@ -6302,18 +7143,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -6325,7 +7169,7 @@ Work out $234567 \div 9$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $234567 \div 9$
+<pre class="language-latex"><code class="language-latex">Work out &#36;234567 \div 9&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -6349,6 +7193,22 @@ Work out $234567 \div 9$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/forest-school/sample/sample-paper-2/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 234567 by 9" title="papers/forest-school/sample/sample-paper-2/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= \dfrac {234567} {9} \\\\
@@ -6357,6 +7217,9 @@ $
 &= 26063
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -6387,14 +7250,24 @@ $26063$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="234567" divisor="9" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= \dfrac {234567} {9} \\\\
 &= \dfrac {26063 \times 9} {9} \\\\
 &= \dfrac {26063 \times \cancel {9} } {\cancel {9} } \\\\
 &= 26063
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -6415,7 +7288,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$26063$
+<pre class="language-latex"><code class="language-latex">&#36;26063&#36;
 </code></pre>
 </div>
 </div>
@@ -6424,41 +7297,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="094AFB6D-358C-4145-92FF-E6AAAE189284" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="094AFB6D-358C-4145-92FF-E6AAAE189284" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="094AFB6D-358C-4145-92FF-E6AAAE189284" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="094AFB6D-358C-4145-92FF-E6AAAE189284" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="094AFB6D-358C-4145-92FF-E6AAAE189284" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="094AFB6D-358C-4145-92FF-E6AAAE189284" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="094AFB6D-358C-4145-92FF-E6AAAE189284" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="094AFB6D-358C-4145-92FF-E6AAAE189284" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="094AFB6D-358C-4145-92FF-E6AAAE189284" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="094AFB6D-358C-4145-92FF-E6AAAE189284" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="094AFB6D-358C-4145-92FF-E6AAAE189284" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="094AFB6D-358C-4145-92FF-E6AAAE189284" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="094AFB6D-358C-4145-92FF-E6AAAE189284" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="094AFB6D-358C-4145-92FF-E6AAAE189284" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="094AFB6D-358C-4145-92FF-E6AAAE189284" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="094AFB6D-358C-4145-92FF-E6AAAE189284" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="094AFB6D-358C-4145-92FF-E6AAAE189284" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="094AFB6D-358C-4145-92FF-E6AAAE189284" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="094AFB6D-358C-4145-92FF-E6AAAE189284" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="094AFB6D-358C-4145-92FF-E6AAAE189284" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="094AFB6D-358C-4145-92FF-E6AAAE189284" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="094AFB6D-358C-4145-92FF-E6AAAE189284" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="094AFB6D-358C-4145-92FF-E6AAAE189284" id="FORM-094AFB6D-358C-4145-92FF-E6AAAE189284" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="094AFB6D-358C-4145-92FF-E6AAAE189284" id="FORM-094AFB6D-358C-4145-92FF-E6AAAE189284" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -6470,7 +7343,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3</p>
 </div>
@@ -6481,18 +7354,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -6504,7 +7380,7 @@ What is $6 \div 0.3?$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What is $6 \div 0.3?$ 
+<pre class="language-latex"><code class="language-latex">What is &#36;6 \div 0.3?&#36; 
 </code></pre>
 </div>
 <div class="workings">
@@ -6569,7 +7445,7 @@ $20$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 6 \div 0.3 \\\\
 &= \dfrac {6} {0.3} \\\\
@@ -6579,7 +7455,7 @@ $20$
 &= \dfrac {\cancel{3} \times 20} {\cancel{3}} \\\\
 &= 20
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -6600,7 +7476,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$20$
+<pre class="language-latex"><code class="language-latex">&#36;20&#36;
 </code></pre>
 </div>
 </div>
@@ -6609,41 +7485,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3" id="FORM-628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3" id="FORM-628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -6655,7 +7531,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>B4449DC1-1575-4507-A704-4819998A11BE</p>
 </div>
@@ -6666,18 +7542,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -6689,7 +7568,7 @@ Work out $868 \div 7$.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $868 \div 7$.
+<pre class="language-latex"><code class="language-latex">Work out &#36;868 \div 7&#36;.
 </code></pre>
 </div>
 <div class="workings">
@@ -6713,6 +7592,22 @@ Work out $868 \div 7$.
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/forest-school/sample/sample-paper-3/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 868 by 7" title="papers/forest-school/sample/sample-paper-3/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 868 \div 7 \\\\
@@ -6722,6 +7617,9 @@ $
 &= 124
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -6752,7 +7650,15 @@ $124$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="868" divisor="7" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 868 \div 7 \\\\
 &= \dfrac {868} {7} \\\\
@@ -6760,7 +7666,9 @@ $124$
 &= \dfrac {124 \times \cancel {7}} {\cancel {7}} \\\\
 &= 124
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -6781,7 +7689,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$124$
+<pre class="language-latex"><code class="language-latex">&#36;124&#36;
 </code></pre>
 </div>
 </div>
@@ -6790,41 +7698,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4449DC1-1575-4507-A704-4819998A11BE" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B4449DC1-1575-4507-A704-4819998A11BE" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4449DC1-1575-4507-A704-4819998A11BE" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B4449DC1-1575-4507-A704-4819998A11BE" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4449DC1-1575-4507-A704-4819998A11BE" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B4449DC1-1575-4507-A704-4819998A11BE" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4449DC1-1575-4507-A704-4819998A11BE" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B4449DC1-1575-4507-A704-4819998A11BE" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4449DC1-1575-4507-A704-4819998A11BE" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B4449DC1-1575-4507-A704-4819998A11BE" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4449DC1-1575-4507-A704-4819998A11BE" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B4449DC1-1575-4507-A704-4819998A11BE" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4449DC1-1575-4507-A704-4819998A11BE" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B4449DC1-1575-4507-A704-4819998A11BE" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4449DC1-1575-4507-A704-4819998A11BE" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B4449DC1-1575-4507-A704-4819998A11BE" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4449DC1-1575-4507-A704-4819998A11BE" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B4449DC1-1575-4507-A704-4819998A11BE" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4449DC1-1575-4507-A704-4819998A11BE" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B4449DC1-1575-4507-A704-4819998A11BE" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="B4449DC1-1575-4507-A704-4819998A11BE" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="B4449DC1-1575-4507-A704-4819998A11BE" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B4449DC1-1575-4507-A704-4819998A11BE" id="FORM-B4449DC1-1575-4507-A704-4819998A11BE" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B4449DC1-1575-4507-A704-4819998A11BE" id="FORM-B4449DC1-1575-4507-A704-4819998A11BE" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -6836,7 +7744,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B</p>
 </div>
@@ -6847,18 +7755,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -6880,6 +7791,23 @@ Work out:
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>0C46FA4D-66A6-40A0-8A37-5C57B6412AEC</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -6891,7 +7819,7 @@ $240 \div 4$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$240 \div 4$
+<pre class="language-latex"><code class="language-latex">&#36;240 \div 4&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -6915,6 +7843,22 @@ $240 \div 4$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/hampton-court-house/sample/sample-paper-1/answers/generated/long-division/s01-q04-s01-w01-ld00.svg" alt="Long division of 240 by 4" title="papers/hampton-court-house/sample/sample-paper-1/answers/generated/long-division/s01-q04-s01-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= \dfrac{240}{4} \\\\
@@ -6923,6 +7867,9 @@ $
 &= 60
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -6953,14 +7900,24 @@ $60$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="240" divisor="4" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= \dfrac{240}{4} \\\\
 &= \dfrac{60 \times 4}{4} \\\\
 &= \dfrac{60 \times \cancel{4}}{\cancel{4}} \\\\
 &= 60
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -6981,7 +7938,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$60$
+<pre class="language-latex"><code class="language-latex">&#36;60&#36;
 </code></pre>
 </div>
 </div>
@@ -6990,6 +7947,23 @@ $
 </li>
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>AB3D8B80-365E-4B5A-9106-186C1A4AB50B</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -7001,7 +7975,7 @@ $561351 \div 3$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$561351 \div 3$
+<pre class="language-latex"><code class="language-latex">&#36;561351 \div 3&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -7063,14 +8037,14 @@ $187117$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= \dfrac{561351}{3} \\\\
 &= \dfrac{187117 \times 3}{3} \\\\
 &= \dfrac{187117 \times \cancel{3}}{\cancel{3}} \\\\
 &= 187117
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -7091,7 +8065,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$187117$
+<pre class="language-latex"><code class="language-latex">&#36;187117&#36;
 </code></pre>
 </div>
 </div>
@@ -7103,41 +8077,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B" id="FORM-BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B" id="FORM-BF28FCDB-1E12-42F3-848C-4FF4D95C3F7B" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -7149,7 +8123,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>8BF6354C-8D75-45C0-8079-9BEDED7947D0</p>
 </div>
@@ -7160,18 +8134,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -7186,8 +8163,8 @@ $4716 \div 9$
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
 <pre class="language-latex"><code class="language-latex">
-<emptyline>
-$4716 \div 9$
+
+&#36;4716 \div 9&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -7211,6 +8188,22 @@ $4716 \div 9$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/james-allens-girls-school/2020/sample-paper-2/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 4716 by 9" title="papers/james-allens-girls-school/2020/sample-paper-2/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 4716 \div 9 \\\\
@@ -7220,6 +8213,9 @@ $
 &= 524
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -7250,7 +8246,15 @@ $524$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="4716" divisor="9" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 4716 \div 9 \\\\
 &= \dfrac {4716} {9} \\\\
@@ -7258,7 +8262,9 @@ $524$
 &= \dfrac {524 \times \cancel {9}} {\cancel {9}} \\\\
 &= 524
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -7279,7 +8285,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$524$
+<pre class="language-latex"><code class="language-latex">&#36;524&#36;
 </code></pre>
 </div>
 </div>
@@ -7288,41 +8294,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8BF6354C-8D75-45C0-8079-9BEDED7947D0" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="8BF6354C-8D75-45C0-8079-9BEDED7947D0" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8BF6354C-8D75-45C0-8079-9BEDED7947D0" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="8BF6354C-8D75-45C0-8079-9BEDED7947D0" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8BF6354C-8D75-45C0-8079-9BEDED7947D0" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="8BF6354C-8D75-45C0-8079-9BEDED7947D0" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8BF6354C-8D75-45C0-8079-9BEDED7947D0" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="8BF6354C-8D75-45C0-8079-9BEDED7947D0" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8BF6354C-8D75-45C0-8079-9BEDED7947D0" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="8BF6354C-8D75-45C0-8079-9BEDED7947D0" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8BF6354C-8D75-45C0-8079-9BEDED7947D0" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="8BF6354C-8D75-45C0-8079-9BEDED7947D0" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8BF6354C-8D75-45C0-8079-9BEDED7947D0" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="8BF6354C-8D75-45C0-8079-9BEDED7947D0" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8BF6354C-8D75-45C0-8079-9BEDED7947D0" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="8BF6354C-8D75-45C0-8079-9BEDED7947D0" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8BF6354C-8D75-45C0-8079-9BEDED7947D0" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="8BF6354C-8D75-45C0-8079-9BEDED7947D0" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8BF6354C-8D75-45C0-8079-9BEDED7947D0" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="8BF6354C-8D75-45C0-8079-9BEDED7947D0" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="8BF6354C-8D75-45C0-8079-9BEDED7947D0" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="8BF6354C-8D75-45C0-8079-9BEDED7947D0" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="8BF6354C-8D75-45C0-8079-9BEDED7947D0" id="FORM-8BF6354C-8D75-45C0-8079-9BEDED7947D0" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="8BF6354C-8D75-45C0-8079-9BEDED7947D0" id="FORM-8BF6354C-8D75-45C0-8079-9BEDED7947D0" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -7334,7 +8340,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>30C3C512-7162-4A6B-B685-EDF3C0ACEFDD</p>
 </div>
@@ -7345,18 +8351,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -7368,7 +8377,7 @@ $2492 \div 28$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$2492 \div 28$
+<pre class="language-latex"><code class="language-latex">&#36;2492 \div 28&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -7392,6 +8401,22 @@ $2492 \div 28$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/james-allens-girls-school/2020/sample-paper-2/answers/generated/long-division/s01-q05-w01-ld00.svg" alt="Long division of 2492 by 28" title="papers/james-allens-girls-school/2020/sample-paper-2/answers/generated/long-division/s01-q05-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= \dfrac{2492}{28} \\\\
@@ -7400,6 +8425,9 @@ $
 &= 89
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -7430,14 +8458,24 @@ $89$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="2492" divisor="28" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= \dfrac{2492}{28} \\\\
 &= \dfrac{89 \times 7 \times 4}{7 \times 4} \\\\
 &= \dfrac{89 \times \cancel{7} \times \cancel{4}}{\cancel{7} \times \cancel{4}} \\\\
 &= 89
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -7458,7 +8496,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$89$
+<pre class="language-latex"><code class="language-latex">&#36;89&#36;
 </code></pre>
 </div>
 </div>
@@ -7467,41 +8505,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="30C3C512-7162-4A6B-B685-EDF3C0ACEFDD" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="30C3C512-7162-4A6B-B685-EDF3C0ACEFDD" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="30C3C512-7162-4A6B-B685-EDF3C0ACEFDD" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="30C3C512-7162-4A6B-B685-EDF3C0ACEFDD" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="30C3C512-7162-4A6B-B685-EDF3C0ACEFDD" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="30C3C512-7162-4A6B-B685-EDF3C0ACEFDD" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="30C3C512-7162-4A6B-B685-EDF3C0ACEFDD" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="30C3C512-7162-4A6B-B685-EDF3C0ACEFDD" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="30C3C512-7162-4A6B-B685-EDF3C0ACEFDD" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="30C3C512-7162-4A6B-B685-EDF3C0ACEFDD" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="30C3C512-7162-4A6B-B685-EDF3C0ACEFDD" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="30C3C512-7162-4A6B-B685-EDF3C0ACEFDD" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="30C3C512-7162-4A6B-B685-EDF3C0ACEFDD" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="30C3C512-7162-4A6B-B685-EDF3C0ACEFDD" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="30C3C512-7162-4A6B-B685-EDF3C0ACEFDD" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="30C3C512-7162-4A6B-B685-EDF3C0ACEFDD" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="30C3C512-7162-4A6B-B685-EDF3C0ACEFDD" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="30C3C512-7162-4A6B-B685-EDF3C0ACEFDD" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="30C3C512-7162-4A6B-B685-EDF3C0ACEFDD" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="30C3C512-7162-4A6B-B685-EDF3C0ACEFDD" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="30C3C512-7162-4A6B-B685-EDF3C0ACEFDD" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="30C3C512-7162-4A6B-B685-EDF3C0ACEFDD" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="30C3C512-7162-4A6B-B685-EDF3C0ACEFDD" id="FORM-30C3C512-7162-4A6B-B685-EDF3C0ACEFDD" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="30C3C512-7162-4A6B-B685-EDF3C0ACEFDD" id="FORM-30C3C512-7162-4A6B-B685-EDF3C0ACEFDD" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -7513,7 +8551,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>D65F0DDB-5E4F-4860-AE6C-744DFDB68439</p>
 </div>
@@ -7524,18 +8562,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -7550,8 +8591,8 @@ $3465 \div 9$
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
 <pre class="language-latex"><code class="language-latex">
-<emptyline>
-$3465 \div 9$  
+
+&#36;3465 \div 9&#36;  
 </code></pre>
 </div>
 <div class="workings">
@@ -7575,6 +8616,22 @@ $3465 \div 9$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/james-allens-girls-school/sample/sample-paper-1/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 3465 by 9" title="papers/james-allens-girls-school/sample/sample-paper-1/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= \dfrac{3465}{9} \\\\
@@ -7583,6 +8640,9 @@ $
 &= 385
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -7613,14 +8673,24 @@ $385$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="3465" divisor="9" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= \dfrac{3465}{9} \\\\
 &= \dfrac{385 \times 9}{9} \\\\
 &= \dfrac{385 \times \cancel{9}}{\cancel{9}} \\\\
 &= 385
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -7641,7 +8711,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$385$
+<pre class="language-latex"><code class="language-latex">&#36;385&#36;
 </code></pre>
 </div>
 </div>
@@ -7650,41 +8720,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D65F0DDB-5E4F-4860-AE6C-744DFDB68439" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D65F0DDB-5E4F-4860-AE6C-744DFDB68439" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D65F0DDB-5E4F-4860-AE6C-744DFDB68439" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D65F0DDB-5E4F-4860-AE6C-744DFDB68439" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D65F0DDB-5E4F-4860-AE6C-744DFDB68439" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D65F0DDB-5E4F-4860-AE6C-744DFDB68439" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D65F0DDB-5E4F-4860-AE6C-744DFDB68439" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D65F0DDB-5E4F-4860-AE6C-744DFDB68439" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D65F0DDB-5E4F-4860-AE6C-744DFDB68439" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D65F0DDB-5E4F-4860-AE6C-744DFDB68439" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D65F0DDB-5E4F-4860-AE6C-744DFDB68439" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D65F0DDB-5E4F-4860-AE6C-744DFDB68439" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D65F0DDB-5E4F-4860-AE6C-744DFDB68439" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D65F0DDB-5E4F-4860-AE6C-744DFDB68439" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D65F0DDB-5E4F-4860-AE6C-744DFDB68439" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D65F0DDB-5E4F-4860-AE6C-744DFDB68439" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D65F0DDB-5E4F-4860-AE6C-744DFDB68439" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D65F0DDB-5E4F-4860-AE6C-744DFDB68439" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D65F0DDB-5E4F-4860-AE6C-744DFDB68439" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D65F0DDB-5E4F-4860-AE6C-744DFDB68439" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="D65F0DDB-5E4F-4860-AE6C-744DFDB68439" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="D65F0DDB-5E4F-4860-AE6C-744DFDB68439" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D65F0DDB-5E4F-4860-AE6C-744DFDB68439" id="FORM-D65F0DDB-5E4F-4860-AE6C-744DFDB68439" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D65F0DDB-5E4F-4860-AE6C-744DFDB68439" id="FORM-D65F0DDB-5E4F-4860-AE6C-744DFDB68439" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -7696,7 +8766,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>063D11DB-B660-4D14-8DF6-9A3863B3EF2E</p>
 </div>
@@ -7707,18 +8777,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -7730,7 +8803,7 @@ Calculate $2874 \div 6$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Calculate $2874 \div 6$
+<pre class="language-latex"><code class="language-latex">Calculate &#36;2874 \div 6&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -7754,6 +8827,22 @@ Calculate $2874 \div 6$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/john-lyon-school/sample/sample-paper-1/answers/generated/long-division/s01-q05-w01-ld00.svg" alt="Long division of 2874 by 6" title="papers/john-lyon-school/sample/sample-paper-1/answers/generated/long-division/s01-q05-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= \dfrac{2874}{6} \\\\
@@ -7762,6 +8851,9 @@ $
 &= 479
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -7792,14 +8884,24 @@ $479$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="2874" divisor="6" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= \dfrac{2874}{6} \\\\
 &= \dfrac{479 \times 6}{6} \\\\
 &= \dfrac{479 \times \cancel{6}}{\cancel{6}} \\\\
 &= 479
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -7820,7 +8922,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$479$
+<pre class="language-latex"><code class="language-latex">&#36;479&#36;
 </code></pre>
 </div>
 </div>
@@ -7829,41 +8931,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="063D11DB-B660-4D14-8DF6-9A3863B3EF2E" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="063D11DB-B660-4D14-8DF6-9A3863B3EF2E" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="063D11DB-B660-4D14-8DF6-9A3863B3EF2E" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="063D11DB-B660-4D14-8DF6-9A3863B3EF2E" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="063D11DB-B660-4D14-8DF6-9A3863B3EF2E" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="063D11DB-B660-4D14-8DF6-9A3863B3EF2E" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="063D11DB-B660-4D14-8DF6-9A3863B3EF2E" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="063D11DB-B660-4D14-8DF6-9A3863B3EF2E" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="063D11DB-B660-4D14-8DF6-9A3863B3EF2E" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="063D11DB-B660-4D14-8DF6-9A3863B3EF2E" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="063D11DB-B660-4D14-8DF6-9A3863B3EF2E" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="063D11DB-B660-4D14-8DF6-9A3863B3EF2E" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="063D11DB-B660-4D14-8DF6-9A3863B3EF2E" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="063D11DB-B660-4D14-8DF6-9A3863B3EF2E" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="063D11DB-B660-4D14-8DF6-9A3863B3EF2E" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="063D11DB-B660-4D14-8DF6-9A3863B3EF2E" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="063D11DB-B660-4D14-8DF6-9A3863B3EF2E" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="063D11DB-B660-4D14-8DF6-9A3863B3EF2E" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="063D11DB-B660-4D14-8DF6-9A3863B3EF2E" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="063D11DB-B660-4D14-8DF6-9A3863B3EF2E" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="063D11DB-B660-4D14-8DF6-9A3863B3EF2E" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="063D11DB-B660-4D14-8DF6-9A3863B3EF2E" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="063D11DB-B660-4D14-8DF6-9A3863B3EF2E" id="FORM-063D11DB-B660-4D14-8DF6-9A3863B3EF2E" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="063D11DB-B660-4D14-8DF6-9A3863B3EF2E" id="FORM-063D11DB-B660-4D14-8DF6-9A3863B3EF2E" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -7875,7 +8977,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>B9F2AACC-07E6-416A-8019-32D0486A7404</p>
 </div>
@@ -7886,18 +8988,26 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
+</li>
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdecimal
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -7909,7 +9019,7 @@ Calculate $2943 \div 27$. Show your working.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Calculate $2943 \div 27$. Show your working. 
+<pre class="language-latex"><code class="language-latex">Calculate &#36;2943 \div 27&#36;. Show your working. 
 </code></pre>
 </div>
 <div class="workings">
@@ -7933,6 +9043,22 @@ Calculate $2943 \div 27$. Show your working.
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/kent-college-canterbury/2020/sample-paper-1/answers/generated/long-division/s01-q03-w01-ld00.svg" alt="Long division of 2943 by 27" title="papers/kent-college-canterbury/2020/sample-paper-1/answers/generated/long-division/s01-q03-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= \dfrac{2943}{27} \\\\
@@ -7941,6 +9067,9 @@ $
 &= 109
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -7971,14 +9100,24 @@ $109$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="2943" divisor="27" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= \dfrac{2943}{27} \\\\
 &= \dfrac{109 \times 3 \times 9}{3 \times 9} \\\\
 &= \dfrac{109 \times \cancel{3} \times \cancel{9}}{\cancel{3} \times \cancel{9}} \\\\
 &= 109
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -7999,7 +9138,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$109$
+<pre class="language-latex"><code class="language-latex">&#36;109&#36;
 </code></pre>
 </div>
 </div>
@@ -8008,41 +9147,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B9F2AACC-07E6-416A-8019-32D0486A7404" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B9F2AACC-07E6-416A-8019-32D0486A7404" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B9F2AACC-07E6-416A-8019-32D0486A7404" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B9F2AACC-07E6-416A-8019-32D0486A7404" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B9F2AACC-07E6-416A-8019-32D0486A7404" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B9F2AACC-07E6-416A-8019-32D0486A7404" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B9F2AACC-07E6-416A-8019-32D0486A7404" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B9F2AACC-07E6-416A-8019-32D0486A7404" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B9F2AACC-07E6-416A-8019-32D0486A7404" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B9F2AACC-07E6-416A-8019-32D0486A7404" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B9F2AACC-07E6-416A-8019-32D0486A7404" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B9F2AACC-07E6-416A-8019-32D0486A7404" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B9F2AACC-07E6-416A-8019-32D0486A7404" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B9F2AACC-07E6-416A-8019-32D0486A7404" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B9F2AACC-07E6-416A-8019-32D0486A7404" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B9F2AACC-07E6-416A-8019-32D0486A7404" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B9F2AACC-07E6-416A-8019-32D0486A7404" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B9F2AACC-07E6-416A-8019-32D0486A7404" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B9F2AACC-07E6-416A-8019-32D0486A7404" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B9F2AACC-07E6-416A-8019-32D0486A7404" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="B9F2AACC-07E6-416A-8019-32D0486A7404" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="B9F2AACC-07E6-416A-8019-32D0486A7404" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B9F2AACC-07E6-416A-8019-32D0486A7404" id="FORM-B9F2AACC-07E6-416A-8019-32D0486A7404" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B9F2AACC-07E6-416A-8019-32D0486A7404" id="FORM-B9F2AACC-07E6-416A-8019-32D0486A7404" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -8054,7 +9193,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>B6829B80-2FC8-4D72-B971-CA20FC89C45F</p>
 </div>
@@ -8065,18 +9204,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -8088,7 +9230,7 @@ Work out $495 \div 9$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $495 \div 9$
+<pre class="language-latex"><code class="language-latex">Work out &#36;495 \div 9&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -8112,6 +9254,22 @@ Work out $495 \div 9$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/king-henry-viii-school/sample/sample-paper-1/answers/generated/long-division/s01-q07-w01-ld00.svg" alt="Long division of 495 by 9" title="papers/king-henry-viii-school/sample/sample-paper-1/answers/generated/long-division/s01-q07-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= \dfrac {495} {9} \\\\
@@ -8120,6 +9278,9 @@ $
 &= 55
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -8150,14 +9311,24 @@ $55$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="495" divisor="9" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= \dfrac {495} {9} \\\\
 &= \dfrac {55 \times 9} {9} \\\\
 &= \dfrac {55 \times \cancel {9}} {\cancel {9}} \\\\
 &= 55
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -8178,7 +9349,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$55$
+<pre class="language-latex"><code class="language-latex">&#36;55&#36;
 </code></pre>
 </div>
 </div>
@@ -8187,41 +9358,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B6829B80-2FC8-4D72-B971-CA20FC89C45F" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B6829B80-2FC8-4D72-B971-CA20FC89C45F" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B6829B80-2FC8-4D72-B971-CA20FC89C45F" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B6829B80-2FC8-4D72-B971-CA20FC89C45F" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B6829B80-2FC8-4D72-B971-CA20FC89C45F" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B6829B80-2FC8-4D72-B971-CA20FC89C45F" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B6829B80-2FC8-4D72-B971-CA20FC89C45F" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B6829B80-2FC8-4D72-B971-CA20FC89C45F" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B6829B80-2FC8-4D72-B971-CA20FC89C45F" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B6829B80-2FC8-4D72-B971-CA20FC89C45F" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B6829B80-2FC8-4D72-B971-CA20FC89C45F" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B6829B80-2FC8-4D72-B971-CA20FC89C45F" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B6829B80-2FC8-4D72-B971-CA20FC89C45F" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B6829B80-2FC8-4D72-B971-CA20FC89C45F" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B6829B80-2FC8-4D72-B971-CA20FC89C45F" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B6829B80-2FC8-4D72-B971-CA20FC89C45F" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B6829B80-2FC8-4D72-B971-CA20FC89C45F" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B6829B80-2FC8-4D72-B971-CA20FC89C45F" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B6829B80-2FC8-4D72-B971-CA20FC89C45F" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B6829B80-2FC8-4D72-B971-CA20FC89C45F" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="B6829B80-2FC8-4D72-B971-CA20FC89C45F" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="B6829B80-2FC8-4D72-B971-CA20FC89C45F" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="B6829B80-2FC8-4D72-B971-CA20FC89C45F" id="FORM-B6829B80-2FC8-4D72-B971-CA20FC89C45F" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B6829B80-2FC8-4D72-B971-CA20FC89C45F" id="FORM-B6829B80-2FC8-4D72-B971-CA20FC89C45F" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -8233,7 +9404,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>D58A1CA0-643B-4DB8-88B1-E5984C4307A8</p>
 </div>
@@ -8244,18 +9415,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -8267,7 +9441,7 @@ Work out $689 \div 13$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $689 \div 13$
+<pre class="language-latex"><code class="language-latex">Work out &#36;689 \div 13&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -8291,6 +9465,22 @@ Work out $689 \div 13$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/king-henry-viii-school/sample/sample-paper-1/answers/generated/long-division/s01-q08-w01-ld00.svg" alt="Long division of 689 by 13" title="papers/king-henry-viii-school/sample/sample-paper-1/answers/generated/long-division/s01-q08-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= \dfrac {689} {13} \\\\
@@ -8299,6 +9489,9 @@ $
 &= 53
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -8329,14 +9522,24 @@ $53$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="689" divisor="13" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= \dfrac {689} {13} \\\\
 &= \dfrac {53 \times 13} {13} \\\\
 &= \dfrac {53 \times \cancel{13}} {\cancel{13}} \\\\
 &= 53
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -8357,7 +9560,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$53$
+<pre class="language-latex"><code class="language-latex">&#36;53&#36;
 </code></pre>
 </div>
 </div>
@@ -8366,41 +9569,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D58A1CA0-643B-4DB8-88B1-E5984C4307A8" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D58A1CA0-643B-4DB8-88B1-E5984C4307A8" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D58A1CA0-643B-4DB8-88B1-E5984C4307A8" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D58A1CA0-643B-4DB8-88B1-E5984C4307A8" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D58A1CA0-643B-4DB8-88B1-E5984C4307A8" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D58A1CA0-643B-4DB8-88B1-E5984C4307A8" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D58A1CA0-643B-4DB8-88B1-E5984C4307A8" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D58A1CA0-643B-4DB8-88B1-E5984C4307A8" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D58A1CA0-643B-4DB8-88B1-E5984C4307A8" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D58A1CA0-643B-4DB8-88B1-E5984C4307A8" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D58A1CA0-643B-4DB8-88B1-E5984C4307A8" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D58A1CA0-643B-4DB8-88B1-E5984C4307A8" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D58A1CA0-643B-4DB8-88B1-E5984C4307A8" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D58A1CA0-643B-4DB8-88B1-E5984C4307A8" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D58A1CA0-643B-4DB8-88B1-E5984C4307A8" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D58A1CA0-643B-4DB8-88B1-E5984C4307A8" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D58A1CA0-643B-4DB8-88B1-E5984C4307A8" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D58A1CA0-643B-4DB8-88B1-E5984C4307A8" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D58A1CA0-643B-4DB8-88B1-E5984C4307A8" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D58A1CA0-643B-4DB8-88B1-E5984C4307A8" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="D58A1CA0-643B-4DB8-88B1-E5984C4307A8" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="D58A1CA0-643B-4DB8-88B1-E5984C4307A8" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="D58A1CA0-643B-4DB8-88B1-E5984C4307A8" id="FORM-D58A1CA0-643B-4DB8-88B1-E5984C4307A8" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D58A1CA0-643B-4DB8-88B1-E5984C4307A8" id="FORM-D58A1CA0-643B-4DB8-88B1-E5984C4307A8" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -8412,7 +9615,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>66F011FD-DFE1-4337-8556-F1E6A13528AA</p>
 </div>
@@ -8423,18 +9626,26 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
+</li>
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+talgebra
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -8446,7 +9657,7 @@ $800 \div \ldots = 20$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$800 \div \ldots = 20$
+<pre class="language-latex"><code class="language-latex">&#36;800 \div \ldots = 20&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -8470,7 +9681,21 @@ $800 \div \ldots = 20$
 
 **Working**
 
+<div class="paper-working-section" data-phase="setup" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
 Let the missing number $= a$
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Solution</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
 
 As per the question,
 
@@ -8484,6 +9709,9 @@ a                        &= \dfrac {40 \times \cancel {20}} {\cancel{20}} \\\\
 a                        &= 40
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -8514,11 +9742,17 @@ $40$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Let the missing number $= a$
-<emptyline>
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="setup"&gt;
+
+Let the missing number &#36;= a&#36;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Solution"&gt;
+
 As per the question,
-<emptyline>
-$
+
+&#36;
 \begin{aligned}
 800 \div a               &= 20 \\\\
 \dfrac {800} {a}         &= 20 \\\\
@@ -8527,7 +9761,9 @@ a                        &= \dfrac {40 \times 20} {20} \\\\
 a                        &= \dfrac {40 \times \cancel {20}} {\cancel{20}} \\\\
 a                        &= 40
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -8548,7 +9784,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$40$
+<pre class="language-latex"><code class="language-latex">&#36;40&#36;
 </code></pre>
 </div>
 </div>
@@ -8557,41 +9793,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="66F011FD-DFE1-4337-8556-F1E6A13528AA" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="66F011FD-DFE1-4337-8556-F1E6A13528AA" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="66F011FD-DFE1-4337-8556-F1E6A13528AA" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="66F011FD-DFE1-4337-8556-F1E6A13528AA" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="66F011FD-DFE1-4337-8556-F1E6A13528AA" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="66F011FD-DFE1-4337-8556-F1E6A13528AA" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="66F011FD-DFE1-4337-8556-F1E6A13528AA" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="66F011FD-DFE1-4337-8556-F1E6A13528AA" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="66F011FD-DFE1-4337-8556-F1E6A13528AA" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="66F011FD-DFE1-4337-8556-F1E6A13528AA" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="66F011FD-DFE1-4337-8556-F1E6A13528AA" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="66F011FD-DFE1-4337-8556-F1E6A13528AA" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="66F011FD-DFE1-4337-8556-F1E6A13528AA" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="66F011FD-DFE1-4337-8556-F1E6A13528AA" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="66F011FD-DFE1-4337-8556-F1E6A13528AA" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="66F011FD-DFE1-4337-8556-F1E6A13528AA" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="66F011FD-DFE1-4337-8556-F1E6A13528AA" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="66F011FD-DFE1-4337-8556-F1E6A13528AA" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="66F011FD-DFE1-4337-8556-F1E6A13528AA" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="66F011FD-DFE1-4337-8556-F1E6A13528AA" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="66F011FD-DFE1-4337-8556-F1E6A13528AA" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="66F011FD-DFE1-4337-8556-F1E6A13528AA" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="66F011FD-DFE1-4337-8556-F1E6A13528AA" id="FORM-66F011FD-DFE1-4337-8556-F1E6A13528AA" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="66F011FD-DFE1-4337-8556-F1E6A13528AA" id="FORM-66F011FD-DFE1-4337-8556-F1E6A13528AA" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -8603,7 +9839,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>61429349-2C45-4897-BF28-8035D8AF2916</p>
 </div>
@@ -8614,18 +9850,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -8643,13 +9882,13 @@ What is $423\div9 ?$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What is $423\div9 ?$
-<emptyline>
-- $43$
-- $47$
-- $35$
-- $57$
-- $37$
+<pre class="language-latex"><code class="language-latex">What is &#36;423\div9 ?&#36;
+
+- &#36;43&#36;
+- &#36;47&#36;
+- &#36;35&#36;
+- &#36;57&#36;
+- &#36;37&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -8673,6 +9912,22 @@ What is $423\div9 ?$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/latymer-upper-school/2014/sample-paper-1/answers/generated/long-division/s01-q05-w01-ld00.svg" alt="Long division of 423 by 9" title="papers/latymer-upper-school/2014/sample-paper-1/answers/generated/long-division/s01-q05-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 423 \div 9  \\\\
@@ -8682,6 +9937,9 @@ $
 &= 47
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -8718,7 +9976,15 @@ $47$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="423" divisor="9" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 423 \div 9  \\\\
 &= \dfrac {423} {9} \\\\
@@ -8726,7 +9992,9 @@ $47$
 &= \dfrac {47 \times \cancel{9}} {\cancel {9}} \\\\
 &= 47
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -8747,7 +10015,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$47$
+<pre class="language-latex"><code class="language-latex">&#36;47&#36;
 </code></pre>
 </div>
 </div>
@@ -8756,41 +10024,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="61429349-2C45-4897-BF28-8035D8AF2916" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="61429349-2C45-4897-BF28-8035D8AF2916" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="61429349-2C45-4897-BF28-8035D8AF2916" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="61429349-2C45-4897-BF28-8035D8AF2916" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="61429349-2C45-4897-BF28-8035D8AF2916" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="61429349-2C45-4897-BF28-8035D8AF2916" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="61429349-2C45-4897-BF28-8035D8AF2916" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="61429349-2C45-4897-BF28-8035D8AF2916" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="61429349-2C45-4897-BF28-8035D8AF2916" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="61429349-2C45-4897-BF28-8035D8AF2916" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="61429349-2C45-4897-BF28-8035D8AF2916" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="61429349-2C45-4897-BF28-8035D8AF2916" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="61429349-2C45-4897-BF28-8035D8AF2916" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="61429349-2C45-4897-BF28-8035D8AF2916" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="61429349-2C45-4897-BF28-8035D8AF2916" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="61429349-2C45-4897-BF28-8035D8AF2916" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="61429349-2C45-4897-BF28-8035D8AF2916" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="61429349-2C45-4897-BF28-8035D8AF2916" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="61429349-2C45-4897-BF28-8035D8AF2916" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="61429349-2C45-4897-BF28-8035D8AF2916" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="61429349-2C45-4897-BF28-8035D8AF2916" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="61429349-2C45-4897-BF28-8035D8AF2916" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="61429349-2C45-4897-BF28-8035D8AF2916" id="FORM-61429349-2C45-4897-BF28-8035D8AF2916" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="61429349-2C45-4897-BF28-8035D8AF2916" id="FORM-61429349-2C45-4897-BF28-8035D8AF2916" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -8802,7 +10070,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>013A4F20-B9F1-456D-B4CF-9269AD495B40</p>
 </div>
@@ -8813,18 +10081,26 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
+</li>
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tremainder
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -8846,17 +10122,17 @@ E: $2$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Jenny divides $344$ by $9$. What remainder should she get? 
-<emptyline>
-A: $6$ 
-<emptyline>
-B: $5$ 
-<emptyline>
-C: $4$ 
-<emptyline>
-D: $3$ 
-<emptyline>
-E: $2$
+<pre class="language-latex"><code class="language-latex">Jenny divides &#36;344&#36; by &#36;9&#36;. What remainder should she get? 
+
+A: &#36;6&#36; 
+
+B: &#36;5&#36; 
+
+C: &#36;4&#36; 
+
+D: &#36;3&#36; 
+
+E: &#36;2&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -8880,12 +10156,31 @@ E: $2$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/latymer-upper-school/2020/sample-paper-1/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 344 by 9" title="papers/latymer-upper-school/2020/sample-paper-1/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= \dfrac {344} {9} \\\\
 &= 38 \text { remainder } 2
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -8922,12 +10217,22 @@ $2$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="344" divisor="9" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= \dfrac {344} {9} \\\\
 &= 38 \text { remainder } 2
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -8948,7 +10253,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$2$
+<pre class="language-latex"><code class="language-latex">&#36;2&#36;
 </code></pre>
 </div>
 </div>
@@ -8957,41 +10262,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="013A4F20-B9F1-456D-B4CF-9269AD495B40" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="013A4F20-B9F1-456D-B4CF-9269AD495B40" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="013A4F20-B9F1-456D-B4CF-9269AD495B40" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="013A4F20-B9F1-456D-B4CF-9269AD495B40" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="013A4F20-B9F1-456D-B4CF-9269AD495B40" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="013A4F20-B9F1-456D-B4CF-9269AD495B40" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="013A4F20-B9F1-456D-B4CF-9269AD495B40" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="013A4F20-B9F1-456D-B4CF-9269AD495B40" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="013A4F20-B9F1-456D-B4CF-9269AD495B40" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="013A4F20-B9F1-456D-B4CF-9269AD495B40" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="013A4F20-B9F1-456D-B4CF-9269AD495B40" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="013A4F20-B9F1-456D-B4CF-9269AD495B40" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="013A4F20-B9F1-456D-B4CF-9269AD495B40" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="013A4F20-B9F1-456D-B4CF-9269AD495B40" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="013A4F20-B9F1-456D-B4CF-9269AD495B40" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="013A4F20-B9F1-456D-B4CF-9269AD495B40" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="013A4F20-B9F1-456D-B4CF-9269AD495B40" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="013A4F20-B9F1-456D-B4CF-9269AD495B40" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="013A4F20-B9F1-456D-B4CF-9269AD495B40" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="013A4F20-B9F1-456D-B4CF-9269AD495B40" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="013A4F20-B9F1-456D-B4CF-9269AD495B40" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="013A4F20-B9F1-456D-B4CF-9269AD495B40" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="013A4F20-B9F1-456D-B4CF-9269AD495B40" id="FORM-013A4F20-B9F1-456D-B4CF-9269AD495B40" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="013A4F20-B9F1-456D-B4CF-9269AD495B40" id="FORM-013A4F20-B9F1-456D-B4CF-9269AD495B40" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -9003,7 +10308,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>70382E63-64F3-46A0-A27B-B2C30F526106</p>
 </div>
@@ -9014,18 +10319,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -9043,13 +10351,13 @@ What is $912 \div 16?$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What is $912 \div 16?$ 
-<emptyline>
-- $58$ 
-- $57$ 
-- $56$ 
-- $54$ 
-- $52$
+<pre class="language-latex"><code class="language-latex">What is &#36;912 \div 16?&#36; 
+
+- &#36;58&#36; 
+- &#36;57&#36; 
+- &#36;56&#36; 
+- &#36;54&#36; 
+- &#36;52&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -9073,6 +10381,22 @@ What is $912 \div 16?$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/latymer-upper-school/2020/sample-paper-1/answers/generated/long-division/s01-q05-w01-ld00.svg" alt="Long division of 912 by 16" title="papers/latymer-upper-school/2020/sample-paper-1/answers/generated/long-division/s01-q05-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 912 \div 16 \\\\
@@ -9082,6 +10406,9 @@ $
 &= 57
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -9118,7 +10445,15 @@ $57$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="912" divisor="16" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 912 \div 16 \\\\
 &= \dfrac {912} {16} \\\\
@@ -9126,7 +10461,9 @@ $57$
 &= \dfrac {57 \times \cancel{4} \times \cancel{4}} {\cancel {4} \times \cancel{4}} \\\\
 &= 57
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -9147,7 +10484,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$57$
+<pre class="language-latex"><code class="language-latex">&#36;57&#36;
 </code></pre>
 </div>
 </div>
@@ -9156,41 +10493,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70382E63-64F3-46A0-A27B-B2C30F526106" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="70382E63-64F3-46A0-A27B-B2C30F526106" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70382E63-64F3-46A0-A27B-B2C30F526106" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="70382E63-64F3-46A0-A27B-B2C30F526106" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70382E63-64F3-46A0-A27B-B2C30F526106" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="70382E63-64F3-46A0-A27B-B2C30F526106" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70382E63-64F3-46A0-A27B-B2C30F526106" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="70382E63-64F3-46A0-A27B-B2C30F526106" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70382E63-64F3-46A0-A27B-B2C30F526106" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="70382E63-64F3-46A0-A27B-B2C30F526106" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70382E63-64F3-46A0-A27B-B2C30F526106" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="70382E63-64F3-46A0-A27B-B2C30F526106" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70382E63-64F3-46A0-A27B-B2C30F526106" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="70382E63-64F3-46A0-A27B-B2C30F526106" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70382E63-64F3-46A0-A27B-B2C30F526106" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="70382E63-64F3-46A0-A27B-B2C30F526106" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70382E63-64F3-46A0-A27B-B2C30F526106" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="70382E63-64F3-46A0-A27B-B2C30F526106" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70382E63-64F3-46A0-A27B-B2C30F526106" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="70382E63-64F3-46A0-A27B-B2C30F526106" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="70382E63-64F3-46A0-A27B-B2C30F526106" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="70382E63-64F3-46A0-A27B-B2C30F526106" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="70382E63-64F3-46A0-A27B-B2C30F526106" id="FORM-70382E63-64F3-46A0-A27B-B2C30F526106" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="70382E63-64F3-46A0-A27B-B2C30F526106" id="FORM-70382E63-64F3-46A0-A27B-B2C30F526106" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -9218,13 +10555,21 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
+</li>
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tremainder
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -9242,13 +10587,13 @@ What remainder do you get when you divide $283$ by $9?$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What remainder do you get when you divide $283$ by $9?$
-<emptyline>
-- $4$ 
-- $5$ 
-- $6$ 
-- $7$ 
-- $8$
+<pre class="language-latex"><code class="language-latex">What remainder do you get when you divide &#36;283&#36; by &#36;9?&#36;
+
+- &#36;4&#36; 
+- &#36;5&#36; 
+- &#36;6&#36; 
+- &#36;7&#36; 
+- &#36;8&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -9272,12 +10617,31 @@ What remainder do you get when you divide $283$ by $9?$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/latymer-upper-school/2020/sample-paper-2/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 283 by 9" title="papers/latymer-upper-school/2020/sample-paper-2/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= \dfrac {283} {9} \\\\
 &= 31 \text{ remainder } 4
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -9314,12 +10678,22 @@ $4$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="283" divisor="9" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= \dfrac {283} {9} \\\\
 &= 31 \text{ remainder } 4
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -9340,7 +10714,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$4$
+<pre class="language-latex"><code class="language-latex">&#36;4&#36;
 </code></pre>
 </div>
 </div>
@@ -9411,13 +10785,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -9429,7 +10806,7 @@ $\dfrac{34024}{8}$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$\dfrac{34024}{8}$
+<pre class="language-latex"><code class="language-latex">&#36;\dfrac{34024}{8}&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -9453,6 +10830,22 @@ $\dfrac{34024}{8}$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/north-london-collegiate-school/sample/sample-paper-1/answers/generated/long-division/s01-q05-w01-ld00.svg" alt="Long division of 34024 by 8" title="papers/north-london-collegiate-school/sample/sample-paper-1/answers/generated/long-division/s01-q05-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 & = \dfrac {34024}{8}                                  \\\\
@@ -9461,6 +10854,9 @@ $
 & = 4253                                               
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -9491,14 +10887,24 @@ $4253$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="34024" divisor="8" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 & = \dfrac {34024}{8}                                  \\\\
 & = \dfrac {4253 \times 8}{8}                         \\\\
 & = \dfrac {4253 \times \cancel{8}}{\cancel{8}}         \\\\
 & = 4253                                               
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -9519,7 +10925,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$4253$
+<pre class="language-latex"><code class="language-latex">&#36;4253&#36;
 </code></pre>
 </div>
 </div>
@@ -9590,13 +10996,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -9608,7 +11017,7 @@ Work out $336 \div  6$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $336 \div  6$ 
+<pre class="language-latex"><code class="language-latex">Work out &#36;336 \div  6&#36; 
 </code></pre>
 </div>
 <div class="workings">
@@ -9632,6 +11041,22 @@ Work out $336 \div  6$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/oundle-school/2008/sample-paper-1/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 336 by 6" title="papers/oundle-school/2008/sample-paper-1/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &=  336 \div  6 \\\\
@@ -9641,6 +11066,9 @@ $
 &=  56
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -9671,7 +11099,15 @@ $56$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="336" divisor="6" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &=  336 \div  6 \\\\
 &=  \dfrac{336}{6} \\\\
@@ -9679,7 +11115,9 @@ $56$
 &=  \dfrac{56 \times \cancel {6}}{\cancel {6}} \\\\
 &=  56
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -9700,7 +11138,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$56$
+<pre class="language-latex"><code class="language-latex">&#36;56&#36;
 </code></pre>
 </div>
 </div>
@@ -9771,13 +11209,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -9789,7 +11230,7 @@ $2010 \div 6 =$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$2010 \div 6 =$ 
+<pre class="language-latex"><code class="language-latex">&#36;2010 \div 6 =&#36; 
 </code></pre>
 </div>
 <div class="workings">
@@ -9813,6 +11254,22 @@ $2010 \div 6 =$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/reigate-grammar-school/2010/sample-paper-1/answers/generated/long-division/s01-q05-w01-ld00.svg" alt="Long division of 2010 by 6" title="papers/reigate-grammar-school/2010/sample-paper-1/answers/generated/long-division/s01-q05-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 2010 \div 6 \\\\
@@ -9822,6 +11279,9 @@ $
 &= 335
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -9852,7 +11312,15 @@ $335$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="2010" divisor="6" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 2010 \div 6 \\\\
 &= \dfrac {2010} {6} \\\\
@@ -9860,7 +11328,9 @@ $335$
 &= \dfrac {335 \times \cancel{6}} {\cancel {6}} \\\\
 &= 335
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -9881,7 +11351,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$335$
+<pre class="language-latex"><code class="language-latex">&#36;335&#36;
 </code></pre>
 </div>
 </div>
@@ -9952,13 +11422,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -9975,9 +11448,9 @@ Use this answer to find
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
 <pre class="language-latex"><code class="language-latex">Given that
-<emptyline>
-$567 \div 27 = 21$
-<emptyline>
+
+&#36;567 \div 27 = 21&#36;
+
 Use this answer to find
 </code></pre>
 </div>
@@ -10061,6 +11534,23 @@ Use this answer to find
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>43E49811-4CB4-4A10-81FE-D4F1B174090C</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -10072,7 +11562,7 @@ $567 \div 21 =$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$567 \div 21 =$
+<pre class="language-latex"><code class="language-latex">&#36;567 \div 21 =&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -10127,7 +11617,7 @@ $27$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$27$
+<pre class="language-latex"><code class="language-latex">&#36;27&#36;
 </code></pre>
 </div>
 </div>
@@ -10148,7 +11638,7 @@ $27$
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$27$
+<pre class="language-latex"><code class="language-latex">&#36;27&#36;
 </code></pre>
 </div>
 </div>
@@ -10157,6 +11647,23 @@ $27$
 </li>
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>EBEE405A-9C26-4C00-A405-F7AFC46DBCE4</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -10168,7 +11675,7 @@ $56.7 \div 2.7 =$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$56.7 \div 2.7 =$
+<pre class="language-latex"><code class="language-latex">&#36;56.7 \div 2.7 =&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -10230,14 +11737,14 @@ $21$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= \dfrac {56.7} {2.7} \\\\
 &= \dfrac {56.7 \times 10} {2.7 \times 10} \\\\
 &= \dfrac {567} {27} \\\\
 &= 21
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -10258,7 +11765,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$21$
+<pre class="language-latex"><code class="language-latex">&#36;21&#36;
 </code></pre>
 </div>
 </div>
@@ -10332,13 +11839,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -10352,8 +11862,8 @@ Use your answer to write down the answers to
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What is $4000 \div 40$
-<emptyline>
+<pre class="language-latex"><code class="language-latex">What is &#36;4000 \div 40&#36;
+
 Use your answer to write down the answers to
 </code></pre>
 </div>
@@ -10417,7 +11927,7 @@ $100$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 4000 \div 40 \\\\
 &= \dfrac {4000} {40} \\\\
@@ -10425,7 +11935,7 @@ $100$
 &= \dfrac {\cancel{4} \times 100 \times \cancel{10}} {\cancel{4} \times \cancel{10}} \\\\
 &= 100
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -10446,13 +11956,30 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$100$
+<pre class="language-latex"><code class="language-latex">&#36;100&#36;
 </code></pre>
 </div>
 </div>
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>ADDAF287-CDB7-4A12-93BD-66056F4A9D78</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -10464,7 +11991,7 @@ $4000 \div 20$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$4000 \div 20$
+<pre class="language-latex"><code class="language-latex">&#36;4000 \div 20&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -10528,7 +12055,7 @@ $200$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 4000 \div 20 \\\\
 &= \dfrac {4000} {20} \\\\
@@ -10537,7 +12064,7 @@ $200$
 &= 100 \times 2 \\\\
 &= 200
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -10558,7 +12085,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$200$
+<pre class="language-latex"><code class="language-latex">&#36;200&#36;
 </code></pre>
 </div>
 </div>
@@ -10567,6 +12094,23 @@ $
 </li>
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>8CC97A4B-B648-4F42-9976-7D2C4DB8E99F</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -10578,7 +12122,7 @@ $4000 \div 80$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$4000 \div 80$
+<pre class="language-latex"><code class="language-latex">&#36;4000 \div 80&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -10643,7 +12187,7 @@ $50$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 4000 \div 80 \\\\
 &= \dfrac {4000} {80} \\\\
@@ -10653,7 +12197,7 @@ $50$
 &= \dfrac {50 \times \cancel{2}} {\cancel{2}} \\\\
 &= 50
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -10674,7 +12218,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$50$
+<pre class="language-latex"><code class="language-latex">&#36;50&#36;
 </code></pre>
 </div>
 </div>
@@ -10748,13 +12292,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -10766,7 +12313,7 @@ Given that $35 \times 17 = 595$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Given that $35 \times 17 = 595$
+<pre class="language-latex"><code class="language-latex">Given that &#36;35 \times 17 = 595&#36;
 </code></pre>
 </div>
 
@@ -10776,6 +12323,23 @@ Given that $35 \times 17 = 595$
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>1FD227F2-963E-4BE8-A0B2-4883A3C99AEB</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -10787,7 +12351,7 @@ What is $595 \div 17?$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What is $595 \div 17?$
+<pre class="language-latex"><code class="language-latex">What is &#36;595 \div 17?&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -10847,12 +12411,12 @@ $35$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 595 \div 17 \\\\
 &= 35
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -10873,7 +12437,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$35$
+<pre class="language-latex"><code class="language-latex">&#36;35&#36;
 </code></pre>
 </div>
 </div>
@@ -10882,6 +12446,23 @@ $
 </li>
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>FFA9DA0E-E2B4-43FE-B20F-557AFE73D754</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -10893,7 +12474,7 @@ What is $59500 \div 17?$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What is $59500 \div 17?$
+<pre class="language-latex"><code class="language-latex">What is &#36;59500 \div 17?&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -10956,7 +12537,7 @@ $3500$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 59500 \div 17 \\\\
 &= \dfrac {59500} {17} \\\\
@@ -10964,7 +12545,7 @@ $3500$
 &= 35 \times 100 \\\\
 &= 3500
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -10985,7 +12566,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$3500$
+<pre class="language-latex"><code class="language-latex">&#36;3500&#36;
 </code></pre>
 </div>
 </div>
@@ -10994,6 +12575,23 @@ $
 </li>
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>26150CFC-3EEE-4B46-BE39-051968A07A2C</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -11005,7 +12603,7 @@ What is $(595 + 595 + 595) \div 17?$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What is $(595 + 595 + 595) \div 17?$
+<pre class="language-latex"><code class="language-latex">What is &#36;(595 + 595 + 595) \div 17?&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -11068,7 +12666,7 @@ $105$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= (595 + 595 + 595) \div 17 \\\\
 &= \dfrac {595 + 595 + 595} {17} \\\\
@@ -11076,7 +12674,7 @@ $105$
 &= 35 \times 3 \\\\
 &= 105
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -11097,7 +12695,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$105$
+<pre class="language-latex"><code class="language-latex">&#36;105&#36;
 </code></pre>
 </div>
 </div>
@@ -11171,13 +12769,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -11199,6 +12800,23 @@ tdivision
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>658E24C7-61FA-4BB1-8DF3-D084969C3E1A</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -11210,7 +12828,7 @@ What is $8000 \div 100?$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What is $8000 \div 100?$
+<pre class="language-latex"><code class="language-latex">What is &#36;8000 \div 100?&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -11272,14 +12890,14 @@ $80$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 8000 \div 100 \\\\
 &= \dfrac {8000} {100} \\\\
 &= \dfrac {80 \cancel{0} \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
 &= 80
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -11300,7 +12918,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$80$
+<pre class="language-latex"><code class="language-latex">&#36;80&#36;
 </code></pre>
 </div>
 </div>
@@ -11309,6 +12927,23 @@ $
 </li>
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>A47762BA-103A-4C2A-A535-B36E72B99F7A</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -11320,7 +12955,7 @@ What is $8000 \div 400?$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What is $8000 \div 400?$
+<pre class="language-latex"><code class="language-latex">What is &#36;8000 \div 400?&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -11385,7 +13020,7 @@ $20$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 8000 \div 400 \\\\
 &= \dfrac {8000} {400} \\\\
@@ -11395,7 +13030,7 @@ $20$
 &= \dfrac {20 \times \cancel{4}} {\cancel{4}} \\\\
 &= 20
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -11416,7 +13051,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$20$
+<pre class="language-latex"><code class="language-latex">&#36;20&#36;
 </code></pre>
 </div>
 </div>
@@ -11425,6 +13060,23 @@ $
 </li>
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>E191D461-1318-4D3F-B4FD-D5740D1ED9C3</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -11436,7 +13088,7 @@ What is $8000 \div 50?$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What is $8000 \div 50?$
+<pre class="language-latex"><code class="language-latex">What is &#36;8000 \div 50?&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -11500,7 +13152,7 @@ $160$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 8000 \div 50 \\\\
 &= \dfrac {8000} {50} \\\\
@@ -11509,7 +13161,7 @@ $160$
 &= 80 \times 2 \\\\
 &= 160
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -11530,7 +13182,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$160$
+<pre class="language-latex"><code class="language-latex">&#36;160&#36;
 </code></pre>
 </div>
 </div>
@@ -11604,13 +13256,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -11625,8 +13280,8 @@ $74 \times 39 = 2886$
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
 <pre class="language-latex"><code class="language-latex">Given that
-<emptyline>
-$74 \times 39 = 2886$
+
+&#36;74 \times 39 = 2886&#36;
 </code></pre>
 </div>
 
@@ -11636,6 +13291,23 @@ $74 \times 39 = 2886$
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>81CFA312-6097-4658-B613-86A94FDAF97B</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -11647,7 +13319,7 @@ What is $2886 \div 74?$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What is $2886 \div 74?$
+<pre class="language-latex"><code class="language-latex">What is &#36;2886 \div 74?&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -11707,12 +13379,12 @@ $39$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 2886 \div 74 \\\\
 &= 39
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -11733,7 +13405,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$39$
+<pre class="language-latex"><code class="language-latex">&#36;39&#36;
 </code></pre>
 </div>
 </div>
@@ -11742,6 +13414,23 @@ $
 </li>
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>60FC99FE-E072-4C75-9DD5-B9E8E8CBFC49</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -11753,7 +13442,7 @@ What is $288.6 \div 74?$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What is $288.6 \div 74?$
+<pre class="language-latex"><code class="language-latex">What is &#36;288.6 \div 74?&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -11817,7 +13506,7 @@ $3.9$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 288.6 \div 74 \\\\
 &= \dfrac {288.6} {74} \\\\
@@ -11826,7 +13515,7 @@ $3.9$
 &= \dfrac {39} {10} \\\\
 &= 3.9
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -11847,7 +13536,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$3.9$
+<pre class="language-latex"><code class="language-latex">&#36;3.9&#36;
 </code></pre>
 </div>
 </div>
@@ -11856,6 +13545,23 @@ $
 </li>
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>824512F1-3434-4D45-B820-0FFD44A8DAEE</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -11867,7 +13573,7 @@ What is $(28862886) \div 74?$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What is $(28862886) \div 74?$
+<pre class="language-latex"><code class="language-latex">What is &#36;(28862886) \div 74?&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -11935,7 +13641,7 @@ $390039$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= (28862886) \div 74 \\\\
 &= \dfrac {28862886} {74} \\\\
@@ -11948,7 +13654,7 @@ $390039$
 &= 390000 + 39 \\\\
 &= 390039
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -11969,7 +13675,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$390039$
+<pre class="language-latex"><code class="language-latex">&#36;390039&#36;
 </code></pre>
 </div>
 </div>
@@ -12043,13 +13749,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -12071,6 +13780,23 @@ tdivision
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>03253F53-C24D-4E57-AA7D-1ABD4684888A</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -12082,7 +13808,7 @@ What is $6000 \div 100?$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What is $6000 \div 100?$
+<pre class="language-latex"><code class="language-latex">What is &#36;6000 \div 100?&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -12144,14 +13870,14 @@ $60$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 6000 \div 100 \\\\
 &= \dfrac {6000} {100} \\\\
 &= \dfrac {60  \cancel{0} \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
 &= 60
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -12172,7 +13898,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$60$
+<pre class="language-latex"><code class="language-latex">&#36;60&#36;
 </code></pre>
 </div>
 </div>
@@ -12181,6 +13907,23 @@ $
 </li>
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>F1AC7387-254E-44E0-A0F3-A7CFCAB0873C</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -12192,7 +13935,7 @@ What is $6000 \div 200?$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What is $6000 \div 200?$
+<pre class="language-latex"><code class="language-latex">What is &#36;6000 \div 200?&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -12257,7 +14000,7 @@ $30$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 6000 \div 200 \\\\
 &= \dfrac {6000} {200} \\\\
@@ -12267,7 +14010,7 @@ $30$
 &= \dfrac {30 \times \cancel{2}} {\cancel{2}} \\\\
 &= 30
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -12288,7 +14031,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$30$
+<pre class="language-latex"><code class="language-latex">&#36;30&#36;
 </code></pre>
 </div>
 </div>
@@ -12297,6 +14040,23 @@ $
 </li>
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>86BF62E0-AD62-4708-BEAE-A9D1B4271AD0</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -12308,7 +14068,7 @@ What is $6000 \div 300?$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What is $6000 \div 300?$
+<pre class="language-latex"><code class="language-latex">What is &#36;6000 \div 300?&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -12373,7 +14133,7 @@ $20$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 6000 \div 300 \\\\
 &= \dfrac {6000} {300} \\\\
@@ -12383,7 +14143,7 @@ $20$
 &= \dfrac {20 \times \cancel{3}} {\cancel{3}} \\\\
 &= 20
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -12404,7 +14164,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$20$
+<pre class="language-latex"><code class="language-latex">&#36;20&#36;
 </code></pre>
 </div>
 </div>
@@ -12478,13 +14238,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -12579,6 +14342,23 @@ tdivision
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>B16B91F0-DE9F-4AC6-8F9E-03CE3244F6D1</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -12590,7 +14370,7 @@ What is $9000 \div 100?$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What is $9000 \div 100?$
+<pre class="language-latex"><code class="language-latex">What is &#36;9000 \div 100?&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -12652,14 +14432,14 @@ $90$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 9000 \div 100 \\\\
 &= \dfrac {9000} {100} \\\\
 &= \dfrac {90  \cancel{0} \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
 &= 90
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -12680,7 +14460,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$90$
+<pre class="language-latex"><code class="language-latex">&#36;90&#36;
 </code></pre>
 </div>
 </div>
@@ -12689,6 +14469,23 @@ $
 </li>
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>0CCE8FC9-24A5-4541-8FDE-4025BD3AB3EE</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -12700,7 +14497,7 @@ What is $9000 \div 300?$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What is $9000 \div 300?$
+<pre class="language-latex"><code class="language-latex">What is &#36;9000 \div 300?&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -12763,7 +14560,7 @@ $30$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 9000 \div 300 \\\\
 &= \dfrac {9000} {300} \\\\
@@ -12771,7 +14568,7 @@ $30$
 &= \dfrac {\cancel{100} \times \cancel{3} \times 30} {\cancel{100} \times \cancel{3}} \\\\
 &= 30
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -12792,7 +14589,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$30$
+<pre class="language-latex"><code class="language-latex">&#36;30&#36;
 </code></pre>
 </div>
 </div>
@@ -12801,6 +14598,23 @@ $
 </li>
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>FD31DC1E-39C7-4B21-AD18-35399F8B789D</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -12812,7 +14626,7 @@ What is $9000 \div 600?$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What is $9000 \div 600?$
+<pre class="language-latex"><code class="language-latex">What is &#36;9000 \div 600?&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -12875,7 +14689,7 @@ $15$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 9000 \div 600 \\\\
 &= \dfrac {9000} {600} \\\\
@@ -12883,7 +14697,7 @@ $15$
 &= \dfrac {\cancel{100} \times \cancel{6} \times 15} {\cancel{100} \times \cancel{6}} \\\\
 &= 15
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -12904,7 +14718,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$15$
+<pre class="language-latex"><code class="language-latex">&#36;15&#36;
 </code></pre>
 </div>
 </div>
@@ -12978,13 +14792,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -12996,7 +14813,7 @@ Work out $4992 \div 16$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $4992 \div 16$
+<pre class="language-latex"><code class="language-latex">Work out &#36;4992 \div 16&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -13020,6 +14837,22 @@ Work out $4992 \div 16$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/sevenoaks-school/2010/sample-paper-1/answers/generated/long-division/s01-q03-w01-ld00.svg" alt="Long division of 4992 by 16" title="papers/sevenoaks-school/2010/sample-paper-1/answers/generated/long-division/s01-q03-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 4992 \div 16 \\\\
@@ -13029,6 +14862,9 @@ $
 &= 312
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -13059,7 +14895,15 @@ $312$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="4992" divisor="16" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 4992 \div 16 \\\\
 &= \dfrac{4992}{16} \\\\
@@ -13067,7 +14911,9 @@ $312$
 &= \dfrac{312 \times \cancel{4} \times \cancel{4}}{\cancel{4} \times \cancel{4}} \\\\
 &= 312
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -13088,7 +14934,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$312$
+<pre class="language-latex"><code class="language-latex">&#36;312&#36;
 </code></pre>
 </div>
 </div>
@@ -13159,13 +15005,21 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
+</li>
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tremainder
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -13177,7 +15031,7 @@ What is the remainder when $354972$ is divided by $7 \text{?}$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What is the remainder when $354972$ is divided by $7 \text{?}$
+<pre class="language-latex"><code class="language-latex">What is the remainder when &#36;354972&#36; is divided by &#36;7 \text{?}&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -13201,12 +15055,31 @@ What is the remainder when $354972$ is divided by $7 \text{?}$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/sevenoaks-school/2015/sample-paper-6/answers/generated/long-division/s01-q10-w01-ld00.svg" alt="Long division of 354972 by 7" title="papers/sevenoaks-school/2015/sample-paper-6/answers/generated/long-division/s01-q10-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= \dfrac{354972}{7} \\\\
 &= 50710 \text{ remainder } 2
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -13237,12 +15110,22 @@ $2$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="354972" divisor="7" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= \dfrac{354972}{7} \\\\
 &= 50710 \text{ remainder } 2
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -13263,7 +15146,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$2$
+<pre class="language-latex"><code class="language-latex">&#36;2&#36;
 </code></pre>
 </div>
 </div>
@@ -13334,13 +15217,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -13352,7 +15238,7 @@ Divide $285 \div 3$.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Divide $285 \div 3$.
+<pre class="language-latex"><code class="language-latex">Divide &#36;285 \div 3&#36;.
 </code></pre>
 </div>
 <div class="workings">
@@ -13376,6 +15262,22 @@ Divide $285 \div 3$.
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/st-albans-high-school-for-girls/2016/sample-paper-1/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 285 by 3" title="papers/st-albans-high-school-for-girls/2016/sample-paper-1/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 285 \div 3 \\\\
@@ -13385,6 +15287,9 @@ $
 &= 95
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -13415,7 +15320,15 @@ $95$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="285" divisor="3" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 285 \div 3 \\\\
 &= \dfrac{285}{3} \\\\
@@ -13423,7 +15336,9 @@ $95$
 &= \dfrac{95 \times \cancel{3}}{\cancel{3}} \\\\
 &= 95
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -13444,7 +15359,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$95$
+<pre class="language-latex"><code class="language-latex">&#36;95&#36;
 </code></pre>
 </div>
 </div>
@@ -13515,13 +15430,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -13557,6 +15475,22 @@ Divide 301 ÷ 7
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/st-albans-high-school-for-girls/2017/sample-paper-2/answers/generated/long-division/s01-q05-w01-ld00.svg" alt="Long division of 301 by 7" title="papers/st-albans-high-school-for-girls/2017/sample-paper-2/answers/generated/long-division/s01-q05-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 301 \div 7 \\\\
@@ -13566,6 +15500,9 @@ $
 &= 43
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -13596,7 +15533,15 @@ $43$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="301" divisor="7" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 301 \div 7 \\\\
 &= \dfrac{301}{7} \\\\
@@ -13604,7 +15549,9 @@ $43$
 &= \dfrac{43 \times \cancel{7}}{\cancel{7}} \\\\
 &= 43
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -13625,7 +15572,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$43$
+<pre class="language-latex"><code class="language-latex">&#36;43&#36;
 </code></pre>
 </div>
 </div>
@@ -13696,13 +15643,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -13714,7 +15664,7 @@ $207 \div 9 = \ldots$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$207 \div 9 = \ldots$ 
+<pre class="language-latex"><code class="language-latex">&#36;207 \div 9 = \ldots&#36; 
 </code></pre>
 </div>
 <div class="workings">
@@ -13738,6 +15688,22 @@ $207 \div 9 = \ldots$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/st-francis-college/2017/sample-paper-1/answers/generated/long-division/s01-q05-w01-ld00.svg" alt="Long division of 207 by 9" title="papers/st-francis-college/2017/sample-paper-1/answers/generated/long-division/s01-q05-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 207 \div 9 \\\\
@@ -13748,6 +15714,9 @@ $
 &= 23
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -13778,7 +15747,15 @@ $23$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="207" divisor="9" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 207 \div 9 \\\\
 &= \dfrac{207}{9} \\\\
@@ -13787,7 +15764,9 @@ $23$
 &= \dfrac{23 \times \cancel{3} \times \cancel{3}} {\times \cancel{3} \times {\cancel{3}}} \\\\
 &= 23
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -13808,7 +15787,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$23$
+<pre class="language-latex"><code class="language-latex">&#36;23&#36;
 </code></pre>
 </div>
 </div>
@@ -13879,13 +15858,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -13897,7 +15879,7 @@ $1081 \div 23= \ldots$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$1081 \div 23= \ldots$
+<pre class="language-latex"><code class="language-latex">&#36;1081 \div 23= \ldots&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -13960,7 +15942,7 @@ $47$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 1081 \div 23 \\\\
 &= \dfrac{1081}{23} \\\\
@@ -13968,7 +15950,7 @@ $47$
 &= \dfrac{47 \times \cancel{23}}{\cancel{23}}\\\\
 &= 47
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -13989,7 +15971,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$47$
+<pre class="language-latex"><code class="language-latex">&#36;47&#36;
 </code></pre>
 </div>
 </div>
@@ -14060,13 +16042,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -14078,7 +16063,7 @@ $12321 \div 9$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$12321 \div 9$ 
+<pre class="language-latex"><code class="language-latex">&#36;12321 \div 9&#36; 
 </code></pre>
 </div>
 <div class="workings">
@@ -14102,6 +16087,22 @@ $12321 \div 9$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/st-georges-college/2012/sample-paper-1/answers/generated/long-division/s01-q06-w01-ld00.svg" alt="Long division of 12321 by 9" title="papers/st-georges-college/2012/sample-paper-1/answers/generated/long-division/s01-q06-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 12321 \div 9  \\\\
@@ -14111,6 +16112,9 @@ $
 &= 1369
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -14141,7 +16145,15 @@ $1369$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="12321" divisor="9" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 12321 \div 9  \\\\
 &= \dfrac {12321} {9}  \\\\
@@ -14149,7 +16161,9 @@ $1369$
 &= \dfrac {1369 \times \cancel{9}  } {\cancel{9} }  \\\\
 &= 1369
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -14170,7 +16184,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$1369$
+<pre class="language-latex"><code class="language-latex">&#36;1369&#36;
 </code></pre>
 </div>
 </div>
@@ -14241,13 +16255,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -14259,7 +16276,7 @@ Calculate $483 \div 21$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Calculate $483 \div 21$
+<pre class="language-latex"><code class="language-latex">Calculate &#36;483 \div 21&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -14283,6 +16300,22 @@ Calculate $483 \div 21$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/st-pauls-girls-school/2016/sample-paper-2/answers/generated/long-division/s01-q05-w01-ld00.svg" alt="Long division of 483 by 21" title="papers/st-pauls-girls-school/2016/sample-paper-2/answers/generated/long-division/s01-q05-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 483 \div 21 \\\\
@@ -14292,6 +16325,9 @@ $
 &= 23
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -14322,7 +16358,15 @@ $23$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="483" divisor="21" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 483 \div 21 \\\\
 &= \dfrac{483}{21} \\\\
@@ -14330,7 +16374,9 @@ $23$
 &= \dfrac{23 \times \cancel{3} \times \cancel{7}}{\cancel{3} \times \cancel{7}} \\\\
 &= 23
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -14351,7 +16397,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$23$
+<pre class="language-latex"><code class="language-latex">&#36;23&#36;
 </code></pre>
 </div>
 </div>
@@ -14422,13 +16468,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -14440,7 +16489,7 @@ Calculate $391$ divided by seventeen.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Calculate $391$ divided by seventeen.
+<pre class="language-latex"><code class="language-latex">Calculate &#36;391&#36; divided by seventeen.
 </code></pre>
 </div>
 <div class="workings">
@@ -14464,6 +16513,22 @@ Calculate $391$ divided by seventeen.
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/st-pauls-girls-school/2017/sample-paper-1/answers/generated/long-division/s01-q06-w01-ld00.svg" alt="Long division of 391 by 17" title="papers/st-pauls-girls-school/2017/sample-paper-1/answers/generated/long-division/s01-q06-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= \dfrac{391}{17} \\\\
@@ -14472,6 +16537,9 @@ $
 &= 23
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -14502,14 +16570,24 @@ $23$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="391" divisor="17" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= \dfrac{391}{17} \\\\
 &= \dfrac{17 \times 23}{17} \\\\
 &= \dfrac{\cancel{17} \times 23}{\cancel{17}} \\\\
 &= 23
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -14530,7 +16608,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$23$
+<pre class="language-latex"><code class="language-latex">&#36;23&#36;
 </code></pre>
 </div>
 </div>
@@ -14601,13 +16679,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -14619,7 +16700,7 @@ Calculate $286 \div 13$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Calculate $286 \div 13$
+<pre class="language-latex"><code class="language-latex">Calculate &#36;286 \div 13&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -14643,6 +16724,22 @@ Calculate $286 \div 13$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/st-pauls-girls-school/2017/sample-paper-2/answers/generated/long-division/s01-q02-w01-ld00.svg" alt="Long division of 286 by 13" title="papers/st-pauls-girls-school/2017/sample-paper-2/answers/generated/long-division/s01-q02-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= \dfrac{286}{13} \\\\
@@ -14651,6 +16748,9 @@ $
 &= 22
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -14681,14 +16781,24 @@ $22$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="286" divisor="13" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= \dfrac{286}{13} \\\\
 &= \dfrac{22 \times 13}{13} \\\\
 &= \dfrac{22 \times \cancel{13}}{\cancel{13}} \\\\
 &= 22
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -14709,7 +16819,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$22$
+<pre class="language-latex"><code class="language-latex">&#36;22&#36;
 </code></pre>
 </div>
 </div>
@@ -14764,7 +16874,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>096AA73E-3271-49CC-97D7-2319FEA61B14</p>
 </div>
@@ -14775,18 +16885,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -14881,6 +16994,23 @@ Work out the answers to:
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>7ACC923E-A60D-45D8-96A6-B37D76BD0B2B</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -14892,7 +17022,7 @@ $9642 \div  3$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$9642 \div  3$
+<pre class="language-latex"><code class="language-latex">&#36;9642 \div  3&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -14955,7 +17085,7 @@ $3214$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 9642 \div  3 \\\\
 &= \dfrac{9642}{3} \\\\
@@ -14963,7 +17093,7 @@ $3214$
 &= \dfrac{3214 \times \cancel 3}{\cancel3 } \\\\
 &= 3214
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -14984,7 +17114,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$3214$
+<pre class="language-latex"><code class="language-latex">&#36;3214&#36;
 </code></pre>
 </div>
 </div>
@@ -14993,6 +17123,23 @@ $
 </li>
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>85C6CC3D-3162-443A-97F1-91F13DF7CEC7</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -15004,7 +17151,7 @@ $512 \div  16$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$512 \div  16$
+<pre class="language-latex"><code class="language-latex">&#36;512 \div  16&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -15067,7 +17214,7 @@ $32$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &=  512 \div  16 \\\\
 &= \dfrac{512}{16} \\\\
@@ -15075,7 +17222,7 @@ $32$
 &= \dfrac{32 \times \cancel 16}{\cancel 16 } \\\\
 &= 32
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -15096,7 +17243,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$32$
+<pre class="language-latex"><code class="language-latex">&#36;32&#36;
 </code></pre>
 </div>
 </div>
@@ -15108,41 +17255,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="096AA73E-3271-49CC-97D7-2319FEA61B14" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="096AA73E-3271-49CC-97D7-2319FEA61B14" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="096AA73E-3271-49CC-97D7-2319FEA61B14" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="096AA73E-3271-49CC-97D7-2319FEA61B14" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="096AA73E-3271-49CC-97D7-2319FEA61B14" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="096AA73E-3271-49CC-97D7-2319FEA61B14" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="096AA73E-3271-49CC-97D7-2319FEA61B14" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="096AA73E-3271-49CC-97D7-2319FEA61B14" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="096AA73E-3271-49CC-97D7-2319FEA61B14" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="096AA73E-3271-49CC-97D7-2319FEA61B14" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="096AA73E-3271-49CC-97D7-2319FEA61B14" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="096AA73E-3271-49CC-97D7-2319FEA61B14" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="096AA73E-3271-49CC-97D7-2319FEA61B14" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="096AA73E-3271-49CC-97D7-2319FEA61B14" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="096AA73E-3271-49CC-97D7-2319FEA61B14" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="096AA73E-3271-49CC-97D7-2319FEA61B14" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="096AA73E-3271-49CC-97D7-2319FEA61B14" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="096AA73E-3271-49CC-97D7-2319FEA61B14" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="096AA73E-3271-49CC-97D7-2319FEA61B14" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="096AA73E-3271-49CC-97D7-2319FEA61B14" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="096AA73E-3271-49CC-97D7-2319FEA61B14" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="096AA73E-3271-49CC-97D7-2319FEA61B14" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="096AA73E-3271-49CC-97D7-2319FEA61B14" id="FORM-096AA73E-3271-49CC-97D7-2319FEA61B14" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="096AA73E-3271-49CC-97D7-2319FEA61B14" id="FORM-096AA73E-3271-49CC-97D7-2319FEA61B14" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -15154,7 +17301,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>74D1D6EA-DD18-4834-B06D-9B3F7F9AE838</p>
 </div>
@@ -15165,18 +17312,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -15194,13 +17344,13 @@ Work out $1449 \div 23$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $1449 \div 23$
-<emptyline>
-- $65$
-- $63$
-- $71$
-- $76$
-- $69$
+<pre class="language-latex"><code class="language-latex">Work out &#36;1449 \div 23&#36;
+
+- &#36;65&#36;
+- &#36;63&#36;
+- &#36;71&#36;
+- &#36;76&#36;
+- &#36;69&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -15224,6 +17374,22 @@ Work out $1449 \div 23$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/streatham-and-clapham-high-school/2019/sample-paper-2/answers/generated/long-division/s01-q01-w01-ld00.svg" alt="Long division of 1449 by 23" title="papers/streatham-and-clapham-high-school/2019/sample-paper-2/answers/generated/long-division/s01-q01-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 1449 \div 23 \\\\
@@ -15233,6 +17399,9 @@ $
 &= 63
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -15269,7 +17438,15 @@ $63$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="1449" divisor="23" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 1449 \div 23 \\\\
 &= \dfrac{1449}{23} \\\\
@@ -15277,7 +17454,9 @@ $63$
 &= \dfrac{\cancel{23} \times 63}{\cancel{23}} \\\\
 &= 63
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -15298,7 +17477,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$63$
+<pre class="language-latex"><code class="language-latex">&#36;63&#36;
 </code></pre>
 </div>
 </div>
@@ -15307,41 +17486,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="74D1D6EA-DD18-4834-B06D-9B3F7F9AE838" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="74D1D6EA-DD18-4834-B06D-9B3F7F9AE838" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="74D1D6EA-DD18-4834-B06D-9B3F7F9AE838" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="74D1D6EA-DD18-4834-B06D-9B3F7F9AE838" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="74D1D6EA-DD18-4834-B06D-9B3F7F9AE838" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="74D1D6EA-DD18-4834-B06D-9B3F7F9AE838" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="74D1D6EA-DD18-4834-B06D-9B3F7F9AE838" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="74D1D6EA-DD18-4834-B06D-9B3F7F9AE838" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="74D1D6EA-DD18-4834-B06D-9B3F7F9AE838" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="74D1D6EA-DD18-4834-B06D-9B3F7F9AE838" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="74D1D6EA-DD18-4834-B06D-9B3F7F9AE838" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="74D1D6EA-DD18-4834-B06D-9B3F7F9AE838" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="74D1D6EA-DD18-4834-B06D-9B3F7F9AE838" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="74D1D6EA-DD18-4834-B06D-9B3F7F9AE838" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="74D1D6EA-DD18-4834-B06D-9B3F7F9AE838" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="74D1D6EA-DD18-4834-B06D-9B3F7F9AE838" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="74D1D6EA-DD18-4834-B06D-9B3F7F9AE838" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="74D1D6EA-DD18-4834-B06D-9B3F7F9AE838" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="74D1D6EA-DD18-4834-B06D-9B3F7F9AE838" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="74D1D6EA-DD18-4834-B06D-9B3F7F9AE838" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="74D1D6EA-DD18-4834-B06D-9B3F7F9AE838" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="74D1D6EA-DD18-4834-B06D-9B3F7F9AE838" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="74D1D6EA-DD18-4834-B06D-9B3F7F9AE838" id="FORM-74D1D6EA-DD18-4834-B06D-9B3F7F9AE838" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="74D1D6EA-DD18-4834-B06D-9B3F7F9AE838" id="FORM-74D1D6EA-DD18-4834-B06D-9B3F7F9AE838" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -15353,7 +17532,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>AE655B5A-1C78-4083-9657-5F993A978A4C</p>
 </div>
@@ -15364,18 +17543,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -15393,13 +17575,13 @@ $6.05 \div 5$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$6.05 \div 5$
-<emptyline>
-- $12.1$
-- $1.21$
-- $21$
-- $1.1$
-- $1.05$
+<pre class="language-latex"><code class="language-latex">&#36;6.05 \div 5&#36;
+
+- &#36;12.1&#36;
+- &#36;1.21&#36;
+- &#36;21&#36;
+- &#36;1.1&#36;
+- &#36;1.05&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -15470,7 +17652,7 @@ $1.21$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= \dfrac{6.05}{5} \\\\
 &= \dfrac{6.05 \times 100}{5 \times 100} \\\\
@@ -15480,7 +17662,7 @@ $1.21$
 &= \dfrac{121}{100} \\\\
 &= 1.21
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -15501,7 +17683,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$1.21$
+<pre class="language-latex"><code class="language-latex">&#36;1.21&#36;
 </code></pre>
 </div>
 </div>
@@ -15510,41 +17692,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="AE655B5A-1C78-4083-9657-5F993A978A4C" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="AE655B5A-1C78-4083-9657-5F993A978A4C" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="AE655B5A-1C78-4083-9657-5F993A978A4C" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="AE655B5A-1C78-4083-9657-5F993A978A4C" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="AE655B5A-1C78-4083-9657-5F993A978A4C" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="AE655B5A-1C78-4083-9657-5F993A978A4C" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="AE655B5A-1C78-4083-9657-5F993A978A4C" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="AE655B5A-1C78-4083-9657-5F993A978A4C" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="AE655B5A-1C78-4083-9657-5F993A978A4C" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="AE655B5A-1C78-4083-9657-5F993A978A4C" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="AE655B5A-1C78-4083-9657-5F993A978A4C" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="AE655B5A-1C78-4083-9657-5F993A978A4C" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="AE655B5A-1C78-4083-9657-5F993A978A4C" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="AE655B5A-1C78-4083-9657-5F993A978A4C" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="AE655B5A-1C78-4083-9657-5F993A978A4C" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="AE655B5A-1C78-4083-9657-5F993A978A4C" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="AE655B5A-1C78-4083-9657-5F993A978A4C" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="AE655B5A-1C78-4083-9657-5F993A978A4C" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="AE655B5A-1C78-4083-9657-5F993A978A4C" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="AE655B5A-1C78-4083-9657-5F993A978A4C" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="AE655B5A-1C78-4083-9657-5F993A978A4C" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="AE655B5A-1C78-4083-9657-5F993A978A4C" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="AE655B5A-1C78-4083-9657-5F993A978A4C" id="FORM-AE655B5A-1C78-4083-9657-5F993A978A4C" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="AE655B5A-1C78-4083-9657-5F993A978A4C" id="FORM-AE655B5A-1C78-4083-9657-5F993A978A4C" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -15556,7 +17738,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>ABFAF4A1-6003-4101-BF68-1852178153EC</p>
 </div>
@@ -15567,18 +17749,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -15590,7 +17775,7 @@ Work out $2136 \div 8$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $2136 \div 8$ 
+<pre class="language-latex"><code class="language-latex">Work out &#36;2136 \div 8&#36; 
 </code></pre>
 </div>
 <div class="workings">
@@ -15614,6 +17799,22 @@ Work out $2136 \div 8$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/sydenham-high-school/sample/sample-paper-1/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 2136 by 8" title="papers/sydenham-high-school/sample/sample-paper-1/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 2136 \div 8 \\\\
@@ -15623,6 +17824,9 @@ $
 &= 267
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -15653,7 +17857,15 @@ $267$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="2136" divisor="8" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 2136 \div 8 \\\\
 &= \dfrac{2136}{8} \\\\
@@ -15661,7 +17873,9 @@ $267$
 &= \dfrac{267 \times {\cancel{8}}}{\cancel{8}} \\\\
 &= 267
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -15682,7 +17896,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$267$
+<pre class="language-latex"><code class="language-latex">&#36;267&#36;
 </code></pre>
 </div>
 </div>
@@ -15691,41 +17905,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="ABFAF4A1-6003-4101-BF68-1852178153EC" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="ABFAF4A1-6003-4101-BF68-1852178153EC" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="ABFAF4A1-6003-4101-BF68-1852178153EC" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="ABFAF4A1-6003-4101-BF68-1852178153EC" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="ABFAF4A1-6003-4101-BF68-1852178153EC" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="ABFAF4A1-6003-4101-BF68-1852178153EC" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="ABFAF4A1-6003-4101-BF68-1852178153EC" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="ABFAF4A1-6003-4101-BF68-1852178153EC" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="ABFAF4A1-6003-4101-BF68-1852178153EC" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="ABFAF4A1-6003-4101-BF68-1852178153EC" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="ABFAF4A1-6003-4101-BF68-1852178153EC" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="ABFAF4A1-6003-4101-BF68-1852178153EC" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="ABFAF4A1-6003-4101-BF68-1852178153EC" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="ABFAF4A1-6003-4101-BF68-1852178153EC" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="ABFAF4A1-6003-4101-BF68-1852178153EC" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="ABFAF4A1-6003-4101-BF68-1852178153EC" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="ABFAF4A1-6003-4101-BF68-1852178153EC" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="ABFAF4A1-6003-4101-BF68-1852178153EC" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="ABFAF4A1-6003-4101-BF68-1852178153EC" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="ABFAF4A1-6003-4101-BF68-1852178153EC" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="ABFAF4A1-6003-4101-BF68-1852178153EC" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="ABFAF4A1-6003-4101-BF68-1852178153EC" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="ABFAF4A1-6003-4101-BF68-1852178153EC" id="FORM-ABFAF4A1-6003-4101-BF68-1852178153EC" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="ABFAF4A1-6003-4101-BF68-1852178153EC" id="FORM-ABFAF4A1-6003-4101-BF68-1852178153EC" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -15737,7 +17951,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>148893CA-DDDE-435B-A79A-07B6DFCC34EA</p>
 </div>
@@ -15748,18 +17962,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -15771,7 +17988,7 @@ Divide: $324 \div 9$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Divide: $324 \div 9$ 
+<pre class="language-latex"><code class="language-latex">Divide: &#36;324 \div 9&#36; 
 </code></pre>
 </div>
 <div class="workings">
@@ -15795,6 +18012,22 @@ Divide: $324 \div 9$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-haberdashers-askes-boys-school/2009/sample-paper-1/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 324 by 9" title="papers/the-haberdashers-askes-boys-school/2009/sample-paper-1/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 & = \dfrac {324}{9}                                  \\\\
@@ -15803,6 +18036,9 @@ $
 & = 36                                               
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -15833,14 +18069,24 @@ $36$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="324" divisor="9" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 & = \dfrac {324}{9}                                  \\\\
 & = \dfrac {36 \times 9}{9}                 \\\\
 & = \dfrac {36 \times \cancel 9}{\cancel 9} \\\\
 & = 36                                               
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -15861,7 +18107,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$36$
+<pre class="language-latex"><code class="language-latex">&#36;36&#36;
 </code></pre>
 </div>
 </div>
@@ -15870,41 +18116,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="148893CA-DDDE-435B-A79A-07B6DFCC34EA" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="148893CA-DDDE-435B-A79A-07B6DFCC34EA" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="148893CA-DDDE-435B-A79A-07B6DFCC34EA" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="148893CA-DDDE-435B-A79A-07B6DFCC34EA" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="148893CA-DDDE-435B-A79A-07B6DFCC34EA" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="148893CA-DDDE-435B-A79A-07B6DFCC34EA" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="148893CA-DDDE-435B-A79A-07B6DFCC34EA" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="148893CA-DDDE-435B-A79A-07B6DFCC34EA" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="148893CA-DDDE-435B-A79A-07B6DFCC34EA" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="148893CA-DDDE-435B-A79A-07B6DFCC34EA" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="148893CA-DDDE-435B-A79A-07B6DFCC34EA" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="148893CA-DDDE-435B-A79A-07B6DFCC34EA" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="148893CA-DDDE-435B-A79A-07B6DFCC34EA" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="148893CA-DDDE-435B-A79A-07B6DFCC34EA" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="148893CA-DDDE-435B-A79A-07B6DFCC34EA" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="148893CA-DDDE-435B-A79A-07B6DFCC34EA" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="148893CA-DDDE-435B-A79A-07B6DFCC34EA" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="148893CA-DDDE-435B-A79A-07B6DFCC34EA" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="148893CA-DDDE-435B-A79A-07B6DFCC34EA" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="148893CA-DDDE-435B-A79A-07B6DFCC34EA" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="148893CA-DDDE-435B-A79A-07B6DFCC34EA" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="148893CA-DDDE-435B-A79A-07B6DFCC34EA" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="148893CA-DDDE-435B-A79A-07B6DFCC34EA" id="FORM-148893CA-DDDE-435B-A79A-07B6DFCC34EA" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="148893CA-DDDE-435B-A79A-07B6DFCC34EA" id="FORM-148893CA-DDDE-435B-A79A-07B6DFCC34EA" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -15916,7 +18162,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9</p>
 </div>
@@ -15927,18 +18173,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -15950,7 +18199,7 @@ Divide: $76 \div 2$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Divide: $76 \div 2$
+<pre class="language-latex"><code class="language-latex">Divide: &#36;76 \div 2&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -15974,6 +18223,22 @@ Divide: $76 \div 2$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-haberdashers-askes-boys-school/2010/sample-paper-2/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 76 by 2" title="papers/the-haberdashers-askes-boys-school/2010/sample-paper-2/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
       & = \dfrac {76}{2}                                  \\\\
@@ -15982,6 +18247,9 @@ $
       & = 38                                               
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -16012,14 +18280,24 @@ $38$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="76" divisor="2" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
       & = \dfrac {76}{2}                                  \\\\
       & = \dfrac {2 \times 38}{2}                         \\\\
       & = \dfrac {\cancel {2} \times 38}{\cancel {2}}         \\\\
       & = 38                                               
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -16040,7 +18318,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$38$
+<pre class="language-latex"><code class="language-latex">&#36;38&#36;
 </code></pre>
 </div>
 </div>
@@ -16049,41 +18327,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9" id="FORM-956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9" id="FORM-956E3A6E-D629-4B8F-A664-F3FEE8ECE9B9" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -16095,7 +18373,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>EE08C79E-E66D-4719-8A51-03C3EBDE0F59</p>
 </div>
@@ -16106,18 +18384,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -16129,7 +18410,7 @@ Divide: $92 \div 4$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Divide: $92 \div 4$
+<pre class="language-latex"><code class="language-latex">Divide: &#36;92 \div 4&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -16153,6 +18434,22 @@ Divide: $92 \div 4$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-haberdashers-askes-boys-school/2011/sample-paper-3/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 92 by 4" title="papers/the-haberdashers-askes-boys-school/2011/sample-paper-3/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
       & = \dfrac {92}{4}                                  \\\\
@@ -16161,6 +18458,9 @@ $
       & = 23                                               
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -16191,14 +18491,24 @@ $23$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="92" divisor="4" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
       & = \dfrac {92}{4}                                  \\\\
       & = \dfrac {4 \times 23}{4}                         \\\\
       & = \dfrac {\cancel {4} \times 23}{\cancel {4}}         \\\\
       & = 23                                               
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -16219,7 +18529,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$23$
+<pre class="language-latex"><code class="language-latex">&#36;23&#36;
 </code></pre>
 </div>
 </div>
@@ -16228,41 +18538,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EE08C79E-E66D-4719-8A51-03C3EBDE0F59" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="EE08C79E-E66D-4719-8A51-03C3EBDE0F59" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EE08C79E-E66D-4719-8A51-03C3EBDE0F59" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="EE08C79E-E66D-4719-8A51-03C3EBDE0F59" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EE08C79E-E66D-4719-8A51-03C3EBDE0F59" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="EE08C79E-E66D-4719-8A51-03C3EBDE0F59" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EE08C79E-E66D-4719-8A51-03C3EBDE0F59" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="EE08C79E-E66D-4719-8A51-03C3EBDE0F59" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EE08C79E-E66D-4719-8A51-03C3EBDE0F59" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="EE08C79E-E66D-4719-8A51-03C3EBDE0F59" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EE08C79E-E66D-4719-8A51-03C3EBDE0F59" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="EE08C79E-E66D-4719-8A51-03C3EBDE0F59" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EE08C79E-E66D-4719-8A51-03C3EBDE0F59" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="EE08C79E-E66D-4719-8A51-03C3EBDE0F59" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EE08C79E-E66D-4719-8A51-03C3EBDE0F59" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="EE08C79E-E66D-4719-8A51-03C3EBDE0F59" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EE08C79E-E66D-4719-8A51-03C3EBDE0F59" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="EE08C79E-E66D-4719-8A51-03C3EBDE0F59" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EE08C79E-E66D-4719-8A51-03C3EBDE0F59" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="EE08C79E-E66D-4719-8A51-03C3EBDE0F59" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="EE08C79E-E66D-4719-8A51-03C3EBDE0F59" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="EE08C79E-E66D-4719-8A51-03C3EBDE0F59" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="EE08C79E-E66D-4719-8A51-03C3EBDE0F59" id="FORM-EE08C79E-E66D-4719-8A51-03C3EBDE0F59" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="EE08C79E-E66D-4719-8A51-03C3EBDE0F59" id="FORM-EE08C79E-E66D-4719-8A51-03C3EBDE0F59" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -16274,7 +18584,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>13DBEA5B-15F2-411C-8312-F9FBABF0D11B</p>
 </div>
@@ -16285,18 +18595,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -16308,7 +18621,7 @@ Divide: $264 \div 11$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Divide: $264 \div 11$
+<pre class="language-latex"><code class="language-latex">Divide: &#36;264 \div 11&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -16332,6 +18645,22 @@ Divide: $264 \div 11$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-haberdashers-askes-boys-school/2013/sample-paper-4/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 264 by 11" title="papers/the-haberdashers-askes-boys-school/2013/sample-paper-4/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 & = \dfrac {264}{11}                                  \\\\
@@ -16340,6 +18669,9 @@ $
 & = 24                                               
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -16370,14 +18702,24 @@ $24$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="264" divisor="11" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 & = \dfrac {264}{11}                                  \\\\
 & = \dfrac {24 \times 11}{11}                         \\\\
 & = \dfrac {24 \times \cancel{11}}{\cancel{11}}         \\\\
 & = 24                                               
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -16398,7 +18740,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$24$
+<pre class="language-latex"><code class="language-latex">&#36;24&#36;
 </code></pre>
 </div>
 </div>
@@ -16407,41 +18749,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="13DBEA5B-15F2-411C-8312-F9FBABF0D11B" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="13DBEA5B-15F2-411C-8312-F9FBABF0D11B" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="13DBEA5B-15F2-411C-8312-F9FBABF0D11B" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="13DBEA5B-15F2-411C-8312-F9FBABF0D11B" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="13DBEA5B-15F2-411C-8312-F9FBABF0D11B" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="13DBEA5B-15F2-411C-8312-F9FBABF0D11B" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="13DBEA5B-15F2-411C-8312-F9FBABF0D11B" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="13DBEA5B-15F2-411C-8312-F9FBABF0D11B" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="13DBEA5B-15F2-411C-8312-F9FBABF0D11B" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="13DBEA5B-15F2-411C-8312-F9FBABF0D11B" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="13DBEA5B-15F2-411C-8312-F9FBABF0D11B" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="13DBEA5B-15F2-411C-8312-F9FBABF0D11B" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="13DBEA5B-15F2-411C-8312-F9FBABF0D11B" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="13DBEA5B-15F2-411C-8312-F9FBABF0D11B" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="13DBEA5B-15F2-411C-8312-F9FBABF0D11B" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="13DBEA5B-15F2-411C-8312-F9FBABF0D11B" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="13DBEA5B-15F2-411C-8312-F9FBABF0D11B" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="13DBEA5B-15F2-411C-8312-F9FBABF0D11B" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="13DBEA5B-15F2-411C-8312-F9FBABF0D11B" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="13DBEA5B-15F2-411C-8312-F9FBABF0D11B" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="13DBEA5B-15F2-411C-8312-F9FBABF0D11B" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="13DBEA5B-15F2-411C-8312-F9FBABF0D11B" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="13DBEA5B-15F2-411C-8312-F9FBABF0D11B" id="FORM-13DBEA5B-15F2-411C-8312-F9FBABF0D11B" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="13DBEA5B-15F2-411C-8312-F9FBABF0D11B" id="FORM-13DBEA5B-15F2-411C-8312-F9FBABF0D11B" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -16453,7 +18795,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97</p>
 </div>
@@ -16464,18 +18806,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -16487,7 +18832,7 @@ Divide: $87 \div 3$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Divide: $87 \div 3$
+<pre class="language-latex"><code class="language-latex">Divide: &#36;87 \div 3&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -16511,6 +18856,22 @@ Divide: $87 \div 3$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-haberdashers-askes-boys-school/2014/sample-paper-5/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 87 by 3" title="papers/the-haberdashers-askes-boys-school/2014/sample-paper-5/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 & = \dfrac {87}{3}                                  \\\\
@@ -16519,6 +18880,9 @@ $
 & = 29                                               
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -16549,14 +18913,24 @@ $29$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="87" divisor="3" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 & = \dfrac {87}{3}                                  \\\\
 & = \dfrac {29 \times 3}{3}                         \\\\
 & = \dfrac {29 \times \cancel{3}}{\cancel{3}}         \\\\
 & = 29                                               
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -16577,7 +18951,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$29$
+<pre class="language-latex"><code class="language-latex">&#36;29&#36;
 </code></pre>
 </div>
 </div>
@@ -16586,41 +18960,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97" id="FORM-0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97" id="FORM-0280C9A7-7237-4E2A-AB06-CCF7FBC8ED97" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -16632,7 +19006,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>FB729FC0-98CB-48DC-A644-636E885B5BD6</p>
 </div>
@@ -16643,18 +19017,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -16666,7 +19043,7 @@ Divide: $78 \div 6$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Divide: $78 \div 6$
+<pre class="language-latex"><code class="language-latex">Divide: &#36;78 \div 6&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -16690,6 +19067,22 @@ Divide: $78 \div 6$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-haberdashers-askes-boys-school/2015/sample-paper-6/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 78 by 6" title="papers/the-haberdashers-askes-boys-school/2015/sample-paper-6/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 78 \div 6 \\\\
@@ -16699,6 +19092,9 @@ $
 &= 13
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -16729,7 +19125,15 @@ $13$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="78" divisor="6" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 78 \div 6 \\\\
 &= \dfrac {78} {6} \\\\
@@ -16737,7 +19141,9 @@ $13$
 &= \dfrac {13 \times \cancel{6} } {\cancel{6}} \\\\
 &= 13
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -16758,7 +19164,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$13$
+<pre class="language-latex"><code class="language-latex">&#36;13&#36;
 </code></pre>
 </div>
 </div>
@@ -16767,41 +19173,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="FB729FC0-98CB-48DC-A644-636E885B5BD6" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="FB729FC0-98CB-48DC-A644-636E885B5BD6" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="FB729FC0-98CB-48DC-A644-636E885B5BD6" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="FB729FC0-98CB-48DC-A644-636E885B5BD6" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="FB729FC0-98CB-48DC-A644-636E885B5BD6" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="FB729FC0-98CB-48DC-A644-636E885B5BD6" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="FB729FC0-98CB-48DC-A644-636E885B5BD6" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="FB729FC0-98CB-48DC-A644-636E885B5BD6" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="FB729FC0-98CB-48DC-A644-636E885B5BD6" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="FB729FC0-98CB-48DC-A644-636E885B5BD6" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="FB729FC0-98CB-48DC-A644-636E885B5BD6" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="FB729FC0-98CB-48DC-A644-636E885B5BD6" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="FB729FC0-98CB-48DC-A644-636E885B5BD6" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="FB729FC0-98CB-48DC-A644-636E885B5BD6" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="FB729FC0-98CB-48DC-A644-636E885B5BD6" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="FB729FC0-98CB-48DC-A644-636E885B5BD6" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="FB729FC0-98CB-48DC-A644-636E885B5BD6" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="FB729FC0-98CB-48DC-A644-636E885B5BD6" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="FB729FC0-98CB-48DC-A644-636E885B5BD6" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="FB729FC0-98CB-48DC-A644-636E885B5BD6" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="FB729FC0-98CB-48DC-A644-636E885B5BD6" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="FB729FC0-98CB-48DC-A644-636E885B5BD6" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="FB729FC0-98CB-48DC-A644-636E885B5BD6" id="FORM-FB729FC0-98CB-48DC-A644-636E885B5BD6" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="FB729FC0-98CB-48DC-A644-636E885B5BD6" id="FORM-FB729FC0-98CB-48DC-A644-636E885B5BD6" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -16813,7 +19219,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>BE040332-BBE8-4C8A-A8BD-80A84C71D6E1</p>
 </div>
@@ -16824,18 +19230,26 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
+</li>
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tremainder
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -16847,7 +19261,7 @@ How many times does $35$ divide into $4207$ and what is the remainder?
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">How many times does $35$ divide into $4207$ and what is the remainder?
+<pre class="language-latex"><code class="language-latex">How many times does &#36;35&#36; divide into &#36;4207&#36; and what is the remainder?
 </code></pre>
 </div>
 <div class="workings">
@@ -16871,12 +19285,31 @@ How many times does $35$ divide into $4207$ and what is the remainder?
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-haberdashers-askes-boys-school/2015/sample-paper-6/answers/generated/long-division/s01-q16-w01-ld00.svg" alt="Long division of 4207 by 35" title="papers/the-haberdashers-askes-boys-school/2015/sample-paper-6/answers/generated/long-division/s01-q16-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= \dfrac{4207}{35} \\\\
 &= 120 \text{ remainder } 7
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -16914,12 +19347,22 @@ Remainder $=$ $7$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="4207" divisor="35" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= \dfrac{4207}{35} \\\\
 &= 120 \text{ remainder } 7
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -16940,7 +19383,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$120$
+<pre class="language-latex"><code class="language-latex">&#36;120&#36;
 </code></pre>
 </div>
 <div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -16959,7 +19402,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$7$
+<pre class="language-latex"><code class="language-latex">&#36;7&#36;
 </code></pre>
 </div>
 </div>
@@ -16968,41 +19411,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BE040332-BBE8-4C8A-A8BD-80A84C71D6E1" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="BE040332-BBE8-4C8A-A8BD-80A84C71D6E1" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BE040332-BBE8-4C8A-A8BD-80A84C71D6E1" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="BE040332-BBE8-4C8A-A8BD-80A84C71D6E1" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BE040332-BBE8-4C8A-A8BD-80A84C71D6E1" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="BE040332-BBE8-4C8A-A8BD-80A84C71D6E1" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BE040332-BBE8-4C8A-A8BD-80A84C71D6E1" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="BE040332-BBE8-4C8A-A8BD-80A84C71D6E1" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BE040332-BBE8-4C8A-A8BD-80A84C71D6E1" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="BE040332-BBE8-4C8A-A8BD-80A84C71D6E1" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BE040332-BBE8-4C8A-A8BD-80A84C71D6E1" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="BE040332-BBE8-4C8A-A8BD-80A84C71D6E1" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BE040332-BBE8-4C8A-A8BD-80A84C71D6E1" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="BE040332-BBE8-4C8A-A8BD-80A84C71D6E1" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BE040332-BBE8-4C8A-A8BD-80A84C71D6E1" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="BE040332-BBE8-4C8A-A8BD-80A84C71D6E1" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BE040332-BBE8-4C8A-A8BD-80A84C71D6E1" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="BE040332-BBE8-4C8A-A8BD-80A84C71D6E1" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BE040332-BBE8-4C8A-A8BD-80A84C71D6E1" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="BE040332-BBE8-4C8A-A8BD-80A84C71D6E1" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="BE040332-BBE8-4C8A-A8BD-80A84C71D6E1" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="BE040332-BBE8-4C8A-A8BD-80A84C71D6E1" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="BE040332-BBE8-4C8A-A8BD-80A84C71D6E1" id="FORM-BE040332-BBE8-4C8A-A8BD-80A84C71D6E1" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="BE040332-BBE8-4C8A-A8BD-80A84C71D6E1" id="FORM-BE040332-BBE8-4C8A-A8BD-80A84C71D6E1" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -17014,7 +19457,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A</p>
 </div>
@@ -17025,18 +19468,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -17048,7 +19494,7 @@ Divide: $108 \div 4$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Divide: $108 \div 4$
+<pre class="language-latex"><code class="language-latex">Divide: &#36;108 \div 4&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -17072,6 +19518,22 @@ Divide: $108 \div 4$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-haberdashers-askes-boys-school/2016/sample-paper-7/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 108 by 4" title="papers/the-haberdashers-askes-boys-school/2016/sample-paper-7/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 108 \div 4 \\\\
@@ -17081,6 +19543,9 @@ $
 &= 27
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -17111,7 +19576,15 @@ $27$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="108" divisor="4" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 108 \div 4 \\\\
 &= \dfrac {108} {4} \\\\
@@ -17119,7 +19592,9 @@ $27$
 &= \dfrac {27 \times \cancel {4}} {\cancel {4}} \\\\
 &= 27
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -17140,7 +19615,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$27$
+<pre class="language-latex"><code class="language-latex">&#36;27&#36;
 </code></pre>
 </div>
 </div>
@@ -17149,41 +19624,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A" id="FORM-24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A" id="FORM-24ECA0A4-CA46-4E35-AE55-0CC8E4DC839A" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -17195,7 +19670,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>DEF306C6-4B02-40CC-97C6-0C1E0966876A</p>
 </div>
@@ -17206,18 +19681,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -17229,7 +19707,7 @@ Divide $3$ by $0.5$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Divide $3$ by $0.5$
+<pre class="language-latex"><code class="language-latex">Divide &#36;3&#36; by &#36;0.5&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -17294,7 +19772,7 @@ $6$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 3 \div 0.5 \\\\
 &= \dfrac{3}{0.5} \\\\
@@ -17304,7 +19782,7 @@ $6$
 &= \dfrac{\cancel{5} \times 6}{\cancel{5}} \\\\
 &= 6
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -17325,7 +19803,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$6$
+<pre class="language-latex"><code class="language-latex">&#36;6&#36;
 </code></pre>
 </div>
 </div>
@@ -17334,41 +19812,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DEF306C6-4B02-40CC-97C6-0C1E0966876A" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="DEF306C6-4B02-40CC-97C6-0C1E0966876A" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DEF306C6-4B02-40CC-97C6-0C1E0966876A" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="DEF306C6-4B02-40CC-97C6-0C1E0966876A" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DEF306C6-4B02-40CC-97C6-0C1E0966876A" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="DEF306C6-4B02-40CC-97C6-0C1E0966876A" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DEF306C6-4B02-40CC-97C6-0C1E0966876A" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="DEF306C6-4B02-40CC-97C6-0C1E0966876A" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DEF306C6-4B02-40CC-97C6-0C1E0966876A" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="DEF306C6-4B02-40CC-97C6-0C1E0966876A" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DEF306C6-4B02-40CC-97C6-0C1E0966876A" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="DEF306C6-4B02-40CC-97C6-0C1E0966876A" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DEF306C6-4B02-40CC-97C6-0C1E0966876A" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="DEF306C6-4B02-40CC-97C6-0C1E0966876A" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DEF306C6-4B02-40CC-97C6-0C1E0966876A" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="DEF306C6-4B02-40CC-97C6-0C1E0966876A" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DEF306C6-4B02-40CC-97C6-0C1E0966876A" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="DEF306C6-4B02-40CC-97C6-0C1E0966876A" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DEF306C6-4B02-40CC-97C6-0C1E0966876A" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="DEF306C6-4B02-40CC-97C6-0C1E0966876A" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="DEF306C6-4B02-40CC-97C6-0C1E0966876A" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="DEF306C6-4B02-40CC-97C6-0C1E0966876A" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="DEF306C6-4B02-40CC-97C6-0C1E0966876A" id="FORM-DEF306C6-4B02-40CC-97C6-0C1E0966876A" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="DEF306C6-4B02-40CC-97C6-0C1E0966876A" id="FORM-DEF306C6-4B02-40CC-97C6-0C1E0966876A" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -17380,7 +19858,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>9B643A5B-96B3-4E47-8CAD-CF6B0281E069</p>
 </div>
@@ -17391,18 +19869,21 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -17414,7 +19895,7 @@ Divide: $78 \div 6$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Divide: $78 \div 6$
+<pre class="language-latex"><code class="language-latex">Divide: &#36;78 \div 6&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -17438,6 +19919,22 @@ Divide: $78 \div 6$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-haberdashers-askes-boys-school/2017/sample-paper-8/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 78 by 6" title="papers/the-haberdashers-askes-boys-school/2017/sample-paper-8/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 78 \div 6 \\\\
@@ -17447,6 +19944,9 @@ $
 &= 13
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -17477,7 +19977,15 @@ $13$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="78" divisor="6" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 78 \div 6 \\\\
 &= \dfrac {78} {6} \\\\
@@ -17485,7 +19993,9 @@ $13$
 &= \dfrac {13 \times \cancel {6}} {\cancel {6}} \\\\
 &= 13
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -17506,7 +20016,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$13$
+<pre class="language-latex"><code class="language-latex">&#36;13&#36;
 </code></pre>
 </div>
 </div>
@@ -17515,41 +20025,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9B643A5B-96B3-4E47-8CAD-CF6B0281E069" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9B643A5B-96B3-4E47-8CAD-CF6B0281E069" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9B643A5B-96B3-4E47-8CAD-CF6B0281E069" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9B643A5B-96B3-4E47-8CAD-CF6B0281E069" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9B643A5B-96B3-4E47-8CAD-CF6B0281E069" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9B643A5B-96B3-4E47-8CAD-CF6B0281E069" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9B643A5B-96B3-4E47-8CAD-CF6B0281E069" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9B643A5B-96B3-4E47-8CAD-CF6B0281E069" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9B643A5B-96B3-4E47-8CAD-CF6B0281E069" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9B643A5B-96B3-4E47-8CAD-CF6B0281E069" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9B643A5B-96B3-4E47-8CAD-CF6B0281E069" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9B643A5B-96B3-4E47-8CAD-CF6B0281E069" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9B643A5B-96B3-4E47-8CAD-CF6B0281E069" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9B643A5B-96B3-4E47-8CAD-CF6B0281E069" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9B643A5B-96B3-4E47-8CAD-CF6B0281E069" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9B643A5B-96B3-4E47-8CAD-CF6B0281E069" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9B643A5B-96B3-4E47-8CAD-CF6B0281E069" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9B643A5B-96B3-4E47-8CAD-CF6B0281E069" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9B643A5B-96B3-4E47-8CAD-CF6B0281E069" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9B643A5B-96B3-4E47-8CAD-CF6B0281E069" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="9B643A5B-96B3-4E47-8CAD-CF6B0281E069" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="9B643A5B-96B3-4E47-8CAD-CF6B0281E069" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="9B643A5B-96B3-4E47-8CAD-CF6B0281E069" id="FORM-9B643A5B-96B3-4E47-8CAD-CF6B0281E069" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9B643A5B-96B3-4E47-8CAD-CF6B0281E069" id="FORM-9B643A5B-96B3-4E47-8CAD-CF6B0281E069" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -17561,7 +20071,7 @@ $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng1 rag_prns question">
+<div class="question_envelope rag_ng2 rag_prns question">
 <div class="uuid">
 <p>F63F1192-DAF0-475A-9DFF-53413EC4FDB2</p>
 </div>
@@ -17572,18 +20082,26 @@ $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng1</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
+</li>
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tremainder
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -17595,7 +20113,7 @@ Divide $623$ by $8$, giving your answer and the remainder.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Divide $623$ by $8$, giving your answer and the remainder.
+<pre class="language-latex"><code class="language-latex">Divide &#36;623&#36; by &#36;8&#36;, giving your answer and the remainder.
 </code></pre>
 </div>
 <div class="workings">
@@ -17619,6 +20137,22 @@ Divide $623$ by $8$, giving your answer and the remainder.
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-kings-school-chester/sample/sample-paper-1/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 623 by 8" title="papers/the-kings-school-chester/sample/sample-paper-1/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 623 \div 8 \\\\
@@ -17626,6 +20160,9 @@ $
 &= 77 \text{ remainder } 7
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -17663,13 +20200,23 @@ $7$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="623" divisor="8" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 623 \div 8 \\\\
 &= \dfrac{623}{8} \\\\
 &= 77 \text{ remainder } 7
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -17690,7 +20237,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$77$
+<pre class="language-latex"><code class="language-latex">&#36;77&#36;
 </code></pre>
 </div>
 <div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -17709,7 +20256,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$7$
+<pre class="language-latex"><code class="language-latex">&#36;7&#36;
 </code></pre>
 </div>
 </div>
@@ -17718,41 +20265,41 @@ $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="F63F1192-DAF0-475A-9DFF-53413EC4FDB2" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F63F1192-DAF0-475A-9DFF-53413EC4FDB2" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="F63F1192-DAF0-475A-9DFF-53413EC4FDB2" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F63F1192-DAF0-475A-9DFF-53413EC4FDB2" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="F63F1192-DAF0-475A-9DFF-53413EC4FDB2" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F63F1192-DAF0-475A-9DFF-53413EC4FDB2" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="F63F1192-DAF0-475A-9DFF-53413EC4FDB2" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F63F1192-DAF0-475A-9DFF-53413EC4FDB2" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="F63F1192-DAF0-475A-9DFF-53413EC4FDB2" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F63F1192-DAF0-475A-9DFF-53413EC4FDB2" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="F63F1192-DAF0-475A-9DFF-53413EC4FDB2" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F63F1192-DAF0-475A-9DFF-53413EC4FDB2" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="F63F1192-DAF0-475A-9DFF-53413EC4FDB2" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F63F1192-DAF0-475A-9DFF-53413EC4FDB2" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="F63F1192-DAF0-475A-9DFF-53413EC4FDB2" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F63F1192-DAF0-475A-9DFF-53413EC4FDB2" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="F63F1192-DAF0-475A-9DFF-53413EC4FDB2" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F63F1192-DAF0-475A-9DFF-53413EC4FDB2" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="F63F1192-DAF0-475A-9DFF-53413EC4FDB2" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F63F1192-DAF0-475A-9DFF-53413EC4FDB2" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG1" data-uuid="F63F1192-DAF0-475A-9DFF-53413EC4FDB2" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="F63F1192-DAF0-475A-9DFF-53413EC4FDB2" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG1" data-uuid="F63F1192-DAF0-475A-9DFF-53413EC4FDB2" id="FORM-F63F1192-DAF0-475A-9DFF-53413EC4FDB2" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F63F1192-DAF0-475A-9DFF-53413EC4FDB2" id="FORM-F63F1192-DAF0-475A-9DFF-53413EC4FDB2" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -17780,13 +20327,21 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
+</li>
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tremainder
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -17808,6 +20363,28 @@ tdivision
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>3D5292D4-8909-4995-B3F5-AE07ED419490</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tremainder
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -17819,7 +20396,7 @@ Divide $911$ by $6$ giving your answer and the remainder.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Divide $911$ by $6$ giving your answer and the remainder.
+<pre class="language-latex"><code class="language-latex">Divide &#36;911&#36; by &#36;6&#36; giving your answer and the remainder.
 </code></pre>
 </div>
 <div class="workings">
@@ -17843,12 +20420,31 @@ Divide $911$ by $6$ giving your answer and the remainder.
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-kings-school-chester/sample/sample-paper-2/answers/generated/long-division/s01-q04-s01-w01-ld00.svg" alt="Long division of 911 by 6" title="papers/the-kings-school-chester/sample/sample-paper-2/answers/generated/long-division/s01-q04-s01-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= \dfrac{911}{6} \\\\
 &= 151 \text{ remainder } 5
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -17886,12 +20482,22 @@ $5$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="911" divisor="6" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= \dfrac{911}{6} \\\\
 &= 151 \text{ remainder } 5
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -17912,7 +20518,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$151$
+<pre class="language-latex"><code class="language-latex">&#36;151&#36;
 </code></pre>
 </div>
 <div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -17931,7 +20537,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$5$
+<pre class="language-latex"><code class="language-latex">&#36;5&#36;
 </code></pre>
 </div>
 </div>
@@ -17940,6 +20546,23 @@ $
 </li>
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>ECE9EF73-0032-4B31-9AC4-10A22F11E299</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tlcm
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #be123c; border-radius: 999px; background: #ffe4e6; color: #881337; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: no
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -17956,10 +20579,10 @@ Write one number that fits all three of these statements.
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
 <pre class="language-latex"><code class="language-latex">Write one number that fits all three of these statements.
-<emptyline>
-- The number is a multiple of $4$
-- The number is a multiple of $6$
-- The number ends in $2$
+
+- The number is a multiple of &#36;4&#36;
+- The number is a multiple of &#36;6&#36;
+- The number ends in &#36;2&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -18014,7 +20637,7 @@ $12$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$12$
+<pre class="language-latex"><code class="language-latex">&#36;12&#36;
 </code></pre>
 </div>
 </div>
@@ -18035,7 +20658,7 @@ $12$
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$12$
+<pre class="language-latex"><code class="language-latex">&#36;12&#36;
 </code></pre>
 </div>
 </div>
@@ -18109,13 +20732,21 @@ $12$
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
+</li>
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdecimal
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -18127,7 +20758,7 @@ Divide $1908$ by $6$.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Divide $1908$ by $6$.
+<pre class="language-latex"><code class="language-latex">Divide &#36;1908&#36; by &#36;6&#36;.
 </code></pre>
 </div>
 <div class="workings">
@@ -18151,6 +20782,22 @@ Divide $1908$ by $6$.
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2008/group-1/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 1908 by 6" title="papers/the-london-independent-girls-schools-consortium/2008/group-1/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 1908 \div 6 \\\\
@@ -18160,6 +20807,9 @@ $
 &= 318
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -18190,7 +20840,15 @@ $318$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="1908" divisor="6" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 1908 \div 6 \\\\
 &= \dfrac{1908}{6} \\\\
@@ -18198,7 +20856,9 @@ $318$
 &= \dfrac{318 \times \cancel 6}{\cancel 6} \\\\
 &= 318
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -18219,7 +20879,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$318$
+<pre class="language-latex"><code class="language-latex">&#36;318&#36;
 </code></pre>
 </div>
 </div>
@@ -18290,13 +20950,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -18311,8 +20974,8 @@ $29648 \div 8$
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
 <pre class="language-latex"><code class="language-latex">
-<emptyline>
-$29648 \div 8$
+
+&#36;29648 \div 8&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -18336,6 +20999,22 @@ $29648 \div 8$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2008/group-2/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 29648 by 8" title="papers/the-london-independent-girls-schools-consortium/2008/group-2/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= \dfrac{29648}{8} \\\\
@@ -18344,6 +21023,9 @@ $
 &= 3706
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -18374,14 +21056,24 @@ $3706
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="29648" divisor="8" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= \dfrac{29648}{8} \\\\
 &= \dfrac{3706 \times 8}{8} \\\\
 &= \dfrac{3706 \times \cancel{8}}{\cancel{8}} \\\\
 &= 3706
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -18402,7 +21094,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$3706
+<pre class="language-latex"><code class="language-latex">&#36;3706
 </code></pre>
 </div>
 </div>
@@ -18473,13 +21165,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -18494,8 +21189,8 @@ $3256 \div 4$
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
 <pre class="language-latex"><code class="language-latex">
-<emptyline>
-$3256 \div 4$
+
+&#36;3256 \div 4&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -18519,6 +21214,22 @@ $3256 \div 4$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2009/group-1/answers/generated/long-division/s01-q03-w01-ld00.svg" alt="Long division of 3256 by 4" title="papers/the-london-independent-girls-schools-consortium/2009/group-1/answers/generated/long-division/s01-q03-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 3256 \div 4 \\\\
@@ -18528,6 +21239,9 @@ $
 &= 814
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -18558,7 +21272,15 @@ $814$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="3256" divisor="4" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 3256 \div 4 \\\\
 &= \dfrac{3256}{4} \\\\
@@ -18566,7 +21288,9 @@ $814$
 &= \dfrac{814 \times \cancel 4}{\cancel 4} \\\\
 &= 814
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -18587,7 +21311,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$814$
+<pre class="language-latex"><code class="language-latex">&#36;814&#36;
 </code></pre>
 </div>
 </div>
@@ -18658,13 +21382,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -18676,7 +21403,7 @@ $2016 \div 9$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$2016 \div 9$
+<pre class="language-latex"><code class="language-latex">&#36;2016 \div 9&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -18700,6 +21427,22 @@ $2016 \div 9$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2009/group-2/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 2016 by 9" title="papers/the-london-independent-girls-schools-consortium/2009/group-2/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= \dfrac{2016}{9} \\\\
@@ -18708,6 +21451,9 @@ $
 &= 224
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -18738,14 +21484,24 @@ $224$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="2016" divisor="9" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= \dfrac{2016}{9} \\\\
 &= \dfrac{224 \times 9}{9} \\\\
 &= \dfrac{224 \times \cancel 9}{\cancel 9} \\\\
 &= 224
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -18766,7 +21522,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$224$
+<pre class="language-latex"><code class="language-latex">&#36;224&#36;
 </code></pre>
 </div>
 </div>
@@ -18837,13 +21593,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -18855,7 +21614,7 @@ $3216 \div 6 =$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$3216 \div 6 =$
+<pre class="language-latex"><code class="language-latex">&#36;3216 \div 6 =&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -18879,6 +21638,22 @@ $3216 \div 6 =$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2010/group-1/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 3216 by 6" title="papers/the-london-independent-girls-schools-consortium/2010/group-1/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 3216 \div 6 \\\\
@@ -18888,6 +21663,9 @@ $
 &= 536
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -18918,7 +21696,15 @@ $536$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="3216" divisor="6" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 3216 \div 6 \\\\
 &= \dfrac{3216}{6} \\\\
@@ -18926,7 +21712,9 @@ $536$
 &= \dfrac{536 \times \cancel 6}{\cancel 6} \\\\
 &= 536
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -18947,7 +21735,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$536$
+<pre class="language-latex"><code class="language-latex">&#36;536&#36;
 </code></pre>
 </div>
 </div>
@@ -19018,13 +21806,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -19036,7 +21827,7 @@ $4644 \div 6 =$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$4644 \div 6 =$
+<pre class="language-latex"><code class="language-latex">&#36;4644 \div 6 =&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -19060,6 +21851,22 @@ $4644 \div 6 =$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2011/group-1/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 4644 by 6" title="papers/the-london-independent-girls-schools-consortium/2011/group-1/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 4644 \div 6 \\\\
@@ -19069,6 +21876,9 @@ $
 &= 774
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -19099,7 +21909,15 @@ $774$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="4644" divisor="6" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 4644 \div 6 \\\\
 &= \dfrac{4644}{6} \\\\
@@ -19107,7 +21925,9 @@ $774$
 &= \dfrac{774 \times \cancel 6}{\cancel 6} \\\\
 &= 774
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -19128,7 +21948,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$774$
+<pre class="language-latex"><code class="language-latex">&#36;774&#36;
 </code></pre>
 </div>
 </div>
@@ -19199,13 +22019,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -19217,7 +22040,7 @@ Divide $21060$ by $9$.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Divide $21060$ by $9$.
+<pre class="language-latex"><code class="language-latex">Divide &#36;21060&#36; by &#36;9&#36;.
 </code></pre>
 </div>
 <div class="workings">
@@ -19241,6 +22064,22 @@ Divide $21060$ by $9$.
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2011/group-2/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 21060 by 9" title="papers/the-london-independent-girls-schools-consortium/2011/group-2/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= \dfrac{21060}{9} \\\\
@@ -19249,6 +22088,9 @@ $
 &= 2340
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -19279,14 +22121,24 @@ $2340$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="21060" divisor="9" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= \dfrac{21060}{9} \\\\
 &= \dfrac{2340 \times 9}{9} \\\\
 &= \dfrac{2340 \times \cancel 9}{\cancel 9} \\\\
 &= 2340
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -19307,7 +22159,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$2340$
+<pre class="language-latex"><code class="language-latex">&#36;2340&#36;
 </code></pre>
 </div>
 </div>
@@ -19378,13 +22230,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -19396,7 +22251,7 @@ Work out $5502 \div 6$.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $5502 \div 6$.
+<pre class="language-latex"><code class="language-latex">Work out &#36;5502 \div 6&#36;.
 </code></pre>
 </div>
 <div class="workings">
@@ -19420,6 +22275,22 @@ Work out $5502 \div 6$.
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2012/group-1/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 5502 by 6" title="papers/the-london-independent-girls-schools-consortium/2012/group-1/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 5502 \div 6 \\\\
@@ -19429,6 +22300,9 @@ $
 &= 917
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -19459,7 +22333,15 @@ $917$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="5502" divisor="6" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 5502 \div 6 \\\\
 &= \dfrac{5502}{6} \\\\
@@ -19467,7 +22349,9 @@ $917$
 &= \dfrac{917 \times \cancel{6}}{\cancel{6}} \\\\
 &= 917
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -19488,7 +22372,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$917$
+<pre class="language-latex"><code class="language-latex">&#36;917&#36;
 </code></pre>
 </div>
 </div>
@@ -19559,13 +22443,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -19577,7 +22464,7 @@ Work out $1548 \div  6$.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $1548 \div  6$.
+<pre class="language-latex"><code class="language-latex">Work out &#36;1548 \div  6&#36;.
 </code></pre>
 </div>
 <div class="workings">
@@ -19601,6 +22488,22 @@ Work out $1548 \div  6$.
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2012/group-2/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 1548 by 6" title="papers/the-london-independent-girls-schools-consortium/2012/group-2/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 1548 \div  6 \\\\
@@ -19610,6 +22513,9 @@ $
 &= 258
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -19640,7 +22546,15 @@ $258$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="1548" divisor="6" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 1548 \div  6 \\\\
 &= \dfrac{1548}{6} \\\\
@@ -19648,7 +22562,9 @@ $258$
 &= \dfrac{258 \times \cancel 6}{\cancel 6} \\\\
 &= 258
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -19669,7 +22585,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$258$
+<pre class="language-latex"><code class="language-latex">&#36;258&#36;
 </code></pre>
 </div>
 </div>
@@ -19740,13 +22656,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -19758,7 +22677,7 @@ Work out $5922 \div 6$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $5922 \div 6$
+<pre class="language-latex"><code class="language-latex">Work out &#36;5922 \div 6&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -19782,6 +22701,22 @@ Work out $5922 \div 6$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2013/group-1/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 5922 by 6" title="papers/the-london-independent-girls-schools-consortium/2013/group-1/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 5922 \div 6 \\\\
@@ -19791,6 +22726,9 @@ $
 &= 987
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -19821,7 +22759,15 @@ $987$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="5922" divisor="6" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 5922 \div 6 \\\\
 &= \dfrac{5922}{6} \\\\
@@ -19829,7 +22775,9 @@ $987$
 &= \dfrac{987 \times \cancel 6}{\cancel 6} \\\\
 &= 987
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -19850,7 +22798,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$987$
+<pre class="language-latex"><code class="language-latex">&#36;987&#36;
 </code></pre>
 </div>
 </div>
@@ -19921,13 +22869,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -19939,7 +22890,7 @@ Work out $2394 \div 9$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $2394 \div 9$ 
+<pre class="language-latex"><code class="language-latex">Work out &#36;2394 \div 9&#36; 
 </code></pre>
 </div>
 <div class="workings">
@@ -19963,6 +22914,22 @@ Work out $2394 \div 9$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2013/group-2/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 2394 by 9" title="papers/the-london-independent-girls-schools-consortium/2013/group-2/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 2394 \div 9 \\\\
@@ -19972,6 +22939,9 @@ $
 &= 266
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -20002,7 +22972,15 @@ $266$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="2394" divisor="9" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 2394 \div 9 \\\\
 &= \dfrac{2394}{9} \\\\
@@ -20010,7 +22988,9 @@ $266$
 &= \dfrac{266 \times \cancel 9}{\cancel 9} \\\\
 &= 266
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -20031,7 +23011,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$266$
+<pre class="language-latex"><code class="language-latex">&#36;266&#36;
 </code></pre>
 </div>
 </div>
@@ -20102,13 +23082,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -20120,7 +23103,7 @@ Work out $7083 \div 9$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $7083 \div 9$
+<pre class="language-latex"><code class="language-latex">Work out &#36;7083 \div 9&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -20144,6 +23127,22 @@ Work out $7083 \div 9$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2014/group-1/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 7083 by 9" title="papers/the-london-independent-girls-schools-consortium/2014/group-1/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 7083 \div 9 \\\\
@@ -20153,6 +23152,9 @@ $
 &= 787
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -20183,7 +23185,15 @@ $787$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="7083" divisor="9" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 7083 \div 9 \\\\
 &= \dfrac{7083}{9} \\\\
@@ -20191,7 +23201,9 @@ $787$
 &= \dfrac{787 \times \cancel 9}{\cancel 9} \\\\
 &= 787
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -20212,7 +23224,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$787$
+<pre class="language-latex"><code class="language-latex">&#36;787&#36;
 </code></pre>
 </div>
 </div>
@@ -20283,13 +23295,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -20301,7 +23316,7 @@ Work out $3832 \div 8$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $3832 \div 8$
+<pre class="language-latex"><code class="language-latex">Work out &#36;3832 \div 8&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -20325,6 +23340,22 @@ Work out $3832 \div 8$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2014/group-2/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 3832 by 8" title="papers/the-london-independent-girls-schools-consortium/2014/group-2/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 3832 \div 8 \\\\
@@ -20334,6 +23365,9 @@ $
 &= 479
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -20364,7 +23398,15 @@ $479$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="3832" divisor="8" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 3832 \div 8 \\\\
 &= \dfrac{3832}{8} \\\\
@@ -20372,7 +23414,9 @@ $479$
 &= \dfrac{479 \times \cancel 8}{\cancel 8} \\\\
 &= 479
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -20393,7 +23437,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$479$
+<pre class="language-latex"><code class="language-latex">&#36;479&#36;
 </code></pre>
 </div>
 </div>
@@ -20464,13 +23508,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -20482,7 +23529,7 @@ Work out $2964 \div 6$.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $2964 \div 6$.
+<pre class="language-latex"><code class="language-latex">Work out &#36;2964 \div 6&#36;.
 </code></pre>
 </div>
 <div class="workings">
@@ -20506,6 +23553,22 @@ Work out $2964 \div 6$.
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2015/group-1/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 2964 by 6" title="papers/the-london-independent-girls-schools-consortium/2015/group-1/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 2964 \div 6 \\\\
@@ -20515,6 +23578,9 @@ $
 &= 494
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -20545,7 +23611,15 @@ $494$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="2964" divisor="6" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 2964 \div 6 \\\\
 &= \dfrac{2964}{6} \\\\
@@ -20553,7 +23627,9 @@ $494$
 &= \dfrac{494 \times \cancel 6}{\cancel 6} \\\\
 &= 494
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -20574,7 +23650,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$494$
+<pre class="language-latex"><code class="language-latex">&#36;494&#36;
 </code></pre>
 </div>
 </div>
@@ -20645,13 +23721,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -20663,7 +23742,7 @@ Work out $3024 \div 9$.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $3024 \div 9$.
+<pre class="language-latex"><code class="language-latex">Work out &#36;3024 \div 9&#36;.
 </code></pre>
 </div>
 <div class="workings">
@@ -20687,6 +23766,22 @@ Work out $3024 \div 9$.
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2015/group-2/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 3024 by 9" title="papers/the-london-independent-girls-schools-consortium/2015/group-2/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 3024 \div 9 \\\\
@@ -20696,6 +23791,9 @@ $
 &= 336
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -20726,7 +23824,15 @@ $336$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="3024" divisor="9" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 3024 \div 9 \\\\
 &= \dfrac{3024}{9} \\\\
@@ -20734,7 +23840,9 @@ $336$
 &= \dfrac{336 \times \cancel 9}{\cancel 9} \\\\
 &= 336
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -20755,7 +23863,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$336$
+<pre class="language-latex"><code class="language-latex">&#36;336&#36;
 </code></pre>
 </div>
 </div>
@@ -20826,13 +23934,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -20844,7 +23955,7 @@ Work out $4802 \div 7$.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $4802 \div 7$.
+<pre class="language-latex"><code class="language-latex">Work out &#36;4802 \div 7&#36;.
 </code></pre>
 </div>
 <div class="workings">
@@ -20868,6 +23979,22 @@ Work out $4802 \div 7$.
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 4802 by 7" title="papers/the-london-independent-girls-schools-consortium/2016/group-1/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 4802 \div 7 \\\\
@@ -20877,6 +24004,9 @@ $
 &= 686
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -20907,7 +24037,15 @@ $686$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="4802" divisor="7" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 4802 \div 7 \\\\
 &= \dfrac{4802}{7} \\\\
@@ -20915,7 +24053,9 @@ $686$
 &= \dfrac{686 \times \cancel 7}{\cancel 7} \\\\
 &= 686
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -20936,7 +24076,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$686$
+<pre class="language-latex"><code class="language-latex">&#36;686&#36;
 </code></pre>
 </div>
 </div>
@@ -21007,13 +24147,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -21025,7 +24168,7 @@ Work out $2898 \div 6$.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $2898 \div 6$.
+<pre class="language-latex"><code class="language-latex">Work out &#36;2898 \div 6&#36;.
 </code></pre>
 </div>
 <div class="workings">
@@ -21049,6 +24192,22 @@ Work out $2898 \div 6$.
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-2/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 2898 by 6" title="papers/the-london-independent-girls-schools-consortium/2016/group-2/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 2898 \div 6 \\\\
@@ -21058,6 +24217,9 @@ $
 &= 483
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -21088,7 +24250,15 @@ $483$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="2898" divisor="6" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 2898 \div 6 \\\\
 &= \dfrac{2898}{6} \\\\
@@ -21096,7 +24266,9 @@ $483$
 &= \dfrac{483 \times \cancel 6}{\cancel 6} \\\\
 &= 483
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -21117,7 +24289,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$483$
+<pre class="language-latex"><code class="language-latex">&#36;483&#36;
 </code></pre>
 </div>
 </div>
@@ -21188,13 +24360,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -21206,7 +24381,7 @@ Work out $525 \div 25$.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $525 \div 25$.
+<pre class="language-latex"><code class="language-latex">Work out &#36;525 \div 25&#36;.
 </code></pre>
 </div>
 <div class="workings">
@@ -21230,6 +24405,22 @@ Work out $525 \div 25$.
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-manchester-grammar-school/2010/arithmetic-1/answers/generated/long-division/s01-q03-w01-ld00.svg" alt="Long division of 525 by 25" title="papers/the-manchester-grammar-school/2010/arithmetic-1/answers/generated/long-division/s01-q03-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 525 \div 25 \\\\
@@ -21239,6 +24430,9 @@ $
 &= 21
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -21269,7 +24463,15 @@ $21$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="525" divisor="25" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 525 \div 25 \\\\
 &= \dfrac {525} {25} \\\\
@@ -21277,7 +24479,9 @@ $21$
 &= \dfrac {\cancel{5} \times \cancel{5} \times 21} {\cancel{5} \times \cancel{5}} \\\\
 &= 21
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -21298,7 +24502,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$21$
+<pre class="language-latex"><code class="language-latex">&#36;21&#36;
 </code></pre>
 </div>
 </div>
@@ -21369,13 +24573,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -21470,18 +24677,35 @@ Write numbers in the boxes to make this division correct.
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>2381304A-D536-4412-9615-102F81EB8EA1</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
 
-![papers/the-manchester-grammar-school/2011/arithmetic-2/s01-q02-s01-i00.png](/assets/papers/the-manchester-grammar-school/2011/arithmetic-2/s01-q02-s01-i00.png "papers/the-manchester-grammar-school/2011/arithmetic-2/s01-q02-s01-i00.png")
+<img src="/assets/papers/the-manchester-grammar-school/2011/arithmetic-2/questions/s01-q02-s01-i00.png" alt="papers/the-manchester-grammar-school/2011/arithmetic-2/questions/s01-q02-s01-i00.png" title="papers/the-manchester-grammar-school/2011/arithmetic-2/questions/s01-q02-s01-i00.png" data-slot="paper-image" data-kind="essential" data-size="normal" data-align="center" class="paper-image" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">%image%
+<pre class="language-latex"><code class="language-latex">&lt;PaperImage kind="essential" /&gt;
 </code></pre>
 </div>
 <div class="workings">
@@ -21566,6 +24790,23 @@ TODOANSWER
 </li>
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>82266350-C52D-4EF6-868B-9A7DADCECBA3</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -21587,15 +24828,15 @@ $
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
 <pre class="language-latex"><code class="language-latex">Write numbers in the boxes to make this subtraction correct.
-<emptyline>
-$
+
+&#36;
 \begin{array}{cccccc}
     &\boxed{\phantom {7}} & 0                   & 1                    & 5 \\
 {}- & 4                   & 2                   & \boxed{\phantom{3}}  & 2 \\
 \hline
     & 2                   & \boxed{\phantom{7}} & 8                  & 3
 \end{array}
-$
+&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -21664,14 +24905,14 @@ $
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{array}{cccccc}
     &\boxed{\green {7}} & 0                  & 1                  & 5 \\
 {}- & 4                 & 2                  & \boxed{\green {3}} & 2 \\
 \hline
     & 2                 & \boxed{\green {7}} & 8                  & 3
 \end{array}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -21692,14 +24933,14 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{array}{cccccc}
     &\boxed{\green {7}} & 0                  & 1                  & 5 \\
 {}- & 4                 & 2                  & \boxed{\green {3}} & 2 \\
 \hline
     & 2                 & \boxed{\green {7}} & 8                  & 3
 \end{array}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -21727,13 +24968,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -21745,7 +24989,7 @@ Work out $6.48 \div 0.6$, writing your answer as a decimal number.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $6.48 \div 0.6$, writing your answer as a decimal number.
+<pre class="language-latex"><code class="language-latex">Work out &#36;6.48 \div 0.6&#36;, writing your answer as a decimal number.
 </code></pre>
 </div>
 <div class="workings">
@@ -21810,7 +25054,7 @@ $10.8$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= \dfrac{6.48}{0.6} \\\\
 &= \dfrac{6.48 \times 100}{0.6 \times 100} \\\\
@@ -21820,7 +25064,7 @@ $10.8$
 &= \dfrac{108}{10} \\\\
 &= 10.8
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -21841,7 +25085,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$10.8$
+<pre class="language-latex"><code class="language-latex">&#36;10.8&#36;
 </code></pre>
 </div>
 </div>
@@ -21912,13 +25156,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -21930,7 +25177,7 @@ Work out $2047 \div 23$.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $2047 \div 23$.
+<pre class="language-latex"><code class="language-latex">Work out &#36;2047 \div 23&#36;.
 </code></pre>
 </div>
 <div class="workings">
@@ -21954,6 +25201,22 @@ Work out $2047 \div 23$.
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-manchester-grammar-school/2017/arithmetic-a/answers/generated/long-division/s01-q03-w01-ld00.svg" alt="Long division of 2047 by 23" title="papers/the-manchester-grammar-school/2017/arithmetic-a/answers/generated/long-division/s01-q03-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 2047 \div 23 \\\\
@@ -21963,6 +25226,9 @@ $
 &= 89
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -21993,7 +25259,15 @@ $89$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="2047" divisor="23" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 2047 \div 23 \\\\
 &= \dfrac{2047}{23} \\\\
@@ -22001,7 +25275,9 @@ $89$
 &= \dfrac{89 \times \cancel{23}}{\cancel{23}} \\\\
 &= 89
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -22022,7 +25298,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$89$
+<pre class="language-latex"><code class="language-latex">&#36;89&#36;
 </code></pre>
 </div>
 </div>
@@ -22093,13 +25369,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -22111,7 +25390,7 @@ Work out $44.8 \div 0.7$.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Work out $44.8 \div 0.7$.
+<pre class="language-latex"><code class="language-latex">Work out &#36;44.8 \div 0.7&#36;.
 </code></pre>
 </div>
 <div class="workings">
@@ -22176,7 +25455,7 @@ $64$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 44.8 \div 0.7 \\\\
 &= \dfrac {44.8} {0.7} \\\\
@@ -22186,7 +25465,7 @@ $64$
 &= \dfrac {64 \times \cancel{7}} {\cancel{7}} \\\\
 &= 64
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -22207,7 +25486,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$64$
+<pre class="language-latex"><code class="language-latex">&#36;64&#36;
 </code></pre>
 </div>
 </div>
@@ -22278,13 +25557,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -22296,7 +25578,7 @@ Calculate $273 \div 7$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Calculate $273 \div 7$
+<pre class="language-latex"><code class="language-latex">Calculate &#36;273 \div 7&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -22320,6 +25602,22 @@ Calculate $273 \div 7$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/the-perse-school/sample/specimen-paper-2/answers/generated/long-division/s01-q11-w01-ld00.svg" alt="Long division of 273 by 7" title="papers/the-perse-school/sample/specimen-paper-2/answers/generated/long-division/s01-q11-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 273 \div 7 \\\\
@@ -22329,6 +25627,9 @@ $
 &= 39
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -22359,7 +25660,15 @@ $39$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="273" divisor="7" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 273 \div 7 \\\\
 &= \dfrac{273}{7} \\\\
@@ -22367,7 +25676,9 @@ $39$
 &= \dfrac{39 \times \cancel 7}{\cancel 7} \\\\
 &= 39
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -22388,7 +25699,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$39$
+<pre class="language-latex"><code class="language-latex">&#36;39&#36;
 </code></pre>
 </div>
 </div>
@@ -22459,13 +25770,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -22485,15 +25799,15 @@ Which **ONE** of the following numbers is NOT divisible by $3?$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Which **ONE** of the following numbers is NOT divisible by $3?$
-<emptyline>
-- $18171$   
-<emptyline>
-- $44481$   
-<emptyline>
-- $38501$   
-<emptyline>
-- $57060$
+<pre class="language-latex"><code class="language-latex">Which **ONE** of the following numbers is NOT divisible by &#36;3?&#36;
+
+- &#36;18171&#36;   
+
+- &#36;44481&#36;   
+
+- &#36;38501&#36;   
+
+- &#36;57060&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -22561,14 +25875,14 @@ $38501$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">| Number    |         Sum                                           | Divisible $3$ |
+<pre class="language-latex"><code class="language-latex">| Number    |         Sum                                           | Divisible &#36;3&#36; |
 |:------:   |:----------------------------------------------------: | :-----------: |
-|  $18171$  | $1 + 8 + 1 + 7 + 1 = \rtq_abbr_working_color_wrong_answer{18}$                      |  Yes          |
-|  $44481$  | $4 + 4 + 4 + 8 + 1 = \rtq_abbr_working_color_wrong_answer{21}$                      |  Yes          |
-|  $38501$  | $3 + 8 + 5 + 0 + 1 = \rtq_abbr_working_color_answer{17}$                        |  No           |
-|  $57060$  | $5 + 7 + 0 + 6 + 0 = \rtq_abbr_working_color_wrong_answer{18}$                      |  Yes          |
-<emptyline>
-Number not divisible $= 38501$
+|  &#36;18171&#36;  | &#36;1 + 8 + 1 + 7 + 1 = \rtq_abbr_working_color_wrong_answer{18}&#36;                      |  Yes          |
+|  &#36;44481&#36;  | &#36;4 + 4 + 4 + 8 + 1 = \rtq_abbr_working_color_wrong_answer{21}&#36;                      |  Yes          |
+|  &#36;38501&#36;  | &#36;3 + 8 + 5 + 0 + 1 = \rtq_abbr_working_color_answer{17}&#36;                        |  No           |
+|  &#36;57060&#36;  | &#36;5 + 7 + 0 + 6 + 0 = \rtq_abbr_working_color_wrong_answer{18}&#36;                      |  Yes          |
+
+Number not divisible &#36;= 38501&#36;
 </code></pre>
 </div>
 </div>
@@ -22589,7 +25903,7 @@ Number not divisible $= 38501$
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$38501$
+<pre class="language-latex"><code class="language-latex">&#36;38501&#36;
 </code></pre>
 </div>
 </div>
@@ -22660,13 +25974,16 @@ Number not divisible $= 38501$
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -22680,8 +25997,8 @@ Use this result to **write down** the answers to each of the following:
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$6764 \div 89 = 76$
-<emptyline>
+<pre class="language-latex"><code class="language-latex">&#36;6764 \div 89 = 76&#36;
+
 Use this result to **write down** the answers to each of the following:
 </code></pre>
 </div>
@@ -22765,6 +26082,23 @@ Use this result to **write down** the answers to each of the following:
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>0E0A5274-12D2-4DF4-A5DF-370440C2AF45</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -22776,7 +26110,7 @@ $6764 \div 76$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$6764 \div 76$
+<pre class="language-latex"><code class="language-latex">&#36;6764 \div 76&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -22836,12 +26170,12 @@ $89$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 6764 \div 76 \\\\
 &= 89
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -22862,7 +26196,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$89$
+<pre class="language-latex"><code class="language-latex">&#36;89&#36;
 </code></pre>
 </div>
 </div>
@@ -22871,6 +26205,23 @@ $
 </li>
 <li class="questionContainer">
 <div class="question_envelope rag_not_found subquestion">
+<div class="uuid">
+<p>599159DD-4D73-4D66-8DC4-2B79003C8D43</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdivision
+</span>
+</li>
+</ul>
+</div>
+<div style="display: flex; justify-content: flex-start; margin: -0.4rem 0 1rem;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #15803d; border-radius: 999px; background: #dcfce7; color: #14532d; padding: 0.24rem 0.7rem; font-size: 0.95rem; font-weight: 700;">
+inherits parent tags: yes
+</span>
+</div>
 <div class="question subquestion" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -22882,7 +26233,7 @@ $7.6 \times 0.89$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$7.6 \times 0.89$
+<pre class="language-latex"><code class="language-latex">&#36;7.6 \times 0.89&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -22946,7 +26297,7 @@ $6.764$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
 &= 7.6 \times 0.89 \\\\
 &= \dfrac{7.6 \times 10}{10} \times \dfrac{0.89 \times 100}{100} \\\\
@@ -22955,7 +26306,7 @@ $6.764$
 &= \dfrac{6764}{1000} \\\\
 &= 6.764
 \end{aligned}
-$
+&#36;
 </code></pre>
 </div>
 </div>
@@ -22976,7 +26327,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$6.764$
+<pre class="language-latex"><code class="language-latex">&#36;6.764&#36;
 </code></pre>
 </div>
 </div>
@@ -23050,13 +26401,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -23068,7 +26422,7 @@ Divide: $9786 \div 7$.
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Divide: $9786 \div 7$.
+<pre class="language-latex"><code class="language-latex">Divide: &#36;9786 \div 7&#36;.
 </code></pre>
 </div>
 <div class="workings">
@@ -23092,6 +26446,22 @@ Divide: $9786 \div 7$.
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/trinity-school-croydon/sample/sample-paper-1/answers/generated/long-division/s01-q04-w01-ld00.svg" alt="Long division of 9786 by 7" title="papers/trinity-school-croydon/sample/sample-paper-1/answers/generated/long-division/s01-q04-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 9786 \div 7 \\\\
@@ -23101,6 +26471,9 @@ $
 &= 1398
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -23131,7 +26504,15 @@ $1398$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="9786" divisor="7" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 9786 \div 7 \\\\
 &= \dfrac{9786}{7} \\\\
@@ -23139,7 +26520,9 @@ $1398$
 &= \dfrac{1398 \times \cancel 7}{\cancel 7} \\\\
 &= 1398
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -23160,7 +26543,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$1398$
+<pre class="language-latex"><code class="language-latex">&#36;1398&#36;
 </code></pre>
 </div>
 </div>
@@ -23231,13 +26614,16 @@ $
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -23249,7 +26635,7 @@ $12321 \div 37$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$12321 \div 37$
+<pre class="language-latex"><code class="language-latex">&#36;12321 \div 37&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -23273,6 +26659,22 @@ $12321 \div 37$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/whitgift-school/sample/sample-paper-1/answers/generated/long-division/s02-q05-w01-ld00.svg" alt="Long division of 12321 by 37" title="papers/whitgift-school/sample/sample-paper-1/answers/generated/long-division/s02-q05-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= 12321 \div 37 \\\\
@@ -23282,6 +26684,9 @@ $
 &= 333
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -23312,7 +26717,15 @@ $333$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="12321" divisor="37" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= 12321 \div 37 \\\\
 &= \dfrac{12321}{37} \\\\
@@ -23320,7 +26733,9 @@ $333$
 &= \dfrac{333 \times \cancel 37}{\cancel 37} \\\\
 &= 333
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -23341,7 +26756,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$333$
+<pre class="language-latex"><code class="language-latex">&#36;333&#36;
 </code></pre>
 </div>
 </div>

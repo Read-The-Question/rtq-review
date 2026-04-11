@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdivision-g4"
 title: "Topic - Division - G4"
-date: 2026-04-07 08:55:53
+date: 2026-04-11 15:41:12
 questions_count: "1"
 ---
 <ul class="question default-decimal question_type_question list_type_default-decimal">
@@ -22,13 +22,16 @@ questions_count: "1"
 <div class="rag">
 <p>rag_wf_prns</p>
 </div>
-<div class="topics">
-<ul>
-<li>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
 tdivision
+</span>
 </li>
 </ul>
 </div>
+
 <div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Question**
@@ -40,7 +43,7 @@ Calculate $286 \div 13$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">Calculate $286 \div 13$
+<pre class="language-latex"><code class="language-latex">Calculate &#36;286 \div 13&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -64,6 +67,22 @@ Calculate $286 \div 13$
 
 **Working**
 
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-body">
+
+<img src="/assets/papers/st-pauls-girls-school/2017/sample-paper-2/answers/generated/long-division/s01-q02-w01-ld00.svg" alt="Long division of 286 by 13" title="papers/st-pauls-girls-school/2017/sample-paper-2/answers/generated/long-division/s01-q02-w01-ld00.svg" data-slot="long-division" data-size="normal" data-align="center" class="paper-long-division" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Using fractions</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
 $
 \begin{aligned}
 &= \dfrac{286}{13} \\\\
@@ -72,6 +91,9 @@ $
 &= 22
 \end{aligned}
 $
+
+</div>
+</div>
 </div>
 </div>
 <div class="answers">
@@ -102,14 +124,24 @@ $22$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve"&gt;
+
+&lt;LongDivision dividend="286" divisor="13" /&gt;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="solve" title="Using fractions"&gt;
+
+&#36;
 \begin{aligned}
 &= \dfrac{286}{13} \\\\
 &= \dfrac{22 \times 13}{13} \\\\
 &= \dfrac{22 \times \cancel{13}}{\cancel{13}} \\\\
 &= 22
 \end{aligned}
-$
+&#36;
+
+&lt;/WorkingSection&gt;
 </code></pre>
 </div>
 </div>
@@ -130,7 +162,7 @@ $
 <div class="answercodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">$22$
+<pre class="language-latex"><code class="language-latex">&#36;22&#36;
 </code></pre>
 </div>
 </div>

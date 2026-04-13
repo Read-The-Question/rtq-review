@@ -1,0 +1,18 @@
+{
+  "alt": "Long division of 62.1 by 9",
+  "description": "Full long division of 62.1 by 9. Quotient 6.9, remainder 0.",
+  "kind": "long-division",
+  "provenance": {
+    "craftedBy": "Read The Question",
+    "copyright": "Read The Question. All rights reserved."
+  },
+  "title": "Long division of 62.1 by 9",
+  "values": {
+    "dividend": "62.1",
+    "divisor": "9",
+    "quotient": "6.9",
+    "remainder": "0",
+    "variant": "long"
+  },
+  "version": 1
+}

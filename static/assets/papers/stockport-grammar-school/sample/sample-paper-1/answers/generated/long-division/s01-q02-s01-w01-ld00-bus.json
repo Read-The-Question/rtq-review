@@ -1,0 +1,18 @@
+{
+  "alt": "Long division of 9642 by 3",
+  "description": "Bus-stop division of 9642 by 3. Quotient 3214, remainder 0.",
+  "kind": "long-division",
+  "provenance": {
+    "craftedBy": "Read The Question",
+    "copyright": "Read The Question. All rights reserved."
+  },
+  "title": "Long division of 9642 by 3",
+  "values": {
+    "dividend": "9642",
+    "divisor": "3",
+    "quotient": "3214",
+    "remainder": "0",
+    "variant": "bus"
+  },
+  "version": 1
+}

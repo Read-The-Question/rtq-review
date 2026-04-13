@@ -1,0 +1,18 @@
+{
+  "alt": "Long division of 561351 by 3",
+  "description": "Full long division of 561351 by 3. Quotient 187117, remainder 0.",
+  "kind": "long-division",
+  "provenance": {
+    "craftedBy": "Read The Question",
+    "copyright": "Read The Question. All rights reserved."
+  },
+  "title": "Long division of 561351 by 3",
+  "values": {
+    "dividend": "561351",
+    "divisor": "3",
+    "quotient": "187117",
+    "remainder": "0",
+    "variant": "long"
+  },
+  "version": 1
+}

@@ -1,0 +1,18 @@
+{
+  "alt": "Long division of 911 by 6",
+  "description": "Full long division of 911 by 6. Quotient 151, remainder 5.",
+  "kind": "long-division",
+  "provenance": {
+    "craftedBy": "Read The Question",
+    "copyright": "Read The Question. All rights reserved."
+  },
+  "title": "Long division of 911 by 6",
+  "values": {
+    "dividend": "911",
+    "divisor": "6",
+    "quotient": "151",
+    "remainder": "5",
+    "variant": "long"
+  },
+  "version": 1
+}

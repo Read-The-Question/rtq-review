@@ -1,0 +1,18 @@
+{
+  "alt": "Long division of 92 by 4",
+  "description": "Bus-stop division of 92 by 4. Quotient 23, remainder 0.",
+  "kind": "long-division",
+  "provenance": {
+    "craftedBy": "Read The Question",
+    "copyright": "Read The Question. All rights reserved."
+  },
+  "title": "Long division of 92 by 4",
+  "values": {
+    "dividend": "92",
+    "divisor": "4",
+    "quotient": "23",
+    "remainder": "0",
+    "variant": "bus"
+  },
+  "version": 1
+}

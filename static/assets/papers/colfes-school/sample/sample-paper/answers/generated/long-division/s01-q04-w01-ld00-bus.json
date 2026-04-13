@@ -1,0 +1,18 @@
+{
+  "alt": "Long division of 5616 by 8",
+  "description": "Bus-stop division of 5616 by 8. Quotient 702, remainder 0.",
+  "kind": "long-division",
+  "provenance": {
+    "craftedBy": "Read The Question",
+    "copyright": "Read The Question. All rights reserved."
+  },
+  "title": "Long division of 5616 by 8",
+  "values": {
+    "dividend": "5616",
+    "divisor": "8",
+    "quotient": "702",
+    "remainder": "0",
+    "variant": "bus"
+  },
+  "version": 1
+}

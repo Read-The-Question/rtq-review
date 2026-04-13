@@ -1,0 +1,18 @@
+{
+  "alt": "Long division of 3072 by 12",
+  "description": "Bus-stop division of 3072 by 12. Quotient 256, remainder 0.",
+  "kind": "long-division",
+  "provenance": {
+    "craftedBy": "Read The Question",
+    "copyright": "Read The Question. All rights reserved."
+  },
+  "title": "Long division of 3072 by 12",
+  "values": {
+    "dividend": "3072",
+    "divisor": "12",
+    "quotient": "256",
+    "remainder": "0",
+    "variant": "bus"
+  },
+  "version": 1
+}

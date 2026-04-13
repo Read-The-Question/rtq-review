@@ -1,0 +1,18 @@
+{
+  "alt": "Long division of 3216 by 6",
+  "description": "Full long division of 3216 by 6. Quotient 536, remainder 0.",
+  "kind": "long-division",
+  "provenance": {
+    "craftedBy": "Read The Question",
+    "copyright": "Read The Question. All rights reserved."
+  },
+  "title": "Long division of 3216 by 6",
+  "values": {
+    "dividend": "3216",
+    "divisor": "6",
+    "quotient": "536",
+    "remainder": "0",
+    "variant": "long"
+  },
+  "version": 1
+}

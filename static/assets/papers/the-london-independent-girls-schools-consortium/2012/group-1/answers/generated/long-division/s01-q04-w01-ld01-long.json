@@ -1,0 +1,18 @@
+{
+  "alt": "Long division of 5502 by 6",
+  "description": "Full long division of 5502 by 6. Quotient 917, remainder 0.",
+  "kind": "long-division",
+  "provenance": {
+    "craftedBy": "Read The Question",
+    "copyright": "Read The Question. All rights reserved."
+  },
+  "title": "Long division of 5502 by 6",
+  "values": {
+    "dividend": "5502",
+    "divisor": "6",
+    "quotient": "917",
+    "remainder": "0",
+    "variant": "long"
+  },
+  "version": 1
+}

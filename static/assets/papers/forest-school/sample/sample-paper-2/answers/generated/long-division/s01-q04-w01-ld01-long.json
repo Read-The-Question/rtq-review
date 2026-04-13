@@ -1,0 +1,18 @@
+{
+  "alt": "Long division of 234567 by 9",
+  "description": "Full long division of 234567 by 9. Quotient 26063, remainder 0.",
+  "kind": "long-division",
+  "provenance": {
+    "craftedBy": "Read The Question",
+    "copyright": "Read The Question. All rights reserved."
+  },
+  "title": "Long division of 234567 by 9",
+  "values": {
+    "dividend": "234567",
+    "divisor": "9",
+    "quotient": "26063",
+    "remainder": "0",
+    "variant": "long"
+  },
+  "version": 1
+}

@@ -1,0 +1,18 @@
+{
+  "alt": "Long division of 3256 by 4",
+  "description": "Full long division of 3256 by 4. Quotient 814, remainder 0.",
+  "kind": "long-division",
+  "provenance": {
+    "craftedBy": "Read The Question",
+    "copyright": "Read The Question. All rights reserved."
+  },
+  "title": "Long division of 3256 by 4",
+  "values": {
+    "dividend": "3256",
+    "divisor": "4",
+    "quotient": "814",
+    "remainder": "0",
+    "variant": "long"
+  },
+  "version": 1
+}

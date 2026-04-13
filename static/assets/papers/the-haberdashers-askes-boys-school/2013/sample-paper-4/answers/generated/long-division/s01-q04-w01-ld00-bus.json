@@ -1,0 +1,18 @@
+{
+  "alt": "Long division of 264 by 11",
+  "description": "Bus-stop division of 264 by 11. Quotient 24, remainder 0.",
+  "kind": "long-division",
+  "provenance": {
+    "craftedBy": "Read The Question",
+    "copyright": "Read The Question. All rights reserved."
+  },
+  "title": "Long division of 264 by 11",
+  "values": {
+    "dividend": "264",
+    "divisor": "11",
+    "quotient": "24",
+    "remainder": "0",
+    "variant": "bus"
+  },
+  "version": 1
+}

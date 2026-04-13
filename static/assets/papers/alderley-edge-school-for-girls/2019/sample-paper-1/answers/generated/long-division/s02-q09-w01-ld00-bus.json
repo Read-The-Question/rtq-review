@@ -1,0 +1,18 @@
+{
+  "alt": "Long division of 31500 by 30",
+  "description": "Bus-stop division of 31500 by 30. Quotient 1050, remainder 0.",
+  "kind": "long-division",
+  "provenance": {
+    "craftedBy": "Read The Question",
+    "copyright": "Read The Question. All rights reserved."
+  },
+  "title": "Long division of 31500 by 30",
+  "values": {
+    "dividend": "31500",
+    "divisor": "30",
+    "quotient": "1050",
+    "remainder": "0",
+    "variant": "bus"
+  },
+  "version": 1
+}

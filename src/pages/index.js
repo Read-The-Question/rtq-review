@@ -276,13 +276,44 @@ const IndexPage = ({ data }) => {
     );
   };
 
+  const isAnswerRagFamily = (slug) => {
+    return (
+      slug.startsWith("ragpapers") ||
+      slug.startsWith("ragtomlpapers") ||
+      slug.startsWith("ragtopictomlpapers")
+    );
+  };
+
+  const isQuestionsOnlyRagFamily = (slug) => {
+    return (
+      slug.startsWith("questionsonlyragpapers") ||
+      slug.startsWith("questionsonlyragtomlpapers") ||
+      slug.startsWith("questionsonlyragtopictomlpapers")
+    );
+  };
+
+  const hasReviewLikeSuffix = (slug) => {
+    return (
+      slug.includes("-blocked") ||
+      slug.includes("-red") ||
+      slug.includes("-notstarted") ||
+      slug.includes("-prcc") ||
+      slug.includes("-prpcc") ||
+      slug.includes("-prrl") ||
+      slug.includes("-prcr") ||
+      slug.includes("-prpcr") ||
+      slug.includes("-prns")
+    );
+  };
+
+
   // =========== QUESTIONS ==============
   const phaseZeroQuestionsOnlyPrpccNodes = (data) => {
     const filteredData = data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("questionsonlyragpapers") &&
+        isQuestionsOnlyRagFamily(slug) &&
         slug.includes("-prpcc") &&
         !(slug.includes("-g1") || slug.includes("-g2")) &&
         !slug.includes("-prrl")
@@ -301,7 +332,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("questionsonlyragpapers") &&
+        isQuestionsOnlyRagFamily(slug) &&
         slug.includes("-prpcc") &&
         slug.includes("-g1") &&
         !slug.includes("-prrl")
@@ -314,7 +345,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("questionsonlyragpapers") &&
+        isQuestionsOnlyRagFamily(slug) &&
         slug.includes("-prpcc") &&
         slug.includes("-g2") &&
         !slug.includes("-prrl")
@@ -327,7 +358,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("questionsonlyragpapers") &&
+        isQuestionsOnlyRagFamily(slug) &&
         slug.includes("-prpcc") &&
         slug.includes("-g3") &&
         !slug.includes("-prrl")
@@ -340,7 +371,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("questionsonlyragpapers") &&
+        isQuestionsOnlyRagFamily(slug) &&
         (slug.includes("-prcc") || slug.includes("-prns")) &&
         !(slug.includes("-g1") || slug.includes("-g2")) &&
         !slug.includes("-prrl")
@@ -359,7 +390,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("questionsonlyragpapers") &&
+        isQuestionsOnlyRagFamily(slug) &&
         (slug.includes("-prcc") || slug.includes("-prns")) &&
         slug.includes("-g1") &&
         !slug.includes("-prrl")
@@ -378,7 +409,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("questionsonlyragpapers") &&
+        isQuestionsOnlyRagFamily(slug) &&
         (slug.includes("-prcc") || slug.includes("-prns")) &&
         slug.includes("-g2") &&
         !slug.includes("-prrl")
@@ -397,7 +428,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("questionsonlyragpapers") &&
+        isQuestionsOnlyRagFamily(slug) &&
         (slug.includes("-prcc") || slug.includes("-prns")) &&
         slug.includes("-g3") &&
         !slug.includes("-prrl")
@@ -416,7 +447,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("questionsonlyragpapers") &&
+        isQuestionsOnlyRagFamily(slug) &&
         slug.includes("-prrl") &&
         !(slug.includes("-g1") || slug.includes("-g2"))
       );
@@ -428,7 +459,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("questionsonlyragpapers") &&
+        isQuestionsOnlyRagFamily(slug) &&
         slug.includes("-prrl") &&
         slug.includes("-g1")
       );
@@ -440,7 +471,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("questionsonlyragpapers") &&
+        isQuestionsOnlyRagFamily(slug) &&
         slug.includes("-prrl") &&
         slug.includes("-g2")
       );
@@ -452,7 +483,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("questionsonlyragpapers") &&
+        isQuestionsOnlyRagFamily(slug) &&
         slug.includes("-prrl") &&
         slug.includes("-g3")
       );
@@ -464,7 +495,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("questionsonlyragpapers") &&
+        isQuestionsOnlyRagFamily(slug) &&
         !(slug.includes("-g1") || slug.includes("-g2")) &&
         slug.includes("-prpcr")
       );
@@ -482,7 +513,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("questionsonlyragpapers") &&
+        isQuestionsOnlyRagFamily(slug) &&
         slug.includes("-g1") &&
         slug.includes("-prpcr")
       );
@@ -500,7 +531,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("questionsonlyragpapers") &&
+        isQuestionsOnlyRagFamily(slug) &&
         slug.includes("-g2") &&
         slug.includes("-prpcr")
       );
@@ -518,7 +549,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("questionsonlyragpapers") &&
+        isQuestionsOnlyRagFamily(slug) &&
         slug.includes("-g3") &&
         slug.includes("-prpcr")
       );
@@ -536,7 +567,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("questionsonlyragpapers") &&
+        isQuestionsOnlyRagFamily(slug) &&
         !(slug.includes("-g1") || slug.includes("-g2")) &&
         slug.includes("-prcr")
       );
@@ -554,7 +585,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("questionsonlyragpapers") &&
+        isQuestionsOnlyRagFamily(slug) &&
         slug.includes("-g1") &&
         slug.includes("-prcr")
       );
@@ -572,7 +603,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("questionsonlyragpapers") &&
+        isQuestionsOnlyRagFamily(slug) &&
         slug.includes("-g2") &&
         slug.includes("-prcr")
       );
@@ -590,7 +621,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("questionsonlyragpapers") &&
+        isQuestionsOnlyRagFamily(slug) &&
         slug.includes("-g3") &&
         slug.includes("-prcr")
       );
@@ -607,7 +638,7 @@ const IndexPage = ({ data }) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
       return (
-        slug.startsWith("questionsonlyragpapers") &&
+        isQuestionsOnlyRagFamily(slug) &&
         (slug.includes("-blocked") || slug.includes("-red"))
       );
     });
@@ -617,7 +648,7 @@ const IndexPage = ({ data }) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
       return (
-        slug.startsWith("questionsonlyragpapers") &&
+        isQuestionsOnlyRagFamily(slug) &&
         slug.includes("-notstarted")
       );
     });
@@ -628,7 +659,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
 
       return (
-        slug.startsWith("questionsonlyragpapers") &&
+        isQuestionsOnlyRagFamily(slug) &&
         !(
           slug.includes("-blocked") ||
           slug.includes("-red") ||
@@ -686,6 +717,23 @@ const IndexPage = ({ data }) => {
     });
   };
 
+  const questionsOnlyFullRagTomlPaperNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+
+      return slug.startsWith("questionsonlyragtomlpapers") && !hasReviewLikeSuffix(slug);
+    });
+  };
+
+  const questionsOnlyFullRagTopicTomlPaperNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+
+      return slug.startsWith("questionsonlyragtopictomlpapers") && !hasReviewLikeSuffix(slug);
+    });
+  };
+
+
   // =========== ANSWERS ==============
 
   const phaseZeroPrpccNodes = (data) => {
@@ -693,7 +741,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("ragpapers") &&
+        isAnswerRagFamily(slug) &&
         slug.includes("-prpcc") &&
         !(slug.includes("-g1") || slug.includes("-g2")) &&
         !slug.includes("-prrl")
@@ -706,7 +754,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("ragpapers") &&
+        isAnswerRagFamily(slug) &&
         slug.includes("-prpcc") &&
         slug.includes("-g1") &&
         !slug.includes("-prrl")
@@ -719,7 +767,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("ragpapers") &&
+        isAnswerRagFamily(slug) &&
         slug.includes("-prpcc") &&
         slug.includes("-g2") &&
         !slug.includes("-prrl")
@@ -732,7 +780,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("ragpapers") &&
+        isAnswerRagFamily(slug) &&
         slug.includes("-prpcc") &&
         slug.includes("-g3") &&
         !slug.includes("-prrl")
@@ -745,7 +793,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("ragpapers") &&
+        isAnswerRagFamily(slug) &&
         slug.includes("-prpcc") &&
         slug.includes("-ng1") &&
         !slug.includes("-prrl")
@@ -758,7 +806,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("ragpapers") &&
+        isAnswerRagFamily(slug) &&
         (slug.includes("-prcc") || slug.includes("-prns")) &&
         !(slug.includes("-g1") || slug.includes("-g2")) &&
         !slug.includes("-prrl")
@@ -771,7 +819,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("ragpapers") &&
+        isAnswerRagFamily(slug) &&
         (slug.includes("-prcc") || slug.includes("-prns")) &&
         slug.includes("-g1") &&
         !slug.includes("-prrl")
@@ -784,7 +832,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("ragpapers") &&
+        isAnswerRagFamily(slug) &&
         (slug.includes("-prcc") || slug.includes("-prns")) &&
         slug.includes("-g2") &&
         !slug.includes("-prrl")
@@ -797,7 +845,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("ragpapers") &&
+        isAnswerRagFamily(slug) &&
         (slug.includes("-prcc") || slug.includes("-prns")) &&
         slug.includes("-g3") &&
         !slug.includes("-prrl")
@@ -810,7 +858,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("ragpapers") &&
+        isAnswerRagFamily(slug) &&
         (slug.includes("-prcc") || slug.includes("-prns")) &&
         slug.includes("-ng1") &&
         !slug.includes("-prrl")
@@ -823,7 +871,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("ragpapers") &&
+        isAnswerRagFamily(slug) &&
         slug.includes("-prrl") &&
         !(slug.includes("-g1") || slug.includes("-g2"))
       );
@@ -835,7 +883,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("ragpapers") &&
+        isAnswerRagFamily(slug) &&
         slug.includes("-prrl") &&
         slug.includes("-g1")
       );
@@ -847,7 +895,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("ragpapers") &&
+        isAnswerRagFamily(slug) &&
         slug.includes("-prrl") &&
         slug.includes("-g2")
       );
@@ -859,7 +907,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("ragpapers") &&
+        isAnswerRagFamily(slug) &&
         slug.includes("-prrl") &&
         slug.includes("-g3")
       );
@@ -871,7 +919,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("ragpapers") &&
+        isAnswerRagFamily(slug) &&
         slug.includes("-prrl") &&
         slug.includes("-ng1")
       );
@@ -883,7 +931,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("ragpapers") &&
+        isAnswerRagFamily(slug) &&
         !(slug.includes("-g1") || slug.includes("-g2")) &&
         slug.includes("-prpcr")
       );
@@ -895,7 +943,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("ragpapers") &&
+        isAnswerRagFamily(slug) &&
         slug.includes("-g1") &&
         slug.includes("-prpcr")
       );
@@ -907,7 +955,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("ragpapers") &&
+        isAnswerRagFamily(slug) &&
         slug.includes("-g2") &&
         slug.includes("-prpcr")
       );
@@ -919,7 +967,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("ragpapers") &&
+        isAnswerRagFamily(slug) &&
         slug.includes("-g3") &&
         slug.includes("-prpcr")
       );
@@ -931,7 +979,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("ragpapers") &&
+        isAnswerRagFamily(slug) &&
         slug.includes("-ng1") &&
         slug.includes("-prpcr")
       );
@@ -943,7 +991,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("ragpapers") &&
+        isAnswerRagFamily(slug) &&
         !(slug.includes("-g1") || slug.includes("-g2")) &&
         slug.includes("-prcr")
       );
@@ -955,7 +1003,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("ragpapers") &&
+        isAnswerRagFamily(slug) &&
         slug.includes("-g1") &&
         slug.includes("-prcr")
       );
@@ -967,7 +1015,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("ragpapers") &&
+        isAnswerRagFamily(slug) &&
         slug.includes("-g2") &&
         slug.includes("-prcr")
       );
@@ -979,7 +1027,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("ragpapers") &&
+        isAnswerRagFamily(slug) &&
         slug.includes("-g3") &&
         slug.includes("-prcr")
       );
@@ -991,7 +1039,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
       // console.log(slug);
       return (
-        slug.startsWith("ragpapers") &&
+        isAnswerRagFamily(slug) &&
         slug.includes("-ng1") &&
         slug.includes("-prcr")
       );
@@ -1002,7 +1050,7 @@ const IndexPage = ({ data }) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
       return (
-        slug.startsWith("ragpapers") &&
+        isAnswerRagFamily(slug) &&
         (slug.includes("-blocked") || slug.includes("-red"))
       );
     });
@@ -1011,7 +1059,7 @@ const IndexPage = ({ data }) => {
   const notstartedNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
-      return slug.startsWith("ragpapers") && slug.includes("-notstarted");
+      return isAnswerRagFamily(slug) && slug.includes("-notstarted");
     });
   };
 
@@ -1020,7 +1068,7 @@ const IndexPage = ({ data }) => {
       const slug = node.frontmatter.slug;
 
       return (
-        slug.startsWith("ragpapers") &&
+        isAnswerRagFamily(slug) &&
         !(
           slug.includes("-blocked") ||
           slug.includes("-red") ||
@@ -1100,6 +1148,23 @@ const IndexPage = ({ data }) => {
       );
     });
   };
+
+  const fullRagTomlPaperNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+
+      return slug.startsWith("ragtomlpapers") && !hasReviewLikeSuffix(slug);
+    });
+  };
+
+  const fullRagTopicTomlPaperNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+
+      return slug.startsWith("ragtopictomlpapers") && !hasReviewLikeSuffix(slug);
+    });
+  };
+
 
   const fullAiPaperNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
@@ -1736,6 +1801,37 @@ const IndexPage = ({ data }) => {
             ))}
           </ul>
 
+          <h3 style={headingStyles}>Answers - RagTomlPapers</h3>
+
+          <ul style={listStyles}>
+            {fullRagTomlPaperNodes(data).map(({ node }) => (
+              <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+                <span>
+                  <Link style={linkStyle} to={node.frontmatter.slug}>
+                    {node.frontmatter.title}{" "}
+                  </Link>
+                </span>
+                <span>({node.frontmatter.questions_count})</span>
+              </li>
+            ))}
+          </ul>
+
+          <h3 style={headingStyles}>Answers - RagTopicTomlPapers</h3>
+
+          <ul style={listStyles}>
+            {fullRagTopicTomlPaperNodes(data).map(({ node }) => (
+              <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+                <span>
+                  <Link style={linkStyle} to={node.frontmatter.slug}>
+                    {node.frontmatter.title}{" "}
+                  </Link>
+                </span>
+                <span>({node.frontmatter.questions_count})</span>
+              </li>
+            ))}
+          </ul>
+
+
           <h3 style={headingStyles}>Answers - Topics</h3>
 
           <ul style={listStyles}>
@@ -2166,6 +2262,37 @@ const IndexPage = ({ data }) => {
               </li>
             ))}
           </ul>
+
+          <h3 style={headingStyles}>Questions - RagTomlPapers</h3>
+
+          <ul style={listStyles}>
+            {questionsOnlyFullRagTomlPaperNodes(data).map(({ node }) => (
+              <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+                <span>
+                  <Link style={linkStyle} to={node.frontmatter.slug}>
+                    {node.frontmatter.title}{" "}
+                  </Link>
+                </span>
+                <span>({node.frontmatter.questions_count})</span>
+              </li>
+            ))}
+          </ul>
+
+          <h3 style={headingStyles}>Questions - RagTopicTomlPapers</h3>
+
+          <ul style={listStyles}>
+            {questionsOnlyFullRagTopicTomlPaperNodes(data).map(({ node }) => (
+              <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+                <span>
+                  <Link style={linkStyle} to={node.frontmatter.slug}>
+                    {node.frontmatter.title}{" "}
+                  </Link>
+                </span>
+                <span>({node.frontmatter.questions_count})</span>
+              </li>
+            ))}
+          </ul>
+
 
           {/* <h2 style={h2HeadingStyles}>Questions - Original Papers</h2> */}
         </>

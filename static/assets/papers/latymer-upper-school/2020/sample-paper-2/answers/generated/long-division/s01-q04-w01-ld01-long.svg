@@ -10,8 +10,7 @@
   <g font-family="&quot;RTQ_KaTeX_Main&quot;, &quot;Times New Roman&quot;, Times, serif">
   <text x="74" y="20" text-anchor="middle" font-size="19" fill="#111827">3</text>
   <text x="94" y="20" text-anchor="middle" font-size="19" fill="#111827">1</text>
-  <line x1="36" y1="32" x2="110" y2="32" stroke="#111827" stroke-width="2"/>
-  <line x1="36" y1="32" x2="36" y2="71" stroke="#111827" stroke-width="2"/>
+  <path d="M 36 71 V 32 H 110" fill="none" stroke="#111827" stroke-width="2" stroke-linecap="square" stroke-linejoin="round"/>
   <text x="18" y="61" text-anchor="middle" font-size="19" fill="#111827">9</text>
   <text x="54" y="61" text-anchor="middle" font-size="19" fill="#111827">2</text>
   <text x="74" y="61" text-anchor="middle" font-size="19" fill="#111827">8</text>
@@ -23,6 +22,6 @@
   <text x="94" y="109" text-anchor="middle" font-size="19" fill="#111827">3</text>
   <text x="94" y="133" text-anchor="middle" font-size="19" fill="#111827">9</text>
   <line x1="64" y1="139" x2="104" y2="139" stroke="#d4d4d8" stroke-width="2"/>
-  <text x="94" y="157" text-anchor="middle" font-size="19" fill="#111827">4</text>
+  <text x="94" y="157" text-anchor="middle" font-size="19" fill="green">4</text>
   </g>
 </svg>

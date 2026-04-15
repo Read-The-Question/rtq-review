@@ -11,8 +11,7 @@
   <text x="94" y="20" text-anchor="middle" font-size="19" fill="#111827">1</text>
   <text x="114" y="20" text-anchor="middle" font-size="19" fill="#111827">2</text>
   <text x="134" y="20" text-anchor="middle" font-size="19" fill="#111827">0</text>
-  <line x1="56" y1="32" x2="150" y2="32" stroke="#111827" stroke-width="2"/>
-  <line x1="56" y1="32" x2="56" y2="71" stroke="#111827" stroke-width="2"/>
+  <path d="M 56 71 V 32 H 150" fill="none" stroke="#111827" stroke-width="2" stroke-linecap="square" stroke-linejoin="round"/>
   <text x="18" y="61" text-anchor="middle" font-size="19" fill="#111827">3</text>
   <text x="38" y="61" text-anchor="middle" font-size="19" fill="#111827">5</text>
   <text x="74" y="61" text-anchor="middle" font-size="19" fill="#111827">4</text>
@@ -30,6 +29,6 @@
   <text x="134" y="157" text-anchor="middle" font-size="19" fill="#111827">7</text>
   <text x="134" y="181" text-anchor="middle" font-size="19" fill="#111827">0</text>
   <line x1="124" y1="187" x2="144" y2="187" stroke="#d4d4d8" stroke-width="2"/>
-  <text x="134" y="205" text-anchor="middle" font-size="19" fill="#111827">7</text>
+  <text x="134" y="205" text-anchor="middle" font-size="19" fill="green">7</text>
   </g>
 </svg>

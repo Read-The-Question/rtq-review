@@ -1,0 +1,18 @@
+{
+  "alt": "Long division of 2536 by 4",
+  "description": "Full long division of 2536 by 4. Quotient 634, remainder 0.",
+  "kind": "long-division",
+  "provenance": {
+    "craftedBy": "Read The Question",
+    "copyright": "Read The Question. All rights reserved."
+  },
+  "title": "Long division of 2536 by 4",
+  "values": {
+    "dividend": "2536",
+    "divisor": "4",
+    "quotient": "634",
+    "remainder": "0",
+    "variant": "long"
+  },
+  "version": 1
+}

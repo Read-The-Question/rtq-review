@@ -277,19 +277,11 @@ const IndexPage = ({ data }) => {
   };
 
   const isAnswerRagFamily = (slug) => {
-    return (
-      slug.startsWith("ragpapers") ||
-      slug.startsWith("ragtomlpapers") ||
-      slug.startsWith("ragtopictomlpapers")
-    );
+    return slug.startsWith("ragpapers");
   };
 
   const isQuestionsOnlyRagFamily = (slug) => {
-    return (
-      slug.startsWith("questionsonlyragpapers") ||
-      slug.startsWith("questionsonlyragtomlpapers") ||
-      slug.startsWith("questionsonlyragtopictomlpapers")
-    );
+    return slug.startsWith("questionsonlyragpapers");
   };
 
   const hasReviewLikeSuffix = (slug) => {
@@ -1192,6 +1184,246 @@ const IndexPage = ({ data }) => {
       <title>Home Page</title>
       <h1 style={headingStyles}>Read The Question</h1>
 
+      {showAnswersForPapersTopicPapers() && (
+        <>
+          <h2 style={h2HeadingStyles}>Answers - Complete Papers</h2>
+
+          <h3 style={headingStyles}>Answers - Papers</h3>
+
+          <ul style={listStyles}>
+            {fullPaperNodes(data).map(({ node }) => (
+              <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+                <span>
+                  <Link style={linkStyle} to={node.frontmatter.slug}>
+                    {node.frontmatter.title}{" "}
+                  </Link>
+                </span>
+                <span>({node.frontmatter.questions_count})</span>
+              </li>
+            ))}
+          </ul>
+
+          <h3 style={headingStyles}>Answers - TopicPapers</h3>
+
+          <ul style={listStyles}>
+            {fullTopicPaperNodes(data).map(({ node }) => (
+              <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+                <span>
+                  <Link style={linkStyle} to={node.frontmatter.slug}>
+                    {node.frontmatter.title}{" "}
+                  </Link>
+                </span>
+                <span>({node.frontmatter.questions_count})</span>
+              </li>
+            ))}
+          </ul>
+
+          <h3 style={headingStyles}>Answers - RagTomlPapers</h3>
+
+          <ul style={listStyles}>
+            {fullRagTomlPaperNodes(data).map(({ node }) => (
+              <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+                <span>
+                  <Link style={linkStyle} to={node.frontmatter.slug}>
+                    {node.frontmatter.title}{" "}
+                  </Link>
+                </span>
+                <span>({node.frontmatter.questions_count})</span>
+              </li>
+            ))}
+          </ul>
+
+          <h3 style={headingStyles}>Answers - RagTopicTomlPapers</h3>
+
+          <ul style={listStyles}>
+            {fullRagTopicTomlPaperNodes(data).map(({ node }) => (
+              <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+                <span>
+                  <Link style={linkStyle} to={node.frontmatter.slug}>
+                    {node.frontmatter.title}{" "}
+                  </Link>
+                </span>
+                <span>({node.frontmatter.questions_count})</span>
+              </li>
+            ))}
+          </ul>
+
+
+          <h3 style={headingStyles}>Answers - Topics</h3>
+
+          <ul style={listStyles}>
+            {fullTopicNodes(data).map(({ node }) => (
+              <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+                <span>
+                  <Link style={linkStyle} to={node.frontmatter.slug}>
+                    {node.frontmatter.title}{" "}
+                  </Link>
+                </span>
+                <span>({node.frontmatter.questions_count})</span>
+              </li>
+            ))}
+          </ul>
+
+
+
+
+
+
+          <h2 style={h2HeadingStyles}>Answers - Review RAG Papers</h2>
+
+          <h3 style={headingStyles}>Answers - Review RAG Papers</h3>
+
+          <ul style={listStyles}>
+            {restOfNodes(data).map(({ node }) => (
+              <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+                <span>
+                  <Link style={linkStyle} to={node.frontmatter.slug}>
+                    {node.frontmatter.title}{" "}
+                  </Link>
+                </span>
+                <span>({node.frontmatter.questions_count})</span>
+              </li>
+            ))}
+          </ul>
+
+          <h3 style={headingStyles}>Answers - Review RAG Papers - Red / Blocked</h3>
+
+          <ul style={listStyles}>
+            {blockedNodes(data).map(({ node }) => (
+              <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+                <span>
+                  <Link style={linkStyle} to={node.frontmatter.slug}>
+                    {node.frontmatter.title}{" "}
+                  </Link>
+                </span>
+                <span>({node.frontmatter.questions_count})</span>
+              </li>
+            ))}
+          </ul>
+
+          <h2 style={h2HeadingStyles}>AI - Answers - Complete Papers</h2>
+
+          <h3 style={headingStyles}>AI - Answers - Papers</h3>
+
+          <ul style={listStyles}>
+            {fullAiPaperNodes(data).map(({ node }) => (
+              <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+                <span>
+                  <Link style={linkStyle} to={node.frontmatter.slug}>
+                    {node.frontmatter.title}{" "}
+                  </Link>
+                </span>
+                <span>({node.frontmatter.questions_count})</span>
+              </li>
+            ))}
+          </ul>
+
+        </>
+      )}
+
+      {showQuestionsPapersTopicPapers() && (
+        <>
+          <h2 style={h2HeadingStyles}>Questions - RAG Papers</h2>
+
+          <h3 style={headingStyles}>Questions - TopicPapers - RAG</h3>
+
+          {/* Filter Rest */}
+          <ul style={listStyles}>
+            {questionsOnlyRestOfNodes(data).map(({ node }) => (
+              <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+                <span>
+                  <Link style={linkStyle} to={node.frontmatter.slug}>
+                    {node.frontmatter.title}{" "}
+                  </Link>
+                </span>
+                <span>({node.frontmatter.questions_count})</span>
+              </li>
+            ))}
+          </ul>
+
+          <h3 style={headingStyles}>Questions - TopicPapers - Red / Blocked</h3>
+
+          {/* Filter Ragpapers and Blocked */}
+          <ul style={listStyles}>
+            {questionsOnlyBlockedNodes(data).map(({ node }) => (
+              <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+                <span>
+                  <Link style={linkStyle} to={node.frontmatter.slug}>
+                    {node.frontmatter.title}{" "}
+                  </Link>
+                </span>
+                <span>({node.frontmatter.questions_count})</span>
+              </li>
+            ))}
+          </ul>
+
+          <h2 style={h2HeadingStyles}>Questions - Complete Papers</h2>
+
+          <h3 style={headingStyles}>Questions - Papers</h3>
+
+          <ul style={listStyles}>
+            {questionsOnlyFullPaperNodes(data).map(({ node }) => (
+              <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+                <span>
+                  <Link style={linkStyle} to={node.frontmatter.slug}>
+                    {node.frontmatter.title}{" "}
+                  </Link>
+                </span>
+                <span>({node.frontmatter.questions_count})</span>
+              </li>
+            ))}
+          </ul>
+
+          <h3 style={headingStyles}>Questions - TopicPapers</h3>
+
+          <ul style={listStyles}>
+            {questionsOnlyFullTopicPaperNodes(data).map(({ node }) => (
+              <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+                <span>
+                  <Link style={linkStyle} to={node.frontmatter.slug}>
+                    {node.frontmatter.title}{" "}
+                  </Link>
+                </span>
+                <span>({node.frontmatter.questions_count})</span>
+              </li>
+            ))}
+          </ul>
+
+          <h3 style={headingStyles}>Questions - RagTomlPapers</h3>
+
+          <ul style={listStyles}>
+            {questionsOnlyFullRagTomlPaperNodes(data).map(({ node }) => (
+              <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+                <span>
+                  <Link style={linkStyle} to={node.frontmatter.slug}>
+                    {node.frontmatter.title}{" "}
+                  </Link>
+                </span>
+                <span>({node.frontmatter.questions_count})</span>
+              </li>
+            ))}
+          </ul>
+
+          <h3 style={headingStyles}>Questions - RagTopicTomlPapers</h3>
+
+          <ul style={listStyles}>
+            {questionsOnlyFullRagTopicTomlPaperNodes(data).map(({ node }) => (
+              <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+                <span>
+                  <Link style={linkStyle} to={node.frontmatter.slug}>
+                    {node.frontmatter.title}{" "}
+                  </Link>
+                </span>
+                <span>({node.frontmatter.questions_count})</span>
+              </li>
+            ))}
+          </ul>
+
+
+          {/* <h2 style={h2HeadingStyles}>Questions - Original Papers</h2> */}
+        </>
+      )}
+
       {showAnswersForDevelopersPhaseZero() && (
         <>
           <h2 style={h2HeadingStyles}>
@@ -1733,144 +1965,6 @@ const IndexPage = ({ data }) => {
         </>
       )}
 
-      {showAnswersForPapersTopicPapers() && (
-        <>
-          <h2 style={h2HeadingStyles}>Answers - RAG Papers</h2>
-
-          <h3 style={headingStyles}>Answers - TopicPapers - RAG</h3>
-
-          {/* Filter Rest */}
-          <ul style={listStyles}>
-            {restOfNodes(data).map(({ node }) => (
-              <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
-                <span>
-                  <Link style={linkStyle} to={node.frontmatter.slug}>
-                    {node.frontmatter.title}{" "}
-                  </Link>
-                </span>
-                <span>({node.frontmatter.questions_count})</span>
-              </li>
-            ))}
-          </ul>
-
-          <h3 style={headingStyles}>Answers - TopicPapers - Red / Blocked</h3>
-
-          {/* Filter Ragpapers and Blocked */}
-          <ul style={listStyles}>
-            {blockedNodes(data).map(({ node }) => (
-              <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
-                <span>
-                  <Link style={linkStyle} to={node.frontmatter.slug}>
-                    {node.frontmatter.title}{" "}
-                  </Link>
-                </span>
-                <span>({node.frontmatter.questions_count})</span>
-              </li>
-            ))}
-          </ul>
-
-          <h2 style={h2HeadingStyles}>Answers - Complete Papers</h2>
-
-          <h3 style={headingStyles}>Answers - Papers</h3>
-
-          <ul style={listStyles}>
-            {fullPaperNodes(data).map(({ node }) => (
-              <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
-                <span>
-                  <Link style={linkStyle} to={node.frontmatter.slug}>
-                    {node.frontmatter.title}{" "}
-                  </Link>
-                </span>
-                <span>({node.frontmatter.questions_count})</span>
-              </li>
-            ))}
-          </ul>
-
-          <h3 style={headingStyles}>Answers - TopicPapers</h3>
-
-          <ul style={listStyles}>
-            {fullTopicPaperNodes(data).map(({ node }) => (
-              <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
-                <span>
-                  <Link style={linkStyle} to={node.frontmatter.slug}>
-                    {node.frontmatter.title}{" "}
-                  </Link>
-                </span>
-                <span>({node.frontmatter.questions_count})</span>
-              </li>
-            ))}
-          </ul>
-
-          <h3 style={headingStyles}>Answers - RagTomlPapers</h3>
-
-          <ul style={listStyles}>
-            {fullRagTomlPaperNodes(data).map(({ node }) => (
-              <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
-                <span>
-                  <Link style={linkStyle} to={node.frontmatter.slug}>
-                    {node.frontmatter.title}{" "}
-                  </Link>
-                </span>
-                <span>({node.frontmatter.questions_count})</span>
-              </li>
-            ))}
-          </ul>
-
-          <h3 style={headingStyles}>Answers - RagTopicTomlPapers</h3>
-
-          <ul style={listStyles}>
-            {fullRagTopicTomlPaperNodes(data).map(({ node }) => (
-              <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
-                <span>
-                  <Link style={linkStyle} to={node.frontmatter.slug}>
-                    {node.frontmatter.title}{" "}
-                  </Link>
-                </span>
-                <span>({node.frontmatter.questions_count})</span>
-              </li>
-            ))}
-          </ul>
-
-
-          <h3 style={headingStyles}>Answers - Topics</h3>
-
-          <ul style={listStyles}>
-            {fullTopicNodes(data).map(({ node }) => (
-              <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
-                <span>
-                  <Link style={linkStyle} to={node.frontmatter.slug}>
-                    {node.frontmatter.title}{" "}
-                  </Link>
-                </span>
-                <span>({node.frontmatter.questions_count})</span>
-              </li>
-            ))}
-          </ul>
-
-
-
-
-
-
-          <h2 style={h2HeadingStyles}>AI - Answers - Complete Papers</h2>
-
-          <h3 style={headingStyles}>AI - Answers - Papers</h3>
-
-          <ul style={listStyles}>
-            {fullAiPaperNodes(data).map(({ node }) => (
-              <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
-                <span>
-                  <Link style={linkStyle} to={node.frontmatter.slug}>
-                    {node.frontmatter.title}{" "}
-                  </Link>
-                </span>
-                <span>({node.frontmatter.questions_count})</span>
-              </li>
-            ))}
-          </ul>
-
-        </>
-      )}
 
       {showQuestionsForDevelopersPhaseZero() && (
         <>
@@ -2195,108 +2289,6 @@ const IndexPage = ({ data }) => {
         </>
       )}
 
-      {showQuestionsPapersTopicPapers() && (
-        <>
-          <h2 style={h2HeadingStyles}>Questions - RAG Papers</h2>
-
-          <h3 style={headingStyles}>Questions - TopicPapers - RAG</h3>
-
-          {/* Filter Rest */}
-          <ul style={listStyles}>
-            {questionsOnlyRestOfNodes(data).map(({ node }) => (
-              <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
-                <span>
-                  <Link style={linkStyle} to={node.frontmatter.slug}>
-                    {node.frontmatter.title}{" "}
-                  </Link>
-                </span>
-                <span>({node.frontmatter.questions_count})</span>
-              </li>
-            ))}
-          </ul>
-
-          <h3 style={headingStyles}>Questions - TopicPapers - Red / Blocked</h3>
-
-          {/* Filter Ragpapers and Blocked */}
-          <ul style={listStyles}>
-            {questionsOnlyBlockedNodes(data).map(({ node }) => (
-              <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
-                <span>
-                  <Link style={linkStyle} to={node.frontmatter.slug}>
-                    {node.frontmatter.title}{" "}
-                  </Link>
-                </span>
-                <span>({node.frontmatter.questions_count})</span>
-              </li>
-            ))}
-          </ul>
-
-          <h2 style={h2HeadingStyles}>Questions - Complete Papers</h2>
-
-          <h3 style={headingStyles}>Questions - Papers</h3>
-
-          <ul style={listStyles}>
-            {questionsOnlyFullPaperNodes(data).map(({ node }) => (
-              <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
-                <span>
-                  <Link style={linkStyle} to={node.frontmatter.slug}>
-                    {node.frontmatter.title}{" "}
-                  </Link>
-                </span>
-                <span>({node.frontmatter.questions_count})</span>
-              </li>
-            ))}
-          </ul>
-
-          <h3 style={headingStyles}>Questions - TopicPapers</h3>
-
-          <ul style={listStyles}>
-            {questionsOnlyFullTopicPaperNodes(data).map(({ node }) => (
-              <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
-                <span>
-                  <Link style={linkStyle} to={node.frontmatter.slug}>
-                    {node.frontmatter.title}{" "}
-                  </Link>
-                </span>
-                <span>({node.frontmatter.questions_count})</span>
-              </li>
-            ))}
-          </ul>
-
-          <h3 style={headingStyles}>Questions - RagTomlPapers</h3>
-
-          <ul style={listStyles}>
-            {questionsOnlyFullRagTomlPaperNodes(data).map(({ node }) => (
-              <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
-                <span>
-                  <Link style={linkStyle} to={node.frontmatter.slug}>
-                    {node.frontmatter.title}{" "}
-                  </Link>
-                </span>
-                <span>({node.frontmatter.questions_count})</span>
-              </li>
-            ))}
-          </ul>
-
-          <h3 style={headingStyles}>Questions - RagTopicTomlPapers</h3>
-
-          <ul style={listStyles}>
-            {questionsOnlyFullRagTopicTomlPaperNodes(data).map(({ node }) => (
-              <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
-                <span>
-                  <Link style={linkStyle} to={node.frontmatter.slug}>
-                    {node.frontmatter.title}{" "}
-                  </Link>
-                </span>
-                <span>({node.frontmatter.questions_count})</span>
-              </li>
-            ))}
-          </ul>
-
-
-          {/* <h2 style={h2HeadingStyles}>Questions - Original Papers</h2> */}
-        </>
-      )}
 
       {/* <h3 style={headingStyles}>
       Answers - Owners

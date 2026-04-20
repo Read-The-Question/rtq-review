@@ -1,0 +1,9585 @@
+---
+slug: "ragtopictomlpapers/topicpapers-tdetailedsubtraction-rag-ng2-2"
+title: "Rag Topic Paper - Detailedsubtraction - NG2 - 2"
+date: 2026-04-20 06:45:13
+questions_count: "40"
+---
+<div class="paper">
+<div class="meta">
+<h3>boys</h3>
+<h3>foot</h3>
+<h3>Topic</h3>
+<h3></h3>
+<h3>TODO</h3>
+</div>
+
+# Section A
+<ul class="question decimal question_type_question list_type_decimal">
+<li class="questionContainer">
+<div class="question_envelope rag_ng2 rag_prns question">
+<div class="uuid">
+<p>053DE0A7-D1C1-4A3D-BF4B-BABFF4D1EE9C</p>
+</div>
+<div class="papername">
+<p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1:1:11</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_ng2</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdetailedsubtraction
+</span>
+</li>
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdecimal
+</span>
+</li>
+</ul>
+</div>
+
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Calculate $6 - 4.226$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Calculate &#36;6 - 4.226&#36;
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+- ABBR: Remember to line up the decimal points.
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin {array}{cccccccccccccc}
+    & {}^{\subtractBorrow{5}} \cancel{6} \ . & {}^{\subtractBorrow{9}} \cancel{0} & {}^{\subtractBorrow{9}} \cancel{0} & {}^{\subtractBorrow{1}} 0 \\
+{}- &    4 \ .     &   2   &   2   &   6   \\
+\hline
+    &    1 \ .     &   7   &   7   &   4
+\end {array}
+$
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin {array}{cccccccccccccc}
+    & 6 \ . & 0 & 0 & 0 \\
+{}- &    4 \ .     &   2   &   2   &   6   \\
+\hline
+    &    1 \ .     &   7   &   7   &   4
+\end {array}
+$
+
+</div>
+</div>
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$1.774$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">- rtq_abbr_note_md_decimal_point_alignment
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+
+&#36;
+\begin {array}{cccccccccccccc}
+    & {}^{\subtractBorrow{5}} \cancel{6} \ . & {}^{\subtractBorrow{9}} \cancel{0} & {}^{\subtractBorrow{9}} \cancel{0} & {}^{\subtractBorrow{1}} 0 \\
+{}- &    4 \ .     &   2   &   2   &   6   \\
+\hline
+    &    1 \ .     &   7   &   7   &   4
+\end {array}
+&#36;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+
+&#36;
+\begin {array}{cccccccccccccc}
+    & 6 \ . & 0 & 0 & 0 \\
+{}- &    4 \ .     &   2   &   2   &   6   \\
+\hline
+    &    1 \ .     &   7   &   7   &   4
+\end {array}
+&#36;
+
+&lt;/WorkingSection&gt;
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;1.774&#36;
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="053DE0A7-D1C1-4A3D-BF4B-BABFF4D1EE9C" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="053DE0A7-D1C1-4A3D-BF4B-BABFF4D1EE9C" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="053DE0A7-D1C1-4A3D-BF4B-BABFF4D1EE9C" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="053DE0A7-D1C1-4A3D-BF4B-BABFF4D1EE9C" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="053DE0A7-D1C1-4A3D-BF4B-BABFF4D1EE9C" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="053DE0A7-D1C1-4A3D-BF4B-BABFF4D1EE9C" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="053DE0A7-D1C1-4A3D-BF4B-BABFF4D1EE9C" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="053DE0A7-D1C1-4A3D-BF4B-BABFF4D1EE9C" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="053DE0A7-D1C1-4A3D-BF4B-BABFF4D1EE9C" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="053DE0A7-D1C1-4A3D-BF4B-BABFF4D1EE9C" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="053DE0A7-D1C1-4A3D-BF4B-BABFF4D1EE9C" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="053DE0A7-D1C1-4A3D-BF4B-BABFF4D1EE9C" id="FORM-053DE0A7-D1C1-4A3D-BF4B-BABFF4D1EE9C" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-053DE0A7-D1C1-4A3D-BF4B-BABFF4D1EE9C">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_ng2 rag_prns question">
+<div class="uuid">
+<p>3BAA233F-DC82-4B0B-A8B2-9C8066BE8878</p>
+</div>
+<div class="papername">
+<p>kings-college-school--11-plus--maths--2017--specimen-paper-2:1:2</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_ng2</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdetailedsubtraction
+</span>
+</li>
+</ul>
+</div>
+
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Find the difference between $9347$ and $2985$.
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Find the difference between &#36;9347&#36; and &#36;2985&#36;.
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{8}} \cancel{9} & {}^{\subtractBorrow{12}} \cancel{3} & {}^{\subtractBorrow{1}} 4 & 7 \\
+{}- &   2   &   9   &   8   &   5 \\
+\hline
+    &   6   &   3   &   6   &   2
+\end{array}
+$
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 9 & 3 & 4 & 7 \\
+{}- &   2   &   9   &   8   &   5 \\
+\hline
+    &   6   &   3   &   6   &   2
+\end{array}
+$
+
+</div>
+</div>
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$6362$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{8}} \cancel{9} & {}^{\subtractBorrow{12}} \cancel{3} & {}^{\subtractBorrow{1}} 4 & 7 \\
+{}- &   2   &   9   &   8   &   5 \\
+\hline
+    &   6   &   3   &   6   &   2
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 9 & 3 & 4 & 7 \\
+{}- &   2   &   9   &   8   &   5 \\
+\hline
+    &   6   &   3   &   6   &   2
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;6362&#36;
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="3BAA233F-DC82-4B0B-A8B2-9C8066BE8878" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="3BAA233F-DC82-4B0B-A8B2-9C8066BE8878" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="3BAA233F-DC82-4B0B-A8B2-9C8066BE8878" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="3BAA233F-DC82-4B0B-A8B2-9C8066BE8878" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="3BAA233F-DC82-4B0B-A8B2-9C8066BE8878" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="3BAA233F-DC82-4B0B-A8B2-9C8066BE8878" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="3BAA233F-DC82-4B0B-A8B2-9C8066BE8878" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="3BAA233F-DC82-4B0B-A8B2-9C8066BE8878" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="3BAA233F-DC82-4B0B-A8B2-9C8066BE8878" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="3BAA233F-DC82-4B0B-A8B2-9C8066BE8878" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="3BAA233F-DC82-4B0B-A8B2-9C8066BE8878" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="3BAA233F-DC82-4B0B-A8B2-9C8066BE8878" id="FORM-3BAA233F-DC82-4B0B-A8B2-9C8066BE8878" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-3BAA233F-DC82-4B0B-A8B2-9C8066BE8878">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_ng2 rag_prns question">
+<div class="uuid">
+<p>9EDB1A87-432E-4FAB-815F-0D114B4570AD</p>
+</div>
+<div class="papername">
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-1:1:2</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_ng2</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdetailedsubtraction
+</span>
+</li>
+</ul>
+</div>
+
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Subtract $108$ from $525$.
+
+A: $327$
+
+B: $417$
+
+C: $407$
+
+D: $427$
+
+E: $633$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Subtract &#36;108&#36; from &#36;525&#36;.
+
+A: &#36;327&#36;
+
+B: &#36;417&#36;
+
+C: &#36;407&#36;
+
+D: &#36;427&#36;
+
+E: &#36;633&#36;
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 5 & {}^{\subtractBorrow{1}} \cancel{2} & {}^{\subtractBorrow{1}} 5 \\
+{}- &   1   &   0   &   8 \\
+\hline
+    &   4   &   1   &   7
+\end{array}
+$
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 5 & 2 & 5 \\
+{}- &   1   &   0   &   8 \\
+\hline
+    &   4   &   1   &   7
+\end{array}
+$
+
+</div>
+</div>
+</div>
+</div>
+<div class="answers">
+<div class="option" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Option**
+
+<p>B</p>
+</div>
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$417$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 5 & {}^{\subtractBorrow{1}} \cancel{2} & {}^{\subtractBorrow{1}} 5 \\
+{}- &   1   &   0   &   8 \\
+\hline
+    &   4   &   1   &   7
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 5 & 2 & 5 \\
+{}- &   1   &   0   &   8 \\
+\hline
+    &   4   &   1   &   7
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">B</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;417&#36;
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9EDB1A87-432E-4FAB-815F-0D114B4570AD" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9EDB1A87-432E-4FAB-815F-0D114B4570AD" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9EDB1A87-432E-4FAB-815F-0D114B4570AD" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9EDB1A87-432E-4FAB-815F-0D114B4570AD" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9EDB1A87-432E-4FAB-815F-0D114B4570AD" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9EDB1A87-432E-4FAB-815F-0D114B4570AD" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9EDB1A87-432E-4FAB-815F-0D114B4570AD" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9EDB1A87-432E-4FAB-815F-0D114B4570AD" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9EDB1A87-432E-4FAB-815F-0D114B4570AD" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9EDB1A87-432E-4FAB-815F-0D114B4570AD" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="9EDB1A87-432E-4FAB-815F-0D114B4570AD" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9EDB1A87-432E-4FAB-815F-0D114B4570AD" id="FORM-9EDB1A87-432E-4FAB-815F-0D114B4570AD" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-9EDB1A87-432E-4FAB-815F-0D114B4570AD">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_ng2 rag_prns question">
+<div class="uuid">
+<p>786BDB0D-CBC0-4ECA-99D4-240F8B350942</p>
+</div>
+<div class="papername">
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2:1:5</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_ng2</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdetailedsubtraction
+</span>
+</li>
+</ul>
+</div>
+
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+What is $842 - 658?$
+
+- $184$
+- $194$
+- $294$
+- $284$
+- $394$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">What is &#36;842 - 658?&#36;
+
+- &#36;184&#36;
+- &#36;194&#36;
+- &#36;294&#36;
+- &#36;284&#36;
+- &#36;394&#36;
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{7}} \cancel{8} & {}^{\subtractBorrow{13}} \cancel{4} & {}^{\subtractBorrow{1}} 2 \\
+{}- &   6   &   5   &   8 \\
+\hline
+    &   1   &   8   &   4
+\end{array}
+$
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 8 & 4 & 2 \\
+{}- &   6   &   5   &   8 \\
+\hline
+    &   1   &   8   &   4
+\end{array}
+$
+
+</div>
+</div>
+</div>
+</div>
+<div class="answers">
+<div class="option" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Option**
+
+<p>A</p>
+</div>
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$184$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{7}} \cancel{8} & {}^{\subtractBorrow{13}} \cancel{4} & {}^{\subtractBorrow{1}} 2 \\
+{}- &   6   &   5   &   8 \\
+\hline
+    &   1   &   8   &   4
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 8 & 4 & 2 \\
+{}- &   6   &   5   &   8 \\
+\hline
+    &   1   &   8   &   4
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">A</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;184&#36;
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="786BDB0D-CBC0-4ECA-99D4-240F8B350942" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="786BDB0D-CBC0-4ECA-99D4-240F8B350942" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="786BDB0D-CBC0-4ECA-99D4-240F8B350942" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="786BDB0D-CBC0-4ECA-99D4-240F8B350942" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="786BDB0D-CBC0-4ECA-99D4-240F8B350942" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="786BDB0D-CBC0-4ECA-99D4-240F8B350942" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="786BDB0D-CBC0-4ECA-99D4-240F8B350942" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="786BDB0D-CBC0-4ECA-99D4-240F8B350942" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="786BDB0D-CBC0-4ECA-99D4-240F8B350942" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="786BDB0D-CBC0-4ECA-99D4-240F8B350942" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="786BDB0D-CBC0-4ECA-99D4-240F8B350942" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="786BDB0D-CBC0-4ECA-99D4-240F8B350942" id="FORM-786BDB0D-CBC0-4ECA-99D4-240F8B350942" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-786BDB0D-CBC0-4ECA-99D4-240F8B350942">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_ng2 rag_prns question">
+<div class="uuid">
+<p>F6258E30-1BB3-49AE-BBBC-CF76953178F6</p>
+</div>
+<div class="papername">
+<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:1:2</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_ng2</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdetailedsubtraction
+</span>
+</li>
+</ul>
+</div>
+
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+$
+\begin{array}{cccccccccccccc}
+    &   7   &   3   &   2 \\
+{}- &   3   &   5   &   7 \\
+\hline\\
+\hline
+\end{array}
+$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;
+\begin{array}{cccccccccccccc}
+    &   7   &   3   &   2 \\
+{}- &   3   &   5   &   7 \\
+\hline\\
+\hline
+\end{array}
+&#36;
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{6}} \cancel{7} & {}^{\subtractBorrow{12}} \cancel{3} & {}^{\subtractBorrow{1}} 2 \\
+{}- &   3   &   5   &   7 \\
+\hline
+    &   3   &   7   &   5
+\end{array}
+$
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 7 & 3 & 2 \\
+{}- &   3   &   5   &   7 \\
+\hline
+    &   3   &   7   &   5
+\end{array}
+$
+
+</div>
+</div>
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$375$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{6}} \cancel{7} & {}^{\subtractBorrow{12}} \cancel{3} & {}^{\subtractBorrow{1}} 2 \\
+{}- &   3   &   5   &   7 \\
+\hline
+    &   3   &   7   &   5
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 7 & 3 & 2 \\
+{}- &   3   &   5   &   7 \\
+\hline
+    &   3   &   7   &   5
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;375&#36;
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F6258E30-1BB3-49AE-BBBC-CF76953178F6" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F6258E30-1BB3-49AE-BBBC-CF76953178F6" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F6258E30-1BB3-49AE-BBBC-CF76953178F6" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F6258E30-1BB3-49AE-BBBC-CF76953178F6" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F6258E30-1BB3-49AE-BBBC-CF76953178F6" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F6258E30-1BB3-49AE-BBBC-CF76953178F6" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F6258E30-1BB3-49AE-BBBC-CF76953178F6" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F6258E30-1BB3-49AE-BBBC-CF76953178F6" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F6258E30-1BB3-49AE-BBBC-CF76953178F6" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F6258E30-1BB3-49AE-BBBC-CF76953178F6" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="F6258E30-1BB3-49AE-BBBC-CF76953178F6" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F6258E30-1BB3-49AE-BBBC-CF76953178F6" id="FORM-F6258E30-1BB3-49AE-BBBC-CF76953178F6" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-F6258E30-1BB3-49AE-BBBC-CF76953178F6">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_ng2 rag_prns question">
+<div class="uuid">
+<p>BDF5CE80-68DE-4747-8DF0-4C7EC4BA6D8A</p>
+</div>
+<div class="papername">
+<p>oundle-school--11-plus--maths--2008--sample-paper-1:1:2</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_ng2</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdetailedsubtraction
+</span>
+</li>
+</ul>
+</div>
+
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Work out $123 - 67$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Work out &#36;123 - 67&#36;
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{0}} \cancel{1} & {}^{\subtractBorrow{11}} \cancel{2} & {}^{\subtractBorrow{1}} 3 \\
+{}-         &       &   6   &   7  \\
+\hline
+            &       &   5   &   6
+\end{array}
+$
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 1 & 2 & 3 \\
+{}-         &       &   6   &   7  \\
+\hline
+            &       &   5   &   6
+\end{array}
+$
+
+</div>
+</div>
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$56$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{0}} \cancel{1} & {}^{\subtractBorrow{11}} \cancel{2} & {}^{\subtractBorrow{1}} 3 \\
+{}-         &       &   6   &   7  \\
+\hline
+            &       &   5   &   6
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 1 & 2 & 3 \\
+{}-         &       &   6   &   7  \\
+\hline
+            &       &   5   &   6
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;56&#36;
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="BDF5CE80-68DE-4747-8DF0-4C7EC4BA6D8A" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="BDF5CE80-68DE-4747-8DF0-4C7EC4BA6D8A" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="BDF5CE80-68DE-4747-8DF0-4C7EC4BA6D8A" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="BDF5CE80-68DE-4747-8DF0-4C7EC4BA6D8A" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="BDF5CE80-68DE-4747-8DF0-4C7EC4BA6D8A" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="BDF5CE80-68DE-4747-8DF0-4C7EC4BA6D8A" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="BDF5CE80-68DE-4747-8DF0-4C7EC4BA6D8A" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="BDF5CE80-68DE-4747-8DF0-4C7EC4BA6D8A" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="BDF5CE80-68DE-4747-8DF0-4C7EC4BA6D8A" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="BDF5CE80-68DE-4747-8DF0-4C7EC4BA6D8A" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="BDF5CE80-68DE-4747-8DF0-4C7EC4BA6D8A" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="BDF5CE80-68DE-4747-8DF0-4C7EC4BA6D8A" id="FORM-BDF5CE80-68DE-4747-8DF0-4C7EC4BA6D8A" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-BDF5CE80-68DE-4747-8DF0-4C7EC4BA6D8A">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_ng2 rag_prns question">
+<div class="uuid">
+<p>F2255658-341B-4D1A-991E-E4F62F507385</p>
+</div>
+<div class="papername">
+<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:1:2</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_ng2</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdetailedsubtraction
+</span>
+</li>
+</ul>
+</div>
+
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+$2010 - 997 =$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;2010 - 997 =&#36;
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{1}} \cancel{2} & {}^{\subtractBorrow{9}} \cancel{0} & {}^{\subtractBorrow{10}} \cancel{1} & {}^{\subtractBorrow{1}} 0 \\
+{}- &       &   9    &   9   &   7 \\
+\hline
+    &   1   &   0    &   1   &   3
+\end{array}
+$
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 2 & 0 & 1 & 0 \\
+{}- &       &   9    &   9   &   7 \\
+\hline
+    &   1   &   0    &   1   &   3
+\end{array}
+$
+
+</div>
+</div>
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$1013$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{1}} \cancel{2} & {}^{\subtractBorrow{9}} \cancel{0} & {}^{\subtractBorrow{10}} \cancel{1} & {}^{\subtractBorrow{1}} 0 \\
+{}- &       &   9    &   9   &   7 \\
+\hline
+    &   1   &   0    &   1   &   3
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 2 & 0 & 1 & 0 \\
+{}- &       &   9    &   9   &   7 \\
+\hline
+    &   1   &   0    &   1   &   3
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;1013&#36;
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F2255658-341B-4D1A-991E-E4F62F507385" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F2255658-341B-4D1A-991E-E4F62F507385" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F2255658-341B-4D1A-991E-E4F62F507385" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F2255658-341B-4D1A-991E-E4F62F507385" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F2255658-341B-4D1A-991E-E4F62F507385" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F2255658-341B-4D1A-991E-E4F62F507385" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F2255658-341B-4D1A-991E-E4F62F507385" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F2255658-341B-4D1A-991E-E4F62F507385" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F2255658-341B-4D1A-991E-E4F62F507385" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F2255658-341B-4D1A-991E-E4F62F507385" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="F2255658-341B-4D1A-991E-E4F62F507385" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F2255658-341B-4D1A-991E-E4F62F507385" id="FORM-F2255658-341B-4D1A-991E-E4F62F507385" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-F2255658-341B-4D1A-991E-E4F62F507385">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_ng2 rag_prns question">
+<div class="uuid">
+<p>875BB017-AED1-426A-AA78-AA89E462D760</p>
+</div>
+<div class="papername">
+<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:1:2</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_ng2</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdetailedsubtraction
+</span>
+</li>
+</ul>
+</div>
+
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+$2011 - 999 =$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;2011 - 999 =&#36;
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+$
+\begin{aligned}
+&= 2011 - 999 \\\\
+&= 2011 - 1000 + 1 \\\\
+&= (2011 - 1000) + 1 \\\\
+&= 1011 + 1 \\\\
+&= 1012
+\end{aligned}
+$
+</div>
+<div class="tips" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+- ABBR: Alternate solution
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{1}} \cancel{2} & {}^{\subtractBorrow{9}} \cancel{0} & {}^{\subtractBorrow{10}} \cancel{1} & {}^{\subtractBorrow{1}} 1 \\
+{}- &       &   9    &   9   &   9 \\
+\hline
+    &   1   &   0    &   1   &   2
+\end{array}
+$
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 2 & 0 & 1 & 1 \\
+{}- &       &   9    &   9   &   9 \\
+\hline
+    &   1   &   0    &   1   &   2
+\end{array}
+$
+
+</div>
+</div>
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$1012$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;
+\begin{aligned}
+&= 2011 - 999 \\\\
+&= 2011 - 1000 + 1 \\\\
+&= (2011 - 1000) + 1 \\\\
+&= 1011 + 1 \\\\
+&= 1012
+\end{aligned}
+&#36;
+</code></pre>
+</div>
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">- rtq_abbr_note_md_alternate_solution
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{1}} \cancel{2} & {}^{\subtractBorrow{9}} \cancel{0} & {}^{\subtractBorrow{10}} \cancel{1} & {}^{\subtractBorrow{1}} 1 \\
+{}- &       &   9    &   9   &   9 \\
+\hline
+    &   1   &   0    &   1   &   2
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 2 & 0 & 1 & 1 \\
+{}- &       &   9    &   9   &   9 \\
+\hline
+    &   1   &   0    &   1   &   2
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;1012&#36;
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="875BB017-AED1-426A-AA78-AA89E462D760" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="875BB017-AED1-426A-AA78-AA89E462D760" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="875BB017-AED1-426A-AA78-AA89E462D760" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="875BB017-AED1-426A-AA78-AA89E462D760" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="875BB017-AED1-426A-AA78-AA89E462D760" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="875BB017-AED1-426A-AA78-AA89E462D760" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="875BB017-AED1-426A-AA78-AA89E462D760" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="875BB017-AED1-426A-AA78-AA89E462D760" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="875BB017-AED1-426A-AA78-AA89E462D760" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="875BB017-AED1-426A-AA78-AA89E462D760" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="875BB017-AED1-426A-AA78-AA89E462D760" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="875BB017-AED1-426A-AA78-AA89E462D760" id="FORM-875BB017-AED1-426A-AA78-AA89E462D760" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-875BB017-AED1-426A-AA78-AA89E462D760">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_ng2 rag_prns question">
+<div class="uuid">
+<p>0F0DB0B9-CB86-40BB-8C55-778C4CD372B3</p>
+</div>
+<div class="papername">
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:1:2</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_ng2</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdetailedsubtraction
+</span>
+</li>
+</ul>
+</div>
+
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+$2002 - 999 =$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;2002 - 999 =&#36;
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+- ABBR: Alternate solution
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+$
+\begin{aligned}
+&= 2002 - 999 \\\\
+&= 2002 - 1000 + 1 \\\\
+&= (2002 - 1000) + 1 \\\\
+&= 1002 + 1 \\\\
+&= 1003
+\end{aligned}
+$
+</div>
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{1}} \cancel{2} & {}^{\subtractBorrow{9}} \cancel{0} & {}^{\subtractBorrow{9}} \cancel{0} & {}^{\subtractBorrow{1}} 2 \\
+{}- &       &   9   &   9   &   9 \\
+\hline
+    &   1   &   0   &   0   &   3
+\end{array}
+$
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 2 & 0 & 0 & 2 \\
+{}- &       &   9   &   9   &   9 \\
+\hline
+    &   1   &   0   &   0   &   3
+\end{array}
+$
+
+</div>
+</div>
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$1003$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">- rtq_abbr_note_md_alternate_solution
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;
+\begin{aligned}
+&= 2002 - 999 \\\\
+&= 2002 - 1000 + 1 \\\\
+&= (2002 - 1000) + 1 \\\\
+&= 1002 + 1 \\\\
+&= 1003
+\end{aligned}
+&#36;
+</code></pre>
+</div>
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{1}} \cancel{2} & {}^{\subtractBorrow{9}} \cancel{0} & {}^{\subtractBorrow{9}} \cancel{0} & {}^{\subtractBorrow{1}} 2 \\
+{}- &       &   9   &   9   &   9 \\
+\hline
+    &   1   &   0   &   0   &   3
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 2 & 0 & 0 & 2 \\
+{}- &       &   9   &   9   &   9 \\
+\hline
+    &   1   &   0   &   0   &   3
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;1003&#36;
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="0F0DB0B9-CB86-40BB-8C55-778C4CD372B3" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="0F0DB0B9-CB86-40BB-8C55-778C4CD372B3" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="0F0DB0B9-CB86-40BB-8C55-778C4CD372B3" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="0F0DB0B9-CB86-40BB-8C55-778C4CD372B3" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="0F0DB0B9-CB86-40BB-8C55-778C4CD372B3" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="0F0DB0B9-CB86-40BB-8C55-778C4CD372B3" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="0F0DB0B9-CB86-40BB-8C55-778C4CD372B3" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="0F0DB0B9-CB86-40BB-8C55-778C4CD372B3" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="0F0DB0B9-CB86-40BB-8C55-778C4CD372B3" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="0F0DB0B9-CB86-40BB-8C55-778C4CD372B3" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="0F0DB0B9-CB86-40BB-8C55-778C4CD372B3" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="0F0DB0B9-CB86-40BB-8C55-778C4CD372B3" id="FORM-0F0DB0B9-CB86-40BB-8C55-778C4CD372B3" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-0F0DB0B9-CB86-40BB-8C55-778C4CD372B3">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_ng2 rag_prns question">
+<div class="uuid">
+<p>C09205D6-59E5-4AB9-B3B3-3609A0CB4402</p>
+</div>
+<div class="papername">
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:1:2</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_ng2</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdetailedsubtraction
+</span>
+</li>
+</ul>
+</div>
+
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+$2030 - 997 =$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;2030 - 997 =&#36;
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+$
+\begin{aligned}
+&= 2030 - 997 \\\\
+&= 2030 - 1000 + 3 \\\\
+&= (2030 - 1000) + 3 \\\\
+&= 1030 + 3 \\\\
+&= 1033
+\end{aligned}
+$
+</div>
+<div class="tips" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+- ABBR: Alternate solution
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{1}} \cancel{2} & {}^{\subtractBorrow{9}} \cancel{0} & {}^{\subtractBorrow{12}} \cancel{3} & {}^{\subtractBorrow{1}} 0 \\
+{}- &       &   9    &   9   &   7 \\
+\hline
+    &   1   &   0    &   3   &   3
+\end{array}
+$
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 2 & 0 & 3 & 0 \\
+{}- &       &   9    &   9   &   7 \\
+\hline
+    &   1   &   0    &   3   &   3
+\end{array}
+$
+
+</div>
+</div>
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$1033$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;
+\begin{aligned}
+&= 2030 - 997 \\\\
+&= 2030 - 1000 + 3 \\\\
+&= (2030 - 1000) + 3 \\\\
+&= 1030 + 3 \\\\
+&= 1033
+\end{aligned}
+&#36;
+</code></pre>
+</div>
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">- rtq_abbr_note_md_alternate_solution
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{1}} \cancel{2} & {}^{\subtractBorrow{9}} \cancel{0} & {}^{\subtractBorrow{12}} \cancel{3} & {}^{\subtractBorrow{1}} 0 \\
+{}- &       &   9    &   9   &   7 \\
+\hline
+    &   1   &   0    &   3   &   3
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 2 & 0 & 3 & 0 \\
+{}- &       &   9    &   9   &   7 \\
+\hline
+    &   1   &   0    &   3   &   3
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;1033&#36;
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C09205D6-59E5-4AB9-B3B3-3609A0CB4402" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C09205D6-59E5-4AB9-B3B3-3609A0CB4402" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C09205D6-59E5-4AB9-B3B3-3609A0CB4402" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C09205D6-59E5-4AB9-B3B3-3609A0CB4402" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C09205D6-59E5-4AB9-B3B3-3609A0CB4402" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C09205D6-59E5-4AB9-B3B3-3609A0CB4402" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C09205D6-59E5-4AB9-B3B3-3609A0CB4402" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C09205D6-59E5-4AB9-B3B3-3609A0CB4402" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C09205D6-59E5-4AB9-B3B3-3609A0CB4402" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C09205D6-59E5-4AB9-B3B3-3609A0CB4402" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="C09205D6-59E5-4AB9-B3B3-3609A0CB4402" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C09205D6-59E5-4AB9-B3B3-3609A0CB4402" id="FORM-C09205D6-59E5-4AB9-B3B3-3609A0CB4402" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-C09205D6-59E5-4AB9-B3B3-3609A0CB4402">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_ng2 rag_prns question">
+<div class="uuid">
+<p>1245C5AD-4634-4592-B024-00C528D0616B</p>
+</div>
+<div class="papername">
+<p>reigate-grammar-school--11-plus--maths--2014--sample-paper-9:1:2</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_ng2</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdetailedsubtraction
+</span>
+</li>
+</ul>
+</div>
+
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+$2014 - 998 =$
+
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;2014 - 998 =&#36;
+
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+$
+\begin{aligned}
+&= 2014 - 998 \\\\
+&= 2014 - 1000 + 2 \\\\
+&= (2014 - 1000) + 2 \\\\
+&= 1014 + 2 \\\\
+&= 1016
+\end{aligned}
+$
+</div>
+<div class="tips" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+- ABBR: Alternate solution
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{1}} \cancel{2} & {}^{\subtractBorrow{9}} \cancel{0} & {}^{\subtractBorrow{10}} \cancel{1} & {}^{\subtractBorrow{1}} 4 \\
+{}- &       &   9    &   9   &   8 \\
+\hline
+    &   1   &   0    &   1   &   6
+\end{array}
+$
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 2 & 0 & 1 & 4 \\
+{}- &       &   9    &   9   &   8 \\
+\hline
+    &   1   &   0    &   1   &   6
+\end{array}
+$
+
+</div>
+</div>
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$1016$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;
+\begin{aligned}
+&= 2014 - 998 \\\\
+&= 2014 - 1000 + 2 \\\\
+&= (2014 - 1000) + 2 \\\\
+&= 1014 + 2 \\\\
+&= 1016
+\end{aligned}
+&#36;
+</code></pre>
+</div>
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">- rtq_abbr_note_md_alternate_solution
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{1}} \cancel{2} & {}^{\subtractBorrow{9}} \cancel{0} & {}^{\subtractBorrow{10}} \cancel{1} & {}^{\subtractBorrow{1}} 4 \\
+{}- &       &   9    &   9   &   8 \\
+\hline
+    &   1   &   0    &   1   &   6
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 2 & 0 & 1 & 4 \\
+{}- &       &   9    &   9   &   8 \\
+\hline
+    &   1   &   0    &   1   &   6
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;1016&#36;
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="1245C5AD-4634-4592-B024-00C528D0616B" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="1245C5AD-4634-4592-B024-00C528D0616B" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="1245C5AD-4634-4592-B024-00C528D0616B" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="1245C5AD-4634-4592-B024-00C528D0616B" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="1245C5AD-4634-4592-B024-00C528D0616B" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="1245C5AD-4634-4592-B024-00C528D0616B" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="1245C5AD-4634-4592-B024-00C528D0616B" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="1245C5AD-4634-4592-B024-00C528D0616B" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="1245C5AD-4634-4592-B024-00C528D0616B" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="1245C5AD-4634-4592-B024-00C528D0616B" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="1245C5AD-4634-4592-B024-00C528D0616B" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="1245C5AD-4634-4592-B024-00C528D0616B" id="FORM-1245C5AD-4634-4592-B024-00C528D0616B" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-1245C5AD-4634-4592-B024-00C528D0616B">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_ng2 rag_prns question">
+<div class="uuid">
+<p>D7BBEB10-44CA-4BA8-8D7D-6A9A6EF1017B</p>
+</div>
+<div class="papername">
+<p>solihull-school--11-plus--maths--9999--sample-paper-1:1:2</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_ng2</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdetailedsubtraction
+</span>
+</li>
+</ul>
+</div>
+
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+$
+\begin{array}{cccccccccccccc}
+      &     7     &     6     &     5 \\
+{}-   &     3     &     8     &     9 \\
+\hline\\
+\hline
+\end{array}
+$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;
+\begin{array}{cccccccccccccc}
+      &     7     &     6     &     5 \\
+{}-   &     3     &     8     &     9 \\
+\hline\\
+\hline
+\end{array}
+&#36;
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{6}} \cancel{7} & {}^{\subtractBorrow{15}} \cancel{6} & {}^{\subtractBorrow{1}} 5 \\
+{}-   &     3     &     8     &     9 \\
+\hline
+      &     3     &     7     &     6
+\end{array}
+$
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 7 & 6 & 5 \\
+{}-   &     3     &     8     &     9 \\
+\hline
+      &     3     &     7     &     6
+\end{array}
+$
+
+</div>
+</div>
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$376$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{6}} \cancel{7} & {}^{\subtractBorrow{15}} \cancel{6} & {}^{\subtractBorrow{1}} 5 \\
+{}-   &     3     &     8     &     9 \\
+\hline
+      &     3     &     7     &     6
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 7 & 6 & 5 \\
+{}-   &     3     &     8     &     9 \\
+\hline
+      &     3     &     7     &     6
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;376&#36;
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D7BBEB10-44CA-4BA8-8D7D-6A9A6EF1017B" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D7BBEB10-44CA-4BA8-8D7D-6A9A6EF1017B" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D7BBEB10-44CA-4BA8-8D7D-6A9A6EF1017B" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D7BBEB10-44CA-4BA8-8D7D-6A9A6EF1017B" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D7BBEB10-44CA-4BA8-8D7D-6A9A6EF1017B" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D7BBEB10-44CA-4BA8-8D7D-6A9A6EF1017B" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D7BBEB10-44CA-4BA8-8D7D-6A9A6EF1017B" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D7BBEB10-44CA-4BA8-8D7D-6A9A6EF1017B" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D7BBEB10-44CA-4BA8-8D7D-6A9A6EF1017B" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D7BBEB10-44CA-4BA8-8D7D-6A9A6EF1017B" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="D7BBEB10-44CA-4BA8-8D7D-6A9A6EF1017B" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D7BBEB10-44CA-4BA8-8D7D-6A9A6EF1017B" id="FORM-D7BBEB10-44CA-4BA8-8D7D-6A9A6EF1017B" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-D7BBEB10-44CA-4BA8-8D7D-6A9A6EF1017B">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_ng2 rag_prns question">
+<div class="uuid">
+<p>A723DE7E-1AEF-46A8-A1F9-C1F5A1AC3855</p>
+</div>
+<div class="papername">
+<p>solihull-school--11-plus--maths--9999--sample-paper-2:1:2</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_ng2</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdetailedsubtraction
+</span>
+</li>
+</ul>
+</div>
+
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+$
+\begin{array}{cccc}
+      &3     &0     &3     &1 \\
+{}-   &1     &1     &2     &8 \\
+\hline\\
+\end{array}
+$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;
+\begin{array}{cccc}
+      &3     &0     &3     &1 \\
+{}-   &1     &1     &2     &8 \\
+\hline\\
+\end{array}
+&#36;
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{2}} \cancel{3} & {}^{\subtractBorrow{1}} 0 & {}^{\subtractBorrow{2}} \cancel{3} & {}^{\subtractBorrow{1}} 1 \\
+{}-   &     1     &     1     &     2     &     8 \\
+\hline
+      &     1     &     9     &     0     &     3
+\end{array}
+$
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 3 & 0 & 3 & 1 \\
+{}-   &     1     &     1     &     2     &     8 \\
+\hline
+      &     1     &     9     &     0     &     3
+\end{array}
+$
+
+</div>
+</div>
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$1903$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{2}} \cancel{3} & {}^{\subtractBorrow{1}} 0 & {}^{\subtractBorrow{2}} \cancel{3} & {}^{\subtractBorrow{1}} 1 \\
+{}-   &     1     &     1     &     2     &     8 \\
+\hline
+      &     1     &     9     &     0     &     3
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 3 & 0 & 3 & 1 \\
+{}-   &     1     &     1     &     2     &     8 \\
+\hline
+      &     1     &     9     &     0     &     3
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;1903&#36;
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A723DE7E-1AEF-46A8-A1F9-C1F5A1AC3855" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A723DE7E-1AEF-46A8-A1F9-C1F5A1AC3855" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A723DE7E-1AEF-46A8-A1F9-C1F5A1AC3855" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A723DE7E-1AEF-46A8-A1F9-C1F5A1AC3855" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A723DE7E-1AEF-46A8-A1F9-C1F5A1AC3855" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A723DE7E-1AEF-46A8-A1F9-C1F5A1AC3855" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A723DE7E-1AEF-46A8-A1F9-C1F5A1AC3855" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A723DE7E-1AEF-46A8-A1F9-C1F5A1AC3855" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A723DE7E-1AEF-46A8-A1F9-C1F5A1AC3855" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A723DE7E-1AEF-46A8-A1F9-C1F5A1AC3855" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="A723DE7E-1AEF-46A8-A1F9-C1F5A1AC3855" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A723DE7E-1AEF-46A8-A1F9-C1F5A1AC3855" id="FORM-A723DE7E-1AEF-46A8-A1F9-C1F5A1AC3855" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-A723DE7E-1AEF-46A8-A1F9-C1F5A1AC3855">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_ng2 rag_prns question">
+<div class="uuid">
+<p>9761689F-1E58-44A0-BB21-EE140DDA3F74</p>
+</div>
+<div class="papername">
+<p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:1:2</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_ng2</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdetailedsubtraction
+</span>
+</li>
+</ul>
+</div>
+
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Subtract $128 - 54$.
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Subtract &#36;128 - 54&#36;.
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{0}} \cancel{1} & {}^{\subtractBorrow{1}} 2 & 8 \\
+{}- &       &   5   &   4 \\
+\hline
+    &       &   7   &   4
+\end{array}
+$
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 1 & 2 & 8 \\
+{}- &       &   5   &   4 \\
+\hline
+    &       &   7   &   4
+\end{array}
+$
+
+</div>
+</div>
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$74$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{0}} \cancel{1} & {}^{\subtractBorrow{1}} 2 & 8 \\
+{}- &       &   5   &   4 \\
+\hline
+    &       &   7   &   4
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 1 & 2 & 8 \\
+{}- &       &   5   &   4 \\
+\hline
+    &       &   7   &   4
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;74&#36;
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9761689F-1E58-44A0-BB21-EE140DDA3F74" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9761689F-1E58-44A0-BB21-EE140DDA3F74" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9761689F-1E58-44A0-BB21-EE140DDA3F74" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9761689F-1E58-44A0-BB21-EE140DDA3F74" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9761689F-1E58-44A0-BB21-EE140DDA3F74" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9761689F-1E58-44A0-BB21-EE140DDA3F74" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9761689F-1E58-44A0-BB21-EE140DDA3F74" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9761689F-1E58-44A0-BB21-EE140DDA3F74" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9761689F-1E58-44A0-BB21-EE140DDA3F74" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9761689F-1E58-44A0-BB21-EE140DDA3F74" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="9761689F-1E58-44A0-BB21-EE140DDA3F74" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9761689F-1E58-44A0-BB21-EE140DDA3F74" id="FORM-9761689F-1E58-44A0-BB21-EE140DDA3F74" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-9761689F-1E58-44A0-BB21-EE140DDA3F74">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_ng2 rag_prns question">
+<div class="uuid">
+<p>1C34385E-E874-4131-9119-0DD16D56A452</p>
+</div>
+<div class="papername">
+<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:1:2</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_ng2</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdetailedsubtraction
+</span>
+</li>
+</ul>
+</div>
+
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Subtract $345 - 54$.
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Subtract &#36;345 - 54&#36;.
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{2}} \cancel{3} & {}^{\subtractBorrow{1}} 4 & 5 \\
+{}- &       &   5   &   4 \\
+\hline
+    &   2   &   9   &   1
+\end{array}
+$
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 3 & 4 & 5 \\
+{}- &       &   5   &   4 \\
+\hline
+    &   2   &   9   &   1
+\end{array}
+$
+
+</div>
+</div>
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$291$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{2}} \cancel{3} & {}^{\subtractBorrow{1}} 4 & 5 \\
+{}- &       &   5   &   4 \\
+\hline
+    &   2   &   9   &   1
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 3 & 4 & 5 \\
+{}- &       &   5   &   4 \\
+\hline
+    &   2   &   9   &   1
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;291&#36;
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="1C34385E-E874-4131-9119-0DD16D56A452" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="1C34385E-E874-4131-9119-0DD16D56A452" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="1C34385E-E874-4131-9119-0DD16D56A452" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="1C34385E-E874-4131-9119-0DD16D56A452" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="1C34385E-E874-4131-9119-0DD16D56A452" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="1C34385E-E874-4131-9119-0DD16D56A452" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="1C34385E-E874-4131-9119-0DD16D56A452" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="1C34385E-E874-4131-9119-0DD16D56A452" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="1C34385E-E874-4131-9119-0DD16D56A452" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="1C34385E-E874-4131-9119-0DD16D56A452" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="1C34385E-E874-4131-9119-0DD16D56A452" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="1C34385E-E874-4131-9119-0DD16D56A452" id="FORM-1C34385E-E874-4131-9119-0DD16D56A452" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-1C34385E-E874-4131-9119-0DD16D56A452">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_ng2 rag_prns question">
+<div class="uuid">
+<p>055DE59A-4055-438B-8C73-72735F2E10CB</p>
+</div>
+<div class="papername">
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1:1:2</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_ng2</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdetailedsubtraction
+</span>
+</li>
+</ul>
+</div>
+
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+$547 - 298 =$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;547 - 298 =&#36;
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{4}} \cancel{5} & {}^{\subtractBorrow{13}} \cancel{4} & {}^{\subtractBorrow{1}} 7 \\
+{}-  &   2   &   9   &   8 \\
+\hline
+     &   2   &   4   &   9
+\end{array}
+$
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 5 & 4 & 7 \\
+{}-  &   2   &   9   &   8 \\
+\hline
+     &   2   &   4   &   9
+\end{array}
+$
+
+</div>
+</div>
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$249$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{4}} \cancel{5} & {}^{\subtractBorrow{13}} \cancel{4} & {}^{\subtractBorrow{1}} 7 \\
+{}-  &   2   &   9   &   8 \\
+\hline
+     &   2   &   4   &   9
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 5 & 4 & 7 \\
+{}-  &   2   &   9   &   8 \\
+\hline
+     &   2   &   4   &   9
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;249&#36;
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="055DE59A-4055-438B-8C73-72735F2E10CB" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="055DE59A-4055-438B-8C73-72735F2E10CB" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="055DE59A-4055-438B-8C73-72735F2E10CB" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="055DE59A-4055-438B-8C73-72735F2E10CB" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="055DE59A-4055-438B-8C73-72735F2E10CB" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="055DE59A-4055-438B-8C73-72735F2E10CB" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="055DE59A-4055-438B-8C73-72735F2E10CB" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="055DE59A-4055-438B-8C73-72735F2E10CB" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="055DE59A-4055-438B-8C73-72735F2E10CB" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="055DE59A-4055-438B-8C73-72735F2E10CB" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="055DE59A-4055-438B-8C73-72735F2E10CB" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="055DE59A-4055-438B-8C73-72735F2E10CB" id="FORM-055DE59A-4055-438B-8C73-72735F2E10CB" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-055DE59A-4055-438B-8C73-72735F2E10CB">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_ng2 rag_prns question">
+<div class="uuid">
+<p>04EA6485-59BD-40D7-BE50-86CDE7A5BD77</p>
+</div>
+<div class="papername">
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1:1:2</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_ng2</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdetailedsubtraction
+</span>
+</li>
+</ul>
+</div>
+
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+$
+\begin{array}{cccccccccccccc}
+    &   8   &   8   &   8 \\
+{}- &   1   &   9   &   2 \\
+\hline
+\end{array}
+$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;
+\begin{array}{cccccccccccccc}
+    &   8   &   8   &   8 \\
+{}- &   1   &   9   &   2 \\
+\hline
+\end{array}
+&#36;
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{7}} \cancel{8} & {}^{\subtractBorrow{1}} 8 & 8 \\
+{}- &   1   &   9   &   2 \\
+\hline
+&   6   &   9   &   6
+\end{array}
+$
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 8 & 8 & 8 \\
+{}- &   1   &   9   &   2 \\
+\hline
+&   6   &   9   &   6
+\end{array}
+$
+
+</div>
+</div>
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$696$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{7}} \cancel{8} & {}^{\subtractBorrow{1}} 8 & 8 \\
+{}- &   1   &   9   &   2 \\
+\hline
+&   6   &   9   &   6
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 8 & 8 & 8 \\
+{}- &   1   &   9   &   2 \\
+\hline
+&   6   &   9   &   6
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;696&#36;
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="04EA6485-59BD-40D7-BE50-86CDE7A5BD77" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="04EA6485-59BD-40D7-BE50-86CDE7A5BD77" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="04EA6485-59BD-40D7-BE50-86CDE7A5BD77" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="04EA6485-59BD-40D7-BE50-86CDE7A5BD77" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="04EA6485-59BD-40D7-BE50-86CDE7A5BD77" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="04EA6485-59BD-40D7-BE50-86CDE7A5BD77" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="04EA6485-59BD-40D7-BE50-86CDE7A5BD77" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="04EA6485-59BD-40D7-BE50-86CDE7A5BD77" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="04EA6485-59BD-40D7-BE50-86CDE7A5BD77" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="04EA6485-59BD-40D7-BE50-86CDE7A5BD77" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="04EA6485-59BD-40D7-BE50-86CDE7A5BD77" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="04EA6485-59BD-40D7-BE50-86CDE7A5BD77" id="FORM-04EA6485-59BD-40D7-BE50-86CDE7A5BD77" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-04EA6485-59BD-40D7-BE50-86CDE7A5BD77">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_ng2 rag_prns question">
+<div class="uuid">
+<p>C23CC024-39E3-4323-97B6-0FC20D88C36D</p>
+</div>
+<div class="papername">
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:1</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_ng2</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdetailedsubtraction
+</span>
+</li>
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdecimal
+</span>
+</li>
+</ul>
+</div>
+
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Calculate $15.05 - 14.84$.
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Calculate &#36;15.05 - 14.84&#36;.
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+- ABBR: Remember to line up the decimal points.
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 1 & {}^{\subtractBorrow{4}} \cancel{5} \ . & {}^{\subtractBorrow{1}} 0 & 5 \\
+{}- &   1   &    4 \ .    &    8    &    4 \\
+\hline
+    &   0    &    0 \ .    &    2    &    1
+\end{array}
+$
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 1 & 5 \ . & 0 & 5 \\
+{}- &   1   &    4 \ .    &    8    &    4 \\
+\hline
+    &   0    &    0 \ .    &    2    &    1
+\end{array}
+$
+
+</div>
+</div>
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$0.21$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">- rtq_abbr_note_md_decimal_point_alignment
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 1 & {}^{\subtractBorrow{4}} \cancel{5} \ . & {}^{\subtractBorrow{1}} 0 & 5 \\
+{}- &   1   &    4 \ .    &    8    &    4 \\
+\hline
+    &   0    &    0 \ .    &    2    &    1
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 1 & 5 \ . & 0 & 5 \\
+{}- &   1   &    4 \ .    &    8    &    4 \\
+\hline
+    &   0    &    0 \ .    &    2    &    1
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;0.21&#36;
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C23CC024-39E3-4323-97B6-0FC20D88C36D" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C23CC024-39E3-4323-97B6-0FC20D88C36D" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C23CC024-39E3-4323-97B6-0FC20D88C36D" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C23CC024-39E3-4323-97B6-0FC20D88C36D" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C23CC024-39E3-4323-97B6-0FC20D88C36D" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C23CC024-39E3-4323-97B6-0FC20D88C36D" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C23CC024-39E3-4323-97B6-0FC20D88C36D" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C23CC024-39E3-4323-97B6-0FC20D88C36D" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C23CC024-39E3-4323-97B6-0FC20D88C36D" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C23CC024-39E3-4323-97B6-0FC20D88C36D" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="C23CC024-39E3-4323-97B6-0FC20D88C36D" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C23CC024-39E3-4323-97B6-0FC20D88C36D" id="FORM-C23CC024-39E3-4323-97B6-0FC20D88C36D" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-C23CC024-39E3-4323-97B6-0FC20D88C36D">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_ng2 rag_prns question">
+<div class="uuid">
+<p>438222D2-654B-4888-B0B2-0A6D2DD2BF50</p>
+</div>
+<div class="papername">
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:1</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_ng2</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdetailedsubtraction
+</span>
+</li>
+</ul>
+</div>
+
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Calculate $623 - 467$.
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Calculate &#36;623 - 467&#36;.
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{ccccc}
+    & {}^{\subtractBorrow{5}} \cancel{6} & {}^{\subtractBorrow{11}} \cancel{2} & {}^{\subtractBorrow{1}} 3 \\
+{}- &   4   &   6   &   7 \\
+\hline
+    &   1   &   5   &   6
+\end{array}
+$
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{ccccc}
+    & 6 & 2 & 3 \\
+{}- &   4   &   6   &   7 \\
+\hline
+    &   1   &   5   &   6
+\end{array}
+$
+
+</div>
+</div>
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$156$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+
+&#36;
+\begin{array}{ccccc}
+    & {}^{\subtractBorrow{5}} \cancel{6} & {}^{\subtractBorrow{11}} \cancel{2} & {}^{\subtractBorrow{1}} 3 \\
+{}- &   4   &   6   &   7 \\
+\hline
+    &   1   &   5   &   6
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+
+&#36;
+\begin{array}{ccccc}
+    & 6 & 2 & 3 \\
+{}- &   4   &   6   &   7 \\
+\hline
+    &   1   &   5   &   6
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;156&#36;
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="438222D2-654B-4888-B0B2-0A6D2DD2BF50" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="438222D2-654B-4888-B0B2-0A6D2DD2BF50" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="438222D2-654B-4888-B0B2-0A6D2DD2BF50" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="438222D2-654B-4888-B0B2-0A6D2DD2BF50" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="438222D2-654B-4888-B0B2-0A6D2DD2BF50" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="438222D2-654B-4888-B0B2-0A6D2DD2BF50" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="438222D2-654B-4888-B0B2-0A6D2DD2BF50" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="438222D2-654B-4888-B0B2-0A6D2DD2BF50" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="438222D2-654B-4888-B0B2-0A6D2DD2BF50" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="438222D2-654B-4888-B0B2-0A6D2DD2BF50" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="438222D2-654B-4888-B0B2-0A6D2DD2BF50" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="438222D2-654B-4888-B0B2-0A6D2DD2BF50" id="FORM-438222D2-654B-4888-B0B2-0A6D2DD2BF50" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-438222D2-654B-4888-B0B2-0A6D2DD2BF50">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_ng2 rag_prns question">
+<div class="uuid">
+<p>ACCD452C-167D-4F04-A496-755F5523D582</p>
+</div>
+<div class="papername">
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:10</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_ng2</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdetailedsubtraction
+</span>
+</li>
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdecimal
+</span>
+</li>
+</ul>
+</div>
+
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Find the value of $89.1 - 36.55$
+
+- $52.45$
+- $53.55$
+- $53.45$
+- $52.65$
+- $52.55$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Find the value of &#36;89.1 - 36.55&#36;
+
+- &#36;52.45&#36;
+- &#36;53.55&#36;
+- &#36;53.45&#36;
+- &#36;52.65&#36;
+- &#36;52.55&#36;
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+- ABBR: Remember to line up the decimal points.
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 8 & {}^{\subtractBorrow{8}} \cancel{9} \ . & {}^{\subtractBorrow{10}} \cancel{1} & {}^{\subtractBorrow{1}} 0 \\
+{}-       &3   &    6 \ .    &    5     &    5 \\
+\hline
+          &5   &    2 \ .    &    5     &    5
+\end{array}
+$
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 8 & 9 \ . & 1 & 0 \\
+{}-       &3   &    6 \ .    &    5     &    5 \\
+\hline
+          &5   &    2 \ .    &    5     &    5
+\end{array}
+$
+
+</div>
+</div>
+</div>
+</div>
+<div class="answers">
+<div class="option" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Option**
+
+<p>E</p>
+</div>
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$52.55$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">- rtq_abbr_note_md_decimal_point_alignment
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 8 & {}^{\subtractBorrow{8}} \cancel{9} \ . & {}^{\subtractBorrow{10}} \cancel{1} & {}^{\subtractBorrow{1}} 0 \\
+{}-       &3   &    6 \ .    &    5     &    5 \\
+\hline
+          &5   &    2 \ .    &    5     &    5
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 8 & 9 \ . & 1 & 0 \\
+{}-       &3   &    6 \ .    &    5     &    5 \\
+\hline
+          &5   &    2 \ .    &    5     &    5
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">E</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;52.55&#36;
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="ACCD452C-167D-4F04-A496-755F5523D582" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="ACCD452C-167D-4F04-A496-755F5523D582" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="ACCD452C-167D-4F04-A496-755F5523D582" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="ACCD452C-167D-4F04-A496-755F5523D582" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="ACCD452C-167D-4F04-A496-755F5523D582" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="ACCD452C-167D-4F04-A496-755F5523D582" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="ACCD452C-167D-4F04-A496-755F5523D582" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="ACCD452C-167D-4F04-A496-755F5523D582" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="ACCD452C-167D-4F04-A496-755F5523D582" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="ACCD452C-167D-4F04-A496-755F5523D582" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="ACCD452C-167D-4F04-A496-755F5523D582" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="ACCD452C-167D-4F04-A496-755F5523D582" id="FORM-ACCD452C-167D-4F04-A496-755F5523D582" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-ACCD452C-167D-4F04-A496-755F5523D582">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_ng2 rag_prns question">
+<div class="uuid">
+<p>371066A6-48F2-418D-82E0-9551FDF91DD2</p>
+</div>
+<div class="papername">
+<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:1:2</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_ng2</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdetailedsubtraction
+</span>
+</li>
+</ul>
+</div>
+
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Work out $1741 - 968$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Work out &#36;1741 - 968&#36;
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{0}} \cancel{1} & {}^{\subtractBorrow{16}} \cancel{7} & {}^{\subtractBorrow{13}} \cancel{4} & {}^{\subtractBorrow{1}} 1 \\
+{}-   &     &     9     &     6     &     8 \\
+\hline
+&           &     7     &     7     &     3
+\end{array}
+$
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 1 & 7 & 4 & 1 \\
+{}-   &     &     9     &     6     &     8 \\
+\hline
+&           &     7     &     7     &     3
+\end{array}
+$
+
+</div>
+</div>
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$773$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{0}} \cancel{1} & {}^{\subtractBorrow{16}} \cancel{7} & {}^{\subtractBorrow{13}} \cancel{4} & {}^{\subtractBorrow{1}} 1 \\
+{}-   &     &     9     &     6     &     8 \\
+\hline
+&           &     7     &     7     &     3
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 1 & 7 & 4 & 1 \\
+{}-   &     &     9     &     6     &     8 \\
+\hline
+&           &     7     &     7     &     3
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;773&#36;
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="371066A6-48F2-418D-82E0-9551FDF91DD2" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="371066A6-48F2-418D-82E0-9551FDF91DD2" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="371066A6-48F2-418D-82E0-9551FDF91DD2" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="371066A6-48F2-418D-82E0-9551FDF91DD2" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="371066A6-48F2-418D-82E0-9551FDF91DD2" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="371066A6-48F2-418D-82E0-9551FDF91DD2" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="371066A6-48F2-418D-82E0-9551FDF91DD2" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="371066A6-48F2-418D-82E0-9551FDF91DD2" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="371066A6-48F2-418D-82E0-9551FDF91DD2" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="371066A6-48F2-418D-82E0-9551FDF91DD2" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="371066A6-48F2-418D-82E0-9551FDF91DD2" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="371066A6-48F2-418D-82E0-9551FDF91DD2" id="FORM-371066A6-48F2-418D-82E0-9551FDF91DD2" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-371066A6-48F2-418D-82E0-9551FDF91DD2">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_ng2 rag_prns question">
+<div class="uuid">
+<p>C76363AC-903D-4F73-A4FB-D5858E88C0B9</p>
+</div>
+<div class="papername">
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:1:2</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_ng2</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdetailedsubtraction
+</span>
+</li>
+</ul>
+</div>
+
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Subtract: $82 - 33$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Subtract: &#36;82 - 33&#36;
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{7}} \cancel{8} & {}^{\subtractBorrow{1}} 2 \\
+{}- &   3   &   3 \\
+\hline
+    &   4   &   9
+\end{array}
+$
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 8 & 2 \\
+{}- &   3   &   3 \\
+\hline
+    &   4   &   9
+\end{array}
+$
+
+</div>
+</div>
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$49$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{7}} \cancel{8} & {}^{\subtractBorrow{1}} 2 \\
+{}- &   3   &   3 \\
+\hline
+    &   4   &   9
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 8 & 2 \\
+{}- &   3   &   3 \\
+\hline
+    &   4   &   9
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;49&#36;
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C76363AC-903D-4F73-A4FB-D5858E88C0B9" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C76363AC-903D-4F73-A4FB-D5858E88C0B9" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C76363AC-903D-4F73-A4FB-D5858E88C0B9" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C76363AC-903D-4F73-A4FB-D5858E88C0B9" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C76363AC-903D-4F73-A4FB-D5858E88C0B9" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C76363AC-903D-4F73-A4FB-D5858E88C0B9" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C76363AC-903D-4F73-A4FB-D5858E88C0B9" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C76363AC-903D-4F73-A4FB-D5858E88C0B9" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C76363AC-903D-4F73-A4FB-D5858E88C0B9" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C76363AC-903D-4F73-A4FB-D5858E88C0B9" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="C76363AC-903D-4F73-A4FB-D5858E88C0B9" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C76363AC-903D-4F73-A4FB-D5858E88C0B9" id="FORM-C76363AC-903D-4F73-A4FB-D5858E88C0B9" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-C76363AC-903D-4F73-A4FB-D5858E88C0B9">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_ng2 rag_prns question">
+<div class="uuid">
+<p>C4C60B61-6B0A-42E3-8F2F-A768DE8FAEAB</p>
+</div>
+<div class="papername">
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:1:2</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_ng2</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdetailedsubtraction
+</span>
+</li>
+</ul>
+</div>
+
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Subtract: $72 - 38$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Subtract: &#36;72 - 38&#36;
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{6}} \cancel{7} & {}^{\subtractBorrow{1}} 2 \\
+{}- &   3   &   8 \\
+\hline
+    &   3   &   4
+\end{array}
+$
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 7 & 2 \\
+{}- &   3   &   8 \\
+\hline
+    &   3   &   4
+\end{array}
+$
+
+</div>
+</div>
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$34$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{6}} \cancel{7} & {}^{\subtractBorrow{1}} 2 \\
+{}- &   3   &   8 \\
+\hline
+    &   3   &   4
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 7 & 2 \\
+{}- &   3   &   8 \\
+\hline
+    &   3   &   4
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;34&#36;
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C4C60B61-6B0A-42E3-8F2F-A768DE8FAEAB" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C4C60B61-6B0A-42E3-8F2F-A768DE8FAEAB" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C4C60B61-6B0A-42E3-8F2F-A768DE8FAEAB" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C4C60B61-6B0A-42E3-8F2F-A768DE8FAEAB" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C4C60B61-6B0A-42E3-8F2F-A768DE8FAEAB" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C4C60B61-6B0A-42E3-8F2F-A768DE8FAEAB" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C4C60B61-6B0A-42E3-8F2F-A768DE8FAEAB" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C4C60B61-6B0A-42E3-8F2F-A768DE8FAEAB" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C4C60B61-6B0A-42E3-8F2F-A768DE8FAEAB" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C4C60B61-6B0A-42E3-8F2F-A768DE8FAEAB" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="C4C60B61-6B0A-42E3-8F2F-A768DE8FAEAB" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C4C60B61-6B0A-42E3-8F2F-A768DE8FAEAB" id="FORM-C4C60B61-6B0A-42E3-8F2F-A768DE8FAEAB" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-C4C60B61-6B0A-42E3-8F2F-A768DE8FAEAB">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_ng2 rag_prns question">
+<div class="uuid">
+<p>CEA1032C-0FBA-4008-BC09-26A366EBB6D8</p>
+</div>
+<div class="papername">
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3:1:2</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_ng2</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdetailedsubtraction
+</span>
+</li>
+</ul>
+</div>
+
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Subtract: $91 - 25$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Subtract: &#36;91 - 25&#36;
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{8}} \cancel{9} & {}^{\subtractBorrow{1}} 1 \\
+{}- &   2   &   5 \\
+\hline
+    &   6   &   6
+\end{array}
+$
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 9 & 1 \\
+{}- &   2   &   5 \\
+\hline
+    &   6   &   6
+\end{array}
+$
+
+</div>
+</div>
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$66$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{8}} \cancel{9} & {}^{\subtractBorrow{1}} 1 \\
+{}- &   2   &   5 \\
+\hline
+    &   6   &   6
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 9 & 1 \\
+{}- &   2   &   5 \\
+\hline
+    &   6   &   6
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;66&#36;
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="CEA1032C-0FBA-4008-BC09-26A366EBB6D8" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="CEA1032C-0FBA-4008-BC09-26A366EBB6D8" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="CEA1032C-0FBA-4008-BC09-26A366EBB6D8" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="CEA1032C-0FBA-4008-BC09-26A366EBB6D8" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="CEA1032C-0FBA-4008-BC09-26A366EBB6D8" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="CEA1032C-0FBA-4008-BC09-26A366EBB6D8" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="CEA1032C-0FBA-4008-BC09-26A366EBB6D8" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="CEA1032C-0FBA-4008-BC09-26A366EBB6D8" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="CEA1032C-0FBA-4008-BC09-26A366EBB6D8" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="CEA1032C-0FBA-4008-BC09-26A366EBB6D8" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="CEA1032C-0FBA-4008-BC09-26A366EBB6D8" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="CEA1032C-0FBA-4008-BC09-26A366EBB6D8" id="FORM-CEA1032C-0FBA-4008-BC09-26A366EBB6D8" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-CEA1032C-0FBA-4008-BC09-26A366EBB6D8">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_ng2 rag_prns question">
+<div class="uuid">
+<p>3DD7A07E-7892-444B-8438-53D2F385130E</p>
+</div>
+<div class="papername">
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:1:2</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_ng2</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdetailedsubtraction
+</span>
+</li>
+</ul>
+</div>
+
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Subtract: $75 - 54$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Subtract: &#36;75 - 54&#36;
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+$
+\begin{array}{cccccccccccccc}
+    &   7   &   5 \\
+{}- &   5   &   4 \\
+\hline
+    &   2   &   1
+\end{array}
+$
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$21$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;
+\begin{array}{cccccccccccccc}
+    &   7   &   5 \\
+{}- &   5   &   4 \\
+\hline
+    &   2   &   1
+\end{array}
+&#36;
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;21&#36;
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="3DD7A07E-7892-444B-8438-53D2F385130E" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="3DD7A07E-7892-444B-8438-53D2F385130E" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="3DD7A07E-7892-444B-8438-53D2F385130E" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="3DD7A07E-7892-444B-8438-53D2F385130E" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="3DD7A07E-7892-444B-8438-53D2F385130E" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="3DD7A07E-7892-444B-8438-53D2F385130E" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="3DD7A07E-7892-444B-8438-53D2F385130E" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="3DD7A07E-7892-444B-8438-53D2F385130E" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="3DD7A07E-7892-444B-8438-53D2F385130E" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="3DD7A07E-7892-444B-8438-53D2F385130E" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="3DD7A07E-7892-444B-8438-53D2F385130E" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="3DD7A07E-7892-444B-8438-53D2F385130E" id="FORM-3DD7A07E-7892-444B-8438-53D2F385130E" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-3DD7A07E-7892-444B-8438-53D2F385130E">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_ng2 rag_prns question">
+<div class="uuid">
+<p>922FBC24-0E68-4CEB-9A30-4049190D32C2</p>
+</div>
+<div class="papername">
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:1:2</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_ng2</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdetailedsubtraction
+</span>
+</li>
+</ul>
+</div>
+
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Subtract: $92 - 67$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Subtract: &#36;92 - 67&#36;
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{8}} \cancel{9} & {}^{\subtractBorrow{1}} 2 \\
+{}- &   6   &   7 \\
+\hline
+    &   2   &   5
+\end{array}
+$
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 9 & 2 \\
+{}- &   6   &   7 \\
+\hline
+    &   2   &   5
+\end{array}
+$
+
+</div>
+</div>
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$25$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{8}} \cancel{9} & {}^{\subtractBorrow{1}} 2 \\
+{}- &   6   &   7 \\
+\hline
+    &   2   &   5
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 9 & 2 \\
+{}- &   6   &   7 \\
+\hline
+    &   2   &   5
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;25&#36;
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="922FBC24-0E68-4CEB-9A30-4049190D32C2" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="922FBC24-0E68-4CEB-9A30-4049190D32C2" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="922FBC24-0E68-4CEB-9A30-4049190D32C2" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="922FBC24-0E68-4CEB-9A30-4049190D32C2" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="922FBC24-0E68-4CEB-9A30-4049190D32C2" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="922FBC24-0E68-4CEB-9A30-4049190D32C2" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="922FBC24-0E68-4CEB-9A30-4049190D32C2" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="922FBC24-0E68-4CEB-9A30-4049190D32C2" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="922FBC24-0E68-4CEB-9A30-4049190D32C2" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="922FBC24-0E68-4CEB-9A30-4049190D32C2" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="922FBC24-0E68-4CEB-9A30-4049190D32C2" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="922FBC24-0E68-4CEB-9A30-4049190D32C2" id="FORM-922FBC24-0E68-4CEB-9A30-4049190D32C2" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-922FBC24-0E68-4CEB-9A30-4049190D32C2">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_ng2 rag_prns question">
+<div class="uuid">
+<p>2B100666-FB56-49E4-A2A4-F8219DF4F7B2</p>
+</div>
+<div class="papername">
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:1:2</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_ng2</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdetailedsubtraction
+</span>
+</li>
+</ul>
+</div>
+
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Subtract: $81 - 49$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Subtract: &#36;81 - 49&#36;
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{7}} \cancel{8} & {}^{\subtractBorrow{1}} 1 \\
+    {}- & 4 & 9 \\
+    \hline
+        & 3 & 2
+\end{array}
+$
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 8 & 1 \\
+    {}- & 4 & 9 \\
+    \hline
+        & 3 & 2
+\end{array}
+$
+
+</div>
+</div>
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$32$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{7}} \cancel{8} & {}^{\subtractBorrow{1}} 1 \\
+    {}- & 4 & 9 \\
+    \hline
+        & 3 & 2
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 8 & 1 \\
+    {}- & 4 & 9 \\
+    \hline
+        & 3 & 2
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;32&#36;
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="2B100666-FB56-49E4-A2A4-F8219DF4F7B2" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="2B100666-FB56-49E4-A2A4-F8219DF4F7B2" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="2B100666-FB56-49E4-A2A4-F8219DF4F7B2" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="2B100666-FB56-49E4-A2A4-F8219DF4F7B2" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="2B100666-FB56-49E4-A2A4-F8219DF4F7B2" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="2B100666-FB56-49E4-A2A4-F8219DF4F7B2" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="2B100666-FB56-49E4-A2A4-F8219DF4F7B2" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="2B100666-FB56-49E4-A2A4-F8219DF4F7B2" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="2B100666-FB56-49E4-A2A4-F8219DF4F7B2" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="2B100666-FB56-49E4-A2A4-F8219DF4F7B2" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="2B100666-FB56-49E4-A2A4-F8219DF4F7B2" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="2B100666-FB56-49E4-A2A4-F8219DF4F7B2" id="FORM-2B100666-FB56-49E4-A2A4-F8219DF4F7B2" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-2B100666-FB56-49E4-A2A4-F8219DF4F7B2">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_ng2 rag_prns question">
+<div class="uuid">
+<p>50B30156-63C8-49A9-97C6-D01196A751BF</p>
+</div>
+<div class="papername">
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:1:2</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_ng2</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdetailedsubtraction
+</span>
+</li>
+</ul>
+</div>
+
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Subtract: $53 - 14$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Subtract: &#36;53 - 14&#36;
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{4}} \cancel{5} & {}^{\subtractBorrow{1}} 3 \\
+    {}- & 1 & 4 \\
+    \hline
+        & 3 & 9
+\end{array}
+$
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 5 & 3 \\
+    {}- & 1 & 4 \\
+    \hline
+        & 3 & 9
+\end{array}
+$
+
+</div>
+</div>
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$39$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{4}} \cancel{5} & {}^{\subtractBorrow{1}} 3 \\
+    {}- & 1 & 4 \\
+    \hline
+        & 3 & 9
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 5 & 3 \\
+    {}- & 1 & 4 \\
+    \hline
+        & 3 & 9
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;39&#36;
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="50B30156-63C8-49A9-97C6-D01196A751BF" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="50B30156-63C8-49A9-97C6-D01196A751BF" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="50B30156-63C8-49A9-97C6-D01196A751BF" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="50B30156-63C8-49A9-97C6-D01196A751BF" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="50B30156-63C8-49A9-97C6-D01196A751BF" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="50B30156-63C8-49A9-97C6-D01196A751BF" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="50B30156-63C8-49A9-97C6-D01196A751BF" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="50B30156-63C8-49A9-97C6-D01196A751BF" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="50B30156-63C8-49A9-97C6-D01196A751BF" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="50B30156-63C8-49A9-97C6-D01196A751BF" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="50B30156-63C8-49A9-97C6-D01196A751BF" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="50B30156-63C8-49A9-97C6-D01196A751BF" id="FORM-50B30156-63C8-49A9-97C6-D01196A751BF" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-50B30156-63C8-49A9-97C6-D01196A751BF">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_ng2 rag_prns question">
+<div class="uuid">
+<p>1A5EEBE6-577D-4F6B-8436-3FFFCE4B5331</p>
+</div>
+<div class="papername">
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:1:2</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_ng2</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdetailedsubtraction
+</span>
+</li>
+</ul>
+</div>
+
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Subtract: $96 - 47$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Subtract: &#36;96 - 47&#36;
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{8}} \cancel{9} & {}^{\subtractBorrow{1}} 6 \\
+    {}- & 4 & 7 \\
+    \hline
+        & 4 & 9
+\end{array}
+$
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 9 & 6 \\
+    {}- & 4 & 7 \\
+    \hline
+        & 4 & 9
+\end{array}
+$
+
+</div>
+</div>
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$49$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{8}} \cancel{9} & {}^{\subtractBorrow{1}} 6 \\
+    {}- & 4 & 7 \\
+    \hline
+        & 4 & 9
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 9 & 6 \\
+    {}- & 4 & 7 \\
+    \hline
+        & 4 & 9
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;49&#36;
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="1A5EEBE6-577D-4F6B-8436-3FFFCE4B5331" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="1A5EEBE6-577D-4F6B-8436-3FFFCE4B5331" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="1A5EEBE6-577D-4F6B-8436-3FFFCE4B5331" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="1A5EEBE6-577D-4F6B-8436-3FFFCE4B5331" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="1A5EEBE6-577D-4F6B-8436-3FFFCE4B5331" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="1A5EEBE6-577D-4F6B-8436-3FFFCE4B5331" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="1A5EEBE6-577D-4F6B-8436-3FFFCE4B5331" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="1A5EEBE6-577D-4F6B-8436-3FFFCE4B5331" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="1A5EEBE6-577D-4F6B-8436-3FFFCE4B5331" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="1A5EEBE6-577D-4F6B-8436-3FFFCE4B5331" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="1A5EEBE6-577D-4F6B-8436-3FFFCE4B5331" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="1A5EEBE6-577D-4F6B-8436-3FFFCE4B5331" id="FORM-1A5EEBE6-577D-4F6B-8436-3FFFCE4B5331" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-1A5EEBE6-577D-4F6B-8436-3FFFCE4B5331">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_ng2 rag_prns question">
+<div class="uuid">
+<p>F46BD077-5724-4B71-BA48-162435F7D628</p>
+</div>
+<div class="papername">
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:1:2</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_ng2</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdetailedsubtraction
+</span>
+</li>
+</ul>
+</div>
+
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+$7004 - 358$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;7004 - 358&#36;
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{6}} \cancel{7} & {}^{\subtractBorrow{9}} \cancel{0} & {}^{\subtractBorrow{9}} \cancel{0} & {}^{\subtractBorrow{1}} 4 \\
+{}-    &        &    3    &    5    &    8 \\
+\hline
+    &    6    &    6    &    4    &    6
+\end{array}
+$
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 7 & 0 & 0 & 4 \\
+{}-    &        &    3    &    5    &    8 \\
+\hline
+    &    6    &    6    &    4    &    6
+\end{array}
+$
+
+</div>
+</div>
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$6646$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{6}} \cancel{7} & {}^{\subtractBorrow{9}} \cancel{0} & {}^{\subtractBorrow{9}} \cancel{0} & {}^{\subtractBorrow{1}} 4 \\
+{}-    &        &    3    &    5    &    8 \\
+\hline
+    &    6    &    6    &    4    &    6
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 7 & 0 & 0 & 4 \\
+{}-    &        &    3    &    5    &    8 \\
+\hline
+    &    6    &    6    &    4    &    6
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;6646&#36;
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F46BD077-5724-4B71-BA48-162435F7D628" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F46BD077-5724-4B71-BA48-162435F7D628" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F46BD077-5724-4B71-BA48-162435F7D628" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F46BD077-5724-4B71-BA48-162435F7D628" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F46BD077-5724-4B71-BA48-162435F7D628" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F46BD077-5724-4B71-BA48-162435F7D628" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F46BD077-5724-4B71-BA48-162435F7D628" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F46BD077-5724-4B71-BA48-162435F7D628" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F46BD077-5724-4B71-BA48-162435F7D628" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F46BD077-5724-4B71-BA48-162435F7D628" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="F46BD077-5724-4B71-BA48-162435F7D628" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F46BD077-5724-4B71-BA48-162435F7D628" id="FORM-F46BD077-5724-4B71-BA48-162435F7D628" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-F46BD077-5724-4B71-BA48-162435F7D628">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_ng2 rag_prns question">
+<div class="uuid">
+<p>AE182AEF-A433-4C74-A98A-5E3325141BC5</p>
+</div>
+<div class="papername">
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:1:2</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_ng2</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdetailedsubtraction
+</span>
+</li>
+</ul>
+</div>
+
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+$
+\begin{array}{cccccccccccccc}
+    &   2   &   6   &   0   &   5 \\
+{}- &       &   8   &   3   &   2 \\
+\hline\\
+\hline
+\end{array}
+$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;
+\begin{array}{cccccccccccccc}
+    &   2   &   6   &   0   &   5 \\
+{}- &       &   8   &   3   &   2 \\
+\hline\\
+\hline
+\end{array}
+&#36;
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{1}} \cancel{2} & {}^{\subtractBorrow{15}} \cancel{6} & {}^{\subtractBorrow{1}} 0 & 5 \\
+{}- &       &   8   &   3   &   2 \\
+\hline
+    &   1   &   7   &   7   &   3 \\
+\end{array}
+$
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 2 & 6 & 0 & 5 \\
+{}- &       &   8   &   3   &   2 \\
+\hline
+    &   1   &   7   &   7   &   3 \\
+\end{array}
+$
+
+</div>
+</div>
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$1773$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{1}} \cancel{2} & {}^{\subtractBorrow{15}} \cancel{6} & {}^{\subtractBorrow{1}} 0 & 5 \\
+{}- &       &   8   &   3   &   2 \\
+\hline
+    &   1   &   7   &   7   &   3 \\
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 2 & 6 & 0 & 5 \\
+{}- &       &   8   &   3   &   2 \\
+\hline
+    &   1   &   7   &   7   &   3 \\
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;1773&#36;
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="AE182AEF-A433-4C74-A98A-5E3325141BC5" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="AE182AEF-A433-4C74-A98A-5E3325141BC5" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="AE182AEF-A433-4C74-A98A-5E3325141BC5" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="AE182AEF-A433-4C74-A98A-5E3325141BC5" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="AE182AEF-A433-4C74-A98A-5E3325141BC5" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="AE182AEF-A433-4C74-A98A-5E3325141BC5" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="AE182AEF-A433-4C74-A98A-5E3325141BC5" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="AE182AEF-A433-4C74-A98A-5E3325141BC5" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="AE182AEF-A433-4C74-A98A-5E3325141BC5" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="AE182AEF-A433-4C74-A98A-5E3325141BC5" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="AE182AEF-A433-4C74-A98A-5E3325141BC5" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="AE182AEF-A433-4C74-A98A-5E3325141BC5" id="FORM-AE182AEF-A433-4C74-A98A-5E3325141BC5" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-AE182AEF-A433-4C74-A98A-5E3325141BC5">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_ng2 rag_prns question">
+<div class="uuid">
+<p>C9507576-474D-45B6-9AB2-BE8AEB0DA8CE</p>
+</div>
+<div class="papername">
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:1:2</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_ng2</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdetailedsubtraction
+</span>
+</li>
+</ul>
+</div>
+
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+$
+\begin{array}{cccccccccccccc}
+    &   7   &   6   &   0   &   8 \\
+{}- &       &   4   &   9   &   5 \\
+\hline\\
+\hline
+\end{array}
+$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;
+\begin{array}{cccccccccccccc}
+    &   7   &   6   &   0   &   8 \\
+{}- &       &   4   &   9   &   5 \\
+\hline\\
+\hline
+\end{array}
+&#36;
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 7 & {}^{\subtractBorrow{5}} \cancel{6} & {}^{\subtractBorrow{1}} 0 & 8 \\
+{}- &       &   4   &   9   &   5 \\
+\hline
+    &   7   &   1   &   1   &   3 \\
+\end{array}
+$
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 7 & 6 & 0 & 8 \\
+{}- &       &   4   &   9   &   5 \\
+\hline
+    &   7   &   1   &   1   &   3 \\
+\end{array}
+$
+
+</div>
+</div>
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$7113$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 7 & {}^{\subtractBorrow{5}} \cancel{6} & {}^{\subtractBorrow{1}} 0 & 8 \\
+{}- &       &   4   &   9   &   5 \\
+\hline
+    &   7   &   1   &   1   &   3 \\
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 7 & 6 & 0 & 8 \\
+{}- &       &   4   &   9   &   5 \\
+\hline
+    &   7   &   1   &   1   &   3 \\
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;7113&#36;
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C9507576-474D-45B6-9AB2-BE8AEB0DA8CE" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C9507576-474D-45B6-9AB2-BE8AEB0DA8CE" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C9507576-474D-45B6-9AB2-BE8AEB0DA8CE" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C9507576-474D-45B6-9AB2-BE8AEB0DA8CE" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C9507576-474D-45B6-9AB2-BE8AEB0DA8CE" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C9507576-474D-45B6-9AB2-BE8AEB0DA8CE" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C9507576-474D-45B6-9AB2-BE8AEB0DA8CE" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C9507576-474D-45B6-9AB2-BE8AEB0DA8CE" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C9507576-474D-45B6-9AB2-BE8AEB0DA8CE" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C9507576-474D-45B6-9AB2-BE8AEB0DA8CE" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="C9507576-474D-45B6-9AB2-BE8AEB0DA8CE" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C9507576-474D-45B6-9AB2-BE8AEB0DA8CE" id="FORM-C9507576-474D-45B6-9AB2-BE8AEB0DA8CE" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-C9507576-474D-45B6-9AB2-BE8AEB0DA8CE">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_ng2 rag_prns question">
+<div class="uuid">
+<p>FF7A0514-3250-4D1B-A9AC-ED6F5A811E07</p>
+</div>
+<div class="papername">
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:1:2</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_ng2</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdetailedsubtraction
+</span>
+</li>
+</ul>
+</div>
+
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+$
+\begin{array}{cccccccccccccc}
+    &    3    &    6    &    1    &    7 \\
+{}-        &    &    9    &    0    &    8 \\
+\hline \\
+\hline
+\end{array}
+$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;
+\begin{array}{cccccccccccccc}
+    &    3    &    6    &    1    &    7 \\
+{}-        &    &    9    &    0    &    8 \\
+\hline \\
+\hline
+\end{array}
+&#36;
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{2}} \cancel{3} & {}^{\subtractBorrow{1}} 6 & {}^{\subtractBorrow{0}} \cancel{1} & {}^{\subtractBorrow{1}} 7 \\
+{}-   &         &    9    &    0    &    8 \\
+\hline
+      &    2    &   7     &    0    &    9 \\
+\end{array}
+$
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 3 & 6 & 1 & 7 \\
+{}-   &         &    9    &    0    &    8 \\
+\hline
+      &    2    &   7     &    0    &    9 \\
+\end{array}
+$
+
+</div>
+</div>
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$2709$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{2}} \cancel{3} & {}^{\subtractBorrow{1}} 6 & {}^{\subtractBorrow{0}} \cancel{1} & {}^{\subtractBorrow{1}} 7 \\
+{}-   &         &    9    &    0    &    8 \\
+\hline
+      &    2    &   7     &    0    &    9 \\
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 3 & 6 & 1 & 7 \\
+{}-   &         &    9    &    0    &    8 \\
+\hline
+      &    2    &   7     &    0    &    9 \\
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;2709&#36;
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="FF7A0514-3250-4D1B-A9AC-ED6F5A811E07" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="FF7A0514-3250-4D1B-A9AC-ED6F5A811E07" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="FF7A0514-3250-4D1B-A9AC-ED6F5A811E07" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="FF7A0514-3250-4D1B-A9AC-ED6F5A811E07" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="FF7A0514-3250-4D1B-A9AC-ED6F5A811E07" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="FF7A0514-3250-4D1B-A9AC-ED6F5A811E07" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="FF7A0514-3250-4D1B-A9AC-ED6F5A811E07" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="FF7A0514-3250-4D1B-A9AC-ED6F5A811E07" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="FF7A0514-3250-4D1B-A9AC-ED6F5A811E07" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="FF7A0514-3250-4D1B-A9AC-ED6F5A811E07" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="FF7A0514-3250-4D1B-A9AC-ED6F5A811E07" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="FF7A0514-3250-4D1B-A9AC-ED6F5A811E07" id="FORM-FF7A0514-3250-4D1B-A9AC-ED6F5A811E07" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-FF7A0514-3250-4D1B-A9AC-ED6F5A811E07">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_ng2 rag_prns question">
+<div class="uuid">
+<p>AE0D81DF-B4BE-4C69-9C1C-FAF17F07DFA4</p>
+</div>
+<div class="papername">
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:1:2</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_ng2</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdetailedsubtraction
+</span>
+</li>
+</ul>
+</div>
+
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+$6321 - 576 =$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;6321 - 576 =&#36;
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{5}} \cancel{6} & {}^{\subtractBorrow{12}} \cancel{3} & {}^{\subtractBorrow{11}} \cancel{2} & {}^{\subtractBorrow{1}} 1 \\
+{}-        &    &    5    &    7    &    6 \\
+\hline
+    &    5    &    7    &    4    &    5
+\end{array}
+$
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 6 & 3 & 2 & 1 \\
+{}-        &    &    5    &    7    &    6 \\
+\hline
+    &    5    &    7    &    4    &    5
+\end{array}
+$
+
+</div>
+</div>
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$5745$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{5}} \cancel{6} & {}^{\subtractBorrow{12}} \cancel{3} & {}^{\subtractBorrow{11}} \cancel{2} & {}^{\subtractBorrow{1}} 1 \\
+{}-        &    &    5    &    7    &    6 \\
+\hline
+    &    5    &    7    &    4    &    5
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 6 & 3 & 2 & 1 \\
+{}-        &    &    5    &    7    &    6 \\
+\hline
+    &    5    &    7    &    4    &    5
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;5745&#36;
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="AE0D81DF-B4BE-4C69-9C1C-FAF17F07DFA4" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="AE0D81DF-B4BE-4C69-9C1C-FAF17F07DFA4" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="AE0D81DF-B4BE-4C69-9C1C-FAF17F07DFA4" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="AE0D81DF-B4BE-4C69-9C1C-FAF17F07DFA4" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="AE0D81DF-B4BE-4C69-9C1C-FAF17F07DFA4" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="AE0D81DF-B4BE-4C69-9C1C-FAF17F07DFA4" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="AE0D81DF-B4BE-4C69-9C1C-FAF17F07DFA4" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="AE0D81DF-B4BE-4C69-9C1C-FAF17F07DFA4" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="AE0D81DF-B4BE-4C69-9C1C-FAF17F07DFA4" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="AE0D81DF-B4BE-4C69-9C1C-FAF17F07DFA4" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="AE0D81DF-B4BE-4C69-9C1C-FAF17F07DFA4" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="AE0D81DF-B4BE-4C69-9C1C-FAF17F07DFA4" id="FORM-AE0D81DF-B4BE-4C69-9C1C-FAF17F07DFA4" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-AE0D81DF-B4BE-4C69-9C1C-FAF17F07DFA4">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_ng2 rag_prns question">
+<div class="uuid">
+<p>C3B97E97-CC57-46AE-8302-9C492B125896</p>
+</div>
+<div class="papername">
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:2</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_ng2</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdetailedsubtraction
+</span>
+</li>
+</ul>
+</div>
+
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Subtract $248$ from $2396$.
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Subtract &#36;248&#36; from &#36;2396&#36;.
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 2 & 3 & {}^{\subtractBorrow{8}} \cancel{9} & {}^{\subtractBorrow{1}} 6 \\
+{}- &       &   2   &   4   &   8 \\
+\hline
+    &   2   &   1   &   4   &   8 \\
+\end{array}
+$
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 2 & 3 & 9 & 6 \\
+{}- &       &   2   &   4   &   8 \\
+\hline
+    &   2   &   1   &   4   &   8 \\
+\end{array}
+$
+
+</div>
+</div>
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$2148$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 2 & 3 & {}^{\subtractBorrow{8}} \cancel{9} & {}^{\subtractBorrow{1}} 6 \\
+{}- &       &   2   &   4   &   8 \\
+\hline
+    &   2   &   1   &   4   &   8 \\
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 2 & 3 & 9 & 6 \\
+{}- &       &   2   &   4   &   8 \\
+\hline
+    &   2   &   1   &   4   &   8 \\
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;2148&#36;
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C3B97E97-CC57-46AE-8302-9C492B125896" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C3B97E97-CC57-46AE-8302-9C492B125896" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C3B97E97-CC57-46AE-8302-9C492B125896" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C3B97E97-CC57-46AE-8302-9C492B125896" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C3B97E97-CC57-46AE-8302-9C492B125896" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C3B97E97-CC57-46AE-8302-9C492B125896" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C3B97E97-CC57-46AE-8302-9C492B125896" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C3B97E97-CC57-46AE-8302-9C492B125896" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C3B97E97-CC57-46AE-8302-9C492B125896" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C3B97E97-CC57-46AE-8302-9C492B125896" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="C3B97E97-CC57-46AE-8302-9C492B125896" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="C3B97E97-CC57-46AE-8302-9C492B125896" id="FORM-C3B97E97-CC57-46AE-8302-9C492B125896" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-C3B97E97-CC57-46AE-8302-9C492B125896">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_ng2 rag_prns question">
+<div class="uuid">
+<p>A750C241-48C7-4C08-BD12-8DD6F69FB939</p>
+</div>
+<div class="papername">
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:1:5</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_ng2</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdetailedsubtraction
+</span>
+</li>
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdecimal
+</span>
+</li>
+</ul>
+</div>
+
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Calculate $2.7 - 0.47$.
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Calculate &#36;2.7 - 0.47&#36;.
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+- ABBR: Remember to line up the decimal points.
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 2 \ . & {}^{\subtractBorrow{6}} \cancel{7} & {}^{\subtractBorrow{1}} 0 \\
+{}- &   0 \ .   &   4   &   7 \\
+\hline
+    &   2 \ .   &   2   &   3
+\end{array}
+$
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 2 \ . & 7 & 0 \\
+{}- &   0 \ .   &   4   &   7 \\
+\hline
+    &   2 \ .   &   2   &   3
+\end{array}
+$
+
+</div>
+</div>
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$2.23$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">- rtq_abbr_note_md_decimal_point_alignment
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 2 \ . & {}^{\subtractBorrow{6}} \cancel{7} & {}^{\subtractBorrow{1}} 0 \\
+{}- &   0 \ .   &   4   &   7 \\
+\hline
+    &   2 \ .   &   2   &   3
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 2 \ . & 7 & 0 \\
+{}- &   0 \ .   &   4   &   7 \\
+\hline
+    &   2 \ .   &   2   &   3
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;2.23&#36;
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A750C241-48C7-4C08-BD12-8DD6F69FB939" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A750C241-48C7-4C08-BD12-8DD6F69FB939" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A750C241-48C7-4C08-BD12-8DD6F69FB939" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A750C241-48C7-4C08-BD12-8DD6F69FB939" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A750C241-48C7-4C08-BD12-8DD6F69FB939" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A750C241-48C7-4C08-BD12-8DD6F69FB939" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A750C241-48C7-4C08-BD12-8DD6F69FB939" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A750C241-48C7-4C08-BD12-8DD6F69FB939" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A750C241-48C7-4C08-BD12-8DD6F69FB939" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A750C241-48C7-4C08-BD12-8DD6F69FB939" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="A750C241-48C7-4C08-BD12-8DD6F69FB939" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A750C241-48C7-4C08-BD12-8DD6F69FB939" id="FORM-A750C241-48C7-4C08-BD12-8DD6F69FB939" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-A750C241-48C7-4C08-BD12-8DD6F69FB939">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_ng2 rag_prns question">
+<div class="uuid">
+<p>2BA9B8DF-A971-4697-A7FF-EFAA12385B1E</p>
+</div>
+<div class="papername">
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:1:2</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_ng2</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdetailedsubtraction
+</span>
+</li>
+</ul>
+</div>
+
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Work out $9135 - 357$.
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Work out &#36;9135 - 357&#36;.
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{8}} \cancel{9} & {}^{\subtractBorrow{10}} \cancel{1} & {}^{\subtractBorrow{1}} 3 & 5 \\
+{}- &               & 3     & 7      & 5  \\
+\hline
+    &       8       & 7     & 6      & 0   \\
+\end{array}
+$
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 9 & 1 & 3 & 5 \\
+{}- &               & 3     & 7      & 5  \\
+\hline
+    &       8       & 7     & 6      & 0   \\
+\end{array}
+$
+
+</div>
+</div>
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$8760$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{8}} \cancel{9} & {}^{\subtractBorrow{10}} \cancel{1} & {}^{\subtractBorrow{1}} 3 & 5 \\
+{}- &               & 3     & 7      & 5  \\
+\hline
+    &       8       & 7     & 6      & 0   \\
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 9 & 1 & 3 & 5 \\
+{}- &               & 3     & 7      & 5  \\
+\hline
+    &       8       & 7     & 6      & 0   \\
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;8760&#36;
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="2BA9B8DF-A971-4697-A7FF-EFAA12385B1E" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="2BA9B8DF-A971-4697-A7FF-EFAA12385B1E" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="2BA9B8DF-A971-4697-A7FF-EFAA12385B1E" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="2BA9B8DF-A971-4697-A7FF-EFAA12385B1E" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="2BA9B8DF-A971-4697-A7FF-EFAA12385B1E" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="2BA9B8DF-A971-4697-A7FF-EFAA12385B1E" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="2BA9B8DF-A971-4697-A7FF-EFAA12385B1E" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="2BA9B8DF-A971-4697-A7FF-EFAA12385B1E" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="2BA9B8DF-A971-4697-A7FF-EFAA12385B1E" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="2BA9B8DF-A971-4697-A7FF-EFAA12385B1E" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="2BA9B8DF-A971-4697-A7FF-EFAA12385B1E" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="2BA9B8DF-A971-4697-A7FF-EFAA12385B1E" id="FORM-2BA9B8DF-A971-4697-A7FF-EFAA12385B1E" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-2BA9B8DF-A971-4697-A7FF-EFAA12385B1E">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_ng2 rag_prns question">
+<div class="uuid">
+<p>216012EB-546B-44EF-A879-DBC7E51CF37C</p>
+</div>
+<div class="papername">
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:1:2</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_ng2</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdetailedsubtraction
+</span>
+</li>
+</ul>
+</div>
+
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Work out $8709 - 637$.
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Work out &#36;8709 - 637&#36;.
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 8 & {}^{\subtractBorrow{6}} \cancel{7} & {}^{\subtractBorrow{1}} 0 & 9 \\
+{}- &       &   6   &   3   &   7 \\
+\hline
+    &   8   &   0   &   7   &   2
+\end{array}
+$
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 8 & 7 & 0 & 9 \\
+{}- &       &   6   &   3   &   7 \\
+\hline
+    &   8   &   0   &   7   &   2
+\end{array}
+$
+
+</div>
+</div>
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$8072$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 8 & {}^{\subtractBorrow{6}} \cancel{7} & {}^{\subtractBorrow{1}} 0 & 9 \\
+{}- &       &   6   &   3   &   7 \\
+\hline
+    &   8   &   0   &   7   &   2
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 8 & 7 & 0 & 9 \\
+{}- &       &   6   &   3   &   7 \\
+\hline
+    &   8   &   0   &   7   &   2
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;8072&#36;
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="216012EB-546B-44EF-A879-DBC7E51CF37C" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="216012EB-546B-44EF-A879-DBC7E51CF37C" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="216012EB-546B-44EF-A879-DBC7E51CF37C" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="216012EB-546B-44EF-A879-DBC7E51CF37C" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="216012EB-546B-44EF-A879-DBC7E51CF37C" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="216012EB-546B-44EF-A879-DBC7E51CF37C" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="216012EB-546B-44EF-A879-DBC7E51CF37C" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="216012EB-546B-44EF-A879-DBC7E51CF37C" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="216012EB-546B-44EF-A879-DBC7E51CF37C" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="216012EB-546B-44EF-A879-DBC7E51CF37C" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="216012EB-546B-44EF-A879-DBC7E51CF37C" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="216012EB-546B-44EF-A879-DBC7E51CF37C" id="FORM-216012EB-546B-44EF-A879-DBC7E51CF37C" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-216012EB-546B-44EF-A879-DBC7E51CF37C">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_ng2 rag_prns question">
+<div class="uuid">
+<p>00EB24CB-2E85-4279-9D85-23E56F0A229B</p>
+</div>
+<div class="papername">
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:1:2</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_ng2</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdetailedsubtraction
+</span>
+</li>
+</ul>
+</div>
+
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Work out $7654 - 4567$.
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Work out &#36;7654 - 4567&#36;.
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 7 & {}^{\subtractBorrow{5}} \cancel{6} & {}^{\subtractBorrow{14}} \cancel{5} & {}^{\subtractBorrow{1}} 4 \\
+{}-            &    4    &    5    &    6    &    7 \\
+\hline
+               &    3    &    0    &    8    &    7
+\end{array}
+$
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 7 & 6 & 5 & 4 \\
+{}-            &    4    &    5    &    6    &    7 \\
+\hline
+               &    3    &    0    &    8    &    7
+\end{array}
+$
+
+</div>
+</div>
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$3087$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 7 & {}^{\subtractBorrow{5}} \cancel{6} & {}^{\subtractBorrow{14}} \cancel{5} & {}^{\subtractBorrow{1}} 4 \\
+{}-            &    4    &    5    &    6    &    7 \\
+\hline
+               &    3    &    0    &    8    &    7
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 7 & 6 & 5 & 4 \\
+{}-            &    4    &    5    &    6    &    7 \\
+\hline
+               &    3    &    0    &    8    &    7
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;3087&#36;
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="00EB24CB-2E85-4279-9D85-23E56F0A229B" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="00EB24CB-2E85-4279-9D85-23E56F0A229B" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="00EB24CB-2E85-4279-9D85-23E56F0A229B" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="00EB24CB-2E85-4279-9D85-23E56F0A229B" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="00EB24CB-2E85-4279-9D85-23E56F0A229B" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="00EB24CB-2E85-4279-9D85-23E56F0A229B" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="00EB24CB-2E85-4279-9D85-23E56F0A229B" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="00EB24CB-2E85-4279-9D85-23E56F0A229B" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="00EB24CB-2E85-4279-9D85-23E56F0A229B" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="00EB24CB-2E85-4279-9D85-23E56F0A229B" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="00EB24CB-2E85-4279-9D85-23E56F0A229B" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="00EB24CB-2E85-4279-9D85-23E56F0A229B" id="FORM-00EB24CB-2E85-4279-9D85-23E56F0A229B" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-00EB24CB-2E85-4279-9D85-23E56F0A229B">Initial</p>
+</div>
+</div>
+</li>
+<li class="questionContainer">
+<div class="question_envelope rag_ng2 rag_prns question">
+<div class="uuid">
+<p>71E46C1E-EB31-4BC0-814D-006D8DCB4F85</p>
+</div>
+<div class="papername">
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:1:2</p>
+</div>
+<div class="rag">
+<p>Waffles Woof</p>
+</div>
+<div class="rag">
+<p>rag_wf_ng2</p>
+</div>
+<div class="rag">
+<p>rag_wf_prns</p>
+</div>
+<div class="topics" style="display: flex; justify-content: flex-start; margin: 0.85rem 0 1rem;">
+<ul style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 0.55rem; margin: 0; padding: 0; list-style: none;">
+<li style="margin: 0; padding: 0;">
+<span style="display: inline-flex; align-items: center; border: 1px solid #9f1239; border-radius: 999px; background: #fce7f3; color: #881337; padding: 0.38rem 1rem; font-size: 1.2rem; font-weight: 800; letter-spacing: 0.02em;">
+tdetailedsubtraction
+</span>
+</li>
+</ul>
+</div>
+
+<div class="question" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Question**
+
+Work out $3456 - 789$
+
+</div>
+<div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="questioncodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Work out &#36;3456 - 789&#36;
+</code></pre>
+</div>
+<div class="workings">
+<div class="tips placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Tips**
+
+<div class="tip">
+%empty%
+</div>
+</div>
+<div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Formulas**
+
+<div class="formula">
+%empty%
+</div>
+</div>
+<div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Working**
+
+<div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{2}} \cancel{3} & {}^{\subtractBorrow{13}} \cancel{4} & {}^{\subtractBorrow{14}} \cancel{5} & {}^{\subtractBorrow{1}} 6 \\
+{}- &       &   7   &   8   &   9 \\
+\hline
+    &   2   &   6   &   6   &   7
+\end{array}
+$
+
+</div>
+</div>
+
+<div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
+<div class="paper-working-section-body">
+
+$
+\begin{array}{cccccccccccccc}
+    & 3 & 4 & 5 & 6 \\
+{}- &       &   7   &   8   &   9 \\
+\hline
+    &   2   &   6   &   6   &   7
+\end{array}
+$
+
+</div>
+</div>
+</div>
+</div>
+<div class="answers">
+<div class="answer" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+
+**Answer**
+
+$2667$
+
+</div>
+</div>
+<div class="workingscodeblock">
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="formulacodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%
+</code></pre>
+</div>
+<div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="workingcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & {}^{\subtractBorrow{2}} \cancel{3} & {}^{\subtractBorrow{13}} \cancel{4} & {}^{\subtractBorrow{14}} \cancel{5} & {}^{\subtractBorrow{1}} 6 \\
+{}- &       &   7   &   8   &   9 \\
+\hline
+    &   2   &   6   &   6   &   7
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+
+&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+
+&#36;
+\begin{array}{cccccccccccccc}
+    & 3 & 4 & 5 & 6 \\
+{}- &       &   7   &   8   &   9 \\
+\hline
+    &   2   &   6   &   6   &   7
+\end{array}
+&#36;
+
+&lt;/WorkingSection&gt;
+</code></pre>
+</div>
+</div>
+<div class="answers">
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Option Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Key Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">%empty%</code></pre>
+</div>
+<div class="answercodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="answercodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Answer Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">&#36;2667&#36;
+</code></pre>
+</div>
+</div>
+
+
+<div class="review">
+<ul class="review">
+<li class="review">
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="71E46C1E-EB31-4BC0-814D-006D8DCB4F85" onclick="submitReview(event)">PRCC</button>
+</li>
+<li class="review">
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="71E46C1E-EB31-4BC0-814D-006D8DCB4F85" onclick="submitReview(event)">PRPCC</button>
+</li>
+<li class="review">
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="71E46C1E-EB31-4BC0-814D-006D8DCB4F85" onclick="submitReview(event)">PRG</button>
+</li>
+<li class="review">
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="71E46C1E-EB31-4BC0-814D-006D8DCB4F85" onclick="submitReview(event)">PRG2</button>
+</li>
+<li class="review">
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="71E46C1E-EB31-4BC0-814D-006D8DCB4F85" onclick="submitReview(event)">PRCR</button>
+</li>
+<li class="review">
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="71E46C1E-EB31-4BC0-814D-006D8DCB4F85" onclick="submitReview(event)">PRPCR</button>
+</li>
+<li class="review">
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="71E46C1E-EB31-4BC0-814D-006D8DCB4F85" onclick="submitReview(event)">PRRL</button>
+</li>
+<li class="review">
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="71E46C1E-EB31-4BC0-814D-006D8DCB4F85" onclick="submitReview(event)">PRR</button>
+</li>
+<li class="review">
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="71E46C1E-EB31-4BC0-814D-006D8DCB4F85" onclick="submitReview(event)">PRBD</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="71E46C1E-EB31-4BC0-814D-006D8DCB4F85" onclick="submitReview(event)">PRCT</button>
+</li>
+<li class="review">
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="71E46C1E-EB31-4BC0-814D-006D8DCB4F85" onclick="resetComment(event)">Reset Comments</button>
+</li>
+</ul>
+
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="71E46C1E-EB31-4BC0-814D-006D8DCB4F85" id="FORM-71E46C1E-EB31-4BC0-814D-006D8DCB4F85" onsubmit="submitComment(event)">
+<textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
+<br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form>
+
+<p class="review_status initial" id="REVIEW-STATUS-71E46C1E-EB31-4BC0-814D-006D8DCB4F85">Initial</p>
+</div>
+</div>
+</li>
+</ul>
+</div>

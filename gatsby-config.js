@@ -13,6 +13,9 @@ const rtqKatexMacros = {
   "\\addCarryOver": "\\scriptstyle \\grayF",
   "\\multiplyCarryOver": "\\scriptstyle \\grayF{#1}",
   "\\subtractBorrow": "\\textstyle \\green",
+  "\\filledValue": "\\textcolor{green}{#1}",
+  "\\solvedOrder": "\\textcolor{maroonC}{\\footnotesize{(#1)}}",
+  "\\solvedOrderPhantom": "\\phantom{\\textcolor{maroonC}{\\footnotesize{(#1)}}}",
 };
 
 module.exports = {

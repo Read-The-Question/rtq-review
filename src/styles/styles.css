@@ -6,6 +6,7 @@ body {
 :root {
   --question-nav-top: 12px;
   --question-nav-height: 52px;
+  --question-gap: 28px;
 }
 
 body {
@@ -101,8 +102,9 @@ img {
 
 .question_envelope.question {
   position: relative;
+  margin-bottom: var(--question-gap);
   scroll-margin-top: calc(
-    var(--question-nav-height) + var(--question-nav-top) + 18px
+    var(--question-nav-height) + var(--question-nav-top) + 8px
   );
 }
 
@@ -607,6 +609,7 @@ textarea:focus {
 @media (max-width: 640px) {
   :root {
     --question-nav-top: 8px;
+    --question-gap: 20px;
   }
 
   .question-nav {

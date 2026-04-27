@@ -1,0 +1,18 @@
+{
+  "alt": "Long division of 2460 by 5",
+  "description": "Full long division of 2460 by 5. Quotient 492, remainder 0.",
+  "kind": "long-division",
+  "provenance": {
+    "craftedBy": "Read The Question",
+    "copyright": "Read The Question. All rights reserved."
+  },
+  "title": "Long division of 2460 by 5",
+  "values": {
+    "dividend": "2460",
+    "divisor": "5",
+    "quotient": "492",
+    "remainder": "0",
+    "variant": "long"
+  },
+  "version": 1
+}

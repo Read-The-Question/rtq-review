@@ -15,6 +15,7 @@ const rtqKatexMacros = {
   "\\subtractBorrow": "\\textstyle \\green",
   "\\maroonC": "\\textcolor{##ed5fa6}{#1}",
   "\\filledValue": "\\textcolor{green}{#1}",
+  "\\boxedFilledValue": "\\boxed{\\filledValue{#1}}",
   "\\solvedOrder": "\\maroonC{\\footnotesize{(#1)}}",
   "\\solvedOrderPhantom": "\\phantom{\\maroonC{\\footnotesize{(#1)}}}",
 };

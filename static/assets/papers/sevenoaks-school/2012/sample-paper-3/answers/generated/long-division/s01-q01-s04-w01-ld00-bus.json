@@ -1,0 +1,18 @@
+{
+  "alt": "Long division of 1300 by 26",
+  "description": "Bus-stop division of 1300 by 26. Quotient 50, remainder 0.",
+  "kind": "long-division",
+  "provenance": {
+    "craftedBy": "Read The Question",
+    "copyright": "Read The Question. All rights reserved."
+  },
+  "title": "Long division of 1300 by 26",
+  "values": {
+    "dividend": "1300",
+    "divisor": "26",
+    "quotient": "50",
+    "remainder": "0",
+    "variant": "bus"
+  },
+  "version": 1
+}

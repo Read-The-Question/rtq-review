@@ -1,0 +1,59 @@
+{
+  "assets": {
+    "questions/s01-q02-i00.png": {
+      "fingerprint": "sha256:6a7e03a5d964814cd54eb0c490741728e5c1d9649e0e843c14fbaecaeb654852",
+      "format": "png",
+      "intrinsicHeight": 437,
+      "intrinsicWidth": 608
+    },
+    "questions/s01-q06-i00.png": {
+      "fingerprint": "sha256:29f5866e0acad3b960b7d986d3675bcbf3326b754425f8c585184d8e94d2b7e6",
+      "format": "png",
+      "intrinsicHeight": 252,
+      "intrinsicWidth": 295
+    },
+    "questions/s01-q07-i00.png": {
+      "fingerprint": "sha256:f935468daf08531c769c90f1d885233df9c69bff560486e104ee1cc833ad0db7",
+      "format": "png",
+      "intrinsicHeight": 405,
+      "intrinsicWidth": 591
+    },
+    "questions/s01-q13-i00.png": {
+      "fingerprint": "sha256:1413c82cc21e260c881bd879025781e5c0d7ca59d57b523763a8eddbefedafde",
+      "format": "png",
+      "intrinsicHeight": 277,
+      "intrinsicWidth": 558
+    },
+    "questions/s01-q15-i00.png": {
+      "fingerprint": "sha256:d2c115bf880b632328eae2b8b2f91954a1f1e903023786e840cc4ed74d236bcc",
+      "format": "png",
+      "intrinsicHeight": 208,
+      "intrinsicWidth": 577
+    },
+    "questions/s01-q16-i00.png": {
+      "fingerprint": "sha256:1ee12db9f90ab1922413e2cb07742eec04666db4e4680a7bf225bf22b851289c",
+      "format": "png",
+      "intrinsicHeight": 430,
+      "intrinsicWidth": 690
+    },
+    "questions/s01-q19-i00.png": {
+      "fingerprint": "sha256:88b42699427133e700d640b3c1f81a5e91ca7e73ab00140500e99108e360e75a",
+      "format": "png",
+      "intrinsicHeight": 362,
+      "intrinsicWidth": 582
+    },
+    "questions/s01-q32-i00.png": {
+      "fingerprint": "sha256:2e29c915c785b2b48b3399c38431ae3ed1594fd23deb56755391c095cbd1e7e8",
+      "format": "png",
+      "intrinsicHeight": 268,
+      "intrinsicWidth": 565
+    },
+    "questions/s01-q37-i00.png": {
+      "fingerprint": "sha256:29f2520ac130cfc100bab2456911904426a4dd04f3d6db0fd62ea52461f9a30c",
+      "format": "png",
+      "intrinsicHeight": 432,
+      "intrinsicWidth": 686
+    }
+  },
+  "version": 1
+}

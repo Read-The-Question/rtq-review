@@ -1,0 +1,119 @@
+{
+  "assets": {
+    "questions/s01-q05-i00.png": {
+      "fingerprint": "sha256:dce8dd1c87da2bfb1149e7e54761a9e2e2a25fcb0edde6062a5c6e3b19a6b644",
+      "format": "png",
+      "intrinsicHeight": 457,
+      "intrinsicWidth": 516
+    },
+    "questions/s01-q07-i00.png": {
+      "fingerprint": "sha256:a91337df90918a94393f90c1b322ae3b11e0c5cbb3b9d3afabd6adfd2efc6d18",
+      "format": "png",
+      "intrinsicHeight": 345,
+      "intrinsicWidth": 427
+    },
+    "questions/s01-q07-i01.png": {
+      "fingerprint": "sha256:358d75e9611574dac07b314cbdcbd522c39d26a9472ac67495028d66d9c68da7",
+      "format": "png",
+      "intrinsicHeight": 286,
+      "intrinsicWidth": 460
+    },
+    "questions/s01-q09-i00.png": {
+      "fingerprint": "sha256:61bee06d6414a55b9d6383be3bff69275c50c7b1af971cea8656375eb74d287e",
+      "format": "png",
+      "intrinsicHeight": 302,
+      "intrinsicWidth": 335
+    },
+    "questions/s01-q10-i00.png": {
+      "fingerprint": "sha256:f7c90a33e126d562274204eccff2b47915548d8c44c4907ff88e42eb30ff80df",
+      "format": "png",
+      "intrinsicHeight": 377,
+      "intrinsicWidth": 388
+    },
+    "questions/s01-q10-i01.png": {
+      "fingerprint": "sha256:6de4741883f25527d346393b49a9b67d8c9aaa88220652019f2b36a50ba7d28d",
+      "format": "png",
+      "intrinsicHeight": 343,
+      "intrinsicWidth": 325
+    },
+    "questions/s01-q10-i02.png": {
+      "fingerprint": "sha256:2382a3f1f67aa3fab88dfd77853ca29e9d60564a67b4b37d014503e62851f0c2",
+      "format": "png",
+      "intrinsicHeight": 307,
+      "intrinsicWidth": 342
+    },
+    "questions/s01-q13-i00.png": {
+      "fingerprint": "sha256:526b97d985aee539dbfe06f4f7a54ae9e3b416092eba5a34c81340549dcf8bb5",
+      "format": "png",
+      "intrinsicHeight": 677,
+      "intrinsicWidth": 912
+    },
+    "questions/s01-q18-i00.png": {
+      "fingerprint": "sha256:2e404532bc66e2d18e1ea3e883e3aa5b5ed0a7892622e66cec3c0a67296b3f9c",
+      "format": "png",
+      "intrinsicHeight": 540,
+      "intrinsicWidth": 605
+    },
+    "questions/s01-q20-i00.png": {
+      "fingerprint": "sha256:b3ab654c1b057ba7f8ddd9374a15600d96bbd911af299a9401408be1dfd944a2",
+      "format": "png",
+      "intrinsicHeight": 465,
+      "intrinsicWidth": 605
+    },
+    "questions/s01-q20-i01.png": {
+      "fingerprint": "sha256:fafd2d6ddf179446d235c5314fdb1b6650d7b7190327dac78ecd5288cedfefbc",
+      "format": "png",
+      "intrinsicHeight": 585,
+      "intrinsicWidth": 758
+    },
+    "questions/s02-q05-i00.png": {
+      "fingerprint": "sha256:dd21e94b0ad5bbfc083dacd2bd85332bbf6819a62276cfdcfca1434a77432f30",
+      "format": "png",
+      "intrinsicHeight": 491,
+      "intrinsicWidth": 607
+    },
+    "questions/s02-q05-i01.png": {
+      "fingerprint": "sha256:8fee8e96a9df8ab2bdfa9b1e91a4fb04334a4e8bc2aa5a265daf62792938f26d",
+      "format": "png",
+      "intrinsicHeight": 592,
+      "intrinsicWidth": 725
+    },
+    "questions/s02-q08-i00.png": {
+      "fingerprint": "sha256:7cdc88fdc91356f8699081c82a9188a607a83345614a4d2491caed99a4621aaa",
+      "format": "png",
+      "intrinsicHeight": 401,
+      "intrinsicWidth": 732
+    },
+    "questions/s02-q08-i01.png": {
+      "fingerprint": "sha256:ec7298fe688f4a8210a00237f548750d93f4a0ca87c1da53d986de9b6cebb1cb",
+      "format": "png",
+      "intrinsicHeight": 421,
+      "intrinsicWidth": 852
+    },
+    "questions/s02-q08-i02.png": {
+      "fingerprint": "sha256:2fcc43981d869a4684223d337d6322de3ed3b705d38bc967e7c6d6814c1c7742",
+      "format": "png",
+      "intrinsicHeight": 456,
+      "intrinsicWidth": 878
+    },
+    "questions/s02-q10-i00.png": {
+      "fingerprint": "sha256:082e09734c005ed8cfef3efc7ec2e9a2bcb0c38d913c4ef955cdb04f58de8766",
+      "format": "png",
+      "intrinsicHeight": 393,
+      "intrinsicWidth": 538
+    },
+    "questions/s02-q10-i01.png": {
+      "fingerprint": "sha256:5dadcfe69243886d282b059f2d2b47dbab4575b194abd39ea6a1f6ce71750bb2",
+      "format": "png",
+      "intrinsicHeight": 597,
+      "intrinsicWidth": 470
+    },
+    "questions/s02-q11-i00.png": {
+      "fingerprint": "sha256:58fc31ef9832d0fbcf0f8696efca4ce571cedb06644b6b204f073decd221215d",
+      "format": "png",
+      "intrinsicHeight": 347,
+      "intrinsicWidth": 396
+    }
+  },
+  "version": 1
+}

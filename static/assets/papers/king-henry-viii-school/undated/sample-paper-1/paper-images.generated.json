@@ -1,0 +1,59 @@
+{
+  "assets": {
+    "questions/s01-q12-i00.png": {
+      "fingerprint": "sha256:c3242a214f496c2aa93fd181dca401b7c3736fcf5efec8706214e8fc397b4485",
+      "format": "png",
+      "intrinsicHeight": 331,
+      "intrinsicWidth": 431
+    },
+    "questions/s01-q18-i00.png": {
+      "fingerprint": "sha256:6cd583d766e37014a555f2037e91501e5b6055c9b3fe2f34ab255b3b8eea9fb2",
+      "format": "png",
+      "intrinsicHeight": 352,
+      "intrinsicWidth": 1075
+    },
+    "questions/s01-q19-i00.png": {
+      "fingerprint": "sha256:05c52acead7974002049ce7c8b9a3d1c2dd3763923cbc41516bd2a9d8e24f0c1",
+      "format": "png",
+      "intrinsicHeight": 803,
+      "intrinsicWidth": 718
+    },
+    "questions/s01-q22-i00.png": {
+      "fingerprint": "sha256:92161592de5e8f08717040070b10874c7d520f58b9a6b1b3cd947acf7fd66222",
+      "format": "png",
+      "intrinsicHeight": 438,
+      "intrinsicWidth": 413
+    },
+    "questions/s01-q23-i00.png": {
+      "fingerprint": "sha256:71ed17a639a721dadabd8c3d5955e6b0b0c8b3ed32d548f4abd7c08912ae28da",
+      "format": "png",
+      "intrinsicHeight": 412,
+      "intrinsicWidth": 392
+    },
+    "questions/s01-q28-i00.png": {
+      "fingerprint": "sha256:c21fa1dc71487eaeca9c6f1e49c2d1b46dd8f9018b0349c40067f5f44f6bdc8b",
+      "format": "png",
+      "intrinsicHeight": 495,
+      "intrinsicWidth": 515
+    },
+    "questions/s01-q33-i00.png": {
+      "fingerprint": "sha256:d0fbc462fd052e31e2f0f2fc50e1af50750c499369f655cade3b4bc166cea18c",
+      "format": "png",
+      "intrinsicHeight": 288,
+      "intrinsicWidth": 333
+    },
+    "questions/s01-q34-i00.png": {
+      "fingerprint": "sha256:3e8041a35844978456b25b70b43efbff52950f35c7057f2ef5353af5c8112522",
+      "format": "png",
+      "intrinsicHeight": 225,
+      "intrinsicWidth": 335
+    },
+    "questions/s01-q39-i00.png": {
+      "fingerprint": "sha256:32ce46091f89c048aa6e0ab157a89f2cf04eadca308c6d84d398813467adcf76",
+      "format": "png",
+      "intrinsicHeight": 435,
+      "intrinsicWidth": 531
+    }
+  },
+  "version": 1
+}

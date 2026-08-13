@@ -13,8 +13,6 @@
     "build": "gatsby build",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "------------ KaTeX SVG Fonts --------------": "",
-    "katex:svg-fonts:sync": "node scripts/assets/sync-katex-svg-fonts.js",
     "------------ RTQ Build Scripts --------------": "",
     "all": "GATSBY_REVIEW_MODE=all                        npx gatsby develop",
     "answers_developers_p0": "GATSBY_REVIEW_MODE=answers_developers_p0      npx gatsby develop",

@@ -1,0 +1,59 @@
+{
+  "assets": {
+    "questions/s01-q07-i00.png": {
+      "fingerprint": "sha256:4298d056084d2283c7159be6c6063c387a748883d9594456fdf99a1ccd534097",
+      "format": "png",
+      "intrinsicHeight": 513,
+      "intrinsicWidth": 452
+    },
+    "questions/s01-q10-i00.png": {
+      "fingerprint": "sha256:eb529bef7fef2ff1165fc870a7fc6c604f722417dfca32f7df12868c7410bec3",
+      "format": "png",
+      "intrinsicHeight": 471,
+      "intrinsicWidth": 591
+    },
+    "questions/s01-q12-i00.png": {
+      "fingerprint": "sha256:f1a3a70bfaa458ebf2fb0e2bdf64ff33b44fccb11d609e1f03f41d67f70032dc",
+      "format": "png",
+      "intrinsicHeight": 442,
+      "intrinsicWidth": 498
+    },
+    "questions/s01-q16-i00.png": {
+      "fingerprint": "sha256:01421d20f5b3bf4525844e42ed1125a81922d974cd161feae8a6fc9f3a6f7ca0",
+      "format": "png",
+      "intrinsicHeight": 310,
+      "intrinsicWidth": 605
+    },
+    "questions/s01-q18-i00.png": {
+      "fingerprint": "sha256:25b23a098f307a119484306f10d1fa5e3263317507b90471d42e553d8f58f390",
+      "format": "png",
+      "intrinsicHeight": 457,
+      "intrinsicWidth": 820
+    },
+    "questions/s01-q19-i00.png": {
+      "fingerprint": "sha256:8b70a2c068c4cef8642d7f2d1361eba1e2231bbaaf4c6dcb6007f9eeafd15d56",
+      "format": "png",
+      "intrinsicHeight": 527,
+      "intrinsicWidth": 713
+    },
+    "questions/s01-q22-i00.png": {
+      "fingerprint": "sha256:27f71cbc006d1038d5b1bc972ab1da30b6e08924d770f163b3b06879d3e7b549",
+      "format": "png",
+      "intrinsicHeight": 287,
+      "intrinsicWidth": 232
+    },
+    "questions/s01-q23-i00.png": {
+      "fingerprint": "sha256:2d1b8c31947190fe2d5e75e4c323b7a13d69ba224aa480e009eef85fccab99d0",
+      "format": "png",
+      "intrinsicHeight": 586,
+      "intrinsicWidth": 677
+    },
+    "questions/s01-q24-i00.png": {
+      "fingerprint": "sha256:f6f6190567cbd2209b1f865f126c8d8185852d705d2070fcacb32fa9e80371bf",
+      "format": "png",
+      "intrinsicHeight": 477,
+      "intrinsicWidth": 625
+    }
+  },
+  "version": 1
+}

@@ -1,0 +1,17 @@
+{
+  "assets": {
+    "questions/s01-q14-i00.png": {
+      "fingerprint": "sha256:b7199dffd3ccbff305640cb1e5f4c44c99a91b5742775293f1b20ec8b5b74828",
+      "format": "png",
+      "intrinsicHeight": 242,
+      "intrinsicWidth": 282
+    },
+    "questions/s01-q19-i00.png": {
+      "fingerprint": "sha256:c5935f52592c0c1f59981d911fc3ce22564b309844e2cb382f839370bd5ec687",
+      "format": "png",
+      "intrinsicHeight": 188,
+      "intrinsicWidth": 182
+    }
+  },
+  "version": 1
+}

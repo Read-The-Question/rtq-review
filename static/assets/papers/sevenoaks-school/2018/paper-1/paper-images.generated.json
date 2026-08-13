@@ -1,0 +1,35 @@
+{
+  "assets": {
+    "questions/s01-q14-i00.png": {
+      "fingerprint": "sha256:7385b4a2a0e2a755607673b6dc651b14a30e08d33f8b400ff7e52dd54406f478",
+      "format": "png",
+      "intrinsicHeight": 250,
+      "intrinsicWidth": 360
+    },
+    "questions/s01-q15-i00.png": {
+      "fingerprint": "sha256:4c042a190e46cbe4e5f336bf338521beb4dd56fa93c3f743a392c199274af353",
+      "format": "png",
+      "intrinsicHeight": 215,
+      "intrinsicWidth": 262
+    },
+    "questions/s01-q16-i00.png": {
+      "fingerprint": "sha256:e972506be504bc4797ab4c85d1bfaa06b64200700f572bc23499bd1c8ee867d4",
+      "format": "png",
+      "intrinsicHeight": 210,
+      "intrinsicWidth": 323
+    },
+    "questions/s01-q18-i00.png": {
+      "fingerprint": "sha256:cb74fd23ec21e557095e51fcef1bb5dc1c43bdc9389a29d53381fbc7932a049f",
+      "format": "png",
+      "intrinsicHeight": 191,
+      "intrinsicWidth": 262
+    },
+    "questions/s01-q19-i00.png": {
+      "fingerprint": "sha256:217fd1bb37e7e7bb967ad9f7c94821135e038d53f64f01e86883360a77bb9541",
+      "format": "png",
+      "intrinsicHeight": 271,
+      "intrinsicWidth": 337
+    }
+  },
+  "version": 1
+}

@@ -1,0 +1,11 @@
+{
+  "assets": {
+    "questions/s01-q15-i00.png": {
+      "fingerprint": "sha256:17910bcbab97a31cda479c5f1c84d9e531f4f858e428237b3f8c94cc914a9972",
+      "format": "png",
+      "intrinsicHeight": 170,
+      "intrinsicWidth": 285
+    }
+  },
+  "version": 1
+}

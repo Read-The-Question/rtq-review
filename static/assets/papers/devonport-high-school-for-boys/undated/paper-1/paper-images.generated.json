@@ -1,0 +1,59 @@
+{
+  "assets": {
+    "questions/s01-q02-i00.png": {
+      "fingerprint": "sha256:4c5bb236f12cf2c29426d6665ad9107d036a2d133a0202468f7b3df214f5a2d6",
+      "format": "png",
+      "intrinsicHeight": 417,
+      "intrinsicWidth": 568
+    },
+    "questions/s01-q06-i00.png": {
+      "fingerprint": "sha256:bffd14acb6c75fa5527fafbf3e797ca31415cd8150d1444c66ff7dfcb7474a72",
+      "format": "png",
+      "intrinsicHeight": 330,
+      "intrinsicWidth": 346
+    },
+    "questions/s01-q07-i00.png": {
+      "fingerprint": "sha256:32325b17001f597aebaf5a85d0855977e15022f37db1bc0ce71b18fa6a6cd1c0",
+      "format": "png",
+      "intrinsicHeight": 397,
+      "intrinsicWidth": 568
+    },
+    "questions/s01-q13-i00.png": {
+      "fingerprint": "sha256:f810a01c18fced6d3018196ec669b774d46f19eb389a0c6d29c0b8783117cbd3",
+      "format": "png",
+      "intrinsicHeight": 342,
+      "intrinsicWidth": 677
+    },
+    "questions/s01-q15-i00.png": {
+      "fingerprint": "sha256:3686bfe840fc48a72a299979cde4313ad778728337ace7aee2e1a5d7b78476ca",
+      "format": "png",
+      "intrinsicHeight": 217,
+      "intrinsicWidth": 582
+    },
+    "questions/s01-q16-i00.png": {
+      "fingerprint": "sha256:542a92eaa88acab2c2dba54d7e7d9b49da75fecdd1fa1b3c6a2a7f09b011841c",
+      "format": "png",
+      "intrinsicHeight": 472,
+      "intrinsicWidth": 723
+    },
+    "questions/s01-q19-i00.png": {
+      "fingerprint": "sha256:631a8e5ef61613b669bc57bc5912796f6eaeb653c26bf97365c6cddeaba8e4e9",
+      "format": "png",
+      "intrinsicHeight": 462,
+      "intrinsicWidth": 702
+    },
+    "questions/s01-q32-i00.png": {
+      "fingerprint": "sha256:510f7e6e2c015f8529f08d004ff0820e691dc9dc8a5558db0a43fb2f4aee4bb7",
+      "format": "png",
+      "intrinsicHeight": 280,
+      "intrinsicWidth": 593
+    },
+    "questions/s01-q37-i00.png": {
+      "fingerprint": "sha256:04b3ea241e054a6c58de905357a3bd7dd19a7bf3bc591a84728f9be089333314",
+      "format": "png",
+      "intrinsicHeight": 461,
+      "intrinsicWidth": 722
+    }
+  },
+  "version": 1
+}

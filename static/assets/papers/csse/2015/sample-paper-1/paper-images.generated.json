@@ -1,0 +1,59 @@
+{
+  "assets": {
+    "questions/s01-q06-i00.png": {
+      "fingerprint": "sha256:ee3e3787ba9525fc9cd027b036e44e80a1c7614853c62bfb5c90c177ec3bd284",
+      "format": "png",
+      "intrinsicHeight": 371,
+      "intrinsicWidth": 767
+    },
+    "questions/s01-q07-s01-i00.png": {
+      "fingerprint": "sha256:d723c94b50613d1b80835e9a50f6e52869269f9439f1b9bab2256d158ff5de3c",
+      "format": "png",
+      "intrinsicHeight": 332,
+      "intrinsicWidth": 476
+    },
+    "questions/s01-q07-s02-i00.png": {
+      "fingerprint": "sha256:7730dfe28629253de5abcdeffb27affc94c6ef616ca751da07f5f1797063de67",
+      "format": "png",
+      "intrinsicHeight": 512,
+      "intrinsicWidth": 432
+    },
+    "questions/s01-q07-s03-i00.png": {
+      "fingerprint": "sha256:7085800112d44776db525f0f66a04c9d9f27458eb014b66004e7053b433cf3f5",
+      "format": "png",
+      "intrinsicHeight": 397,
+      "intrinsicWidth": 496
+    },
+    "questions/s01-q09-i00.png": {
+      "fingerprint": "sha256:71538338401f42f024e9e1adb28b480d1ead54a90e16d0526f84d370cb7aceb8",
+      "format": "png",
+      "intrinsicHeight": 508,
+      "intrinsicWidth": 608
+    },
+    "questions/s01-q11-i00.png": {
+      "fingerprint": "sha256:aa30e398f23e1d661de8329245b683b117c63926c373548800c9d814e7c404e2",
+      "format": "png",
+      "intrinsicHeight": 377,
+      "intrinsicWidth": 688
+    },
+    "questions/s01-q11-s04-i00.png": {
+      "fingerprint": "sha256:7f2ba04e7b881a86218e94e10b30c14baa4d137ba53f8275294e472454321b9b",
+      "format": "png",
+      "intrinsicHeight": 452,
+      "intrinsicWidth": 768
+    },
+    "questions/s01-q19-i00.png": {
+      "fingerprint": "sha256:2066e4a2a0c936e2b085ceff875e0280424bd6551a8eb5df3e00e90c1892c3be",
+      "format": "png",
+      "intrinsicHeight": 477,
+      "intrinsicWidth": 526
+    },
+    "questions/s01-q23-i00.png": {
+      "fingerprint": "sha256:5247e193573dab3440452c743f8fcd7673e06345d820b20ebe90e3815d910601",
+      "format": "png",
+      "intrinsicHeight": 356,
+      "intrinsicWidth": 631
+    }
+  },
+  "version": 1
+}

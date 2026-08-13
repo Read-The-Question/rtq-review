@@ -1,0 +1,59 @@
+{
+  "assets": {
+    "questions/removed-section-1-question-10-00.png": {
+      "fingerprint": "sha256:c5522d6c160104826a3ede0d6898b9becf5c067761e78d144d37f856cb8fc183",
+      "format": "png",
+      "intrinsicHeight": 212,
+      "intrinsicWidth": 273
+    },
+    "questions/removed-section-1-question-23-00.png": {
+      "fingerprint": "sha256:7b9c71fab00aa8086f5bd8b946770ba40122070e5f8bf5cd9eb05656b15a67ce",
+      "format": "png",
+      "intrinsicHeight": 165,
+      "intrinsicWidth": 413
+    },
+    "questions/removed-section-1-question-25-00.png": {
+      "fingerprint": "sha256:0fd6d8dccd84b24c83e2f61a1ee55b65e156c4881a0e75954bbbf84b8e15ecb6",
+      "format": "png",
+      "intrinsicHeight": 166,
+      "intrinsicWidth": 307
+    },
+    "questions/s01-q08-i00.png": {
+      "fingerprint": "sha256:16b928324dd5a28cfb133936e6ec1e23414a1afa3c022e840a7ae5df7830211c",
+      "format": "png",
+      "intrinsicHeight": 155,
+      "intrinsicWidth": 357
+    },
+    "questions/s01-q13-i00.png": {
+      "fingerprint": "sha256:bf3a96252e69fcbb7785f5681547ab97ed0452077324ea8b6903cf40ffd3e322",
+      "format": "png",
+      "intrinsicHeight": 162,
+      "intrinsicWidth": 302
+    },
+    "questions/s01-q17-i00.png": {
+      "fingerprint": "sha256:77929953edd98385f775e9f5bdad3e9955664cbc3959555fb17de3e601b4de18",
+      "format": "png",
+      "intrinsicHeight": 292,
+      "intrinsicWidth": 271
+    },
+    "questions/s01-q22-i00.png": {
+      "fingerprint": "sha256:f73ac21a674dc791e0a504ce5eac57b52cb0f57eae44d605cbbd43f2dc40f5e1",
+      "format": "png",
+      "intrinsicHeight": 720,
+      "intrinsicWidth": 692
+    },
+    "questions/s01-q24-s01-i00.png": {
+      "fingerprint": "sha256:649e0199cf0715e16edcbc8f68287a5bae43148200ee1ac5648eb85795684c42",
+      "format": "png",
+      "intrinsicHeight": 237,
+      "intrinsicWidth": 527
+    },
+    "questions/s01-q31-i00.png": {
+      "fingerprint": "sha256:c28b21e90ea098885510ff1953b4dbbc743600b650032b4a69722b7de82cbb83",
+      "format": "png",
+      "intrinsicHeight": 158,
+      "intrinsicWidth": 317
+    }
+  },
+  "version": 1
+}

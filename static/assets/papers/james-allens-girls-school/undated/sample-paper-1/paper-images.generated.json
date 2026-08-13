@@ -1,0 +1,59 @@
+{
+  "assets": {
+    "questions/s01-q09-i00.png": {
+      "fingerprint": "sha256:1310c63ab1e7df969dad9a8e301f9c9481628d1658935fde7a6ca5e3dec320c5",
+      "format": "png",
+      "intrinsicHeight": 367,
+      "intrinsicWidth": 842
+    },
+    "questions/s01-q10-i00.png": {
+      "fingerprint": "sha256:82696de73cfe20aa57b4c80e65256163ec9328daf5592d5d11b5b2189c7ddf41",
+      "format": "png",
+      "intrinsicHeight": 333,
+      "intrinsicWidth": 411
+    },
+    "questions/s01-q11-s03-i00.png": {
+      "fingerprint": "sha256:938290b036866484b7841f9e7f58dcb3ccbcaaa20fd4a6098db8b29c76ff5e91",
+      "format": "png",
+      "intrinsicHeight": 288,
+      "intrinsicWidth": 290
+    },
+    "questions/s01-q12-i00.png": {
+      "fingerprint": "sha256:5772cc730c902bd319db66fe02295d2b391dff8295bb89c6fb2c4ed0d6602fcd",
+      "format": "png",
+      "intrinsicHeight": 553,
+      "intrinsicWidth": 646
+    },
+    "questions/s01-q15-i00.png": {
+      "fingerprint": "sha256:d37aff214f1e0ff438d0512cee9a036730fcd9b6b5110857af2cd8ebb3cf13f4",
+      "format": "png",
+      "intrinsicHeight": 572,
+      "intrinsicWidth": 810
+    },
+    "questions/s01-q17-i00.png": {
+      "fingerprint": "sha256:f95d3dd9b7db9ff5b8b3a223a18b7248266541c04ac033a23a2fb5417ef1159b",
+      "format": "png",
+      "intrinsicHeight": 511,
+      "intrinsicWidth": 635
+    },
+    "questions/s01-q19-i00.png": {
+      "fingerprint": "sha256:09b13fc8856b733d9b0fe38f4d47312008779357b446f2765fbc4c99bfbdeff7",
+      "format": "png",
+      "intrinsicHeight": 192,
+      "intrinsicWidth": 341
+    },
+    "questions/s01-q20-i00.png": {
+      "fingerprint": "sha256:d1d5099eedef8a9b21a9e596fbf5935b13698a7e93441e79de2abf7ac8b34708",
+      "format": "png",
+      "intrinsicHeight": 600,
+      "intrinsicWidth": 497
+    },
+    "questions/s01-q21-i00.png": {
+      "fingerprint": "sha256:0e3580c03d94e2774976cbfe593dbd5dfabbde8ed3d7148accb0565119a6ad13",
+      "format": "png",
+      "intrinsicHeight": 308,
+      "intrinsicWidth": 330
+    }
+  },
+  "version": 1
+}

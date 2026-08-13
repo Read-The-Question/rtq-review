@@ -1,0 +1,59 @@
+{
+  "assets": {
+    "questions/s01-q03-i00.png": {
+      "fingerprint": "sha256:84bf6a6dc6435e738a63ac6d72db886a832ecf08d02e0d0553912be431ab13ae",
+      "format": "png",
+      "intrinsicHeight": 588,
+      "intrinsicWidth": 872
+    },
+    "questions/s01-q04-s01-i00.png": {
+      "fingerprint": "sha256:5b7719f07d61421e8c8c442fd02621e23100b782f7deeae237a7ffddfeacefca",
+      "format": "png",
+      "intrinsicHeight": 131,
+      "intrinsicWidth": 141
+    },
+    "questions/s01-q04-s02-i00.png": {
+      "fingerprint": "sha256:e3a0bd90a6ab60e87372e6c3c32bead07435ac79e4a143bfa195fbb6757ad530",
+      "format": "png",
+      "intrinsicHeight": 129,
+      "intrinsicWidth": 162
+    },
+    "questions/s01-q09-s01-i00.png": {
+      "fingerprint": "sha256:ee89bb40f5b8b7c42c8606ed59e7638b48372b941939e1af1cd43a153dfc1769",
+      "format": "png",
+      "intrinsicHeight": 206,
+      "intrinsicWidth": 228
+    },
+    "questions/s01-q09-s02-i00.png": {
+      "fingerprint": "sha256:121eca8bb33c2f72b8af2699a30c235abc13e5aad038022160f1982d91316a31",
+      "format": "png",
+      "intrinsicHeight": 193,
+      "intrinsicWidth": 270
+    },
+    "questions/s01-q13-i00.png": {
+      "fingerprint": "sha256:0d909807793985a56cab9d8dc952e25d1c5d510b62b106f773d1fb630b969a43",
+      "format": "png",
+      "intrinsicHeight": 357,
+      "intrinsicWidth": 531
+    },
+    "questions/s01-q15-i00.png": {
+      "fingerprint": "sha256:36f41d3d90990a5b75d92ad5e578d09eda6cfaeab405093744d5f1299156565b",
+      "format": "png",
+      "intrinsicHeight": 499,
+      "intrinsicWidth": 596
+    },
+    "questions/s01-q17-s01-i00.png": {
+      "fingerprint": "sha256:d529d7c4e48d1272d3d3294e53287a9104db4a9d98d575cd0e826b7f55931f88",
+      "format": "png",
+      "intrinsicHeight": 239,
+      "intrinsicWidth": 412
+    },
+    "questions/s01-q18-i00.png": {
+      "fingerprint": "sha256:3186ed6d0de8be83ffe0c8428bea7c1195638dc4e63237b53a4a3efe87e34945",
+      "format": "png",
+      "intrinsicHeight": 345,
+      "intrinsicWidth": 383
+    }
+  },
+  "version": 1
+}

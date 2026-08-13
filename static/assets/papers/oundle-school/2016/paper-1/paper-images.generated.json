@@ -1,0 +1,59 @@
+{
+  "assets": {
+    "questions/s01-q08-i00.png": {
+      "fingerprint": "sha256:a19c439695f899fd599a4662eb7e5490d84351f30e13c8e7c505417b746235a6",
+      "format": "png",
+      "intrinsicHeight": 588,
+      "intrinsicWidth": 710
+    },
+    "questions/s01-q09-i00.png": {
+      "fingerprint": "sha256:7d1a7af071e8fdd9e6e7093b7a1fe39a793ea4b8a22455a8e3e28510c9fc11f0",
+      "format": "png",
+      "intrinsicHeight": 431,
+      "intrinsicWidth": 577
+    },
+    "questions/s01-q10-i00.png": {
+      "fingerprint": "sha256:f61e9a8c359676496a1448972df6cb2b20078754cb86c578b0b24a01e4ff05ec",
+      "format": "png",
+      "intrinsicHeight": 107,
+      "intrinsicWidth": 730
+    },
+    "questions/s01-q14-i00.png": {
+      "fingerprint": "sha256:f690dd00decbd97eaec98a54887bcbec0c44f0a74e61dfb0d57762ac4f322ffd",
+      "format": "png",
+      "intrinsicHeight": 277,
+      "intrinsicWidth": 347
+    },
+    "questions/s01-q14-i01.png": {
+      "fingerprint": "sha256:705a14bdf5f93a81508a6c65010b5c6860ed29377c8a7a44bd349b2f38f58cd3",
+      "format": "png",
+      "intrinsicHeight": 298,
+      "intrinsicWidth": 341
+    },
+    "questions/s01-q17-i00.png": {
+      "fingerprint": "sha256:7441d2b8f174e0e23c365c10953070480a17f9fe171692bf0dbe30e809026ea1",
+      "format": "png",
+      "intrinsicHeight": 225,
+      "intrinsicWidth": 318
+    },
+    "questions/s01-q17-i01.png": {
+      "fingerprint": "sha256:f358ae29c55124d8fd2146677b70d87e92b9e3544c8fd3fcbed281e2a7ff54e9",
+      "format": "png",
+      "intrinsicHeight": 227,
+      "intrinsicWidth": 308
+    },
+    "questions/s01-q17-i02.png": {
+      "fingerprint": "sha256:2d9c9a273af35faeb93f84511dd3795fb4d9b26f9c14ca6ffafecd7ce5b236fb",
+      "format": "png",
+      "intrinsicHeight": 271,
+      "intrinsicWidth": 317
+    },
+    "questions/s01-q17-i03.png": {
+      "fingerprint": "sha256:a4c95f38009e52bdcc864901f1b4a76ecd23d86a412d2012123cc66fdb0c51b6",
+      "format": "png",
+      "intrinsicHeight": 255,
+      "intrinsicWidth": 307
+    }
+  },
+  "version": 1
+}

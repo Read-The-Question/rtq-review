@@ -1,0 +1,113 @@
+{
+  "assets": {
+    "questions/s01-q01-i00.png": {
+      "fingerprint": "sha256:0da56ce82e6206afd9e621a9193a8e0a372b4a449f8234a0cc00edc145c74e98",
+      "format": "png",
+      "intrinsicHeight": 410,
+      "intrinsicWidth": 337
+    },
+    "questions/s01-q03-i00.png": {
+      "fingerprint": "sha256:6585673c8ba267ef7ceab217bbac1e3fb80948f2ec867610c1c7f5fe832d79cb",
+      "format": "png",
+      "intrinsicHeight": 122,
+      "intrinsicWidth": 308
+    },
+    "questions/s01-q03-i01.png": {
+      "fingerprint": "sha256:ba6f0062b0830a6a874fbdcbb9dbac6330475ced4a1a621b8f8998c123e7472d",
+      "format": "png",
+      "intrinsicHeight": 211,
+      "intrinsicWidth": 280
+    },
+    "questions/s01-q03-i02.png": {
+      "fingerprint": "sha256:e6f51f21aa08c61c36cd7725436aff2a3ab9145e8686a282d9c0f94f3f4870e4",
+      "format": "png",
+      "intrinsicHeight": 272,
+      "intrinsicWidth": 211
+    },
+    "questions/s01-q04-i00.png": {
+      "fingerprint": "sha256:7e84800ec88027f617f8e215df495a5a4bf67f4c9fab9a18842ca35e414daac5",
+      "format": "png",
+      "intrinsicHeight": 75,
+      "intrinsicWidth": 91
+    },
+    "questions/s01-q04-i01.png": {
+      "fingerprint": "sha256:573ebbc0756a3a0ee528316f3dba92e0501e8ec88b90de3d5016a5d73ca9095a",
+      "format": "png",
+      "intrinsicHeight": 90,
+      "intrinsicWidth": 91
+    },
+    "questions/s01-q04-i02.png": {
+      "fingerprint": "sha256:b42763c27ba2b5ac6fa52874c4d1ea156213be3c89aa11297e77e2fcd8dd4624",
+      "format": "png",
+      "intrinsicHeight": 85,
+      "intrinsicWidth": 87
+    },
+    "questions/s01-q04-i03.png": {
+      "fingerprint": "sha256:0af70f0e1ab7d2435cdfa380f5f33211e0839d30c6e9fad2fb5a061c53fe2cbb",
+      "format": "png",
+      "intrinsicHeight": 82,
+      "intrinsicWidth": 200
+    },
+    "questions/s01-q04-i04.png": {
+      "fingerprint": "sha256:24de4c95a94ffeca8abe635668bee385d23b6316038b6fc8058a24821ca74a77",
+      "format": "png",
+      "intrinsicHeight": 83,
+      "intrinsicWidth": 112
+    },
+    "questions/s01-q04-i05.png": {
+      "fingerprint": "sha256:7ee650c3b921e8b0ca8205fff1185416f8e3f74572057104c96a9f7f78469861",
+      "format": "png",
+      "intrinsicHeight": 97,
+      "intrinsicWidth": 177
+    },
+    "questions/s01-q04-i06.png": {
+      "fingerprint": "sha256:12cd1934c0503fbde97f6ad3b72711f7378db50a8d794bf6f892f0f20a57a013",
+      "format": "png",
+      "intrinsicHeight": 96,
+      "intrinsicWidth": 102
+    },
+    "questions/s01-q04-i07.png": {
+      "fingerprint": "sha256:a0b9c100dd0b1d241f59cc9ab1b3b7648e77c0e13a28cbc0827bab5f8fd3f19d",
+      "format": "png",
+      "intrinsicHeight": 111,
+      "intrinsicWidth": 137
+    },
+    "questions/s01-q04-i08.png": {
+      "fingerprint": "sha256:d49d3bf5f0db455f353b04d8718acc06db92f35d27ec3150a2d9efb4ac49d3bb",
+      "format": "png",
+      "intrinsicHeight": 105,
+      "intrinsicWidth": 106
+    },
+    "questions/s01-q04-s01-ss01-i00.png": {
+      "fingerprint": "sha256:df80abceaef057afd03104c670f0805952e7868de5b0f7788c3e41d33400c4d5",
+      "format": "png",
+      "intrinsicHeight": 103,
+      "intrinsicWidth": 203
+    },
+    "questions/s01-q04-s01-ss02-i00.png": {
+      "fingerprint": "sha256:962077ee4e123071a19d79d99cb34f458c408b39ddeff73c7b3d50dcd91224d0",
+      "format": "png",
+      "intrinsicHeight": 116,
+      "intrinsicWidth": 200
+    },
+    "questions/s01-q04-s02-i00.png": {
+      "fingerprint": "sha256:edc39f6f06cfbb6bb3b5143d66afbddc3a621347c1723752237157b232e894bd",
+      "format": "png",
+      "intrinsicHeight": 130,
+      "intrinsicWidth": 185
+    },
+    "questions/s01-q10-i00.png": {
+      "fingerprint": "sha256:edc39f6f06cfbb6bb3b5143d66afbddc3a621347c1723752237157b232e894bd",
+      "format": "png",
+      "intrinsicHeight": 130,
+      "intrinsicWidth": 185
+    },
+    "questions/s01-q12-i00.png": {
+      "fingerprint": "sha256:31c5acba6de3709c8524a263bfab9d4b14c7da385f2a5f083d7ebbe3665c8fe6",
+      "format": "png",
+      "intrinsicHeight": 382,
+      "intrinsicWidth": 418
+    }
+  },
+  "version": 1
+}

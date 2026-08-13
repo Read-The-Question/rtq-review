@@ -1,8 +1,8 @@
 {
-  "name": "sample-rtq-test-server",
+  "name": "rtq-review-gatsby-web",
   "version": "1.0.0",
   "private": true,
-  "description": "sample-rtq-test-server",
+  "description": "Generated Markdown review surface for RTQ maths papers",
   "author": "Uday Pandey",
   "keywords": [
     "gatsby"

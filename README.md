@@ -1,54 +1,18 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby minimal starter
-</h1>
+# RTQ Gatsby Review Web
 
-## 🚀 Quick start
+Internal Gatsby review surface for Markdown generated from the canonical RTQ maths-paper TOML. It is the active Gatsby review checkout; the separate `sync-and-publish/rtq-try-gatsby-md-publish` checkout remains publish-only.
 
-1.  **Create a Gatsby site.**
+## Local use
 
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
+Install dependencies and start the default review mode:
 
-    ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
-    ```
+```bash
+npm install
+npm run develop
+```
 
-2.  **Start developing.**
+The site runs at `http://localhost:8000`. Named scripts in `package.json`, such as `npm run answers_all` and `npm run questions_all`, select a specific `GATSBY_REVIEW_MODE`.
 
-    Navigate into your new site’s directory and start it up.
+Generated Markdown belongs under `src/pages/md`. Mirrored paper assets belong under `static/assets/papers`. Both are populated by the canonical tooling in `Read-The-Question/maths-papers`; do not introduce a second exporter or asset-copy implementation here.
 
-    ```shell
-    cd my-gatsby-site/
-    npm run develop
-    ```
-
-3.  **Open the code and start customizing!**
-
-    Your site is now running at http://localhost:8000!
-
-    Edit `src/pages/index.js` to see your site update in real-time!
-
-4.  **Learn more**
-
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-## 🚀 Quick start (Gatsby Cloud)
-
-Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
-
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal)
+From `maths-papers`, `RTQ_REVIEW_GATSBY_WEB_ROOT` can override this checkout's location. The default is `Inside-Ninety-Six/rtq-review-gatsby-web`.

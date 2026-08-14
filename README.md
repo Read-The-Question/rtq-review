@@ -1,6 +1,17 @@
 # RTQ Gatsby Review Web
 
-Internal Gatsby review surface for Markdown generated from the canonical RTQ maths-paper TOML. It is the active Gatsby review checkout; the separate `sync-and-publish/rtq-try-gatsby-md-publish` checkout remains publish-only.
+Retained legacy Gatsby review surface for Markdown generated from the canonical
+RTQ maths-paper TOML. It is not part of active review, but its generation,
+static-copy, and named review-mode paths remain supported until an explicit
+retirement decision. The separate
+`sync-and-publish/rtq-try-gatsby-md-publish` checkout remains publish-only.
+
+Use the
+[RTQ development environment bootstrap](https://github.com/Read-The-Question/rtq-web/blob/develop/docs/architecture/platform/rtq-web-bootstrap.md)
+for the optional legacy startup sequence, and the
+[RTQ repository landscape](https://github.com/Read-The-Question/rtq-web/blob/develop/docs/architecture/platform/rtq-repository-landscape.md)
+for the retention status and intentional Gatsby-only copy boundary. Do not use
+this README as the complete multi-repository runbook.
 
 ## Local use
 

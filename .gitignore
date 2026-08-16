@@ -1,0 +1,9 @@
+# Workspace dependencies and package-manager state
+node_modules/
+/.pnpm-store/
+
+# Workspace-local diagnostics
+*.log
+
+# Operating-system metadata
+.DS_Store

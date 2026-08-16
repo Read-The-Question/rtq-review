@@ -24,11 +24,11 @@ npm run develop
 
 The site runs at `http://localhost:8000`. Named scripts in `package.json`, such as `npm run answers_all` and `npm run questions_all`, select a specific `GATSBY_REVIEW_MODE`.
 
-Generated Markdown belongs under `src/pages/md`. Mirrored paper assets belong under `static/assets/papers`. Both are populated by the canonical tooling in `Read-The-Question/maths-papers`; do not introduce a second exporter or asset-copy implementation here.
+Generated Markdown belongs under `src/pages/md`. Mirrored paper assets belong under `static/assets/papers`. Both are populated by the canonical tooling in `Read-The-Question/rtq-content/packages/papers`; do not introduce a second exporter or asset-copy implementation here.
 
 Gatsby is intentionally the sole copy-based paper-asset review consumer. Run
-`pnpm papers:assets:prepare:review-gatsby` from `maths-papers` to refresh its
+`pnpm papers:assets:prepare:review-gatsby` from `rtq-content/packages/papers` to refresh its
 static mirror. The three maintained Next.js review applications instead serve
 canonical assets directly and are not targets of this command.
 
-From `maths-papers`, `RTQ_REVIEW_GATSBY_WEB_ROOT` can override this checkout's location. The default is `Inside-Ninety-Six/rtq-review-gatsby-web`.
+From `rtq-content/packages/papers`, `RTQ_REVIEW_GATSBY_WEB_ROOT` can override this checkout's location. The default is `Inside-Ninety-Six/rtq-review-gatsby-web`.

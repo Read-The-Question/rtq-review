@@ -1,0 +1,12 @@
+node_modules/
+AGENTS.md
+.next/
+out/
+dist/
+build/
+coverage/
+pnpm-lock.yaml
+*.tsbuildinfo
+*.log
+.env*
+public/assets/

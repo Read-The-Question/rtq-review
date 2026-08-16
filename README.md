@@ -11,9 +11,11 @@
   for reviewing generated paper Markdown and submitting review actions.
 - [`apps/review-tag-web`](apps/review-tag-web) is the maintained Next.js
   application for reviewing and editing tags directly in canonical paper TOML.
+- [`apps/review-question-viewer-web`](apps/review-question-viewer-web) is the
+  maintained Next.js application for displaying one selected canonical paper
+  question.
 
-The question viewer and review API will move into this workspace in separate
-migrations.
+The review API will move into this workspace in a separate migration.
 
 ## Setup
 
@@ -36,13 +38,17 @@ pnpm dev
 
 # Or run the tag reviewer on its established port:
 cd ../review-tag-web
-pnpm dev -- --port 3001
+pnpm dev --port 3001
+
+# Or run the question viewer on its established port:
+cd ../review-question-viewer-web
+pnpm dev --port 3002
 
 # Or run the retained Gatsby application:
 cd ../review-legacy-gatsby-web
 pnpm develop
 ```
 
-The maintained reviewer runs at `http://localhost:3000`; Gatsby runs at
-`http://localhost:8000`. See each application README for its content and asset
-preparation details.
+The maintained review applications use ports `3000`, `3001`, and `3002`;
+Gatsby runs at `http://localhost:8000`. See each application README for its
+content and asset preparation details.

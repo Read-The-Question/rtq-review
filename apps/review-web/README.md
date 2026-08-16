@@ -7,8 +7,9 @@ application serves external PaperImage binaries directly from the canonical
 paper-asset mirror. Generated LongDivision markup is already embedded in the
 Markdown.
 
-The review API defaults to `http://localhost:4567`. `pnpm dev:remote` uses the
-configured RTQ review ngrok endpoint instead.
+The review API defaults to `http://localhost:4567` and is available in this
+workspace at `../review-api`. `pnpm dev:remote` uses the configured RTQ review
+ngrok endpoint instead.
 
 Use the
 [RTQ development environment bootstrap](https://github.com/Read-The-Question/rtq-web/blob/develop/apps/web/docs/architecture/platform/rtq-web-bootstrap.md)

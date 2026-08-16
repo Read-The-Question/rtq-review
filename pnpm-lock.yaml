@@ -8,6 +8,8 @@ importers:
 
   .: {}
 
+  apps/review-api: {}
+
   apps/review-legacy-gatsby-web:
     dependencies:
       autoprefixer:

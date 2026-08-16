@@ -14,8 +14,8 @@
 - [`apps/review-question-viewer-web`](apps/review-question-viewer-web) is the
   maintained Next.js application for displaying one selected canonical paper
   question.
-
-The review API will move into this workspace in a separate migration.
+- [`apps/review-api`](apps/review-api) is the Ruby/Sinatra service that
+  validates review actions and writes review state to Google Sheets.
 
 ## Setup
 
@@ -47,8 +47,39 @@ pnpm dev --port 3002
 # Or run the retained Gatsby application:
 cd ../review-legacy-gatsby-web
 pnpm develop
+
+# Or run the review API through its Bundler-owned adapter:
+cd ../review-api
+pnpm dev
 ```
 
-The maintained review applications use ports `3000`, `3001`, and `3002`;
-Gatsby runs at `http://localhost:8000`. See each application README for its
-content and asset preparation details.
+The maintained review applications use ports `3000`, `3001`, and `3002`; the
+review API uses `4567`; Gatsby runs at `http://localhost:8000`. See each
+application README for its content, asset, and runtime prerequisites.
+
+The same applications can be started from the workspace root:
+
+```sh
+pnpm review-web:dev
+pnpm review-tag-web:dev
+pnpm review-question-viewer-web:dev
+pnpm review-legacy-gatsby-web:dev
+pnpm review-api:dev
+```
+
+The first four commands use workspace-installed Node dependencies. The API
+adapter deliberately delegates to Bundler; install its locked Ruby dependencies
+from `apps/review-api` before starting it:
+
+```sh
+cd apps/review-api
+bundle install
+cd ../..
+pnpm review-api:dependencies:check
+pnpm review-api:syntax:check
+```
+
+The API reads its application-local credential, token, and UUID-index files.
+Treat them as sensitive: do not print their contents or copy their values into
+logs or documentation. The complete multi-service tmux workflow remains owned
+by `rtq-content/packages/papers`.

@@ -1,0 +1,11 @@
+{
+  "name": "rtq-review-api",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "bundle exec ruby review.rb",
+    "start": "bundle exec ruby review.rb",
+    "dependencies:check": "bundle check",
+    "syntax:check": "ruby -c review.rb && ruby -c googlesheet_reader.rb"
+  }
+}

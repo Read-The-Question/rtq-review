@@ -7,9 +7,11 @@
 - [`apps/review-legacy-gatsby-web`](apps/review-legacy-gatsby-web) retains the
   generated-Markdown Gatsby reviewer. It is currently unused but remains the
   sole review consumer of copied paper assets until it is explicitly retired.
+- [`apps/review-web`](apps/review-web) is the maintained Next.js application
+  for reviewing generated paper Markdown and submitting review actions.
 
-The other review applications and the review API will move into this workspace
-in separate migrations. They are not part of this initial workspace setup.
+The tag reviewer, question viewer, and review API will move into this workspace
+in separate migrations.
 
 ## Setup
 
@@ -24,13 +26,17 @@ pnpm install --frozen-lockfile
 
 The workspace uses Node `22.22.3` and pnpm `10.15.1`.
 
-Run the legacy Gatsby application from its directory:
+Run an application from its directory:
 
 ```sh
+cd apps/review-web
+pnpm dev
+
+# Or run the retained Gatsby application:
 cd apps/review-legacy-gatsby-web
 pnpm develop
 ```
 
-It runs at `http://localhost:8000`. See the
-[application README](apps/review-legacy-gatsby-web/README.md) for content and
-asset preparation details.
+The maintained reviewer runs at `http://localhost:3000`; Gatsby runs at
+`http://localhost:8000`. See each application README for its content and asset
+preparation details.

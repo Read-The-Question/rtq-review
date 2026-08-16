@@ -9,9 +9,11 @@
   sole review consumer of copied paper assets until it is explicitly retired.
 - [`apps/review-web`](apps/review-web) is the maintained Next.js application
   for reviewing generated paper Markdown and submitting review actions.
+- [`apps/review-tag-web`](apps/review-tag-web) is the maintained Next.js
+  application for reviewing and editing tags directly in canonical paper TOML.
 
-The tag reviewer, question viewer, and review API will move into this workspace
-in separate migrations.
+The question viewer and review API will move into this workspace in separate
+migrations.
 
 ## Setup
 
@@ -32,8 +34,12 @@ Run an application from its directory:
 cd apps/review-web
 pnpm dev
 
+# Or run the tag reviewer on its established port:
+cd ../review-tag-web
+pnpm dev -- --port 3001
+
 # Or run the retained Gatsby application:
-cd apps/review-legacy-gatsby-web
+cd ../review-legacy-gatsby-web
 pnpm develop
 ```
 

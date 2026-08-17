@@ -1,21 +1,37 @@
 import path from 'node:path';
 
-import type {
-  EditableFolderKey,
-  ExemplarFolderKey,
-  FolderKey,
-} from '@/lib/paper-types';
+import {
+  REVIEW_WORKSPACE_ROOT,
+  resolveRtqContentPaths,
+} from '@rtq/review-repository-paths';
 
-export const REPO_ROOT = process.cwd();
-const configuredMathsAssetsRoot = process.env.RTQ_MATHS_ASSETS_ROOT?.trim();
-export const SOURCE_PAPERS_PACKAGE_ROOT = path.resolve(
-  REPO_ROOT,
-  '../../../rtq-content/packages/papers',
-);
-export const SOURCE_PAPERS_ROOT = path.join(
-  SOURCE_PAPERS_PACKAGE_ROOT,
-  'papers',
-);
+import type { EditableFolderKey, FolderKey } from '@/lib/paper-types';
+
+import {
+  FOLDER_ORDER,
+  compareFolderKeys,
+  folderLabel,
+  isEditableFolderKey,
+  isExemplarFolderKey,
+  isFolderKey,
+  isReadOnlyFolder,
+} from './paper-folder-metadata.ts';
+
+export {
+  FOLDER_ORDER,
+  compareFolderKeys,
+  folderLabel,
+  isEditableFolderKey,
+  isExemplarFolderKey,
+  isFolderKey,
+  isReadOnlyFolder,
+};
+
+const contentPaths = resolveRtqContentPaths();
+
+export const REPO_ROOT = REVIEW_WORKSPACE_ROOT;
+export const SOURCE_PAPERS_PACKAGE_ROOT = contentPaths.papersPackageRoot;
+export const SOURCE_PAPERS_ROOT = contentPaths.papersRoot;
 export const DIMENSIONAL_MAPPING_PATH = path.join(
   SOURCE_PAPERS_PACKAGE_ROOT,
   'docs/ai/tags/dimensional-tags/dimensional-tag-mapping.json',
@@ -28,10 +44,7 @@ export const MACROS_TOML_PATH = path.join(
   SOURCE_PAPERS_PACKAGE_ROOT,
   'scripts/papers/lib/model/macros.toml',
 );
-export const EXTERNAL_ASSETS_ROOT = path.resolve(
-  configuredMathsAssetsRoot ||
-    path.join(REPO_ROOT, '../../../rtq-content/packages/assets/assets'),
-);
+export const EXTERNAL_ASSETS_ROOT = contentPaths.assetsRoot;
 
 export const SOURCE_FOLDERS: Record<
   EditableFolderKey,
@@ -83,50 +96,6 @@ export const SOURCE_FOLDERS: Record<
   },
 };
 
-export const FOLDER_ORDER: EditableFolderKey[] = [
-  'toml',
-  'focusToml',
-  'focusTopicToml',
-  'focusRagToml',
-  'focusRagTopicToml',
-  'topicToml',
-  'ragToml',
-  'ragTopicToml',
-];
-
-const EXEMPLAR_FOLDER_PATTERN = /^exemplarsLevel(\d+)Toml$/;
-
-function exemplarLevel(folderKey: string) {
-  const match = EXEMPLAR_FOLDER_PATTERN.exec(folderKey);
-  return match ? Number(match[1]) : null;
-}
-
-export function isExemplarFolderKey(value: string): value is ExemplarFolderKey {
-  return exemplarLevel(value) !== null;
-}
-
-export function isEditableFolderKey(value: string): value is EditableFolderKey {
-  return value in SOURCE_FOLDERS;
-}
-
-export function isFolderKey(value: string): value is FolderKey {
-  return isEditableFolderKey(value) || isExemplarFolderKey(value);
-}
-
-export function isReadOnlyFolder(folderKey: FolderKey) {
-  return isExemplarFolderKey(folderKey);
-}
-
-export function folderLabel(folderKey: FolderKey) {
-  const level = exemplarLevel(folderKey);
-
-  if (level !== null) {
-    return `Exemplars Level ${level}`;
-  }
-
-  return SOURCE_FOLDERS[folderKey as EditableFolderKey].label;
-}
-
 export function resolveFolderPath(folderKey: FolderKey) {
   if (isExemplarFolderKey(folderKey)) {
     return path.join(SOURCE_PAPERS_ROOT, folderKey);
@@ -158,22 +127,6 @@ export function resolvePaperFilePath(
   }
 
   return absolutePath;
-}
-
-export function compareFolderKeys(left: FolderKey, right: FolderKey) {
-  const leftIndex = FOLDER_ORDER.indexOf(left as EditableFolderKey);
-  const rightIndex = FOLDER_ORDER.indexOf(right as EditableFolderKey);
-
-  if (leftIndex !== -1 || rightIndex !== -1) {
-    if (leftIndex === -1) return 1;
-    if (rightIndex === -1) return -1;
-    return leftIndex - rightIndex;
-  }
-
-  return folderLabel(left).localeCompare(folderLabel(right), undefined, {
-    numeric: true,
-    sensitivity: 'base',
-  });
 }
 
 export function relativePaperSlug(fileName: string) {

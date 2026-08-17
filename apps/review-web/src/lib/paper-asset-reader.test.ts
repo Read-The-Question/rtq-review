@@ -3,6 +3,7 @@ import fs from 'node:fs/promises';
 import os from 'node:os';
 import path from 'node:path';
 
+import { REVIEW_WORKSPACE_ROOT } from '@rtq/review-repository-paths';
 import test from 'node:test';
 
 // @ts-expect-error Node's native TypeScript runner requires the explicit extension.
@@ -18,38 +19,13 @@ const {
 const PAPER_STEM = 'alpha-school--11-plus--maths--2020--paper-1';
 
 test('resolves canonical assets from the review workspace layout', () => {
-  const previousRoot = process.env.RTQ_MATHS_ASSETS_ROOT;
-  delete process.env.RTQ_MATHS_ASSETS_ROOT;
-
-  try {
-    const reviewAppRoot = path.join(
-      path.parse(process.cwd()).root,
-      'workspace',
-      'Read-The-Question',
-      'rtq-review',
-      'apps',
-      'review-web',
-    );
-
-    assert.equal(
-      resolveConfiguredMathsAssetsRoot(reviewAppRoot),
-      path.join(
-        path.parse(process.cwd()).root,
-        'workspace',
-        'Read-The-Question',
-        'rtq-content',
-        'packages',
-        'assets',
-        'assets',
-      ),
-    );
-  } finally {
-    if (previousRoot === undefined) {
-      delete process.env.RTQ_MATHS_ASSETS_ROOT;
-    } else {
-      process.env.RTQ_MATHS_ASSETS_ROOT = previousRoot;
-    }
-  }
+  assert.equal(
+    resolveConfiguredMathsAssetsRoot(),
+    path.resolve(
+      REVIEW_WORKSPACE_ROOT,
+      '../rtq-content/packages/assets/assets',
+    ),
+  );
 });
 
 async function createFixture() {

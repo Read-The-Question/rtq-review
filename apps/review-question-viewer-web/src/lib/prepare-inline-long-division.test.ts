@@ -2,6 +2,7 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
 import path from 'node:path';
 
+import { resolveRtqContentPaths } from '@rtq/review-repository-paths';
 import test from 'node:test';
 
 // @ts-expect-error Node's native TypeScript runner requires the explicit extension.
@@ -23,10 +24,7 @@ async function findLongDivisionSvg(root: string): Promise<string | undefined> {
 }
 
 test('prepares canonical LongDivision SVG through the maths-assets package command', async () => {
-  const assetsRoot = path.resolve(
-    process.env.RTQ_MATHS_ASSETS_ROOT ??
-      path.join(process.cwd(), '../../../rtq-content/packages/assets/assets'),
-  );
+  const { assetsRoot } = resolveRtqContentPaths();
   const repositoryRoot = path.dirname(assetsRoot);
   const generatedRoot = path.join(assetsRoot, 'papers');
   const svgPath = await findLongDivisionSvg(generatedRoot);

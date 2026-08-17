@@ -2,6 +2,11 @@ import { existsSync } from 'node:fs';
 import fs from 'node:fs/promises';
 import path from 'node:path';
 
+import {
+  REVIEW_WORKSPACE_ROOT,
+  resolveRtqContentPaths,
+} from '@rtq/review-repository-paths';
+
 export const PAPER_IMAGE_EXTENSIONS = ['svg', 'png', 'jpg', 'jpeg'] as const;
 
 const ALLOWED_CONTENT_TYPES = new Map([
@@ -35,18 +40,11 @@ export class PaperAssetRequestError extends Error {
 }
 
 export function resolveConfiguredMathsAssetsRoot(
-  reviewRepositoryRoot = process.cwd(),
+  reviewRepositoryRoot = REVIEW_WORKSPACE_ROOT,
 ) {
-  const configuredRoot = process.env.RTQ_MATHS_ASSETS_ROOT?.trim();
-
-  return path.resolve(
-    /* turbopackIgnore: true */
-    configuredRoot ||
-      path.join(
-        reviewRepositoryRoot,
-        '../../../rtq-content/packages/assets/assets',
-      ),
-  );
+  return resolveRtqContentPaths({
+    workspaceRoot: reviewRepositoryRoot,
+  }).assetsRoot;
 }
 
 export function resolveCanonicalPaperImageExtension(

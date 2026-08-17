@@ -18,7 +18,7 @@ import {
   CommandList,
 } from '@/components/ui/command-dialog';
 import { Input } from '@/components/ui/input';
-import { compareFolderKeys, folderLabel } from '@/lib/paper-paths';
+import { compareFolderKeys, folderLabel } from '@/lib/paper-folder-metadata';
 import type { FileIndexItem, FolderKey } from '@/lib/paper-types';
 import { cn } from '@/lib/utils';
 

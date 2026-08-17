@@ -9,7 +9,7 @@ import * as paperPaths from './paper-paths.ts';
 test('resolves the canonical @rtq/papers package in the supported layout', () => {
   assert.equal(
     paperPaths.SOURCE_PAPERS_PACKAGE_ROOT,
-    path.resolve(paperPaths.REPO_ROOT, '../../../rtq-content/packages/papers'),
+    path.resolve(paperPaths.REPO_ROOT, '../rtq-content/packages/papers'),
   );
   assert.equal(
     paperPaths.SOURCE_PAPERS_ROOT,

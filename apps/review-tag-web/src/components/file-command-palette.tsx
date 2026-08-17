@@ -14,7 +14,7 @@ import {
   CommandItem,
   CommandList,
 } from '@/components/ui/command-dialog';
-import { compareFolderKeys, folderLabel } from '@/lib/paper-paths';
+import { compareFolderKeys, folderLabel } from '@/lib/paper-folder-metadata';
 import type { FileIndexItem, FolderKey } from '@/lib/paper-types';
 
 type FileCommandPaletteProps = {

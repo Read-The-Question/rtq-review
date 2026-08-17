@@ -18,7 +18,7 @@ export const rtqPaths = {
     process.env.RTQ_REVIEW_CONTENT_DIR,
     path.join(/* turbopackIgnore: true */ process.cwd(), 'md'),
   ),
-  mathsAssetsRoot: resolveConfiguredMathsAssetsRoot(repoRoot),
+  mathsAssetsRoot: resolveConfiguredMathsAssetsRoot(),
 };
 
 export const sectionLabelMap: Record<string, string> = {

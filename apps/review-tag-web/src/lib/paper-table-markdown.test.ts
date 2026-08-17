@@ -2,7 +2,6 @@ import assert from 'node:assert/strict';
 
 import test from 'node:test';
 
-// @ts-expect-error Node's native TypeScript runner requires the explicit extension.
 import { normalizePaperTableMarkdown } from './paper-table-markdown.ts';
 
 test('removes a PaperTable wrapper without changing its GFM body', () => {

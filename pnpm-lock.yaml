@@ -63,12 +63,15 @@ importers:
       '@iarna/toml':
         specifier: ^2.2.5
         version: 2.2.5
+      '@rtq/review-repository-paths':
+        specifier: workspace:*
+        version: link:../../packages/repository-paths
       katex:
         specifier: ^0.17.0
         version: 0.17.0
       next:
         specifier: 16.2.6
-        version: 16.2.6(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
+        version: 16.2.6(@babel/core@7.29.7)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
       react:
         specifier: 19.2.4
         version: 19.2.4
@@ -154,6 +157,9 @@ importers:
       '@radix-ui/react-tooltip':
         specifier: ^1.2.8
         version: 1.2.16(@types/react-dom@19.2.4(@types/react@19.2.18))(@types/react@19.2.18)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
+      '@rtq/review-repository-paths':
+        specifier: workspace:*
+        version: link:../../packages/repository-paths
       class-variance-authority:
         specifier: ^0.7.1
         version: 0.7.1
@@ -171,7 +177,7 @@ importers:
         version: 1.31.0(react@19.2.4)
       next:
         specifier: 16.2.5
-        version: 16.2.5(@babel/core@7.29.7)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
+        version: 16.2.5(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
       react:
         specifier: 19.2.4
         version: 19.2.4
@@ -236,6 +242,9 @@ importers:
 
   apps/review-web:
     dependencies:
+      '@rtq/review-repository-paths':
+        specifier: workspace:*
+        version: link:../../packages/repository-paths
       chokidar:
         specifier: ^5.0.0
         version: 5.0.0
@@ -315,6 +324,8 @@ importers:
       typescript:
         specifier: ^5
         version: 5.4.2
+
+  packages/repository-paths: {}
 
 packages:
 
@@ -16403,7 +16414,7 @@ snapshots:
       - '@babel/core'
       - babel-plugin-macros
 
-  next@16.2.5(@babel/core@7.29.7)(react-dom@19.2.4(react@19.2.4))(react@19.2.4):
+  next@16.2.5(react-dom@19.2.4(react@19.2.4))(react@19.2.4):
     dependencies:
       '@next/env': 16.2.5
       '@swc/helpers': 0.5.15
@@ -16427,7 +16438,7 @@ snapshots:
       - '@babel/core'
       - babel-plugin-macros
 
-  next@16.2.6(react-dom@19.2.4(react@19.2.4))(react@19.2.4):
+  next@16.2.6(@babel/core@7.29.7)(react-dom@19.2.4(react@19.2.4))(react@19.2.4):
     dependencies:
       '@next/env': 16.2.6
       '@swc/helpers': 0.5.15

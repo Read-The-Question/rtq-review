@@ -21,8 +21,8 @@ for this site's generated-Markdown and direct-asset ownership boundaries.
 
 - Node.js 22.22.3 (declared by the `rtq-review` workspace root)
 - Corepack with pnpm 10.15.1
-- A compatible `rtq-content/packages/assets` package, or
-  `RTQ_MATHS_ASSETS_ROOT` set to its absolute `assets/` directory
+- A compatible sibling `rtq-content` checkout, or `RTQ_CONTENT_ROOT` set to
+  that Git root
 
 With nvm, run `nvm install` on first use and `nvm use` from the workspace root
 later. Otherwise select Node 22.22.3 with your version manager. Enable the
@@ -30,7 +30,7 @@ package manager shim once on a new machine, then install the locked workspace
 dependencies:
 
 ```bash
-cd ~/Self/Carpediem/Read-The-Question/rtq-review
+cd /path/to/rtq-review
 corepack enable
 pnpm install --frozen-lockfile
 ```
@@ -38,12 +38,12 @@ pnpm install --frozen-lockfile
 ## Local use
 
 ```bash
-cd ~/Self/Carpediem/Read-The-Question/rtq-review/apps/review-web
+cd /path/to/rtq-review/apps/review-web
 pnpm dev
 ```
 
 Open `http://localhost:3000`. For the complete multi-repository workflow, start
-the review stack from `Read-The-Question/rtq-content/packages/papers` so its
+the review stack from `rtq-content/packages/papers` so its
 generated content and review services are prepared together. PaperImage
 requests are resolved at request time from `@rtq/maths-assets`; adjacent JSON
 and generated manifests remain server-only and cannot be requested through the

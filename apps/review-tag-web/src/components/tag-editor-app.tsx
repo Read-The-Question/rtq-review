@@ -8,7 +8,7 @@ import { refreshPaperDocumentAction } from '@/app/actions';
 import { FileCommandPalette } from '@/components/file-command-palette';
 import { NodeDocument } from '@/components/node-document';
 import { Separator } from '@/components/ui/separator';
-import { isReadOnlyFolder } from '@/lib/paper-paths';
+import { isReadOnlyFolder } from '@/lib/paper-folder-metadata';
 import type {
   FileIndexItem,
   PaperDocument,

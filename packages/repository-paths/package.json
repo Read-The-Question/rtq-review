@@ -1,0 +1,12 @@
+{
+  "name": "@rtq/review-repository-paths",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "scripts": {
+    "test": "node --no-warnings --test --experimental-strip-types src/index.test.ts"
+  }
+}

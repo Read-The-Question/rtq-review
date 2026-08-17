@@ -8,7 +8,7 @@ import { FileCommandPalette } from '@/components/file-command-palette';
 import { Badge } from '@/components/ui/badge';
 import { Input } from '@/components/ui/input';
 import { ScrollArea } from '@/components/ui/scroll-area';
-import { compareFolderKeys, folderLabel } from '@/lib/paper-paths';
+import { compareFolderKeys, folderLabel } from '@/lib/paper-folder-metadata';
 import type { FileIndexItem, FolderKey } from '@/lib/paper-types';
 import { cn } from '@/lib/utils';
 

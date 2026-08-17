@@ -1,23 +1,20 @@
 import path from 'node:path';
 
-export const REPO_ROOT = process.cwd();
-const configuredMathsAssetsRoot = process.env.RTQ_MATHS_ASSETS_ROOT?.trim();
-export const SOURCE_PAPERS_PACKAGE_ROOT = path.resolve(
-  REPO_ROOT,
-  '../../../rtq-content/packages/papers',
-);
-export const SOURCE_PAPERS_ROOT = path.join(
-  SOURCE_PAPERS_PACKAGE_ROOT,
-  'papers',
-);
+import {
+  REVIEW_WORKSPACE_ROOT,
+  resolveRtqContentPaths,
+} from '@rtq/review-repository-paths';
+
+const contentPaths = resolveRtqContentPaths();
+
+export const REPO_ROOT = REVIEW_WORKSPACE_ROOT;
+export const SOURCE_PAPERS_PACKAGE_ROOT = contentPaths.papersPackageRoot;
+export const SOURCE_PAPERS_ROOT = contentPaths.papersRoot;
 export const MACROS_TOML_PATH = path.join(
   SOURCE_PAPERS_PACKAGE_ROOT,
   'scripts/papers/lib/model/macros.toml',
 );
-export const EXTERNAL_ASSETS_ROOT = path.resolve(
-  configuredMathsAssetsRoot ||
-    path.join(REPO_ROOT, '../../../rtq-content/packages/assets/assets'),
-);
+export const EXTERNAL_ASSETS_ROOT = contentPaths.assetsRoot;
 
 export function normalizePaperRelativePath(relativePathFromPapers: string) {
   return relativePathFromPapers.replace(/\\/g, '/').replace(/^\/+/, '');

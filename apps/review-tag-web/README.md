@@ -1,6 +1,8 @@
 # RTQ Tag Review Web
 
-Internal Next.js application for browsing RTQ maths-paper TOML and reviewing or editing question tags. It reads canonical `@rtq/papers` and `@rtq/maths-assets` from the `Read-The-Question/rtq-content` workspace using the standard Carpediem layout.
+Internal Next.js application for browsing RTQ maths-paper TOML and reviewing
+or editing question tags. It reads canonical `@rtq/papers` and
+`@rtq/maths-assets` from one validated `rtq-content` checkout.
 
 Use the
 [RTQ development environment bootstrap](https://github.com/Read-The-Question/rtq-web/blob/develop/apps/web/docs/architecture/platform/rtq-web-bootstrap.md)
@@ -12,8 +14,8 @@ for the direct TOML edit and canonical-asset ownership boundaries.
 
 - Node.js 22.22.3 (declared by the `rtq-review` workspace root)
 - Corepack with pnpm 10.15.1
-- A compatible `rtq-content/packages/assets` package, or
-  `RTQ_MATHS_ASSETS_ROOT` set to its absolute `assets/` directory
+- A compatible sibling `rtq-content` checkout, or `RTQ_CONTENT_ROOT` set to
+  that Git root
 
 With nvm, run `nvm install` on first use and `nvm use` from the workspace root
 later. Otherwise select Node 22.22.3 with your version manager. Enable the
@@ -21,7 +23,7 @@ package manager shim once on a new machine, then install the locked workspace
 dependencies:
 
 ```bash
-cd ~/Self/Carpediem/Read-The-Question/rtq-review
+cd /path/to/rtq-review
 corepack enable
 pnpm install --frozen-lockfile
 ```
@@ -29,7 +31,7 @@ pnpm install --frozen-lockfile
 ## Local use
 
 ```bash
-cd ~/Self/Carpediem/Read-The-Question/rtq-review/apps/review-tag-web
+cd /path/to/rtq-review/apps/review-tag-web
 pnpm dev --port 3001
 ```
 

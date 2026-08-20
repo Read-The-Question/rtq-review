@@ -19,13 +19,13 @@ for this site's generated-Markdown and direct-asset ownership boundaries.
 
 ## Requirements
 
-- Node.js 22.22.3 (declared by the `rtq-review` workspace root)
+- Node.js 24.19.0 (declared by the `rtq-review` workspace root)
 - Corepack with pnpm 10.15.1
 - A compatible sibling `rtq-content` checkout, or `RTQ_CONTENT_ROOT` set to
   that Git root
 
 With nvm, run `nvm install` on first use and `nvm use` from the workspace root
-later. Otherwise select Node 22.22.3 with your version manager. Enable the
+later. Otherwise select Node 24.19.0 with your version manager. Enable the
 package manager shim once on a new machine, then install the locked workspace
 dependencies:
 

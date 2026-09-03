@@ -1,0 +1,39 @@
+{
+  "name": "rtq-docs-web",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "next build --webpack",
+    "dev": "next dev --webpack",
+    "start": "next start",
+    "lint": "pnpm lint:check",
+    "lint:check": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "format:check": "prettier --check .",
+    "format:fix": "prettier --write .",
+    "types": "next typegen && tsc --noEmit",
+    "test": "node --no-warnings --test --experimental-strip-types src/lib/__tests__/documentation-sources.test.ts"
+  },
+  "dependencies": {
+    "fumadocs-core": "16.15.5",
+    "fumadocs-mdx": "15.4.0",
+    "fumadocs-ui": "npm:@fumadocs/base-ui@16.15.5",
+    "next": "16.3.3",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "@types/mdx": "^2.0.14",
+    "@types/node": "^26.3.0",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.5",
+    "prettier": "^3.8.0",
+    "postcss": "^8.5.26",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^6.0.3",
+    "eslint": "^9.39.4",
+    "eslint-config-next": "16.3.3"
+  }
+}

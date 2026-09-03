@@ -4,6 +4,9 @@
 
 ## Applications
 
+- [`apps/docs-web`](apps/docs-web) is the internal Fumadocs application for
+  reading selected documentation directly from the active RTQ repository
+  working trees.
 - [`apps/review-legacy-gatsby-web`](apps/review-legacy-gatsby-web) retains the
   generated-Markdown Gatsby reviewer. It is currently unused but remains the
   sole review consumer of copied paper assets until it is explicitly retired.
@@ -44,6 +47,10 @@ Run an application from its directory:
 cd apps/review-web
 pnpm dev
 
+# Or run the internal documentation application:
+cd ../docs-web
+pnpm dev --port 3003
+
 # Or run the tag reviewer on its established port:
 cd ../review-tag-web
 pnpm dev --port 3001
@@ -62,12 +69,14 @@ pnpm dev
 ```
 
 The maintained review applications use ports `3000`, `3001`, and `3002`; the
-review API uses `4567`; Gatsby runs at `http://localhost:8000`. See each
-application README for its content, asset, and runtime prerequisites.
+documentation application uses `3003`; the review API uses `4567`; Gatsby runs
+at `http://localhost:8000`. See each application README for its content, asset,
+and runtime prerequisites.
 
 The same applications can be started from the workspace root:
 
 ```sh
+pnpm docs-web:dev
 pnpm review-web:dev
 pnpm review-tag-web:dev
 pnpm review-question-viewer-web:dev

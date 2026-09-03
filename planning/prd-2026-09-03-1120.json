@@ -1,0 +1,233 @@
+{
+  "id": "PRD-20260903-1120",
+  "title": "Cross-repository documentation website",
+  "date": "2026-09-03",
+  "stage": "n/a",
+  "status": "todo",
+  "goal": [
+    "Provide a readable documentation website that presents selected documentation maintained across the four RTQ repositories.",
+    "Keep documentation in its owning repository while making it accessible through one documentation application.",
+    "Reflect documentation edits from the active working copies in real time without manual copying, snapshots, or content rebuilds."
+  ],
+  "scope": {
+    "in": [
+      "A documentation application that can consume documentation from the review, environment, content, and main website repositories.",
+      "Explicit selection of one or more documentation paths within each repository and its pnpm workspace.",
+      "Rendering and navigation for selected Markdown documentation from all configured repositories.",
+      "Live loading or reload support when source documentation changes.",
+      "An internal documentation tool, with a new application in the rtq-review workspace as the preferred location pending confirmation.",
+      "Use an established documentation framework and its supplied documentation UI rather than designing and implementing a documentation system from scratch."
+    ],
+    "out": [
+      "Consolidating or copying all documentation into the documentation application's repository.",
+      "Automatically publishing every Markdown file found in the repositories.",
+      "Resolving or migrating legacy documentation as part of this iteration.",
+      "Indexing documentation for every branch, retaining historical versions, or generating documentation snapshots.",
+      "Building a public or end-user-facing documentation product.",
+      "Creating a custom documentation design system, CMS, database, synchronization service, or indexing pipeline for the initial version.",
+      "Creating a custom filesystem watcher or invalidation service unless standard Fumadocs and Next.js behavior fails the proof of fit and the additional work is approved separately."
+    ],
+    "constraints": [
+      "The solution spans four separate repositories, each of which may be a pnpm workspace containing multiple applications.",
+      "A repository may contribute documentation from multiple explicitly configured paths.",
+      "Documentation remains maintained close to the repository and code it describes.",
+      "Only explicitly configured documentation locations are exposed; unrelated Markdown, AGENTS.md, and AI or agent workflow files must not be included implicitly.",
+      "The documentation application must consume source documentation without creating maintained duplicate copies.",
+      "The application presents the current filesystem state of the active repository checkouts rather than branch history or a generated snapshot.",
+      "The application is an internal RTQ development and operations tool rather than part of the user-facing Rtqweb product.",
+      "Fumadocs is the preferred framework, but adoption is conditional on proving reliable discovery and live reload for documentation in sibling repository working trees.",
+      "Documentation from different repositories or applications remains separated into named top-level source roots; their internal source-relative folder structures are not flattened together.",
+      "The initial implementation stays as close as practical to the standard Fumadocs scaffold, components, layout, navigation, rendering, and search behavior; customization requires a demonstrated requirement."
+    ]
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "title": "Scaffold RTQ Docs with Fumadocs and integrate Review - Tag documentation",
+      "status": "done",
+      "description": "Create the rtq-docs-web application in apps/docs-web using Fumadocs, then integrate the selected documentation for apps/review-tag-web as the first isolated documentation source.",
+      "acceptanceCriteria": [
+        "A new Fumadocs application exists at apps/docs-web with package name rtq-docs-web and display name RTQ Docs.",
+        "The app is part of the existing pnpm workspace and follows this repository's current Next.js 16, React 19, TypeScript, and Tailwind conventions.",
+        "The application starts from the standard supported Fumadocs project structure and retains the supplied documentation layout and styling without bespoke UI work.",
+        "Implementation code beyond the standard scaffold is limited to repository-path resolution, the allowlisted Review - Tag source configuration, its stable source namespace, and proportionate validation.",
+        "The documentation source configuration includes apps/review-tag-web/README.md and does not copy that source file into apps/docs-web.",
+        "The documentation page tree presents Review - Tag as a distinct top-level source root, with the README rendered as the Review - Tag landing page.",
+        "Any paths beneath the selected Review - Tag documentation root preserve their source-relative hierarchy below the Review - Tag root rather than being flattened or merged with another source.",
+        "apps/review-tag-web/AGENTS.md, apps/review-tag-web/CLAUDE.md, and other non-allowlisted Markdown are not exposed.",
+        "Editing the Review - Tag source README while the documentation app is running updates the rendered page without copying the file, manually regenerating content, or restarting the server.",
+        "Fumadocs-generated outputs such as .source are treated as reproducible build or development artifacts and are not committed.",
+        "The Review - Tag source route, navigation root, allowlist exclusions, and live-update behavior have automated checks where practical and a documented smoke-test procedure for the browser refresh behavior.",
+        "The new app passes its formatting, lint, type, test, and production-build checks."
+      ],
+      "steps": [],
+      "notes": "Implemented at apps/docs-web with package name rtq-docs-web and display name RTQ Docs. The standard Fumadocs layout reads only apps/review-tag-web/README.md directly under the Review - Tag source root; no source copy is maintained, AGENTS.md and CLAUDE.md routes return 404, and .source is ignored. Native live-update validation temporarily edited the source README, observed the marker in the rendered route without generation or restart, restored the README, and observed the marker disappear. Next.js Webpack mode is used for dev and build because the current Turbopack integration served the external source but did not invalidate its cached page after the edit; no custom watcher was added. Formatting, lint, types, three source-mapping tests, and the production build pass. The source README has no final diff. Cross-repository ingestion remains a later task.",
+      "children": []
+    },
+    {
+      "id": "T1.1",
+      "title": "Publish RTQ Docs architecture documentation",
+      "status": "done",
+      "description": "Create documentation owned by the RTQ Docs application under apps/docs-web/docs, write an architecture guide explaining how the Fumadocs application is assembled and extended, and expose that folder as a distinct RTQ Docs top-level source in the documentation website.",
+      "acceptanceCriteria": [
+        "The RTQ Docs application has an owned documentation root at apps/docs-web/docs, and only Markdown selected from that folder is eligible for publication by this source.",
+        "A Fumadocs architecture guide exists at apps/docs-web/docs/architecture/fumadocs-architecture.md with a clear human-readable title and navigation placement beneath an Architecture section.",
+        "The guide explains the roles of Next.js, fumadocs-mdx, fumadocs-core, and fumadocs-ui and traces how a source Markdown file becomes a navigation entry, rendered documentation page, search result, raw Markdown response, and development-time live update.",
+        "The guide distinguishes the standard create-fumadocs-app scaffold from RTQ-specific source configuration, path mapping, landing-page handling, source links, scripts, and tests.",
+        "The guide documents the logic for adding another documentation source, including its stable source key, display label, physical directory, repository identity and branch, allowlisted files or paths, landing-page behavior, preserved source-relative hierarchy, and validation expectations.",
+        "The guide covers both another source within rtq-review and a source in a sibling repository, including required checkout or build filesystem availability and the distinction between development-server live reload and production build-time content.",
+        "The Fumadocs source loader exposes apps/docs-web/docs beneath a separate top-level navigation root labelled RTQ Docs while preserving the existing Review - Tag root and route.",
+        "The RTQ Docs source does not expose apps/docs-web/README.md, AGENTS.md, CLAUDE.md, source code, build artifacts, or Markdown outside apps/docs-web/docs.",
+        "The architecture document is consumed directly from apps/docs-web/docs without a maintained copy or synchronization step and updates through the same supported development-time reload behavior as other configured sources.",
+        "Automated tests cover the RTQ Docs source allowlist, stable namespace and hierarchy mapping, exclusion boundaries, and representative route or page-tree behavior where practical.",
+        "The documentation app's formatting, lint, type, test, and production-build checks pass after the source is added."
+      ],
+      "steps": [],
+      "notes": "Implemented an RTQ Docs-owned source rooted at apps/docs-web/docs with the architecture guide at docs/architecture/fumadocs-architecture.md. The source is published beneath the stable rtq-docs namespace and visible RTQ Docs navigation root alongside Review - Tag. Source descriptors now carry repository identity and shared lookup, path, hierarchy, and GitHub URL helpers support both sources without duplicating routes. Runtime checks returned 200 for both configured sources and 404 for RTQ Docs README, AGENTS, and CLAUDE routes. A temporary marker added to the architecture source appeared without generation or server restart and disappeared after restoration, proving development-time live reload. Formatting, lint, types, six tests, and the production build pass; the build emits both documentation pages and their Markdown and Open Graph variants. The current implementation remains an application inside the rtq-review Git repository, not a separate Git repository.",
+      "children": []
+    },
+    {
+      "id": "T2",
+      "title": "Remove nonessential Fumadocs scaffold features",
+      "status": "in_review",
+      "description": "Reduce RTQ Docs to the functionality required for an internal documentation website by removing the scaffold's LLM, raw-Markdown, Open Graph, unused icon, and unused class-name features while retaining documentation rendering, navigation, search, source links, and live development updates.",
+      "acceptanceCriteria": [
+        "The application's intentional functional routes are limited to the landing page at /, documentation rendering at /docs/[[...slug]], and documentation search at /api/search; framework-provided internal error handling is not counted as an application feature route.",
+        "The /llms.txt, /llms-full.txt, and /llms.mdx/docs/[[...slug]] route implementations are removed and no LLM-specific source helpers or imports remain.",
+        "Raw-Markdown content negotiation and .md rewriting are removed, including the application proxy and the raw-Markdown URL helpers and constants.",
+        "MarkdownCopyButton and Markdown-backed ViewOptionsPopover behavior are removed from documentation pages, while a simple repository source link remains available to maintainers.",
+        "The /og/docs/[...slug] route, image URL helper, Open Graph image metadata, and Open Graph rendering imports are removed while ordinary page title and description metadata remain.",
+        "Processed-Markdown generation used only by the removed LLM and raw-Markdown routes is disabled in each Fumadocs collection.",
+        "The unused Lucide page-tree integration is removed from the loader and lucide-react is no longer a direct application dependency unless another retained feature demonstrates a direct use.",
+        "The unused src/lib/cn.ts utility is removed and cnfast is no longer a direct application dependency.",
+        "The RTQ Docs README and Fumadocs architecture guide describe the reduced route and feature surface without references that imply the removed endpoints still exist.",
+        "Both Review - Tag and RTQ Docs documentation remain navigable and searchable, excluded Markdown remains unavailable, repository source links remain correct, and development-time source edits still update without restart or content generation.",
+        "Automated checks cover the retained source behavior and confirm that removed feature routes and dependencies are absent where practical.",
+        "The documentation app passes formatting, lint, type, test, and production-build checks after cleanup."
+      ],
+      "steps": [],
+      "notes": "Removed the LLM index, full-text, per-page raw-Markdown, Open Graph image, and content-negotiation proxy routes together with their source helpers, constants, processed-Markdown generation, page actions, and metadata. Documentation pages retain a simple View source link and ordinary title and description metadata. Removed the unused Lucide page-tree plugin and the direct lucide-react dependency, plus the unused cn utility and direct cnfast dependency; Fumadocs still carries transitive UI dependencies as expected. Updated the application README and architecture guide to document only /, /docs/[[...slug]], and /api/search. Added automated checks for the retained route files, removed route files, and direct dependency exclusions. Runtime checks returned 200 for the three retained surfaces and both documentation sources, and 404 for all removed endpoints and .md negotiation; source links remained correct. A temporary source marker appeared without restart or generation and disappeared after restoration, confirming live reload. Formatting, lint, types, eight tests, and the production build pass. The first type run found stale ignored .next declarations for deleted routes; clearing the reproducible cache and regenerating route types resolved it. The final build manifest contains only /, /api/search, /docs/[[...slug]], and Next.js internal error handling. The test file now lives under src/lib/__tests__ rather than beside production code.",
+      "children": []
+    },
+    {
+      "id": "T3",
+      "title": "Establish repository-shaped documentation hierarchy",
+      "status": "todo",
+      "description": "Restructure RTQ Docs so its entry experience and navigation mirror the ownership hierarchy of the four RTQ repositories, their apps, and their packages, using a common initial convention that each application or package may contribute an explicit README.md and an explicit docs folder.",
+      "acceptanceCriteria": [
+        "Opening / enters the documentation experience at /docs, with the standard documentation layout and complete left navigation visible immediately rather than a separate marketing-style home page.",
+        "The primary navigation has stable top-level roots for rtq-content, rtq-env, rtq-review, and rtq-web, and documentation from one repository is never flattened into another repository's tree.",
+        "PNPM workspace repositories use visible Apps and Packages ownership groups that mirror their repository structure; rtq-env does not receive synthetic Apps or Packages groups when they do not exist in that repository.",
+        "The rtq-content structure represents the assets and papers packages; rtq-review represents docs-web, review-api, review-legacy-gatsby-web, review-question-viewer-web, review-tag-web, review-web, and repository-paths under their correct Apps or Packages groups; rtq-web represents its web app and feature-config package.",
+        "Every registered application or package can independently configure a root README.md source and a docs folder source, initially using README.md and docs/**/*.md as the common expected convention without scanning other Markdown.",
+        "A published README.md remains a visible navigation item explicitly labelled README.md and is not promoted into, renamed as, or hidden behind an application, package, or repository landing page.",
+        "A published docs folder remains an explicit visible Docs section beneath its owning application or package, and all folders and documents inside it preserve their source-relative hierarchy.",
+        "Friendly navigation labels such as Review - Tag are configurable independently from stable repository, application, package, and route keys; presentation labels do not weaken path ownership or create ambiguous URLs.",
+        "The structural registry includes every currently identified repository, application, and package as a documentation candidate, while missing conventional README.md or docs paths are detected clearly and do not cause unrelated available documentation to fail.",
+        "The implementation produces a clear inventory of missing or nonconforming expected documentation locations so each repository can subsequently be reviewed and corrected case by case rather than silently broadening discovery.",
+        "The existing Review - Tag README and RTQ Docs architecture content move beneath their correct rtq-review/Apps ownership paths and follow the explicit README.md and Docs navigation conventions.",
+        "Repository source links continue to resolve to the owning repository, branch, and physical file even when friendly labels and virtual hierarchy differ from filesystem paths.",
+        "Search spans all published pages across repository roots while navigation and routes retain the repository and workspace ownership hierarchy.",
+        "Automated tests cover hierarchy generation, friendly labels, explicit README.md and Docs nodes, stable route keys, missing conventional paths, source exclusions, and representative sources from more than one repository.",
+        "The documentation app passes formatting, lint, type, test, production-build, route, and development live-update checks after the hierarchy is introduced."
+      ],
+      "steps": [],
+      "notes": "This task establishes the shared structural convention and candidate registry. The exact included documentation and any source relocation for each repository, application, and package will be refined through the planned case-by-case repository exercise before or during execution; the implementation must not compensate for missing conventional paths by scanning broadly.",
+      "children": []
+    },
+    {
+      "id": "T4",
+      "title": "Load selected documentation without copying it",
+      "status": "todo",
+      "description": "Discover and load documentation directly from all configured paths in the owning repository workspaces while excluding unrelated Markdown and workflow files.",
+      "acceptanceCriteria": [
+        "Only files beneath configured documentation paths are included.",
+        "Multiple configured paths from the same repository can be loaded without treating the entire repository as documentation.",
+        "Every configured repository or application source appears under its own stable, named top-level navigation root.",
+        "Documentation content is read from its owning repository and no maintained duplicate is introduced in the documentation application.",
+        "Markdown outside configured sources, including AGENTS.md and AI-related workflow material, is not exposed implicitly.",
+        "Tests cover inclusion, exclusion, and content loading across more than one repository."
+      ],
+      "steps": [],
+      "notes": "The handling of links, images, and other assets will be refined after the remaining requirements are captured.",
+      "children": []
+    },
+    {
+      "id": "T5",
+      "title": "Present unified documentation navigation and pages",
+      "status": "todo",
+      "description": "Provide an internal documentation website through which the RTQ team can navigate and read the configured documentation across repository boundaries.",
+      "acceptanceCriteria": [
+        "Users can browse selected documentation from each configured repository in one application.",
+        "The interface clearly identifies and organizes documentation sources without requiring users to navigate four repositories manually.",
+        "Markdown documentation is rendered in a readable documentation-oriented presentation.",
+        "The initial interface uses Fumadocs UI's supplied documentation layout, sidebar, page tree, table of contents, and responsive navigation unless a concrete requirement cannot be met by them.",
+        "The application is clearly scoped and configured as an internal tool rather than a user-facing Rtqweb surface.",
+        "Tests cover navigation to and rendering of representative documents from multiple sources."
+      ],
+      "steps": [],
+      "notes": "Information architecture and visual requirements remain to be specified.",
+      "children": []
+    },
+    {
+      "id": "T6",
+      "title": "Support live documentation updates",
+      "status": "todo",
+      "description": "Ensure edits made to configured documentation in any active source repository checkout become visible in the running documentation application in real time.",
+      "acceptanceCriteria": [
+        "A change to a configured source document is reflected in the running documentation application without copying the file or manually rebuilding documentation content.",
+        "Changes from repositories outside the documentation application's own repository are observed.",
+        "The displayed content follows the current active checkout and working tree; no branch catalogue, version history, or snapshot is created.",
+        "The implementation first uses Fumadocs and Next.js dependency tracking and configures the Turbopack filesystem root to contain all selected repository paths when cross-repository sources are introduced.",
+        "If native watching is insufficient, the fallback watcher observes only allowlisted documentation paths and ignores dependency, build-output, agent-instruction, and other unrelated files.",
+        "Any fallback handles file additions, content changes, renames, and deletions, invalidates both document content and navigation data, and causes connected browsers to refresh the affected server-rendered state.",
+        "Any fallback coalesces burst events, avoids duplicate watcher instances during development hot reload, reports watcher failures clearly, and releases resources when the server exits.",
+        "The expected reload behavior and any platform limitations are documented.",
+        "Tests or an automated integration check verify change detection and content/navigation invalidation for an external repository source."
+      ],
+      "steps": [],
+      "notes": "The runtime environment and exact definition of real-time refresh remain to be specified. If a fallback is required, the repository already contains a Chokidar-based singleton, debounce, and event-subscription pattern in apps/review-web/src/lib/rtq-content-events.ts. A one-way server-sent event followed by a Next.js router refresh is likely sufficient; WebSockets are not required unless later requirements become bidirectional.",
+      "children": []
+    }
+  ],
+  "validation": [
+    "pnpm --filter rtq-docs-web format:check",
+    "pnpm --filter rtq-docs-web lint:check",
+    "pnpm --filter rtq-docs-web types",
+    "pnpm --filter rtq-docs-web test",
+    "pnpm --filter rtq-docs-web build"
+  ],
+  "openQuestions": [
+    "What are the exact repository names, expected sibling-directory layout, and configurable path requirements?",
+    "After the initial Review - Tag README integration, which documentation paths should be included from the other applications and repositories?",
+    "Where will this internal application run, and what refresh latency or browser behavior counts as real time?",
+    "How should navigation, ordering, titles, and grouping be declared across repositories?",
+    "How should relative links, images, and other assets referenced by source Markdown be resolved?",
+    "Which Markdown extensions, search capabilities, access controls, and internal deployment or launch workflow are required?",
+    "Will the Fumadocs proof of fit confirm reliable filesystem watching for sibling repositories, or will a small explicit watcher and invalidation adapter be required?"
+  ],
+  "decisions": [
+    "Documentation remains distributed across and maintained within its owning repositories.",
+    "The documentation application provides a unified view without introducing maintained copies of source documentation.",
+    "Documentation sources are explicitly selected by folder; repository-wide Markdown discovery is not the default.",
+    "Each repository may contribute multiple documentation paths from different applications or packages in its pnpm workspace.",
+    "Documentation sources retain separate named top-level roots, while folders and files within each source retain their source-relative hierarchy.",
+    "The application reads the current active repository checkouts and does not catalogue branches or create documentation snapshots.",
+    "The documentation experience is an internal tool and is not part of the user-facing Rtqweb application.",
+    "The documentation application will be created at apps/docs-web with package name rtq-docs-web and display name RTQ Docs.",
+    "The first integrated source is apps/review-tag-web/README.md under a top-level Review - Tag root; AGENTS.md and CLAUDE.md are excluded.",
+    "The RTQ Docs application will own documentation beneath apps/docs-web/docs and publish only that folder beneath a distinct top-level RTQ Docs source root.",
+    "The initial RTQ Docs-owned architecture guide will live at apps/docs-web/docs/architecture/fumadocs-architecture.md and explain the Fumadocs architecture, current RTQ assembly, source-extension procedure, live-reload model, and cross-repository filesystem requirements.",
+    "The internal application will remove the scaffold's LLM, raw-Markdown, Open Graph, unused Lucide integration, and unused class-name utility surfaces, retaining only the landing page, documentation pages, search, source links, and development-time live updates.",
+    "The documentation entry route will open the documentation layout directly, with repository-shaped navigation visible immediately rather than a separate marketing home page.",
+    "Navigation mirrors repository ownership as repository, Apps or Packages where present, application or package, and then explicit README.md and Docs content; friendly labels are presentation metadata rather than structural identity.",
+    "README.md remains an explicitly named navigation item instead of becoming a hidden or renamed landing page, and the docs directory remains a visible Docs section whose internal hierarchy is preserved.",
+    "The initial structural convention expects README.md and docs/**/*.md for every registered application and package, but missing or misplaced sources are reported for case-by-case correction and never trigger broad Markdown discovery.",
+    "The initial application will use Fumadocs out of the box and remain deliberately thin; custom UI, content infrastructure, and watcher services are deferred unless a proven requirement makes them necessary.",
+    "Live reload follows a native-first strategy: use Fumadocs and Next.js dependency watching, widen the Turbopack root only when sibling repositories require it, and add an allowlist-scoped Chokidar invalidation channel only if the proof of fit fails.",
+    "Fumadocs is preferred over Nextra because its collection, loader, and workspace APIs are designed to combine multiple independently configured documentation sources; final adoption depends on the live-reload proof of fit.",
+    "Nextra remains a fallback only if the source model is simplified to a primarily app-local content tree or Fumadocs fails the proof of fit.",
+    "Legacy documentation cleanup is deferred to a later effort."
+  ],
+  "notes": "Initial high-level requirements captured from the requirements discussion; tasks and acceptance criteria will be refined as further details are provided. Framework research compared current official Fumadocs and Nextra documentation. Fumadocs has first-class collections, multiple-source loaders, independent workspaces, dynamic compilation, and a supplied docs UI. Nextra is more turnkey for one app-local content tree and explicitly provides hot reload there, but its documented remote-content route requires custom fetching, compilation, and page-map assembly."
+}

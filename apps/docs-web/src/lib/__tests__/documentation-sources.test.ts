@@ -165,6 +165,59 @@ describe("documentation ownership registry", () => {
     );
   });
 
+  it("reads representative content directly from sibling working trees", async () => {
+    const cases = [
+      {
+        sourceKey: "rtq-env",
+        expectedRoot: resolve(workspaceRoot, "../rtq-env"),
+        file: "docs/environment-manifest.md",
+        heading: "# Environment Manifest",
+      },
+      {
+        sourceKey: "rtq-content-assets",
+        expectedRoot: resolve(workspaceRoot, "../rtq-content/packages/assets"),
+        file: "docs/architecture/paper-assets.md",
+        heading: "# Paper Assets Architecture",
+      },
+      {
+        sourceKey: "rtq-web-web",
+        expectedRoot: resolve(workspaceRoot, "../rtq-web/apps/web"),
+        file: "docs/architecture/frontend/routing.md",
+        heading: "# Routing Architecture",
+      },
+    ] as const;
+
+    for (const testCase of cases) {
+      const source = getDocumentationSourceByKey(testCase.sourceKey);
+      assert.ok(source);
+      assert.equal(sourceRoot(source), testCase.expectedRoot);
+      assert.match(
+        await readFile(resolve(sourceRoot(source), testCase.file), "utf8"),
+        new RegExp(`^${testCase.heading}`, "m"),
+      );
+    }
+  });
+
+  it("loads multiple independently configured owners from one repository", async () => {
+    const repository = getDocumentationSourceByKey("rtq-content");
+    const assets = getDocumentationSourceByKey("rtq-content-assets");
+    assert.ok(repository);
+    assert.ok(assets);
+    assert.equal(repository.repository.name, assets.repository.name);
+    assert.notEqual(sourceRoot(repository), sourceRoot(assets));
+    assert.match(
+      await readFile(resolve(sourceRoot(repository), "README.md"), "utf8"),
+      /^# RTQ content/m,
+    );
+    assert.match(
+      await readFile(
+        resolve(sourceRoot(assets), "docs/architecture/paper-assets.md"),
+        "utf8",
+      ),
+      /^# Paper Assets Architecture/m,
+    );
+  });
+
   it("matches the audit's 260 currently publishable Markdown files", async () => {
     let readmeCount = 0;
     let docsCount = 0;
@@ -315,6 +368,34 @@ describe("RTQ Docs application surface", () => {
         assert.rejects(access(resolve(docsAppRoot, route))),
       ),
     );
+  });
+
+  it("uses the supplied Fumadocs navigation and page presentation", async () => {
+    const [docsLayout, docsPage, searchRoute] = await Promise.all([
+      readFile(resolve(docsAppRoot, "src/app/docs/layout.tsx"), "utf8"),
+      readFile(
+        resolve(docsAppRoot, "src/app/docs/[[...slug]]/page.tsx"),
+        "utf8",
+      ),
+      readFile(resolve(docsAppRoot, "src/app/api/search/route.ts"), "utf8"),
+    ]);
+
+    assert.match(docsLayout, /<DocsLayout tree=\{source\.getPageTree\(\)\}/);
+    assert.match(docsPage, /<DocsPage toc=\{page\.data\.toc\}/);
+    assert.match(docsPage, /<DocsBody>/);
+    assert.match(docsPage, /<EditOnGitHub href=\{getPageGitHubUrl\(page\)\}>/);
+    assert.match(docsPage, /a: createRelativeLink\(source, page\)/);
+    assert.match(searchRoute, /createFromSource\(source\)/);
+  });
+
+  it("identifies the application as an internal documentation surface", async () => {
+    const [rootLayout, readme] = await Promise.all([
+      readFile(resolve(docsAppRoot, "src/app/layout.tsx"), "utf8"),
+      readFile(resolve(docsAppRoot, "README.md"), "utf8"),
+    ]);
+
+    assert.match(rootLayout, /Internal documentation for RTQ/);
+    assert.match(readme, /Internal Fumadocs application/);
   });
 
   it("does not declare unused scaffold utilities as dependencies", async () => {

@@ -140,24 +140,24 @@
     {
       "id": "T4",
       "title": "Load selected documentation without copying it",
-      "status": "todo",
+      "status": "done",
       "description": "Discover and load documentation directly from all configured paths in the owning repository workspaces while excluding unrelated Markdown and workflow files.",
       "acceptanceCriteria": [
         "Only files beneath configured documentation paths are included.",
         "Multiple configured paths from the same repository can be loaded without treating the entire repository as documentation.",
-        "Every configured repository or application source appears under its own stable, named top-level navigation root.",
+        "Every configured repository appears under its own stable named top-level navigation root, with application and package sources retained beneath their owning repository hierarchy.",
         "Documentation content is read from its owning repository and no maintained duplicate is introduced in the documentation application.",
-        "Markdown outside configured sources, including AGENTS.md and AI-related workflow material, is not exposed implicitly.",
+        "Markdown outside configured sources, including AGENTS.md and AI-related workflow material outside an approved docs folder, is not exposed implicitly; files already inside an approved docs folder remain included regardless of their subject.",
         "Tests cover inclusion, exclusion, and content loading across more than one repository."
       ],
       "steps": [],
-      "notes": "The handling of links, images, and other assets will be refined after the remaining requirements are captured.",
+      "notes": "T3 already supplied the production implementation for this capability, so T4 was completed as a focused contract reconciliation and verification task rather than duplicating the loader. Its navigation criterion now follows the accepted repository-shaped hierarchy, and its exclusion criterion clarifies that AI-related files inside an approved docs folder remain intentionally included. Added tests read representative content directly from the active rtq-env, rtq-content, and rtq-web sibling working trees and verify that the rtq-content repository root and assets package are independent sources within one repository. The existing registry tests continue to prove the exact README.md and docs/**/*.md allowlist, 260-file audit inventory, 11 missing conventional paths, exclusion of old-docs, prompts, commands.md, and AGENTS.md, and stable ownership/source-link mappings. No content copy, synchronization folder, generated source tree, or production loader change was introduced. Formatting, lint, types, all 13 tests, and the production build of all 260 documentation routes pass; only the known non-failing upstream Fumadocs Webpack cache-analysis warnings remain. Relative links, images, and other source assets remain deferred as stated in the task scope.",
       "children": []
     },
     {
       "id": "T5",
       "title": "Present unified documentation navigation and pages",
-      "status": "todo",
+      "status": "done",
       "description": "Provide an internal documentation website through which the RTQ team can navigate and read the configured documentation across repository boundaries.",
       "acceptanceCriteria": [
         "Users can browse selected documentation from each configured repository in one application.",
@@ -168,7 +168,7 @@
         "Tests cover navigation to and rendering of representative documents from multiple sources."
       ],
       "steps": [],
-      "notes": "Information architecture and visual requirements remain to be specified.",
+      "notes": "T3 established and the user accepted the repository-shaped information architecture: repository roots, Apps or Packages ownership groups, owner labels, explicit README.md and Docs nodes, and preserved source-relative folders. T5 verified that the application passes this page tree directly to the supplied Fumadocs DocsLayout and renders documents through DocsPage, DocsBody, the table of contents, responsive sidebar or drawer behavior, source links, and Fumadocs search; no custom presentation code was needed. Focused source-contract tests were added under __tests__, bringing the suite to 15 passing tests. Live HTTP checks confirmed the root redirect, navigation labels, representative rendered pages and source links for rtq-content, rtq-env, rtq-review, and rtq-web, plus cross-repository search results. The interactive in-app browser surface was unavailable, so responsive behavior was verified from the installed Fumadocs layout contract and rendered markup rather than a viewport screenshot. Prettier, ESLint, the isolated Next.js type check, tests, and the production build pass; the build generated all 260 documentation pages (264 total static pages including application routes).",
       "children": []
     },
     {

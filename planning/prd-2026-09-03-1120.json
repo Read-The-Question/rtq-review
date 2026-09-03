@@ -174,7 +174,7 @@
     {
       "id": "T6",
       "title": "Support live documentation updates",
-      "status": "todo",
+      "status": "in_review",
       "description": "Ensure edits made to configured documentation in any active source repository checkout become visible in the running documentation application in real time.",
       "acceptanceCriteria": [
         "A change to a configured source document is reflected in the running documentation application without copying the file or manually rebuilding documentation content.",
@@ -188,7 +188,7 @@
         "Tests or an automated integration check verify change detection and content/navigation invalidation for an external repository source."
       ],
       "steps": [],
-      "notes": "The runtime environment and exact definition of real-time refresh remain to be specified. If a fallback is required, the repository already contains a Chokidar-based singleton, debounce, and event-subscription pattern in apps/review-web/src/lib/rtq-content-events.ts. A one-way server-sent event followed by a Next.js router refresh is likely sufficient; WebSockets are not required unless later requirements become bidirectional.",
+      "notes": "Implemented with native Fumadocs and Next.js behavior, so no fallback watcher, SSE endpoint, client refresh component, runtime route, or new dependency was required. next.config.mjs sets Turbopack's filesystem root to the common Read-The-Question directory containing all four configured repository working trees, and the development script now uses default Turbopack. Fumadocs supplies collection watching, allowlist filtering, structural source-index regeneration, coalescing, singleton initialization, error reporting, and shutdown cleanup; Next.js tracks compiled Markdown modules and refreshes its development clients. The production script retains the known-good Webpack path because the Fumadocs macro loader's Turbopack production build did not complete in this environment; next start remains static and requires rebuild or redeployment for new documentation. Added an external-repository integration check under __tests__ that starts RTQ Docs on an available port, creates a unique temporary document in rtq-env/docs, and verifies add, content change, rename, delete, page rendering, and navigation invalidation with guaranteed cleanup. The check passes. The unit suite now has 16 passing tests and replaces the obsolete fixed 260-document snapshot with live allowlist validation plus explicit __dead-pool__ exclusion after concurrent repository cleanup moved seven legacy documents. Prettier, ESLint, isolated Next.js types, unit tests, the external live-reload integration check, and the Webpack production build pass; the current build emits 253 documentation paths and 257 total static pages. In-app browser automation was unavailable, so client refresh was not observed visually; server/compiler invalidation was verified end to end and connected-browser refresh uses the standard Next.js development client.",
       "children": []
     }
   ],

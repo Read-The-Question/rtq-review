@@ -188,23 +188,41 @@ configuration strategy.
 
 ## Live updates and production builds
 
-The development command uses Next.js Webpack mode. Fumadocs makes each selected
-Markdown file a compilation dependency, and Webpack watches those dependencies.
-Saving an allowlisted document invalidates its compiled page and updates a
-connected development browser without copying content, running a generation
-command, or restarting the application.
+The development command uses Next.js' default Turbopack mode. Its filesystem
+root is the common `Read-The-Question` directory, which contains the docs app
+and every selected sibling repository. Without this boundary Turbopack can read
+content discovered by the Fumadocs macro but cannot reliably track an external
+file as a watched dependency.
 
-The current Turbopack integration can initially read the external source but
-did not reliably invalidate the rendered page after an external edit during
-the proof of fit. For that reason both the development and production scripts
-explicitly select supported Webpack mode. No custom filesystem watcher exists.
+Fumadocs already supplies the required development watcher. It registers each
+configured collection, filters events through that collection's explicit file
+patterns, regenerates its generated source index after additions, renames, or
+deletions, coalesces overlapping regeneration work, reports initialization
+failures, prevents duplicate initialization, and closes the watcher when the
+process exits. Next.js tracks the compiled Markdown modules and sends its
+normal development refresh to connected browsers after invalidation. A custom
+watcher, server-sent-event route, and client refresh component would duplicate
+those responsibilities, so none are present.
 
-A production build is different: `generateStaticParams()` enumerates the
-configured pages and Next.js emits static documentation at build time. A
-long-running `next start` process does not observe later working-tree edits.
-Production freshness therefore requires a new build and deployment, or a later
-approved runtime compilation and invalidation design. Development live reload
-must not be mistaken for production runtime synchronization.
+Only `README.md` and `docs/**/*.md` enter the Fumadocs collections. Changes to
+dependency folders, build output, agent instructions, planning files, and
+other unrelated Markdown do not alter content or navigation. The sources are
+always read from the active local working trees; there is no branch catalogue,
+version history, snapshot, or copied content.
+
+The production command retains the known-good Webpack path because the current
+Fumadocs macro loader did not complete under the Turbopack production build in
+this environment. This does not affect Turbopack development live reload.
+`generateStaticParams()` enumerates the configured pages and Next.js emits
+static documentation at build time. A long-running `next start` process does
+not observe later working-tree edits, so production freshness requires a new
+build and deployment.
+
+The automated `test:live-reload` integration check starts the development
+server on an available local port and exercises a unique temporary file in the
+external `rtq-env/docs` source. It verifies additions, content changes, renames,
+deletions, and both page and navigation invalidation, with cleanup in a
+`finally` block.
 
 ## Validation checklist
 
@@ -215,9 +233,8 @@ For every added source:
 - Confirm the visible source label and stable URL namespace.
 - Confirm nested paths remain nested beneath the source root.
 - Confirm repository source links point to the owning repository and branch.
-- Edit a representative source while the development server is running and
-  verify the rendered page changes without a restart.
-- Restore the source and confirm the rendered page changes back.
+- Run `pnpm --filter rtq-docs-web test:live-reload` to verify external add,
+  edit, rename, delete, page-content, and navigation invalidation.
 - Run formatting, lint, type, automated test, and production-build checks.
 
 This keeps RTQ Docs extensible while preserving the central rule: the website

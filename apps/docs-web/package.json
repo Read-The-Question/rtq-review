@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "build": "next build --webpack",
-    "dev": "next dev --webpack",
+    "dev": "next dev",
     "start": "next start",
     "lint": "pnpm lint:check",
     "lint:check": "eslint .",
@@ -12,7 +12,8 @@
     "format:check": "prettier --check .",
     "format:fix": "prettier --write .",
     "types": "next typegen && tsc --noEmit",
-    "test": "node --no-warnings --test --experimental-strip-types src/lib/__tests__/documentation-sources.test.ts"
+    "test": "node --no-warnings --test --experimental-strip-types src/lib/__tests__/documentation-sources.test.ts",
+    "test:live-reload": "node src/lib/__tests__/live-reload.integration.mjs"
   },
   "dependencies": {
     "fumadocs-core": "16.15.5",

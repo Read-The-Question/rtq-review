@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import { access, readFile, readdir } from "node:fs/promises";
-import { basename, resolve } from "node:path";
+import { basename, relative, resolve } from "node:path";
 import { describe, it } from "node:test";
 
 import {
@@ -30,20 +30,20 @@ async function pathExists(path: string): Promise<boolean> {
   }
 }
 
-async function countMarkdownFiles(directory: string): Promise<number> {
-  if (!(await pathExists(directory))) return 0;
+async function listMarkdownFiles(directory: string): Promise<string[]> {
+  if (!(await pathExists(directory))) return [];
 
-  let count = 0;
+  const files: string[] = [];
   for (const entry of await readdir(directory, { withFileTypes: true })) {
     const entryPath = resolve(directory, entry.name);
     if (entry.isDirectory()) {
-      count += await countMarkdownFiles(entryPath);
+      files.push(...(await listMarkdownFiles(entryPath)));
     } else if (entry.isFile() && entry.name.endsWith(".md")) {
-      count += 1;
+      files.push(entryPath);
     }
   }
 
-  return count;
+  return files;
 }
 
 function sourceRoot(source: DocumentationSource): string {
@@ -152,6 +152,13 @@ describe("documentation ownership registry", () => {
       isRepositoryDocumentationPath(papers, "packages/papers/prompts/a.md"),
       false,
     );
+    assert.equal(
+      isRepositoryDocumentationPath(
+        papers,
+        "packages/papers/__dead-pool__/docs/free-papers/analysis/final.md",
+      ),
+      false,
+    );
 
     const reviewApi = getDocumentationSourceByKey("rtq-review-review-api");
     assert.ok(reviewApi);
@@ -218,19 +225,40 @@ describe("documentation ownership registry", () => {
     );
   });
 
-  it("matches the audit's 260 currently publishable Markdown files", async () => {
+  it("derives the current allowlisted inventory without a snapshot count", async () => {
     let readmeCount = 0;
     let docsCount = 0;
 
     for (const source of documentationSources) {
       const root = sourceRoot(source);
-      if (await pathExists(resolve(root, "README.md"))) readmeCount += 1;
-      docsCount += await countMarkdownFiles(resolve(root, "docs"));
+      if (await pathExists(resolve(root, "README.md"))) {
+        readmeCount += 1;
+        assert.equal(
+          isRepositoryDocumentationPath(
+            source,
+            [source.repositoryDirectory, "README.md"].filter(Boolean).join("/"),
+          ),
+          true,
+        );
+      }
+
+      const docs = await listMarkdownFiles(resolve(root, "docs"));
+      docsCount += docs.length;
+      for (const file of docs) {
+        assert.equal(
+          isRepositoryDocumentationPath(
+            source,
+            [source.repositoryDirectory, relative(root, file)]
+              .filter(Boolean)
+              .join("/"),
+          ),
+          true,
+        );
+      }
     }
 
-    assert.equal(readmeCount, 14);
-    assert.equal(docsCount, 246);
-    assert.equal(readmeCount + docsCount, 260);
+    assert.ok(readmeCount > 0);
+    assert.ok(docsCount > 0);
   });
 
   it("reports missing conventional paths without broadening discovery", async () => {
@@ -396,6 +424,34 @@ describe("RTQ Docs application surface", () => {
 
     assert.match(rootLayout, /Internal documentation for RTQ/);
     assert.match(readme, /Internal Fumadocs application/);
+  });
+
+  it("configures native cross-repository live reload", async () => {
+    const [nextConfig, packageJsonText, integrationCheck] = await Promise.all([
+      readFile(resolve(docsAppRoot, "next.config.mjs"), "utf8"),
+      readFile(resolve(docsAppRoot, "package.json"), "utf8"),
+      readFile(
+        resolve(docsAppRoot, "src/lib/__tests__/live-reload.integration.mjs"),
+        "utf8",
+      ),
+    ]);
+    const packageJson = JSON.parse(packageJsonText) as {
+      scripts: Record<string, string>;
+    };
+
+    assert.match(nextConfig, /turbopack:\s*\{/);
+    assert.match(nextConfig, /root: repositoriesRoot/);
+    assert.equal(packageJson.scripts.dev, "next dev");
+    assert.equal(packageJson.scripts.build, "next build --webpack");
+    assert.equal(
+      packageJson.scripts["test:live-reload"],
+      "node src/lib/__tests__/live-reload.integration.mjs",
+    );
+    assert.match(integrationCheck, /\.\.\/\.\.\/\.\.\/rtq-env/);
+    assert.match(integrationCheck, /T6-ADDED/);
+    assert.match(integrationCheck, /T6-CHANGED/);
+    assert.match(integrationCheck, /await rename\(initialFile, renamedFile\)/);
+    assert.match(integrationCheck, /await rm\(renamedFile\)/);
   });
 
   it("does not declare unused scaffold utilities as dependencies", async () => {

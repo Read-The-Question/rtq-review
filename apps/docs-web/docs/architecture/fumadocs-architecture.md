@@ -40,13 +40,16 @@ page route.
 
 ### `fumadocs-mdx`
 
-`fumadocs-mdx` compiles allowlisted Markdown and MDX into data and React
-components. Each `defineDocs()` declaration identifies a physical directory
-and its allowed file patterns. These values are string literals because the
-Fumadocs macro discovers them while compiling the application.
+`fumadocs-mdx` compiles allowlisted Markdown into data and React components.
+Each `defineDocs()` declaration identifies a physical owner directory and the
+same two allowed patterns: `README.md` and `docs/**/*.md`. These values are
+repeated as string literals because the Fumadocs macro discovers publication
+boundaries while compiling the application.
 
 The `createMDX()` wrapper in `next.config.mjs` connects this compiler to
-Next.js.
+Next.js. `source.config.ts` converts raw HTML-like nodes to visible text before
+Fumadocs' table-of-contents plugin, preserving placeholders without editing
+their owning Markdown files.
 
 ### `fumadocs-core`
 
@@ -76,18 +79,22 @@ integration because they are not required for internal documentation browsing.
 
 RTQ-specific code is concentrated in a few places:
 
-| Location                                | RTQ responsibility                                                                                     |
-| --------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| `src/lib/documentation-sources.ts`      | Source identity, physical and repository paths, allowlists, and path translation                       |
-| `src/lib/source.ts`                     | Fumadocs collection declarations, combined loader, source-root labels, landing pages, and source links |
-| `src/app/docs/[[...slug]]/page.tsx`     | Looks up and renders any page from the combined source                                                 |
-| `src/lib/documentation-sources.test.ts` | Inclusion, exclusion, namespace, hierarchy, and repository-path checks                                 |
-| `package.json`                          | Development, validation, and production commands                                                       |
+| Location                                                  | RTQ responsibility                                                                          |
+| --------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Location                                                  | RTQ responsibility                                                                          |
+| --------------------------------------------------------- | ------------------------------------------------------------------------------------------  |
+| `src/lib/documentation-sources.ts`                        | Owner identity, physical and repository paths, allowlists, labels, and path translation     |
+| `src/lib/source.ts`                                       | Explicit Fumadocs collections, combined loader, navigation labels, titles, and source links |
+| `source.config.ts`                                        | Preserve raw HTML-like fragments as visible documentation text                              |
+| `src/app/docs/[[...slug]]/page.tsx`                       | Looks up and renders any page from the combined source                                      |
+| `src/lib/__tests__/documentation-sources.test.ts`         | Inventory, inclusion, exclusion, hierarchy, route, and repository-path checks               |
+| `package.json`                                            | Development, validation, and production commands                                            |
 
-The application-level `README.md`, `AGENTS.md`, `CLAUDE.md`, source code, and
-build output are not documentation sources. The RTQ Docs-owned source begins at
-`apps/docs-web/docs`, so only allowlisted Markdown beneath that boundary is
-eligible for publication.
+An owner's `README.md` and Markdown beneath its `docs/` folder are sources.
+`AGENTS.md`, `CLAUDE.md`, source code, build output, and Markdown in any other
+folder remain excluded. An old or AI-related document is still included when
+it already lives beneath an approved `docs/` boundary; deciding whether it
+should be moved or deleted is separate work in the owning repository.
 
 ## From a file to a page
 
@@ -98,16 +105,16 @@ Physical file
 apps/docs-web/docs/architecture/fumadocs-architecture.md
 
 Virtual Fumadocs path
-rtq-docs/architecture/fumadocs-architecture.md
+rtq-review/apps/docs-web/docs/architecture/fumadocs-architecture.md
 
 Public page
-/docs/rtq-docs/architecture/fumadocs-architecture
+/docs/rtq-review/apps/docs-web/docs/architecture/fumadocs-architecture
 ```
 
-The `rtq-docs` key is stable and machine-oriented. The page-tree transformer
-changes its visible root label to `RTQ Docs`. The source-relative
-`architecture/fumadocs-architecture.md` hierarchy remains below that root, so
-the navigation presents this page in an `Architecture` section.
+The route retains the repository and workspace ownership path. Page-tree
+transformers independently present friendly labels such as `RTQ Review`,
+`Apps`, `RTQ Docs`, and `Docs`, while the source-relative
+`architecture/fumadocs-architecture.md` hierarchy remains beneath them.
 
 When a browser requests the public URL, the documentation catch-all route:
 
@@ -125,7 +132,8 @@ search endpoint while retaining separate top-level navigation roots.
 
 | Route               | Purpose                                         |
 | ------------------- | ----------------------------------------------- |
-| `/`                 | Small RTQ Docs landing page                     |
+| `/`                 | Redirect to `/docs`                             |
+| `/docs`             | Documentation shell and complete navigation     |
 | `/docs/[[...slug]]` | HTML page for any configured document           |
 | `/api/search`       | Search across every page in the combined source |
 
@@ -136,19 +144,21 @@ not another copy of the route set.
 
 A new source needs the following decisions before code is changed:
 
-1. Choose a stable, lowercase source key used in URLs, such as `content`.
-2. Choose its human-readable navigation label, such as `Content`.
-3. Identify the physical directory relative to the RTQ Docs application.
+1. Choose a stable source key and ownership route composed from repository,
+   `apps` or `packages` where applicable, and the filesystem owner name.
+2. Choose a human-readable label independently from that stable route.
+3. Identify the physical owner directory relative to RTQ Docs.
 4. Record the owning Git repository, default branch, and repository-relative
    directory so source links are correct.
-5. Define the exact allowed files or globs beneath the physical root.
-6. Decide whether one file is the source landing page.
-7. Confirm that nested paths should keep their source-relative hierarchy.
-8. Add inclusion, exclusion, path, route, build, and live-update validation.
+5. Use only the conventional `README.md` and `docs/**/*.md` allowlist unless a
+   later requirement explicitly changes the convention.
+6. Preserve the source-relative hierarchy; README remains an explicit
+   `README.md` item and `docs/` remains an explicit `Docs` section.
+7. Add inclusion, exclusion, path, route, build, and live-update validation.
 
 The source descriptor belongs in `src/lib/documentation-sources.ts`. A matching
 `defineDocs()` collection belongs in `src/lib/source.ts`. The collection is
-converted with `toFumadocsSource({ baseDir: source.key })` and then added to the
+converted with its full ownership route as `baseDir` and then added to the
 existing `loader()` source map. The shared catch-all page, documentation
 layout, and search route require no duplication.
 
@@ -158,10 +168,10 @@ boundaries behind dynamic discovery that the compiler cannot verify.
 
 ### Source in `rtq-review`
 
-For another application in this workspace, the collection directory can use a
-path relative to `apps/docs-web`, for example `../review-web/docs`. Only the
-configured root and patterns are published. Files elsewhere in
-`apps/review-web` remain invisible.
+For another application in this workspace, the collection directory points to
+the owner root relative to `apps/docs-web`, for example `../review-web`. Only
+its root README and Markdown beneath its `docs/` folder are published. Files
+elsewhere in `apps/review-web` remain invisible.
 
 ### Source in a sibling repository
 

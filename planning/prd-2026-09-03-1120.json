@@ -89,7 +89,7 @@
     {
       "id": "T2",
       "title": "Remove nonessential Fumadocs scaffold features",
-      "status": "in_review",
+      "status": "done",
       "description": "Reduce RTQ Docs to the functionality required for an internal documentation website by removing the scaffold's LLM, raw-Markdown, Open Graph, unused icon, and unused class-name features while retaining documentation rendering, navigation, search, source links, and live development updates.",
       "acceptanceCriteria": [
         "The application's intentional functional routes are limited to the landing page at /, documentation rendering at /docs/[[...slug]], and documentation search at /api/search; framework-provided internal error handling is not counted as an application feature route.",
@@ -112,27 +112,29 @@
     {
       "id": "T3",
       "title": "Establish repository-shaped documentation hierarchy",
-      "status": "todo",
+      "status": "done",
       "description": "Restructure RTQ Docs so its entry experience and navigation mirror the ownership hierarchy of the four RTQ repositories, their apps, and their packages, using a common initial convention that each application or package may contribute an explicit README.md and an explicit docs folder.",
       "acceptanceCriteria": [
         "Opening / enters the documentation experience at /docs, with the standard documentation layout and complete left navigation visible immediately rather than a separate marketing-style home page.",
         "The primary navigation has stable top-level roots for rtq-content, rtq-env, rtq-review, and rtq-web, and documentation from one repository is never flattened into another repository's tree.",
         "PNPM workspace repositories use visible Apps and Packages ownership groups that mirror their repository structure; rtq-env does not receive synthetic Apps or Packages groups when they do not exist in that repository.",
         "The rtq-content structure represents the assets and papers packages; rtq-review represents docs-web, review-api, review-legacy-gatsby-web, review-question-viewer-web, review-tag-web, review-web, and repository-paths under their correct Apps or Packages groups; rtq-web represents its web app and feature-config package.",
-        "Every registered application or package can independently configure a root README.md source and a docs folder source, initially using README.md and docs/**/*.md as the common expected convention without scanning other Markdown.",
+        "Every registered repository, application, or package can independently configure a root README.md source and a docs folder source, using README.md and docs/**/*.md as the audit-approved convention without scanning other Markdown.",
+        "The audit-backed initial publication set includes every existing conventional README.md and every Markdown file beneath an existing conventional docs folder for rtq-env, rtq-content, rtq-review, rtq-web, and their inventoried applications and packages.",
+        "Markdown recorded by the audit outside the conventional README.md and docs folder locations remains excluded, while older or potentially obsolete Markdown already inside an included docs folder remains published until a separate content-cleanup task changes its owning repository.",
         "A published README.md remains a visible navigation item explicitly labelled README.md and is not promoted into, renamed as, or hidden behind an application, package, or repository landing page.",
         "A published docs folder remains an explicit visible Docs section beneath its owning application or package, and all folders and documents inside it preserve their source-relative hierarchy.",
         "Friendly navigation labels such as Review - Tag are configurable independently from stable repository, application, package, and route keys; presentation labels do not weaken path ownership or create ambiguous URLs.",
         "The structural registry includes every currently identified repository, application, and package as a documentation candidate, while missing conventional README.md or docs paths are detected clearly and do not cause unrelated available documentation to fail.",
         "The implementation produces a clear inventory of missing or nonconforming expected documentation locations so each repository can subsequently be reviewed and corrected case by case rather than silently broadening discovery.",
-        "The existing Review - Tag README and RTQ Docs architecture content move beneath their correct rtq-review/Apps ownership paths and follow the explicit README.md and Docs navigation conventions.",
+        "The existing Review - Tag README and RTQ Docs architecture content appear virtually beneath their correct rtq-review/Apps ownership paths and follow the explicit README.md and Docs navigation conventions without physically moving or copying either source file.",
         "Repository source links continue to resolve to the owning repository, branch, and physical file even when friendly labels and virtual hierarchy differ from filesystem paths.",
         "Search spans all published pages across repository roots while navigation and routes retain the repository and workspace ownership hierarchy.",
         "Automated tests cover hierarchy generation, friendly labels, explicit README.md and Docs nodes, stable route keys, missing conventional paths, source exclusions, and representative sources from more than one repository.",
         "The documentation app passes formatting, lint, type, test, production-build, route, and development live-update checks after the hierarchy is introduced."
       ],
       "steps": [],
-      "notes": "This task establishes the shared structural convention and candidate registry. The exact included documentation and any source relocation for each repository, application, and package will be refined through the planned case-by-case repository exercise before or during execution; the implementation must not compensate for missing conventional paths by scanning broadly.",
+      "notes": "Implemented the DOCUMENTATION_AUDIT.md inventory as 15 stable repository/application/package owner registrations and explicit Fumadocs collections. The app publishes all 14 existing conventional README.md files and all 246 Markdown files beneath the five existing conventional docs folders, for 260 directly sourced pages across rtq-content, rtq-env, rtq-review, and rtq-web. Markdown inventoried outside those roots remains excluded, while old and AI-related files already inside approved docs folders remain visible. No audited source was moved, renamed, copied, or cleaned up; only the RTQ Docs-owned README and architecture guide were updated to describe the implementation. Navigation now follows repository, Apps or Packages, owner, README.md or Docs, and preserved source-relative folders, with friendly labels independent from stable routes. / redirects to /docs, whose standard DocsLayout exposes the full tree without a marketing page. The registry reports 11 currently missing conventional paths, including both paths for repository-paths, without broadening discovery. Source links resolve to the owning repository and develop branch. A small source.config.ts transform preserves raw HTML-like legacy placeholders such as <tag> as visible text so all audited Markdown compiles unchanged. HTTP checks returned 200 for representative pages from all four repositories, 404 for excluded commands.md and AGENTS.md paths, and search returned results with ownership breadcrumbs across rtq-web and rtq-content. The running development server observed RTQ Docs-owned source/config edits without restart. Formatting, lint, types, 11 tests, and a production build of all 260 documentation routes pass; the build retains the previously observed non-failing upstream Fumadocs Webpack cache-analysis warnings. Comprehensive label polish and explicit external-repository edit/add/delete watching remain later work.",
       "children": []
     },
     {

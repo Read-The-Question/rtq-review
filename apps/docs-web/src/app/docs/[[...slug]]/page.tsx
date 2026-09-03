@@ -14,10 +14,21 @@ import { createRelativeLink } from "fumadocs-ui/mdx";
 export default async function Page(props: PageProps<"/docs/[[...slug]]">) {
   const params = await props.params;
   const page = source.getPage(params.slug);
+  if (!page && !params.slug) {
+    return (
+      <DocsPage toc={[]}>
+        <DocsTitle>RTQ Docs</DocsTitle>
+        <DocsDescription>
+          Select a repository, application, package, or document from the
+          navigation.
+        </DocsDescription>
+      </DocsPage>
+    );
+  }
   if (!page) notFound();
 
   const MDX = page.data.body;
-  const sourceProvidesPageHeading = page.type === "review-tag";
+  const sourceProvidesPageHeading = page.data.sourceHasHeading;
 
   return (
     <DocsPage toc={page.data.toc} full={page.data.full}>
@@ -53,6 +64,12 @@ export async function generateMetadata(
 ): Promise<Metadata> {
   const params = await props.params;
   const page = source.getPage(params.slug);
+  if (!page && !params.slug) {
+    return {
+      title: "RTQ Docs",
+      description: "Internal documentation across the RTQ repositories.",
+    };
+  }
   if (!page) notFound();
 
   return {

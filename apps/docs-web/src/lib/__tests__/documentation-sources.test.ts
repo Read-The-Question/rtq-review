@@ -1,185 +1,298 @@
 import assert from "node:assert/strict";
-import { access, readFile } from "node:fs/promises";
-import { resolve } from "node:path";
+import { access, readFile, readdir } from "node:fs/promises";
+import { basename, resolve } from "node:path";
 import { describe, it } from "node:test";
 
 import {
+  conventionalDocumentationFiles,
   documentationSources,
+  getDocumentationSourceByKey,
   getDocumentationSourceForVirtualPath,
+  getExpectedDocumentationPaths,
+  getFileNavigationLabel,
+  getFolderNavigationLabel,
   isRepositoryDocumentationPath,
-  reviewTagDocumentationSource,
-  rtqDocsDocumentationSource,
-  toDocumentationSlugs,
   toRepositoryDocumentationPath,
   toRepositoryDocumentationUrl,
   toVirtualDocumentationPath,
+  type DocumentationSource,
 } from "../documentation-sources.ts";
 
 const workspaceRoot = resolve(import.meta.dirname, "../../../../..");
 const docsAppRoot = resolve(workspaceRoot, "apps/docs-web");
 
-describe("Review - Tag documentation source", () => {
-  it("allowlists only the Tag README", () => {
-    assert.deepEqual(reviewTagDocumentationSource.files, ["README.md"]);
-    assert.equal(
-      resolve(
-        workspaceRoot,
-        "apps/docs-web",
-        reviewTagDocumentationSource.collectionDirectory,
-      ),
-      resolve(workspaceRoot, "apps/review-tag-web"),
-    );
-    assert.equal(
-      reviewTagDocumentationSource.files.includes("AGENTS.md"),
-      false,
-    );
-    assert.equal(
-      reviewTagDocumentationSource.files.includes("CLAUDE.md"),
-      false,
-    );
-  });
+async function pathExists(path: string): Promise<boolean> {
+  try {
+    await access(path);
+    return true;
+  } catch {
+    return false;
+  }
+}
 
-  it("maps the README to the source landing page", () => {
-    assert.equal(
-      toVirtualDocumentationPath(reviewTagDocumentationSource, "README.md"),
-      "review-tag/README.md",
-    );
+async function countMarkdownFiles(directory: string): Promise<number> {
+  if (!(await pathExists(directory))) return 0;
+
+  let count = 0;
+  for (const entry of await readdir(directory, { withFileTypes: true })) {
+    const entryPath = resolve(directory, entry.name);
+    if (entry.isDirectory()) {
+      count += await countMarkdownFiles(entryPath);
+    } else if (entry.isFile() && entry.name.endsWith(".md")) {
+      count += 1;
+    }
+  }
+
+  return count;
+}
+
+function sourceRoot(source: DocumentationSource): string {
+  return resolve(docsAppRoot, source.collectionDirectory);
+}
+
+describe("documentation ownership registry", () => {
+  it("registers every audited repository, application, and package", () => {
     assert.deepEqual(
-      toDocumentationSlugs(
-        reviewTagDocumentationSource,
-        "review-tag/README.md",
-        () => ["review-tag", "readme"],
-      ),
-      ["review-tag"],
-    );
-    assert.equal(
-      toRepositoryDocumentationPath(
-        reviewTagDocumentationSource,
-        "review-tag/README.md",
-      ),
-      "apps/review-tag-web/README.md",
+      documentationSources.map(({ key, route, ownerType }) => ({
+        key,
+        route,
+        ownerType,
+      })),
+      [
+        {
+          key: "rtq-content",
+          route: "rtq-content",
+          ownerType: "repository",
+        },
+        {
+          key: "rtq-content-assets",
+          route: "rtq-content/packages/assets",
+          ownerType: "package",
+        },
+        {
+          key: "rtq-content-papers",
+          route: "rtq-content/packages/papers",
+          ownerType: "package",
+        },
+        { key: "rtq-env", route: "rtq-env", ownerType: "repository" },
+        {
+          key: "rtq-review",
+          route: "rtq-review",
+          ownerType: "repository",
+        },
+        {
+          key: "rtq-review-docs-web",
+          route: "rtq-review/apps/docs-web",
+          ownerType: "app",
+        },
+        {
+          key: "rtq-review-review-api",
+          route: "rtq-review/apps/review-api",
+          ownerType: "app",
+        },
+        {
+          key: "rtq-review-review-legacy-gatsby-web",
+          route: "rtq-review/apps/review-legacy-gatsby-web",
+          ownerType: "app",
+        },
+        {
+          key: "rtq-review-review-question-viewer-web",
+          route: "rtq-review/apps/review-question-viewer-web",
+          ownerType: "app",
+        },
+        {
+          key: "rtq-review-review-tag-web",
+          route: "rtq-review/apps/review-tag-web",
+          ownerType: "app",
+        },
+        {
+          key: "rtq-review-review-web",
+          route: "rtq-review/apps/review-web",
+          ownerType: "app",
+        },
+        {
+          key: "rtq-review-repository-paths",
+          route: "rtq-review/packages/repository-paths",
+          ownerType: "package",
+        },
+        { key: "rtq-web", route: "rtq-web", ownerType: "repository" },
+        {
+          key: "rtq-web-web",
+          route: "rtq-web/apps/web",
+          ownerType: "app",
+        },
+        {
+          key: "rtq-web-feature-config",
+          route: "rtq-web/packages/feature-config",
+          ownerType: "package",
+        },
+      ],
     );
   });
 
-  it("preserves nested paths beneath the source root", () => {
-    assert.equal(
-      toVirtualDocumentationPath(
-        reviewTagDocumentationSource,
-        "docs/operations/runbook.md",
-      ),
-      "review-tag/docs/operations/runbook.md",
-    );
-    assert.deepEqual(
-      toDocumentationSlugs(
-        reviewTagDocumentationSource,
-        "review-tag/docs/operations/runbook.md",
-        () => ["review-tag", "docs", "operations", "runbook"],
-      ),
-      ["review-tag", "docs", "operations", "runbook"],
-    );
-  });
-});
+  it("uses only the conventional README and docs allowlist", () => {
+    for (const source of documentationSources) {
+      assert.deepEqual(source.files, conventionalDocumentationFiles);
+    }
 
-describe("RTQ Docs documentation source", () => {
-  it("publishes Markdown only from the app-owned docs directory", () => {
-    assert.deepEqual(rtqDocsDocumentationSource.files, ["**/*.md"]);
-    assert.equal(
-      resolve(
-        workspaceRoot,
-        "apps/docs-web",
-        rtqDocsDocumentationSource.collectionDirectory,
-      ),
-      resolve(workspaceRoot, "apps/docs-web/docs"),
-    );
+    const papers = getDocumentationSourceByKey("rtq-content-papers");
+    assert.ok(papers);
     assert.equal(
       isRepositoryDocumentationPath(
-        rtqDocsDocumentationSource,
-        "apps/docs-web/docs/architecture/fumadocs-architecture.md",
+        papers,
+        "packages/papers/docs/ai/answers/README.md",
       ),
       true,
     );
     assert.equal(
-      isRepositoryDocumentationPath(
-        rtqDocsDocumentationSource,
-        "apps/docs-web/README.md",
-      ),
+      isRepositoryDocumentationPath(papers, "packages/papers/old-docs/a.md"),
       false,
     );
     assert.equal(
-      isRepositoryDocumentationPath(
-        rtqDocsDocumentationSource,
-        "apps/docs-web/AGENTS.md",
-      ),
+      isRepositoryDocumentationPath(papers, "packages/papers/prompts/a.md"),
+      false,
+    );
+
+    const reviewApi = getDocumentationSourceByKey("rtq-review-review-api");
+    assert.ok(reviewApi);
+    assert.equal(
+      isRepositoryDocumentationPath(reviewApi, "apps/review-api/commands.md"),
       false,
     );
     assert.equal(
-      isRepositoryDocumentationPath(
-        rtqDocsDocumentationSource,
-        "apps/docs-web/CLAUDE.md",
-      ),
-      false,
-    );
-    assert.equal(
-      isRepositoryDocumentationPath(
-        rtqDocsDocumentationSource,
-        "apps/docs-web/docs/../README.md",
-      ),
+      isRepositoryDocumentationPath(reviewApi, "apps/review-api/AGENTS.md"),
       false,
     );
   });
 
-  it("maps architecture files into the RTQ Docs namespace", () => {
-    const sourcePath = "architecture/fumadocs-architecture.md";
-    const virtualPath = toVirtualDocumentationPath(
-      rtqDocsDocumentationSource,
-      sourcePath,
-    );
+  it("matches the audit's 260 currently publishable Markdown files", async () => {
+    let readmeCount = 0;
+    let docsCount = 0;
 
-    assert.equal(virtualPath, "rtq-docs/architecture/fumadocs-architecture.md");
-    assert.deepEqual(
-      toDocumentationSlugs(rtqDocsDocumentationSource, virtualPath, () => [
-        "rtq-docs",
-        "architecture",
-        "fumadocs-architecture",
-      ]),
-      ["rtq-docs", "architecture", "fumadocs-architecture"],
-    );
-    assert.equal(
-      toRepositoryDocumentationPath(rtqDocsDocumentationSource, virtualPath),
-      "apps/docs-web/docs/architecture/fumadocs-architecture.md",
-    );
-    assert.equal(
-      toRepositoryDocumentationUrl(rtqDocsDocumentationSource, virtualPath),
-      "https://github.com/Read-The-Question/rtq-review/blob/develop/apps/docs-web/docs/architecture/fumadocs-architecture.md",
-    );
+    for (const source of documentationSources) {
+      const root = sourceRoot(source);
+      if (await pathExists(resolve(root, "README.md"))) readmeCount += 1;
+      docsCount += await countMarkdownFiles(resolve(root, "docs"));
+    }
+
+    assert.equal(readmeCount, 14);
+    assert.equal(docsCount, 246);
+    assert.equal(readmeCount + docsCount, 260);
   });
 
-  it("keeps both sources independently addressable", () => {
-    assert.deepEqual(
-      documentationSources.map(({ key, label }) => ({ key, label })),
-      [
-        { key: "review-tag", label: "Review - Tag" },
-        { key: "rtq-docs", label: "RTQ Docs" },
-      ],
-    );
-    assert.equal(
-      getDocumentationSourceForVirtualPath("review-tag/README.md"),
-      reviewTagDocumentationSource,
-    );
+  it("reports missing conventional paths without broadening discovery", async () => {
+    const missing: string[] = [];
+
+    for (const source of documentationSources) {
+      for (const expectedPath of getExpectedDocumentationPaths(source)) {
+        const relativeToOwner = expectedPath
+          .split("/")
+          .slice(source.repositoryDirectory.split("/").filter(Boolean).length)
+          .join("/");
+        if (!(await pathExists(resolve(sourceRoot(source), relativeToOwner)))) {
+          missing.push(`${source.repository.name}/${expectedPath}`);
+        }
+      }
+    }
+
+    assert.deepEqual(missing, [
+      "rtq-content/docs",
+      "rtq-review/docs",
+      "rtq-review/apps/review-api/docs",
+      "rtq-review/apps/review-legacy-gatsby-web/docs",
+      "rtq-review/apps/review-question-viewer-web/docs",
+      "rtq-review/apps/review-tag-web/docs",
+      "rtq-review/apps/review-web/docs",
+      "rtq-review/packages/repository-paths/README.md",
+      "rtq-review/packages/repository-paths/docs",
+      "rtq-web/docs",
+      "rtq-web/packages/feature-config/docs",
+    ]);
+  });
+});
+
+describe("documentation routes and navigation", () => {
+  it("uses the most specific owner for nested virtual paths", () => {
+    const reviewTag = getDocumentationSourceByKey("rtq-review-review-tag-web");
+    assert.ok(reviewTag);
     assert.equal(
       getDocumentationSourceForVirtualPath(
-        "rtq-docs/architecture/fumadocs-architecture.md",
+        "rtq-review/apps/review-tag-web/README.md",
       ),
-      rtqDocsDocumentationSource,
+      reviewTag,
     );
     assert.equal(
-      getDocumentationSourceForVirtualPath("unconfigured/README.md"),
-      undefined,
+      toVirtualDocumentationPath(reviewTag, "README.md"),
+      "rtq-review/apps/review-tag-web/README.md",
+    );
+  });
+
+  it("preserves repository paths and source links across repositories", () => {
+    const assets = getDocumentationSourceByKey("rtq-content-assets");
+    assert.ok(assets);
+    const virtualPath = toVirtualDocumentationPath(
+      assets,
+      "docs/architecture/paper-assets.md",
+    );
+
+    assert.equal(
+      toRepositoryDocumentationPath(assets, virtualPath),
+      "packages/assets/docs/architecture/paper-assets.md",
+    );
+    assert.equal(
+      toRepositoryDocumentationUrl(assets, virtualPath),
+      "https://github.com/Read-The-Question/rtq-content/blob/develop/packages/assets/docs/architecture/paper-assets.md",
+    );
+
+    const environment = getDocumentationSourceByKey("rtq-env");
+    assert.ok(environment);
+    assert.equal(
+      toRepositoryDocumentationPath(
+        environment,
+        "rtq-env/docs/environment-manifest.md",
+      ),
+      "docs/environment-manifest.md",
+    );
+  });
+
+  it("separates stable route keys from friendly navigation labels", () => {
+    assert.equal(getFolderNavigationLabel("rtq-content"), "RTQ Content");
+    assert.equal(getFolderNavigationLabel("rtq-content/packages"), "Packages");
+    assert.equal(
+      getFolderNavigationLabel("rtq-review/apps/review-tag-web"),
+      "Review - Tag",
+    );
+    assert.equal(
+      getFolderNavigationLabel("rtq-review/apps/docs-web/docs"),
+      "Docs",
+    );
+    assert.equal(
+      getFolderNavigationLabel(
+        "rtq-content/packages/papers/docs/ai/tag-style-guides",
+      ),
+      "Tag Style Guides",
+    );
+    assert.equal(
+      getFileNavigationLabel("rtq-review/README.md", "RTQ review"),
+      "README.md",
+    );
+    assert.equal(
+      getFileNavigationLabel("docs/architecture/routing.md", "Routing"),
+      "Routing",
     );
   });
 });
 
 describe("RTQ Docs application surface", () => {
+  it("redirects the root into the documentation experience", async () => {
+    const rootPage = await readFile(
+      resolve(docsAppRoot, "src/app/(home)/page.tsx"),
+      "utf8",
+    );
+
+    assert.match(rootPage, /redirect\("\/docs"\)/);
+  });
+
   it("retains only the required application routes", async () => {
     const retainedRoutes = [
       "src/app/(home)/page.tsx",
@@ -211,5 +324,9 @@ describe("RTQ Docs application surface", () => {
 
     assert.equal("cnfast" in packageJson.dependencies, false);
     assert.equal("lucide-react" in packageJson.dependencies, false);
+  });
+
+  it("keeps all test cases inside __tests__", () => {
+    assert.equal(basename(import.meta.dirname), "__tests__");
   });
 });

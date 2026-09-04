@@ -8,7 +8,6 @@ export type DocumentationOwnerType = "repository" | "app" | "package";
 export type DocumentationSource = Readonly<{
   key: string;
   route: string;
-  label: string;
   ownerType: DocumentationOwnerType;
   repositoryKey: string;
   collectionDirectory: string;
@@ -28,7 +27,6 @@ export const documentationSources = [
   {
     key: "rtq-content",
     route: "rtq-content",
-    label: "RTQ Content",
     ownerType: "repository",
     repositoryKey: "rtq-content",
     collectionDirectory: "../../../rtq-content",
@@ -43,7 +41,6 @@ export const documentationSources = [
   {
     key: "rtq-content-assets",
     route: "rtq-content/packages/assets",
-    label: "Assets",
     ownerType: "package",
     repositoryKey: "rtq-content",
     collectionDirectory: "../../../rtq-content/packages/assets",
@@ -58,7 +55,6 @@ export const documentationSources = [
   {
     key: "rtq-content-papers",
     route: "rtq-content/packages/papers",
-    label: "Papers",
     ownerType: "package",
     repositoryKey: "rtq-content",
     collectionDirectory: "../../../rtq-content/packages/papers",
@@ -73,7 +69,6 @@ export const documentationSources = [
   {
     key: "rtq-env",
     route: "rtq-env",
-    label: "RTQ Environment",
     ownerType: "repository",
     repositoryKey: "rtq-env",
     collectionDirectory: "../../../rtq-env",
@@ -88,7 +83,6 @@ export const documentationSources = [
   {
     key: "rtq-review",
     route: "rtq-review",
-    label: "RTQ Review",
     ownerType: "repository",
     repositoryKey: "rtq-review",
     collectionDirectory: "../..",
@@ -103,7 +97,6 @@ export const documentationSources = [
   {
     key: "rtq-review-docs-web",
     route: "rtq-review/apps/docs-web",
-    label: "RTQ Docs",
     ownerType: "app",
     repositoryKey: "rtq-review",
     collectionDirectory: ".",
@@ -118,7 +111,6 @@ export const documentationSources = [
   {
     key: "rtq-review-review-api",
     route: "rtq-review/apps/review-api",
-    label: "Review API",
     ownerType: "app",
     repositoryKey: "rtq-review",
     collectionDirectory: "../review-api",
@@ -133,7 +125,6 @@ export const documentationSources = [
   {
     key: "rtq-review-review-legacy-gatsby-web",
     route: "rtq-review/apps/review-legacy-gatsby-web",
-    label: "Review - Legacy Gatsby",
     ownerType: "app",
     repositoryKey: "rtq-review",
     collectionDirectory: "../review-legacy-gatsby-web",
@@ -148,7 +139,6 @@ export const documentationSources = [
   {
     key: "rtq-review-review-question-viewer-web",
     route: "rtq-review/apps/review-question-viewer-web",
-    label: "Review - Question Viewer",
     ownerType: "app",
     repositoryKey: "rtq-review",
     collectionDirectory: "../review-question-viewer-web",
@@ -163,7 +153,6 @@ export const documentationSources = [
   {
     key: "rtq-review-review-tag-web",
     route: "rtq-review/apps/review-tag-web",
-    label: "Review - Tag",
     ownerType: "app",
     repositoryKey: "rtq-review",
     collectionDirectory: "../review-tag-web",
@@ -178,7 +167,6 @@ export const documentationSources = [
   {
     key: "rtq-review-review-web",
     route: "rtq-review/apps/review-web",
-    label: "Review",
     ownerType: "app",
     repositoryKey: "rtq-review",
     collectionDirectory: "../review-web",
@@ -193,7 +181,6 @@ export const documentationSources = [
   {
     key: "rtq-review-repository-paths",
     route: "rtq-review/packages/repository-paths",
-    label: "Repository Paths",
     ownerType: "package",
     repositoryKey: "rtq-review",
     collectionDirectory: "../../packages/repository-paths",
@@ -208,7 +195,6 @@ export const documentationSources = [
   {
     key: "rtq-web",
     route: "rtq-web",
-    label: "RTQ Web",
     ownerType: "repository",
     repositoryKey: "rtq-web",
     collectionDirectory: "../../../rtq-web",
@@ -223,7 +209,6 @@ export const documentationSources = [
   {
     key: "rtq-web-web",
     route: "rtq-web/apps/web",
-    label: "Website",
     ownerType: "app",
     repositoryKey: "rtq-web",
     collectionDirectory: "../../../rtq-web/apps/web",
@@ -238,7 +223,6 @@ export const documentationSources = [
   {
     key: "rtq-web-feature-config",
     route: "rtq-web/packages/feature-config",
-    label: "Feature Config",
     ownerType: "package",
     repositoryKey: "rtq-web",
     collectionDirectory: "../../../rtq-web/packages/feature-config",
@@ -256,13 +240,12 @@ function normalizeRelativePath(filePath: string): string {
   return filePath.replaceAll("\\", "/").replace(/^\.\//, "").replace(/\/$/, "");
 }
 
-function humanizePathSegment(segment: string): string {
-  return segment
-    .split(/[-_]/)
-    .filter(Boolean)
-    .map((word) => `${word[0]?.toUpperCase() ?? ""}${word.slice(1)}`)
-    .join(" ");
-}
+export const repositoryNavigationOrder = [
+  "rtq-web",
+  "rtq-content",
+  "rtq-env",
+  "rtq-review",
+] as const;
 
 export function toVirtualDocumentationPath(
   source: DocumentationSource,
@@ -336,26 +319,40 @@ export function isRepositoryDocumentationPath(
 
 export function getFolderNavigationLabel(folderPath: string): string {
   const normalizedPath = normalizeRelativePath(folderPath);
-  const source = documentationSources.find(
-    (candidate) => candidate.route === normalizedPath,
-  );
-  if (source) return source.label;
-
-  const lastSegment = normalizedPath.split("/").at(-1) ?? normalizedPath;
-  if (lastSegment === "apps") return "Apps";
-  if (lastSegment === "packages") return "Packages";
-  if (lastSegment === "docs") return "Docs";
-
-  return humanizePathSegment(lastSegment);
+  return normalizedPath.split("/").at(-1) ?? normalizedPath;
 }
 
 export function getFileNavigationLabel<T>(
   filePath: string,
   fallback: T,
-): "README.md" | T {
+): string | T {
   const fileName = normalizeRelativePath(filePath).split("/").at(-1);
+  if (!fileName) return fallback;
 
-  return fileName === "README.md" ? "README.md" : fallback;
+  return fileName.endsWith(".md") ? fileName.slice(0, -3) : fileName;
+}
+
+export function shouldOpenNavigationFolder(folderPath: string): boolean {
+  const segments = normalizeRelativePath(folderPath).split("/").filter(Boolean);
+
+  return !segments.includes("docs") && segments.length <= 3;
+}
+
+export function compareTopLevelNavigationLabels(
+  left: string,
+  right: string,
+): number {
+  const leftIndex = repositoryNavigationOrder.indexOf(
+    left as (typeof repositoryNavigationOrder)[number],
+  );
+  const rightIndex = repositoryNavigationOrder.indexOf(
+    right as (typeof repositoryNavigationOrder)[number],
+  );
+
+  return (
+    (leftIndex === -1 ? Number.MAX_SAFE_INTEGER : leftIndex) -
+    (rightIndex === -1 ? Number.MAX_SAFE_INTEGER : rightIndex)
+  );
 }
 
 export function getExpectedDocumentationPaths(

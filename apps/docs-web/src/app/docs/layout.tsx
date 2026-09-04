@@ -4,7 +4,12 @@ import { baseOptions } from "@/lib/layout.shared";
 
 export default function Layout({ children }: LayoutProps<"/docs">) {
   return (
-    <DocsLayout tree={source.getPageTree()} {...baseOptions()}>
+    <DocsLayout
+      tree={source.getPageTree()}
+      {...baseOptions()}
+      containerProps={{ className: "rtq-docs-layout" }}
+      sidebar={{ defaultOpenLevel: 0 }}
+    >
       {children}
     </DocsLayout>
   );

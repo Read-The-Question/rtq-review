@@ -4,6 +4,7 @@ import { basename, relative, resolve } from "node:path";
 import { describe, it } from "node:test";
 
 import {
+  compareTopLevelNavigationLabels,
   conventionalDocumentationFiles,
   documentationSources,
   getDocumentationSourceByKey,
@@ -12,6 +13,8 @@ import {
   getFileNavigationLabel,
   getFolderNavigationLabel,
   isRepositoryDocumentationPath,
+  repositoryNavigationOrder,
+  shouldOpenNavigationFolder,
   toRepositoryDocumentationPath,
   toRepositoryDocumentationUrl,
   toVirtualDocumentationPath,
@@ -336,42 +339,85 @@ describe("documentation routes and navigation", () => {
     );
   });
 
-  it("separates stable route keys from friendly navigation labels", () => {
-    assert.equal(getFolderNavigationLabel("rtq-content"), "RTQ Content");
-    assert.equal(getFolderNavigationLabel("rtq-content/packages"), "Packages");
+  it("preserves source names in navigation labels", () => {
+    assert.equal(getFolderNavigationLabel("rtq-content"), "rtq-content");
+    assert.equal(getFolderNavigationLabel("rtq-content/packages"), "packages");
     assert.equal(
       getFolderNavigationLabel("rtq-review/apps/review-tag-web"),
-      "Review - Tag",
+      "review-tag-web",
     );
     assert.equal(
       getFolderNavigationLabel("rtq-review/apps/docs-web/docs"),
-      "Docs",
+      "docs",
     );
     assert.equal(
       getFolderNavigationLabel(
         "rtq-content/packages/papers/docs/ai/tag-style-guides",
       ),
-      "Tag Style Guides",
+      "tag-style-guides",
     );
     assert.equal(
       getFileNavigationLabel("rtq-review/README.md", "RTQ review"),
-      "README.md",
+      "README",
     );
     assert.equal(
-      getFileNavigationLabel("docs/architecture/routing.md", "Routing"),
-      "Routing",
+      getFileNavigationLabel(
+        "docs/architecture/long-routing-guide.md",
+        "Long Routing Guide",
+      ),
+      "long-routing-guide",
+    );
+  });
+
+  it("orders repositories and opens only the structural hierarchy", () => {
+    assert.deepEqual(repositoryNavigationOrder, [
+      "rtq-web",
+      "rtq-content",
+      "rtq-env",
+      "rtq-review",
+    ]);
+    assert.deepEqual(
+      ["rtq-review", "rtq-env", "rtq-web", "rtq-content"].sort(
+        compareTopLevelNavigationLabels,
+      ),
+      repositoryNavigationOrder,
+    );
+
+    assert.equal(shouldOpenNavigationFolder("rtq-web"), true);
+    assert.equal(shouldOpenNavigationFolder("rtq-web/apps"), true);
+    assert.equal(shouldOpenNavigationFolder("rtq-web/apps/web"), true);
+    assert.equal(shouldOpenNavigationFolder("rtq-review/packages"), true);
+    assert.equal(
+      shouldOpenNavigationFolder("rtq-review/packages/repository-paths"),
+      true,
+    );
+    assert.equal(shouldOpenNavigationFolder("rtq-env/docs"), false);
+    assert.equal(
+      shouldOpenNavigationFolder("rtq-web/apps/web/docs/architecture"),
+      false,
     );
   });
 });
 
 describe("RTQ Docs application surface", () => {
-  it("redirects the root into the documentation experience", async () => {
-    const rootPage = await readFile(
-      resolve(docsAppRoot, "src/app/(home)/page.tsx"),
-      "utf8",
-    );
+  it("redirects both entry routes to the RTQ Web README", async () => {
+    const [rootPage, docsPage, shared] = await Promise.all([
+      readFile(resolve(docsAppRoot, "src/app/(home)/page.tsx"), "utf8"),
+      readFile(
+        resolve(docsAppRoot, "src/app/docs/[[...slug]]/page.tsx"),
+        "utf8",
+      ),
+      import("../shared.ts"),
+    ]);
 
-    assert.match(rootPage, /redirect\("\/docs"\)/);
+    assert.equal(shared.defaultDocumentRoute, "/docs/rtq-web/README");
+    assert.match(rootPage, /redirect\(defaultDocumentRoute\)/);
+    assert.match(
+      docsPage,
+      /if \(!params\.slug\) redirect\(defaultDocumentRoute\)/,
+    );
+    assert.doesNotMatch(docsPage, /Select a repository/);
+    await access(resolve(workspaceRoot, "../rtq-web/README.md"));
   });
 
   it("retains only the required application routes", async () => {
@@ -399,21 +445,42 @@ describe("RTQ Docs application surface", () => {
   });
 
   it("uses the supplied Fumadocs navigation and page presentation", async () => {
-    const [docsLayout, docsPage, searchRoute] = await Promise.all([
-      readFile(resolve(docsAppRoot, "src/app/docs/layout.tsx"), "utf8"),
-      readFile(
-        resolve(docsAppRoot, "src/app/docs/[[...slug]]/page.tsx"),
-        "utf8",
-      ),
-      readFile(resolve(docsAppRoot, "src/app/api/search/route.ts"), "utf8"),
-    ]);
+    const [docsLayout, docsPage, searchRoute, sourceModule] = await Promise.all(
+      [
+        readFile(resolve(docsAppRoot, "src/app/docs/layout.tsx"), "utf8"),
+        readFile(
+          resolve(docsAppRoot, "src/app/docs/[[...slug]]/page.tsx"),
+          "utf8",
+        ),
+        readFile(resolve(docsAppRoot, "src/app/api/search/route.ts"), "utf8"),
+        readFile(resolve(docsAppRoot, "src/lib/source.ts"), "utf8"),
+      ],
+    );
 
-    assert.match(docsLayout, /<DocsLayout tree=\{source\.getPageTree\(\)\}/);
+    assert.match(docsLayout, /tree=\{source\.getPageTree\(\)\}/);
     assert.match(docsPage, /<DocsPage toc=\{page\.data\.toc\}/);
     assert.match(docsPage, /<DocsBody>/);
     assert.match(docsPage, /<EditOnGitHub href=\{getPageGitHubUrl\(page\)\}>/);
     assert.match(docsPage, /a: createRelativeLink\(source, page\)/);
     assert.match(searchRoute, /createFromSource\(source\)/);
+    assert.match(sourceModule, /defaultOpen: shouldOpenNavigationFolder/);
+    assert.match(sourceModule, /compareTopLevelNavigationLabels/);
+  });
+
+  it("configures a wider responsive desktop sidebar without replacing it", async () => {
+    const [docsLayout, globalCss] = await Promise.all([
+      readFile(resolve(docsAppRoot, "src/app/docs/layout.tsx"), "utf8"),
+      readFile(resolve(docsAppRoot, "src/app/global.css"), "utf8"),
+    ]);
+
+    assert.match(docsLayout, /className: "rtq-docs-layout"/);
+    assert.match(docsLayout, /sidebar=\{\{ defaultOpenLevel: 0 \}\}/);
+    assert.match(globalCss, /@media \(width >= 48rem\)/);
+    assert.match(globalCss, /--fd-sidebar-width: clamp\(300px, 25vw, 440px\)/);
+    assert.doesNotMatch(
+      globalCss,
+      /@media \(width < 48rem\)[\s\S]*--fd-sidebar-width/,
+    );
   });
 
   it("identifies the application as an internal documentation surface", async () => {

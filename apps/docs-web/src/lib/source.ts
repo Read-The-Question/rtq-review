@@ -4,9 +4,11 @@ import { defineDocs, type MacroSchemaContext } from "fumadocs-mdx/macro";
 import { z } from "zod";
 
 import {
+  compareTopLevelNavigationLabels,
   getDocumentationSourceForVirtualPath,
   getFileNavigationLabel,
   getFolderNavigationLabel,
+  shouldOpenNavigationFolder,
   toRepositoryDocumentationUrl,
 } from "./documentation-sources";
 import { docsRoute } from "./shared";
@@ -219,7 +221,19 @@ export const source = loader(
           folder(node, folderPath) {
             return {
               ...node,
+              defaultOpen: shouldOpenNavigationFolder(folderPath),
               name: getFolderNavigationLabel(folderPath),
+            };
+          },
+          root(node) {
+            return {
+              ...node,
+              children: [...node.children].sort((left, right) =>
+                compareTopLevelNavigationLabels(
+                  typeof left.name === "string" ? left.name : "",
+                  typeof right.name === "string" ? right.name : "",
+                ),
+              ),
             };
           },
         },

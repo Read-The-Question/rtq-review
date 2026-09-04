@@ -174,7 +174,7 @@
     {
       "id": "T6",
       "title": "Support live documentation updates",
-      "status": "in_review",
+      "status": "done",
       "description": "Ensure edits made to configured documentation in any active source repository checkout become visible in the running documentation application in real time.",
       "acceptanceCriteria": [
         "A change to a configured source document is reflected in the running documentation application without copying the file or manually rebuilding documentation content.",
@@ -189,6 +189,42 @@
       ],
       "steps": [],
       "notes": "Implemented with native Fumadocs and Next.js behavior, so no fallback watcher, SSE endpoint, client refresh component, runtime route, or new dependency was required. next.config.mjs sets Turbopack's filesystem root to the common Read-The-Question directory containing all four configured repository working trees, and the development script now uses default Turbopack. Fumadocs supplies collection watching, allowlist filtering, structural source-index regeneration, coalescing, singleton initialization, error reporting, and shutdown cleanup; Next.js tracks compiled Markdown modules and refreshes its development clients. The production script retains the known-good Webpack path because the Fumadocs macro loader's Turbopack production build did not complete in this environment; next start remains static and requires rebuild or redeployment for new documentation. Added an external-repository integration check under __tests__ that starts RTQ Docs on an available port, creates a unique temporary document in rtq-env/docs, and verifies add, content change, rename, delete, page rendering, and navigation invalidation with guaranteed cleanup. The check passes. The unit suite now has 16 passing tests and replaces the obsolete fixed 260-document snapshot with live allowlist validation plus explicit __dead-pool__ exclusion after concurrent repository cleanup moved seven legacy documents. Prettier, ESLint, isolated Next.js types, unit tests, the external live-reload integration check, and the Webpack production build pass; the current build emits 253 documentation paths and 257 total static pages. In-app browser automation was unavailable, so client refresh was not observed visually; server/compiler invalidation was verified end to end and connected-browser refresh uses the standard Next.js development client.",
+      "children": []
+    },
+    {
+      "id": "T7",
+      "title": "Align sidebar presentation with the source hierarchy",
+      "status": "done",
+      "description": "Make the documentation sidebar easier to scan while presenting repository, folder, and file identity without friendly-label transformations.",
+      "acceptanceCriteria": [
+        "The desktop sidebar width uses a responsive CSS clamp of 300px minimum, 25vw preferred, and 440px maximum while preserving Fumadocs' collapsed-sidebar and mobile-navigation behavior.",
+        "Repository, application, package, and nested folder entries display their original source directory names, including their original casing and hyphens, without explicit aliases, title-casing, humanization, or other label conversion.",
+        "File entries display their original source basenames and casing, with only the final .md extension omitted; for example README.md is displayed as README and routing-guide.md is displayed as routing-guide.",
+        "Navigation-only naming changes do not rename source files or folders, change documentation URLs, or change headings and titles inside rendered documents.",
+        "Top-level repository navigation is ordered as rtq-web, rtq-content, rtq-env, and rtq-review.",
+        "On the initial documentation view, every top-level repository is open; apps and packages grouping folders are open; and the application and package folders immediately beneath those groups are open so their README entry and docs folder are visible.",
+        "Folders named docs and all folders beneath them remain collapsed by default, while opening a specific document may still expose its active ancestor chain through normal Fumadocs navigation behavior.",
+        "Automated tests cover the responsive sidebar-width configuration, unmodified folder labels, extensionless file labels, repository order, default-open hierarchy levels, collapsed docs folders, and retention of mobile or collapsed sidebar behavior."
+      ],
+      "steps": [],
+      "notes": "Implemented with the existing Fumadocs page-tree and sidebar extension points. Navigation labels now preserve source folder names and file basenames while omitting only the final .md extension. A root transformer enforces rtq-web, rtq-content, rtq-env, rtq-review order, and per-folder defaultOpen values expand repository, apps or packages, and immediate owner levels while keeping docs trees collapsed unless active. The stock collapsible and mobile sidebar remains in use; a desktop-only CSS custom-property override sets clamp(300px, 25vw, 440px). Unit tests, formatting, lint, types, the production build, compiled CSS inspection, and production-rendered navigation markup pass. Accepted by the user on 2026-09-04.",
+      "children": []
+    },
+    {
+      "id": "T8",
+      "title": "Open the RTQ Web README by default",
+      "status": "done",
+      "description": "Use the existing RTQ Web repository README as the documentation application's default document instead of showing a generic landing state with no selected content.",
+      "acceptanceCriteria": [
+        "A request to the home route / redirects directly to /docs/rtq-web/README.",
+        "A request to the empty documentation route /docs redirects to the same /docs/rtq-web/README default so neither entry route leaves the user on an unselected landing page.",
+        "The target renders the existing rtq-web/README.md source through the current catch-all documentation route, with no duplicate source file or additional document-rendering route introduced.",
+        "The default document is visibly selected in the sidebar and its required ancestor folders are exposed according to normal Fumadocs active-page behavior.",
+        "The public documentation URL remains extensionless even though the navigation entry is displayed as README and the source filename remains README.md.",
+        "Automated tests cover both entry-route redirects, the exact default destination, successful resolution of the RTQ Web README, and the selected navigation state for the default document."
+      ],
+      "steps": [],
+      "notes": "Implemented with one shared default route constant. The existing / page redirects to /docs/rtq-web/README, and the empty optional catch-all /docs branch redirects to the same target before document lookup; all actual documents continue to render through the existing catch-all route without copied content or an additional renderer. The production server returned 307 and the exact Location header for both entry routes, rendered the RTQ Web README with its page title, and marked its sidebar link active. Unit tests, formatting, lint, types, and the production build pass. Accepted by the user on 2026-09-04.",
       "children": []
     }
   ],
@@ -221,9 +257,11 @@
     "The RTQ Docs application will own documentation beneath apps/docs-web/docs and publish only that folder beneath a distinct top-level RTQ Docs source root.",
     "The initial RTQ Docs-owned architecture guide will live at apps/docs-web/docs/architecture/fumadocs-architecture.md and explain the Fumadocs architecture, current RTQ assembly, source-extension procedure, live-reload model, and cross-repository filesystem requirements.",
     "The internal application will remove the scaffold's LLM, raw-Markdown, Open Graph, unused Lucide integration, and unused class-name utility surfaces, retaining only the landing page, documentation pages, search, source links, and development-time live updates.",
-    "The documentation entry route will open the documentation layout directly, with repository-shaped navigation visible immediately rather than a separate marketing home page.",
-    "Navigation mirrors repository ownership as repository, Apps or Packages where present, application or package, and then explicit README.md and Docs content; friendly labels are presentation metadata rather than structural identity.",
-    "README.md remains an explicitly named navigation item instead of becoming a hidden or renamed landing page, and the docs directory remains a visible Docs section whose internal hierarchy is preserved.",
+    "The documentation entry routes / and /docs open the existing RTQ Web repository README at /docs/rtq-web/README, so the application has no generic unselected landing state.",
+    "Navigation mirrors repository ownership as repository, apps or packages where present, application or package, and then explicit README and docs content; sidebar entries display their original source names without aliases or humanization, except that the final .md file extension is omitted.",
+    "README.md remains an explicit navigation item displayed as README instead of becoming a hidden landing page, and the docs directory remains a visible docs section whose internal hierarchy is preserved.",
+    "Top-level repository navigation is ordered rtq-web, rtq-content, rtq-env, then rtq-review.",
+    "The desktop sidebar uses a responsive 300px-to-440px clamp, and repository, apps, packages, application, and package levels are open by default while docs folders and their descendants remain collapsed.",
     "The initial structural convention expects README.md and docs/**/*.md for every registered application and package, but missing or misplaced sources are reported for case-by-case correction and never trigger broad Markdown discovery.",
     "The initial application will use Fumadocs out of the box and remain deliberately thin; custom UI, content infrastructure, and watcher services are deferred unless a proven requirement makes them necessary.",
     "Live reload follows a native-first strategy: use Fumadocs and Next.js dependency watching, widen the Turbopack root only when sibling repositories require it, and add an allowlist-scoped Chokidar invalidation channel only if the proof of fit fails.",

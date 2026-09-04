@@ -6,25 +6,17 @@ import {
   DocsTitle,
   EditOnGitHub,
 } from "fumadocs-ui/layouts/docs/page";
-import { notFound } from "next/navigation";
+import { notFound, redirect } from "next/navigation";
 import { getMDXComponents } from "@/components/mdx";
 import type { Metadata } from "next";
 import { createRelativeLink } from "fumadocs-ui/mdx";
+import { defaultDocumentRoute } from "@/lib/shared";
 
 export default async function Page(props: PageProps<"/docs/[[...slug]]">) {
   const params = await props.params;
+  if (!params.slug) redirect(defaultDocumentRoute);
+
   const page = source.getPage(params.slug);
-  if (!page && !params.slug) {
-    return (
-      <DocsPage toc={[]}>
-        <DocsTitle>RTQ Docs</DocsTitle>
-        <DocsDescription>
-          Select a repository, application, package, or document from the
-          navigation.
-        </DocsDescription>
-      </DocsPage>
-    );
-  }
   if (!page) notFound();
 
   const MDX = page.data.body;

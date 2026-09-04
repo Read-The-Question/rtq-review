@@ -10,3 +10,9 @@ html > body[data-scroll-locked] {
   margin-right: 0px !important;
   --removed-body-scroll-bar-size: 0px !important;
 }
+
+@media (width >= 48rem) {
+  #nd-docs-layout.rtq-docs-layout {
+    --fd-sidebar-width: clamp(300px, 25vw, 440px);
+  }
+}

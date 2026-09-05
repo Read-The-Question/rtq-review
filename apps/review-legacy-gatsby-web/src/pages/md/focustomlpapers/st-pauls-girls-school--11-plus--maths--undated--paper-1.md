@@ -1,7 +1,7 @@
 ---
 slug: "focustomlpapers/st-pauls-girls-school-11-plus-maths-undated-paper-1"
 title: "Focus Paper - St Pauls Girls School - 11 Plus - Maths - Undated - Paper 1"
-date: 2026-09-04 05:35:24
+date: 2026-09-05 13:08:46
 questions_count: "35"
 ---
 <div class="paper" id="page-st-pauls-girls-school-11-plus-maths-undated-paper-1-top">
@@ -78,16 +78,15 @@ Calculate $15.05 - 14.84$.
 **Tips**
 
 <div class="tip">
-- ABBR: Remember to line up the decimal points.
+
+ABBR: Remember to line up the decimal points.
+
 </div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -148,16 +147,10 @@ $0.21$
 <div class="tipcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">- rtq_abbr_note_md_decimal_point_alignment
+<pre class="language-latex"><code class="language-latex">rtq_abbr_note_md_decimal_point_alignment
 </code></pre>
 </div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -337,16 +330,15 @@ Calculate $31.6 \times 7$.
 **Tips**
 
 <div class="tip">
-- ABBR: Let's first multiply the numbers ignoring the decimal points.
+
+ABBR: Let's first multiply the numbers ignoring the decimal points.
+
 </div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -404,16 +396,10 @@ $221.2$
 <div class="tipcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">- rtq_abbr_note_md_multiply_when_decimal_points
+<pre class="language-latex"><code class="language-latex">rtq_abbr_note_md_multiply_when_decimal_points
 </code></pre>
 </div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -569,17 +555,11 @@ Calculate $60\%$ of $765$
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -607,20 +587,8 @@ $459$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -773,17 +741,11 @@ How much money is collected?
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -807,20 +769,8 @@ $\pounds 110.50$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -961,16 +911,15 @@ Calculate $2.4 \times (3.7 +  1.3) \div 2$
 **Tips**
 
 <div class="tip">
-- ABBR: Using BIDMAS
+
+ABBR: Using BIDMAS
+
 </div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -1003,16 +952,10 @@ $6$
 <div class="tipcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">- rtq_abbr_note_md_bidmas
+<pre class="language-latex"><code class="language-latex">rtq_abbr_note_md_bidmas
 </code></pre>
 </div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -1157,17 +1100,11 @@ Fill in the missing numbers:
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -1185,20 +1122,8 @@ Fill in the missing numbers:
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -1265,17 +1190,11 @@ $\dfrac{1}{2}$ of $20 = \dfrac{1}{4}$ of $\ldots$
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -1326,20 +1245,8 @@ $40$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -1432,17 +1339,11 @@ $\dfrac{3}{4}$ of $100 = \dfrac{1}{2}$ of $\ldots$
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -1493,20 +1394,8 @@ $150$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -1599,17 +1488,11 @@ $\dfrac{1}{3}$ of $60 = \dfrac{2}{3}$ of $\ldots$
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -1659,20 +1542,8 @@ $30$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -1835,17 +1706,11 @@ $0.627 = 0.6 + 0.02 + \ldots$
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -1906,20 +1771,8 @@ $0.007$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -2083,17 +1936,11 @@ $0.01 \quad 0.08 \quad 0.13 \quad 0.2 \quad 0.9$
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -2146,20 +1993,8 @@ $0.08$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -2324,17 +2159,11 @@ Write all the three-digit numbers, greater than &#36;500&#36;, that can be made 
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -2384,20 +2213,8 @@ $624,\ 626,\ 642,\ 646,\ 662,\ 664$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -2559,20 +2376,25 @@ $\ldots \times \ldots \times \ldots = 231$
 **Tips**
 
 <div class="tip">
-- ABBR: Prime numbers between $1$ and $20= 2, 3, 5, 7, 11, 13, 17, 19$
 
-- ABBR: As we know that a number is divisible by 3, if the sum of all its digits is divisible by 3.
+ABBR: Prime numbers between $1$ and $20= 2, 3, 5, 7, 11, 13, 17, 19$
 
-- ABBR: A number is a multiple of $11$ if the difference between the sums of its alternating digits is $0$ or a multiple of $11$.
+</div>
+<div class="tip">
+
+ABBR: As we know that a number is divisible by 3, if the sum of all its digits is divisible by 3.
+
+</div>
+<div class="tip">
+
+ABBR: A number is a multiple of $11$ if the difference between the sums of its alternating digits is $0$ or a multiple of $11$.
+
 </div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -2639,18 +2461,24 @@ $11$
 <div class="tipcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">- rtq_abbr_note_md_prime_numbers_1_to_20
-- rtq_abbr_note_md_divisible_by_3
-- rtq_abbr_note_md_multiple_of_11
+<pre class="language-latex"><code class="language-latex">rtq_abbr_note_md_prime_numbers_1_to_20
 </code></pre>
 </div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">%empty%
+<pre class="language-latex"><code class="language-latex">rtq_abbr_note_md_divisible_by_3
 </code></pre>
 </div>
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">rtq_abbr_note_md_multiple_of_11
+</code></pre>
+</div>
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -2849,17 +2677,11 @@ Write in the missing numbers:
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -2962,20 +2784,8 @@ Third missing number $=$ $14$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -3203,17 +3013,11 @@ $ \ldots \quad \ldots \quad 3 \quad 6 \quad 12 \quad 24 \quad 48 \quad \ldots$
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -3302,20 +3106,8 @@ $96$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -3531,17 +3323,11 @@ How many biscuits do Alysha and Julia each have?
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -3622,20 +3408,8 @@ Alysha $=$ $8$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -3835,17 +3609,11 @@ What is Jemma's number?
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -3909,20 +3677,8 @@ $4$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -4100,17 +3856,11 @@ Calculate the weight of one match.
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -4142,20 +3892,8 @@ $0.15 \ \text{grams}$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -4320,17 +4058,11 @@ How many oranges does she use?
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -4403,20 +4135,8 @@ $8$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -4592,17 +4312,11 @@ $42$ boys take part in the dance. How many girls take part?
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -4642,17 +4356,11 @@ Number of girls $= 28$
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -4714,20 +4422,8 @@ $28 \ \text{girls}$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -4754,20 +4450,8 @@ Number of girls &#36;= 28&#36;
 &lt;/WorkingSection&gt;
 </code></pre>
 </div>
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -4957,17 +4641,11 @@ Calculate the area of the larger triangle.
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -5012,16 +4690,15 @@ Area of larger triangle $= 117 \ \text{cm}^2$
 **Tips**
 
 <div class="tip">
-- ABBR: Alternate solution
+
+ABBR: Alternate solution
+
 </div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -5069,20 +4746,8 @@ $117 \ \text{cm}^2$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -5117,16 +4782,10 @@ Area of larger triangle &#36;= 117 \ \text{cm}^2&#36;
 <div class="tipcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">- rtq_abbr_note_md_alternate_solution
+<pre class="language-latex"><code class="language-latex">rtq_abbr_note_md_alternate_solution
 </code></pre>
 </div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -5300,17 +4959,11 @@ and put all the numbers in the boxes below:
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -5382,20 +5035,8 @@ $32 \times 32 = 1024$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -5577,17 +5218,11 @@ $323 \times \ldots 7 = 1518 \ldots$
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -5666,20 +5301,8 @@ $323 \times 47 = 15181$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -5870,17 +5493,11 @@ Which hexagon do I shade for my final pattern to have exactly &#36;2&#36; lines 
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -5940,20 +5557,8 @@ $\text{C}$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -6167,17 +5772,11 @@ rtq_abbr_working_md_keep_after_table
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -6366,20 +5965,8 @@ $y$ $=$ $29$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -6644,17 +6231,11 @@ I am thinking of a number that when I multiply it by two and divide the result b
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -6720,20 +6301,8 @@ $\pm 16$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -6907,17 +6476,11 @@ It gains &#36;4 \ \text{minutes}&#36; every &#36;3 \ \text{hours}&#36;.
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -6936,20 +6499,8 @@ It gains &#36;4 \ \text{minutes}&#36; every &#36;3 \ \text{hours}&#36;.
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -7023,17 +6574,11 @@ What time does the watch show when the correct time is $12$ noon on Friday, assu
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -7090,20 +6635,8 @@ $1{:}04 \ \text{pm}$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -7210,17 +6743,11 @@ What is the correct time when the watch is showing &#36;19{:}40&#36; on Friday n
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -7292,20 +6819,8 @@ $7{:}30 \ \text{pm}$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -7484,17 +6999,11 @@ Three apples and a banana cost $32 \ \text{p}$. Six apples and a banana cost $53
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -7607,20 +7116,8 @@ $11 \ \text{p}$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -7832,17 +7329,11 @@ The combined age of Alan and Carl is fifty five and the combined age of Ben and 
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -7861,20 +7352,8 @@ The combined age of Alan and Carl is fifty five and the combined age of Ben and 
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -7953,17 +7432,11 @@ What is the combined age of Alan, Ben and Carl?
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -8052,20 +7525,8 @@ $82 \ \text{years}$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -8192,17 +7653,11 @@ How old is Alan?
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -8275,20 +7730,8 @@ $16 \ \text {years}$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -8467,17 +7910,11 @@ How many of such numbers are there between &#36;10&#36; and &#36;1000 \text{?}&#
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -8571,20 +8008,8 @@ $99$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -8777,17 +8202,11 @@ How much did each of them have?
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -8889,20 +8308,8 @@ Sid $=$ $\pounds 93.50$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -9149,17 +8556,11 @@ There are $6$ fangos in a rango and $15$ rangos in a bango.
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -9178,20 +8579,8 @@ There are $6$ fangos in a rango and $15$ rangos in a bango.
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -9271,16 +8660,15 @@ Alex has $9$ rangos and $4$ fangos. Barbara has $7$ rangos and $3$ fangos. How m
 **Tips**
 
 <div class="tip">
-- ABBR: It is really important to use the right units in calculations and convert where required.
+
+ABBR: It is really important to use the right units in calculations and convert where required.
+
 </div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -9311,16 +8699,10 @@ $103  \ \text{fangos}$
 <div class="tipcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">- rtq_abbr_note_md_unit
+<pre class="language-latex"><code class="language-latex">rtq_abbr_note_md_unit
 </code></pre>
 </div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -9415,16 +8797,15 @@ What fraction of a bango do $12$ fangos represent?
 **Tips**
 
 <div class="tip">
-- ABBR: It is really important to use the right units in calculations and convert where required.
+
+ABBR: It is really important to use the right units in calculations and convert where required.
+
 </div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -9456,16 +8837,10 @@ $\dfrac {2} {15}$
 <div class="tipcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">- rtq_abbr_note_md_unit
+<pre class="language-latex"><code class="language-latex">rtq_abbr_note_md_unit
 </code></pre>
 </div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -9556,16 +8931,15 @@ How many whole bangos are there in $274$ fangos? How many fangos are left over?
 **Tips**
 
 <div class="tip">
-- ABBR: It is really important to use the right units in calculations and convert where required.
+
+ABBR: It is really important to use the right units in calculations and convert where required.
+
 </div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -9636,16 +9010,10 @@ fangos left over $=$ $4$
 <div class="tipcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">- rtq_abbr_note_md_unit
+<pre class="language-latex"><code class="language-latex">rtq_abbr_note_md_unit
 </code></pre>
 </div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -9865,17 +9233,11 @@ Which one of these diagrams does not fit?
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -9969,20 +9331,8 @@ $B$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -10198,17 +9548,11 @@ Only rows &#36;1, 2, 3&#36; and &#36;4&#36; are shown, but there are many more r
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -10227,20 +9571,8 @@ Only rows &#36;1, 2, 3&#36; and &#36;4&#36; are shown, but there are many more r
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -10314,17 +9646,11 @@ What do you notice about the numbers in column $7 \text{?}$
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -10343,20 +9669,8 @@ They are multiples of $7$.
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -10432,17 +9746,11 @@ What is the last number in row $8 \text{?}$
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -10477,20 +9785,8 @@ $56$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -10575,17 +9871,11 @@ What is the last number in row $100 \text{?}$
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -10633,20 +9923,8 @@ There is no row $100$.
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -10737,17 +10015,11 @@ $77$ is the last number in which row?
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -10773,20 +10045,8 @@ Row $11$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -10869,17 +10129,11 @@ What is the number in row $12$ and column $3 \text{?}$
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -10905,20 +10159,8 @@ $80$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -11001,17 +10243,11 @@ What row and column will contain the number $400 \text{?}$
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -11070,20 +10306,8 @@ column $=$ $1$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -11276,17 +10500,11 @@ $E_{4}$ means 'add up the first $4$ even numbers', so $E_{4} = 2 + 4 + 6 + 8 = 2
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -11305,20 +10523,8 @@ $E_{4}$ means 'add up the first $4$ even numbers', so $E_{4} = 2 + 4 + 6 + 8 = 2
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -11392,17 +10598,11 @@ Work out the following:
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -11421,20 +10621,8 @@ Work out the following:
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -11508,17 +10696,11 @@ $E_{7} = $
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -11542,20 +10724,8 @@ $56$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -11636,17 +10806,11 @@ $N_{8} = $
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -11670,20 +10834,8 @@ $36$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -11764,17 +10916,11 @@ $N_{9} = $
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -11800,20 +10946,8 @@ $45$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -11899,17 +11033,11 @@ Find the value of $N_{401} - N_{400}$.
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -11934,20 +11062,8 @@ $401$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -12057,17 +11173,11 @@ Find the value of
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -12092,20 +11202,8 @@ $169$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -12199,17 +11297,11 @@ Complete the following line **by filling in the boxes**.
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -12228,20 +11320,8 @@ $N_{10} =  O_{5}  + E_{5}$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -12321,17 +11401,11 @@ Use this information to work out the following:
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -12350,20 +11424,8 @@ Use this information to work out the following:
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -12437,17 +11499,11 @@ $E_{100} = $
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -12474,20 +11530,8 @@ $10100$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -12571,17 +11615,11 @@ $E_{200} = $
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -12609,20 +11647,8 @@ $40200$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -12797,17 +11823,11 @@ If &#36;\boxed{s}&#36;  has the number &#36;1&#36; one the back and the cards
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -12826,20 +11846,8 @@ If &#36;\boxed{s}&#36;  has the number &#36;1&#36; one the back and the cards
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -12913,17 +11921,11 @@ What does $\boxed{s} \ \boxed{a} \ \boxed{l} \ \boxed{t}$ add up to?
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -13006,20 +12008,8 @@ $11$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -13137,17 +12127,11 @@ What does $\boxed{s} \ \boxed{P}  \ \boxed{l} \ \boxed{a} \ \boxed{t}$ add up to
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -13231,20 +12215,8 @@ $17$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -13441,16 +12413,15 @@ For example, the sum of the faces &#36;= 3 + 5 + 9 = 17&#36;.
 **Tips**
 
 <div class="tip">
-- Use the opposite-face pairs from the first cube.
+
+Use the opposite-face pairs from the first cube.
+
 </div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -13462,17 +12433,11 @@ For example, the sum of the faces &#36;= 3 + 5 + 9 = 17&#36;.
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -13502,16 +12467,10 @@ TODOANSWER
 <div class="tipcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">- Use the opposite-face pairs from the first cube.
+<pre class="language-latex"><code class="language-latex">Use the opposite-face pairs from the first cube.
 </code></pre>
 </div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -13519,20 +12478,8 @@ TODOANSWER
 <pre class="language-latex"><code class="language-latex">%empty%
 </code></pre>
 </div>
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -13621,18 +12568,25 @@ Find the sum of the faces that border with the marked corner for the following:
 **Tips**
 
 <div class="tip">
-- The marked corner touches the left face, the bottom face, and the back face.
-- The bottom face is opposite the top face.
-- The back face is opposite the right face.
+
+The marked corner touches the left face, the bottom face, and the back face.
+
+</div>
+<div class="tip">
+
+The bottom face is opposite the top face.
+
+</div>
+<div class="tip">
+
+The back face is opposite the right face.
+
 </div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -13689,18 +12643,24 @@ $19$
 <div class="tipcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">- The marked corner touches the left face, the bottom face, and the back face.
-- The bottom face is opposite the top face.
-- The back face is opposite the right face.
+<pre class="language-latex"><code class="language-latex">The marked corner touches the left face, the bottom face, and the back face.
 </code></pre>
 </div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">%empty%
+<pre class="language-latex"><code class="language-latex">The bottom face is opposite the top face.
 </code></pre>
 </div>
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">The back face is opposite the right face.
+</code></pre>
+</div>
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -13792,18 +12752,25 @@ inherits parent tags: yes
 **Tips**
 
 <div class="tip">
-- The marked corner touches the right face, the bottom face, and the back face.
-- The bottom face is opposite the top face.
-- The back face is opposite the left face.
+
+The marked corner touches the right face, the bottom face, and the back face.
+
+</div>
+<div class="tip">
+
+The bottom face is opposite the top face.
+
+</div>
+<div class="tip">
+
+The back face is opposite the left face.
+
 </div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -13860,18 +12827,24 @@ $15$
 <div class="tipcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">- The marked corner touches the right face, the bottom face, and the back face.
-- The bottom face is opposite the top face.
-- The back face is opposite the left face.
+<pre class="language-latex"><code class="language-latex">The marked corner touches the right face, the bottom face, and the back face.
 </code></pre>
 </div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">%empty%
+<pre class="language-latex"><code class="language-latex">The bottom face is opposite the top face.
 </code></pre>
 </div>
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">The back face is opposite the left face.
+</code></pre>
+</div>
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -13964,17 +12937,11 @@ inherits parent tags: yes
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -13993,20 +12960,8 @@ TODOANSWER
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -14091,18 +13046,25 @@ Fill in the missing sides so that the sum of the faces that border with the mark
 **Tips**
 
 <div class="tip">
-- The marked corner already has $10$ on top.
-- The two missing side faces must add to $27 - 10$.
-- Opposite faces cannot meet at a corner.
+
+The marked corner already has $10$ on top.
+
+</div>
+<div class="tip">
+
+The two missing side faces must add to $27 - 10$.
+
+</div>
+<div class="tip">
+
+Opposite faces cannot meet at a corner.
+
 </div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -14163,18 +13125,24 @@ side $=$ $9$
 <div class="tipcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">- The marked corner already has &#36;10&#36; on top.
-- The two missing side faces must add to &#36;27 - 10&#36;.
-- Opposite faces cannot meet at a corner.
+<pre class="language-latex"><code class="language-latex">The marked corner already has &#36;10&#36; on top.
 </code></pre>
 </div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">%empty%
+<pre class="language-latex"><code class="language-latex">The two missing side faces must add to &#36;27 - 10&#36;.
 </code></pre>
 </div>
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Opposite faces cannot meet at a corner.
+</code></pre>
+</div>
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -14296,18 +13264,25 @@ Write down **all possibilities** for the sum of the missing faces that border wi
 **Tips**
 
 <div class="tip">
-- If $8$ is on top, then $5$ is on the bottom.
-- The two missing side faces must be chosen from $3$, $10$, $9$, and $4$.
-- Opposite faces cannot meet at a corner, so do not pair $3$ with $10$ or $9$ with $4$.
+
+If $8$ is on top, then $5$ is on the bottom.
+
+</div>
+<div class="tip">
+
+The two missing side faces must be chosen from $3$, $10$, $9$, and $4$.
+
+</div>
+<div class="tip">
+
+Opposite faces cannot meet at a corner, so do not pair $3$ with $10$ or $9$ with $4$.
+
 </div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -14376,18 +13351,24 @@ $7,\ 12,\ 14,\ 19$
 <div class="tipcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">- If &#36;8&#36; is on top, then &#36;5&#36; is on the bottom.
-- The two missing side faces must be chosen from &#36;3&#36;, &#36;10&#36;, &#36;9&#36;, and &#36;4&#36;.
-- Opposite faces cannot meet at a corner, so do not pair &#36;3&#36; with &#36;10&#36; or &#36;9&#36; with &#36;4&#36;.
+<pre class="language-latex"><code class="language-latex">If &#36;8&#36; is on top, then &#36;5&#36; is on the bottom.
 </code></pre>
 </div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">%empty%
+<pre class="language-latex"><code class="language-latex">The two missing side faces must be chosen from &#36;3&#36;, &#36;10&#36;, &#36;9&#36;, and &#36;4&#36;.
 </code></pre>
 </div>
+<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
+<div class="tipcodeblock_title">
+<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
+</div>
+<pre class="language-latex"><code class="language-latex">Opposite faces cannot meet at a corner, so do not pair &#36;3&#36; with &#36;10&#36; or &#36;9&#36; with &#36;4&#36;.
+</code></pre>
+</div>
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -14608,17 +13589,11 @@ d   +  e     = b +  c \\\\
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -14727,20 +13702,8 @@ $
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -14890,17 +13853,11 @@ b - a &=
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -14925,20 +13882,8 @@ $\oslash$ or $a$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -15035,17 +13980,11 @@ a + b &=
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -15071,20 +14010,8 @@ $\boxtimes$ or $e$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
@@ -15182,17 +14109,11 @@ a + d &=
 
 **Tips**
 
-<div class="tip">
-%empty%
-</div>
 </div>
 <div class="formulas placeholder" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
 **Formulas**
 
-<div class="formula">
-%empty%
-</div>
 </div>
 <div class="working" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 
@@ -15216,20 +14137,8 @@ $\blacksquare$ or $c$
 </div>
 </div>
 <div class="workingscodeblock">
-<div class="tipcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="tipcodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Tips Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
-<div class="formulacodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
-<div class="formulacodeblock_title">
-<strong style="display: block; margin-bottom: 0.5rem;">Formulas Raw</strong>
-</div>
-<pre class="language-latex"><code class="language-latex">%empty%
-</code></pre>
-</div>
+
+
 <div class="workingcodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>

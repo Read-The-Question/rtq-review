@@ -68,6 +68,46 @@ importers:
 
   apps/review-api: {}
 
+  apps/review-content-web:
+    dependencies:
+      '@rtq/review-paper-model':
+        specifier: workspace:*
+        version: link:../../packages/review-paper-model
+      next:
+        specifier: 16.2.6
+        version: 16.2.6(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
+      react:
+        specifier: 19.2.4
+        version: 19.2.4
+      react-dom:
+        specifier: 19.2.4
+        version: 19.2.4(react@19.2.4)
+    devDependencies:
+      '@types/node':
+        specifier: ^20
+        version: 20.19.43
+      '@types/react':
+        specifier: ^19
+        version: 19.2.18
+      '@types/react-dom':
+        specifier: ^19
+        version: 19.2.7(@types/react@19.2.18)
+      eslint:
+        specifier: ^9
+        version: 9.39.5(jiti@2.7.0)
+      eslint-config-next:
+        specifier: 16.2.6
+        version: 16.2.6(eslint@9.39.5(jiti@2.7.0))(typescript@5.4.2)
+      eslint-config-prettier:
+        specifier: ^10.1.8
+        version: 10.1.8(eslint@9.39.5(jiti@2.7.0))
+      prettier:
+        specifier: ^3.8.0
+        version: 3.9.6
+      typescript:
+        specifier: ^5
+        version: 5.4.2
+
   apps/review-legacy-gatsby-web:
     dependencies:
       autoprefixer:
@@ -115,6 +155,91 @@ importers:
       tailwindcss:
         specifier: ^3.4.1
         version: 3.4.1
+
+  apps/review-markdown-web:
+    dependencies:
+      '@rtq/review-repository-paths':
+        specifier: workspace:*
+        version: link:../../packages/repository-paths
+      chokidar:
+        specifier: ^5.0.0
+        version: 5.0.0
+      gray-matter:
+        specifier: ^4.0.3
+        version: 4.0.3
+      katex:
+        specifier: ^0.16.45
+        version: 0.16.47
+      next:
+        specifier: 16.2.4
+        version: 16.2.4(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
+      react:
+        specifier: 19.2.4
+        version: 19.2.4
+      react-dom:
+        specifier: 19.2.4
+        version: 19.2.4(react@19.2.4)
+      rehype-katex:
+        specifier: ^7.0.1
+        version: 7.0.1
+      rehype-raw:
+        specifier: ^7.0.0
+        version: 7.0.0
+      rehype-stringify:
+        specifier: ^10.0.1
+        version: 10.0.1
+      remark-gfm:
+        specifier: ^4.0.1
+        version: 4.0.1
+      remark-math:
+        specifier: ^6.0.0
+        version: 6.0.0
+      remark-parse:
+        specifier: ^11.0.0
+        version: 11.0.0
+      remark-rehype:
+        specifier: ^11.1.2
+        version: 11.1.2
+      unified:
+        specifier: ^11.0.5
+        version: 11.0.5
+    devDependencies:
+      '@tailwindcss/postcss':
+        specifier: ^4
+        version: 4.3.3
+      '@trivago/prettier-plugin-sort-imports':
+        specifier: ^6.0.2
+        version: 6.0.2(prettier@3.9.6)
+      '@types/node':
+        specifier: ^20
+        version: 20.19.43
+      '@types/react':
+        specifier: ^19
+        version: 19.2.18
+      '@types/react-dom':
+        specifier: ^19
+        version: 19.2.4(@types/react@19.2.18)
+      eslint:
+        specifier: ^9
+        version: 9.39.5(jiti@2.7.0)
+      eslint-config-next:
+        specifier: 16.2.4
+        version: 16.2.4(eslint@9.39.5(jiti@2.7.0))(typescript@5.4.2)
+      eslint-config-prettier:
+        specifier: ^10.1.8
+        version: 10.1.8(eslint@9.39.5(jiti@2.7.0))
+      prettier:
+        specifier: ^3.8.0
+        version: 3.9.6
+      prettier-plugin-tailwindcss:
+        specifier: ^0.7.2
+        version: 0.7.4(@trivago/prettier-plugin-sort-imports@6.0.2(prettier@3.9.6))(prettier@3.9.6)
+      tailwindcss:
+        specifier: ^4
+        version: 4.3.3
+      typescript:
+        specifier: ^5
+        version: 5.4.2
 
   apps/review-question-viewer-web:
     dependencies:
@@ -298,92 +423,23 @@ importers:
         specifier: ^5
         version: 5.4.2
 
-  apps/review-web:
+  packages/repository-paths: {}
+
+  packages/review-paper-model:
     dependencies:
       '@rtq/review-repository-paths':
         specifier: workspace:*
-        version: link:../../packages/repository-paths
-      chokidar:
-        specifier: ^5.0.0
-        version: 5.0.0
-      gray-matter:
-        specifier: ^4.0.3
-        version: 4.0.3
-      katex:
-        specifier: ^0.16.45
-        version: 0.16.47
-      next:
-        specifier: 16.2.4
-        version: 16.2.4(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
-      react:
-        specifier: 19.2.4
-        version: 19.2.4
-      react-dom:
-        specifier: 19.2.4
-        version: 19.2.4(react@19.2.4)
-      rehype-katex:
-        specifier: ^7.0.1
-        version: 7.0.1
-      rehype-raw:
-        specifier: ^7.0.0
-        version: 7.0.0
-      rehype-stringify:
-        specifier: ^10.0.1
-        version: 10.0.1
-      remark-gfm:
-        specifier: ^4.0.1
-        version: 4.0.1
-      remark-math:
-        specifier: ^6.0.0
-        version: 6.0.0
-      remark-parse:
-        specifier: ^11.0.0
-        version: 11.0.0
-      remark-rehype:
-        specifier: ^11.1.2
-        version: 11.1.2
-      unified:
-        specifier: ^11.0.5
-        version: 11.0.5
+        version: link:../repository-paths
     devDependencies:
-      '@tailwindcss/postcss':
-        specifier: ^4
-        version: 4.3.3
-      '@trivago/prettier-plugin-sort-imports':
-        specifier: ^6.0.2
-        version: 6.0.2(prettier@3.9.6)
       '@types/node':
         specifier: ^20
         version: 20.19.43
-      '@types/react':
-        specifier: ^19
-        version: 19.2.18
-      '@types/react-dom':
-        specifier: ^19
-        version: 19.2.4(@types/react@19.2.18)
-      eslint:
-        specifier: ^9
-        version: 9.39.5(jiti@2.7.0)
-      eslint-config-next:
-        specifier: 16.2.4
-        version: 16.2.4(eslint@9.39.5(jiti@2.7.0))(typescript@5.4.2)
-      eslint-config-prettier:
-        specifier: ^10.1.8
-        version: 10.1.8(eslint@9.39.5(jiti@2.7.0))
       prettier:
         specifier: ^3.8.0
         version: 3.9.6
-      prettier-plugin-tailwindcss:
-        specifier: ^0.7.2
-        version: 0.7.4(@trivago/prettier-plugin-sort-imports@6.0.2(prettier@3.9.6))(prettier@3.9.6)
-      tailwindcss:
-        specifier: ^4
-        version: 4.3.3
       typescript:
         specifier: ^5
         version: 5.4.2
-
-  packages/repository-paths: {}
 
 packages:
 

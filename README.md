@@ -10,8 +10,12 @@
 - [`apps/review-legacy-gatsby-web`](apps/review-legacy-gatsby-web) retains the
   generated-Markdown Gatsby reviewer. It is currently unused but remains the
   sole review consumer of copied paper assets until it is explicitly retired.
-- [`apps/review-web`](apps/review-web) is the maintained Next.js application
-  for reviewing generated paper Markdown and submitting review actions.
+- [`apps/review-markdown-web`](apps/review-markdown-web) is the maintained
+  Next.js application for reviewing generated paper Markdown and submitting
+  review actions.
+- [`apps/review-content-web`](apps/review-content-web) is the direct-content
+  Next.js reviewer. It reads paper TOML from the active `rtq-content` checkout
+  without generated Markdown.
 - [`apps/review-tag-web`](apps/review-tag-web) is the maintained Next.js
   application for reviewing and editing tags directly in canonical paper TOML.
 - [`apps/review-question-viewer-web`](apps/review-question-viewer-web) is the
@@ -33,7 +37,7 @@ pnpm install --frozen-lockfile
 
 The workspace uses Node `24.19.0` and pnpm `10.15.1`.
 
-The three maintained Next.js reviewers resolve a sibling `../rtq-content`
+The four maintained Next.js reviewers resolve a sibling `../rtq-content`
 checkout from this workspace root. For a different layout, set
 `RTQ_CONTENT_ROOT` to the whole `rtq-content` Git root. Absolute values are
 accepted; relative values are resolved from this `rtq-review` workspace, not
@@ -44,8 +48,12 @@ derives papers and assets from that one checkout.
 Run an application from its directory:
 
 ```sh
-cd apps/review-web
+cd apps/review-markdown-web
 pnpm dev
+
+# Or run the direct-content reviewer on its assigned port:
+cd ../review-content-web
+pnpm dev --port 3004
 
 # Or run the internal documentation application:
 cd ../docs-web
@@ -68,25 +76,27 @@ cd ../review-api
 pnpm dev
 ```
 
-The maintained review applications use ports `3000`, `3001`, and `3002`; the
-documentation application uses `3003`; the review API uses `4567`; Gatsby runs
-at `http://localhost:8000`. See each application README for its content, asset,
-and runtime prerequisites.
+The maintained review applications use ports `3000`, `3001`, `3002`, and
+`3004`; the documentation application currently uses `3003`; the review API
+uses `4567`; Gatsby runs at `http://localhost:8000`. The coordinated tmux stack
+will move documentation to `3005` when it registers the content reviewer. See
+each application README for its content, asset, and runtime prerequisites.
 
 The same applications can be started from the workspace root:
 
 ```sh
 pnpm docs-web:dev
-pnpm review-web:dev
+pnpm review-markdown-web:dev
+pnpm review-content-web:dev
 pnpm review-tag-web:dev
 pnpm review-question-viewer-web:dev
 pnpm review-legacy-gatsby-web:dev
 pnpm review-api:dev
 ```
 
-The first four commands use workspace-installed Node dependencies. The API
-adapter deliberately delegates to Bundler; install its locked Ruby dependencies
-from `apps/review-api` before starting it:
+The maintained Next.js commands use workspace-installed Node dependencies. The
+API adapter deliberately delegates to Bundler; install its locked Ruby
+dependencies from `apps/review-api` before starting it:
 
 ```sh
 cd apps/review-api

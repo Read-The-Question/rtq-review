@@ -1,4 +1,4 @@
-# RTQ Review Web
+# RTQ Review Markdown Web
 
 Internal Next.js application for reviewing generated RTQ answer Markdown. The
 shared `@rtq/papers` review stack copies generated Markdown into `md/`. The
@@ -38,7 +38,7 @@ pnpm install --frozen-lockfile
 ## Local use
 
 ```bash
-cd /path/to/rtq-review/apps/review-web
+cd /path/to/rtq-review/apps/review-markdown-web
 pnpm dev
 ```
 

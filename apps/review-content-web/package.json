@@ -1,0 +1,35 @@
+{
+  "name": "rtq-review-content-web",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "check": "pnpm format:check && pnpm lint:check && pnpm types && pnpm test && pnpm build",
+    "lint": "pnpm lint:check",
+    "lint:check": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "format:check": "prettier --check .",
+    "format:fix": "prettier --write .",
+    "test": "node --no-warnings --test --experimental-strip-types src/lib/workspace-view-model.test.ts",
+    "types": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@rtq/review-paper-model": "workspace:*",
+    "next": "16.2.6",
+    "react": "19.2.4",
+    "react-dom": "19.2.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.6",
+    "eslint-config-prettier": "^10.1.8",
+    "prettier": "^3.8.0",
+    "typescript": "^5"
+  }
+}

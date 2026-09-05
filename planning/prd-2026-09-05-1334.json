@@ -1,0 +1,247 @@
+{
+  "id": "PRD-20260905-1334",
+  "title": "Runtime Dimensional Content Review Web",
+  "date": "2026-09-05",
+  "stage": "n/a",
+  "status": "todo",
+  "goal": [
+    "Create a new internal Next.js review application that reads RTQ paper TOML and canonical maths assets directly from the active rtq-content checkout.",
+    "Allow reviewers to browse paper collections and refine a selected paper at runtime using the five dimensional tag axes without generating a new Markdown view.",
+    "Retain the established question and answer review-outcome workflow through review-api and Google Sheets, while storing append-only, RAG-state-specific comments locally in SQLite through Drizzle and never editing paper content.",
+    "Give the maintained reviewers unambiguous names by renaming the existing generated-Markdown application to review-markdown-web and naming the new direct-content application review-content-web."
+  ],
+  "scope": {
+    "in": [
+      "A new application at apps/review-content-web inside the rtq-review pnpm workspace, implemented with the Next.js App Router, React, and TypeScript.",
+      "Rename the existing apps/review-web application to apps/review-markdown-web, including its package identity, workspace commands, documentation, and maintained configuration references, without changing its generated-Markdown behavior.",
+      "Read-only discovery of supported paper-level TOML collections in the configured rtq-content checkout, including canonical, focus, topic, RAG, combined focus/topic/RAG, and exemplar collections.",
+      "A file browser derived from the useful review-tag-web browsing patterns, with folder selection, paper search, focus-group/topic/RAG metadata filters where those properties exist, and direct navigation to a selected TOML file.",
+      "Runtime parsing of the selected TOML file into sections and complete question, subquestion, and sub-subquestion trees, including original-source provenance for derived papers.",
+      "Structured rendering of question text, formulas, tips, workings, answers, PaperTable, PaperImage, generated and manual working assets, LongDivision, project macros, and KaTeX without an intermediate generated Markdown file.",
+      "Rendered-content and raw-source presentation modes comparable to the useful review-web and review-question-viewer-web review views.",
+      "Resolution and display of explicit, inherited, and implicit/default dimensional tags for family, math, frame, marker, and reasoning.",
+      "Runtime filtering inside the selected paper using dimensional tag facets and result counts, with filters represented in the URL so a focused review view can be bookmarked or shared.",
+      "Question-side and answer-side review outcomes through a same-origin Next.js adapter to the existing review-api service.",
+      "Question-side and answer-side comments persisted through Drizzle in the machine-local SQLite database at <rtq-content>/database/review-content.sqlite, keyed by question ID, UUID, review side, and the corresponding RAG state.",
+      "Current-state and historical prior-state comment presentation, including author/reviewer identity and server-recorded creation time, with no edit, reset, or delete action.",
+      "Source freshness while a paper is open, clear loading/empty/error/stale states, keyboard- and screen-reader-usable controls, and responsive paper navigation.",
+      "A tested read-only paper model boundary that can be adopted by existing review applications later without requiring their migration in this iteration.",
+      "Register review-content-web in the rtq-content-owned tmux YAML on port 3004 and move docs-web to port 3005 in that stack so all maintained review services start together.",
+      "Workspace scripts, application documentation, and proportionate unit, integration, browser-smoke, type, lint, format, and production-build validation."
+    ],
+    "out": [
+      "Changing the behavior of review-markdown-web, review-tag-web, review-question-viewer-web, docs-web, or review-legacy-gatsby-web beyond the explicitly required rename, command/reference updates, and tmux port assignment.",
+      "Using review-legacy-gatsby-web as an implementation or design basis.",
+      "Editing canonical or derived TOML, tags, answers, workings, assets, or any other rtq-content source from the new application.",
+      "Replacing the existing review-api or Google Sheets review-outcome persistence workflow.",
+      "Sending new review comments to review-api or Google Sheets, or automatically importing historical Google Sheets/TOML comments into SQLite.",
+      "Changing the dimensional tag taxonomy, migration rules, style guides, or source TOML tag values.",
+      "Removing generated Markdown or derived TOML workflows that remain useful to existing applications and authoring processes.",
+      "Providing a corpus-wide virtual-paper query across every canonical paper in the initial iteration; the initial runtime dimensional filter operates within one selected paper-level TOML document.",
+      "Supporting questionNodeToml as a paper browser in the initial iteration; it is a nested one-node artifact collection rather than a paper-level collection.",
+      "Adding public deployment, authentication, authorization, or multi-tenant behavior to this internal local-review tool.",
+      "Inventing human-readable expansions or new transition semantics for the existing opaque peer-review outcome codes.",
+      "Adding paper-level peer-review mutations, for which the current review API has no companion outcome endpoint."
+    ],
+    "constraints": [
+      "Canonical complete paper content remains owned by rtq-content/packages/papers/papers/toml; generated TOML collections are read-only projections and generated Markdown is not an input to the new app.",
+      "All filesystem reads must resolve through @rtq/review-repository-paths and remain contained inside the validated @rtq/papers and @rtq/maths-assets roots.",
+      "The browser must never receive arbitrary filesystem paths, private asset metadata, generated LongDivision sources, review API credentials, OAuth tokens, UUID index contents, workbook IDs, or Google Sheets rows.",
+      "Review-outcome submissions update Google Sheets only; canonical TOML changes later through the existing synchronization cycle and must not be implied to have changed immediately.",
+      "New comments are local application data: SQLite access remains server-only, all application reads and writes use Drizzle rather than hand-written SQL, and the database resides at database/review-content.sqlite under the configured active rtq-content checkout.",
+      "The rtq-content root .gitignore must ignore /database/review-content.sqlite* so the main database and SQLite journal/WAL/SHM sidecars cannot be committed; the database is intentionally available only on the machine hosting that checkout and is not synchronized between machines.",
+      "A comment is current only when its rtq-question-id, rtq-uuid, question/answer side, and corresponding normalized source RAG state (rtq-question-rag or rtq-answer-rag) all match the content being reviewed; comments from other RAG states are immutable history and must not be presented as currently actionable feedback.",
+      "App Router only; default to Server Components for filesystem reads and initial rendering data, and introduce Client Components only around interactive filtering, preferences, navigation, and review forms.",
+      "Interactive state crossing the Server Component boundary must be plain serializable data.",
+      "Use the Node.js runtime for filesystem and asset routes; do not use the Edge runtime.",
+      "Follow application AGENTS.md requirements, current Next.js 16 async request APIs, semantic styling conventions, kebab-case filenames, and repository formatting/lint/type conventions.",
+      "Do not modify user-owned changes in the legacy Gatsby generated content tree or any unrelated dirty-worktree paths.",
+      "The new application may selectively adapt existing code, but must not import private implementation modules across application directories or create a third untested copy of the TOML/tag/asset model.",
+      "The existing generated-Markdown reviewer must retain its routes, inputs, review actions, and runtime behavior after its directory/package/display-name rename.",
+      "The coordinated review stack must reserve port 3004 for review-content-web and port 3005 for docs-web; existing review service ports otherwise remain unchanged."
+    ]
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "title": "Rename the Markdown reviewer and establish the new application boundaries",
+      "status": "done",
+      "description": "Rename the existing generated-Markdown reviewer for clarity, then create the new Next.js application and a small workspace-owned read-only paper-model package so filesystem parsing, identity, tags, and filtering have one tested boundary rather than being copied wholesale from another private application.",
+      "acceptanceCriteria": [
+        "The existing apps/review-web directory is renamed to apps/review-markdown-web, its package and human-facing identities use review-markdown-web/Review Markdown Web consistently, and all workspace commands and maintained references target the renamed app.",
+        "The renamed review-markdown-web retains the same generated-Markdown inputs, routes, UI, review behavior, and service port; its existing checks pass after the rename.",
+        "A new App Router application exists at apps/review-content-web with package name rtq-review-content-web, display name Review Content Web, and local port 3004 without changing another existing application's behavior.",
+        "A workspace package exposes only the read-only paper collection, normalized paper tree, effective-tag, and filter contracts needed by the new app; it exports no TOML write operation.",
+        "The package builds on @rtq/review-repository-paths and does not import source files from review-tag-web or review-question-viewer-web across application boundaries.",
+        "The application defaults to Server Components and the initial server-to-client paper payload is serializable.",
+        "Root workspace scripts can start and validate the new application independently.",
+        "Tests prove that the package API cannot resolve a content path outside the validated rtq-content paper roots and that no source-write API is exposed."
+      ],
+      "steps": [],
+      "notes": "Implemented on 2026-09-05. The generated-Markdown app is renamed to apps/review-markdown-web with package identity rtq-review-markdown-web, maintained documentation references and root commands are updated, and its routes and runtime implementation remain unchanged. The new apps/review-content-web foundation uses package identity rtq-review-content-web and the root command assigns port 3004. @rtq/review-paper-model exports serializable read-model contracts plus containment-checked read-only path resolution and no source-write API. Root format, lint, types, and tests pass; both app production builds pass; Docs format/lint/types/tests pass; and a runtime smoke test returned HTTP 200 with the active rtq-content checkout connected. Port 3004 was already occupied by the current Docs tmux process, so the smoke test used temporary port 3010 without stopping user-owned state; T7 will move Docs to 3005. The legacy localStorage key rtq-review-web:display-preferences is intentionally retained as a compatibility implementation detail so the rename does not reset reviewer preferences. Existing apps are intentionally not migrated to the model package in this PRD.",
+      "children": []
+    },
+    {
+      "id": "T2",
+      "title": "Discover and parse reviewable TOML collections read-only",
+      "status": "todo",
+      "description": "Adapt the proven collection browser, safe path resolution, strict/loose TOML parsing, provenance, macro, working-collection, and review-metadata concepts into a normalized paper read model.",
+      "acceptanceCriteria": [
+        "The collection registry covers toml, focusToml, focusTopicToml, focusRagToml, focusRagTopicToml, topicToml, ragToml, ragTopicToml, and discovered exemplarsLevel<Tier>Toml folders that exist in the configured checkout.",
+        "Missing or empty registered folders do not break other collections, and non-paper folders, manifests, hidden files, and non-TOML files are excluded.",
+        "The browser exposes file title, collection identity, question count, focus group, topic, RAG grouping, and source provenance when each value can be established without guessing.",
+      "A selected valid file is parsed into paper metadata, sections, and ordered question trees through sub-subquestion depth while preserving UUIDs, rtq-question-id provenance, raw content, content RAG, review RAG, legacy source comment metadata, and version hash.",
+        "Canonical and normal generated TOML use strict parsing; supported exemplar placeholders use the established constrained loose-read fallback without weakening ordinary-file validation.",
+        "The model resolves project abbreviations/macros, repeated formula and tip children, PaperTable, PaperImage, and LongDivision preparation inputs without exposing private asset sidecars or generated sources.",
+        "All collections are read-only in this application regardless of whether review-tag-web currently treats a folder as editable.",
+        "Unit tests cover canonical, derived, exemplar, malformed, missing, empty, traversal, provenance, repeated-working-child, and representative nested-question cases."
+      ],
+      "steps": [],
+      "notes": "review-tag-web is the strongest reference for broad collection support and loose exemplar parsing. review-question-viewer-web is the stronger reference for raw/rendered separation and review metadata. Their current implementations overlap and have drifted, so behavior must be reconciled in tests rather than copied file-for-file.",
+      "children": []
+    },
+    {
+      "id": "T3",
+      "title": "Implement effective dimensional tags and runtime faceted filtering",
+      "status": "todo",
+      "description": "Resolve the five-dimensional tag model for every question node and provide immediate, URL-addressable filters over the selected paper.",
+      "acceptanceCriteria": [
+        "Every node exposes stored explicit tags, inherited tags, and effective tags with their source identified as explicit, inherited, or implicit.",
+        "Family, math, frame, and reasoning inherit independently from the nearest enabled ancestor when absent locally; an explicit child value replaces only its own dimension.",
+        "A child marker set replaces rather than adds to inherited markers when markers are explicit locally, and rtq-inherit-tags=false disables inherited values.",
+        "Missing stored dimensions are interpreted at runtime as family.unknown, math.unknown, frame.raw, no markers, and reasoning.direct without writing those values into TOML.",
+        "The selected paper exposes five named facet groups populated from its effective node tags, including currently selected zero-result values long enough for the user to remove them.",
+        "Selections are combined with AND semantics between dimensions and OR semantics within one dimension, using exact tag values in the initial implementation.",
+        "A top-level question tree is included when any node in that tree satisfies the complete filter expression; the complete tree remains visible for context and matching nodes are visibly identified.",
+        "Facet counts are recalculated against the current selections in the other dimensions, zero-result choices are disabled or clearly marked, and the interface shows total and matching question-tree counts.",
+        "Filter state uses stable repeated URL search parameters for family, math, frame, marker, and reasoning; reload, back/forward navigation, bookmarks, and copied links preserve the view.",
+        "Clearing one dimension and clearing all filters are available without re-reading or regenerating Markdown or TOML.",
+        "Pure unit tests cover each inheritance rule, implicit defaults, mixed legacy/dimensional data, exact matching, AND/OR behavior, descendant matches, counts, no-result filters, URL encoding, and deterministic ordering."
+      ],
+      "steps": [],
+      "notes": "These filter and tree-display semantics are recommended defaults and remain subject to user approval before execution.",
+      "children": []
+    },
+    {
+      "id": "T4",
+      "title": "Build the full-paper runtime review presentation",
+      "status": "todo",
+      "description": "Present the selected TOML document as a structured and readable bulk-review page while preserving the source detail needed to diagnose content problems.",
+      "acceptanceCriteria": [
+        "The home route provides the agreed collection/file browser and a selected file route uses a stable collection plus source-relative slug.",
+        "The file page renders paper metadata, section boundaries, top-level question numbering, nested labels, UUID/source provenance, content RAG states, dimensional tags, question text, formulas, tips, workings, and answers.",
+        "KaTeX, project macros, GFM tables/PaperTable, PaperImage, manual working/answer images, and LongDivision render from canonical @rtq/maths-assets inputs through allowlisted same-origin routes.",
+        "Raw source for question, formula, tip, working, option, key, and answer values is available through a display preference without replacing the normal rendered view.",
+        "Reviewers can independently show or hide raw source, workings/answers, tags, and review controls, and preferences persist locally without altering a shared URL unless they affect review scope.",
+        "Previous/next matching question navigation, top/bottom navigation, section context, active-question indication, and an empty filtered-result state support bulk review without rendering a generated HTML document.",
+        "No edit control, server action, route handler, or client request can mutate TOML or canonical assets.",
+        "Component and browser-smoke tests cover representative nested content, hidden/visible display modes, keyboard operation, empty content, filtered navigation, and asset rendering."
+      ],
+      "steps": [],
+      "notes": "Use review-tag-web as the strongest UI reference for file browsing and full paper hierarchy; use review-question-viewer-web for structured content cards and raw/rendered content; use review-web only as an information and display-control reference, not as a generated-HTML/DOM-mutation foundation.",
+      "children": []
+    },
+    {
+      "id": "T5",
+      "title": "Add Google Sheets outcomes and local append-only review comments",
+      "status": "todo",
+      "description": "Provide structured review controls for visible top-level questions. Persist review outcomes through review-api to Google Sheets, but persist comments locally in SQLite through Drizzle so feedback is durable, append-only, and associated with the exact question identity, review side, and RAG state in which it was written.",
+      "acceptanceCriteria": [
+        "Each eligible top-level question displays separate question-side and answer-side source RAG, current synchronized review outcome, locally stored comments for the current RAG state, and the target sheet code used only for outcome submission.",
+        "The UI supports every review outcome currently accepted by review-api—PRCC, PRPCC, PRG, PRG2, PRCR, PRPCR, PRCS, PRRL, PRR, PRA, PRBD, and PRCT—without inventing expansions or transition behavior.",
+        "Outcome requests use a Node-runtime same-origin Next.js adapter that allowlists question and answer outcome actions, validates UUID, sheet, outcome, and reviewer fields, forwards only required fields to review-api, and returns upstream status and safe errors without exposing secrets or workbook data.",
+        "Outcome controls are disabled with a clear reason when UUID or sheet routing metadata is unavailable; success is labelled as submitted to Google Sheets rather than saved to TOML, and a local pending override prevents the page from falsely showing the old value during the current view.",
+        "A Drizzle schema and committed migration create an append-only comments table with a generated comment ID, idempotent submission ID, rtq-question-id, rtq-uuid, side constrained to question or answer, normalized source RAG state, comment text, reviewer identity, and server-generated UTC creation timestamp; the identity, side, state, and chronological query path is indexed without making that combination unique because multiple comments are allowed.",
+        "The application resolves the SQLite database as database/review-content.sqlite under the same configured active rtq-content checkout from which it reads TOML, creates the database directory when needed, and fails with a clear recoverable error when the local database cannot be opened or migrated.",
+        "The rtq-content root .gitignore contains the narrow /database/review-content.sqlite* rule covering the database and SQLite journal/WAL/SHM sidecars; an automated check proves those runtime files are ignored and no database file is added to source control.",
+        "Comment listing is performed server-side and batched for the visible paper identities rather than issuing one database query per question; no database path, SQL detail, or unrelated comment record reaches the browser.",
+        "A reviewer can append a nonblank question-side or answer-side comment only when rtq-question-id, rtq-uuid, side, and the corresponding current source RAG state are available; the server derives or verifies identity and state against the selected read model rather than trusting arbitrary client routing fields.",
+        "Submitting a comment never calls review-api or Google Sheets, creates exactly one immutable SQLite record through Drizzle, and returns the stored ID, reviewer, side, RAG state, and creation time needed to render it immediately without a page reload.",
+        "Comments matching the exact current question ID, UUID, side, and RAG state are shown chronologically as read-only current feedback after initial load and immediately after submission, including reviewer and date/time.",
+        "Comments for the same question identity and side at prior or otherwise nonmatching RAG states remain visible in a clearly separated read-only history labelled with their recorded state and explicitly marked as not current for the question's present state.",
+        "The new application exposes no comment edit, reset, or delete operation in its UI, route handlers, Drizzle repository, or public module API; legacy review-api comment/reset endpoints and existing applications remain unchanged.",
+        "Filtering and navigating does not discard pending overrides during the current page session, and duplicate submissions are prevented while a request is active.",
+        "No legacy subtag mutation is exposed because dimensional filtering is not tag editing.",
+        "Tests use a temporary SQLite database and a mocked upstream service to cover schema migration, durable reloads, question/answer and RAG-state isolation, chronological multi-comment display, immediate append feedback, invalid or spoofed identities, blank comments, idempotent retry behavior without preventing distinct comments, database failures, absence of edit/delete/reset paths, the question/answer outcome endpoint map, every allowed outcome, missing routing metadata, upstream failures, success feedback, and preservation of pending UI state."
+      ],
+      "steps": [],
+      "notes": "The current review API has no safe review-state read endpoint, so cross-reload outcome display continues to depend on the existing Sheets-to-canonical synchronization cycle. Comments created by review-content-web instead reload from <rtq-content>/database/review-content.sqlite on that machine and are never sent to review-api. The Drizzle schema and migrations remain checked-in application code; the SQLite runtime file and sidecars do not. Existing comment text synchronized into TOML may be presented separately as legacy source metadata, but automatic migration or deduplication of those historical comments is not part of this task.",
+      "children": []
+    },
+    {
+      "id": "T6",
+      "title": "Keep runtime content current and responsive",
+      "status": "todo",
+      "description": "Ensure direct filesystem consumption remains useful during active authoring without repeatedly parsing the entire paper corpus or hiding source changes.",
+      "acceptanceCriteria": [
+        "Initial collection and selected-paper reads occur directly on the server with no internal HTTP round trip and no generated Markdown dependency.",
+        "Opening or refreshing a paper reads its current filesystem version; an open page detects a selected-file version change and offers or performs a controlled refresh without polling and reparsing every collection file.",
+        "The browser index does not fully hydrate every paper body merely to show a file list and has a documented invalidation strategy for additions, removals, renames, and metadata changes.",
+        "Applying dimensional filters to an already loaded paper is immediate and does not trigger a server parse or Google Sheets request.",
+        "Malformed or transiently replaced source files, unavailable sibling repositories, missing assets, stale URLs, review-api outages, and unavailable or unmigrated local comment databases have specific recoverable states rather than crashing the whole application.",
+        "Development and production behavior for live source changes is documented accurately.",
+        "Integration tests cover direct source freshness, selected-file change detection, index invalidation, and recovery from a temporarily unreadable source."
+      ],
+      "steps": [],
+      "notes": "A lightweight selected-file version endpoint or equivalent invalidation signal is preferred over copying review-web's corpus watcher or review-tag-web's repeated full-document server action reads without measurement.",
+      "children": []
+    },
+    {
+      "id": "T7",
+      "title": "Document, integrate, and validate the maintained review stack",
+      "status": "todo",
+      "description": "Make the renamed and new applications understandable and independently runnable, then update the rtq-content-owned tmux stack so every maintained review service starts with an explicit non-conflicting port.",
+      "acceptanceCriteria": [
+        "The root README and new application README explain purpose, source-of-truth boundaries, supported collections, filtering semantics, Google Sheets outcome synchronization, the <rtq-content>/database/review-content.sqlite machine-local persistence location and backup implications, environment/path configuration, local URL, and checks.",
+        "The root package exposes correctly named start commands for review-markdown-web and review-content-web, updates stale review-web command references, and retains compatibility aliases only if they are documented and useful.",
+        "The rtq-content-owned tmux YAML starts review-content-web on port 3004, starts docs-web on port 3005, and starts the other maintained review services on their existing assigned ports.",
+        "Starting the tmux stack brings up all configured services together, and HTTP smoke checks confirm that review-content-web responds on 3004 and docs-web responds on 3005 without a port collision.",
+        "The review-markdown-web rename and docs-web port move do not alter either application's functional behavior or generated inputs.",
+        "The new package and app pass format, lint, types, unit/integration tests, browser smoke checks, and a production build.",
+        "A manual acceptance walkthrough demonstrates choosing a canonical or derived paper, applying at least two dimensional filters, reviewing the reduced question set, opening raw source, rendering representative assets, submitting a mocked or approved non-production outcome, appending and reloading a local current-state comment, observing a prior-state comment as historical, and clearing/restoring the URL-backed filter state."
+      ],
+      "steps": [],
+      "notes": "Production Google Sheets writes must not be used as an automated test. Use mocked upstream requests unless the user explicitly authorizes a controlled provider-state test.",
+      "children": []
+    }
+  ],
+  "validation": [
+    "pnpm --filter @rtq/review-paper-model test",
+    "pnpm --filter rtq-review-content-web format:check",
+    "pnpm --filter rtq-review-content-web lint:check",
+    "pnpm --filter rtq-review-content-web types",
+    "pnpm --filter rtq-review-content-web test",
+    "pnpm --filter rtq-review-content-web test:browser",
+    "pnpm --filter rtq-review-content-web build",
+    "Run the renamed review-markdown-web application's existing format, lint, type, test, and build checks through its new package identity",
+    "Load or validate the rtq-content tmux review-stack configuration and smoke-check review-content-web on port 3004 and docs-web on port 3005",
+    "Verify git diffs contain only the renamed Markdown reviewer, the new content reviewer, the new read-only package, approved workspace/docs/tmux integration, the narrow rtq-content database ignore rule, and this PRD; functional changes to existing apps and user-owned Gatsby changes remain untouched"
+  ],
+  "openQuestions": [
+    "Confirm that initial collection support should follow the documented paper-level registry plus discovered exemplar levels, rather than automatically treating every future *Toml directory as a compatible paper collection.",
+    "Confirm exact-match filters with OR within one dimension and AND between dimensions; hierarchical prefix matching such as math.number including math.number.fraction is not currently assumed.",
+    "Confirm that a descendant match includes the complete top-level question tree for context and highlights matching nodes, rather than removing nonmatching siblings inside that tree.",
+    "Determine reviewer identity behavior; current maintained UI code hard-codes up, while the new app could use one explicit environment setting or a local reviewer selector.",
+    "Confirm whether automatic selected-file refresh is required or whether a visible stale indicator plus manual refresh is sufficient during the first iteration.",
+    "Decide whether a later iteration should construct virtual cross-paper result sets directly from canonical TOML so topic and RAG derived files become optional for review browsing."
+  ],
+  "decisions": [
+    "Build a new Next.js application in rtq-review rather than changing an existing review website.",
+    "Rename the existing generated-Markdown Next.js application from review-web to review-markdown-web while preserving its behavior.",
+    "Name the new direct-TOML application review-content-web and run it on port 3004.",
+    "Update the rtq-content-owned tmux YAML in this delivery so it starts review-content-web on port 3004 and moves docs-web to port 3005.",
+    "Keep every existing review application operational and exclude the legacy Gatsby application from design and reuse analysis.",
+    "Read TOML and maths assets directly from the active rtq-content checkout at runtime; generated Markdown is not an input.",
+    "Treat all paper content as read-only while retaining question-side and answer-side review outcome writes through review-api to Google Sheets.",
+    "Persist new question-side and answer-side comments only through Drizzle in <rtq-content>/database/review-content.sqlite, keyed by question ID, UUID, side, and RAG state, with append-only history and no reset or delete behavior.",
+    "Keep the SQLite runtime database machine-local and untracked by ignoring /database/review-content.sqlite* in the rtq-content root; do not synchronize it between checkouts or machines.",
+    "Show exact-current-state comments as active feedback and retain comments from other RAG states as visibly historical, non-current feedback.",
+    "Use dimensional tags as runtime filter facets and support combining tags from different dimensions.",
+    "Preserve canonical TOML as the complete-paper source of truth and treat generated TOML folders as replaceable projections.",
+    "Use review-tag-web as the primary reference for collection browsing, complete-paper parsing, tag inheritance, assets, and paper navigation.",
+    "Use review-question-viewer-web as the primary reference for a structured raw/rendered content model and React-based review controls.",
+    "Use review-web as the behavioral reference for bulk review, display preferences, and review action coverage, but do not reuse its generated-Markdown DOM mutation architecture.",
+    "Do not modify review-api for local comment persistence; its existing outcome endpoints remain the Google Sheets boundary, and its legacy comment endpoints remain available only to existing applications."
+  ],
+  "notes": "Code review completed against the maintained Next.js applications, review-api, @rtq/review-repository-paths, the canonical dimensional-tag documentation, the derived-TOML runbook, the paper-review process, and the RAG-state architecture. The two direct-TOML apps currently duplicate substantial parser/asset/tag logic and have drifted in macros, PaperTable handling, placeholder behavior, types, and test coverage. The new app should reconcile a tested superset behind its own read-only package boundary; migration of existing apps can be considered later as a separate risk-controlled task. The review-web to review-markdown-web rename is naming/configuration work only, while the rtq-content tmux update is an explicitly required cross-repository integration change rather than a deferred follow-up."
+}

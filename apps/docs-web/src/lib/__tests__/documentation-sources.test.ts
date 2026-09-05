@@ -109,8 +109,8 @@ describe("documentation ownership registry", () => {
           ownerType: "app",
         },
         {
-          key: "rtq-review-review-web",
-          route: "rtq-review/apps/review-web",
+          key: "rtq-review-review-markdown-web",
+          route: "rtq-review/apps/review-markdown-web",
           ownerType: "app",
         },
         {
@@ -286,7 +286,7 @@ describe("documentation ownership registry", () => {
       "rtq-review/apps/review-legacy-gatsby-web/docs",
       "rtq-review/apps/review-question-viewer-web/docs",
       "rtq-review/apps/review-tag-web/docs",
-      "rtq-review/apps/review-web/docs",
+      "rtq-review/apps/review-markdown-web/docs",
       "rtq-review/packages/repository-paths/README.md",
       "rtq-review/packages/repository-paths/docs",
       "rtq-web/docs",

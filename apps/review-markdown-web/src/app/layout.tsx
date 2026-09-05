@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'RTQ Review Web',
+  title: 'RTQ Review Markdown Web',
   description: 'Internal markdown review workspace for RTQ papers',
 };
 

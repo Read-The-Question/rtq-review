@@ -124,8 +124,8 @@ const rtqReviewTagWeb = defineDocs({
   },
   meta: { files: [], schema: metaSchema },
 });
-const rtqReviewWeb = defineDocs({
-  dir: "../review-web",
+const rtqReviewMarkdownWeb = defineDocs({
+  dir: "../review-markdown-web",
   docs: {
     files: ["README.md", "docs/**/*.md"],
     schema: documentationPageSchema,
@@ -193,8 +193,8 @@ export const source = loader(
     "rtq-review-review-tag-web": rtqReviewTagWeb.toFumadocsSource({
       baseDir: "rtq-review/apps/review-tag-web",
     }),
-    "rtq-review-review-web": rtqReviewWeb.toFumadocsSource({
-      baseDir: "rtq-review/apps/review-web",
+    "rtq-review-review-markdown-web": rtqReviewMarkdownWeb.toFumadocsSource({
+      baseDir: "rtq-review/apps/review-markdown-web",
     }),
     "rtq-review-repository-paths": rtqReviewRepositoryPaths.toFumadocsSource({
       baseDir: "rtq-review/packages/repository-paths",

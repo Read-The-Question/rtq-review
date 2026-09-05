@@ -1,0 +1,23 @@
+{
+  "name": "@rtq/review-paper-model",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "scripts": {
+    "format:check": "prettier --check .",
+    "format:fix": "prettier --write .",
+    "test": "node --no-warnings --test --experimental-strip-types src/index.test.ts",
+    "types": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@rtq/review-repository-paths": "workspace:*"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "prettier": "^3.8.0",
+    "typescript": "^5"
+  }
+}

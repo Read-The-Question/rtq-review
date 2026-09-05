@@ -165,12 +165,12 @@ export const documentationSources = [
     files: conventionalDocumentationFiles,
   },
   {
-    key: "rtq-review-review-web",
-    route: "rtq-review/apps/review-web",
+    key: "rtq-review-review-markdown-web",
+    route: "rtq-review/apps/review-markdown-web",
     ownerType: "app",
     repositoryKey: "rtq-review",
-    collectionDirectory: "../review-web",
-    repositoryDirectory: "apps/review-web",
+    collectionDirectory: "../review-markdown-web",
+    repositoryDirectory: "apps/review-markdown-web",
     repository: {
       user: readTheQuestion,
       name: "rtq-review",

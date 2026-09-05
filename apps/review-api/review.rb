@@ -65,6 +65,10 @@ configure do
     "NG2",
     "NG3",
     "NG4",
+    "NG5",
+    "NG6",
+    "NG7",
+    "NG8",
   ]
 
   all_sheets = [
@@ -79,6 +83,10 @@ configure do
     "NG2",
     "NG3",
     "NG4",
+    "NG5",
+    "NG6",
+    "NG7",
+    "NG8",
   ]
 
   set :toml_rags, all_toml_rags

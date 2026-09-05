@@ -1,10 +1,10 @@
 ---
-slug: "focustomlpapers/reigate-grammar-school-11-plus-maths-2020-sample-paper-7"
-title: "Focus Paper - Reigate Grammar School - 11 Plus - Maths - 2020 - Sample Paper 7"
-date: 2026-05-31 13:14:27
+slug: "focustomlpapers/reigate-grammar-school-11-plus-maths-undated-paper-1"
+title: "Focus Paper - Reigate Grammar School - 11 Plus - Maths - Undated - Paper 1"
+date: 2026-09-04 05:35:24
 questions_count: "23"
 ---
-<div class="paper" id="page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-top">
+<div class="paper" id="page-reigate-grammar-school-11-plus-maths-undated-paper-1-top">
 <div class="meta">
 <h3>co-ed</h3>
 <h3>grammar</h3>
@@ -14,18 +14,18 @@ questions_count: "23"
 </div>
 <ul class="question decimal question_type_question list_type_decimal">
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-1">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-1">
 <div class="uuid">
 <p>29A6018D-4F9B-47BC-AEF7-2AB556029423</p>
 </div>
 <div class="question-nav">
 <span class="question-nav-spacer"></span>
-<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-2">Next question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-2">Next question</a>
 </div>
 <div class="papername">
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:1</p>
+<p>reigate-grammar-school--11-plus--maths--undated--paper-1:1:1</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -215,18 +215,18 @@ $\pounds 4.30$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-2">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-2">
 <div class="uuid">
 <p>4AFBC40F-1638-4EA4-8624-F4D2729AD1A4</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-1">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-3">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-1">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-3">Next question</a>
 </div>
 <div class="papername">
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:2</p>
+<p>reigate-grammar-school--11-plus--maths--undated--paper-1:1:2</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -482,18 +482,18 @@ a                                               &= 6 \ \text{cm}
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-3">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-3">
 <div class="uuid">
 <p>05D5464A-89CC-4410-80A9-8CB5FBA029A3</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-2">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-4">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-2">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-4">Next question</a>
 </div>
 <div class="papername">
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:3</p>
+<p>reigate-grammar-school--11-plus--maths--undated--paper-1:1:3</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -669,18 +669,18 @@ $\dfrac {7} {1000}$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-4">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-4">
 <div class="uuid">
 <p>9004924A-FAFE-4C44-A7D2-20DAF504FB5B</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-3">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-5">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-3">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-5">Next question</a>
 </div>
 <div class="papername">
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:4</p>
+<p>reigate-grammar-school--11-plus--maths--undated--paper-1:1:4</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -868,18 +868,18 @@ $1440 \ \text{minutes}$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-5">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-5">
 <div class="uuid">
 <p>4520A825-7CCE-49E3-BF14-4A90C942392B</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-4">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-6">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-4">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-6">Next question</a>
 </div>
 <div class="papername">
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:5</p>
+<p>reigate-grammar-school--11-plus--maths--undated--paper-1:1:5</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -1057,18 +1057,18 @@ $19 \degree \text{C}$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-6">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-6">
 <div class="uuid">
 <p>866159B1-4B81-4AB7-8216-C0F736137635</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-5">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-7">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-5">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-7">Next question</a>
 </div>
 <div class="papername">
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:6</p>
+<p>reigate-grammar-school--11-plus--maths--undated--paper-1:1:6</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -1095,7 +1095,9 @@ frame.labelled
 
 The London Eye has $32$ passenger capsules, each of which can take up to $18$ people. What is the maximum number of passengers that can travel at any one time?
 
-<img src="/assets/papers/reigate-grammar-school/2020/sample-paper-7/questions/s01-q06-i00.png" alt="papers/reigate-grammar-school/2020/sample-paper-7/questions/s01-q06-i00.png" title="papers/reigate-grammar-school/2020/sample-paper-7/questions/s01-q06-i00.png" data-slot="paper-image" data-kind="essential" data-size="normal" data-align="center" class="paper-image" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/reigate-grammar-school/undated/paper-1/questions/s01-q06-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -1104,7 +1106,7 @@ The London Eye has $32$ passenger capsules, each of which can take up to $18$ pe
 </div>
 <pre class="language-latex"><code class="language-latex">The London Eye has &#36;32&#36; passenger capsules, each of which can take up to &#36;18&#36; people. What is the maximum number of passengers that can travel at any one time?
 
-&lt;PaperImage kind="essential" /&gt;
+&lt;PaperImage assetScope="question" kind="essential" /&gt;
 </code></pre>
 </div>
 <div class="workings">
@@ -1248,18 +1250,18 @@ $576$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-7">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-7">
 <div class="uuid">
 <p>1AC37420-ED76-46DB-8EA0-B4C20BC0B176</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-6">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-8">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-6">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-8">Next question</a>
 </div>
 <div class="papername">
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:7</p>
+<p>reigate-grammar-school--11-plus--maths--undated--paper-1:1:7</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -1373,7 +1375,7 @@ Find:
 </div>
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-7-1">
+<div class="question_envelope rag_not_found subquestion" id="question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-7-1">
 <div class="uuid">
 <p>49B6B88F-EB4E-4800-AAA0-5C056573A8AF</p>
 </div>
@@ -1498,7 +1500,7 @@ $\dfrac {3} {14}$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-7-2">
+<div class="question_envelope rag_not_found subquestion" id="question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-7-2">
 <div class="uuid">
 <p>F5E45F3F-8A3D-4F2B-BE9F-405B8183B34B</p>
 </div>
@@ -1678,18 +1680,18 @@ $\dfrac {6} {7}$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-8">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-8">
 <div class="uuid">
 <p>90552CD9-4926-45A0-94A8-264B18306EE8</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-7">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-9">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-7">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-9">Next question</a>
 </div>
 <div class="papername">
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:8</p>
+<p>reigate-grammar-school--11-plus--maths--undated--paper-1:1:8</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -1875,18 +1877,18 @@ $1 \dfrac {3} {4}$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-9">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-9">
 <div class="uuid">
 <p>6A7E29BE-33F1-46C9-86CB-07E2F8C8992F</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-8">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-10">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-8">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-10">Next question</a>
 </div>
 <div class="papername">
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:9</p>
+<p>reigate-grammar-school--11-plus--maths--undated--paper-1:1:9</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -2070,18 +2072,18 @@ $-4$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-10">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-10">
 <div class="uuid">
 <p>33697C4D-2660-4DBB-9DF6-4265704C84DB</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-9">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-11">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-9">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-11">Next question</a>
 </div>
 <div class="papername">
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:10</p>
+<p>reigate-grammar-school--11-plus--maths--undated--paper-1:1:10</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -2261,18 +2263,18 @@ $7{:}28 \ \text{am}$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-11">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-11">
 <div class="uuid">
 <p>9E53081F-3621-458B-81D4-FF43E12EABA0</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-10">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-12">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-10">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-12">Next question</a>
 </div>
 <div class="papername">
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:11</p>
+<p>reigate-grammar-school--11-plus--maths--undated--paper-1:1:11</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -2386,7 +2388,7 @@ Edward drives to his aunt's house at an average speed of $50 \ \text{km/h}$, and
 </div>
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-11-1">
+<div class="question_envelope rag_not_found subquestion" id="question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-11-1">
 <div class="uuid">
 <p>F03A7AD8-5DC7-432C-A567-7F1653C74E0C</p>
 </div>
@@ -2512,7 +2514,7 @@ $100 \text{ km}$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-11-2">
+<div class="question_envelope rag_not_found subquestion" id="question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-11-2">
 <div class="uuid">
 <p>B3C0F07D-B205-4DD8-809F-24683D2B2FC8</p>
 </div>
@@ -2703,18 +2705,18 @@ $40 \text{ km/h}$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-12">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-12">
 <div class="uuid">
 <p>E70CBFBE-40AB-4BD9-A657-FC7BEC20CE40</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-11">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-13">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-11">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-13">Next question</a>
 </div>
 <div class="papername">
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:12</p>
+<p>reigate-grammar-school--11-plus--maths--undated--paper-1:1:12</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -2995,18 +2997,18 @@ Multiply by &#36;-2&#36; each time.
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-13">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-13">
 <div class="uuid">
 <p>CC4ECBFB-364D-4A69-8CEB-0E91E3B8E940</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-12">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-14">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-12">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-14">Next question</a>
 </div>
 <div class="papername">
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:13</p>
+<p>reigate-grammar-school--11-plus--maths--undated--paper-1:1:13</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -3125,7 +3127,7 @@ frame.algebra
 </div>
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-13-1">
+<div class="question_envelope rag_not_found subquestion" id="question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-13-1">
 <div class="uuid">
 <p>F808B0FD-2D12-46D8-9F13-BC8175442174</p>
 </div>
@@ -3155,7 +3157,9 @@ inherits parent tags: yes
 If the shape to the right is a square, work out the 
 value of $x$.
 
-<img src="/assets/papers/reigate-grammar-school/2020/sample-paper-7/questions/s01-q13-s01-i00.png" alt="papers/reigate-grammar-school/2020/sample-paper-7/questions/s01-q13-s01-i00.png" title="papers/reigate-grammar-school/2020/sample-paper-7/questions/s01-q13-s01-i00.png" data-slot="paper-image" data-kind="essential" data-size="normal" data-align="center" class="paper-image" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/reigate-grammar-school/undated/paper-1/questions/s01-q13-s01-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -3165,7 +3169,7 @@ value of $x$.
 <pre class="language-latex"><code class="language-latex">If the shape to the right is a square, work out the 
 value of &#36;x&#36;.
 
-&lt;PaperImage kind="essential" /&gt;
+&lt;PaperImage assetScope="question" kind="essential" /&gt;
 </code></pre>
 </div>
 <div class="workings">
@@ -3272,7 +3276,7 @@ x                                            &= 8
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-13-2">
+<div class="question_envelope rag_not_found subquestion" id="question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-13-2">
 <div class="uuid">
 <p>A5B167FF-83BE-4C6A-8B1C-5A874ACF06E6</p>
 </div>
@@ -3453,18 +3457,18 @@ $105 \ \text{cm}$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-14">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-14">
 <div class="uuid">
 <p>4A211DD3-39E1-458B-9182-D6B34B1BB55C</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-13">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-15">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-13">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-15">Next question</a>
 </div>
 <div class="papername">
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:14</p>
+<p>reigate-grammar-school--11-plus--maths--undated--paper-1:1:14</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -3496,7 +3500,9 @@ frame.labelled
 
 It takes Karen $40 \ \text{minutes}$ to get to school in the morning. The pie chart shows how the time is divided.
 
-<img src="/assets/papers/reigate-grammar-school/2020/sample-paper-7/questions/s01-q14-i00.png" alt="papers/reigate-grammar-school/2020/sample-paper-7/questions/s01-q14-i00.png" title="papers/reigate-grammar-school/2020/sample-paper-7/questions/s01-q14-i00.png" data-slot="paper-image" data-kind="essential" data-size="normal" data-align="center" class="paper-image" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/reigate-grammar-school/undated/paper-1/questions/s01-q14-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -3505,7 +3511,7 @@ It takes Karen $40 \ \text{minutes}$ to get to school in the morning. The pie ch
 </div>
 <pre class="language-latex"><code class="language-latex">It takes Karen &#36;40 \ \text{minutes}&#36; to get to school in the morning. The pie chart shows how the time is divided.
 
-&lt;PaperImage kind="essential" /&gt;
+&lt;PaperImage assetScope="question" kind="essential" /&gt;
 </code></pre>
 </div>
 <div class="workings">
@@ -3587,7 +3593,7 @@ It takes Karen $40 \ \text{minutes}$ to get to school in the morning. The pie ch
 </div>
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-14-1">
+<div class="question_envelope rag_not_found subquestion" id="question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-14-1">
 <div class="uuid">
 <p>2E97B56A-0E1F-468A-929A-A0590AC96853</p>
 </div>
@@ -3721,7 +3727,7 @@ $20 \ \text{minutes}$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-14-2">
+<div class="question_envelope rag_not_found subquestion" id="question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-14-2">
 <div class="uuid">
 <p>C0B32F47-2EB8-4D69-82D7-38268D18A35D</p>
 </div>
@@ -3914,18 +3920,18 @@ $15 \ \text{minutes}$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-15">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-15">
 <div class="uuid">
 <p>3E5707E8-A605-4AEB-83F5-1DF28EF49EA0</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-14">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-16">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-14">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-16">Next question</a>
 </div>
 <div class="papername">
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:15</p>
+<p>reigate-grammar-school--11-plus--maths--undated--paper-1:1:15</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -3957,7 +3963,9 @@ frame.algebra
 
 Calculate the value of 𝑥 in the triangle shown.
 
-<img src="/assets/papers/reigate-grammar-school/2020/sample-paper-7/questions/s01-q15-i00.png" alt="papers/reigate-grammar-school/2020/sample-paper-7/questions/s01-q15-i00.png" title="papers/reigate-grammar-school/2020/sample-paper-7/questions/s01-q15-i00.png" data-slot="paper-image" data-kind="essential" data-size="normal" data-align="center" class="paper-image" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/reigate-grammar-school/undated/paper-1/questions/s01-q15-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -3966,7 +3974,7 @@ Calculate the value of 𝑥 in the triangle shown.
 </div>
 <pre class="language-latex"><code class="language-latex">Calculate the value of 𝑥 in the triangle shown.
 
-&lt;PaperImage kind="essential" /&gt;
+&lt;PaperImage assetScope="question" kind="essential" /&gt;
 </code></pre>
 </div>
 <div class="workings">
@@ -4117,18 +4125,18 @@ x                         &= 40 \degree
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-16">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-16">
 <div class="uuid">
 <p>2ED1078E-E436-4DB2-A728-C73E012861C2</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-15">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-17">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-15">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-17">Next question</a>
 </div>
 <div class="papername">
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:16</p>
+<p>reigate-grammar-school--11-plus--maths--undated--paper-1:1:16</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -4160,7 +4168,9 @@ frame.labelled
 
 The plan on the right shows a garden. There is a $2 \ \text{m}$ wide path around the edge of the garden, with a swimming pool inside the path. Find the area of the path.
 
-<img src="/assets/papers/reigate-grammar-school/2020/sample-paper-7/questions/s01-q16-i00.png" alt="papers/reigate-grammar-school/2020/sample-paper-7/questions/s01-q16-i00.png" title="papers/reigate-grammar-school/2020/sample-paper-7/questions/s01-q16-i00.png" data-slot="paper-image" data-kind="essential" data-size="normal" data-align="center" class="paper-image" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/reigate-grammar-school/undated/paper-1/questions/s01-q16-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -4169,7 +4179,7 @@ The plan on the right shows a garden. There is a $2 \ \text{m}$ wide path around
 </div>
 <pre class="language-latex"><code class="language-latex">The plan on the right shows a garden. There is a &#36;2 \ \text{m}&#36; wide path around the edge of the garden, with a swimming pool inside the path. Find the area of the path.
 
-&lt;PaperImage kind="essential" /&gt;
+&lt;PaperImage assetScope="question" kind="essential" /&gt;
 </code></pre>
 </div>
 <div class="workings">
@@ -4413,18 +4423,18 @@ Find the garden area, find the pool area, then subtract to get the path area.
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-17">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-17">
 <div class="uuid">
 <p>84C4F75A-1071-4AE8-8252-CDE115D02C03</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-16">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-18">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-16">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-18">Next question</a>
 </div>
 <div class="papername">
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:17</p>
+<p>reigate-grammar-school--11-plus--maths--undated--paper-1:1:17</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -4679,18 +4689,18 @@ a                                                       &= \pounds 19
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-18">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-18">
 <div class="uuid">
 <p>1E9EE047-BBCC-45B7-A37F-4172E27DC4B3</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-17">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-19">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-17">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-19">Next question</a>
 </div>
 <div class="papername">
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:18</p>
+<p>reigate-grammar-school--11-plus--maths--undated--paper-1:1:18</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -4717,7 +4727,9 @@ math.graph
 
 In the diagram below, the point $B$ has coordinates $(1,4)$.
 
-<img src="/assets/papers/reigate-grammar-school/2020/sample-paper-7/questions/s01-q18-i00.png" alt="papers/reigate-grammar-school/2020/sample-paper-7/questions/s01-q18-i00.png" title="papers/reigate-grammar-school/2020/sample-paper-7/questions/s01-q18-i00.png" data-slot="paper-image" data-kind="essential" data-size="normal" data-align="center" class="paper-image" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/reigate-grammar-school/undated/paper-1/questions/s01-q18-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -4726,7 +4738,7 @@ In the diagram below, the point $B$ has coordinates $(1,4)$.
 </div>
 <pre class="language-latex"><code class="language-latex">In the diagram below, the point &#36;B&#36; has coordinates &#36;(1,4)&#36;.
 
-&lt;PaperImage kind="essential" /&gt;
+&lt;PaperImage assetScope="question" kind="essential" /&gt;
 </code></pre>
 </div>
 <div class="workings">
@@ -4808,7 +4820,7 @@ In the diagram below, the point $B$ has coordinates $(1,4)$.
 </div>
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-18-1">
+<div class="question_envelope rag_not_found subquestion" id="question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-18-1">
 <div class="uuid">
 <p>1F379320-8954-4333-A7C8-18EC95768F7F</p>
 </div>
@@ -4921,7 +4933,7 @@ $(2, 1)$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-18-2">
+<div class="question_envelope rag_not_found subquestion" id="question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-18-2">
 <div class="uuid">
 <p>B21F27B9-05CF-4319-84BA-D7BA9A4B100E</p>
 </div>
@@ -4987,7 +4999,9 @@ The point $C$ has coordinates $(7,1)$. Mark $C$ on the diagram and then draw a l
 </div>
 <div class="paper-working-section-body">
 
-![missing image](/assets/papers/missing/missing_image.svg "papers/reigate-grammar-school/2020/sample-paper-7/answers/manual/s01-q18-s02-w01-i00.png")
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 </div>
@@ -5023,7 +5037,7 @@ The point $C$ has coordinates $(7,1)$. Mark $C$ on the diagram and then draw a l
 </div>
 <pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="setup" title="Graph"&gt;
 
-&lt;WorkingImage kind="essential" /&gt;
+&lt;PaperImage assetScope="working" kind="essential" /&gt;
 
 &lt;/WorkingSection&gt;
 </code></pre>
@@ -5054,7 +5068,7 @@ The point $C$ has coordinates $(7,1)$. Mark $C$ on the diagram and then draw a l
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-18-3">
+<div class="question_envelope rag_not_found subquestion" id="question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-18-3">
 <div class="uuid">
 <p>61425611-E7A3-4320-B6B1-9DC294D406C2</p>
 </div>
@@ -5120,7 +5134,9 @@ The point $D$ is on the line you have drawn, and it is twice as far from $B$ as 
 </div>
 <div class="paper-working-section-body">
 
-![missing image](/assets/papers/missing/missing_image.svg "papers/reigate-grammar-school/2020/sample-paper-7/answers/manual/s01-q18-s03-w01-i00.png")
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 </div>
@@ -5189,7 +5205,7 @@ $(5, 2)$
 </div>
 <pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="setup" title="Graph"&gt;
 
-&lt;WorkingImage kind="essential" /&gt;
+&lt;PaperImage assetScope="working" kind="essential" /&gt;
 
 &lt;/WorkingSection&gt;
 
@@ -5298,18 +5314,18 @@ D               &= (5,\ 2)
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-19">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-19">
 <div class="uuid">
 <p>050EE19D-DD2B-4EAE-B94A-09B3971155EF</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-18">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-20">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-18">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-20">Next question</a>
 </div>
 <div class="papername">
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:19</p>
+<p>reigate-grammar-school--11-plus--maths--undated--paper-1:1:19</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -5510,18 +5526,18 @@ $23$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-20">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-20">
 <div class="uuid">
 <p>F0E5AC4B-9543-44E6-BAB8-0991A9B073BD</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-19">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-21">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-19">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-21">Next question</a>
 </div>
 <div class="papername">
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:20</p>
+<p>reigate-grammar-school--11-plus--maths--undated--paper-1:1:20</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -5850,18 +5866,18 @@ Count &#36;= 1&#36;
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-21">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-21">
 <div class="uuid">
 <p>280526CC-5BF4-4EDF-ABB9-2BC7C8B633AA</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-20">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-22">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-20">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-22">Next question</a>
 </div>
 <div class="papername">
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:21</p>
+<p>reigate-grammar-school--11-plus--maths--undated--paper-1:1:21</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -5975,7 +5991,7 @@ A new mathematical operation has been invented. For any two numbers $x * y$ mean
 </div>
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-21-1">
+<div class="question_envelope rag_not_found subquestion" id="question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-21-1">
 <div class="uuid">
 <p>D511D28F-087A-4992-A22F-7B1CC188495B</p>
 </div>
@@ -6102,7 +6118,7 @@ $22$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-21-2">
+<div class="question_envelope rag_not_found subquestion" id="question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-21-2">
 <div class="uuid">
 <p>D98D9C69-A15E-44DD-B8C1-0A839F2F29F5</p>
 </div>
@@ -6242,7 +6258,7 @@ a              &= 8
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-21-3">
+<div class="question_envelope rag_not_found subquestion" id="question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-21-3">
 <div class="uuid">
 <p>9177703B-4E67-40FB-BBB4-A9907792EA98</p>
 </div>
@@ -6433,18 +6449,18 @@ b              &= 13
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-22">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-22">
 <div class="uuid">
 <p>A07DFA5F-6E79-4A8E-858C-5F7EEE4F984D</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-21">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-23">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-21">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-23">Next question</a>
 </div>
 <div class="papername">
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:22</p>
+<p>reigate-grammar-school--11-plus--maths--undated--paper-1:1:22</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -6476,7 +6492,9 @@ frame.labelled
 
 The bar graph below shows the number of television sets in each house in a street.
 
-<img src="/assets/papers/reigate-grammar-school/2020/sample-paper-7/questions/s01-q22-i00.png" alt="papers/reigate-grammar-school/2020/sample-paper-7/questions/s01-q22-i00.png" title="papers/reigate-grammar-school/2020/sample-paper-7/questions/s01-q22-i00.png" data-slot="paper-image" data-kind="essential" data-size="normal" data-align="center" class="paper-image" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/reigate-grammar-school/undated/paper-1/questions/s01-q22-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -6485,7 +6503,7 @@ The bar graph below shows the number of television sets in each house in a stree
 </div>
 <pre class="language-latex"><code class="language-latex">The bar graph below shows the number of television sets in each house in a street.
 
-&lt;PaperImage kind="essential" /&gt;
+&lt;PaperImage assetScope="question" kind="essential" /&gt;
 </code></pre>
 </div>
 <div class="workings">
@@ -6567,7 +6585,7 @@ The bar graph below shows the number of television sets in each house in a stree
 </div>
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-22-1">
+<div class="question_envelope rag_not_found subquestion" id="question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-22-1">
 <div class="uuid">
 <p>58587E41-FE69-47B6-96B0-BB2A14CCC9C3</p>
 </div>
@@ -6685,7 +6703,7 @@ $11$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-22-2">
+<div class="question_envelope rag_not_found subquestion" id="question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-22-2">
 <div class="uuid">
 <p>D1937229-41E5-466E-A61F-17F23F6D84E3</p>
 </div>
@@ -6813,7 +6831,7 @@ $30$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-22-3">
+<div class="question_envelope rag_not_found subquestion" id="question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-22-3">
 <div class="uuid">
 <p>D29B8602-060C-4419-BDD0-18895585BFA2</p>
 </div>
@@ -6996,17 +7014,17 @@ $54$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-23">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-23">
 <div class="uuid">
 <p>6C9BA983-C6CB-4792-85CE-961A719469F4</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-1-22">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-reigate-grammar-school-11-plus-maths-undated-paper-1-1-22">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-reigate-grammar-school-11-plus-maths-undated-paper-1-bottom">Bottom of page</a>
 </div>
 <div class="papername">
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:1:23</p>
+<p>reigate-grammar-school--11-plus--maths--undated--paper-1:1:23</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -7259,5 +7277,5 @@ Total number of people &#36;= 90&#36;
 </div>
 </li>
 </ul>
-<div id="page-reigate-grammar-school-11-plus-maths-2020-sample-paper-7-bottom"></div>
+<div id="page-reigate-grammar-school-11-plus-maths-undated-paper-1-bottom"></div>
 </div>

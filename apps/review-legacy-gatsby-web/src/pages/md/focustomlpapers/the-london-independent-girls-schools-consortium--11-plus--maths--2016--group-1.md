@@ -1,7 +1,7 @@
 ---
-slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2016-group-1"
-title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2016 - Group 1"
-date: 2026-08-12 22:31:31
+slug: "focustomlpapers/the-london-independent-girls-schools-consortium-11-plus-maths-2016-group-1"
+title: "Focus Paper - The London Independent Girls Schools Consortium - 11 Plus - Maths - 2016 - Group 1"
+date: 2026-09-04 05:35:24
 questions_count: "45"
 ---
 <div class="paper" id="page-the-london-independent-girls-schools-consortium-11-plus-maths-2016-group-1-top">
@@ -739,7 +739,7 @@ Work out $4802 \div 7$.
 </div>
 <div class="paper-working-section-body">
 
-<div class="paper-long-division-alignment" data-align="start">
+<div class="paper-long-division-alignment" data-align="start" data-indent="none">
 <div role="img" aria-label="Long division of 4802 by 7" aria-describedby="long-division-the-london-independent-girls-schools-consortium-11-plus-maths-2016-group-1-workings-generated-long-division-s01-q04-w01-ld00-bus-svg-description" data-slot="long-division" data-variant="bus" class="paper-long-division-viewport" style="--long-division-natural-width: 150px; --long-division-minimum-readable-width: 112.5px;">
 <div aria-hidden="true" class="paper-long-division-graphic"><svg aria-hidden="true" data-rtq-long-division-contract="1" focusable="false" height="77" viewBox="0 0 150 77" width="150" xmlns="http://www.w3.org/2000/svg">
   <g font-family="KaTeX_Main, &quot;Times New Roman&quot;, Times, serif">
@@ -771,7 +771,7 @@ Work out $4802 \div 7$.
 </div>
 <div class="paper-working-section-body">
 
-<div class="paper-long-division-alignment" data-align="start">
+<div class="paper-long-division-alignment" data-align="start" data-indent="none">
 <div role="img" aria-label="Long division of 4802 by 7" aria-describedby="long-division-the-london-independent-girls-schools-consortium-11-plus-maths-2016-group-1-workings-generated-long-division-s01-q04-w01-ld01-long-svg-description" data-slot="long-division" data-variant="long" class="paper-long-division-viewport" style="--long-division-natural-width: 142px; --long-division-minimum-readable-width: 106.5px;">
 <div aria-hidden="true" class="paper-long-division-graphic"><svg aria-hidden="true" data-rtq-long-division-contract="1" focusable="false" height="221" viewBox="0 0 142 221" width="142" xmlns="http://www.w3.org/2000/svg">
   <g font-family="KaTeX_Main, &quot;Times New Roman&quot;, Times, serif">
@@ -2843,7 +2843,9 @@ math.number.fraction
 
 What fraction of the shape below is shaded?
 
-<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q12-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q12-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -2884,7 +2886,9 @@ What fraction of the shape below is shaded?
 </div>
 <div class="paper-working-section-body">
 
-<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 </div>
@@ -3589,7 +3593,9 @@ The two-stage number machine below changes numbers according to the rule:
 
 **'Add $7$ and then multiply by $4$'**
 
-<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q15-s01-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q15-s01-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -3711,7 +3717,9 @@ inherits parent tags: yes
 
 Work out the output when the input is $13$.
 
-<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q15-s01-ss01-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q15-s01-ss01-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -3845,7 +3853,9 @@ inherits parent tags: yes
 
 Work out the input when the output is $120$.
 
-<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q15-s01-ss02-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q15-s01-ss02-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -4050,7 +4060,9 @@ There are two possible function machines that will give the results shown below.
 
 Work out the rules for the two possible machines.
 
-<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q15-s02-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q15-s02-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -6323,7 +6335,9 @@ $100 \ \text{grams}$ sugar
 $450 \ \text{grams}$ strawberries
 $2$ eggs
 
-<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q19-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q19-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -7306,7 +7320,9 @@ math.venn
 
 The Venn diagram below is being used for sorting even numbers from $2$ to $20$ inclusive.
 
-<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q21-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q21-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -7594,7 +7610,9 @@ Place $14$ outside both circles.
 
 Place $20$ inside multiples of $4$ only.
 
-<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 </div>
@@ -8256,7 +8274,9 @@ frame.draw
 
 Reflect the shape in the mirror line.
 
-<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q23-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" /> 
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q23-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div> 
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -8297,7 +8317,9 @@ Reflect the shape in the mirror line.
 </div>
 <div class="paper-working-section-body">
 
-<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 </div>
@@ -8948,7 +8970,9 @@ marker.read-from-given-source
 
 What is the length of the pencil?
 
-<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q26-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q26-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -10311,7 +10335,9 @@ frame.draw
 
 Shade in four squares, so that the finished shape has exactly two lines of symmetry.
 
-<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q30-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q30-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -10352,7 +10378,9 @@ Shade in four squares, so that the finished shape has exactly two lines of symme
 </div>
 <div class="paper-working-section-body">
 
-<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 </div>
@@ -10512,13 +10540,17 @@ frame.draw
 
 The diagram shows a spinner with the numbers $1$ to $20$.
 
-<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q31-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q31-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 Vanessa spins the spinner.
 
 The spinner is equally likely to land on each section of the disc.
 
-<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q31-i01.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q31-i01.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 On the likelihood scale above:
 
@@ -10708,7 +10740,9 @@ $
 
 Mark $A$ at even chance.
 
-<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 </div>
@@ -10881,7 +10915,9 @@ $
 
 Mark $B$ at $\dfrac {1} {5}$.
 
-<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 </div>
@@ -11052,7 +11088,9 @@ $
 
 Mark $C$ at impossible.
 
-<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 </div>
@@ -11223,7 +11261,9 @@ $
 
 Mark $D$ at $\dfrac {1} {10}$.
 
-<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 </div>
@@ -11641,7 +11681,9 @@ marker.read-from-given-source
 
 The reading on the scale below shows the mass of a parcel.
 
-<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q33-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q33-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 Write down the mass:
 
@@ -12736,7 +12778,9 @@ inherits parent tags: yes
 
 On the centimetre square co-ordinate grid below, plot and label the points $P(3, 4), Q(6, 5)$ and $R(5, 8)$.
 
-<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q35-s01-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q35-s01-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -12779,7 +12823,9 @@ On the centimetre square co-ordinate grid below, plot and label the points $P(3,
 
 Plot and label $P(3, 4), Q(6, 5)$ and $R(5, 8)$.
 
-<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 </div>
@@ -12918,7 +12964,9 @@ Write down the co-ordinates of point &#36;S&#36;.
 </div>
 <div class="paper-working-section-body">
 
-<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 </div>
@@ -13091,7 +13139,9 @@ Plot $B(6, 3)$ and $D(6, 1)$, then join $A, B, C,$ and $D$.
 </div>
 <div class="paper-working-section-body">
 
-<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 </div>
@@ -13260,7 +13310,9 @@ frame.draw
 
 Fred fits together two triangles to form a rectangle.
 
-<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q36-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q36-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -13380,7 +13432,9 @@ inherits parent tags: yes
 
 On the grid below, show how Fred can fit together the same two triangles to make a parallelogram which is not a rectangle.
 
-<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q36-s01-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q36-s01-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -13423,7 +13477,9 @@ On the grid below, show how Fred can fit together the same two triangles to make
 
 Use the two triangles to make a parallelogram that is not a rectangle.
 
-<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 </div>
@@ -13521,11 +13577,15 @@ inherits parent tags: yes
 
 Fran fits together two isosceles triangles to make a parallelogram.
 
-<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q36-s02-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q36-s02-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 On the grid below, show how Fran can fit together the same two isosceles triangles to make a rhombus.
 
-<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q36-s02-i01.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q36-s02-i01.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -13572,7 +13632,9 @@ On the grid below, show how Fran can fit together the same two isosceles triangl
 
 Use the two isosceles triangles to make a rhombus.
 
-<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 </div>
@@ -13737,7 +13799,9 @@ frame.labelled
 
 Susan has a rectangular card that measures $18 \ \text{cm}$ by $6 \ \text{cm}$.
 
-<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q37-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" /> 
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q37-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div> 
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -14324,7 +14388,9 @@ frame.algebra
 
 Cube $A$ has a volume of $8 \ \text{cm}^3$.
 
-<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q38-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" /> 
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q38-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div> 
 
 
 Another cube, $B$, has edges which are twice the length of the edges of cube $A$.
@@ -15801,7 +15867,9 @@ frame.labelled
 
 The diagram below shows patterns drawn on a square dotted grid.
 
-<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q41-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q41-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -15965,7 +16033,9 @@ Draw pattern $4$ on the grid above.
 
 Draw pattern $4$ on the grid.
 
-<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 </div>
@@ -16327,7 +16397,9 @@ inherits parent tags: yes
 
 Sarah suggests that the perimeter of a particular pattern can be worked out using the number machine below.
 
-<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q41-s03-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q41-s03-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 Use Sarah's idea to calculate the perimeter of pattern $10$.
 
@@ -17059,7 +17131,9 @@ repeatedly until her result is a single-digit number.
 
 Examples:
 
-<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q43-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q43-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -18536,7 +18610,9 @@ She throws them once and adds the numbers she sees:
 
 6 + 7 = 13
 
-<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q45-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/the-london-independent-girls-schools-consortium/2016/group-1/questions/s01-q45-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 Paula throws her counters several more times and gets the following totals:
 

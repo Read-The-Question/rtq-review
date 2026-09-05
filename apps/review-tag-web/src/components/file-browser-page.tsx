@@ -42,6 +42,10 @@ const STATUS_ORDER = [
   'ng2',
   'ng3',
   'ng4',
+  'ng5',
+  'ng6',
+  'ng7',
+  'ng8',
 ] as const;
 
 function compareStatusKeys(left: string, right: string) {

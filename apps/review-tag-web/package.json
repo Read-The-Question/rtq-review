@@ -13,7 +13,7 @@
     "format:check": "prettier --check .",
     "format:fix": "prettier --write .",
     "types": "tsc --noEmit",
-    "test": "node --no-warnings --test --experimental-strip-types src/lib/paper-asset-reader.test.ts src/lib/paper-paths.test.ts src/lib/paper-table-markdown.test.ts src/lib/prepare-inline-long-division.test.ts"
+    "test": "node --no-warnings --test --experimental-strip-types src/lib/paper-asset-reader.test.ts src/lib/paper-paths.test.ts src/lib/paper-table-markdown.test.ts src/lib/paper-working-collections.test.ts src/lib/prepare-inline-long-division.test.ts"
   },
   "dependencies": {
     "@iarna/toml": "^2.2.5",

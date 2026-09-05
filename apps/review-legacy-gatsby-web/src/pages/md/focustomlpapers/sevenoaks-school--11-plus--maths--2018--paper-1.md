@@ -1,10 +1,10 @@
 ---
-slug: "focustomlpapers/sevenoaks-school-11-plus-maths-2018-sample-paper-9"
-title: "Focus Paper - Sevenoaks School - 11 Plus - Maths - 2018 - Sample Paper 9"
-date: 2026-05-31 13:14:27
+slug: "focustomlpapers/sevenoaks-school-11-plus-maths-2018-paper-1"
+title: "Focus Paper - Sevenoaks School - 11 Plus - Maths - 2018 - Paper 1"
+date: 2026-09-04 05:35:24
 questions_count: "20"
 ---
-<div class="paper" id="page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-top">
+<div class="paper" id="page-sevenoaks-school-11-plus-maths-2018-paper-1-top">
 <div class="meta">
 <h3>co-ed</h3>
 <h3>independent</h3>
@@ -14,18 +14,18 @@ questions_count: "20"
 </div>
 <ul class="question decimal question_type_question list_type_decimal">
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-1">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-1">
 <div class="uuid">
 <p>02E8A3E3-375F-4D9B-81E3-04DF65B30116</p>
 </div>
 <div class="question-nav">
 <span class="question-nav-spacer"></span>
-<a class="question-nav-link question-nav-link-top" href="#page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-2">Next question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-sevenoaks-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-sevenoaks-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-sevenoaks-school-11-plus-maths-2018-paper-1-1-2">Next question</a>
 </div>
 <div class="papername">
-<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:1</p>
+<p>sevenoaks-school--11-plus--maths--2018--paper-1:1:1</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -163,7 +163,7 @@ $12$ strawberry boot laces
 </div>
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-1-1">
+<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-1-1">
 <div class="uuid">
 <p>39D444F6-1F66-43F0-837D-BFCE64C59C7C</p>
 </div>
@@ -286,7 +286,7 @@ $338$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-1-2">
+<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-1-2">
 <div class="uuid">
 <p>3E917658-BE15-497D-9A53-C4BCAD23A996</p>
 </div>
@@ -466,18 +466,18 @@ $26$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-2">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-2">
 <div class="uuid">
 <p>DEE9F58F-6529-411D-BCA4-DD56685E4E5B</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-1">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-3">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-sevenoaks-school-11-plus-maths-2018-paper-1-1-1">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-sevenoaks-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-sevenoaks-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-sevenoaks-school-11-plus-maths-2018-paper-1-1-3">Next question</a>
 </div>
 <div class="papername">
-<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:2</p>
+<p>sevenoaks-school--11-plus--maths--2018--paper-1:1:2</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -591,7 +591,7 @@ A concert hall has $128$ rows of $35$ seats.
 </div>
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-2-1">
+<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-2-1">
 <div class="uuid">
 <p>DA523021-5DC3-4B7C-9AED-8C5413095BFD</p>
 </div>
@@ -714,7 +714,7 @@ $4480$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-2-2">
+<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-2-2">
 <div class="uuid">
 <p>E5FD302E-106A-4D06-A1E4-EE9B7B862E32</p>
 </div>
@@ -932,18 +932,18 @@ If the concert hall is &#36;75\%&#36; full, then the empty seats are &#36;100\% 
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-3">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-3">
 <div class="uuid">
 <p>93D7639A-7EFA-4748-8BCE-99A908F62670</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-2">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-4">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-sevenoaks-school-11-plus-maths-2018-paper-1-1-2">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-sevenoaks-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-sevenoaks-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-sevenoaks-school-11-plus-maths-2018-paper-1-1-4">Next question</a>
 </div>
 <div class="papername">
-<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:3</p>
+<p>sevenoaks-school--11-plus--maths--2018--paper-1:1:3</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -1057,7 +1057,7 @@ Calculate:
 </div>
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-3-1">
+<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-3-1">
 <div class="uuid">
 <p>9EA17CE5-CF4D-41E2-ACA5-87211FF9727B</p>
 </div>
@@ -1182,7 +1182,7 @@ $-15$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-3-2">
+<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-3-2">
 <div class="uuid">
 <p>81418456-4ABF-4E28-8FFD-4BA1807CD75F</p>
 </div>
@@ -1309,7 +1309,7 @@ $64$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-3-3">
+<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-3-3">
 <div class="uuid">
 <p>DC2FE116-4B21-40B3-A079-8EE9B626BB33</p>
 </div>
@@ -1434,7 +1434,7 @@ $14$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-3-4">
+<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-3-4">
 <div class="uuid">
 <p>3229E851-7945-4D66-9C70-1DA3E9CBB333</p>
 </div>
@@ -1614,18 +1614,18 @@ $-2$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-4">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-4">
 <div class="uuid">
 <p>81AD27ED-C5CF-411B-BCC2-A2463192D120</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-3">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-5">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-sevenoaks-school-11-plus-maths-2018-paper-1-1-3">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-sevenoaks-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-sevenoaks-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-sevenoaks-school-11-plus-maths-2018-paper-1-1-5">Next question</a>
 </div>
 <div class="papername">
-<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:4</p>
+<p>sevenoaks-school--11-plus--maths--2018--paper-1:1:4</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -1713,10 +1713,12 @@ To make the largest product, use $9$ and $8$ as the tens digits. Then check the 
 ABBR: We can find the answer using trial and error.
 
 
+
 | Numbers | Product |
-|:-------:|:-------:|
+|-------|-------|
 | $91$ and $82$ | $91 \times 82 = 7462$ |
 | $92$ and $81$ | $92 \times 81 = 7452$ |
+
 
 </div>
 </div>
@@ -1777,10 +1779,14 @@ To make the largest product, use &#36;9&#36; and &#36;8&#36; as the tens digits.
 
 rtq_abbr_working_note_md_trial_and_error_find_answer
 
+&lt;PaperTable&gt;
+
 | Numbers | Product |
-|:-------:|:-------:|
+|-------|-------|
 | &#36;91&#36; and &#36;82&#36; | &#36;91 \times 82 = 7462&#36; |
 | &#36;92&#36; and &#36;81&#36; | &#36;92 \times 81 = 7452&#36; |
+
+&lt;/PaperTable&gt;
 
 &lt;/WorkingSection&gt;
 
@@ -1871,18 +1877,18 @@ rtq_abbr_working_note_md_trial_and_error_find_answer
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-5">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-5">
 <div class="uuid">
 <p>757DF606-973F-46EB-8D7C-1533BB3C6ED6</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-4">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-6">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-sevenoaks-school-11-plus-maths-2018-paper-1-1-4">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-sevenoaks-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-sevenoaks-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-sevenoaks-school-11-plus-maths-2018-paper-1-1-6">Next question</a>
 </div>
 <div class="papername">
-<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:5</p>
+<p>sevenoaks-school--11-plus--maths--2018--paper-1:1:5</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -2001,7 +2007,7 @@ Round $325.48$ to the following degrees of accuracy:
 </div>
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-5-1">
+<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-5-1">
 <div class="uuid">
 <p>814FBE07-F926-4E41-827A-FD10AE8CF772</p>
 </div>
@@ -2129,7 +2135,7 @@ $300$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-5-2">
+<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-5-2">
 <div class="uuid">
 <p>BC543BA0-3AE9-4C25-AF27-6215164FE605</p>
 </div>
@@ -2257,7 +2263,7 @@ $330$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-5-3">
+<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-5-3">
 <div class="uuid">
 <p>C7F11D34-FA10-451E-B70E-DBECEF7280EA</p>
 </div>
@@ -2385,7 +2391,7 @@ $325$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-5-4">
+<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-5-4">
 <div class="uuid">
 <p>ABE28F01-F258-49F3-92E3-1BD41605E69E</p>
 </div>
@@ -2566,18 +2572,18 @@ $325.5$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-6">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-6">
 <div class="uuid">
 <p>30BB4D17-C37D-40B1-AF7F-3F86ECBCA8C0</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-5">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-7">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-sevenoaks-school-11-plus-maths-2018-paper-1-1-5">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-sevenoaks-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-sevenoaks-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-sevenoaks-school-11-plus-maths-2018-paper-1-1-7">Next question</a>
 </div>
 <div class="papername">
-<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:6</p>
+<p>sevenoaks-school--11-plus--maths--2018--paper-1:1:6</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -2747,18 +2753,18 @@ $1.008 \quad 1.02 \quad 1.15 \quad 1.2 \quad 1.9$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-7">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-7">
 <div class="uuid">
 <p>A61865AA-6630-4CE9-83F3-826FE700031F</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-6">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-8">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-sevenoaks-school-11-plus-maths-2018-paper-1-1-6">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-sevenoaks-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-sevenoaks-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-sevenoaks-school-11-plus-maths-2018-paper-1-1-8">Next question</a>
 </div>
 <div class="papername">
-<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:7</p>
+<p>sevenoaks-school--11-plus--maths--2018--paper-1:1:7</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -2867,11 +2873,13 @@ ABBR: We can find the answer using trial and error.
 
 Test prime values of $a$ until a valid pair is found.
 
+
 | $a$ | $b = 14 - a$ | $b$ | Valid pair? |
-|:---:|:------------:|:---:|:-----------:|
+|---|------------|---|-----------|
 | $3$ | $14 - 3$ | $11$ | Yes |
 | $5$ | $14 - 5$ | $9$ | No |
 | $7$ | $14 - 7$ | $7$ | No, the primes must be different |
+
 
 </div>
 </div>
@@ -2963,11 +2971,15 @@ rtq_abbr_working_note_md_trial_and_error_find_answer
 
 Test prime values of &#36;a&#36; until a valid pair is found.
 
+&lt;PaperTable&gt;
+
 | &#36;a&#36; | &#36;b = 14 - a&#36; | &#36;b&#36; | Valid pair? |
-|:---:|:------------:|:---:|:-----------:|
+|---|------------|---|-----------|
 | &#36;3&#36; | &#36;14 - 3&#36; | &#36;11&#36; | Yes |
 | &#36;5&#36; | &#36;14 - 5&#36; | &#36;9&#36; | No |
 | &#36;7&#36; | &#36;14 - 7&#36; | &#36;7&#36; | No, the primes must be different |
+
+&lt;/PaperTable&gt;
 
 &lt;/WorkingSection&gt;
 
@@ -3092,18 +3104,18 @@ The three numbers are &#36;2, 3,&#36; and &#36;11&#36;.
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-8">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-8">
 <div class="uuid">
 <p>87AA04CC-D448-4007-9256-68D87DB3FB84</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-7">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-9">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-sevenoaks-school-11-plus-maths-2018-paper-1-1-7">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-sevenoaks-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-sevenoaks-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-sevenoaks-school-11-plus-maths-2018-paper-1-1-9">Next question</a>
 </div>
 <div class="papername">
-<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:8</p>
+<p>sevenoaks-school--11-plus--maths--2018--paper-1:1:8</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -3217,7 +3229,7 @@ Blackcurrant cordial is diluted in the ratio $1$ part cordial to $4$ parts water
 </div>
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-8-1">
+<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-8-1">
 <div class="uuid">
 <p>5E74EC6C-95F0-4890-BC15-9F72EE018013</p>
 </div>
@@ -3486,7 +3498,7 @@ Amount of water &#36;= 120 \ \text{ml}&#36;
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-8-2">
+<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-8-2">
 <div class="uuid">
 <p>FA43323C-D4D8-48E3-9396-EBC93322AB09</p>
 </div>
@@ -3824,18 +3836,18 @@ Cordial used &#36;= 150 \ \text{ml}&#36;
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-9">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-9">
 <div class="uuid">
 <p>4F3F9BCF-587C-4A2F-8E8F-1C690544EDC4</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-8">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-10">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-sevenoaks-school-11-plus-maths-2018-paper-1-1-8">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-sevenoaks-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-sevenoaks-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-sevenoaks-school-11-plus-maths-2018-paper-1-1-10">Next question</a>
 </div>
 <div class="papername">
-<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:9</p>
+<p>sevenoaks-school--11-plus--maths--2018--paper-1:1:9</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -3949,7 +3961,7 @@ Add or subtract these fractions. Give your answers in their simplest terms.
 </div>
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-9-1">
+<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-9-1">
 <div class="uuid">
 <p>3B28F9E1-E977-41AB-9087-681E6FE878A3</p>
 </div>
@@ -4080,7 +4092,7 @@ $\dfrac {4} {5}$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-9-2">
+<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-9-2">
 <div class="uuid">
 <p>AD1B0918-F691-4C74-8496-DC44B950AD92</p>
 </div>
@@ -4264,18 +4276,18 @@ $\dfrac {3} {7}$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-10">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-10">
 <div class="uuid">
 <p>211838E2-E95A-47E2-855F-B9E96DAB6F7D</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-9">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-11">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-sevenoaks-school-11-plus-maths-2018-paper-1-1-9">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-sevenoaks-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-sevenoaks-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-sevenoaks-school-11-plus-maths-2018-paper-1-1-11">Next question</a>
 </div>
 <div class="papername">
-<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:10</p>
+<p>sevenoaks-school--11-plus--maths--2018--paper-1:1:10</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -4394,7 +4406,7 @@ Insert an inequality sign $<$ or $>$ to make the following statements correct:
 </div>
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-10-1">
+<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-10-1">
 <div class="uuid">
 <p>8205F874-163E-4202-87EB-EC8D17B6AF8C</p>
 </div>
@@ -4526,7 +4538,7 @@ $\dfrac {6} {10} \quad  <  \quad \dfrac {3} {4}$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-10-2">
+<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-10-2">
 <div class="uuid">
 <p>A5B6C005-811C-4E94-8D86-24039D908706</p>
 </div>
@@ -4711,18 +4723,18 @@ $\dfrac {8} {7} \quad  >  \quad \dfrac {11} {13}$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-11">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-11">
 <div class="uuid">
 <p>233159F2-0892-43F4-B76A-47078777DA90</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-10">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-12">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-sevenoaks-school-11-plus-maths-2018-paper-1-1-10">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-sevenoaks-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-sevenoaks-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-sevenoaks-school-11-plus-maths-2018-paper-1-1-12">Next question</a>
 </div>
 <div class="papername">
-<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:11</p>
+<p>sevenoaks-school--11-plus--maths--2018--paper-1:1:11</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -4836,7 +4848,7 @@ Find:
 </div>
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-11-1">
+<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-11-1">
 <div class="uuid">
 <p>B0A5CA71-52A8-4631-84C0-428E138A9FAE</p>
 </div>
@@ -4967,7 +4979,7 @@ $12$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-11-2">
+<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-11-2">
 <div class="uuid">
 <p>96C5005C-3DE7-4F2A-9773-9EBC121D114D</p>
 </div>
@@ -5153,18 +5165,18 @@ $64$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-12">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-12">
 <div class="uuid">
 <p>6DD07370-84B5-4E20-889C-79CF42BC0EA0</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-11">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-13">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-sevenoaks-school-11-plus-maths-2018-paper-1-1-11">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-sevenoaks-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-sevenoaks-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-sevenoaks-school-11-plus-maths-2018-paper-1-1-13">Next question</a>
 </div>
 <div class="papername">
-<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:12</p>
+<p>sevenoaks-school--11-plus--maths--2018--paper-1:1:12</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -5419,18 +5431,18 @@ a                             &= 72
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-13">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-13">
 <div class="uuid">
 <p>42D296D1-9C15-4407-8B49-817D8F7E5CB6</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-12">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-14">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-sevenoaks-school-11-plus-maths-2018-paper-1-1-12">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-sevenoaks-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-sevenoaks-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-sevenoaks-school-11-plus-maths-2018-paper-1-1-14">Next question</a>
 </div>
 <div class="papername">
-<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:13</p>
+<p>sevenoaks-school--11-plus--maths--2018--paper-1:1:13</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -5472,11 +5484,13 @@ marker.fill-missing-values
 
 Complete the table:
 
+
 |      **Fraction**        |   **Decimal**    | **Percentage**|
-|  :-----------------:    |  :---------:    | :------------:    |
+|  -----------------    |  ---------    | ------------    |
 |                       |               |    $2\%$       |
 |                       | $0.68$        |                |
 | $1\dfrac {1} {4}$      |               |                |
+
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -5485,11 +5499,15 @@ Complete the table:
 </div>
 <pre class="language-latex"><code class="language-latex">Complete the table:
 
+&lt;PaperTable&gt;
+
 |      **Fraction**        |   **Decimal**    | **Percentage**|
-|  :-----------------:    |  :---------:    | :------------:    |
+|  -----------------    |  ---------    | ------------    |
 |                       |               |    &#36;2\%&#36;       |
 |                       | &#36;0.68&#36;        |                |
 | &#36;1\dfrac {1} {4}&#36;      |               |                |
+
+&lt;/PaperTable&gt;
 </code></pre>
 </div>
 <div class="workings">
@@ -5589,11 +5607,13 @@ $
 </div>
 <div class="paper-working-section-body">
 
+
 |      **Fraction**        |   **Decimal**    | **Percentage**|
-|  :-----------------:     |    :---------:    | :------------: |
+|  -----------------     |    ---------    | ------------ |
 |    $\dfrac {1} {50}$     |    $0.02$         |    $2\%$       |
 |    $\dfrac {17} {25}$    |    $0.68$         |    $68\%$      |
 |    $1\dfrac {1} {4}$     |    $1.25$         |    $125\%$     |
+
 
 <!-- RTQ_TABLE_KEEP_AFTER: do not remove; keeps markdown table rendering stable -->
 
@@ -5679,11 +5699,15 @@ $
 
 &lt;WorkingSection phase="conclusion" title="Completed table"&gt;
 
+&lt;PaperTable&gt;
+
 |      **Fraction**        |   **Decimal**    | **Percentage**|
-|  :-----------------:     |    :---------:    | :------------: |
+|  -----------------     |    ---------    | ------------ |
 |    &#36;\dfrac {1} {50}&#36;     |    &#36;0.02&#36;         |    &#36;2\%&#36;       |
 |    &#36;\dfrac {17} {25}&#36;    |    &#36;0.68&#36;         |    &#36;68\%&#36;      |
 |    &#36;1\dfrac {1} {4}&#36;     |    &#36;1.25&#36;         |    &#36;125\%&#36;     |
+
+&lt;/PaperTable&gt;
 
 rtq_abbr_working_md_keep_after_table
 
@@ -5766,18 +5790,18 @@ rtq_abbr_working_md_keep_after_table
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-14">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-14">
 <div class="uuid">
 <p>802A33FA-D4AC-4248-BE3E-09CA75FF7E82</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-13">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-15">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-sevenoaks-school-11-plus-maths-2018-paper-1-1-13">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-sevenoaks-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-sevenoaks-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-sevenoaks-school-11-plus-maths-2018-paper-1-1-15">Next question</a>
 </div>
 <div class="papername">
-<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:14</p>
+<p>sevenoaks-school--11-plus--maths--2018--paper-1:1:14</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -5809,7 +5833,9 @@ frame.algebra
 
 The picture shows a tipper truck.
 
-<img src="/assets/papers/sevenoaks-school/2018/sample-paper-9/questions/s01-q14-i00.png" alt="papers/sevenoaks-school/2018/sample-paper-9/questions/s01-q14-i00.png" title="papers/sevenoaks-school/2018/sample-paper-9/questions/s01-q14-i00.png" data-slot="paper-image" data-kind="essential" data-size="normal" data-align="center" class="paper-image" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />`
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/sevenoaks-school/2018/paper-1/questions/s01-q14-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>`
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -5818,7 +5844,7 @@ The picture shows a tipper truck.
 </div>
 <pre class="language-latex"><code class="language-latex">The picture shows a tipper truck.
 
-&lt;PaperImage kind="essential" /&gt;`
+&lt;PaperImage assetScope="question" kind="essential" /&gt;`
 </code></pre>
 </div>
 <div class="workings">
@@ -5900,7 +5926,7 @@ The picture shows a tipper truck.
 </div>
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-14-1">
+<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-14-1">
 <div class="uuid">
 <p>0B1CEE90-04F1-4105-BD9C-31E7AC44CCF3</p>
 </div>
@@ -6117,7 +6143,7 @@ b               &= 110 \degree
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-14-2">
+<div class="question_envelope rag_not_found subquestion" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-14-2">
 <div class="uuid">
 <p>569BF8C4-7843-4DE7-BA77-462C77878E5B</p>
 </div>
@@ -6339,18 +6365,18 @@ Angle &#36;c&#36; increases to &#36;105 \degree&#36;.
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-15">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-15">
 <div class="uuid">
 <p>408B312B-6431-4F80-A288-66DBFDD7A7F3</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-14">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-16">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-sevenoaks-school-11-plus-maths-2018-paper-1-1-14">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-sevenoaks-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-sevenoaks-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-sevenoaks-school-11-plus-maths-2018-paper-1-1-16">Next question</a>
 </div>
 <div class="papername">
-<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:15</p>
+<p>sevenoaks-school--11-plus--maths--2018--paper-1:1:15</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -6382,7 +6408,9 @@ frame.labelled
 
 Calculate the perimeter of this rectangle.
 
-<img src="/assets/papers/sevenoaks-school/2018/sample-paper-9/questions/s01-q15-i00.png" alt="papers/sevenoaks-school/2018/sample-paper-9/questions/s01-q15-i00.png" title="papers/sevenoaks-school/2018/sample-paper-9/questions/s01-q15-i00.png" data-slot="paper-image" data-kind="essential" data-size="normal" data-align="center" class="paper-image" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/sevenoaks-school/2018/paper-1/questions/s01-q15-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -6391,7 +6419,7 @@ Calculate the perimeter of this rectangle.
 </div>
 <pre class="language-latex"><code class="language-latex">Calculate the perimeter of this rectangle.
 
-&lt;PaperImage kind="essential" /&gt;
+&lt;PaperImage assetScope="question" kind="essential" /&gt;
 </code></pre>
 </div>
 <div class="workings">
@@ -6537,18 +6565,18 @@ $19.4 \ \text{cm}$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-16">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-16">
 <div class="uuid">
 <p>BF1E2A8F-F5C7-4634-912A-F66697436636</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-15">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-17">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-sevenoaks-school-11-plus-maths-2018-paper-1-1-15">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-sevenoaks-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-sevenoaks-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-sevenoaks-school-11-plus-maths-2018-paper-1-1-17">Next question</a>
 </div>
 <div class="papername">
-<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:16</p>
+<p>sevenoaks-school--11-plus--maths--2018--paper-1:1:16</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -6580,7 +6608,9 @@ frame.labelled
 
 Calculate the area of this right-angled triangle.
 
-<img src="/assets/papers/sevenoaks-school/2018/sample-paper-9/questions/s01-q16-i00.png" alt="papers/sevenoaks-school/2018/sample-paper-9/questions/s01-q16-i00.png" title="papers/sevenoaks-school/2018/sample-paper-9/questions/s01-q16-i00.png" data-slot="paper-image" data-kind="essential" data-size="normal" data-align="center" class="paper-image" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/sevenoaks-school/2018/paper-1/questions/s01-q16-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -6589,7 +6619,7 @@ Calculate the area of this right-angled triangle.
 </div>
 <pre class="language-latex"><code class="language-latex">Calculate the area of this right-angled triangle.
 
-&lt;PaperImage kind="essential" /&gt;
+&lt;PaperImage assetScope="question" kind="essential" /&gt;
 </code></pre>
 </div>
 <div class="workings">
@@ -6739,18 +6769,18 @@ $18 \ \text{cm} ^ 2$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-17">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-17">
 <div class="uuid">
 <p>AC6EBE4A-8D1B-4267-BD03-E8044D4BB3DC</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-16">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-18">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-sevenoaks-school-11-plus-maths-2018-paper-1-1-16">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-sevenoaks-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-sevenoaks-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-sevenoaks-school-11-plus-maths-2018-paper-1-1-18">Next question</a>
 </div>
 <div class="papername">
-<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:17</p>
+<p>sevenoaks-school--11-plus--maths--2018--paper-1:1:17</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -7017,18 +7047,18 @@ w                                          &= 7 \ \text{cm}
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-18">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-18">
 <div class="uuid">
 <p>08EF3522-4AE3-4C8F-B6B4-6AF9D69EE7A2</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-17">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-19">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-sevenoaks-school-11-plus-maths-2018-paper-1-1-17">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-sevenoaks-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-sevenoaks-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-sevenoaks-school-11-plus-maths-2018-paper-1-1-19">Next question</a>
 </div>
 <div class="papername">
-<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:18</p>
+<p>sevenoaks-school--11-plus--maths--2018--paper-1:1:18</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -7061,7 +7091,9 @@ frame.draw
 In how many ways can you join the two shapes shown below to make a figure with one line of symmetry?
 
  
-<img src="/assets/papers/sevenoaks-school/2018/sample-paper-9/questions/s01-q18-i00.png" alt="papers/sevenoaks-school/2018/sample-paper-9/questions/s01-q18-i00.png" title="papers/sevenoaks-school/2018/sample-paper-9/questions/s01-q18-i00.png" data-slot="paper-image" data-kind="essential" data-size="normal" data-align="center" class="paper-image" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/sevenoaks-school/2018/paper-1/questions/s01-q18-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -7071,7 +7103,7 @@ In how many ways can you join the two shapes shown below to make a figure with o
 <pre class="language-latex"><code class="language-latex">In how many ways can you join the two shapes shown below to make a figure with one line of symmetry?
 
  
-&lt;PaperImage kind="essential" /&gt;
+&lt;PaperImage assetScope="question" kind="essential" /&gt;
 </code></pre>
 </div>
 <div class="workings">
@@ -7118,7 +7150,9 @@ There are $3$ places where the extra square can be joined to make a figure with 
 
 The three successful joins are shown on the diagram.
 
-![missing image](/assets/papers/missing/missing_image.svg "papers/sevenoaks-school/2018/sample-paper-9/answers/manual/s01-q18-w01-i00.png")
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 </div>
@@ -7162,7 +7196,7 @@ There are &#36;3&#36; places where the extra square can be joined to make a figu
 
 The three successful joins are shown on the diagram.
 
-&lt;WorkingImage kind="essential" /&gt;
+&lt;PaperImage assetScope="working" kind="essential" /&gt;
 
 &lt;/WorkingSection&gt;
 </code></pre>
@@ -7243,18 +7277,18 @@ The three successful joins are shown on the diagram.
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-19">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-19">
 <div class="uuid">
 <p>8B8EF3AE-DF6F-44B3-A1AC-AEA306E9DCC0</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-18">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-20">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-sevenoaks-school-11-plus-maths-2018-paper-1-1-18">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-sevenoaks-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-sevenoaks-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-sevenoaks-school-11-plus-maths-2018-paper-1-1-20">Next question</a>
 </div>
 <div class="papername">
-<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:19</p>
+<p>sevenoaks-school--11-plus--maths--2018--paper-1:1:19</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -7286,7 +7320,9 @@ marker.algebra-multivariable
 
 The numbers $1$ to $12$ are to be placed such that the sum of the four numbers in each of the six rows in the diagram below is the same. Which letter will be replaced with the number $7 \text{?}$
 
-<img src="/assets/papers/sevenoaks-school/2018/sample-paper-9/questions/s01-q19-i00.png" alt="papers/sevenoaks-school/2018/sample-paper-9/questions/s01-q19-i00.png" title="papers/sevenoaks-school/2018/sample-paper-9/questions/s01-q19-i00.png" data-slot="paper-image" data-kind="essential" data-size="normal" data-align="center" class="paper-image" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/sevenoaks-school/2018/paper-1/questions/s01-q19-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 $
 \begin{aligned}
@@ -7306,7 +7342,7 @@ $
 </div>
 <pre class="language-latex"><code class="language-latex">The numbers &#36;1&#36; to &#36;12&#36; are to be placed such that the sum of the four numbers in each of the six rows in the diagram below is the same. Which letter will be replaced with the number &#36;7 \text{?}&#36;
 
-&lt;PaperImage kind="essential" /&gt;
+&lt;PaperImage assetScope="question" kind="essential" /&gt;
 
 &#36;
 \begin{aligned}
@@ -7660,17 +7696,17 @@ The number &#36;7&#36; replaces letter &#36;E&#36;.
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-20">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-sevenoaks-school-11-plus-maths-2018-paper-1-1-20">
 <div class="uuid">
 <p>5612D86A-AFE6-4BB3-A38A-725413199CD9</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-sevenoaks-school-11-plus-maths-2018-sample-paper-9-1-19">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-sevenoaks-school-11-plus-maths-2018-paper-1-1-19">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-sevenoaks-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-sevenoaks-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
 </div>
 <div class="papername">
-<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:1:20</p>
+<p>sevenoaks-school--11-plus--maths--2018--paper-1:1:20</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -7934,5 +7970,5 @@ There are &#36;22&#36; possible hour displays, so this gives &#36;22 \times 1 = 
 </div>
 </li>
 </ul>
-<div id="page-sevenoaks-school-11-plus-maths-2018-sample-paper-9-bottom"></div>
+<div id="page-sevenoaks-school-11-plus-maths-2018-paper-1-bottom"></div>
 </div>

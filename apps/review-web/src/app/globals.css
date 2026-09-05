@@ -995,7 +995,15 @@ html[data-rtq-controls-visible='false'] .rtq-document p.review_status {
 }
 
 .rtq-document .question_envelope.rag_ng4,
-.rtq-document .question_envelope[data-rtq-primary-rag-state='ng4'] {
+.rtq-document .question_envelope.rag_ng5,
+.rtq-document .question_envelope.rag_ng6,
+.rtq-document .question_envelope.rag_ng7,
+.rtq-document .question_envelope.rag_ng8,
+.rtq-document .question_envelope[data-rtq-primary-rag-state='ng4'],
+.rtq-document .question_envelope[data-rtq-primary-rag-state='ng5'],
+.rtq-document .question_envelope[data-rtq-primary-rag-state='ng6'],
+.rtq-document .question_envelope[data-rtq-primary-rag-state='ng7'],
+.rtq-document .question_envelope[data-rtq-primary-rag-state='ng8'] {
   --rtq-rag-primary-bg: #4ade80;
   --rtq-rag-primary-border: rgba(20, 122, 68, 0.34);
   --rtq-rag-primary-text: #114a2d;

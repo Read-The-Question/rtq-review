@@ -1,10 +1,10 @@
 ---
-slug: "focustomlpapers/devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5"
-title: "Focus Paper - Devonport High School For Boys - 11 Plus - Maths - 2020 - Sample Paper 5"
-date: 2026-05-31 13:14:27
+slug: "focustomlpapers/devonport-high-school-for-boys-11-plus-maths-2020-paper-1"
+title: "Focus Paper - Devonport High School For Boys - 11 Plus - Maths - 2020 - Paper 1"
+date: 2026-09-04 05:35:24
 questions_count: "44"
 ---
-<div class="paper" id="page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">
+<div class="paper" id="page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">
 <div class="meta">
 <h3>boys</h3>
 <h3>grammar</h3>
@@ -14,18 +14,18 @@ questions_count: "44"
 </div>
 <ul class="question decimal question_type_question list_type_decimal">
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-1">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-1">
 <div class="uuid">
 <p>5E27E4C1-9770-4014-B987-7640D59C1349</p>
 </div>
 <div class="question-nav">
 <span class="question-nav-spacer"></span>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-2">Next question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-2">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:1</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:1</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -199,18 +199,18 @@ $2569$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-2">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-2">
 <div class="uuid">
 <p>A922E32B-F98B-4BB5-80FE-0CC14DF89EBD</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-1">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-3">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-1">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-3">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:2</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:2</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -240,7 +240,9 @@ frame.minimal
 
 **Question**
 
-<img src="/assets/papers/devonport-high-school-for-boys/2020/sample-paper-5/questions/s01-q02-i00.png" alt="papers/devonport-high-school-for-boys/2020/sample-paper-5/questions/s01-q02-i00.png" title="papers/devonport-high-school-for-boys/2020/sample-paper-5/questions/s01-q02-i00.png" data-slot="paper-image" data-kind="essential" data-size="normal" data-align="center" class="paper-image" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/devonport-high-school-for-boys/2020/paper-1/questions/s01-q02-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 During which month are there the most birthdays?
 
@@ -249,7 +251,7 @@ During which month are there the most birthdays?
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">&lt;PaperImage kind="essential" /&gt;
+<pre class="language-latex"><code class="language-latex">&lt;PaperImage assetScope="question" kind="essential" /&gt;
 
 During which month are there the most birthdays?
 </code></pre>
@@ -385,18 +387,18 @@ August
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-3">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-3">
 <div class="uuid">
 <p>907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-2">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-4">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-2">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-4">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:3</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:3</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -572,18 +574,18 @@ $17{:}00$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-4">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-4">
 <div class="uuid">
 <p>58AA53DF-1B31-4A7D-A498-AD5E926C40A6</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-3">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-5">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-3">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-5">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:4</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:4</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -613,7 +615,9 @@ frame.minimal
 
 **Question**
 
-<img src="/assets/papers/devonport-high-school-for-boys/2020/sample-paper-5/questions/s01-q04-i00.png" alt="papers/devonport-high-school-for-boys/2020/sample-paper-5/questions/s01-q04-i00.png" title="papers/devonport-high-school-for-boys/2020/sample-paper-5/questions/s01-q04-i00.png" data-slot="paper-image" data-kind="essential" data-size="normal" data-align="center" class="paper-image" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/devonport-high-school-for-boys/2020/paper-1/questions/s01-q04-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 Which point has coordinates $(2, 1) ?$
 
@@ -622,7 +626,7 @@ Which point has coordinates $(2, 1) ?$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">&lt;PaperImage kind="essential" /&gt;
+<pre class="language-latex"><code class="language-latex">&lt;PaperImage assetScope="question" kind="essential" /&gt;
 
 Which point has coordinates &#36;(2, 1) ?&#36;
 </code></pre>
@@ -758,18 +762,18 @@ E
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-5">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-5">
 <div class="uuid">
 <p>F49FF939-01A4-4C4C-97E5-1AF9C8DD62DC</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-4">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-6">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-4">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-6">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:5</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:5</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -949,18 +953,18 @@ $80$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-6">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-6">
 <div class="uuid">
 <p>51895EF4-90DD-4CC5-B028-99ED8D291204</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-5">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-7">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-5">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-7">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:6</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:6</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -1130,18 +1134,18 @@ Answer &#36;= 0.7&#36;
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-7">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-7">
 <div class="uuid">
 <p>D4559394-AFCF-4BDC-8C79-DDD8C89D76E3</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-6">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-8">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-6">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-8">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:7</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:7</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -1166,7 +1170,9 @@ math.number.fraction
 
 **Question**
 
-<img src="/assets/papers/devonport-high-school-for-boys/2020/sample-paper-5/questions/s01-q07-i00.png" alt="papers/devonport-high-school-for-boys/2020/sample-paper-5/questions/s01-q07-i00.png" title="papers/devonport-high-school-for-boys/2020/sample-paper-5/questions/s01-q07-i00.png" data-slot="paper-image" data-kind="essential" data-size="normal" data-align="center" class="paper-image" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/devonport-high-school-for-boys/2020/paper-1/questions/s01-q07-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 What fraction of the shape is shaded?
 
@@ -1175,7 +1181,7 @@ What fraction of the shape is shaded?
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">&lt;PaperImage kind="essential" /&gt;
+<pre class="language-latex"><code class="language-latex">&lt;PaperImage assetScope="question" kind="essential" /&gt;
 
 What fraction of the shape is shaded?
 </code></pre>
@@ -1325,18 +1331,18 @@ $\dfrac {2} {3}$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-8">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-8">
 <div class="uuid">
 <p>D4DD20A6-5A96-44D2-BD6F-40B33B94EA63</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-7">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-9">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-7">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-9">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:8</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:8</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -1617,18 +1623,18 @@ Half pint &#36;= 284 \ \text{ml}&#36;
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-9">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-9">
 <div class="uuid">
 <p>B5BFCDCA-D197-4C79-8537-F5E6D1C97217</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-8">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-10">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-8">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-10">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:9</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:9</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -1653,7 +1659,9 @@ math.geometry.angle
 
 **Question**
 
-<img src="/assets/papers/devonport-high-school-for-boys/2020/sample-paper-5/questions/s01-q09-i00.png" alt="papers/devonport-high-school-for-boys/2020/sample-paper-5/questions/s01-q09-i00.png" title="papers/devonport-high-school-for-boys/2020/sample-paper-5/questions/s01-q09-i00.png" data-slot="paper-image" data-kind="essential" data-size="normal" data-align="center" class="paper-image" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/devonport-high-school-for-boys/2020/paper-1/questions/s01-q09-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 What is the sum of the angles in the shape above?
 
@@ -1662,7 +1670,7 @@ What is the sum of the angles in the shape above?
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">&lt;PaperImage kind="essential" /&gt;
+<pre class="language-latex"><code class="language-latex">&lt;PaperImage assetScope="question" kind="essential" /&gt;
 
 What is the sum of the angles in the shape above?
 </code></pre>
@@ -1802,18 +1810,18 @@ Sum of the angles &#36;= 360 \degree&#36;
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-10">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-10">
 <div class="uuid">
 <p>553D9630-2488-43F6-B40B-249573F31F80</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-9">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-11">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-9">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-11">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:10</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:10</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -2009,18 +2017,18 @@ $6$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-11">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-11">
 <div class="uuid">
 <p>DB2AA3B6-B6BC-4F4B-A873-F581AC27CBD1</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-10">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-12">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-10">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-12">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:11</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:11</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -2202,18 +2210,18 @@ $3$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-12">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-12">
 <div class="uuid">
 <p>BD72F43E-8D06-4C07-B142-E87805AC1946</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-11">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-13">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-11">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-13">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:12</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:12</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -2462,18 +2470,18 @@ Subtract &#36;7&#36; each time.
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-13">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-13">
 <div class="uuid">
 <p>5D0574D7-7E64-4EEA-A89A-3D7CBF4AD806</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-12">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-14">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-12">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-14">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:13</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:13</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -2649,18 +2657,18 @@ $-2 \degree$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-14">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-14">
 <div class="uuid">
 <p>A9449EF9-3053-4405-96FD-35534110FAFD</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-13">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-15">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-13">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-15">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:14</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:14</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -2685,7 +2693,9 @@ math.graph
 
 **Question**
 
-<img src="/assets/papers/devonport-high-school-for-boys/2020/sample-paper-5/questions/s01-q14-i00.png" alt="papers/devonport-high-school-for-boys/2020/sample-paper-5/questions/s01-q14-i00.png" title="papers/devonport-high-school-for-boys/2020/sample-paper-5/questions/s01-q14-i00.png" data-slot="paper-image" data-kind="essential" data-size="normal" data-align="center" class="paper-image" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/devonport-high-school-for-boys/2020/paper-1/questions/s01-q14-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 $40$ students were asked which was their favourite colour. How many students chose Yellow?
 
@@ -2694,7 +2704,7 @@ $40$ students were asked which was their favourite colour. How many students cho
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">&lt;PaperImage kind="essential" /&gt;
+<pre class="language-latex"><code class="language-latex">&lt;PaperImage assetScope="question" kind="essential" /&gt;
 
 &#36;40&#36; students were asked which was their favourite colour. How many students chose Yellow?
 </code></pre>
@@ -2851,18 +2861,18 @@ $5$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-15">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-15">
 <div class="uuid">
 <p>31A2A40E-5814-48CC-8C71-91011C0B3F1C</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-14">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-16">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-14">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-16">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:15</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:15</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -3044,18 +3054,18 @@ $81  \ \text{minutes}$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-16">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-16">
 <div class="uuid">
 <p>4817F67D-F1F2-40D0-8436-A069F847B9C1</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-15">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-17">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-15">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-17">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:16</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:16</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -3236,18 +3246,18 @@ $40 \ \text{miles/hour}$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-17">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-17">
 <div class="uuid">
 <p>47301465-B109-45B3-8338-D619296B1CE8</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-16">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-18">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-16">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-18">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:17</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:17</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -3417,18 +3427,18 @@ $0.067 \quad 0.106 \quad 0.161 \quad 0.601$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-18">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-18">
 <div class="uuid">
 <p>8CB9E9FF-C1CF-493D-808B-3F8353350421</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-17">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-19">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-17">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-19">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:18</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:18</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -3615,18 +3625,18 @@ $20 \%$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-19">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-19">
 <div class="uuid">
 <p>60EB1E1C-83CC-49EC-8A4E-63559B476793</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-18">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-20">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-18">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-20">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:19</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:19</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -3652,13 +3662,15 @@ math.statistics
 **Question**
 
  
+
 |     Day    |     Temperature    |
-|:----------:|:------------------:|
+|----------|------------------|
 |   Monday   |         $15$       |
 |  Tuesday   |         $13$       |
 |  Wednesday |         $12$       |
 |  Thursday  |         $9$        |
 |   Friday   |         $16$       |
+
 
 The table shows midday temperatures. What is the average midday temperature?
 
@@ -3668,13 +3680,17 @@ The table shows midday temperatures. What is the average midday temperature?
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
 <pre class="language-latex"><code class="language-latex"> 
+&lt;PaperTable&gt;
+
 |     Day    |     Temperature    |
-|:----------:|:------------------:|
+|----------|------------------|
 |   Monday   |         &#36;15&#36;       |
 |  Tuesday   |         &#36;13&#36;       |
 |  Wednesday |         &#36;12&#36;       |
 |  Thursday  |         &#36;9&#36;        |
 |   Friday   |         &#36;16&#36;       |
+
+&lt;/PaperTable&gt;
 
 The table shows midday temperatures. What is the average midday temperature?
 </code></pre>
@@ -3826,18 +3842,18 @@ $13$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-20">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-20">
 <div class="uuid">
 <p>3CCF8DB4-38EC-47A3-B1E8-BAC6A3745EE8</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-19">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-21">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-19">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-21">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:20</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:20</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -4103,18 +4119,18 @@ Cost &#36;= \pounds 192&#36;
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-21">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-21">
 <div class="uuid">
 <p>76853B80-475C-45FC-8F30-B40957F57E47</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-20">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-22">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-20">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-22">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:21</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:21</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -4292,18 +4308,18 @@ $0.0023$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-22">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-22">
 <div class="uuid">
 <p>B0D2C24D-CECA-4883-9C19-47AB0354D274</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-21">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-23">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-21">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-23">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:22</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:22</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -4646,18 +4662,18 @@ Flour needed &#36;= 225 \ \text{g}&#36;
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_comingsoon rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-23">
+<div class="question_envelope rag_comingsoon rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-23">
 <div class="uuid">
 <p>41E51ED4-2566-416E-9B1D-DA881001E4E3</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-22">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-24">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-22">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-24">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:23</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:23</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -4687,7 +4703,9 @@ frame.draw
 
 **Question**
 
-<img src="/assets/papers/devonport-high-school-for-boys/2020/sample-paper-5/questions/s01-q23-i00.png" alt="papers/devonport-high-school-for-boys/2020/sample-paper-5/questions/s01-q23-i00.png" title="papers/devonport-high-school-for-boys/2020/sample-paper-5/questions/s01-q23-i00.png" data-slot="paper-image" data-kind="essential" data-size="normal" data-align="center" class="paper-image" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/devonport-high-school-for-boys/2020/paper-1/questions/s01-q23-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 What would be the coordinates of $D$ if the shape above was reflected in the y-axis?
 
@@ -4696,7 +4714,7 @@ What would be the coordinates of $D$ if the shape above was reflected in the y-a
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">&lt;PaperImage kind="essential" /&gt;
+<pre class="language-latex"><code class="language-latex">&lt;PaperImage assetScope="question" kind="essential" /&gt;
 
 What would be the coordinates of &#36;D&#36; if the shape above was reflected in the y-axis?
 </code></pre>
@@ -4725,7 +4743,9 @@ What would be the coordinates of &#36;D&#36; if the shape above was reflected in
 <div class="paper-working-section" data-phase="setup" style="margin: 1rem 0;">
 <div class="paper-working-section-body">
 
-![missing image](/assets/papers/missing/missing_image.svg "papers/devonport-high-school-for-boys/2020/sample-paper-5/answers/manual/s01-q23-w01-i00.png")
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 </div>
@@ -4774,7 +4794,7 @@ $(2, 4)$
 </div>
 <pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="setup"&gt;
 
-&lt;WorkingImage kind="essential" /&gt;
+&lt;PaperImage assetScope="working" kind="essential" /&gt;
 
 &lt;/WorkingSection&gt;
 
@@ -4861,18 +4881,18 @@ Reflected point &#36;D = (2, 4)&#36;
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-24">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-24">
 <div class="uuid">
 <p>CABD97FF-A137-4136-B3F8-465E5FFFF48B</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-23">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-25">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-23">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-25">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:24</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:24</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -5092,18 +5112,18 @@ If &#36;\dfrac {3} {4}&#36; of the pencils are taken out, then the pencils left 
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-25">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-25">
 <div class="uuid">
 <p>7CFA18A8-41D9-48D0-8E45-D13601860CE5</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-24">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-26">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-24">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-26">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:25</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:25</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -5290,18 +5310,18 @@ D
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-26">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-26">
 <div class="uuid">
 <p>05D0F503-9182-4564-B5A9-02F07594166E</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-25">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-27">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-25">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-27">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:26</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:26</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -5479,18 +5499,18 @@ $121$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-27">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-27">
 <div class="uuid">
 <p>6C18DFA0-8423-43ED-9915-3051E3628B08</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-26">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-28">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-26">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-28">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:27</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:27</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -5515,7 +5535,9 @@ math.geometry.volume
 
 **Question**
 
-<img src="/assets/papers/devonport-high-school-for-boys/2020/sample-paper-5/questions/s01-q27-i00.png" alt="papers/devonport-high-school-for-boys/2020/sample-paper-5/questions/s01-q27-i00.png" title="papers/devonport-high-school-for-boys/2020/sample-paper-5/questions/s01-q27-i00.png" data-slot="paper-image" data-kind="essential" data-size="normal" data-align="center" class="paper-image" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/devonport-high-school-for-boys/2020/paper-1/questions/s01-q27-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 What is the volume of the box above?
 
@@ -5524,7 +5546,7 @@ What is the volume of the box above?
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">&lt;PaperImage kind="essential" /&gt;
+<pre class="language-latex"><code class="language-latex">&lt;PaperImage assetScope="question" kind="essential" /&gt;
 
 What is the volume of the box above?
 </code></pre>
@@ -5670,18 +5692,18 @@ $54 \ \text{cm}^3 $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-28">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-28">
 <div class="uuid">
 <p>F5D2AE7A-59C4-4E09-B6F7-E6607E8C22EE</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-27">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-29">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-27">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-29">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:28</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:28</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -5922,18 +5944,18 @@ rtq_abbr_working_note_md_torder_ascending
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-29">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-29">
 <div class="uuid">
 <p>8E6C9658-1FC1-4EAF-A90B-4BB9DCF42DB2</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-28">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-30">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-28">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-30">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:29</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:29</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -6120,18 +6142,18 @@ $6.829$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_comingsoon rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-30">
+<div class="question_envelope rag_comingsoon rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-30">
 <div class="uuid">
 <p>7D642E90-EF43-4024-B81A-27437CBC3FFA</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-29">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-31">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-29">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-31">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:30</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:30</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -6161,7 +6183,9 @@ frame.labelled
 
 **Question**
 
-<img src="/assets/papers/devonport-high-school-for-boys/2020/sample-paper-5/questions/s01-q30-i00.png" alt="papers/devonport-high-school-for-boys/2020/sample-paper-5/questions/s01-q30-i00.png" title="papers/devonport-high-school-for-boys/2020/sample-paper-5/questions/s01-q30-i00.png" data-slot="paper-image" data-kind="essential" data-size="normal" data-align="center" class="paper-image" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/devonport-high-school-for-boys/2020/paper-1/questions/s01-q30-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 How many of the following numbers should go into the shaded region?
 
@@ -6172,7 +6196,7 @@ $3 \quad 5 \quad 12 \quad 43 \quad 48$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">&lt;PaperImage kind="essential" /&gt;
+<pre class="language-latex"><code class="language-latex">&lt;PaperImage assetScope="question" kind="essential" /&gt;
 
 How many of the following numbers should go into the shaded region?
 
@@ -6227,7 +6251,9 @@ $
 
 The completed diagram is shown below.
 
-![missing image](/assets/papers/missing/missing_image.svg "papers/devonport-high-school-for-boys/2020/sample-paper-5/answers/manual/s01-q30-w01-i00.png")
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 </div>
@@ -6294,7 +6320,7 @@ $2$
 
 The completed diagram is shown below.
 
-&lt;WorkingImage kind="essential" /&gt;
+&lt;PaperImage assetScope="working" kind="essential" /&gt;
 
 &lt;/WorkingSection&gt;
 
@@ -6383,18 +6409,18 @@ Number of numbers in the shaded region &#36;= 2&#36;
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-31">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-31">
 <div class="uuid">
 <p>D03EBFAD-8157-4FB7-85A5-50C4D4410D21</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-30">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-32">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-30">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-32">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:31</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:31</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -6429,7 +6455,9 @@ marker.find-midpoint
 
 **Question**
 
-<img src="/assets/papers/devonport-high-school-for-boys/2020/sample-paper-5/questions/s01-q31-i00.png" alt="papers/devonport-high-school-for-boys/2020/sample-paper-5/questions/s01-q31-i00.png" title="papers/devonport-high-school-for-boys/2020/sample-paper-5/questions/s01-q31-i00.png" data-slot="paper-image" data-kind="essential" data-size="normal" data-align="center" class="paper-image" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/devonport-high-school-for-boys/2020/paper-1/questions/s01-q31-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 Which arrow is pointing at $2375?$
 
@@ -6438,7 +6466,7 @@ Which arrow is pointing at $2375?$
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">&lt;PaperImage kind="essential" /&gt;
+<pre class="language-latex"><code class="language-latex">&lt;PaperImage assetScope="question" kind="essential" /&gt;
 
 Which arrow is pointing at &#36;2375?&#36;
 </code></pre>
@@ -6582,18 +6610,18 @@ So the answer is &#36;C&#36;.
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-32">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-32">
 <div class="uuid">
 <p>EF5DCF10-9858-4EE4-8CC9-C59139A05556</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-31">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-33">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-31">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-33">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:32</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:32</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -6769,18 +6797,18 @@ $76.60$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-33">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-33">
 <div class="uuid">
 <p>9463F300-F509-4C89-9D36-52327C3A49BA</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-32">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-34">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-32">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-34">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:33</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:33</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -6971,18 +6999,18 @@ $30.282$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-34">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-34">
 <div class="uuid">
 <p>AE91E319-28CD-4E72-BACB-3D5D6A529FA0</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-33">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-35">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-33">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-35">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:34</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:34</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -7170,18 +7198,18 @@ $\pounds 4.54$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-35">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-35">
 <div class="uuid">
 <p>F481AB65-8DA5-410D-BAC7-FD0E1A610F97</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-34">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-36">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-34">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-36">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:35</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:35</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -7418,18 +7446,18 @@ Missing number &#36;= 1430&#36;
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-36">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-36">
 <div class="uuid">
 <p>5DEE6856-0BE6-44D7-A8F4-E9512AAE70C4</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-35">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-37">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-35">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-37">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:36</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:36</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -7459,7 +7487,9 @@ frame.labelled
 
 **Question**
 
-<img src="/assets/papers/devonport-high-school-for-boys/2020/sample-paper-5/questions/s01-q36-i00.png" alt="papers/devonport-high-school-for-boys/2020/sample-paper-5/questions/s01-q36-i00.png" title="papers/devonport-high-school-for-boys/2020/sample-paper-5/questions/s01-q36-i00.png" data-slot="paper-image" data-kind="essential" data-size="normal" data-align="center" class="paper-image" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/devonport-high-school-for-boys/2020/paper-1/questions/s01-q36-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 What is shaded area?
 
@@ -7468,7 +7498,7 @@ What is shaded area?
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">&lt;PaperImage kind="essential" /&gt;
+<pre class="language-latex"><code class="language-latex">&lt;PaperImage assetScope="question" kind="essential" /&gt;
 
 What is shaded area?
 </code></pre>
@@ -7627,18 +7657,18 @@ $29 \ \text{cm}^2$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-37">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-37">
 <div class="uuid">
 <p>19C91008-84E1-48B4-A95A-6E08266DDF33</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-36">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-38">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-36">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-38">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:37</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:37</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -7816,18 +7846,18 @@ $1 \dfrac {9} {10}$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-38">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-38">
 <div class="uuid">
 <p>78B273A1-70B3-40B5-A9B9-E8FA95A37234</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-37">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-39">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-37">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-39">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:38</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:38</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -8022,18 +8052,18 @@ $80$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-39">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-39">
 <div class="uuid">
 <p>4DB301EE-FBA7-4B16-9555-D99D9D2A51DC</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-38">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-40">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-38">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-40">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:39</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:39</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -8230,18 +8260,18 @@ $25 \ \text{minutes}$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-40">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-40">
 <div class="uuid">
 <p>531E3BC7-C9D8-4A66-AD98-C9130D5EE75C</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-39">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-41">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-39">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-41">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:40</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:40</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -8432,18 +8462,18 @@ $\pounds 18$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-41">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-41">
 <div class="uuid">
 <p>47B6EE64-52E6-4D80-A31E-F138941E6897</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-40">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-42">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-40">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-42">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:41</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:41</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -8702,18 +8732,18 @@ So for the &#36;40^\text{th}&#36; number, add &#36;3&#36; a total of &#36;40 - 1
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-42">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-42">
 <div class="uuid">
 <p>0D4F96D9-0F7A-42E7-A12A-FBC3567568CF</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-41">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-43">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-41">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-43">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:42</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:42</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -8957,18 +8987,18 @@ New volume &#36;= 96 \ \text{cm}^3&#36;
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-43">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-43">
 <div class="uuid">
 <p>8F284311-E84B-46BB-9357-8253847A7DBB</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-42">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-44">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-42">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-44">Next question</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:43</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:43</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -8998,7 +9028,9 @@ frame.labelled
 
 **Question**
 
-<img src="/assets/papers/devonport-high-school-for-boys/2020/sample-paper-5/questions/s01-q43-i00.png" alt="papers/devonport-high-school-for-boys/2020/sample-paper-5/questions/s01-q43-i00.png" title="papers/devonport-high-school-for-boys/2020/sample-paper-5/questions/s01-q43-i00.png" data-slot="paper-image" data-kind="essential" data-size="normal" data-align="center" class="paper-image" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/devonport-high-school-for-boys/2020/paper-1/questions/s01-q43-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 What is the perimeter of the shape above?
 
@@ -9007,7 +9039,7 @@ What is the perimeter of the shape above?
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">&lt;PaperImage kind="essential" /&gt;
+<pre class="language-latex"><code class="language-latex">&lt;PaperImage assetScope="question" kind="essential" /&gt;
 
 What is the perimeter of the shape above?
 </code></pre>
@@ -9158,17 +9190,17 @@ $3 a + 2 b$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-44">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-44">
 <div class="uuid">
 <p>46D8EC39-6DB3-4670-BF10-214CD634C665</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-1-43">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-43">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom">Bottom of page</a>
 </div>
 <div class="papername">
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:1:44</p>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--paper-1:1:44</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -9355,5 +9387,5 @@ $86400 \ \text {seconds}$
 </div>
 </li>
 </ul>
-<div id="page-devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5-bottom"></div>
+<div id="page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-bottom"></div>
 </div>

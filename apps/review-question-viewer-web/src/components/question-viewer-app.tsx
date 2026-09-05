@@ -709,11 +709,20 @@ function RawSource({ node }: { node: QuestionNode }) {
       <DebugBlock label="Question" value={node.content.raw.question} />
       {node.content.raw.workings.map((working, index) => (
         <div className="debug-grid" key={`working-${index}`}>
-          <DebugBlock
-            label={`Formulas ${index + 1}`}
-            value={working.formulas}
-          />
-          <DebugBlock label={`Tips ${index + 1}`} value={working.tips} />
+          {working.formulas.map((formula, itemIndex) => (
+            <DebugBlock
+              key={`formula-${itemIndex}`}
+              label={`Working ${index + 1} · Formula ${itemIndex + 1}`}
+              value={formula.formula}
+            />
+          ))}
+          {working.tips.map((tip, itemIndex) => (
+            <DebugBlock
+              key={`tip-${itemIndex}`}
+              label={`Working ${index + 1} · Tip ${itemIndex + 1}`}
+              value={tip.tip}
+            />
+          ))}
           <DebugBlock label={`Working ${index + 1}`} value={working.working} />
         </div>
       ))}

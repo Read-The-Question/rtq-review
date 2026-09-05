@@ -1,7 +1,7 @@
 ---
-slug: "papers/dulwich-college-11-plus-maths-undated-specimen-paper-a"
-title: "Dulwich College - 11 Plus - Maths - Undated - Specimen Paper A"
-date: 2026-08-12 22:31:31
+slug: "focustomlpapers/dulwich-college-11-plus-maths-undated-specimen-paper-a"
+title: "Focus Paper - Dulwich College - 11 Plus - Maths - Undated - Specimen Paper A"
+date: 2026-09-04 05:35:24
 questions_count: "23"
 ---
 <div class="paper" id="page-dulwich-college-11-plus-maths-undated-specimen-paper-a-top">
@@ -739,7 +739,7 @@ Calculate $2184 \div 7$.
 </div>
 <div class="paper-working-section-body">
 
-<div class="paper-long-division-alignment" data-align="start">
+<div class="paper-long-division-alignment" data-align="start" data-indent="none">
 <div role="img" aria-label="Long division of 2184 by 7" aria-describedby="long-division-dulwich-college-11-plus-maths-undated-specimen-paper-a-workings-generated-long-division-s01-q04-w01-ld00-bus-svg-description" data-slot="long-division" data-variant="bus" class="paper-long-division-viewport" style="--long-division-natural-width: 146px; --long-division-minimum-readable-width: 109.5px;">
 <div aria-hidden="true" class="paper-long-division-graphic"><svg aria-hidden="true" data-rtq-long-division-contract="1" focusable="false" height="77" viewBox="0 0 146 77" width="146" xmlns="http://www.w3.org/2000/svg">
   <g font-family="KaTeX_Main, &quot;Times New Roman&quot;, Times, serif">
@@ -770,7 +770,7 @@ Calculate $2184 \div 7$.
 </div>
 <div class="paper-working-section-body">
 
-<div class="paper-long-division-alignment" data-align="start">
+<div class="paper-long-division-alignment" data-align="start" data-indent="none">
 <div role="img" aria-label="Long division of 2184 by 7" aria-describedby="long-division-dulwich-college-11-plus-maths-undated-specimen-paper-a-workings-generated-long-division-s01-q04-w01-ld01-long-svg-description" data-slot="long-division" data-variant="long" class="paper-long-division-viewport" style="--long-division-natural-width: 142px; --long-division-minimum-readable-width: 106.5px;">
 <div aria-hidden="true" class="paper-long-division-graphic"><svg aria-hidden="true" data-rtq-long-division-contract="1" focusable="false" height="221" viewBox="0 0 142 221" width="142" xmlns="http://www.w3.org/2000/svg">
   <g font-family="KaTeX_Main, &quot;Times New Roman&quot;, Times, serif">
@@ -2284,7 +2284,9 @@ frame.draw
 
 Draw the reflection of this triangle in the mirror line shown.
 
-<img src="/assets/papers/dulwich-college/undated/specimen-paper-a/questions/s01-q08-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/dulwich-college/undated/specimen-paper-a/questions/s01-q08-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -2325,7 +2327,9 @@ Draw the reflection of this triangle in the mirror line shown.
 </div>
 <div class="paper-working-section-body">
 
-<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 </div>
@@ -2480,7 +2484,9 @@ math.graph
 
 The pie chart below represents data collected in a survey by a PE teacher about the favourtie sports of a sample of school children.
 
-<img src="/assets/papers/dulwich-college/undated/specimen-paper-a/questions/s01-q09-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/dulwich-college/undated/specimen-paper-a/questions/s01-q09-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -4253,7 +4259,9 @@ inherits parent tags: yes
 An equilateral triangle is divided into smaller equilateral triangles as shown below. State how many angles of $60\degree$ there 
 are in the diagram.
 
-<img src="/assets/papers/dulwich-college/undated/specimen-paper-a/questions/s01-q13-s01-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/dulwich-college/undated/specimen-paper-a/questions/s01-q13-s01-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -4385,7 +4393,9 @@ inherits parent tags: yes
 The diagram is now squashed to make the top angle $90\degree$, turning all the triangles into right-angled isosceles triangles. 
 Calculate how many acute angles there are in the diagram now.
 
-<img src="/assets/papers/dulwich-college/undated/specimen-paper-a/questions/s01-q13-s02-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/dulwich-college/undated/specimen-paper-a/questions/s01-q13-s02-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -4578,7 +4588,9 @@ math.graph
 
 On the axes below, point $A$ has coordinates $(3,1)$.
 
-<img src="/assets/papers/dulwich-college/undated/specimen-paper-a/questions/s01-q14-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/dulwich-college/undated/specimen-paper-a/questions/s01-q14-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -4848,7 +4860,9 @@ Plot the points with coordinates $(5,4)$ onto the axes and label it $B$.
 </div>
 <div class="paper-working-section-body">
 
-<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 </div>
@@ -4981,7 +4995,9 @@ Plot another point $D$, and then join $ABCD$ in that order so that you can form 
 </div>
 <div class="paper-working-section-body">
 
-<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 </div>
@@ -5287,7 +5303,9 @@ at the end of that row or column.
 | $\spadesuit$ | $14$         |   $?$       |  $+$ |
 
 
-<img src="/assets/papers/dulwich-college/undated/specimen-paper-a/questions/s01-q15-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/dulwich-college/undated/specimen-paper-a/questions/s01-q15-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 Work out the number that should replace the question mark.
 
@@ -6494,7 +6512,9 @@ inherits parent tags: yes
 
 Find the area of rectangle shown below.
 
-<img src="/assets/papers/dulwich-college/undated/specimen-paper-a/questions/s01-q17-s01-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/dulwich-college/undated/specimen-paper-a/questions/s01-q17-s01-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -6631,7 +6651,9 @@ inherits parent tags: yes
 
 George cuts the rectangle up into an exact number of right-angled triangles, each with sides as shown in the diagram below. 
 
-<img src="/assets/papers/dulwich-college/undated/specimen-paper-a/questions/s01-q17-s02-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/dulwich-college/undated/specimen-paper-a/questions/s01-q17-s02-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 Calculate the number of triangles that he cuts from the rectangle.
 
@@ -8708,7 +8730,9 @@ below a set of numbers. The lit-up numbers are added together to find the actual
 
 For example, the display below represents the time $05{:}26$ since: 
 
-<img src="/assets/papers/dulwich-college/undated/specimen-paper-a/questions/s01-q19-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/dulwich-college/undated/specimen-paper-a/questions/s01-q19-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -8826,7 +8850,9 @@ inherits parent tags: yes
 
 Write down the time (in $24{-}\text{hour}$ format) represented by the display:
 
-<img src="/assets/papers/dulwich-college/undated/specimen-paper-a/questions/s01-q19-s01-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/dulwich-college/undated/specimen-paper-a/questions/s01-q19-s01-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -8979,7 +9005,9 @@ inherits parent tags: yes
 
 Mark the grid below to show the time "a quarter to ten in the evening"
 
-<img src="/assets/papers/dulwich-college/undated/specimen-paper-a/questions/s01-q19-s02-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/dulwich-college/undated/specimen-paper-a/questions/s01-q19-s02-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -9041,7 +9069,9 @@ $
 </div>
 <div class="paper-working-section-body">
 
-<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 </div>
@@ -9146,8 +9176,12 @@ inherits parent tags: yes
 
 Calculate how long it is between the times displayed on watch A and watch B below:
 
-<img src="/assets/papers/dulwich-college/undated/specimen-paper-a/questions/s01-q19-s03-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
-<img src="/assets/papers/dulwich-college/undated/specimen-paper-a/questions/s01-q19-s03-i01.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/dulwich-college/undated/specimen-paper-a/questions/s01-q19-s03-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/dulwich-college/undated/specimen-paper-a/questions/s01-q19-s03-i01.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -10626,7 +10660,9 @@ Complete the table and bar chart for the students' findings.
 | Number of flowsers |     |        |   $72$   |
 
 
-<img src="/assets/papers/dulwich-college/undated/specimen-paper-a/questions/s01-q21-s04-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/dulwich-college/undated/specimen-paper-a/questions/s01-q21-s04-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -10714,7 +10750,9 @@ $
 </div>
 <div class="paper-working-section-body">
 
-<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 </div>
@@ -11210,7 +11248,9 @@ inherits parent tags: yes
 Shade in one more section of the grid below so that the overall shape has a single line of symmetry, marking your mirror line 
 on the diagram.
 
-<img src="/assets/papers/dulwich-college/undated/specimen-paper-a/questions/s01-q22-s01-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/dulwich-college/undated/specimen-paper-a/questions/s01-q22-s01-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -11254,7 +11294,9 @@ on the diagram.
 
 One valid completed diagram is shown below.
 
-<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 </div>
@@ -11352,7 +11394,9 @@ inherits parent tags: yes
 
 Now shade two sections in the second line grid so that the overall shape has an order of rotational symmetry of two.
 
-<img src="/assets/papers/dulwich-college/undated/specimen-paper-a/questions/s01-q22-s02-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/dulwich-college/undated/specimen-paper-a/questions/s01-q22-s02-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -11395,7 +11439,9 @@ Now shade two sections in the second line grid so that the overall shape has an 
 
 One valid completed diagram is shown below.
 
-<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 </div>
@@ -11559,7 +11605,9 @@ frame.algebra
 
 The diagram below is made from three squares.
 
-<img src="/assets/papers/dulwich-college/undated/specimen-paper-a/questions/s01-q23-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/dulwich-college/undated/specimen-paper-a/questions/s01-q23-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 Calculate the fraction of the larger square that is shaded, giving your answer in its lowest form.
 
@@ -11601,7 +11649,9 @@ Calculate the fraction of the larger square that is shaded, giving your answer i
 <div class="paper-working-section" data-phase="setup" style="margin: 1rem 0;">
 <div class="paper-working-section-body">
 
-<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 </div>

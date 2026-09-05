@@ -1,10 +1,10 @@
 ---
-slug: "focustomlpapers/bancrofts-school-11-plus-maths-2018-sample-paper-4"
-title: "Focus Paper - Bancrofts School - 11 Plus - Maths - 2018 - Sample Paper 4"
-date: 2026-05-31 13:14:27
+slug: "focustomlpapers/bancrofts-school-11-plus-maths-2018-paper-1"
+title: "Focus Paper - Bancrofts School - 11 Plus - Maths - 2018 - Paper 1"
+date: 2026-09-04 05:35:24
 questions_count: "37"
 ---
-<div class="paper" id="page-bancrofts-school-11-plus-maths-2018-sample-paper-4-top">
+<div class="paper" id="page-bancrofts-school-11-plus-maths-2018-paper-1-top">
 <div class="meta">
 <h3>co-ed</h3>
 <h3>independent</h3>
@@ -16,18 +16,18 @@ questions_count: "37"
 # Section A
 <ul class="question decimal question_type_question list_type_decimal">
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-1">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-1">
 <div class="uuid">
 <p>9DDC6BED-46F5-4D58-8398-4817F0CC7992</p>
 </div>
 <div class="question-nav">
 <span class="question-nav-spacer"></span>
-<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-2">Next question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-2">Next question</a>
 </div>
 <div class="papername">
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:1</p>
+<p>bancrofts-school--11-plus--maths--2018--paper-1:1:1</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -141,7 +141,7 @@ Fill in the missing numbers in the boxes.
 </div>
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-1-1">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-1-1">
 <div class="uuid">
 <p>11296419-9DA2-47C9-84E2-2C848A3CD60C</p>
 </div>
@@ -264,7 +264,7 @@ $29$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-1-2">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-1-2">
 <div class="uuid">
 <p>41507366-BC61-4D05-AE3E-63FBA754E6D1</p>
 </div>
@@ -393,7 +393,7 @@ $1$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-1-3">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-1-3">
 <div class="uuid">
 <p>7CF20FF2-96EC-45BD-9F37-F591AD4C2C76</p>
 </div>
@@ -516,7 +516,7 @@ $26$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-1-4">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-1-4">
 <div class="uuid">
 <p>D1E7F8E8-8F43-4CB2-B0B6-D313C1548660</p>
 </div>
@@ -705,7 +705,7 @@ Missing number &#36;= 90&#36;
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-1-5">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-1-5">
 <div class="uuid">
 <p>F5336389-C602-4D50-AB57-CAED950F5FE6</p>
 </div>
@@ -834,7 +834,7 @@ $27$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-1-6">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-1-6">
 <div class="uuid">
 <p>9B8CBFC7-CDC0-4F00-A289-9C40892D9C35</p>
 </div>
@@ -1005,18 +1005,18 @@ $2000202$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-2">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-2">
 <div class="uuid">
 <p>4EC513E6-3767-4725-924F-C36F3605A1EC</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-1">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-3">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-1">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-3">Next question</a>
 </div>
 <div class="papername">
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:2</p>
+<p>bancrofts-school--11-plus--maths--2018--paper-1:1:2</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -1249,18 +1249,18 @@ $6084$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-3">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-3">
 <div class="uuid">
 <p>6111C775-4A87-420C-8E16-F677E36D388B</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-2">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-4">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-2">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-4">Next question</a>
 </div>
 <div class="papername">
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:3</p>
+<p>bancrofts-school--11-plus--maths--2018--paper-1:1:3</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -1444,18 +1444,18 @@ $252$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-4">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-4">
 <div class="uuid">
 <p>CF1E7CDC-3922-4B3A-9CB3-10DD08EE6B12</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-3">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-5">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-3">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-5">Next question</a>
 </div>
 <div class="papername">
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:4</p>
+<p>bancrofts-school--11-plus--maths--2018--paper-1:1:4</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -1704,18 +1704,18 @@ $34306$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-5">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-5">
 <div class="uuid">
 <p>5076E85F-CDAE-4C5E-851D-F9C834A45C1D</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-4">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-6">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-4">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-6">Next question</a>
 </div>
 <div class="papername">
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:5</p>
+<p>bancrofts-school--11-plus--maths--2018--paper-1:1:5</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -1948,18 +1948,18 @@ $19980$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-6">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-6">
 <div class="uuid">
 <p>83454B20-311E-430C-9641-E9F905AD3D6D</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-5">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-7">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-5">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-7">Next question</a>
 </div>
 <div class="papername">
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:6</p>
+<p>bancrofts-school--11-plus--maths--2018--paper-1:1:6</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -2073,7 +2073,7 @@ frame.algebra
 </div>
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-6-1">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-6-1">
 <div class="uuid">
 <p>17810920-2C2C-42B9-874D-B2DC350BE7EC</p>
 </div>
@@ -2263,7 +2263,7 @@ Original number &#36;= 42&#36;
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-6-2">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-6-2">
 <div class="uuid">
 <p>56FEBE54-E0CB-4874-95AE-BCC618D06A25</p>
 </div>
@@ -2514,7 +2514,7 @@ If &#36;20 \%&#36; of the remaining money is spent on the DVD, then the money le
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-6-3">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-6-3">
 <div class="uuid">
 <p>366E88DF-3B56-4777-A89B-692B970A4086</p>
 </div>
@@ -2711,18 +2711,18 @@ $40$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-7">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-7">
 <div class="uuid">
 <p>C942A2E9-4BD9-454B-B6DC-E415C263EBE7</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-6">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-8">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-6">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-8">Next question</a>
 </div>
 <div class="papername">
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:7</p>
+<p>bancrofts-school--11-plus--maths--2018--paper-1:1:7</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -2836,7 +2836,7 @@ frame.algebra
 </div>
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-7-1">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-7-1">
 <div class="uuid">
 <p>66F5449E-D0CF-4E02-BD4A-FAC3D5E296B1</p>
 </div>
@@ -3036,7 +3036,7 @@ a                                       &= 20
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-7-2">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-7-2">
 <div class="uuid">
 <p>E105D0BF-3567-424F-8D6B-7E265D889CB8</p>
 </div>
@@ -3269,18 +3269,18 @@ $60$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-8">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-8">
 <div class="uuid">
 <p>ADAF00B9-1086-4F89-8082-E1D61B9BC3EC</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-7">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-9">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-7">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-9">Next question</a>
 </div>
 <div class="papername">
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:8</p>
+<p>bancrofts-school--11-plus--maths--2018--paper-1:1:8</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -3446,18 +3446,18 @@ $\text{square}$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-9">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-9">
 <div class="uuid">
 <p>7D88A99B-2884-41F7-AFBF-593C0094BC10</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-8">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-10">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-8">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-10">Next question</a>
 </div>
 <div class="papername">
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:9</p>
+<p>bancrofts-school--11-plus--maths--2018--paper-1:1:9</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -3699,18 +3699,18 @@ Smallest angle &#36;= 35 \degree&#36;
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-10">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-10">
 <div class="uuid">
 <p>3DD6D360-E092-4DA6-9AFD-F6B09BD06BB3</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-9">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-11">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-9">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-11">Next question</a>
 </div>
 <div class="papername">
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:10</p>
+<p>bancrofts-school--11-plus--maths--2018--paper-1:1:10</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -3824,7 +3824,7 @@ math.number.fraction
 </div>
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-10-1">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-10-1">
 <div class="uuid">
 <p>E41FE1E0-0B73-41AC-9750-45AFB4543915</p>
 </div>
@@ -3852,8 +3852,10 @@ inherits parent tags: yes
 **Question**
 
 
+
 |  $\dfrac{3}{4}$  |  $\dfrac{2}{3}$  |  $\dfrac{7}{10}$  |
-|:----------------:|:----------------:|:-----------------:|
+|----------------|----------------|-----------------|
+
 
 For the three fractions in the table above, write down:
 
@@ -3863,8 +3865,12 @@ For the three fractions in the table above, write down:
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
 <pre class="language-latex"><code class="language-latex">
+&lt;PaperTable&gt;
+
 |  &#36;\dfrac{3}{4}&#36;  |  &#36;\dfrac{2}{3}&#36;  |  &#36;\dfrac{7}{10}&#36;  |
-|:----------------:|:----------------:|:-----------------:|
+|----------------|----------------|-----------------|
+
+&lt;/PaperTable&gt;
 
 For the three fractions in the table above, write down:
 </code></pre>
@@ -3948,7 +3954,7 @@ For the three fractions in the table above, write down:
 </div>
 <ul class="subsubquestion lower-roman question_type_subsubquestion list_type_lower-roman">
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subsubquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-10-1-1">
+<div class="question_envelope rag_not_found subsubquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-10-1-1">
 <div class="uuid">
 <p>F49C1789-2A8A-47C0-BF32-3ECF4D178F5C</p>
 </div>
@@ -4119,7 +4125,7 @@ rtq_abbr_working_note_md_torder_compare_as_fractions
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subsubquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-10-1-2">
+<div class="question_envelope rag_not_found subsubquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-10-1-2">
 <div class="uuid">
 <p>AF69F6BE-6F3E-4B76-8A1A-1DD38B2639BB</p>
 </div>
@@ -4256,7 +4262,7 @@ Using the comparison above,
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-10-2">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-10-2">
 <div class="uuid">
 <p>2365BFC9-B745-4C99-AC80-3CC221D695E5</p>
 </div>
@@ -4444,18 +4450,18 @@ $0.05$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-11">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-11">
 <div class="uuid">
 <p>28F11153-7BAB-4998-8DC0-B28FFACC0C27</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-10">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-12">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-10">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-12">Next question</a>
 </div>
 <div class="papername">
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:11</p>
+<p>bancrofts-school--11-plus--maths--2018--paper-1:1:11</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -4574,7 +4580,7 @@ marker.find-complement
 </div>
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-11-1">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-11-1">
 <div class="uuid">
 <p>A5A4ED24-1CBF-4EA7-8B89-B6027CAB7DC9</p>
 </div>
@@ -4790,7 +4796,7 @@ a                                       &= 640 \ \text{ml}
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-11-2">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-11-2">
 <div class="uuid">
 <p>1F9E1834-A5DC-4ED2-BD55-2999B6E028EB</p>
 </div>
@@ -4812,7 +4818,9 @@ inherits parent tags: no
 
 **Question**
 
-<img src="/assets/papers/bancrofts-school/2018/sample-paper-4/questions/s01-q11-s02-i00.png" alt="papers/bancrofts-school/2018/sample-paper-4/questions/s01-q11-s02-i00.png" title="papers/bancrofts-school/2018/sample-paper-4/questions/s01-q11-s02-i00.png" data-slot="paper-image" data-kind="essential" data-size="normal" data-align="center" class="paper-image" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/bancrofts-school/2018/paper-1/questions/s01-q11-s02-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 In the diagram, the small squares are all the same size.
 
@@ -4823,7 +4831,7 @@ What fraction of the large square is shaded?
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">&lt;PaperImage kind="essential" /&gt;
+<pre class="language-latex"><code class="language-latex">&lt;PaperImage assetScope="question" kind="essential" /&gt;
 
 In the diagram, the small squares are all the same size.
 
@@ -5046,18 +5054,18 @@ The unshaded part is made from whole small squares, half small squares, and quar
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-12">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-12">
 <div class="uuid">
 <p>2C3445E3-1339-4624-8B1D-200B7F496333</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-11">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-13">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-11">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-13">Next question</a>
 </div>
 <div class="papername">
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:12</p>
+<p>bancrofts-school--11-plus--maths--2018--paper-1:1:12</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -5171,7 +5179,7 @@ family.money
 </div>
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-12-1">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-12-1">
 <div class="uuid">
 <p>B9DD81BE-F989-4D6D-8AB0-D77DD9E453D0</p>
 </div>
@@ -5304,7 +5312,7 @@ $\pounds 1.50$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-12-2">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-12-2">
 <div class="uuid">
 <p>A205AD1C-7F35-42EE-93E8-6274A374126F</p>
 </div>
@@ -5438,7 +5446,7 @@ $\pounds 19.10$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-12-3">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-12-3">
 <div class="uuid">
 <p>8296BC2C-3FD5-4515-8548-03B66572A030</p>
 </div>
@@ -5628,18 +5636,18 @@ $371$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-13">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-13">
 <div class="uuid">
 <p>6CA252EE-65FB-4D96-9B03-601BC74EC9D6</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-12">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-14">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-12">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-14">Next question</a>
 </div>
 <div class="papername">
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:13</p>
+<p>bancrofts-school--11-plus--maths--2018--paper-1:1:13</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -5753,7 +5761,7 @@ What is the missing number in each of these sequences?
 </div>
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-13-1">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-13-1">
 <div class="uuid">
 <p>F5C9AA20-CE3C-426E-9377-09E802454ED3</p>
 </div>
@@ -5945,7 +5953,7 @@ Multiply by &#36;2&#36; each time.
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-13-2">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-13-2">
 <div class="uuid">
 <p>19DD16ED-9EA1-4218-B253-E15CC2EB03B2</p>
 </div>
@@ -6192,18 +6200,18 @@ Add &#36;10&#36;, then &#36;11&#36;, then &#36;12&#36;, and so on.
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-14">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-14">
 <div class="uuid">
 <p>101CD6E7-B069-41B4-83B5-740A3C93D12F</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-13">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-15">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-13">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-15">Next question</a>
 </div>
 <div class="papername">
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:14</p>
+<p>bancrofts-school--11-plus--maths--2018--paper-1:1:14</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -6389,18 +6397,18 @@ $625$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_comingsoon rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-15">
+<div class="question_envelope rag_comingsoon rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-15">
 <div class="uuid">
 <p>10C3D4A5-02E5-4427-A58E-9628A73C9401</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-14">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-16">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-14">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-16">Next question</a>
 </div>
 <div class="papername">
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:15</p>
+<p>bancrofts-school--11-plus--maths--2018--paper-1:1:15</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -6528,7 +6536,7 @@ A pattern that repeats every six symbols starts like ths:
 </div>
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-15-1">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-15-1">
 <div class="uuid">
 <p>D37FDFBD-5FE8-4D08-BB9D-1C37F8AFF081</p>
 </div>
@@ -6678,7 +6686,7 @@ $\heartsuit$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-15-2">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-15-2">
 <div class="uuid">
 <p>1AE0D7FA-3A44-4009-9A2B-A3980D34E4F7</p>
 </div>
@@ -6881,18 +6889,18 @@ $\triangle$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-16">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-16">
 <div class="uuid">
 <p>467D299E-BAD8-4165-BD63-C03F6DC8D7F9</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-15">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-17">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-15">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-17">Next question</a>
 </div>
 <div class="papername">
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:16</p>
+<p>bancrofts-school--11-plus--maths--2018--paper-1:1:16</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -7080,18 +7088,18 @@ $78$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-17">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-17">
 <div class="uuid">
 <p>B88B1815-76F6-4987-A529-A31EC2A3A231</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-16">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-18">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-16">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-18">Next question</a>
 </div>
 <div class="papername">
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:17</p>
+<p>bancrofts-school--11-plus--maths--2018--paper-1:1:17</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -7205,7 +7213,7 @@ math.time
 </div>
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-17-1">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-17-1">
 <div class="uuid">
 <p>DDF20C9A-F564-4D8D-917E-2118F39F30B7</p>
 </div>
@@ -7336,7 +7344,7 @@ $1{:}25 \ \text{pm}$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-17-2">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-17-2">
 <div class="uuid">
 <p>A1DCE34F-C21A-4D63-9C13-54724B7AE22E</p>
 </div>
@@ -7465,7 +7473,7 @@ $732 \text{ minutes}$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-17-3">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-17-3">
 <div class="uuid">
 <p>4C31973B-B38E-477D-9BB4-7FEE26099EA6</p>
 </div>
@@ -7634,7 +7642,7 @@ On his next birthday, Archie will be &#36;23&#36; years old.
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-17-4">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-17-4">
 <div class="uuid">
 <p>D42CB5F3-0921-4E56-A6D8-6AABE91AD742</p>
 </div>
@@ -7858,18 +7866,18 @@ $8 \text{th March } 2018$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-18">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-18">
 <div class="uuid">
 <p>96E4D382-E87F-40DE-878C-2BB8D149A8FE</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-17">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-19">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-17">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-19">Next question</a>
 </div>
 <div class="papername">
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:18</p>
+<p>bancrofts-school--11-plus--maths--2018--paper-1:1:18</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -8093,18 +8101,18 @@ Opposite faces of a cube do not have an edge in common, so opposite faces can be
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_comingsoon rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-19">
+<div class="question_envelope rag_comingsoon rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-19">
 <div class="uuid">
 <p>ED0AEB7E-05C4-4E68-8D81-D103AB0D0959</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-18">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-20">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-18">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-20">Next question</a>
 </div>
 <div class="papername">
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:19</p>
+<p>bancrofts-school--11-plus--maths--2018--paper-1:1:19</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -8185,7 +8193,9 @@ The large cube is cut into $8$ equal smaller cubes.
 
 Each smaller cube is a corner cube with $3$ outside faces painted blue.
 
-![missing image](/assets/papers/missing/missing_image.svg "papers/bancrofts-school/2018/sample-paper-4/answers/manual/s01-q19-w01-i00.png")
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 </div>
@@ -8246,7 +8256,7 @@ The large cube is cut into &#36;8&#36; equal smaller cubes.
 
 Each smaller cube is a corner cube with &#36;3&#36; outside faces painted blue.
 
-&lt;WorkingImage kind="essential" /&gt;
+&lt;PaperImage assetScope="working" kind="essential" /&gt;
 
 &lt;/WorkingSection&gt;
 
@@ -8340,18 +8350,18 @@ rtq_abbr_working_md_opener_diagram
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-20">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-20">
 <div class="uuid">
 <p>2435DACD-2A4E-4356-9B51-B7EB491D9F2D</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-19">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-21">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-19">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-21">Next question</a>
 </div>
 <div class="papername">
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:20</p>
+<p>bancrofts-school--11-plus--maths--2018--paper-1:1:20</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -8589,18 +8599,18 @@ Current direction &#36;= \text{North West}&#36;
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-21">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-21">
 <div class="uuid">
 <p>A954B032-59C4-4BB1-9D4E-4ADF3315E888</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-20">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-22">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-20">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-22">Next question</a>
 </div>
 <div class="papername">
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:21</p>
+<p>bancrofts-school--11-plus--maths--2018--paper-1:1:21</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -8714,7 +8724,7 @@ family.money
 </div>
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-21-1">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-21-1">
 <div class="uuid">
 <p>614968DA-2428-4F31-84E0-8E14437C541D</p>
 </div>
@@ -8913,7 +8923,7 @@ Cost of an adult ticket &#36;= \pounds 12&#36;
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-21-2">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-21-2">
 <div class="uuid">
 <p>D9344A48-4A8B-4F20-9609-4E18D57575CD</p>
 </div>
@@ -9085,7 +9095,7 @@ If the price is reduced by &#36;15 \%&#36;, then the sale price will be &#36;100
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-21-3">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-21-3">
 <div class="uuid">
 <p>195CE214-F740-46EE-B38D-29D4DFE4CBAD</p>
 </div>
@@ -9352,18 +9362,18 @@ a                           &= 8
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-22">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-22">
 <div class="uuid">
 <p>ACBAF178-BDF9-4247-936C-A5729B32A986</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-21">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-23">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-21">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-23">Next question</a>
 </div>
 <div class="papername">
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:22</p>
+<p>bancrofts-school--11-plus--maths--2018--paper-1:1:22</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -9397,7 +9407,9 @@ A cube has each of its faces covered by one face of an identical cube, making th
 
 The volume of the solid shape is $875 \ \text{cm}^3$. 
 
-<img src="/assets/papers/bancrofts-school/2018/sample-paper-4/questions/s01-q22-i00.png" alt="papers/bancrofts-school/2018/sample-paper-4/questions/s01-q22-i00.png" title="papers/bancrofts-school/2018/sample-paper-4/questions/s01-q22-i00.png" data-slot="paper-image" data-kind="essential" data-size="normal" data-align="center" class="paper-image" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/bancrofts-school/2018/paper-1/questions/s01-q22-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -9408,7 +9420,7 @@ The volume of the solid shape is $875 \ \text{cm}^3$.
 
 The volume of the solid shape is &#36;875 \ \text{cm}^3&#36;. 
 
-&lt;PaperImage kind="essential" /&gt;
+&lt;PaperImage assetScope="question" kind="essential" /&gt;
 </code></pre>
 </div>
 <div class="workings">
@@ -9490,7 +9502,7 @@ The volume of the solid shape is &#36;875 \ \text{cm}^3&#36;.
 </div>
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-22-1">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-22-1">
 <div class="uuid">
 <p>B4C7879E-8311-420E-95C0-732C52E6BE5D</p>
 </div>
@@ -9656,7 +9668,7 @@ A cube has &#36;6&#36; faces, so the solid is made from &#36;1 + 6 = 7&#36; cube
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-22-2">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-22-2">
 <div class="uuid">
 <p>386DDC3A-63DE-410D-9D44-A5D164A0E999</p>
 </div>
@@ -9842,18 +9854,18 @@ $5 \ \text{cm}$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-23">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-23">
 <div class="uuid">
 <p>9C4DD667-B89F-45F0-8B55-CE1C9121AFE8</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-22">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-24">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-22">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-24">Next question</a>
 </div>
 <div class="papername">
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:23</p>
+<p>bancrofts-school--11-plus--maths--2018--paper-1:1:23</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -9897,11 +9909,15 @@ The card is **grey** on the front and **black** on the back.
 
 When piece $A$ is turned over, which one of the shapes below shows its **black** side?
 
-<img src="/assets/papers/bancrofts-school/2018/sample-paper-4/questions/s01-q23-i00.png" alt="papers/bancrofts-school/2018/sample-paper-4/questions/s01-q23-i00.png" title="papers/bancrofts-school/2018/sample-paper-4/questions/s01-q23-i00.png" data-slot="paper-image" data-kind="essential" data-size="normal" data-align="center" class="paper-image" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/bancrofts-school/2018/paper-1/questions/s01-q23-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 Put a ring around the correct answer.
 
-<img src="/assets/papers/bancrofts-school/2018/sample-paper-4/questions/s01-q23-i01.png" alt="papers/bancrofts-school/2018/sample-paper-4/questions/s01-q23-i01.png" title="papers/bancrofts-school/2018/sample-paper-4/questions/s01-q23-i01.png" data-slot="paper-image" data-kind="essential" data-size="normal" data-align="center" class="paper-image" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/bancrofts-school/2018/paper-1/questions/s01-q23-i01.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -9912,11 +9928,11 @@ Put a ring around the correct answer.
 
 When piece &#36;A&#36; is turned over, which one of the shapes below shows its **black** side?
 
-&lt;PaperImage kind="essential" /&gt;
+&lt;PaperImage assetScope="question" kind="essential" /&gt;
 
 Put a ring around the correct answer.
 
-&lt;PaperImage kind="essential" /&gt;
+&lt;PaperImage assetScope="question" kind="essential" /&gt;
 </code></pre>
 </div>
 <div class="workings">
@@ -10088,18 +10104,18 @@ Correct shape &#36;= D&#36;
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-24">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-24">
 <div class="uuid">
 <p>43F84204-42F8-4724-B79B-7274620519B8</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-23">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-25">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-23">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-25">Next question</a>
 </div>
 <div class="papername">
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:24</p>
+<p>bancrofts-school--11-plus--maths--2018--paper-1:1:24</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -10138,7 +10154,9 @@ Maria and Kay ran a $1500 \ \text{metres}$ race.
 
 The graph shows information about the race.
 
-<img src="/assets/papers/bancrofts-school/2018/sample-paper-4/questions/s01-q24-i00.png" alt="papers/bancrofts-school/2018/sample-paper-4/questions/s01-q24-i00.png" title="papers/bancrofts-school/2018/sample-paper-4/questions/s01-q24-i00.png" data-slot="paper-image" data-kind="essential" data-size="normal" data-align="center" class="paper-image" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/bancrofts-school/2018/paper-1/questions/s01-q24-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -10149,7 +10167,7 @@ The graph shows information about the race.
 
 The graph shows information about the race.
 
-&lt;PaperImage kind="essential" /&gt;
+&lt;PaperImage assetScope="question" kind="essential" /&gt;
 </code></pre>
 </div>
 <div class="workings">
@@ -10231,7 +10249,7 @@ The graph shows information about the race.
 </div>
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-24-1">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-24-1">
 <div class="uuid">
 <p>EC7B032E-120A-45C6-A262-6DABCD5A3927</p>
 </div>
@@ -10398,7 +10416,7 @@ Kay is in the lead from &#36;2&#36; minutes to &#36;5&#36; minutes.
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-24-2">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-24-2">
 <div class="uuid">
 <p>C225ABCB-D8E7-4607-9A4C-486DCC3C62FF</p>
 </div>
@@ -10525,7 +10543,7 @@ They were level after &#36;600 \ \text{metres}&#36; and &#36;1200 \ \text{metres
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-24-3">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-24-3">
 <div class="uuid">
 <p>86A435AB-6BF2-4DB3-A45D-89AB66D2708D</p>
 </div>
@@ -10705,18 +10723,18 @@ Maria won the race.
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-25">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-25">
 <div class="uuid">
 <p>4FB1D7BF-3C08-4A1D-BD2C-F4A81A703C74</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-24">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-26">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-24">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-26">Next question</a>
 </div>
 <div class="papername">
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:25</p>
+<p>bancrofts-school--11-plus--maths--2018--paper-1:1:25</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -10755,7 +10773,9 @@ The diagram shows the coordinates of three points $A, B$ and $C$.
 
 Shape $ABCD$ is a kite.
 
-<img src="/assets/papers/bancrofts-school/2018/sample-paper-4/questions/s01-q25-i00.png" alt="papers/bancrofts-school/2018/sample-paper-4/questions/s01-q25-i00.png" title="papers/bancrofts-school/2018/sample-paper-4/questions/s01-q25-i00.png" data-slot="paper-image" data-kind="essential" data-size="normal" data-align="center" class="paper-image" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/bancrofts-school/2018/paper-1/questions/s01-q25-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 What are the coordinated of point $D$?
 
@@ -10768,7 +10788,7 @@ What are the coordinated of point $D$?
 
 Shape &#36;ABCD&#36; is a kite.
 
-&lt;PaperImage kind="essential" /&gt;
+&lt;PaperImage assetScope="question" kind="essential" /&gt;
 
 What are the coordinated of point &#36;D&#36;?
 </code></pre>
@@ -10981,18 +11001,18 @@ So &#36;D = (5, 2)&#36;.
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-26">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-26">
 <div class="uuid">
 <p>C507590F-A02C-4460-82D7-E935ED9CB61C</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-25">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-27">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-25">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-27">Next question</a>
 </div>
 <div class="papername">
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:26</p>
+<p>bancrofts-school--11-plus--maths--2018--paper-1:1:26</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -11310,24 +11330,24 @@ Number of triangles equal to one diamond &#36;= 6&#36;
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng2 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-27">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-27">
 <div class="uuid">
 <p>22706088-179E-4797-A8FB-6900DD74BDC2</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-26">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-28">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-26">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-28">Next question</a>
 </div>
 <div class="papername">
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:27</p>
+<p>bancrofts-school--11-plus--maths--2018--paper-1:1:27</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng2</p>
+<p>rag_wf_ng3</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -11616,44 +11636,44 @@ Number of maltesers &#36;= 27&#36;
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="22706088-179E-4797-A8FB-6900DD74BDC2" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="22706088-179E-4797-A8FB-6900DD74BDC2" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="22706088-179E-4797-A8FB-6900DD74BDC2" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="22706088-179E-4797-A8FB-6900DD74BDC2" onclick="submitReview(event)">PRPCC</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="22706088-179E-4797-A8FB-6900DD74BDC2" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="22706088-179E-4797-A8FB-6900DD74BDC2" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="22706088-179E-4797-A8FB-6900DD74BDC2" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="22706088-179E-4797-A8FB-6900DD74BDC2" onclick="submitReview(event)">PRG2</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="22706088-179E-4797-A8FB-6900DD74BDC2" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="22706088-179E-4797-A8FB-6900DD74BDC2" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="22706088-179E-4797-A8FB-6900DD74BDC2" onclick="submitReview(event)">PRPCR</button>
+<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="22706088-179E-4797-A8FB-6900DD74BDC2" onclick="submitReview(event)">PRPCR</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="22706088-179E-4797-A8FB-6900DD74BDC2" onclick="submitReview(event)">PRRL</button>
+<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="22706088-179E-4797-A8FB-6900DD74BDC2" onclick="submitReview(event)">PRRL</button>
 </li>
 <li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="22706088-179E-4797-A8FB-6900DD74BDC2" onclick="submitReview(event)">PRR</button>
+<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="22706088-179E-4797-A8FB-6900DD74BDC2" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="22706088-179E-4797-A8FB-6900DD74BDC2" onclick="submitReview(event)">PRBD</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="22706088-179E-4797-A8FB-6900DD74BDC2" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="22706088-179E-4797-A8FB-6900DD74BDC2" onclick="submitReview(event)">PRCS</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="22706088-179E-4797-A8FB-6900DD74BDC2" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="22706088-179E-4797-A8FB-6900DD74BDC2" onclick="submitReview(event)">PRCT</button>
+<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="22706088-179E-4797-A8FB-6900DD74BDC2" onclick="submitReview(event)">PRCT</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="22706088-179E-4797-A8FB-6900DD74BDC2" onclick="resetComment(event)">Reset Comments</button>
+<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="22706088-179E-4797-A8FB-6900DD74BDC2" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="22706088-179E-4797-A8FB-6900DD74BDC2" id="FORM-22706088-179E-4797-A8FB-6900DD74BDC2" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="22706088-179E-4797-A8FB-6900DD74BDC2" id="FORM-22706088-179E-4797-A8FB-6900DD74BDC2" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -11665,18 +11685,18 @@ Number of maltesers &#36;= 27&#36;
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-28">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-28">
 <div class="uuid">
 <p>1F2A781A-1A7C-4F8B-BBA7-B4DD6CE8A1EF</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-27">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-29">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-27">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-29">Next question</a>
 </div>
 <div class="papername">
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:28</p>
+<p>bancrofts-school--11-plus--maths--2018--paper-1:1:28</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -11712,11 +11732,13 @@ Three attempts have been made and are shown below, with the number of discs that
 
 What is the correct order for the three coloured discs?
 
+
 |  POSITION 1  |  POSITION 2  |  POSITION 3  |  POSITION 4  |
-|:------------:|:------------:|:------------:|:------------:|
+|------------|------------|------------|------------|
 |     Red      |     Blue     |    Green     |      One     |
 |     Red      |     Green    |     Blue     |     None     |
 |     Green    |     Blue     |      Red     |     None     |
+
 
 
 </div>
@@ -11730,11 +11752,15 @@ Three attempts have been made and are shown below, with the number of discs that
 
 What is the correct order for the three coloured discs?
 
+&lt;PaperTable&gt;
+
 |  POSITION 1  |  POSITION 2  |  POSITION 3  |  POSITION 4  |
-|:------------:|:------------:|:------------:|:------------:|
+|------------|------------|------------|------------|
 |     Red      |     Blue     |    Green     |      One     |
 |     Red      |     Green    |     Blue     |     None     |
 |     Green    |     Blue     |      Red     |     None     |
+
+&lt;/PaperTable&gt;
 
 </code></pre>
 </div>
@@ -11942,18 +11968,18 @@ The correct order is Blue, Red, Green.
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-29">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-29">
 <div class="uuid">
 <p>5C40F174-3264-4060-8E9E-DE9D82B301EC</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-28">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-30">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-28">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-30">Next question</a>
 </div>
 <div class="papername">
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:29</p>
+<p>bancrofts-school--11-plus--maths--2018--paper-1:1:29</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -12072,7 +12098,7 @@ Given that $44 \times 382 = 16808$, use this information to work these out:
 </div>
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-29-1">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-29-1">
 <div class="uuid">
 <p>C99C7FC4-F417-47C0-ADB2-93581F5EF22A</p>
 </div>
@@ -12206,7 +12232,7 @@ $44$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-29-2">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-29-2">
 <div class="uuid">
 <p>84F1E14A-1F83-4C4D-BBE9-B03E79E60135</p>
 </div>
@@ -12338,7 +12364,7 @@ $16808$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-29-3">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-29-3">
 <div class="uuid">
 <p>9D2D35BC-82D3-45D6-AAE8-BF2AE0D37104</p>
 </div>
@@ -12531,18 +12557,18 @@ $38.2$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-30">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-paper-1-1-30">
 <div class="uuid">
 <p>BD3B9572-8926-4E64-9F5B-9DFF25ABA577</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-29">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-2-1">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-29">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-2-1">Next question</a>
 </div>
 <div class="papername">
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:30</p>
+<p>bancrofts-school--11-plus--maths--2018--paper-1:1:30</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -12581,8 +12607,12 @@ The diagram shows a pentagonal prism.
 
 Write the letter of the one shape below that is a net for the pentagonal prism.
 
-<img src="/assets/papers/bancrofts-school/2018/sample-paper-4/questions/s01-q30-i00.png" alt="papers/bancrofts-school/2018/sample-paper-4/questions/s01-q30-i00.png" title="papers/bancrofts-school/2018/sample-paper-4/questions/s01-q30-i00.png" data-slot="paper-image" data-kind="essential" data-size="normal" data-align="center" class="paper-image" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
-<img src="/assets/papers/bancrofts-school/2018/sample-paper-4/questions/s01-q30-i01.png" alt="papers/bancrofts-school/2018/sample-paper-4/questions/s01-q30-i01.png" title="papers/bancrofts-school/2018/sample-paper-4/questions/s01-q30-i01.png" data-slot="paper-image" data-kind="essential" data-size="normal" data-align="center" class="paper-image" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/bancrofts-school/2018/paper-1/questions/s01-q30-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/bancrofts-school/2018/paper-1/questions/s01-q30-i01.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -12593,8 +12623,8 @@ Write the letter of the one shape below that is a net for the pentagonal prism.
 
 Write the letter of the one shape below that is a net for the pentagonal prism.
 
-&lt;PaperImage kind="essential" /&gt;
-&lt;PaperImage kind="essential" /&gt;
+&lt;PaperImage assetScope="question" kind="essential" /&gt;
+&lt;PaperImage assetScope="question" kind="essential" /&gt;
 </code></pre>
 </div>
 <div class="workings">
@@ -12805,18 +12835,18 @@ The correct net is D.
 # Section D
 <ul class="question decimal question_type_question list_type_decimal">
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-2-1">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-paper-1-2-1">
 <div class="uuid">
 <p>90AB10AD-2DC4-4437-A8A1-15ADD1B592E6</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-1-30">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-2-2">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-1-30">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-2-2">Next question</a>
 </div>
 <div class="papername">
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:2:1</p>
+<p>bancrofts-school--11-plus--maths--2018--paper-1:2:1</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -12935,12 +12965,14 @@ ABBR: We can find the answer using trial and error.
 
 Test whole-number values of $r$.
 
+
 | $r$   | Seats left $= 36 - 8r$ | Divisible by $5$? | $c$ |
-|:-----:|:----------------------:|:-----------------:|:---:|
+|-----|----------------------|-----------------|---|
 | $1$   | $36 - 8 \times 1 = 28$ | No  | - |
 | $2$   | $36 - 8 \times 2 = 20$ | Yes | $20 \div 5 = 4$ |
 | $3$   | $36 - 8 \times 3 = 12$ | No  | - |
 | $4$   | $36 - 8 \times 4 = 4$  | No  | - |
+
 
 </div>
 </div>
@@ -13023,12 +13055,16 @@ rtq_abbr_working_note_md_trial_and_error_find_answer
 
 Test whole-number values of &#36;r&#36;.
 
+&lt;PaperTable&gt;
+
 | &#36;r&#36;   | Seats left &#36;= 36 - 8r&#36; | Divisible by &#36;5&#36;? | &#36;c&#36; |
-|:-----:|:----------------------:|:-----------------:|:---:|
+|-----|----------------------|-----------------|---|
 | &#36;1&#36;   | &#36;36 - 8 \times 1 = 28&#36; | No  | - |
 | &#36;2&#36;   | &#36;36 - 8 \times 2 = 20&#36; | Yes | &#36;20 \div 5 = 4&#36; |
 | &#36;3&#36;   | &#36;36 - 8 \times 3 = 12&#36; | No  | - |
 | &#36;4&#36;   | &#36;36 - 8 \times 4 = 4&#36;  | No  | - |
+
+&lt;/PaperTable&gt;
 
 &lt;/WorkingSection&gt;
 
@@ -13136,18 +13172,18 @@ Number of round tables &#36;= 4&#36;
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-2-2">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-paper-1-2-2">
 <div class="uuid">
 <p>90E2A5C8-884E-40C1-9D68-7DCB7181345F</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-2-1">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-2-3">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-2-1">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-2-3">Next question</a>
 </div>
 <div class="papername">
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:2:2</p>
+<p>bancrofts-school--11-plus--maths--2018--paper-1:2:2</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -13261,7 +13297,7 @@ math.number
 </div>
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-2-2-1">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-2-2-1">
 <div class="uuid">
 <p>7D5996ED-078B-4FC7-80DA-3A682C7C3B6B</p>
 </div>
@@ -13357,13 +13393,15 @@ A number that is $3$ more than a multiple of $6$ becomes a multiple of $6$ when 
 </div>
 <div class="paper-working-section-body">
 
+
 | Number | Add $3$ | Subtract $3$ | Works? |
-|:------:|:-------:|:------------:|:------:|
+|------|-------|------------|------|
 | $12$ | $15$ | $9$ | No |
 | $17$ | $20$ | $14$ | No |
 | $21$ | $24$ | $18$ | No |
 | $22$ | $25$ | $19$ | No |
 | $27$ | $30$ | $24$ | Yes |
+
 
 </div>
 </div>
@@ -13422,13 +13460,17 @@ A number that is &#36;3&#36; more than a multiple of &#36;6&#36; becomes a multi
 
 &lt;WorkingSection phase="verify" title="Check options"&gt;
 
+&lt;PaperTable&gt;
+
 | Number | Add &#36;3&#36; | Subtract &#36;3&#36; | Works? |
-|:------:|:-------:|:------------:|:------:|
+|------|-------|------------|------|
 | &#36;12&#36; | &#36;15&#36; | &#36;9&#36; | No |
 | &#36;17&#36; | &#36;20&#36; | &#36;14&#36; | No |
 | &#36;21&#36; | &#36;24&#36; | &#36;18&#36; | No |
 | &#36;22&#36; | &#36;25&#36; | &#36;19&#36; | No |
 | &#36;27&#36; | &#36;30&#36; | &#36;24&#36; | Yes |
+
+&lt;/PaperTable&gt;
 
 &lt;/WorkingSection&gt;
 
@@ -13465,7 +13507,7 @@ The only number that satisfies both conditions is &#36;27&#36;.
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-2-2-2">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-2-2-2">
 <div class="uuid">
 <p>865C3C9E-981D-4893-A7FB-A7042C16423D</p>
 </div>
@@ -13581,7 +13623,7 @@ $1023$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-2-2-3">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-2-2-3">
 <div class="uuid">
 <p>616C4931-3CB0-4767-8213-3F65D39B55EA</p>
 </div>
@@ -13912,18 +13954,18 @@ Number of odd three-digit numbers &#36;= 18&#36;
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-2-3">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-paper-1-2-3">
 <div class="uuid">
 <p>B2DCAF57-3CED-4AB6-910D-76466E42D6A9</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-2-2">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-2-4">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-2-2">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-2-4">Next question</a>
 </div>
 <div class="papername">
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:2:3</p>
+<p>bancrofts-school--11-plus--maths--2018--paper-1:2:3</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -14037,7 +14079,7 @@ frame.algebra
 </div>
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-2-3-1">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-2-3-1">
 <div class="uuid">
 <p>B6A54F76-326E-4772-BB1F-F429B3BB76E0</p>
 </div>
@@ -14184,7 +14226,7 @@ $123 - 45 - 67 + 89 = 100$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-2-3-2">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-2-3-2">
 <div class="uuid">
 <p>59BCD23B-6F99-43D1-95BC-5C8D7406F438</p>
 </div>
@@ -14381,7 +14423,7 @@ Number of boys this year &#36;= 297&#36;
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-2-3-3">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-2-3-3">
 <div class="uuid">
 <p>FF0D2BF5-A68F-49C1-B1AF-ECABF1421AC4</p>
 </div>
@@ -14648,18 +14690,18 @@ Longest piece length &#36;= 250 \ \text{cm}&#36;
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-2-4">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-paper-1-2-4">
 <div class="uuid">
 <p>8D1CDA41-DB74-4547-8CE7-8DDF61396BB3</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-2-3">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-2-5">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-2-3">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-2-5">Next question</a>
 </div>
 <div class="papername">
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:2:4</p>
+<p>bancrofts-school--11-plus--maths--2018--paper-1:2:4</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -14781,7 +14823,7 @@ For example, &#36;2 * 7 = (5 \times 2) + 7 = 17&#36;.
 </div>
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-2-4-1">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-2-4-1">
 <div class="uuid">
 <p>343F1A5A-F1EA-42C9-99B7-2B86A08AF0D8</p>
 </div>
@@ -14908,7 +14950,7 @@ $53$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-2-4-2">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-2-4-2">
 <div class="uuid">
 <p>778BF917-1C4E-4F38-83AA-D335B1FED417</p>
 </div>
@@ -15046,7 +15088,7 @@ m                       &= 7
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-2-4-3">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-2-4-3">
 <div class="uuid">
 <p>F9578638-C6D8-4F22-9B99-F1DB77A88A78</p>
 </div>
@@ -15241,18 +15283,18 @@ n                       &= 9
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-2-5">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-paper-1-2-5">
 <div class="uuid">
 <p>39B376C0-8278-4E9A-A265-22E5531EA050</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-2-4">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-2-6">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-2-4">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-2-6">Next question</a>
 </div>
 <div class="papername">
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:2:5</p>
+<p>bancrofts-school--11-plus--maths--2018--paper-1:2:5</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -15483,18 +15525,18 @@ The true statement is option &#36;\text{D}&#36;: Dom did not come &#36;2^\text{n
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_comingsoon rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-2-6">
+<div class="question_envelope rag_comingsoon rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-paper-1-2-6">
 <div class="uuid">
 <p>CB41B652-2CFE-448F-BD12-99C5A676AA91</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-2-5">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-2-7">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-2-5">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-2-7">Next question</a>
 </div>
 <div class="papername">
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:2:6</p>
+<p>bancrofts-school--11-plus--maths--2018--paper-1:2:6</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -15608,7 +15650,7 @@ math.number
 </div>
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-2-6-1">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-2-6-1">
 <div class="uuid">
 <p>04F7C6D0-171E-49FC-A183-D2B6A023C82F</p>
 </div>
@@ -15719,7 +15761,7 @@ Write down the answers to the calculations (Hint: there is a quick way!)
 </div>
 <ul class="subsubquestion lower-roman question_type_subsubquestion list_type_lower-roman">
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subsubquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-2-6-1-1">
+<div class="question_envelope rag_not_found subsubquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-2-6-1-1">
 <div class="uuid">
 <p>68C359C4-BED6-498B-99BD-5D41388349AB</p>
 </div>
@@ -15848,7 +15890,7 @@ $3701800$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subsubquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-2-6-1-2">
+<div class="question_envelope rag_not_found subsubquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-2-6-1-2">
 <div class="uuid">
 <p>729B684F-129C-40AE-AE0D-FD69E3E4ED9C</p>
 </div>
@@ -15980,7 +16022,7 @@ $37018$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-2-6-2">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-2-6-2">
 <div class="uuid">
 <p>80CC4BDC-61AB-4800-B8BA-EDA4CF0FD45A</p>
 </div>
@@ -16014,7 +16056,9 @@ inherits parent tags: no
 
 How many triangles are there in this diagram?
 
-<img src="/assets/papers/bancrofts-school/2018/sample-paper-4/questions/s02-q06-s02-i00.png" alt="papers/bancrofts-school/2018/sample-paper-4/questions/s02-q06-s02-i00.png" title="papers/bancrofts-school/2018/sample-paper-4/questions/s02-q06-s02-i00.png" data-slot="paper-image" data-kind="essential" data-size="normal" data-align="center" class="paper-image" style="width: 100%; max-width: 32rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/bancrofts-school/2018/paper-1/questions/s02-q06-s02-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -16023,7 +16067,7 @@ How many triangles are there in this diagram?
 </div>
 <pre class="language-latex"><code class="language-latex">How many triangles are there in this diagram?
 
-&lt;PaperImage kind="essential" /&gt;
+&lt;PaperImage assetScope="question" kind="essential" /&gt;
 </code></pre>
 </div>
 <div class="workings">
@@ -16065,7 +16109,9 @@ Label the points on the base from left to right $F, G, H, I$.
 
 Designer note: the points should sit on the same four sloping lines, so $A, B, F$ are on one line, $A, C, G$ are on the next line, $A, D, H$ are on the next line, and $A, E, I$ are on the last line.
 
-![missing image](/assets/papers/missing/missing_image.svg "papers/bancrofts-school/2018/sample-paper-4/answers/manual/s02-q06-s02-w01-i00.png")
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 </div>
@@ -16175,7 +16221,7 @@ Label the points on the base from left to right &#36;F, G, H, I&#36;.
 
 Designer note: the points should sit on the same four sloping lines, so &#36;A, B, F&#36; are on one line, &#36;A, C, G&#36; are on the next line, &#36;A, D, H&#36; are on the next line, and &#36;A, E, I&#36; are on the last line.
 
-&lt;WorkingImage kind="essential" /&gt;
+&lt;PaperImage assetScope="working" kind="essential" /&gt;
 
 &lt;/WorkingSection&gt;
 
@@ -16302,17 +16348,17 @@ Count &#36;= 6&#36;
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-2-7">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-bancrofts-school-11-plus-maths-2018-paper-1-2-7">
 <div class="uuid">
 <p>2CB214EC-9120-43EE-B697-6647A243DF59</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-sample-paper-4-2-6">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-sample-paper-4-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-bancrofts-school-11-plus-maths-2018-paper-1-2-6">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-bancrofts-school-11-plus-maths-2018-paper-1-bottom">Bottom of page</a>
 </div>
 <div class="papername">
-<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:2:7</p>
+<p>bancrofts-school--11-plus--maths--2018--paper-1:2:7</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -16443,7 +16489,7 @@ letters stands for in these two calculations.
 </div>
 <ul class="subquestion lower-alpha question_type_subquestion list_type_lower-alpha">
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-2-7-1">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-2-7-1">
 <div class="uuid">
 <p>A2A610DC-3048-4079-9B01-631689A91227</p>
 </div>
@@ -16564,8 +16610,9 @@ So the only values to check are $11$, $15$, $16$, $21$, $25$, $26$ and $31$.
 ABBR: We can find the answer using trial and error.
 
 
+
 | $BC$ | $BC \times BC$ | Ends in $BC?$ |
-|:----:|:--------------:|:-------------:|
+|----|--------------|-------------|
 | $11$ | $11 \times 11 = 121$ | No |
 | $15$ | $15 \times 15 = 225$ | No |
 | $16$ | $16 \times 16 = 256$ | No |
@@ -16573,6 +16620,7 @@ ABBR: We can find the answer using trial and error.
 | $25$ | $25 \times 25 = 625$ | Yes |
 | $26$ | $26 \times 26 = 676$ | No |
 | $31$ | $31 \times 31 = 961$ | No |
+
 
 </div>
 </div>
@@ -16655,8 +16703,10 @@ So the only values to check are &#36;11&#36;, &#36;15&#36;, &#36;16&#36;, &#36;2
 
 rtq_abbr_working_note_md_trial_and_error_find_answer
 
+&lt;PaperTable&gt;
+
 | &#36;BC&#36; | &#36;BC \times BC&#36; | Ends in &#36;BC?&#36; |
-|:----:|:--------------:|:-------------:|
+|----|--------------|-------------|
 | &#36;11&#36; | &#36;11 \times 11 = 121&#36; | No |
 | &#36;15&#36; | &#36;15 \times 15 = 225&#36; | No |
 | &#36;16&#36; | &#36;16 \times 16 = 256&#36; | No |
@@ -16664,6 +16714,8 @@ rtq_abbr_working_note_md_trial_and_error_find_answer
 | &#36;25&#36; | &#36;25 \times 25 = 625&#36; | Yes |
 | &#36;26&#36; | &#36;26 \times 26 = 676&#36; | No |
 | &#36;31&#36; | &#36;31 \times 31 = 961&#36; | No |
+
+&lt;/PaperTable&gt;
 
 &lt;/WorkingSection&gt;
 
@@ -16742,7 +16794,7 @@ rtq_abbr_working_note_md_trial_and_error_find_answer
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-sample-paper-4-2-7-2">
+<div class="question_envelope rag_not_found subquestion" id="question-bancrofts-school-11-plus-maths-2018-paper-1-2-7-2">
 <div class="uuid">
 <p>EF72DAAB-0223-47E1-A088-8F4E1CD96A46</p>
 </div>
@@ -16862,8 +16914,9 @@ $DEF$ must satisfy both of these conditions:
 ABBR: We can find the answer using trial and error.
 
 
+
 | $EEE$ | $DEF = EEE \div 3$ | Fits $DEF$? |
-|:-----:|:------------------:|:-----------:|
+|-----|------------------|-----------|
 | $111$ | $111 \div 3 = 37$ | No, not $3$ digits |
 | $222$ | $222 \div 3 = 74$ | No, not $3$ digits |
 | $333$ | $333 \div 3 = 111$ | No |
@@ -16873,6 +16926,7 @@ ABBR: We can find the answer using trial and error.
 | $777$ | $777 \div 3 = 259$ | No |
 | $888$ | $888 \div 3 = 296$ | No |
 | $999$ | $999 \div 3 = 333$ | No |
+
 
 </div>
 </div>
@@ -16954,8 +17008,10 @@ Since &#36;DEF + DEF + DEF = EEE&#36;, find &#36;DEF&#36; by dividing by &#36;3&
 
 rtq_abbr_working_note_md_trial_and_error_find_answer
 
+&lt;PaperTable&gt;
+
 | &#36;EEE&#36; | &#36;DEF = EEE \div 3&#36; | Fits &#36;DEF&#36;? |
-|:-----:|:------------------:|:-----------:|
+|-----|------------------|-----------|
 | &#36;111&#36; | &#36;111 \div 3 = 37&#36; | No, not &#36;3&#36; digits |
 | &#36;222&#36; | &#36;222 \div 3 = 74&#36; | No, not &#36;3&#36; digits |
 | &#36;333&#36; | &#36;333 \div 3 = 111&#36; | No |
@@ -16965,6 +17021,8 @@ rtq_abbr_working_note_md_trial_and_error_find_answer
 | &#36;777&#36; | &#36;777 \div 3 = 259&#36; | No |
 | &#36;888&#36; | &#36;888 \div 3 = 296&#36; | No |
 | &#36;999&#36; | &#36;999 \div 3 = 333&#36; | No |
+
+&lt;/PaperTable&gt;
 
 &lt;/WorkingSection&gt;
 
@@ -17096,5 +17154,5 @@ rtq_abbr_working_note_md_trial_and_error_find_answer
 </div>
 </li>
 </ul>
-<div id="page-bancrofts-school-11-plus-maths-2018-sample-paper-4-bottom"></div>
+<div id="page-bancrofts-school-11-plus-maths-2018-paper-1-bottom"></div>
 </div>

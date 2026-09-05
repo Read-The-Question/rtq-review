@@ -1,10 +1,10 @@
 ---
-slug: "papers/the-manchester-grammar-school-11-plus-maths-2017-paper-a"
-title: "The Manchester Grammar School - 11 Plus - Maths - 2017 - Paper A"
-date: 2026-08-12 22:31:31
+slug: "focustomlpapers/the-manchester-grammar-school-11-plus-maths-2017-section-a"
+title: "Focus Paper - The Manchester Grammar School - 11 Plus - Maths - 2017 - Section A"
+date: 2026-09-04 05:35:24
 questions_count: "20"
 ---
-<div class="paper" id="page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-top">
+<div class="paper" id="page-the-manchester-grammar-school-11-plus-maths-2017-section-a-top">
 <div class="meta">
 <h3>boys</h3>
 <h3>grammar</h3>
@@ -14,18 +14,18 @@ questions_count: "20"
 </div>
 <ul class="question decimal question_type_question list_type_decimal">
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-1">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-1">
 <div class="uuid">
 <p>39E20826-B8B1-4C4D-AF60-A2D391BC499E</p>
 </div>
 <div class="question-nav">
 <span class="question-nav-spacer"></span>
-<a class="question-nav-link question-nav-link-top" href="#page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-2">Next question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-the-manchester-grammar-school-11-plus-maths-2017-section-a-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-the-manchester-grammar-school-11-plus-maths-2017-section-a-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-2">Next question</a>
 </div>
 <div class="papername">
-<p>the-manchester-grammar-school--11-plus--maths--2017--paper-a:1:1</p>
+<p>the-manchester-grammar-school--11-plus--maths--2017--section-a:1:1</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -196,18 +196,18 @@ $308520$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-2">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-2">
 <div class="uuid">
 <p>6277A78F-503A-4B75-B993-9B2E55B696CD</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-1">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-3">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-1">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-the-manchester-grammar-school-11-plus-maths-2017-section-a-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-the-manchester-grammar-school-11-plus-maths-2017-section-a-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-3">Next question</a>
 </div>
 <div class="papername">
-<p>the-manchester-grammar-school--11-plus--maths--2017--paper-a:1:2</p>
+<p>the-manchester-grammar-school--11-plus--maths--2017--section-a:1:2</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -440,18 +440,18 @@ $252$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-3">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-3">
 <div class="uuid">
 <p>569C9EE3-A840-4D16-8C39-28615CBF15FB</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-2">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-4">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-2">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-the-manchester-grammar-school-11-plus-maths-2017-section-a-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-the-manchester-grammar-school-11-plus-maths-2017-section-a-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-4">Next question</a>
 </div>
 <div class="papername">
-<p>the-manchester-grammar-school--11-plus--maths--2017--paper-a:1:3</p>
+<p>the-manchester-grammar-school--11-plus--maths--2017--section-a:1:3</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -520,8 +520,8 @@ Work out $2047 \div 23$.
 </div>
 <div class="paper-working-section-body">
 
-<div class="paper-long-division-alignment" data-align="start">
-<div role="img" aria-label="Long division of 2047 by 23" aria-describedby="long-division-the-manchester-grammar-school-11-plus-maths-2017-paper-a-workings-generated-long-division-s01-q03-w01-ld00-bus-svg-description" data-slot="long-division" data-variant="bus" class="paper-long-division-viewport" style="--long-division-natural-width: 170px; --long-division-minimum-readable-width: 127.5px;">
+<div class="paper-long-division-alignment" data-align="start" data-indent="none">
+<div role="img" aria-label="Long division of 2047 by 23" aria-describedby="long-division-the-manchester-grammar-school-11-plus-maths-2017-section-a-workings-generated-long-division-s01-q03-w01-ld00-bus-svg-description" data-slot="long-division" data-variant="bus" class="paper-long-division-viewport" style="--long-division-natural-width: 170px; --long-division-minimum-readable-width: 127.5px;">
 <div aria-hidden="true" class="paper-long-division-graphic"><svg aria-hidden="true" data-rtq-long-division-contract="1" focusable="false" height="77" viewBox="0 0 170 77" width="170" xmlns="http://www.w3.org/2000/svg">
   <g font-family="KaTeX_Main, &quot;Times New Roman&quot;, Times, serif">
   <text data-rtq-long-division-role="text" fill="currentColor" font-size="19" text-anchor="middle" x="114" y="20">8</text>
@@ -537,7 +537,7 @@ Work out $2047 \div 23$.
   </g>
 </svg></div>
 </div>
-<span id="long-division-the-manchester-grammar-school-11-plus-maths-2017-paper-a-workings-generated-long-division-s01-q03-w01-ld00-bus-svg-description" class="sr-only">Bus-stop division of 2047 by 23. Quotient 89, remainder 0.</span>
+<span id="long-division-the-manchester-grammar-school-11-plus-maths-2017-section-a-workings-generated-long-division-s01-q03-w01-ld00-bus-svg-description" class="sr-only">Bus-stop division of 2047 by 23. Quotient 89, remainder 0.</span>
 </div>
 
 </div>
@@ -551,8 +551,8 @@ Work out $2047 \div 23$.
 </div>
 <div class="paper-working-section-body">
 
-<div class="paper-long-division-alignment" data-align="start">
-<div role="img" aria-label="Long division of 2047 by 23" aria-describedby="long-division-the-manchester-grammar-school-11-plus-maths-2017-paper-a-workings-generated-long-division-s01-q03-w01-ld01-long-svg-description" data-slot="long-division" data-variant="long" class="paper-long-division-viewport" style="--long-division-natural-width: 162px; --long-division-minimum-readable-width: 121.5px;">
+<div class="paper-long-division-alignment" data-align="start" data-indent="none">
+<div role="img" aria-label="Long division of 2047 by 23" aria-describedby="long-division-the-manchester-grammar-school-11-plus-maths-2017-section-a-workings-generated-long-division-s01-q03-w01-ld01-long-svg-description" data-slot="long-division" data-variant="long" class="paper-long-division-viewport" style="--long-division-natural-width: 162px; --long-division-minimum-readable-width: 121.5px;">
 <div aria-hidden="true" class="paper-long-division-graphic"><svg aria-hidden="true" data-rtq-long-division-contract="1" focusable="false" height="173" viewBox="0 0 162 173" width="162" xmlns="http://www.w3.org/2000/svg">
   <g font-family="KaTeX_Main, &quot;Times New Roman&quot;, Times, serif">
   <text data-rtq-long-division-role="text" fill="currentColor" font-size="19" text-anchor="middle" x="114" y="20">8</text>
@@ -579,7 +579,7 @@ Work out $2047 \div 23$.
   </g>
 </svg></div>
 </div>
-<span id="long-division-the-manchester-grammar-school-11-plus-maths-2017-paper-a-workings-generated-long-division-s01-q03-w01-ld01-long-svg-description" class="sr-only">Full long division of 2047 by 23. Quotient 89, remainder 0.</span>
+<span id="long-division-the-manchester-grammar-school-11-plus-maths-2017-section-a-workings-generated-long-division-s01-q03-w01-ld01-long-svg-description" class="sr-only">Full long division of 2047 by 23. Quotient 89, remainder 0.</span>
 </div>
 
 </div>
@@ -722,18 +722,18 @@ $89$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-4">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-4">
 <div class="uuid">
 <p>5CAE2035-ACFB-4976-9866-CE0FF0A09401</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-3">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-5">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-3">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-the-manchester-grammar-school-11-plus-maths-2017-section-a-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-the-manchester-grammar-school-11-plus-maths-2017-section-a-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-5">Next question</a>
 </div>
 <div class="papername">
-<p>the-manchester-grammar-school--11-plus--maths--2017--paper-a:1:4</p>
+<p>the-manchester-grammar-school--11-plus--maths--2017--section-a:1:4</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -919,18 +919,18 @@ $20$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-5">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-5">
 <div class="uuid">
 <p>51948298-6710-4968-BC7A-6F04A5AA66B1</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-4">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-6">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-4">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-the-manchester-grammar-school-11-plus-maths-2017-section-a-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-the-manchester-grammar-school-11-plus-maths-2017-section-a-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-6">Next question</a>
 </div>
 <div class="papername">
-<p>the-manchester-grammar-school--11-plus--maths--2017--paper-a:1:5</p>
+<p>the-manchester-grammar-school--11-plus--maths--2017--section-a:1:5</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -1173,18 +1173,18 @@ Number in the middle &#36;= \dfrac{2}{3}&#36;
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-6">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-6">
 <div class="uuid">
 <p>ED448CD6-9057-4F77-BD62-61F1272214D8</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-5">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-7">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-5">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-the-manchester-grammar-school-11-plus-maths-2017-section-a-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-the-manchester-grammar-school-11-plus-maths-2017-section-a-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-7">Next question</a>
 </div>
 <div class="papername">
-<p>the-manchester-grammar-school--11-plus--maths--2017--paper-a:1:6</p>
+<p>the-manchester-grammar-school--11-plus--maths--2017--section-a:1:6</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -1368,18 +1368,18 @@ $96$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-7">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-7">
 <div class="uuid">
 <p>4CE5D9AF-DB65-40AF-8AA6-0F980B75AB57</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-6">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-8">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-6">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-the-manchester-grammar-school-11-plus-maths-2017-section-a-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-the-manchester-grammar-school-11-plus-maths-2017-section-a-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-8">Next question</a>
 </div>
 <div class="papername">
-<p>the-manchester-grammar-school--11-plus--maths--2017--paper-a:1:7</p>
+<p>the-manchester-grammar-school--11-plus--maths--2017--section-a:1:7</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -1561,18 +1561,18 @@ $\dfrac {21} {25}$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-8">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-8">
 <div class="uuid">
 <p>5D4FC6CE-AFCE-4118-A16D-21C14C304F1B</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-7">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-9">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-7">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-the-manchester-grammar-school-11-plus-maths-2017-section-a-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-the-manchester-grammar-school-11-plus-maths-2017-section-a-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-9">Next question</a>
 </div>
 <div class="papername">
-<p>the-manchester-grammar-school--11-plus--maths--2017--paper-a:1:8</p>
+<p>the-manchester-grammar-school--11-plus--maths--2017--section-a:1:8</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -1870,18 +1870,18 @@ Answer &#36;= \text{C}&#36;
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-9">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-9">
 <div class="uuid">
 <p>F990AB7B-48EF-4668-8814-D68C1917C568</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-8">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-10">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-8">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-the-manchester-grammar-school-11-plus-maths-2017-section-a-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-the-manchester-grammar-school-11-plus-maths-2017-section-a-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-10">Next question</a>
 </div>
 <div class="papername">
-<p>the-manchester-grammar-school--11-plus--maths--2017--paper-a:1:9</p>
+<p>the-manchester-grammar-school--11-plus--maths--2017--section-a:1:9</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -2066,18 +2066,18 @@ $231 \ \text{cm}$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-10">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-10">
 <div class="uuid">
 <p>81E1B098-E3D4-4FFB-8782-94935FEFD938</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-9">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-11">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-9">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-the-manchester-grammar-school-11-plus-maths-2017-section-a-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-the-manchester-grammar-school-11-plus-maths-2017-section-a-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-11">Next question</a>
 </div>
 <div class="papername">
-<p>the-manchester-grammar-school--11-plus--maths--2017--paper-a:1:10</p>
+<p>the-manchester-grammar-school--11-plus--maths--2017--section-a:1:10</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -2264,18 +2264,18 @@ $\pounds 5.04$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-11">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-11">
 <div class="uuid">
 <p>5EBEC51C-2FE0-412B-8DE5-086AF0FEEEFC</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-10">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-12">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-10">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-the-manchester-grammar-school-11-plus-maths-2017-section-a-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-the-manchester-grammar-school-11-plus-maths-2017-section-a-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-12">Next question</a>
 </div>
 <div class="papername">
-<p>the-manchester-grammar-school--11-plus--maths--2017--paper-a:1:11</p>
+<p>the-manchester-grammar-school--11-plus--maths--2017--section-a:1:11</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -2516,18 +2516,18 @@ Weight of the fifth parcel &#36;= 4.5 \ \text{kg}&#36;
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-12">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-12">
 <div class="uuid">
 <p>2FD56A72-BF72-417D-900D-9B15B014E560</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-11">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-13">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-11">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-the-manchester-grammar-school-11-plus-maths-2017-section-a-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-the-manchester-grammar-school-11-plus-maths-2017-section-a-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-13">Next question</a>
 </div>
 <div class="papername">
-<p>the-manchester-grammar-school--11-plus--maths--2017--paper-a:1:12</p>
+<p>the-manchester-grammar-school--11-plus--maths--2017--section-a:1:12</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -2720,18 +2720,18 @@ $18$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-13">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-13">
 <div class="uuid">
 <p>99B771D4-952B-4603-BB61-6A63F668BA1F</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-12">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-14">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-12">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-the-manchester-grammar-school-11-plus-maths-2017-section-a-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-the-manchester-grammar-school-11-plus-maths-2017-section-a-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-14">Next question</a>
 </div>
 <div class="papername">
-<p>the-manchester-grammar-school--11-plus--maths--2017--paper-a:1:13</p>
+<p>the-manchester-grammar-school--11-plus--maths--2017--section-a:1:13</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -2978,18 +2978,18 @@ a               &= 476
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-14">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-14">
 <div class="uuid">
 <p>4F58585B-5B01-496D-8865-FFF0FEAC8FD6</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-13">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-15">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-13">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-the-manchester-grammar-school-11-plus-maths-2017-section-a-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-the-manchester-grammar-school-11-plus-maths-2017-section-a-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-15">Next question</a>
 </div>
 <div class="papername">
-<p>the-manchester-grammar-school--11-plus--maths--2017--paper-a:1:14</p>
+<p>the-manchester-grammar-school--11-plus--maths--2017--section-a:1:14</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -3258,18 +3258,18 @@ w                   &= 20 \ \text{cm}
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-15">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-15">
 <div class="uuid">
 <p>99D0FFC6-A645-4175-8EA6-1E27EC96521C</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-14">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-16">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-14">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-the-manchester-grammar-school-11-plus-maths-2017-section-a-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-the-manchester-grammar-school-11-plus-maths-2017-section-a-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-16">Next question</a>
 </div>
 <div class="papername">
-<p>the-manchester-grammar-school--11-plus--maths--2017--paper-a:1:15</p>
+<p>the-manchester-grammar-school--11-plus--maths--2017--section-a:1:15</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -3301,7 +3301,9 @@ frame.algebra
 
 In the following diagram the two shaded rectangles have equal areas. What is the **total** shaded area?
 
-<img src="/assets/papers/the-manchester-grammar-school/2017/paper-a/questions/s01-q15-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/the-manchester-grammar-school/2017/section-a/questions/s01-q15-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -3535,18 +3537,18 @@ a           &= 8 \ \text{cm}
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-16">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-16">
 <div class="uuid">
 <p>E18F355F-E6B9-4D2A-922F-0959DD6D4280</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-15">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-17">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-15">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-the-manchester-grammar-school-11-plus-maths-2017-section-a-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-the-manchester-grammar-school-11-plus-maths-2017-section-a-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-17">Next question</a>
 </div>
 <div class="papername">
-<p>the-manchester-grammar-school--11-plus--maths--2017--paper-a:1:16</p>
+<p>the-manchester-grammar-school--11-plus--maths--2017--section-a:1:16</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -3901,18 +3903,18 @@ a                &= \pounds 0.20
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-17">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-17">
 <div class="uuid">
 <p>728683E0-0172-4C1B-B996-DE78A22F8120</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-16">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-18">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-16">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-the-manchester-grammar-school-11-plus-maths-2017-section-a-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-the-manchester-grammar-school-11-plus-maths-2017-section-a-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-18">Next question</a>
 </div>
 <div class="papername">
-<p>the-manchester-grammar-school--11-plus--maths--2017--paper-a:1:17</p>
+<p>the-manchester-grammar-school--11-plus--maths--2017--section-a:1:17</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -4216,18 +4218,18 @@ Height of the school hall &#36;= 6 \ \text{m}&#36;
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-18">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-18">
 <div class="uuid">
 <p>7913B5DC-FF48-4EA0-824B-86C5FEC03FF7</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-17">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-19">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-17">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-the-manchester-grammar-school-11-plus-maths-2017-section-a-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-the-manchester-grammar-school-11-plus-maths-2017-section-a-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-19">Next question</a>
 </div>
 <div class="papername">
-<p>the-manchester-grammar-school--11-plus--maths--2017--paper-a:1:18</p>
+<p>the-manchester-grammar-school--11-plus--maths--2017--section-a:1:18</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -4559,18 +4561,18 @@ Number &#36;= 14&#36;
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-19">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-19">
 <div class="uuid">
 <p>B2D61F27-0340-481E-A898-0EB99514A60B</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-18">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-bottom">Bottom of page</a>
-<a class="question-nav-link question-nav-link-next" href="#question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-20">Next question</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-18">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-the-manchester-grammar-school-11-plus-maths-2017-section-a-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-the-manchester-grammar-school-11-plus-maths-2017-section-a-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-next" href="#question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-20">Next question</a>
 </div>
 <div class="papername">
-<p>the-manchester-grammar-school--11-plus--maths--2017--paper-a:1:19</p>
+<p>the-manchester-grammar-school--11-plus--maths--2017--section-a:1:19</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -4841,17 +4843,17 @@ A number divisible by both &#36;4&#36; and &#36;5&#36; is a multiple of &#36;20&
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-20">
+<div class="question_envelope rag_ng3 rag_prns question" id="question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-20">
 <div class="uuid">
 <p>3A2365AD-70B7-45DF-8397-B6EF9E526FF8</p>
 </div>
 <div class="question-nav">
-<a class="question-nav-link question-nav-link-previous" href="#question-the-manchester-grammar-school-11-plus-maths-2017-paper-a-1-19">Previous question</a>
-<a class="question-nav-link question-nav-link-top" href="#page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-top">Top of page</a>
-<a class="question-nav-link question-nav-link-bottom" href="#page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-bottom">Bottom of page</a>
+<a class="question-nav-link question-nav-link-previous" href="#question-the-manchester-grammar-school-11-plus-maths-2017-section-a-1-19">Previous question</a>
+<a class="question-nav-link question-nav-link-top" href="#page-the-manchester-grammar-school-11-plus-maths-2017-section-a-top">Top of page</a>
+<a class="question-nav-link question-nav-link-bottom" href="#page-the-manchester-grammar-school-11-plus-maths-2017-section-a-bottom">Bottom of page</a>
 </div>
 <div class="papername">
-<p>the-manchester-grammar-school--11-plus--maths--2017--paper-a:1:20</p>
+<p>the-manchester-grammar-school--11-plus--maths--2017--section-a:1:20</p>
 </div>
 <div class="rag">
 <p>Waffles Woof</p>
@@ -4878,11 +4880,17 @@ math.permutation
 
 Two crosses can be put in three squares in three different ways, as follows.
 
-<img src="/assets/papers/the-manchester-grammar-school/2017/paper-a/questions/s01-q20-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/the-manchester-grammar-school/2017/section-a/questions/s01-q20-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
-<img src="/assets/papers/the-manchester-grammar-school/2017/paper-a/questions/s01-q20-i01.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/the-manchester-grammar-school/2017/section-a/questions/s01-q20-i01.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
-<img src="/assets/papers/the-manchester-grammar-school/2017/paper-a/questions/s01-q20-i02.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/the-manchester-grammar-school/2017/section-a/questions/s01-q20-i02.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 In how many different ways can you put three crosses in five squares?
 
@@ -5109,5 +5117,5 @@ Number of different ways &#36;= 10&#36;
 </div>
 </li>
 </ul>
-<div id="page-the-manchester-grammar-school-11-plus-maths-2017-paper-a-bottom"></div>
+<div id="page-the-manchester-grammar-school-11-plus-maths-2017-section-a-bottom"></div>
 </div>

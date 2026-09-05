@@ -37,6 +37,10 @@ export type RagState = {
     | 'ng2'
     | 'ng3'
     | 'ng4'
+    | 'ng5'
+    | 'ng6'
+    | 'ng7'
+    | 'ng8'
     | 'notstarted'
     | 'pr'
     | 'prai'
@@ -65,8 +69,8 @@ export type OriginalQuestionSource = {
 };
 
 export type RawWorking = {
-  formulas: string;
-  tips: string;
+  formulas: Array<{ formula: string }>;
+  tips: Array<{ tip: string }>;
   working: string;
 };
 

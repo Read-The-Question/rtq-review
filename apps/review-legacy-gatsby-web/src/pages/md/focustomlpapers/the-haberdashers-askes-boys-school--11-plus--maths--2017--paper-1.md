@@ -1,7 +1,7 @@
 ---
-slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2017-paper-1"
-title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2017 - Paper 1"
-date: 2026-08-12 22:31:31
+slug: "focustomlpapers/the-haberdashers-askes-boys-school-11-plus-maths-2017-paper-1"
+title: "Focus Paper - The Haberdashers Askes Boys School - 11 Plus - Maths - 2017 - Paper 1"
+date: 2026-09-04 05:35:24
 questions_count: "30"
 ---
 <div class="paper" id="page-the-haberdashers-askes-boys-school-11-plus-maths-2017-paper-1-top">
@@ -739,7 +739,7 @@ Divide: $78 \div 6$
 </div>
 <div class="paper-working-section-body">
 
-<div class="paper-long-division-alignment" data-align="start">
+<div class="paper-long-division-alignment" data-align="start" data-indent="none">
 <div role="img" aria-label="Long division of 78 by 6" aria-describedby="long-division-the-haberdashers-askes-boys-school-11-plus-maths-2017-paper-1-workings-generated-long-division-s01-q04-w01-ld00-bus-svg-description" data-slot="long-division" data-variant="bus" class="paper-long-division-viewport" style="--long-division-natural-width: 106px; --long-division-minimum-readable-width: 79.5px;">
 <div aria-hidden="true" class="paper-long-division-graphic"><svg aria-hidden="true" data-rtq-long-division-contract="1" focusable="false" height="77" viewBox="0 0 106 77" width="106" xmlns="http://www.w3.org/2000/svg">
   <g font-family="KaTeX_Main, &quot;Times New Roman&quot;, Times, serif">
@@ -767,7 +767,7 @@ Divide: $78 \div 6$
 </div>
 <div class="paper-working-section-body">
 
-<div class="paper-long-division-alignment" data-align="start">
+<div class="paper-long-division-alignment" data-align="start" data-indent="none">
 <div role="img" aria-label="Long division of 78 by 6" aria-describedby="long-division-the-haberdashers-askes-boys-school-11-plus-maths-2017-paper-1-workings-generated-long-division-s01-q04-w01-ld01-long-svg-description" data-slot="long-division" data-variant="long" class="paper-long-division-viewport" style="--long-division-natural-width: 102px; --long-division-minimum-readable-width: 76.5px;">
 <div aria-hidden="true" class="paper-long-division-graphic"><svg aria-hidden="true" data-rtq-long-division-contract="1" focusable="false" height="173" viewBox="0 0 102 173" width="102" xmlns="http://www.w3.org/2000/svg">
   <g font-family="KaTeX_Main, &quot;Times New Roman&quot;, Times, serif">
@@ -2632,7 +2632,9 @@ frame.draw
 
 Draw the hour and minute hands on this clock to show the time $22{:}30$.
 
-<img src="/assets/papers/the-haberdashers-askes-boys-school/2017/paper-1/questions/s01-q10-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/the-haberdashers-askes-boys-school/2017/paper-1/questions/s01-q10-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 What is the reflex angle between the two hands on this clock?
 
@@ -2681,7 +2683,9 @@ What is the reflex angle between the two hands on this clock?
 </div>
 <div class="paper-working-section-body">
 
-<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 </div>
@@ -3400,7 +3404,9 @@ Geoff counted the number of lorries he saw on his journey to school each day.
 
 The results for Monday, Tuesday, Wednesday and Thursday are shown in the pictogram. Monday
 
-<img src="/assets/papers/the-haberdashers-askes-boys-school/2017/paper-1/questions/s01-q12-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/the-haberdashers-askes-boys-school/2017/paper-1/questions/s01-q12-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 
 |Monday   |$\spadesuit$                       |
@@ -3854,7 +3860,9 @@ $
 </div>
 <div class="paper-working-section-body">
 
-<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 </div>
@@ -4026,7 +4034,9 @@ math.graph
 
 Here is a map of Secret Island.
 
-<img src="/assets/papers/the-haberdashers-askes-boys-school/2017/paper-1/questions/s01-q13-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/the-haberdashers-askes-boys-school/2017/paper-1/questions/s01-q13-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -4409,7 +4419,9 @@ There is a crocodile at $(-7, 6)$. Mark the crocodile on the map. Label the croc
 </div>
 <div class="paper-working-section-body">
 
-<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/missing/missing_image.svg" alt="" data-slot="paper-image" data-asset-scope="working" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 </div>
@@ -4685,9 +4697,15 @@ frame.prose
 
 What is the name of each of these three regular polygons?
 
-<img src="/assets/papers/the-haberdashers-askes-boys-school/2017/paper-1/questions/s01-q14-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
-<img src="/assets/papers/the-haberdashers-askes-boys-school/2017/paper-1/questions/s01-q14-i01.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
-<img src="/assets/papers/the-haberdashers-askes-boys-school/2017/paper-1/questions/s01-q14-i02.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/the-haberdashers-askes-boys-school/2017/paper-1/questions/s01-q14-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/the-haberdashers-askes-boys-school/2017/paper-1/questions/s01-q14-i01.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/the-haberdashers-askes-boys-school/2017/paper-1/questions/s01-q14-i02.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -11437,7 +11455,9 @@ inherits parent tags: yes
 
 What is the area of this triangle?
 
-<img src="/assets/papers/the-haberdashers-askes-boys-school/2017/paper-1/questions/s01-q28-s01-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/the-haberdashers-askes-boys-school/2017/paper-1/questions/s01-q28-s01-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -11582,7 +11602,9 @@ inherits parent tags: yes
 
 What is the area of this triangle?
 
-<img src="/assets/papers/the-haberdashers-askes-boys-school/2017/paper-1/questions/s01-q28-s02-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/the-haberdashers-askes-boys-school/2017/paper-1/questions/s01-q28-s02-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 
 </div>
@@ -11988,7 +12010,9 @@ marker.read-from-given-source
 
 Here is a map of the roads in Askeshire.
 
-<img src="/assets/papers/the-haberdashers-askes-boys-school/2017/paper-1/questions/s01-q29-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+<div class="paper-image-layout" data-indent="none">
+<img src="/assets/papers/the-haberdashers-askes-boys-school/2017/paper-1/questions/s01-q29-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
+</div>
 
 The route from Catsworth to Dogsville via Alysford is written "$\text{C} \ \rightarrow \ \text{A} \ \rightarrow \ \text{D}$". 
 

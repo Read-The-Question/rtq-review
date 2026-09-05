@@ -561,7 +561,11 @@ button {
   color: #ffffff;
 }
 
-.rag-chip--ng4 {
+.rag-chip--ng4,
+.rag-chip--ng5,
+.rag-chip--ng6,
+.rag-chip--ng7,
+.rag-chip--ng8 {
   background: #052e16;
   color: #ffffff;
 }

@@ -2,8 +2,6 @@ import crypto from 'node:crypto';
 import fs from 'node:fs/promises';
 import path from 'node:path';
 
-import { parse } from '@iarna/toml';
-
 import { enrichRtqMarkdown } from '@/lib/paper-assets';
 import { applyPaperMacros } from '@/lib/paper-macros';
 import {
@@ -19,6 +17,11 @@ import {
   resolveFolderPath,
   resolvePaperFilePath,
 } from '@/lib/paper-paths';
+import {
+  type ParsedPaper,
+  parsePaperToml,
+  workingCollectionValues,
+} from '@/lib/paper-toml';
 import type {
   DisplayTag,
   ExemplarFolderKey,
@@ -33,21 +36,6 @@ import type {
 } from '@/lib/paper-types';
 import { sortPersistedTags, tagKindFor } from '@/lib/tag-taxonomy';
 import { humanizeStem, lowerAlpha, lowerRoman } from '@/lib/utils';
-
-type ParsedPaper = {
-  meta?: Record<string, unknown>;
-  sections?: Array<Record<string, unknown>>;
-};
-
-type LooseNodeRecord = Record<string, unknown> & {
-  answers?: Record<string, unknown>[];
-  subquestions?: LooseNodeRecord[];
-  workings?: Record<string, unknown>[];
-};
-
-type LooseSectionRecord = Record<string, unknown> & {
-  questions?: LooseNodeRecord[];
-};
 
 type NodeContext = {
   assetFileStem?: string;
@@ -153,161 +141,6 @@ function hashContent(raw: string) {
   return crypto.createHash('sha1').update(raw).digest('hex');
 }
 
-function parseTomlValue(valueSource: string) {
-  return (parse(`value = ${valueSource}`) as { value?: unknown }).value;
-}
-
-function parseLoosePaperToml(raw: string): ParsedPaper {
-  const parsed: ParsedPaper = { meta: {}, sections: [] };
-  const lines = raw.split(/\r?\n/);
-  let currentSection: LooseSectionRecord | null = null;
-  let currentQuestion: LooseNodeRecord | null = null;
-  let currentSubquestion: LooseNodeRecord | null = null;
-  let currentSubsubquestion: LooseNodeRecord | null = null;
-  let currentTarget: Record<string, unknown> | null = null;
-
-  const activeNodeFor = (scope: string) => {
-    if (scope === 'sections.questions') return currentQuestion;
-    if (scope === 'sections.questions.subquestions') return currentSubquestion;
-    if (scope === 'sections.questions.subquestions.subquestions')
-      return currentSubsubquestion;
-    return null;
-  };
-
-  const pushChild = <T extends Record<string, unknown>>(
-    parent: Record<string, unknown>,
-    key: string,
-    child: T,
-  ) => {
-    const current = parent[key];
-
-    if (Array.isArray(current)) {
-      current.push(child);
-    } else {
-      parent[key] = [child];
-    }
-  };
-
-  for (let index = 0; index < lines.length; index += 1) {
-    const rawLine = lines[index];
-    const trimmed = rawLine.trim();
-
-    if (!trimmed || trimmed.startsWith('#')) {
-      continue;
-    }
-
-    const tableMatch = /^\[\[?([^\]]+)\]\]?$/.exec(trimmed);
-
-    if (tableMatch) {
-      const tablePath = tableMatch[1];
-
-      if (tablePath === 'meta') {
-        currentTarget = parsed.meta ?? {};
-        parsed.meta = currentTarget;
-      } else if (tablePath === 'sections') {
-        currentSection = { questions: [] };
-        parsed.sections?.push(currentSection);
-        currentQuestion = null;
-        currentSubquestion = null;
-        currentSubsubquestion = null;
-        currentTarget = currentSection;
-      } else if (tablePath === 'sections.questions' && currentSection) {
-        currentQuestion = { subquestions: [] };
-        pushChild(currentSection, 'questions', currentQuestion);
-        currentSubquestion = null;
-        currentSubsubquestion = null;
-        currentTarget = currentQuestion;
-      } else if (
-        tablePath === 'sections.questions.subquestions' &&
-        currentQuestion
-      ) {
-        currentSubquestion = { subquestions: [] };
-        pushChild(currentQuestion, 'subquestions', currentSubquestion);
-        currentSubsubquestion = null;
-        currentTarget = currentSubquestion;
-      } else if (
-        tablePath === 'sections.questions.subquestions.subquestions' &&
-        currentSubquestion
-      ) {
-        currentSubsubquestion = {};
-        pushChild(currentSubquestion, 'subquestions', currentSubsubquestion);
-        currentTarget = currentSubsubquestion;
-      } else if (tablePath.endsWith('.workings')) {
-        const node = activeNodeFor(tablePath.replace(/\.workings$/, ''));
-        const working: Record<string, unknown> = {};
-        if (node) {
-          pushChild(node, 'workings', working);
-        }
-        currentTarget = working;
-      } else if (tablePath.endsWith('.answers')) {
-        const node = activeNodeFor(tablePath.replace(/\.answers$/, ''));
-        const answer: Record<string, unknown> = {};
-        if (node) {
-          pushChild(node, 'answers', answer);
-        }
-        currentTarget = answer;
-      } else {
-        currentTarget = null;
-      }
-
-      continue;
-    }
-
-    if (!currentTarget) {
-      continue;
-    }
-
-    const keyValueMatch = /^([A-Za-z0-9_-]+)\s*=\s*(.*)$/.exec(rawLine);
-
-    if (!keyValueMatch) {
-      continue;
-    }
-
-    const [, key, valueStart] = keyValueMatch;
-    let valueSource = valueStart.trim();
-
-    if (
-      (valueSource.startsWith("'''") &&
-        !valueSource.slice(3).includes("'''")) ||
-      (valueSource.startsWith('"""') && !valueSource.slice(3).includes('"""'))
-    ) {
-      const delimiter = valueSource.slice(0, 3);
-
-      while (index + 1 < lines.length) {
-        index += 1;
-        valueSource += `\n${lines[index]}`;
-
-        if (lines[index].trimEnd().endsWith(delimiter)) {
-          break;
-        }
-      }
-    }
-
-    currentTarget[key] = parseTomlValue(valueSource);
-  }
-
-  return parsed;
-}
-
-function looksLikeExemplarPaperToml(raw: string) {
-  return (
-    raw.includes('school              = "%school%"') &&
-    raw.includes('[[sections.questions]]')
-  );
-}
-
-function parsePaperToml(raw: string, folderKey: FolderKey): ParsedPaper {
-  try {
-    return parse(raw) as ParsedPaper;
-  } catch (error) {
-    if (isExemplarFolderKey(folderKey) || looksLikeExemplarPaperToml(raw)) {
-      return parseLoosePaperToml(raw);
-    }
-
-    throw error;
-  }
-}
-
 function focusGroupsFromRaw(raw: string) {
   const match = FOCUS_GROUP_PATTERN.exec(raw);
 
@@ -341,7 +174,7 @@ async function readFileIndexDetails(
     };
   }
 
-  const parsed = parsePaperToml(raw, folderKey);
+  const parsed = parsePaperToml(raw, isExemplarFolderKey(folderKey));
 
   return {
     navFocusGroups: focusGroupsFromRaw(raw),
@@ -410,6 +243,10 @@ function statusToneFor(value: string | null): StatusTone | null {
     case 'ng3':
       return 'statusGreen3';
     case 'ng4':
+    case 'ng5':
+    case 'ng6':
+    case 'ng7':
+    case 'ng8':
       return 'statusGreen4';
     default:
       return 'status';
@@ -651,8 +488,8 @@ async function buildNodeContent(
         rawNode.workings.map(async (entry, index) => {
           if (!entry || typeof entry !== 'object') {
             return {
-              formulas: '',
-              tips: '',
+              formulas: [],
+              tips: [],
               working: '',
             };
           }
@@ -660,11 +497,16 @@ async function buildNodeContent(
           const record = entry as Record<string, unknown>;
 
           return {
-            formulas: await hydrateMarkdown(
-              normalizeString(record.formulas),
-              context,
+            formulas: await Promise.all(
+              workingCollectionValues(record, 'formulas', 'formula').map(
+                value => hydrateMarkdown(value, context),
+              ),
             ),
-            tips: await hydrateMarkdown(normalizeString(record.tips), context),
+            tips: await Promise.all(
+              workingCollectionValues(record, 'tips', 'tip').map(value =>
+                hydrateMarkdown(value, context),
+              ),
+            ),
             working: await hydrateMarkdown(
               normalizeString(record.working),
               context,
@@ -695,9 +537,9 @@ async function buildNodeContent(
 
   return {
     answers: answers.filter(Boolean),
-    formulas: workings.map(entry => entry.formulas).filter(Boolean),
+    formulas: workings.flatMap(entry => entry.formulas),
     question,
-    tips: workings.map(entry => entry.tips).filter(Boolean),
+    tips: workings.flatMap(entry => entry.tips),
     workings: workings.map(entry => entry.working).filter(Boolean),
   };
 }
@@ -1259,7 +1101,7 @@ export async function readPaperDocument(
 ): Promise<PaperDocument> {
   const absolutePath = resolvePaperFilePath(folderKey, relativePath);
   const raw = await fs.readFile(absolutePath, 'utf8');
-  const parsed = parsePaperToml(raw, folderKey);
+  const parsed = parsePaperToml(raw, isExemplarFolderKey(folderKey));
   const fileName = path.basename(relativePath);
   const fileStem = relativePaperSlug(fileName);
   const sections: PaperSection[] = [];

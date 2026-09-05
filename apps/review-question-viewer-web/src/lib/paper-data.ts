@@ -24,6 +24,10 @@ import type {
   ReviewMetadata,
   ViewerTarget,
 } from '@/lib/paper-types';
+import {
+  hydrateWorkingCollection,
+  rawWorkingFromEntry,
+} from '@/lib/working-collections';
 
 type ParsedPaper = {
   meta?: Record<string, unknown>;
@@ -249,24 +253,6 @@ async function hydrateMarkdown(
   return enrichRtqMarkdown(withMacros, context, options);
 }
 
-function rawWorkingFromEntry(entry: unknown): RawWorking {
-  if (!entry || typeof entry !== 'object') {
-    return {
-      formulas: '',
-      tips: '',
-      working: '',
-    };
-  }
-
-  const record = entry as Record<string, unknown>;
-
-  return {
-    formulas: asString(record.formulas),
-    tips: asString(record.tips),
-    working: asString(record.working),
-  };
-}
-
 function rawAnswerFromEntry(entry: unknown): RawAnswer {
   if (!entry || typeof entry !== 'object') {
     return {
@@ -340,8 +326,14 @@ async function buildNodeContent(
 
   const renderedWorkings = await Promise.all(
     rawWorkings.map(async (entry, index) => ({
-      formulas: await hydrateMarkdown(entry.formulas, context),
-      tips: await hydrateMarkdown(entry.tips, context),
+      formulas: await hydrateWorkingCollection(
+        entry.formulas,
+        'formula',
+        value => hydrateMarkdown(value, context),
+      ),
+      tips: await hydrateWorkingCollection(entry.tips, 'tip', value =>
+        hydrateMarkdown(value, context),
+      ),
       working: await hydrateMarkdown(entry.working, context, {
         scopeIndex: index,
         scopeType: 'working',
@@ -365,9 +357,9 @@ async function buildNodeContent(
     },
     rendered: {
       answers: renderedAnswers,
-      formulas: renderedWorkings.map(entry => entry.formulas),
+      formulas: renderedWorkings.flatMap(entry => entry.formulas),
       question: await hydrateMarkdown(rawQuestion, context),
-      tips: renderedWorkings.map(entry => entry.tips),
+      tips: renderedWorkings.flatMap(entry => entry.tips),
       workings: renderedWorkings.map(entry => entry.working),
     },
   };
@@ -508,6 +500,10 @@ function ragTone(value: string): RagState['tone'] {
     'ng2',
     'ng3',
     'ng4',
+    'ng5',
+    'ng6',
+    'ng7',
+    'ng8',
     'notstarted',
     'pr',
     'prai',
@@ -554,7 +550,7 @@ function sheetCodeFromRag(value: string | null | undefined) {
     return 'PR';
   }
 
-  if (/^g[0-4]$/.test(state) || /^ng[1-4]$/.test(state)) {
+  if (/^g[0-4]$/.test(state) || /^ng[1-8]$/.test(state)) {
     return state.toUpperCase();
   }
 

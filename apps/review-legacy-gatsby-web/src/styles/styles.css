@@ -302,6 +302,17 @@ img {
   /* background-color: greenyellow; */
 }
 
+.question_envelope.question.rag_ng1,
+.question_envelope.question.rag_ng2,
+.question_envelope.question.rag_ng3,
+.question_envelope.question.rag_ng4,
+.question_envelope.question.rag_ng5,
+.question_envelope.question.rag_ng6,
+.question_envelope.question.rag_ng7,
+.question_envelope.question.rag_ng8 {
+  background-color: rgba(173, 255, 47, 0.5);
+}
+
 .question_envelope.question.rag_green {
   background-color: rgba(173, 255, 47, 1);
   /* background-color: rgba(0, 255, 0, 0.2); */

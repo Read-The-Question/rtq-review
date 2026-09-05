@@ -2,15 +2,8 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 
 import matter from 'gray-matter';
-import rehypeKatex from 'rehype-katex';
-import rehypeRaw from 'rehype-raw';
-import rehypeStringify from 'rehype-stringify';
-import remarkGfm from 'remark-gfm';
-import remarkMath from 'remark-math';
-import remarkParse from 'remark-parse';
-import remarkRehype from 'remark-rehype';
-import { unified } from 'unified';
 
+import { renderMarkdownToHtml } from '@/lib/markdown-renderer';
 import { getSectionLabel, getSectionOrder, rtqPaths } from '@/lib/rtq-config';
 import { rtqKatexMacros } from '@/lib/rtq-katex';
 
@@ -118,27 +111,6 @@ function compareDocuments(a: ContentDocument, b: ContentDocument) {
   });
 }
 
-async function renderMarkdownToHtml(markdown: string) {
-  const file = await unified()
-    .use(remarkParse)
-    .use(remarkGfm)
-    .use(remarkMath)
-    .use(remarkRehype, { allowDangerousHtml: true })
-    .use(rehypeRaw)
-    .use(
-      rehypeKatex as never,
-      {
-        macros: rtqKatexMacros,
-        strict: 'warn',
-        throwOnError: false,
-      } as never,
-    )
-    .use(rehypeStringify, { allowDangerousHtml: true })
-    .process(markdown);
-
-  return String(file);
-}
-
 async function collectMarkdownFiles(
   rootDir: string,
   currentDir = rootDir,
@@ -199,7 +171,7 @@ async function parseDocument(filePath: string): Promise<ContentDocument> {
     date: frontmatter.date,
     fileName: path.basename(filePath),
     filePath,
-    html: await renderMarkdownToHtml(parsed.content),
+    html: await renderMarkdownToHtml(parsed.content, rtqKatexMacros),
     questionCount,
     rawQuestionCount,
     relativePath,

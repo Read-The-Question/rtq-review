@@ -17,6 +17,10 @@ const COLLECTION_COPY: Record<
   RegisteredPaperCollectionId,
   Readonly<{ description: string; label: string }>
 > = {
+  allTagsToml: {
+    description: 'Papers grouped across all dimensional tags',
+    label: 'All Tags Papers',
+  },
   focusRagToml: {
     description: 'Focus-group RAG/status variants',
     label: 'Focus RAG Papers',

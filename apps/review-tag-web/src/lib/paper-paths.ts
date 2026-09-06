@@ -5,9 +5,10 @@ import {
   resolveRtqContentPaths,
 } from '@rtq/review-repository-paths';
 
-import type { EditableFolderKey, FolderKey } from '@/lib/paper-types';
+import type { FolderKey, RegisteredFolderKey } from '@/lib/paper-types';
 
 import {
+  EDITABLE_FOLDER_ORDER,
   FOLDER_ORDER,
   compareFolderKeys,
   folderLabel,
@@ -18,6 +19,7 @@ import {
 } from './paper-folder-metadata.ts';
 
 export {
+  EDITABLE_FOLDER_ORDER,
   FOLDER_ORDER,
   compareFolderKeys,
   folderLabel,
@@ -47,13 +49,18 @@ export const MACROS_TOML_PATH = path.join(
 export const EXTERNAL_ASSETS_ROOT = contentPaths.assetsRoot;
 
 export const SOURCE_FOLDERS: Record<
-  EditableFolderKey,
+  RegisteredFolderKey,
   {
     absolutePath: string;
     description: string;
     label: string;
   }
 > = {
+  allTagsToml: {
+    absolutePath: path.join(SOURCE_PAPERS_ROOT, 'allTagsToml'),
+    description: 'Papers grouped across all dimensional tags',
+    label: 'All Tags Papers',
+  },
   focusToml: {
     absolutePath: path.join(SOURCE_PAPERS_ROOT, 'focusToml'),
     description: 'Focus-group derived papers',
@@ -101,7 +108,7 @@ export function resolveFolderPath(folderKey: FolderKey) {
     return path.join(SOURCE_PAPERS_ROOT, folderKey);
   }
 
-  return SOURCE_FOLDERS[folderKey as EditableFolderKey].absolutePath;
+  return SOURCE_FOLDERS[folderKey as RegisteredFolderKey].absolutePath;
 }
 
 export function resolvePaperFilePath(

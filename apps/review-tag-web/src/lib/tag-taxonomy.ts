@@ -6,7 +6,7 @@ import { parse } from '@iarna/toml';
 import {
   DIMENSIONAL_MAPPING_PATH,
   DIMENSIONAL_STYLE_GUIDES_ROOT,
-  FOLDER_ORDER,
+  EDITABLE_FOLDER_ORDER,
   resolveFolderPath,
 } from '@/lib/paper-paths';
 import type {
@@ -185,7 +185,7 @@ async function buildTagCatalog(): Promise<TagCatalog> {
   const [styleGuideTags, mappingTags, ...folderTags] = await Promise.all([
     readStyleGuideTags(),
     readDimensionalMappingTags(),
-    ...FOLDER_ORDER.map(folderKey => collectTagsFromFolder(folderKey)),
+    ...EDITABLE_FOLDER_ORDER.map(folderKey => collectTagsFromFolder(folderKey)),
   ]);
 
   for (const collection of [styleGuideTags, mappingTags, ...folderTags]) {
@@ -239,7 +239,7 @@ async function tagSourceSignature() {
   const signatures = await Promise.all([
     statSignature(DIMENSIONAL_MAPPING_PATH),
     folderSignature(DIMENSIONAL_STYLE_GUIDES_ROOT, '.md'),
-    ...FOLDER_ORDER.map(folderKey =>
+    ...EDITABLE_FOLDER_ORDER.map(folderKey =>
       folderSignature(resolveFolderPath(folderKey), '.toml'),
     ),
   ]);

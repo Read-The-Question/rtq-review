@@ -2,9 +2,10 @@ import type {
   EditableFolderKey,
   ExemplarFolderKey,
   FolderKey,
+  RegisteredFolderKey,
 } from '@/lib/paper-types';
 
-export const FOLDER_ORDER: EditableFolderKey[] = [
+export const EDITABLE_FOLDER_ORDER: EditableFolderKey[] = [
   'toml',
   'focusToml',
   'focusTopicToml',
@@ -15,7 +16,20 @@ export const FOLDER_ORDER: EditableFolderKey[] = [
   'ragTopicToml',
 ];
 
-const FOLDER_LABELS: Record<EditableFolderKey, string> = {
+export const FOLDER_ORDER: RegisteredFolderKey[] = [
+  'toml',
+  'allTagsToml',
+  'focusToml',
+  'focusTopicToml',
+  'focusRagToml',
+  'focusRagTopicToml',
+  'topicToml',
+  'ragToml',
+  'ragTopicToml',
+];
+
+const FOLDER_LABELS: Record<RegisteredFolderKey, string> = {
+  allTagsToml: 'All Tags Papers',
   focusToml: 'Focus Papers',
   focusTopicToml: 'Focus Topic Papers',
   focusRagToml: 'Focus RAG Papers',
@@ -38,15 +52,15 @@ export function isExemplarFolderKey(value: string): value is ExemplarFolderKey {
 }
 
 export function isEditableFolderKey(value: string): value is EditableFolderKey {
-  return value in FOLDER_LABELS;
+  return (EDITABLE_FOLDER_ORDER as readonly string[]).includes(value);
 }
 
 export function isFolderKey(value: string): value is FolderKey {
-  return isEditableFolderKey(value) || isExemplarFolderKey(value);
+  return value in FOLDER_LABELS || isExemplarFolderKey(value);
 }
 
 export function isReadOnlyFolder(folderKey: FolderKey) {
-  return isExemplarFolderKey(folderKey);
+  return !isEditableFolderKey(folderKey);
 }
 
 export function folderLabel(folderKey: FolderKey) {
@@ -56,12 +70,12 @@ export function folderLabel(folderKey: FolderKey) {
     return `Exemplars Level ${level}`;
   }
 
-  return FOLDER_LABELS[folderKey as EditableFolderKey];
+  return FOLDER_LABELS[folderKey as RegisteredFolderKey];
 }
 
 export function compareFolderKeys(left: FolderKey, right: FolderKey) {
-  const leftIndex = FOLDER_ORDER.indexOf(left as EditableFolderKey);
-  const rightIndex = FOLDER_ORDER.indexOf(right as EditableFolderKey);
+  const leftIndex = FOLDER_ORDER.indexOf(left as RegisteredFolderKey);
+  const rightIndex = FOLDER_ORDER.indexOf(right as RegisteredFolderKey);
 
   if (leftIndex !== -1 || rightIndex !== -1) {
     if (leftIndex === -1) return 1;

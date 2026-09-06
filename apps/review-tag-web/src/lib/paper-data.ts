@@ -360,18 +360,20 @@ function navigationCopyForFile(folderKey: FolderKey, stem: string) {
   }
 }
 
-async function listExemplarFolderKeys(): Promise<ExemplarFolderKey[]> {
+async function listSourceFolderKeys(): Promise<FolderKey[]> {
   const entries = await fs.readdir(SOURCE_PAPERS_ROOT, { withFileTypes: true });
-
-  return entries
+  const directoryNames = new Set(
+    entries.filter(entry => entry.isDirectory()).map(entry => entry.name),
+  );
+  const registeredFolderKeys = FOLDER_ORDER.filter(folderKey =>
+    directoryNames.has(folderKey),
+  );
+  const exemplarFolderKeys = entries
     .filter(entry => entry.isDirectory() && isExemplarFolderKey(entry.name))
     .map(entry => entry.name as ExemplarFolderKey)
     .sort(compareFolderKeys);
-}
 
-async function listSourceFolderKeys(): Promise<FolderKey[]> {
-  const exemplarFolderKeys = await listExemplarFolderKeys();
-  return [...FOLDER_ORDER, ...exemplarFolderKeys];
+  return [...registeredFolderKeys, ...exemplarFolderKeys];
 }
 
 function normalizeString(value: unknown) {

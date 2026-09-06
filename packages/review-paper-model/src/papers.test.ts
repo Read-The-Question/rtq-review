@@ -19,6 +19,7 @@ import {
 
 const registeredCollections = [
   'toml',
+  'allTagsToml',
   'focusToml',
   'focusTopicToml',
   'focusRagToml',
@@ -197,6 +198,7 @@ formula = '''Two'''
 test('discovers only supported existing collections in stable order', async () => {
   const root = createContentWorkspace([
     'toml',
+    'allTagsToml',
     'focusToml',
     'topicToml',
     'exemplarsLevel11Toml',
@@ -214,6 +216,7 @@ test('discovers only supported existing collections in stable order', async () =
       collections.map((collection) => collection.id),
       [
         'toml',
+        'allTagsToml',
         'focusToml',
         'topicToml',
         'exemplarsLevel3Toml',
@@ -225,6 +228,8 @@ test('discovers only supported existing collections in stable order', async () =
       true,
     );
     assert.equal(collections[0].generated, false);
+    assert.equal(collections[1].generated, true);
+    assert.equal(collections[1].label, 'All Tags Papers');
     assert.equal(collections.at(-1)?.exemplarLevel, 11);
   } finally {
     rmSync(root, { force: true, recursive: true });

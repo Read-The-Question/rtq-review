@@ -8,6 +8,7 @@ export const DIMENSIONAL_TAG_AXES = [
 
 export const REVIEWABLE_COLLECTION_IDS = [
   'toml',
+  'allTagsToml',
   'focusToml',
   'focusTopicToml',
   'focusRagToml',

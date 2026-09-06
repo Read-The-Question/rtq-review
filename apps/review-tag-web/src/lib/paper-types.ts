@@ -7,8 +7,11 @@ export type EditableFolderKey =
   | 'topicToml'
   | 'ragToml'
   | 'ragTopicToml';
+export type ReadOnlyGeneratedFolderKey = 'allTagsToml';
+export type RegisteredFolderKey =
+  EditableFolderKey | ReadOnlyGeneratedFolderKey;
 export type ExemplarFolderKey = `exemplarsLevel${number}Toml`;
-export type FolderKey = EditableFolderKey | ExemplarFolderKey;
+export type FolderKey = RegisteredFolderKey | ExemplarFolderKey;
 export type StatusTone =
   | 'status'
   | 'statusAmber'

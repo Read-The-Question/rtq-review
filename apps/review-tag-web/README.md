@@ -47,6 +47,11 @@ JSON metadata and generated LongDivision sources remain non-public, with
 LongDivision prepared inline by the canonical asset-repository command. No
 paper assets are mirrored into this repository's `public/` tree.
 
+The generated `allTagsToml` collection and discovered
+`exemplarsLevel<Tier>Toml` collections can be browsed in Tag Review, but are
+read-only. Tag mutations remain available only for the canonical and existing
+editable derived collections.
+
 ## Checks and production build
 
 ```bash

@@ -12,6 +12,8 @@ for the optional legacy startup sequence, and the
 [RTQ repository landscape](https://github.com/Read-The-Question/rtq-web/blob/develop/apps/web/docs/architecture/platform/rtq-repository-landscape.md)
 for the retention status and intentional Gatsby-only copy boundary. Do not use
 this README as the complete multi-repository runbook.
+Its legacy KaTeX macro path and semantic-colour limitations are recorded in the
+[RTQ KaTeX Semantic Colour Architecture](https://github.com/Read-The-Question/rtq-web/blob/develop/apps/web/docs/architecture/design-system/katex-semantic-colours.md).
 
 ## Local use
 

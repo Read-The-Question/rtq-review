@@ -6,6 +6,8 @@ import {
   type ResolveRtqContentOptions,
 } from '@rtq/review-repository-paths';
 
+import { isPaperCollectionId } from './collections.ts';
+
 const windowsAbsolutePathPattern = /^[a-z]:[\\/]/i;
 
 function isDirectory(path: string): boolean {
@@ -38,6 +40,10 @@ function assertSimpleDirectoryName(value: string): void {
     throw new Error(
       'Paper collection must be a single relative directory name.',
     );
+  }
+
+  if (!isPaperCollectionId(value)) {
+    throw new Error('Unsupported paper collection.');
   }
 }
 

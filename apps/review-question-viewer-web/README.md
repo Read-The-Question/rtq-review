@@ -9,6 +9,8 @@ Use the
 for the complete review-stack setup and startup sequence, and the
 [RTQ repository landscape](https://github.com/Read-The-Question/rtq-web/blob/develop/apps/web/docs/architecture/platform/rtq-repository-landscape.md)
 for the direct TOML read and canonical-asset ownership boundaries.
+Its KaTeX macro path and current semantic-colour conformance are recorded in the
+[RTQ KaTeX Semantic Colour Architecture](https://github.com/Read-The-Question/rtq-web/blob/develop/apps/web/docs/architecture/design-system/katex-semantic-colours.md).
 
 ## Requirements
 

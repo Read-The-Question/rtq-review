@@ -4,15 +4,17 @@
   "private": true,
   "type": "module",
   "exports": {
-    ".": "./src/index.ts"
+    ".": "./src/index.ts",
+    "./client": "./src/client.ts"
   },
   "scripts": {
     "format:check": "prettier --check .",
     "format:fix": "prettier --write .",
-    "test": "node --no-warnings --test --experimental-strip-types src/index.test.ts",
+    "test": "node --no-warnings --test --experimental-strip-types src/filters.test.ts src/index.test.ts src/papers.test.ts",
     "types": "tsc --noEmit"
   },
   "dependencies": {
+    "@iarna/toml": "^2.2.5",
     "@rtq/review-repository-paths": "workspace:*"
   },
   "devDependencies": {

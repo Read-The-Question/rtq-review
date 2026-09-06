@@ -1,7 +1,7 @@
 ---
 slug: "focustomlpapers/the-haberdashers-askes-boys-school-11-plus-maths-2017-paper-1"
 title: "Focus Paper - The Haberdashers Askes Boys School - 11 Plus - Maths - 2017 - Paper 1"
-date: 2026-09-05 13:08:46
+date: 2026-09-06 06:52:36
 questions_count: "30"
 ---
 <div class="paper" id="page-the-haberdashers-askes-boys-school-11-plus-maths-2017-paper-1-top">
@@ -263,7 +263,7 @@ Subtract: $96 - 47$
 <div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
 <div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
 <div style="flex: 1; height: 1px; background: #d2d8df;"></div>
-<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Borrowing shown</div>
 <div style="flex: 1; height: 1px; background: #d2d8df;"></div>
 </div>
 <div class="paper-working-section-body">
@@ -283,7 +283,7 @@ $
 <div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
 <div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
 <div style="flex: 1; height: 1px; background: #d2d8df;"></div>
-<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Borrowing not shown</div>
 <div style="flex: 1; height: 1px; background: #d2d8df;"></div>
 </div>
 <div class="paper-working-section-body">
@@ -317,7 +317,7 @@ $49$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="Borrowing shown"&gt;
 
 &#36;
 \begin{array}{cccccccccccccc}
@@ -330,7 +330,7 @@ $49$
 
 &lt;/WorkingSection&gt;
 
-&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+&lt;WorkingSection phase="conclusion" title="Borrowing not shown"&gt;
 
 &#36;
 \begin{array}{cccccccccccccc}

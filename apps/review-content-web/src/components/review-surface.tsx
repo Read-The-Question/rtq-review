@@ -1,0 +1,1222 @@
+'use client';
+
+import Link from 'next/link';
+import { usePathname, useSearchParams } from 'next/navigation';
+import {
+  type FormEvent,
+  useCallback,
+  useEffect,
+  useMemo,
+  useRef,
+  useState,
+} from 'react';
+
+import {
+  DIMENSIONAL_TAG_AXES,
+  clearAllReviewFilters,
+  filterReviewPaper,
+  parseReviewFilterSearchParams,
+  serializeReviewFilterSearchParams,
+  type DimensionalTagAxis,
+  type ReviewFilterSelection,
+} from '@rtq/review-paper-model/client';
+
+import type {
+  DisplayContentField,
+  DisplayPaperNode,
+  DisplayReviewPaper,
+} from '@/lib/display-model';
+import {
+  DEFAULT_REVIEW_PREFERENCES,
+  REVIEW_PREFERENCES_KEY,
+  adjacentQuestionId,
+  parseReviewPreferences,
+  reviewStateLabel,
+  type ReviewPreferences,
+} from '@/lib/review-view-model';
+import {
+  REVIEW_OUTCOMES,
+  partitionReviewComments,
+  reviewCommentTargetForNode,
+  reviewTargetForNode,
+  reviewTargetKey,
+  runUniqueReviewRequest,
+  type LocalReviewComment,
+  type ReviewCommentLoad,
+  type ReviewOutcome,
+  type ReviewSide,
+  type ReviewTargetDescriptor,
+} from '@/lib/review-types';
+
+import { RtqMarkdown } from './rtq-markdown';
+import { SiteHeader } from './site-header';
+
+const axisCopy: Readonly<Record<DimensionalTagAxis, string>> = {
+  family: 'Family',
+  frame: 'Frame',
+  marker: 'Marker',
+  math: 'Math',
+  reasoning: 'Reasoning',
+};
+
+function hasField(field: DisplayContentField): boolean {
+  return Boolean(field.rendered.trim() || field.raw.trim());
+}
+
+function ContentField({
+  field,
+  label,
+  preferences,
+}: {
+  field: DisplayContentField;
+  label: string;
+  preferences: ReviewPreferences;
+}) {
+  if (!hasField(field)) return null;
+  return (
+    <div className="content-field">
+      <div className="content-field-label">{label}</div>
+      {field.rendered.trim() ? <RtqMarkdown markdown={field.rendered} /> : null}
+      {field.preparationIssue ? (
+        <p className="preparation-issue" role="status">
+          Asset preparation note: {field.preparationIssue}
+        </p>
+      ) : null}
+      {preferences.showRaw ? (
+        <details className="raw-source" open>
+          <summary>{label} source</summary>
+          <pre>
+            <code>{field.raw || '(empty)'}</code>
+          </pre>
+        </details>
+      ) : null}
+    </div>
+  );
+}
+
+function statusValue(value: string | undefined): string {
+  return value ?? 'Not set';
+}
+
+type ReviewRuntimeState = Readonly<{
+  appendComment: (
+    target: ReviewTargetDescriptor,
+    comment: string,
+    submissionId: string,
+  ) => Promise<LocalReviewComment>;
+  commentError?: string;
+  comments: readonly LocalReviewComment[];
+  outcomeOverrides: Readonly<Record<string, ReviewOutcome>>;
+  pendingKeys: ReadonlySet<string>;
+  reviewer: string;
+  showAllFeedback: boolean;
+  source: Readonly<{ collectionId: string; relativePath: string }>;
+  submitOutcome: (
+    target: ReviewTargetDescriptor,
+    outcome: ReviewOutcome,
+  ) => Promise<string>;
+}>;
+
+type ReviewActionStatus = Readonly<{
+  kind: 'error' | 'idle' | 'success';
+  message: string;
+}>;
+
+function utcDateTime(value: string): string {
+  const parsed = new Date(value);
+  if (Number.isNaN(parsed.getTime())) return value;
+  return `${parsed.toISOString().slice(0, 16).replace('T', ' ')} UTC`;
+}
+
+function CommentList({
+  comments,
+  current,
+}: {
+  comments: readonly LocalReviewComment[];
+  current: boolean;
+}) {
+  if (comments.length === 0) {
+    return current ? (
+      <p className="comment-empty">No comments in this state.</p>
+    ) : null;
+  }
+  return (
+    <ol className={`comment-list${current ? '' : ' comment-list--history'}`}>
+      {comments.map((comment) => (
+        <li key={comment.id}>
+          <div>
+            <strong>{comment.reviewer}</strong>
+            <time dateTime={comment.createdAt}>
+              {utcDateTime(comment.createdAt)}
+            </time>
+            {!current ? (
+              <span title={comment.ragState}>
+                {reviewStateLabel(comment.ragState)} · not current
+              </span>
+            ) : null}
+          </div>
+          <p>{comment.comment}</p>
+        </li>
+      ))}
+    </ol>
+  );
+}
+
+function targetUnavailableReason(
+  node: DisplayPaperNode,
+  topLevelQuestion: DisplayPaperNode,
+  side: ReviewSide,
+): string {
+  if (!node.uuid) return 'rtq-uuid is unavailable.';
+  if (!topLevelQuestion.review[side].contentRag) {
+    return `${side === 'question' ? 'Question' : 'Answer'} RAG is unavailable on the top-level question.`;
+  }
+  return 'Review metadata is unavailable.';
+}
+
+function ReviewScope({
+  node,
+  outcomesEnabled,
+  runtime,
+  side,
+  topLevelQuestion,
+}: {
+  node: DisplayPaperNode;
+  outcomesEnabled: boolean;
+  runtime: ReviewRuntimeState;
+  side: ReviewSide;
+  topLevelQuestion: DisplayPaperNode;
+}) {
+  const [draft, setDraft] = useState('');
+  const [status, setStatus] = useState<ReviewActionStatus>({
+    kind: 'idle',
+    message: '',
+  });
+  const submissionId = useRef<string | undefined>(undefined);
+  const target = outcomesEnabled
+    ? reviewTargetForNode(node, side, runtime.source)
+    : reviewCommentTargetForNode(node, topLevelQuestion, side, runtime.source);
+  const key = target ? reviewTargetKey(target) : `${node.id}:${side}`;
+  const outcomePending = runtime.pendingKeys.has(`${key}:outcome`);
+  const commentPending = runtime.pendingKeys.has(`${key}:comment`);
+  const commentGroups = target
+    ? partitionReviewComments(runtime.comments, target)
+    : { current: [], history: [] };
+  const displayedOutcome =
+    runtime.outcomeOverrides[key] ?? node.review[side].reviewOutcome;
+  const outcomeDisabledReason = !target
+    ? targetUnavailableReason(node, topLevelQuestion, side)
+    : !target.sheet
+      ? `Source state ${reviewStateLabel(target.ragState)} has no Google Sheets route.`
+      : undefined;
+  const commentDisabledReason = !target
+    ? targetUnavailableReason(node, topLevelQuestion, side)
+    : runtime.commentError;
+
+  async function submitOutcome(outcome: ReviewOutcome) {
+    if (!target || outcomeDisabledReason || outcomePending) return;
+    setStatus({ kind: 'idle', message: '' });
+    try {
+      const message = await runtime.submitOutcome(target, outcome);
+      setStatus({ kind: 'success', message });
+    } catch (error) {
+      setStatus({
+        kind: 'error',
+        message: error instanceof Error ? error.message : 'Outcome failed.',
+      });
+    }
+  }
+
+  async function submitComment(event: FormEvent<HTMLFormElement>) {
+    event.preventDefault();
+    if (!target || commentPending || commentDisabledReason) return;
+    const comment = draft.trim();
+    if (!comment) {
+      setStatus({
+        kind: 'error',
+        message: 'Enter a comment before adding it.',
+      });
+      return;
+    }
+    submissionId.current ??= crypto.randomUUID();
+    setStatus({ kind: 'idle', message: '' });
+    try {
+      await runtime.appendComment(target, comment, submissionId.current);
+      submissionId.current = undefined;
+      setDraft('');
+      setStatus({
+        kind: 'success',
+        message: 'Comment added to local review history.',
+      });
+    } catch (error) {
+      setStatus({
+        kind: 'error',
+        message: error instanceof Error ? error.message : 'Comment failed.',
+      });
+    }
+  }
+
+  return (
+    <section className={`review-scope review-scope--${side}`}>
+      <header>
+        <div>
+          <span>{outcomesEnabled ? `${side} review` : `${side} feedback`}</span>
+          <h4>{side === 'question' ? 'Question' : 'Answer'}</h4>
+        </div>
+        <dl>
+          <div>
+            <dt>Source</dt>
+            <dd>
+              {target
+                ? reviewStateLabel(target.ragState)
+                : statusValue(node.review[side].contentRag)}
+            </dd>
+          </div>
+          {outcomesEnabled ? (
+            <>
+              <div>
+                <dt>Outcome</dt>
+                <dd>
+                  {displayedOutcome
+                    ? reviewStateLabel(displayedOutcome)
+                    : 'Not reviewed'}
+                </dd>
+              </div>
+              <div>
+                <dt>Sheet</dt>
+                <dd>{target?.sheet ?? 'Unavailable'}</dd>
+              </div>
+            </>
+          ) : null}
+        </dl>
+      </header>
+
+      {outcomesEnabled ? (
+        <>
+          <div
+            className="outcome-actions"
+            aria-label={`${side} review outcomes`}
+          >
+            {REVIEW_OUTCOMES.map((outcome) => (
+              <button
+                aria-pressed={
+                  reviewStateLabel(displayedOutcome ?? '') === outcome
+                }
+                disabled={Boolean(outcomeDisabledReason) || outcomePending}
+                key={outcome}
+                onClick={() => void submitOutcome(outcome)}
+                title={outcomeDisabledReason}
+                type="button"
+              >
+                {outcome}
+              </button>
+            ))}
+          </div>
+          {outcomeDisabledReason ? (
+            <p className="review-unavailable">{outcomeDisabledReason}</p>
+          ) : null}
+        </>
+      ) : null}
+
+      <section
+        className="current-comments"
+        aria-label={`${side} current comments`}
+      >
+        <div className="comment-heading">
+          <strong>Current feedback</strong>
+          <span>
+            {target ? reviewStateLabel(target.ragState) : 'State unavailable'}
+          </span>
+        </div>
+        <CommentList comments={commentGroups.current} current />
+      </section>
+
+      {runtime.showAllFeedback && commentGroups.history.length ? (
+        <details className="comment-history">
+          <summary>
+            Earlier-state history ({commentGroups.history.length})
+          </summary>
+          <p>
+            Read only · these comments do not apply to the current RAG state.
+          </p>
+          <CommentList comments={commentGroups.history} current={false} />
+        </details>
+      ) : null}
+
+      {node.review[side].legacyComments ? (
+        <details className="legacy-source-comments">
+          <summary>Legacy synchronized comment</summary>
+          <pre>{node.review[side].legacyComments}</pre>
+        </details>
+      ) : null}
+
+      <form
+        className="comment-form"
+        onSubmit={(event) => void submitComment(event)}
+      >
+        <label>
+          Add feedback as {runtime.reviewer}
+          <textarea
+            disabled={Boolean(commentDisabledReason)}
+            maxLength={10_000}
+            onChange={(event) => setDraft(event.target.value)}
+            placeholder="Append a state-specific comment…"
+            rows={3}
+            value={draft}
+          />
+        </label>
+        <button
+          disabled={Boolean(commentDisabledReason) || commentPending}
+          type="submit"
+        >
+          {commentPending ? 'Adding locally…' : 'Add comment'}
+        </button>
+      </form>
+      {commentDisabledReason ? (
+        <p className="review-unavailable">{commentDisabledReason}</p>
+      ) : null}
+      {status.message ? (
+        <p
+          className={`review-action-status review-action-status--${status.kind}`}
+          role="status"
+        >
+          {status.message}
+        </p>
+      ) : null}
+    </section>
+  );
+}
+
+function ReviewPanel({
+  node,
+  runtime,
+  topLevelQuestion,
+}: {
+  node: DisplayPaperNode;
+  runtime: ReviewRuntimeState;
+  topLevelQuestion: DisplayPaperNode;
+}) {
+  const outcomesEnabled = node.depth === 0;
+  return (
+    <aside
+      className={`review-panel${outcomesEnabled ? '' : ' review-panel--nested'}`}
+      aria-label={`${node.label} review status`}
+    >
+      <div className="review-panel-heading">
+        <span>{outcomesEnabled ? 'Review workflow' : 'Node feedback'}</span>
+        <span>
+          {outcomesEnabled
+            ? 'Outcomes → Sheets · comments → local SQLite'
+            : `Own UUID · RAG inherited from ${topLevelQuestion.label}`}
+        </span>
+      </div>
+      <div className="review-scopes">
+        <ReviewScope
+          node={node}
+          outcomesEnabled={outcomesEnabled}
+          runtime={runtime}
+          side="question"
+          topLevelQuestion={topLevelQuestion}
+        />
+        <ReviewScope
+          node={node}
+          outcomesEnabled={outcomesEnabled}
+          runtime={runtime}
+          side="answer"
+          topLevelQuestion={topLevelQuestion}
+        />
+      </div>
+    </aside>
+  );
+}
+
+function NodeTags({ node }: { node: DisplayPaperNode }) {
+  return (
+    <div className="node-tags" aria-label={`${node.label} dimensional tags`}>
+      {DIMENSIONAL_TAG_AXES.map((axis) => {
+        const tags = node.effectiveTags.filter((tag) => tag.axis === axis);
+        return tags.length ? (
+          <div className={`tag-group tag-group--${axis}`} key={axis}>
+            <span>{axisCopy[axis]}</span>
+            {tags.map((tag) => (
+              <code key={`${tag.value}:${tag.origin}`} title={tag.origin}>
+                {tag.value.slice(axis.length + 1)}
+                {tag.origin === 'inherited' ? ' ↳' : ''}
+                {tag.origin === 'implicit' ? ' · default' : ''}
+              </code>
+            ))}
+          </div>
+        ) : null;
+      })}
+    </div>
+  );
+}
+
+function SolutionContent({
+  node,
+  preferences,
+}: {
+  node: DisplayPaperNode;
+  preferences: ReviewPreferences;
+}) {
+  if (!preferences.showSolutions) return null;
+  const hasWorkings = node.content.workings.some(
+    (working) =>
+      hasField(working.working) ||
+      working.formulas.some(hasField) ||
+      working.tips.some(hasField),
+  );
+  const hasAnswers = node.content.answers.some(
+    (answer) =>
+      hasField(answer.option) ||
+      hasField(answer.key) ||
+      hasField(answer.answer),
+  );
+  if (!hasWorkings && !hasAnswers) return null;
+
+  return (
+    <div className="solution-grid">
+      {hasWorkings ? (
+        <section className="solution-block">
+          <h4>Working</h4>
+          {node.content.workings.map((working, index) => (
+            <div className="solution-entry" key={index}>
+              {node.content.workings.length > 1 ? (
+                <span className="entry-number">Method {index + 1}</span>
+              ) : null}
+              {working.formulas.map((formula, formulaIndex) => (
+                <ContentField
+                  field={formula}
+                  key={formulaIndex}
+                  label={`Formula ${formulaIndex + 1}`}
+                  preferences={preferences}
+                />
+              ))}
+              {working.tips.map((tip, tipIndex) => (
+                <ContentField
+                  field={tip}
+                  key={tipIndex}
+                  label={`Tip ${tipIndex + 1}`}
+                  preferences={preferences}
+                />
+              ))}
+              <ContentField
+                field={working.working}
+                label="Working"
+                preferences={preferences}
+              />
+            </div>
+          ))}
+        </section>
+      ) : null}
+      {hasAnswers ? (
+        <section className="solution-block solution-block--answers">
+          <h4>Answers</h4>
+          {node.content.answers.map((answer, index) => (
+            <div className="solution-entry" key={index}>
+              {node.content.answers.length > 1 ? (
+                <span className="entry-number">Answer {index + 1}</span>
+              ) : null}
+              <ContentField
+                field={answer.option}
+                label="Option"
+                preferences={preferences}
+              />
+              <ContentField
+                field={answer.key}
+                label="Key"
+                preferences={preferences}
+              />
+              <ContentField
+                field={answer.answer}
+                label="Answer"
+                preferences={preferences}
+              />
+            </div>
+          ))}
+        </section>
+      ) : null}
+    </div>
+  );
+}
+
+function QuestionNode({
+  active,
+  matchingNodeIds,
+  node,
+  onActivate,
+  preferences,
+  reviewRuntime,
+  topLevelQuestion,
+}: {
+  active: boolean;
+  matchingNodeIds: ReadonlySet<string>;
+  node: DisplayPaperNode;
+  onActivate: () => void;
+  preferences: ReviewPreferences;
+  reviewRuntime: ReviewRuntimeState;
+  topLevelQuestion: DisplayPaperNode;
+}) {
+  const exactMatch = matchingNodeIds.has(node.id);
+  return (
+    <article
+      className={`question-node question-node--depth-${node.depth}${
+        active && node.depth === 0 ? ' question-node--active' : ''
+      }${exactMatch ? '' : ' question-node--context'}`}
+      id={`question-${node.id}`}
+      onFocusCapture={onActivate}
+      tabIndex={node.depth === 0 ? 0 : -1}
+    >
+      <header className="question-heading">
+        <div className="question-label">
+          <span>{node.kind.replaceAll('-', ' ')}</span>
+          <h3>{node.label}</h3>
+        </div>
+        <div className="question-identifiers">
+          {node.uuid ? <code>UUID {node.uuid}</code> : null}
+          <code>{node.sourceQuestionId}</code>
+          {node.originalSource?.paperStem ? (
+            <span>Source · {node.originalSource.paperStem}</span>
+          ) : null}
+        </div>
+      </header>
+
+      {preferences.showTags ? <NodeTags node={node} /> : null}
+      <div className="question-copy">
+        <ContentField
+          field={node.content.question}
+          label="Question"
+          preferences={preferences}
+        />
+      </div>
+      <SolutionContent node={node} preferences={preferences} />
+      {preferences.showReview ? (
+        <ReviewPanel
+          node={node}
+          runtime={reviewRuntime}
+          topLevelQuestion={topLevelQuestion}
+        />
+      ) : null}
+      {node.children.length ? (
+        <div className="nested-questions">
+          {node.children.map((child) => (
+            <QuestionNode
+              active={active}
+              key={child.id}
+              matchingNodeIds={matchingNodeIds}
+              node={child}
+              onActivate={onActivate}
+              preferences={preferences}
+              reviewRuntime={reviewRuntime}
+              topLevelQuestion={topLevelQuestion}
+            />
+          ))}
+        </div>
+      ) : null}
+    </article>
+  );
+}
+
+function PreferenceToggle({
+  checked,
+  label,
+  onChange,
+}: {
+  checked: boolean;
+  label: string;
+  onChange: (checked: boolean) => void;
+}) {
+  return (
+    <label className="preference-toggle">
+      <input
+        checked={checked}
+        onChange={(event) => onChange(event.target.checked)}
+        type="checkbox"
+      />
+      <span aria-hidden="true" />
+      {label}
+    </label>
+  );
+}
+
+function FilterPanel({
+  facets,
+  onClear,
+  onToggle,
+  onToggleState,
+  selection,
+  stateFacets,
+}: {
+  facets: ReturnType<typeof filterReviewPaper>['facets'];
+  onClear: () => void;
+  onToggle: (axis: DimensionalTagAxis, value: string) => void;
+  onToggleState: (
+    parameter: 'answerRag' | 'questionRag',
+    value: string,
+  ) => void;
+  selection: ReviewFilterSelection;
+  stateFacets: ReturnType<typeof filterReviewPaper>['stateFacets'];
+}) {
+  const selectedCount =
+    DIMENSIONAL_TAG_AXES.reduce(
+      (count, axis) => count + selection[axis].length,
+      0,
+    ) +
+    selection.questionRag.length +
+    selection.answerRag.length;
+  return (
+    <section className="filter-panel" aria-labelledby="filter-title">
+      <div className="filter-heading">
+        <div>
+          <p className="eyebrow">Runtime lens</p>
+          <h2 id="filter-title">Review filters</h2>
+        </div>
+        <button disabled={selectedCount === 0} onClick={onClear} type="button">
+          Clear all {selectedCount ? `(${selectedCount})` : ''}
+        </button>
+      </div>
+      <div className="state-filter-band">
+        <div className="state-filter-intro">
+          <strong>Content RAG state</strong>
+          <span>Question and answer readiness are independent.</span>
+        </div>
+        {stateFacets.map((facet) => (
+          <fieldset
+            className={`state-facet state-facet--${facet.side}`}
+            key={facet.side}
+          >
+            <legend>{facet.label}</legend>
+            <div className="state-options">
+              {facet.options.map((option) => (
+                <label
+                  className={option.disabled ? 'facet-option--disabled' : ''}
+                  key={option.value}
+                  title={option.value}
+                >
+                  <input
+                    checked={option.selected}
+                    disabled={option.disabled}
+                    onChange={() =>
+                      onToggleState(facet.parameter, option.value)
+                    }
+                    type="checkbox"
+                  />
+                  <span>{reviewStateLabel(option.value)}</span>
+                  <strong>{option.count}</strong>
+                </label>
+              ))}
+            </div>
+          </fieldset>
+        ))}
+      </div>
+      <p className="filter-section-label">Content dimensions</p>
+      <div className="facet-grid">
+        {facets.map((facet) => (
+          <details key={facet.axis} open={selection[facet.axis].length > 0}>
+            <summary>
+              <span>{facet.label}</span>
+              <strong>
+                {selection[facet.axis].length || facet.options.length}
+              </strong>
+            </summary>
+            <div className="facet-options">
+              {facet.options.map((option) => (
+                <label
+                  className={option.disabled ? 'facet-option--disabled' : ''}
+                  key={option.value}
+                >
+                  <input
+                    checked={option.selected}
+                    disabled={option.disabled}
+                    onChange={() => onToggle(facet.axis, option.value)}
+                    type="checkbox"
+                  />
+                  <span>{option.value.slice(facet.axis.length + 1)}</span>
+                  <strong>{option.count}</strong>
+                </label>
+              ))}
+            </div>
+          </details>
+        ))}
+      </div>
+    </section>
+  );
+}
+
+function QuestionNavigation({
+  activeId,
+  label,
+  onNavigate,
+  questionIds,
+}: {
+  activeId: string | undefined;
+  label: string;
+  onNavigate: (id: string) => void;
+  questionIds: readonly string[];
+}) {
+  const activeIndex = activeId ? questionIds.indexOf(activeId) : -1;
+  const previous = adjacentQuestionId(questionIds, activeId, -1);
+  const next = adjacentQuestionId(questionIds, activeId, 1);
+  return (
+    <nav className="question-navigation" aria-label={label}>
+      <button
+        disabled={!previous}
+        onClick={() => previous && onNavigate(previous)}
+        type="button"
+      >
+        <span aria-hidden="true">←</span> Previous
+      </button>
+      <span>
+        {activeIndex >= 0 ? activeIndex + 1 : 0} / {questionIds.length} matching
+      </span>
+      <button
+        disabled={!next}
+        onClick={() => next && onNavigate(next)}
+        type="button"
+      >
+        Next <span aria-hidden="true">→</span>
+      </button>
+    </nav>
+  );
+}
+
+export function ReviewSurface({
+  commentLoad,
+  paper,
+  reviewer,
+}: {
+  commentLoad: ReviewCommentLoad;
+  paper: DisplayReviewPaper;
+  reviewer: string;
+}) {
+  const pathname = usePathname();
+  const searchParams = useSearchParams();
+  const [preferences, setPreferences] = useState<ReviewPreferences>(
+    DEFAULT_REVIEW_PREFERENCES,
+  );
+  const [comments, setComments] = useState<readonly LocalReviewComment[]>(
+    commentLoad.comments,
+  );
+  const [showAllFeedback, setShowAllFeedback] = useState(false);
+  const [outcomeOverrides, setOutcomeOverrides] = useState<
+    Readonly<Record<string, ReviewOutcome>>
+  >({});
+  const [pendingKeys, setPendingKeys] = useState<ReadonlySet<string>>(
+    () => new Set(),
+  );
+  const pendingRequestKeys = useRef(new Set<string>());
+  const selection = useMemo(
+    () => parseReviewFilterSearchParams(searchParams.toString()),
+    [searchParams],
+  );
+  const result = useMemo(
+    () => filterReviewPaper(paper, selection),
+    [paper, selection],
+  );
+  const displayNodeById = useMemo(
+    () =>
+      new Map(
+        paper.sections.flatMap((section) =>
+          section.questions.map((question) => [question.id, question] as const),
+        ),
+      ),
+    [paper],
+  );
+  const activeFromUrl = searchParams.get('question') ?? undefined;
+  const activeId = result.matchingQuestionTreeIds.includes(activeFromUrl ?? '')
+    ? activeFromUrl
+    : result.matchingQuestionTreeIds[0];
+  const matchingNodeIds = useMemo(
+    () => new Set(result.matchingNodeIds),
+    [result.matchingNodeIds],
+  );
+
+  const withPending = useCallback(
+    <Result,>(key: string, request: () => Promise<Result>) =>
+      runUniqueReviewRequest(
+        pendingRequestKeys.current,
+        key,
+        request,
+        setPendingKeys,
+      ),
+    [],
+  );
+
+  const responseMessage = useCallback(async (response: Response) => {
+    const body = (await response.json().catch(() => ({}))) as {
+      message?: unknown;
+    };
+    const message =
+      typeof body.message === 'string' ? body.message : response.statusText;
+    if (!response.ok) throw new Error(message || 'Review request failed.');
+    return { body, message };
+  }, []);
+
+  const submitOutcome = useCallback(
+    (target: ReviewTargetDescriptor, outcome: ReviewOutcome) => {
+      const key = reviewTargetKey(target);
+      return withPending(`${key}:outcome`, async () => {
+        const response = await fetch('/api/review/outcome', {
+          body: JSON.stringify({ outcome, reviewer, target }),
+          headers: { 'Content-Type': 'application/json' },
+          method: 'POST',
+        });
+        const { message } = await responseMessage(response);
+        setOutcomeOverrides((current) => ({ ...current, [key]: outcome }));
+        return message;
+      });
+    },
+    [responseMessage, reviewer, withPending],
+  );
+
+  const appendComment = useCallback(
+    (target: ReviewTargetDescriptor, comment: string, submissionId: string) => {
+      const key = reviewTargetKey(target);
+      return withPending(`${key}:comment`, async () => {
+        const commentTarget = {
+          collectionId: target.collectionId,
+          nodeId: target.nodeId,
+          questionId: target.questionId,
+          ragState: target.ragState,
+          relativePath: target.relativePath,
+          side: target.side,
+          uuid: target.uuid,
+        };
+        const response = await fetch('/api/review/comments', {
+          body: JSON.stringify({
+            comment,
+            reviewer,
+            submissionId,
+            target: commentTarget,
+          }),
+          headers: { 'Content-Type': 'application/json' },
+          method: 'POST',
+        });
+        const { body } = await responseMessage(response);
+        const stored = (body as { comment?: LocalReviewComment }).comment;
+        if (!stored) throw new Error('The stored comment was not returned.');
+        setComments((current) =>
+          current.some((item) => item.id === stored.id)
+            ? current
+            : [...current, stored],
+        );
+        return stored;
+      });
+    },
+    [responseMessage, reviewer, withPending],
+  );
+
+  const reviewRuntime = useMemo<ReviewRuntimeState>(
+    () => ({
+      appendComment,
+      commentError: commentLoad.error,
+      comments,
+      outcomeOverrides,
+      pendingKeys,
+      reviewer,
+      showAllFeedback,
+      source: {
+        collectionId: paper.source.collection.id,
+        relativePath: paper.source.relativePath,
+      },
+      submitOutcome,
+    }),
+    [
+      appendComment,
+      commentLoad.error,
+      comments,
+      outcomeOverrides,
+      paper.source.collection.id,
+      paper.source.relativePath,
+      pendingKeys,
+      reviewer,
+      showAllFeedback,
+      submitOutcome,
+    ],
+  );
+
+  useEffect(() => {
+    const frame = requestAnimationFrame(() => {
+      setPreferences(
+        parseReviewPreferences(localStorage.getItem(REVIEW_PREFERENCES_KEY)),
+      );
+    });
+    return () => cancelAnimationFrame(frame);
+  }, []);
+
+  useEffect(() => {
+    if (!activeFromUrl || activeId !== activeFromUrl) return;
+    document
+      .getElementById(`question-${activeId}`)
+      ?.scrollIntoView({ block: 'start', behavior: 'smooth' });
+  }, [activeFromUrl, activeId]);
+
+  function replaceSearchParams(next: URLSearchParams) {
+    const query = next.toString();
+    window.history.replaceState(
+      null,
+      '',
+      query ? `${pathname}?${query}` : pathname,
+    );
+  }
+
+  function updatePreferences(next: ReviewPreferences) {
+    setPreferences(next);
+    localStorage.setItem(REVIEW_PREFERENCES_KEY, JSON.stringify(next));
+  }
+
+  function togglePreference(key: keyof ReviewPreferences, value: boolean) {
+    updatePreferences({ ...preferences, [key]: value });
+  }
+
+  function toggleFilter(axis: DimensionalTagAxis, value: string) {
+    const selected = selection[axis].includes(value);
+    const nextSelection = {
+      ...selection,
+      [axis]: selected
+        ? selection[axis].filter((item) => item !== value)
+        : [...selection[axis], value],
+    };
+    const current = new URLSearchParams(searchParams.toString());
+    current.delete('question');
+    replaceSearchParams(
+      new URLSearchParams(
+        serializeReviewFilterSearchParams(nextSelection, current),
+      ),
+    );
+  }
+
+  function toggleStateFilter(
+    parameter: 'answerRag' | 'questionRag',
+    value: string,
+  ) {
+    const selected = selection[parameter].includes(value);
+    const nextSelection = {
+      ...selection,
+      [parameter]: selected
+        ? selection[parameter].filter((item) => item !== value)
+        : [...selection[parameter], value],
+    };
+    const current = new URLSearchParams(searchParams.toString());
+    current.delete('question');
+    replaceSearchParams(
+      new URLSearchParams(
+        serializeReviewFilterSearchParams(nextSelection, current),
+      ),
+    );
+  }
+
+  function clearFilters() {
+    const current = new URLSearchParams(searchParams.toString());
+    current.delete('question');
+    replaceSearchParams(
+      new URLSearchParams(
+        serializeReviewFilterSearchParams(clearAllReviewFilters(), current),
+      ),
+    );
+  }
+
+  function navigateTo(id: string) {
+    const next = new URLSearchParams(searchParams.toString());
+    next.set('question', id);
+    replaceSearchParams(next);
+  }
+
+  useEffect(() => {
+    function onKeyDown(event: KeyboardEvent) {
+      const target = event.target as HTMLElement | null;
+      if (
+        target?.isContentEditable ||
+        ['INPUT', 'SELECT', 'TEXTAREA'].includes(target?.tagName ?? '')
+      ) {
+        return;
+      }
+      const direction =
+        event.key.toLowerCase() === 'j' ||
+        (event.altKey && event.key === 'ArrowDown')
+          ? 1
+          : event.key.toLowerCase() === 'k' ||
+              (event.altKey && event.key === 'ArrowUp')
+            ? -1
+            : undefined;
+      if (!direction) return;
+      const next = adjacentQuestionId(
+        result.matchingQuestionTreeIds,
+        activeId,
+        direction,
+      );
+      if (next) {
+        event.preventDefault();
+        navigateTo(next);
+      }
+    }
+    window.addEventListener('keydown', onKeyDown);
+    return () => window.removeEventListener('keydown', onKeyDown);
+  });
+
+  return (
+    <main className="paper-shell" id="paper-top">
+      <SiteHeader compact />
+      <header className="paper-hero">
+        <div className="paper-breadcrumb">
+          <Link href="/">Paper index</Link>
+          <span>/</span>
+          <span>{paper.source.collection.label}</span>
+        </div>
+        <div className="paper-title-row">
+          <div>
+            <p className="eyebrow">{paper.source.provenance.kind} source</p>
+            <h1>{paper.title}</h1>
+            <code>{paper.source.fileName}</code>
+          </div>
+          <dl className="paper-metadata">
+            <div>
+              <dt>Questions</dt>
+              <dd>{paper.source.questionCount}</dd>
+            </div>
+            <div>
+              <dt>Year</dt>
+              <dd>{paper.metadata.year ?? '—'}</dd>
+            </div>
+            <div>
+              <dt>Paper RAG</dt>
+              <dd>{paper.metadata.paperRag ?? '—'}</dd>
+            </div>
+            <div>
+              <dt>Access</dt>
+              <dd>{paper.metadata.accessTier ?? '—'}</dd>
+            </div>
+          </dl>
+        </div>
+        <div className="paper-provenance">
+          {paper.metadata.paperId ? (
+            <code>ID {paper.metadata.paperId}</code>
+          ) : null}
+          {paper.metadata.schoolIds.map((school) => (
+            <code key={school}>School {school}</code>
+          ))}
+          {paper.source.provenance.sourcePaperStems.map((stem) => (
+            <code key={stem}>Source {stem}</code>
+          ))}
+        </div>
+      </header>
+
+      <FilterPanel
+        facets={result.facets}
+        onClear={clearFilters}
+        onToggle={toggleFilter}
+        onToggleState={toggleStateFilter}
+        selection={selection}
+        stateFacets={result.stateFacets}
+      />
+
+      <section className="review-toolbar" aria-label="Display preferences">
+        <div>
+          <span className="toolbar-label">Display</span>
+          <PreferenceToggle
+            checked={preferences.showSolutions}
+            label="Workings & answers"
+            onChange={(value) => togglePreference('showSolutions', value)}
+          />
+          <PreferenceToggle
+            checked={preferences.showTags}
+            label="Tags"
+            onChange={(value) => togglePreference('showTags', value)}
+          />
+          <PreferenceToggle
+            checked={preferences.showRaw}
+            label="Raw source"
+            onChange={(value) => togglePreference('showRaw', value)}
+          />
+          <PreferenceToggle
+            checked={preferences.showReview}
+            label="Review panel"
+            onChange={(value) => togglePreference('showReview', value)}
+          />
+          {preferences.showReview ? (
+            <PreferenceToggle
+              checked={showAllFeedback}
+              label="Show everything"
+              onChange={setShowAllFeedback}
+            />
+          ) : null}
+        </div>
+        <span className="keyboard-note">J / K · next / previous</span>
+      </section>
+
+      <QuestionNavigation
+        activeId={activeId}
+        label="Top question navigation"
+        onNavigate={navigateTo}
+        questionIds={result.matchingQuestionTreeIds}
+      />
+
+      {result.matchingQuestionTreeCount === 0 ? (
+        <section className="empty-results" aria-live="polite">
+          <span>0 / {result.totalQuestionTreeCount}</span>
+          <h2>No question shares that exact lens.</h2>
+          <p>
+            Keep the selected zero-result values for reference, or clear one
+            filter to widen the paper again.
+          </p>
+          <button onClick={clearFilters} type="button">
+            Clear all filters
+          </button>
+        </section>
+      ) : (
+        <div className="paper-body">
+          <aside className="section-index" aria-label="Paper sections">
+            <span>Sections</span>
+            {result.matchingSections.map((section) => (
+              <a href={`#${section.id}`} key={section.id}>
+                {section.label}
+                <strong>{section.questions.length}</strong>
+              </a>
+            ))}
+          </aside>
+          <div className="paper-sections">
+            {result.matchingSections.map((section) => (
+              <section
+                className="paper-section"
+                id={section.id}
+                key={section.id}
+              >
+                <header>
+                  <span>Section</span>
+                  <h2>{section.label}</h2>
+                  <strong>{section.questions.length} matching trees</strong>
+                </header>
+                {section.questions.map((question) => {
+                  const displayQuestion = displayNodeById.get(question.id);
+                  return displayQuestion ? (
+                    <QuestionNode
+                      active={displayQuestion.id === activeId}
+                      key={displayQuestion.id}
+                      matchingNodeIds={matchingNodeIds}
+                      node={displayQuestion}
+                      onActivate={() => navigateTo(displayQuestion.id)}
+                      preferences={preferences}
+                      reviewRuntime={reviewRuntime}
+                      topLevelQuestion={displayQuestion}
+                    />
+                  ) : null;
+                })}
+              </section>
+            ))}
+          </div>
+        </div>
+      )}
+
+      <QuestionNavigation
+        activeId={activeId}
+        label="Bottom question navigation"
+        onNavigate={navigateTo}
+        questionIds={result.matchingQuestionTreeIds}
+      />
+      <footer className="paper-footer">
+        <a href="#paper-top">Back to top ↑</a>
+        <span>TOML and canonical assets are never mutated by this app.</span>
+      </footer>
+    </main>
+  );
+}

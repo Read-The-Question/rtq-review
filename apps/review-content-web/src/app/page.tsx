@@ -1,108 +1,132 @@
 import {
-  DIMENSIONAL_TAG_AXES,
   getContentWorkspaceStatus,
-  type DimensionalTagAxis,
+  listPaperSources,
+  type PaperSourceSummary,
 } from '@rtq/review-paper-model';
 
+import {
+  FileBrowser,
+  type BrowserCollection,
+  type BrowserPaper,
+} from '@/components/file-browser';
+import { SiteHeader } from '@/components/site-header';
 import { getWorkspaceStatusCopy } from '@/lib/workspace-view-model';
 
 export const dynamic = 'force-dynamic';
 export const runtime = 'nodejs';
 
-const axisDescriptions: Readonly<Record<DimensionalTagAxis, string>> = {
-  family: 'What kind of question is this?',
-  math: 'Which mathematical idea is exercised?',
-  frame: 'How is the problem presented?',
-  marker: 'Which notable features are present?',
-  reasoning: 'What reasoning route does it require?',
-};
+function browserPaper(summary: PaperSourceSummary): BrowserPaper {
+  if (summary.state === 'invalid') {
+    return {
+      collectionId: summary.collection.id,
+      detail: summary.message,
+      fileName: summary.fileName,
+      focusGroups: [],
+      provenance: 'invalid',
+      relativePath: summary.relativePath,
+      state: 'invalid',
+      title: summary.title,
+    };
+  }
 
-const deliverySequence = [
-  ['01', 'Browse', 'Choose a live TOML collection and paper.'],
-  ['02', 'Refine', 'Combine dimensional tags without regeneration.'],
-  ['03', 'Review', 'Read in context and submit review outcomes.'],
-] as const;
+  const source = summary.source;
+  const detail = [
+    source.topic ? `Topic · ${source.topic}` : undefined,
+    source.ragGrouping ? `RAG · ${source.ragGrouping}` : undefined,
+    source.focusGroups.length
+      ? `Focus · ${source.focusGroups.join(', ')}`
+      : undefined,
+    !source.topic && !source.ragGrouping && source.focusGroups.length === 0
+      ? source.collection.description
+      : undefined,
+  ]
+    .filter(Boolean)
+    .join(' · ');
 
-export default function HomePage() {
+  return {
+    collectionId: source.collection.id,
+    detail,
+    fileName: source.fileName,
+    focusGroups: source.focusGroups,
+    provenance: source.provenance.kind,
+    questionCount: source.questionCount,
+    relativePath: source.relativePath,
+    state: 'ready',
+    title: source.title,
+  };
+}
+
+export default async function HomePage() {
   const workspaceStatus = getContentWorkspaceStatus();
   const statusCopy = getWorkspaceStatusCopy(workspaceStatus);
+  let sources: readonly PaperSourceSummary[] = [];
+  let loadIssue: string | undefined;
+
+  if (workspaceStatus.state === 'ready') {
+    try {
+      sources = await listPaperSources();
+    } catch (error) {
+      loadIssue =
+        error instanceof Error
+          ? error.message
+          : 'The paper index could not load.';
+    }
+  }
+
+  const papers = sources.map(browserPaper);
+  const collectionMap = new Map<string, BrowserCollection>();
+  for (const summary of sources) {
+    const collection =
+      summary.state === 'ready'
+        ? summary.source.collection
+        : summary.collection;
+    const current = collectionMap.get(collection.id);
+    collectionMap.set(collection.id, {
+      count: (current?.count ?? 0) + 1,
+      description: collection.description,
+      id: collection.id,
+      label: collection.label,
+    });
+  }
 
   return (
-    <main className="review-shell">
-      <header className="masthead">
-        <a className="wordmark" href="#top" aria-label="RTQ Review Content Web">
-          <span aria-hidden="true">RTQ</span>
-          <span>Review content</span>
-        </a>
-        <p className="environment-label">Local review instrument · port 3004</p>
-      </header>
-
-      <section className="hero" id="top">
-        <div className="hero-copy">
+    <main className="review-shell" id="top">
+      <SiteHeader />
+      <section className="index-intro">
+        <div>
           <p className="eyebrow">Direct-content review</p>
           <h1>
-            Review the source.
+            Choose the paper.
             <span>Change the lens.</span>
           </h1>
           <p className="hero-summary">
-            A read-only review surface for live RTQ paper content, designed to
-            filter a complete paper across five independent tag dimensions.
+            Browse the live RTQ content checkout, then review a complete paper
+            through any combination of its five dimensional tag axes.
           </p>
         </div>
-
         <aside
           className={`connection-card connection-card--${statusCopy.tone}`}
         >
           <span className="connection-light" aria-hidden="true" />
           <div>
             <p>{statusCopy.label}</p>
-            <span>{statusCopy.detail}</span>
+            <span>{loadIssue ?? statusCopy.detail}</span>
           </div>
         </aside>
       </section>
 
-      <section className="sequence" aria-labelledby="sequence-title">
-        <div className="section-heading">
-          <p>Review sequence</p>
-          <h2 id="sequence-title">One paper, many useful views.</h2>
-        </div>
-        <ol>
-          {deliverySequence.map(([number, title, detail]) => (
-            <li key={number}>
-              <span>{number}</span>
-              <div>
-                <h3>{title}</h3>
-                <p>{detail}</p>
-              </div>
-            </li>
-          ))}
-        </ol>
-      </section>
-
-      <section className="axis-panel" aria-labelledby="axis-title">
-        <div className="section-heading section-heading--inverse">
-          <p>Filter grammar</p>
-          <h2 id="axis-title">Five axes. One focused question set.</h2>
-        </div>
-        <ul className="axis-list">
-          {DIMENSIONAL_TAG_AXES.map((axis, index) => (
-            <li key={axis}>
-              <span>{String(index + 1).padStart(2, '0')}</span>
-              <div>
-                <h3>{axis}</h3>
-                <p>{axisDescriptions[axis]}</p>
-              </div>
-            </li>
-          ))}
-        </ul>
-      </section>
-
-      <footer>
-        <p>Foundation ready</p>
-        <span>
-          Paper discovery and parsing arrive in the next implementation task.
-        </span>
-      </footer>
+      {papers.length > 0 ? (
+        <FileBrowser
+          collections={[...collectionMap.values()]}
+          papers={papers}
+        />
+      ) : (
+        <section className="workspace-empty" aria-live="polite">
+          <p className="eyebrow">Paper index unavailable</p>
+          <h2>Connect a complete rtq-content checkout.</h2>
+          <p>{loadIssue ?? statusCopy.detail}</p>
+        </section>
+      )}
     </main>
   );
 }

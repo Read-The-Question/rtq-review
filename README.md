@@ -2,6 +2,12 @@
 
 `rtq-review` is the private pnpm workspace for RTQ's internal review tools.
 
+All review renderers share the authoring meanings and conformance inventory in
+the canonical
+[RTQ KaTeX Semantic Colour Architecture](https://github.com/Read-The-Question/rtq-web/blob/develop/apps/web/docs/architecture/design-system/katex-semantic-colours.md).
+Application-local documentation should link there rather than define another
+maths-colour macro catalogue.
+
 ## Applications
 
 - [`apps/docs-web`](apps/docs-web) is the internal Fumadocs application for
@@ -15,7 +21,9 @@
   review actions.
 - [`apps/review-content-web`](apps/review-content-web) is the direct-content
   Next.js reviewer. It reads paper TOML from the active `rtq-content` checkout
-  without generated Markdown.
+  without generated Markdown, submits outcomes to Google Sheets through
+  `review-api`, and keeps append-only comments in the machine-local
+  `rtq-content/database/review-content.sqlite` database.
 - [`apps/review-tag-web`](apps/review-tag-web) is the maintained Next.js
   application for reviewing and editing tags directly in canonical paper TOML.
 - [`apps/review-question-viewer-web`](apps/review-question-viewer-web) is the

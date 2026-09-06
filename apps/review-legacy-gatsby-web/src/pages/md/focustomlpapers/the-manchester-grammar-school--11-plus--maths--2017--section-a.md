@@ -1,7 +1,7 @@
 ---
 slug: "focustomlpapers/the-manchester-grammar-school-11-plus-maths-2017-section-a"
 title: "Focus Paper - The Manchester Grammar School - 11 Plus - Maths - 2017 - Section A"
-date: 2026-09-05 13:08:46
+date: 2026-09-06 06:52:36
 questions_count: "20"
 ---
 <div class="paper" id="page-the-manchester-grammar-school-11-plus-maths-2017-section-a-top">
@@ -80,7 +80,7 @@ Write in figures the number three hundred and eight thousand, five hundred and t
 
 **Working**
 
-$308520$
+%empty%
 </div>
 </div>
 <div class="answers">
@@ -99,7 +99,7 @@ $308520$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">&#36;308520&#36;
+<pre class="language-latex"><code class="language-latex">%empty%
 </code></pre>
 </div>
 </div>
@@ -247,7 +247,7 @@ Work out $825 - 573$.
 <div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
 <div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
 <div style="flex: 1; height: 1px; background: #d2d8df;"></div>
-<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Borrowing shown</div>
 <div style="flex: 1; height: 1px; background: #d2d8df;"></div>
 </div>
 <div class="paper-working-section-body">
@@ -267,7 +267,7 @@ $
 <div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
 <div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
 <div style="flex: 1; height: 1px; background: #d2d8df;"></div>
-<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Borrowing not shown</div>
 <div style="flex: 1; height: 1px; background: #d2d8df;"></div>
 </div>
 <div class="paper-working-section-body">
@@ -301,7 +301,7 @@ $252$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="Borrowing shown"&gt;
 
 &#36;
 \begin{array}{cccccccccccccc}
@@ -314,7 +314,7 @@ $252$
 
 &lt;/WorkingSection&gt;
 
-&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+&lt;WorkingSection phase="conclusion" title="Borrowing not shown"&gt;
 
 &#36;
 \begin{array}{cccccccccccccc}
@@ -479,19 +479,20 @@ Work out $2047 \div 23$.
 <div class="paper-working-section-body">
 
 <div class="paper-long-division-alignment" data-align="start" data-indent="none">
-<div role="img" aria-label="Long division of 2047 by 23" aria-describedby="long-division-the-manchester-grammar-school-11-plus-maths-2017-section-a-workings-generated-long-division-s01-q03-w01-ld00-bus-svg-description" data-slot="long-division" data-variant="bus" class="paper-long-division-viewport" style="--long-division-natural-width: 170px; --long-division-minimum-readable-width: 127.5px;">
-<div aria-hidden="true" class="paper-long-division-graphic"><svg aria-hidden="true" data-rtq-long-division-contract="1" focusable="false" height="77" viewBox="0 0 170 77" width="170" xmlns="http://www.w3.org/2000/svg">
+<div role="img" aria-label="Long division of 2047 by 23" aria-describedby="long-division-the-manchester-grammar-school-11-plus-maths-2017-section-a-workings-generated-long-division-s01-q03-w01-ld00-bus-svg-description" data-slot="long-division" data-variant="bus" class="paper-long-division-viewport" style="--long-division-natural-width: 178px; --long-division-minimum-readable-width: 133.5px;">
+<div aria-hidden="true" class="paper-long-division-graphic"><svg aria-hidden="true" data-rtq-long-division-contract="1" focusable="false" height="77" viewBox="0 0 178 77" width="178" xmlns="http://www.w3.org/2000/svg">
   <g font-family="KaTeX_Main, &quot;Times New Roman&quot;, Times, serif">
-  <text data-rtq-long-division-role="text" fill="currentColor" font-size="19" text-anchor="middle" x="114" y="20">8</text>
-  <text data-rtq-long-division-role="text" fill="currentColor" font-size="19" text-anchor="middle" x="142" y="20">9</text>
-  <path d="M 56 71 V 32 H 158" data-rtq-long-division-role="bracket" fill="none" stroke="currentColor" stroke-linecap="square" stroke-linejoin="round" stroke-width="2"></path>
+  <text data-rtq-long-division-role="text" fill="currentColor" font-size="19" text-anchor="middle" x="122" y="20">8</text>
+  <text data-rtq-long-division-role="text" fill="currentColor" font-size="19" text-anchor="middle" x="150" y="20">9</text>
+  <path d="M 56 71 V 32 H 166" data-rtq-long-division-role="bracket" fill="none" stroke="currentColor" stroke-linecap="square" stroke-linejoin="round" stroke-width="2"></path>
   <text data-rtq-long-division-role="text" fill="currentColor" font-size="19" text-anchor="middle" x="18" y="61">2</text>
   <text data-rtq-long-division-role="text" fill="currentColor" font-size="19" text-anchor="middle" x="38" y="61">3</text>
-  <text data-rtq-long-division-role="carry" fill="currentColor" font-size="13" text-anchor="middle" x="132" y="45">20</text>
+  <text data-rtq-long-division-role="carry" fill="currentColor" font-size="13" text-anchor="middle" x="112" y="45">20</text>
+  <text data-rtq-long-division-role="carry" fill="currentColor" font-size="13" text-anchor="middle" x="140" y="45">20</text>
   <text data-rtq-long-division-role="text" fill="currentColor" font-size="19" text-anchor="middle" x="74" y="61">2</text>
   <text data-rtq-long-division-role="text" fill="currentColor" font-size="19" text-anchor="middle" x="94" y="61">0</text>
-  <text data-rtq-long-division-role="text" fill="currentColor" font-size="19" text-anchor="middle" x="114" y="61">4</text>
-  <text data-rtq-long-division-role="text" fill="currentColor" font-size="19" text-anchor="middle" x="142" y="61">7</text>
+  <text data-rtq-long-division-role="text" fill="currentColor" font-size="19" text-anchor="middle" x="122" y="61">4</text>
+  <text data-rtq-long-division-role="text" fill="currentColor" font-size="19" text-anchor="middle" x="150" y="61">7</text>
   </g>
 </svg></div>
 </div>
@@ -2191,7 +2192,7 @@ ABBR: $\text{Mean} = \dfrac {\text{Total of items}} {\text{Number of items}}$
 <div class="paper-working-section" data-phase="setup" style="margin: 1rem 0;">
 <div class="paper-working-section-body">
 
-Let the weight of the fifth parcel be $w \ \text{kg}$
+Let the weight of the fifth parcel  $= w \ \text{kg}$
 
 </div>
 </div>
@@ -2257,7 +2258,7 @@ $4.5 \ \text{kg}$
 </div>
 <pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="setup"&gt;
 
-Let the weight of the fifth parcel be &#36;w \ \text{kg}&#36;
+Let the weight of the fifth parcel  &#36;= w \ \text{kg}&#36;
 
 &lt;/WorkingSection&gt;
 

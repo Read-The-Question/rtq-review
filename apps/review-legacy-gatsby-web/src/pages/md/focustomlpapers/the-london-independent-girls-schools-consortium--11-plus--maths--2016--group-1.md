@@ -1,7 +1,7 @@
 ---
 slug: "focustomlpapers/the-london-independent-girls-schools-consortium-11-plus-maths-2016-group-1"
 title: "Focus Paper - The London Independent Girls Schools Consortium - 11 Plus - Maths - 2016 - Group 1"
-date: 2026-09-05 13:08:46
+date: 2026-09-06 06:52:36
 questions_count: "45"
 ---
 <div class="paper" id="page-the-london-independent-girls-schools-consortium-11-plus-maths-2016-group-1-top">
@@ -263,7 +263,7 @@ Work out $7305 - 946$.
 <div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
 <div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
 <div style="flex: 1; height: 1px; background: #d2d8df;"></div>
-<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Borrowing shown</div>
 <div style="flex: 1; height: 1px; background: #d2d8df;"></div>
 </div>
 <div class="paper-working-section-body">
@@ -283,7 +283,7 @@ $
 <div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
 <div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
 <div style="flex: 1; height: 1px; background: #d2d8df;"></div>
-<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Borrowing not shown</div>
 <div style="flex: 1; height: 1px; background: #d2d8df;"></div>
 </div>
 <div class="paper-working-section-body">
@@ -317,7 +317,7 @@ $6359$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="Borrowing shown"&gt;
 
 &#36;
 \begin{array}{cccccccccccccc}
@@ -330,7 +330,7 @@ $6359$
 
 &lt;/WorkingSection&gt;
 
-&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+&lt;WorkingSection phase="conclusion" title="Borrowing not shown"&gt;
 
 &#36;
 \begin{array}{cccccccccccccc}
@@ -680,20 +680,21 @@ Work out $4802 \div 7$.
 <div class="paper-working-section-body">
 
 <div class="paper-long-division-alignment" data-align="start" data-indent="none">
-<div role="img" aria-label="Long division of 4802 by 7" aria-describedby="long-division-the-london-independent-girls-schools-consortium-11-plus-maths-2016-group-1-workings-generated-long-division-s01-q04-w01-ld00-bus-svg-description" data-slot="long-division" data-variant="bus" class="paper-long-division-viewport" style="--long-division-natural-width: 150px; --long-division-minimum-readable-width: 112.5px;">
-<div aria-hidden="true" class="paper-long-division-graphic"><svg aria-hidden="true" data-rtq-long-division-contract="1" focusable="false" height="77" viewBox="0 0 150 77" width="150" xmlns="http://www.w3.org/2000/svg">
+<div role="img" aria-label="Long division of 4802 by 7" aria-describedby="long-division-the-london-independent-girls-schools-consortium-11-plus-maths-2016-group-1-workings-generated-long-division-s01-q04-w01-ld00-bus-svg-description" data-slot="long-division" data-variant="bus" class="paper-long-division-viewport" style="--long-division-natural-width: 154px; --long-division-minimum-readable-width: 115.5px;">
+<div aria-hidden="true" class="paper-long-division-graphic"><svg aria-hidden="true" data-rtq-long-division-contract="1" focusable="false" height="77" viewBox="0 0 154 77" width="154" xmlns="http://www.w3.org/2000/svg">
   <g font-family="KaTeX_Main, &quot;Times New Roman&quot;, Times, serif">
-  <text data-rtq-long-division-role="text" fill="currentColor" font-size="19" text-anchor="middle" x="74" y="20">6</text>
-  <text data-rtq-long-division-role="text" fill="currentColor" font-size="19" text-anchor="middle" x="98" y="20">8</text>
-  <text data-rtq-long-division-role="text" fill="currentColor" font-size="19" text-anchor="middle" x="122" y="20">6</text>
-  <path d="M 36 71 V 32 H 138" data-rtq-long-division-role="bracket" fill="none" stroke="currentColor" stroke-linecap="square" stroke-linejoin="round" stroke-width="2"></path>
+  <text data-rtq-long-division-role="text" fill="currentColor" font-size="19" text-anchor="middle" x="78" y="20">6</text>
+  <text data-rtq-long-division-role="text" fill="currentColor" font-size="19" text-anchor="middle" x="102" y="20">8</text>
+  <text data-rtq-long-division-role="text" fill="currentColor" font-size="19" text-anchor="middle" x="126" y="20">6</text>
+  <path d="M 36 71 V 32 H 142" data-rtq-long-division-role="bracket" fill="none" stroke="currentColor" stroke-linecap="square" stroke-linejoin="round" stroke-width="2"></path>
   <text data-rtq-long-division-role="text" fill="currentColor" font-size="19" text-anchor="middle" x="18" y="61">7</text>
-  <text data-rtq-long-division-role="carry" fill="currentColor" font-size="13" text-anchor="middle" x="88" y="45">6</text>
-  <text data-rtq-long-division-role="carry" fill="currentColor" font-size="13" text-anchor="middle" x="112" y="45">4</text>
+  <text data-rtq-long-division-role="carry" fill="currentColor" font-size="13" text-anchor="middle" x="68" y="45">4</text>
+  <text data-rtq-long-division-role="carry" fill="currentColor" font-size="13" text-anchor="middle" x="92" y="45">6</text>
+  <text data-rtq-long-division-role="carry" fill="currentColor" font-size="13" text-anchor="middle" x="116" y="45">4</text>
   <text data-rtq-long-division-role="text" fill="currentColor" font-size="19" text-anchor="middle" x="54" y="61">4</text>
-  <text data-rtq-long-division-role="text" fill="currentColor" font-size="19" text-anchor="middle" x="74" y="61">8</text>
-  <text data-rtq-long-division-role="text" fill="currentColor" font-size="19" text-anchor="middle" x="98" y="61">0</text>
-  <text data-rtq-long-division-role="text" fill="currentColor" font-size="19" text-anchor="middle" x="122" y="61">2</text>
+  <text data-rtq-long-division-role="text" fill="currentColor" font-size="19" text-anchor="middle" x="78" y="61">8</text>
+  <text data-rtq-long-division-role="text" fill="currentColor" font-size="19" text-anchor="middle" x="102" y="61">0</text>
+  <text data-rtq-long-division-role="text" fill="currentColor" font-size="19" text-anchor="middle" x="126" y="61">2</text>
   </g>
 </svg></div>
 </div>
@@ -1770,7 +1771,7 @@ Write in numerals, the number that is *three hundred* less than *fourteen thousa
 <div class="paper-working-section" data-phase="solve" style="margin: 1rem 0;">
 <div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
 <div style="flex: 1; height: 1px; background: #d2d8df;"></div>
-<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">With borrowing</div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Borrowing shown</div>
 <div style="flex: 1; height: 1px; background: #d2d8df;"></div>
 </div>
 <div class="paper-working-section-body">
@@ -1790,7 +1791,7 @@ $
 <div class="paper-working-section" data-phase="conclusion" style="margin: 1rem 0;">
 <div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
 <div style="flex: 1; height: 1px; background: #d2d8df;"></div>
-<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Clean layout</div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Borrowing not shown</div>
 <div style="flex: 1; height: 1px; background: #d2d8df;"></div>
 </div>
 <div class="paper-working-section-body">
@@ -1824,7 +1825,7 @@ $13750$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="With borrowing"&gt;
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="solve" title="Borrowing shown"&gt;
 
 &#36;
 \begin{array}{cccccccccccccc}
@@ -1837,7 +1838,7 @@ $13750$
 
 &lt;/WorkingSection&gt;
 
-&lt;WorkingSection phase="conclusion" title="Clean layout"&gt;
+&lt;WorkingSection phase="conclusion" title="Borrowing not shown"&gt;
 
 &#36;
 \begin{array}{cccccccccccccc}

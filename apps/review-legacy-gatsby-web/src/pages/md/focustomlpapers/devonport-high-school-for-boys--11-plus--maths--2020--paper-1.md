@@ -1,7 +1,7 @@
 ---
 slug: "focustomlpapers/devonport-high-school-for-boys-11-plus-maths-2020-paper-1"
 title: "Focus Paper - Devonport High School For Boys - 11 Plus - Maths - 2020 - Paper 1"
-date: 2026-09-05 13:08:46
+date: 2026-09-06 06:52:36
 questions_count: "44"
 ---
 <div class="paper" id="page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">

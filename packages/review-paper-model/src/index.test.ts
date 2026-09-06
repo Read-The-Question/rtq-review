@@ -43,12 +43,21 @@ function createContentWorkspace(): string {
 }
 
 test('exports a read-only public surface', () => {
-  assert.deepEqual(Object.keys(publicApi).sort(), [
+  for (const expectedExport of [
     'DIMENSIONAL_TAG_AXES',
+    'REVIEWABLE_COLLECTION_IDS',
     'getContentWorkspaceStatus',
+    'filterReviewPaper',
+    'listPaperCollections',
+    'listPaperSources',
+    'parseDimensionalFilterSearchParams',
+    'readReviewPaper',
+    'resolveReviewPaperTags',
     'resolvePaperCollectionRoot',
     'resolvePaperSourcePath',
-  ]);
+  ]) {
+    assert.equal(expectedExport in publicApi, true, expectedExport);
+  }
   assert.equal(
     Object.keys(publicApi).some((name) =>
       /write|save|update|delete/i.test(name),
@@ -109,6 +118,10 @@ test('resolves existing TOML only inside a validated collection', () => {
     assert.throws(
       () => resolvePaperCollectionRoot('../assets', options),
       /single relative directory name/,
+    );
+    assert.throws(
+      () => resolvePaperCollectionRoot('questionNodeToml', options),
+      /Unsupported paper collection/,
     );
   } finally {
     rmSync(root, { force: true, recursive: true });

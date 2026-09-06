@@ -26,6 +26,7 @@ import type {
   DisplayContentField,
   DisplayPaperNode,
   DisplayReviewPaper,
+  DisplayWorkingSegment,
 } from '@/lib/display-model';
 import {
   DEFAULT_REVIEW_PREFERENCES,
@@ -73,6 +74,33 @@ function hasField(field: DisplayContentField): boolean {
 
 function ContentField({
   field,
+  hideLabel = false,
+  label,
+  preferences,
+}: {
+  field: DisplayContentField;
+  hideLabel?: boolean;
+  label: string;
+  preferences: ReviewPreferences;
+}) {
+  if (!hasField(field)) return null;
+  return (
+    <div
+      className={`content-field${hideLabel ? ' content-field--unlabelled' : ''}`}
+    >
+      {hideLabel ? null : <div className="content-field-label">{label}</div>}
+      {field.rendered.trim() ? <RtqMarkdown markdown={field.rendered} /> : null}
+      <FieldSupportingInfo
+        field={field}
+        label={label}
+        preferences={preferences}
+      />
+    </div>
+  );
+}
+
+function FieldSupportingInfo({
+  field,
   label,
   preferences,
 }: {
@@ -80,14 +108,11 @@ function ContentField({
   label: string;
   preferences: ReviewPreferences;
 }) {
-  if (!hasField(field)) return null;
   return (
-    <div className="content-field">
-      <div className="content-field-label">{label}</div>
-      {field.rendered.trim() ? <RtqMarkdown markdown={field.rendered} /> : null}
+    <>
       {field.preparationIssue ? (
         <p className="preparation-issue" role="status">
-          Asset preparation note: {field.preparationIssue}
+          Content preparation note: {field.preparationIssue}
         </p>
       ) : null}
       {preferences.showRaw ? (
@@ -98,7 +123,7 @@ function ContentField({
           </pre>
         </details>
       ) : null}
-    </div>
+    </>
   );
 }
 
@@ -476,6 +501,146 @@ function NodeTags({ node }: { node: DisplayPaperNode }) {
   );
 }
 
+function WorkingStage({
+  first,
+  segment,
+  terminal,
+}: {
+  first: boolean;
+  segment: Extract<DisplayWorkingSegment, { kind: 'section' }>;
+  terminal: boolean;
+}) {
+  return (
+    <section
+      aria-label={segment.title ? undefined : `${segment.phase} working stage`}
+      className={`working-stage${segment.title ? '' : ' working-stage--untitled'}`}
+      data-first={first}
+      data-phase={segment.phase}
+      data-terminal={terminal}
+    >
+      <span aria-hidden="true" className="working-stage-track">
+        <span className="working-stage-rail working-stage-rail--start" />
+        <span className="working-stage-marker" />
+        <span className="working-stage-rail working-stage-rail--end" />
+        {terminal ? <span className="working-stage-terminal" /> : null}
+      </span>
+      {segment.title ? (
+        <div className="working-stage-title-rule">
+          <span aria-hidden="true" />
+          <h5>{segment.title}</h5>
+          <span aria-hidden="true" />
+        </div>
+      ) : null}
+      <div className="working-stage-body">
+        {segment.rendered ? <RtqMarkdown markdown={segment.rendered} /> : null}
+      </div>
+    </section>
+  );
+}
+
+function WorkingBody({
+  field,
+  preferences,
+}: {
+  field: DisplayContentField;
+  preferences: ReviewPreferences;
+}) {
+  const segments = field.workingSegments;
+  if (!segments) {
+    return (
+      <ContentField
+        field={field}
+        hideLabel
+        label="Working"
+        preferences={preferences}
+      />
+    );
+  }
+
+  const visibleStageCount = segments.filter(
+    (segment) => segment.kind === 'section' && segment.visibility === 'visible',
+  ).length;
+  let stageIndex = 0;
+
+  return (
+    <div className="content-field content-field--unlabelled">
+      <div
+        className="working-section-sequence"
+        data-stage-count={visibleStageCount}
+      >
+        {segments.map((segment, index) => {
+          if (segment.kind === 'flat') {
+            return segment.rendered ? (
+              <div className="working-flat-segment" key={`flat-${index}`}>
+                <RtqMarkdown markdown={segment.rendered} />
+              </div>
+            ) : null;
+          }
+          if (segment.visibility === 'hidden') return null;
+          const currentStage = stageIndex++;
+          return (
+            <WorkingStage
+              first={currentStage === 0}
+              key={`section-${index}`}
+              segment={segment}
+              terminal={currentStage === visibleStageCount - 1}
+            />
+          );
+        })}
+      </div>
+      <FieldSupportingInfo
+        field={field}
+        label="Working"
+        preferences={preferences}
+      />
+    </div>
+  );
+}
+
+function SolutionContentRow({
+  fields,
+  kind,
+  label,
+  preferences,
+}: {
+  fields: readonly DisplayContentField[];
+  kind: 'formulas' | 'tips';
+  label: string;
+  preferences: ReviewPreferences;
+}) {
+  if (!fields.some(hasField)) return null;
+  return (
+    <div className={`solution-row solution-row--${kind}`}>
+      <div className="solution-row-label">{label}</div>
+      <div className="solution-row-body">
+        {fields.map((field, index) => (
+          <ContentField
+            field={field}
+            hideLabel
+            key={index}
+            label={`${kind === 'formulas' ? 'Formula' : 'Tip'} ${index + 1}`}
+            preferences={preferences}
+          />
+        ))}
+      </div>
+    </div>
+  );
+}
+
+function hasVisibleWorking(
+  field: DisplayContentField,
+  preferences: ReviewPreferences,
+): boolean {
+  if (!field.workingSegments) return hasField(field);
+  return Boolean(
+    field.preparationIssue ||
+    (preferences.showRaw && field.raw.trim()) ||
+    field.workingSegments.some(
+      (segment) => segment.kind === 'flat' || segment.visibility === 'visible',
+    ),
+  );
+}
+
 function SolutionContent({
   node,
   preferences,
@@ -486,7 +651,7 @@ function SolutionContent({
   if (!preferences.showSolutions) return null;
   const hasWorkings = node.content.workings.some(
     (working) =>
-      hasField(working.working) ||
+      hasVisibleWorking(working.working, preferences) ||
       working.formulas.some(hasField) ||
       working.tips.some(hasField),
   );
@@ -504,31 +669,41 @@ function SolutionContent({
         <section className="solution-block">
           <h4>Working</h4>
           {node.content.workings.map((working, index) => (
-            <div className="solution-entry" key={index}>
-              {node.content.workings.length > 1 ? (
-                <span className="entry-number">Method {index + 1}</span>
+            <div className="solution-entry working-entry" key={index}>
+              {index > 0 ? (
+                <div className="working-method-divider">
+                  <span>Method {index + 1}</span>
+                  <span aria-hidden="true" />
+                </div>
               ) : null}
-              {working.formulas.map((formula, formulaIndex) => (
-                <ContentField
-                  field={formula}
-                  key={formulaIndex}
-                  label={`Formula ${formulaIndex + 1}`}
+              <div className="working-content-rows">
+                <SolutionContentRow
+                  fields={working.formulas}
+                  kind="formulas"
+                  label="Formulas used"
                   preferences={preferences}
                 />
-              ))}
-              {working.tips.map((tip, tipIndex) => (
-                <ContentField
-                  field={tip}
-                  key={tipIndex}
-                  label={`Tip ${tipIndex + 1}`}
+                <SolutionContentRow
+                  fields={working.tips}
+                  kind="tips"
+                  label="Keep in mind"
                   preferences={preferences}
                 />
-              ))}
-              <ContentField
-                field={working.working}
-                label="Working"
-                preferences={preferences}
-              />
+                {hasVisibleWorking(working.working, preferences) ? (
+                  <div className="solution-row solution-row--working">
+                    <div
+                      aria-hidden="true"
+                      className="solution-row-label solution-row-label--spacer"
+                    />
+                    <div className="solution-row-body">
+                      <WorkingBody
+                        field={working.working}
+                        preferences={preferences}
+                      />
+                    </div>
+                  </div>
+                ) : null}
+              </div>
             </div>
           ))}
         </section>

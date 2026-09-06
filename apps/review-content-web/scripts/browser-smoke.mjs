@@ -35,11 +35,11 @@ for (const expected of [
 assert.match(paper.text, /api\/assets\/papers/);
 assert.doesNotMatch(paper.text, /rtq-question-id is unavailable/);
 assert.match(paper.text, /Own UUID · RAG inherited from S1 Q5/);
-const formulaPosition = paper.text.indexOf('content-field-label">Formula 1');
-const tipPosition = paper.text.indexOf('content-field-label">Tip 1');
-const workingPosition = paper.text.indexOf('content-field-label">Working');
-assert.ok(formulaPosition >= 0, 'a representative formula should render');
-assert.ok(tipPosition > formulaPosition, 'tips should follow formulas');
+const formulaPosition = paper.text.indexOf('Formulas used');
+const tipPosition = paper.text.indexOf('Keep in mind');
+const workingPosition = paper.text.indexOf('solution-row--working');
+assert.ok(formulaPosition >= 0, 'the formula row should render');
+assert.ok(tipPosition > formulaPosition, 'the tip row should follow formulas');
 assert.ok(
   workingPosition > tipPosition,
   'workings should follow formulas and tips',

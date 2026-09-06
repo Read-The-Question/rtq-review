@@ -6,10 +6,27 @@ import type {
   ReviewWorking,
 } from '@rtq/review-paper-model';
 
+import type { WorkingSectionPhase } from './working-sections';
+
+export type DisplayWorkingSegment = Readonly<
+  | {
+      kind: 'flat';
+      rendered: string;
+    }
+  | {
+      kind: 'section';
+      phase: WorkingSectionPhase;
+      rendered: string;
+      title?: string;
+      visibility: 'hidden' | 'visible';
+    }
+>;
+
 export type DisplayContentField = ReviewContentField &
   Readonly<{
     preparationIssue?: string;
     rendered: string;
+    workingSegments?: readonly DisplayWorkingSegment[];
   }>;
 
 export type DisplayWorking = Omit<

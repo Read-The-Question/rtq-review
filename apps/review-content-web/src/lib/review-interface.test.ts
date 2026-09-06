@@ -75,3 +75,31 @@ test('the landing page uses a compact paper-first introduction', async () => {
     /\.collection-rail\s*{[^}]*background:\s*var\(--paper-deep\)/s,
   );
 });
+
+test('working content mirrors the production row hierarchy and stage rail', async () => {
+  const [component, css] = await Promise.all([
+    fs.readFile(componentUrl, 'utf8'),
+    fs.readFile(cssUrl, 'utf8'),
+  ]);
+
+  const formulasPosition = component.indexOf('label="Formulas used"');
+  const tipsPosition = component.indexOf('label="Keep in mind"');
+  const bodyPosition = component.indexOf('solution-row--working');
+
+  assert.ok(formulasPosition >= 0, 'formula row label should render');
+  assert.ok(tipsPosition > formulasPosition, 'tips should follow formulas');
+  assert.ok(bodyPosition > tipsPosition, 'working body should follow tips');
+  assert.match(component, /className="working-method-divider"/);
+  assert.match(component, /className="working-stage-track"/);
+  assert.match(component, /className="working-stage-title-rule"/);
+  assert.match(component, /segment\.visibility === 'hidden'/);
+  assert.match(
+    css,
+    /\.working-stage\s*{[^}]*grid-template-columns:\s*0\.8rem minmax\(0, 1fr\)/s,
+  );
+  assert.match(css, /\.working-stage-rail\s*{[^}]*width:\s*1px/s);
+  assert.match(
+    css,
+    /@media \(max-width: 800px\)[\s\S]*\.solution-row\s*{[^}]*grid-template-columns:\s*1fr/s,
+  );
+});

@@ -75,6 +75,11 @@ the browser and does not read TOML or contact Google Sheets.
   review sides are independent, so answer-only and question-only layouts are
   supported. Display preferences stay in local browser storage and existing
   combined review-panel preferences migrate to the two switches.
+- Rendered workings follow the production RTQ hierarchy: formulas and tips use
+  labelled rows, later methods have their own divider, and authored
+  `WorkingSection` stages retain their titles and connected side rail. Hidden
+  stages remain absent from the rendered view but are still inspectable through
+  **Raw source**.
 - Use **Show previous feedback** to reveal immutable feedback from RAG states
   other than the current state; it is off by default. Each feedback region
   reports current and previous counts even when history is hidden.

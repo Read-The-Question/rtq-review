@@ -14,8 +14,13 @@ import type {
   DisplayContentField,
   DisplayPaperNode,
   DisplayReviewPaper,
+  DisplayWorkingSegment,
 } from './display-model';
 import { normalizePaperTableMarkdown } from './paper-table-markdown';
+import {
+  parseWorkingSections,
+  type WorkingSectionParseResult,
+} from './working-sections';
 
 const IMAGE = /(?:%image%|TODOIMAGE|<PaperImage\b[^\n>]*\/>)/g;
 const LONG_DIVISION = /<LongDivision\b[^\n>]*\/>/g;
@@ -201,34 +206,59 @@ function longDivisionMarkdown(
     .join('\n\n');
 }
 
-function normalizeWorkingSections(value: string): string {
-  return value
-    .split('\n')
-    .map((line) => {
-      if (/^\s*<\/WorkingSection>\s*$/.test(line)) return '';
-      const match = line.match(/^\s*<WorkingSection\b([^>]*)>\s*$/);
-      if (!match) return line;
-      const title = attributes(match[1]).title;
-      return title ? `\n**${markdownText(title)}**\n` : '\n---\n';
+function normalizeWorkingSections(
+  value: string,
+  parsed: WorkingSectionParseResult = parseWorkingSections(value),
+): string {
+  if (!parsed.segments) return value;
+  return parsed.segments
+    .flatMap((segment) => {
+      if (segment.kind === 'flat') return segment.markdown;
+      if (segment.visibility === 'hidden') return [];
+      return segment.title
+        ? `**${markdownText(segment.title)}**\n\n${segment.markdown}`
+        : segment.markdown;
     })
-    .join('\n');
+    .join('\n\n');
 }
 
-function prepareField(field: ReviewContentField): DisplayContentField {
+function prepareField(
+  field: ReviewContentField,
+  options: Readonly<{ preserveWorkingSections?: boolean }> = {},
+): DisplayContentField {
   try {
     let imageIndex = 0;
     let divisionIndex = 0;
     const tables = normalizePaperTableMarkdown(
       field.expanded.replace(MDX_COMMENT, ''),
     );
-    const sections = normalizeWorkingSections(tables);
-    const images = sections.replace(IMAGE, (component) =>
+    const images = tables.replace(IMAGE, (component) =>
       paperImageMarkdown(component, field.context, imageIndex++),
     );
-    const rendered = images.replace(LONG_DIVISION, (component) =>
+    const prepared = images.replace(LONG_DIVISION, (component) =>
       longDivisionMarkdown(component, field.context, divisionIndex++),
     );
-    return { ...field, rendered };
+    const parsed = options.preserveWorkingSections
+      ? parseWorkingSections(prepared)
+      : {};
+    const workingSegments = parsed.segments?.map<DisplayWorkingSegment>(
+      (segment) =>
+        segment.kind === 'flat'
+          ? { kind: 'flat', rendered: segment.markdown }
+          : {
+              kind: 'section',
+              phase: segment.phase,
+              rendered: segment.markdown,
+              ...(segment.title ? { title: segment.title } : {}),
+              visibility: segment.visibility,
+            },
+    );
+    return {
+      ...field,
+      ...(parsed.issue ? { preparationIssue: parsed.issue } : {}),
+      rendered: normalizeWorkingSections(prepared, parsed),
+      ...(workingSegments ? { workingSegments } : {}),
+    };
   } catch (error) {
     return {
       ...field,
@@ -255,9 +285,11 @@ function prepareNode(
       })),
       question: prepareField(node.content.question),
       workings: node.content.workings.map((working) => ({
-        formulas: working.formulas.map(prepareField),
-        tips: working.tips.map(prepareField),
-        working: prepareField(working.working),
+        formulas: working.formulas.map((field) => prepareField(field)),
+        tips: working.tips.map((field) => prepareField(field)),
+        working: prepareField(working.working, {
+          preserveWorkingSections: true,
+        }),
       })),
     },
   };

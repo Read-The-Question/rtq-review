@@ -94,14 +94,10 @@ export default async function HomePage() {
       <SiteHeader />
       <section className="index-intro">
         <div>
-          <p className="eyebrow">Direct-content review</p>
-          <h1>
-            Choose the paper.
-            <span>Change the lens.</span>
-          </h1>
+          <p className="eyebrow">Review content</p>
+          <h1>Choose a paper</h1>
           <p className="hero-summary">
-            Browse the live RTQ content checkout, then review a complete paper
-            through any combination of its five dimensional tag axes.
+            Browse the live RTQ content checkout and open a paper for review.
           </p>
         </div>
         <aside

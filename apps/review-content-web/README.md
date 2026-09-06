@@ -70,10 +70,14 @@ the browser and does not read TOML or contact Google Sheets.
   filter scope across refreshes, along with the active matching question.
 - Use **Clear all** to reset both state facets, all five tag dimensions, and the
   active question while retaining unrelated display parameters.
-- Use the display strip to show or hide workings and answers, dimensional tags,
-  raw TOML values, and the review-status panel. Use **Show everything** to reveal
-  immutable feedback from RAG states other than the current state; it is off by
-  default. Display preferences stay in local browser storage.
+- Use the simple display switches to show or hide workings and answers,
+  dimensional tags, raw TOML values, Question review, and Answer review. The
+  review sides are independent, so answer-only and question-only layouts are
+  supported. Display preferences stay in local browser storage and existing
+  combined review-panel preferences migrate to the two switches.
+- Use **Show previous feedback** to reveal immutable feedback from RAG states
+  other than the current state; it is off by default. Each feedback region
+  reports current and previous counts even when history is hidden.
 - Use the Previous/Next controls or `J`/`K` (`Alt` + arrow keys also work) to
   move through matching top-level question trees.
 - All TOML and assets remain read-only. The asset route exposes only question
@@ -92,11 +96,13 @@ subquestion, and sub-subquestion uses its own UUID for feedback; its own
 `rtq-question-id` is retained only when present. Nested nodes inherit only the
 corresponding question or answer RAG state from their containing top-level
 question. Current-state comments appear against their exact node by default;
-**Show everything** also reveals earlier-state history. All comments are
-read-only after creation, with no edit, delete, or reset route. The database,
-journal, WAL, and SHM files are ignored by the content repository and are not
-backed up by Git; back up the database file separately if this local review
-history must be retained.
+**Show previous feedback** also reveals earlier-state history. Feedback uses a
+prominent full-width treatment below its stable Add Comment form, so appended
+history does not move the composer farther down. All comments are read-only
+after creation, with no edit, delete, or reset route. The database, journal,
+WAL, and SHM files are ignored by the content repository and are not backed up
+by Git; back up the database file separately if this local review history must
+be retained.
 
 ## Checks and production build
 
@@ -134,5 +140,5 @@ outcome to the production Google Sheet.
 5. Append feedback to a question or nested question, refresh, and confirm it
    remains attached to that exact UUID at the current top-level RAG state.
 6. Change the current state, confirm the earlier feedback is hidden, then turn
-   on **Show everything** and confirm the prior-state feedback appears in its
-   original context.
+   on **Show previous feedback** and confirm the prior-state feedback appears
+   in its original context.

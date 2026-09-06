@@ -29,10 +29,12 @@ import type {
 } from '@/lib/display-model';
 import {
   DEFAULT_REVIEW_PREFERENCES,
+  LEGACY_REVIEW_PREFERENCES_KEY,
   REVIEW_PREFERENCES_KEY,
   adjacentQuestionId,
   parseReviewPreferences,
   reviewStateLabel,
+  visibleReviewSides,
   type ReviewPreferences,
 } from '@/lib/review-view-model';
 import {
@@ -115,7 +117,7 @@ type ReviewRuntimeState = Readonly<{
   outcomeOverrides: Readonly<Record<string, ReviewOutcome>>;
   pendingKeys: ReadonlySet<string>;
   reviewer: string;
-  showAllFeedback: boolean;
+  showPreviousFeedback: boolean;
   source: Readonly<{ collectionId: string; relativePath: string }>;
   submitOutcome: (
     target: ReviewTargetDescriptor,
@@ -208,6 +210,8 @@ function ReviewScope({
   const commentGroups = target
     ? partitionReviewComments(runtime.comments, target)
     : { current: [], history: [] };
+  const hasFeedback =
+    commentGroups.current.length > 0 || commentGroups.history.length > 0;
   const displayedOutcome =
     runtime.outcomeOverrides[key] ?? node.review[side].reviewOutcome;
   const outcomeDisabledReason = !target
@@ -324,38 +328,6 @@ function ReviewScope({
         </>
       ) : null}
 
-      <section
-        className="current-comments"
-        aria-label={`${side} current comments`}
-      >
-        <div className="comment-heading">
-          <strong>Current feedback</strong>
-          <span>
-            {target ? reviewStateLabel(target.ragState) : 'State unavailable'}
-          </span>
-        </div>
-        <CommentList comments={commentGroups.current} current />
-      </section>
-
-      {runtime.showAllFeedback && commentGroups.history.length ? (
-        <details className="comment-history">
-          <summary>
-            Earlier-state history ({commentGroups.history.length})
-          </summary>
-          <p>
-            Read only · these comments do not apply to the current RAG state.
-          </p>
-          <CommentList comments={commentGroups.history} current={false} />
-        </details>
-      ) : null}
-
-      {node.review[side].legacyComments ? (
-        <details className="legacy-source-comments">
-          <summary>Legacy synchronized comment</summary>
-          <pre>{node.review[side].legacyComments}</pre>
-        </details>
-      ) : null}
-
       <form
         className="comment-form"
         onSubmit={(event) => void submitComment(event)}
@@ -389,20 +361,70 @@ function ReviewScope({
           {status.message}
         </p>
       ) : null}
+
+      <section
+        aria-label={`${side} feedback`}
+        aria-live="polite"
+        className={`feedback-region${hasFeedback ? ' feedback-region--populated' : ''}`}
+      >
+        <div className="comment-heading">
+          <div>
+            <strong>
+              {side === 'question' ? 'Question' : 'Answer'} feedback
+            </strong>
+            <span>
+              {target ? reviewStateLabel(target.ragState) : 'State unavailable'}
+            </span>
+          </div>
+          <span>
+            {commentGroups.current.length} current ·{' '}
+            {commentGroups.history.length} previous
+          </span>
+        </div>
+        <CommentList comments={commentGroups.current} current />
+        {!runtime.showPreviousFeedback && commentGroups.history.length > 0 ? (
+          <p className="comment-history-note">
+            {commentGroups.history.length} previous{' '}
+            {commentGroups.history.length === 1 ? 'comment is' : 'comments are'}{' '}
+            hidden. Use Show previous feedback above to read{' '}
+            {commentGroups.history.length === 1 ? 'it' : 'them'}.
+          </p>
+        ) : null}
+        {runtime.showPreviousFeedback && commentGroups.history.length > 0 ? (
+          <section className="comment-history">
+            <div className="comment-history-heading">
+              <strong>Previous feedback</strong>
+              <span>{commentGroups.history.length} read only</span>
+            </div>
+            <p>These comments do not apply to the current RAG state.</p>
+            <CommentList comments={commentGroups.history} current={false} />
+          </section>
+        ) : null}
+      </section>
+
+      {node.review[side].legacyComments ? (
+        <details className="legacy-source-comments">
+          <summary>Legacy synchronized comment</summary>
+          <pre>{node.review[side].legacyComments}</pre>
+        </details>
+      ) : null}
     </section>
   );
 }
 
 function ReviewPanel({
   node,
+  preferences,
   runtime,
   topLevelQuestion,
 }: {
   node: DisplayPaperNode;
+  preferences: ReviewPreferences;
   runtime: ReviewRuntimeState;
   topLevelQuestion: DisplayPaperNode;
 }) {
   const outcomesEnabled = node.depth === 0;
+  const visibleSides = visibleReviewSides(preferences);
   return (
     <aside
       className={`review-panel${outcomesEnabled ? '' : ' review-panel--nested'}`}
@@ -416,21 +438,17 @@ function ReviewPanel({
             : `Own UUID · RAG inherited from ${topLevelQuestion.label}`}
         </span>
       </div>
-      <div className="review-scopes">
-        <ReviewScope
-          node={node}
-          outcomesEnabled={outcomesEnabled}
-          runtime={runtime}
-          side="question"
-          topLevelQuestion={topLevelQuestion}
-        />
-        <ReviewScope
-          node={node}
-          outcomesEnabled={outcomesEnabled}
-          runtime={runtime}
-          side="answer"
-          topLevelQuestion={topLevelQuestion}
-        />
+      <div className="review-scopes" data-visible-sides={visibleSides.length}>
+        {visibleSides.map((side) => (
+          <ReviewScope
+            key={side}
+            node={node}
+            outcomesEnabled={outcomesEnabled}
+            runtime={runtime}
+            side={side}
+            topLevelQuestion={topLevelQuestion}
+          />
+        ))}
       </div>
     </aside>
   );
@@ -596,9 +614,10 @@ function QuestionNode({
         />
       </div>
       <SolutionContent node={node} preferences={preferences} />
-      {preferences.showReview ? (
+      {visibleReviewSides(preferences).length > 0 ? (
         <ReviewPanel
           node={node}
+          preferences={preferences}
           runtime={reviewRuntime}
           topLevelQuestion={topLevelQuestion}
         />
@@ -637,10 +656,13 @@ function PreferenceToggle({
       <input
         checked={checked}
         onChange={(event) => onChange(event.target.checked)}
+        role="switch"
         type="checkbox"
       />
-      <span aria-hidden="true" />
-      {label}
+      <span aria-hidden="true" className="preference-toggle-control">
+        <span />
+      </span>
+      <span className="preference-toggle-label">{label}</span>
     </label>
   );
 }
@@ -868,7 +890,7 @@ export function ReviewSurface({
   const [comments, setComments] = useState<readonly LocalReviewComment[]>(
     commentLoad.comments,
   );
-  const [showAllFeedback, setShowAllFeedback] = useState(false);
+  const [showPreviousFeedback, setShowPreviousFeedback] = useState(false);
   const [outcomeOverrides, setOutcomeOverrides] = useState<
     Readonly<Record<string, ReviewOutcome>>
   >({});
@@ -1020,7 +1042,7 @@ export function ReviewSurface({
       outcomeOverrides,
       pendingKeys,
       reviewer,
-      showAllFeedback,
+      showPreviousFeedback,
       source: {
         collectionId: paper.source.collection.id,
         relativePath: paper.source.relativePath,
@@ -1036,16 +1058,27 @@ export function ReviewSurface({
       paper.source.relativePath,
       pendingKeys,
       reviewer,
-      showAllFeedback,
+      showPreviousFeedback,
       submitOutcome,
     ],
   );
 
   useEffect(() => {
     const frame = requestAnimationFrame(() => {
-      setPreferences(
-        parseReviewPreferences(localStorage.getItem(REVIEW_PREFERENCES_KEY)),
-      );
+      let next = DEFAULT_REVIEW_PREFERENCES;
+      try {
+        const stored = localStorage.getItem(REVIEW_PREFERENCES_KEY);
+        next = parseReviewPreferences(
+          stored,
+          localStorage.getItem(LEGACY_REVIEW_PREFERENCES_KEY),
+        );
+        if (!stored) {
+          localStorage.setItem(REVIEW_PREFERENCES_KEY, JSON.stringify(next));
+        }
+      } catch {
+        // Browser storage is optional; the in-memory controls still work.
+      }
+      setPreferences(next);
     });
     return () => cancelAnimationFrame(frame);
   }, []);
@@ -1083,7 +1116,11 @@ export function ReviewSurface({
 
   function updatePreferences(next: ReviewPreferences) {
     setPreferences(next);
-    localStorage.setItem(REVIEW_PREFERENCES_KEY, JSON.stringify(next));
+    try {
+      localStorage.setItem(REVIEW_PREFERENCES_KEY, JSON.stringify(next));
+    } catch {
+      // Display preferences remain usable when browser storage is unavailable.
+    }
   }
 
   function togglePreference(key: keyof ReviewPreferences, value: boolean) {
@@ -1243,8 +1280,11 @@ export function ReviewSurface({
         stateFacets={result.stateFacets}
       />
 
-      <section className="review-toolbar" aria-label="Display preferences">
-        <div>
+      <section
+        className="review-toolbar"
+        aria-label="Display and feedback preferences"
+      >
+        <div className="review-toolbar-group">
           <span className="toolbar-label">Display</span>
           <PreferenceToggle
             checked={preferences.showSolutions}
@@ -1262,18 +1302,29 @@ export function ReviewSurface({
             onChange={(value) => togglePreference('showRaw', value)}
           />
           <PreferenceToggle
-            checked={preferences.showReview}
-            label="Review panel"
-            onChange={(value) => togglePreference('showReview', value)}
+            checked={preferences.showQuestionReview}
+            label="Question review"
+            onChange={(value) => togglePreference('showQuestionReview', value)}
           />
-          {preferences.showReview ? (
-            <PreferenceToggle
-              checked={showAllFeedback}
-              label="Show everything"
-              onChange={setShowAllFeedback}
-            />
-          ) : null}
+          <PreferenceToggle
+            checked={preferences.showAnswerReview}
+            label="Answer review"
+            onChange={(value) => togglePreference('showAnswerReview', value)}
+          />
         </div>
+        {visibleReviewSides(preferences).length > 0 ? (
+          <div className="review-toolbar-group review-toolbar-group--feedback">
+            <span className="toolbar-label">Feedback</span>
+            <PreferenceToggle
+              checked={showPreviousFeedback}
+              label="Show previous feedback"
+              onChange={setShowPreviousFeedback}
+            />
+            <span className="feedback-mode-copy">
+              {showPreviousFeedback ? 'All RAG states' : 'Current RAG only'}
+            </span>
+          </div>
+        ) : null}
         <span className="keyboard-note">J / K · next / previous</span>
       </section>
 

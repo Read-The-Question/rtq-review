@@ -11,8 +11,9 @@ async function read(path) {
 }
 
 const home = await read('/');
-assert.match(home.text, /Choose the paper/);
+assert.match(home.text, /Choose a paper/);
 assert.match(home.text, /Live TOML index/);
+assert.doesNotMatch(home.text, /Change the lens/);
 
 const paper = await read(paperPath);
 for (const expected of [
@@ -23,8 +24,6 @@ for (const expected of [
   'Raw source',
   'Review workflow',
   'Node feedback',
-  'Current feedback',
-  'Show everything',
   'Add comment',
   'PRG2',
   'S1 Q1',

@@ -1,46 +1,88 @@
-export const REVIEW_PREFERENCES_KEY = 'rtq.review-content.preferences.v1';
+export const REVIEW_PREFERENCES_KEY = 'rtq.review-content.preferences.v2';
+export const LEGACY_REVIEW_PREFERENCES_KEY =
+  'rtq.review-content.preferences.v1';
 
 export type ReviewPreferences = Readonly<{
+  showAnswerReview: boolean;
+  showQuestionReview: boolean;
   showRaw: boolean;
-  showReview: boolean;
   showSolutions: boolean;
   showTags: boolean;
 }>;
 
 export const DEFAULT_REVIEW_PREFERENCES: ReviewPreferences = {
+  showAnswerReview: true,
+  showQuestionReview: true,
   showRaw: false,
-  showReview: true,
   showSolutions: true,
   showTags: true,
 };
 
+export type VisibleReviewSide = 'answer' | 'question';
+
+function parsePreferenceRecord(
+  value: string | null,
+): Record<string, unknown> | undefined {
+  if (!value) return undefined;
+  try {
+    const parsed: unknown = JSON.parse(value);
+    return parsed && typeof parsed === 'object' && !Array.isArray(parsed)
+      ? (parsed as Record<string, unknown>)
+      : undefined;
+  } catch {
+    return undefined;
+  }
+}
+
 export function parseReviewPreferences(
   value: string | null,
+  legacyValue: string | null = null,
 ): ReviewPreferences {
-  if (!value) return DEFAULT_REVIEW_PREFERENCES;
-  try {
-    const parsed = JSON.parse(value) as Record<string, unknown>;
-    return {
-      showRaw:
-        typeof parsed.showRaw === 'boolean'
-          ? parsed.showRaw
-          : DEFAULT_REVIEW_PREFERENCES.showRaw,
-      showReview:
-        typeof parsed.showReview === 'boolean'
-          ? parsed.showReview
-          : DEFAULT_REVIEW_PREFERENCES.showReview,
-      showSolutions:
-        typeof parsed.showSolutions === 'boolean'
-          ? parsed.showSolutions
-          : DEFAULT_REVIEW_PREFERENCES.showSolutions,
-      showTags:
-        typeof parsed.showTags === 'boolean'
-          ? parsed.showTags
-          : DEFAULT_REVIEW_PREFERENCES.showTags,
-    };
-  } catch {
-    return DEFAULT_REVIEW_PREFERENCES;
+  const parsed = parsePreferenceRecord(value);
+  const legacy = parsePreferenceRecord(legacyValue);
+  const oldReviewPreference =
+    typeof parsed?.showReview === 'boolean'
+      ? parsed.showReview
+      : typeof legacy?.showReview === 'boolean'
+        ? legacy.showReview
+        : undefined;
+
+  function preference(
+    key: keyof ReviewPreferences,
+    fallback: boolean,
+  ): boolean {
+    const currentPreference = parsed?.[key];
+    const legacyPreference = legacy?.[key];
+    if (typeof currentPreference === 'boolean') return currentPreference;
+    if (typeof legacyPreference === 'boolean') return legacyPreference;
+    return fallback;
   }
+
+  return {
+    showAnswerReview: preference(
+      'showAnswerReview',
+      oldReviewPreference ?? DEFAULT_REVIEW_PREFERENCES.showAnswerReview,
+    ),
+    showQuestionReview: preference(
+      'showQuestionReview',
+      oldReviewPreference ?? DEFAULT_REVIEW_PREFERENCES.showQuestionReview,
+    ),
+    showRaw: preference('showRaw', DEFAULT_REVIEW_PREFERENCES.showRaw),
+    showSolutions: preference(
+      'showSolutions',
+      DEFAULT_REVIEW_PREFERENCES.showSolutions,
+    ),
+    showTags: preference('showTags', DEFAULT_REVIEW_PREFERENCES.showTags),
+  };
+}
+
+export function visibleReviewSides(
+  preferences: ReviewPreferences,
+): readonly VisibleReviewSide[] {
+  const sides: VisibleReviewSide[] = [];
+  if (preferences.showQuestionReview) sides.push('question');
+  if (preferences.showAnswerReview) sides.push('answer');
+  return sides;
 }
 
 export function adjacentQuestionId(

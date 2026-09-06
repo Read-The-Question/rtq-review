@@ -3,7 +3,7 @@ import assert from "node:assert/strict";
 const targets = [
   {
     label: "Review Content Web",
-    pattern: /Choose the paper/,
+    pattern: /Choose a paper/,
     url: process.env.RTQ_REVIEW_CONTENT_URL ?? "http://127.0.0.1:3001/",
   },
   {

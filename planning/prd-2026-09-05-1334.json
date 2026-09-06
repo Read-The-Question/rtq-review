@@ -207,7 +207,7 @@
     {
       "id": "T7",
       "title": "Document, integrate, and validate the maintained review stack",
-      "status": "in_review",
+      "status": "done",
       "description": "Make the renamed and new applications understandable and independently runnable, then update the rtq-content-owned tmux stack so every maintained review service starts with an explicit non-conflicting port.",
       "acceptanceCriteria": [
         "The root README and new application README explain purpose, source-of-truth boundaries, supported collections, filtering semantics, Google Sheets outcome synchronization, the <rtq-content>/database/review-content.sqlite machine-local persistence location and backup implications, environment/path configuration, local URL, and checks.",
@@ -219,7 +219,97 @@
         "A manual acceptance walkthrough demonstrates choosing a canonical or derived paper, applying at least two dimensional filters, reviewing the reduced question set, opening raw source, rendering representative assets, submitting a mocked or approved non-production outcome, appending and reloading a local current-state comment, observing a prior-state comment as historical, and clearing/restoring the URL-backed filter state."
       ],
       "steps": [],
-      "notes": "Port assignment revised and implemented on 2026-09-06: review-content-web is the primary reviewer on 3001, review-markdown-web is on 3004, docs-web is on 3005, and the existing tag and question-viewer assignments remain 3002 and 3003. Root format, lint, types, and tests passed; the full review-content-web check and production build passed; review-markdown-web and docs-web production builds passed; the rtq-content repository naming audit passed. The six-window tmux stack started without a port collision, stack smoke checks passed for 3001/3004/3005, Content Web's browser smoke passed on 3001, and the other three services returned HTTP 200. The documented manual acceptance walkthrough remains for user review. No production Google Sheets write was performed.",
+      "notes": "Port assignment revised and implemented on 2026-09-06: review-content-web is the primary reviewer on 3001, review-markdown-web is on 3004, docs-web is on 3005, and the existing tag and question-viewer assignments remain 3002 and 3003. Root format, lint, types, and tests passed; the full review-content-web check and production build passed; review-markdown-web and docs-web production builds passed; the rtq-content repository naming audit passed. The six-window tmux stack started without a port collision, stack smoke checks passed for 3001/3004/3005, Content Web's browser smoke passed on 3001, and the other three services returned HTTP 200. No production Google Sheets write was performed. Accepted and marked done by the user on 2026-09-06.",
+      "children": []
+    },
+    {
+      "id": "T8",
+      "title": "Replace paper display controls with simple toggles",
+      "status": "in_review",
+      "description": "Simplify the paper-level display controls in Review Content Web so each binary choice is immediately recognizable and usable as an ordinary on/off toggle. Raw source is already supported; the gap is the custom presentation of the controls, not missing raw-working data.",
+      "acceptanceCriteria": [
+        "The display controls near the start of a selected paper use a familiar, visually unambiguous switch treatment with a clear on/off state rather than the current bespoke indicator UI.",
+        "Workings & answers, Tags, and Raw source each retain their existing independent behavior and are presented as simple labelled toggles; other binary controls in the same display group use the same convention for consistency.",
+        "Every toggle remains keyboard operable, has an accessible programmatic label and checked state, and has a visible focus treatment.",
+        "Changing the visual control does not change the existing defaults, machine-local preference persistence, rendered/raw content, filtering, review state, or source TOML.",
+        "The controls remain usable and legible at narrow and wide viewport sizes without obscuring the start of the paper.",
+        "Component tests verify the accessible checked states and retained preference behavior, and the browser smoke verifies that the simple toggles visibly show and hide representative workings, tags, and raw source."
+      ],
+      "steps": [],
+      "notes": "First follow-up gap reported during user acceptance on 2026-09-06. The user confirmed that Raw source is already present and corrected the earlier interpretation that a separate raw-working capability was missing. Implemented on 2026-09-06 with conventional labelled switches, native checkbox semantics, visible focus styling, retained defaults, and machine-local persistence. Static interface tests cover the accessible switch contract and the production route smoke passes; final visual acceptance remains with the user.",
+      "children": []
+    },
+    {
+      "id": "T9",
+      "title": "Control question and answer review panels independently",
+      "status": "in_review",
+      "description": "Replace the single Review panel visibility choice with independent question-review and answer-review visibility so a reviewer can use an answer-only layout for the common workflow while keeping question review available when needed.",
+      "acceptanceCriteria": [
+        "The paper-level display controls provide separate, clearly labelled Question review and Answer review toggles using the simple toggle treatment defined by T8.",
+        "The reviewer can select all four useful layouts across the complete paper: both panels, question only, answer only, or neither; answer only does not leave an empty question-panel container or unused layout space.",
+        "Each visibility choice applies consistently to the corresponding outcome controls, current-state feedback, historical feedback, and append-comment form at top-level question, subquestion, and sub-subquestion depth.",
+        "Hiding either panel is presentation-only: it does not delete comments, clear unsaved state in the other visible panel, submit an outcome, change filters, or modify source TOML.",
+        "Question-panel and answer-panel preferences persist independently in machine-local browser storage and remain outside the shareable filter URL. Existing stored single-panel preferences migrate predictably, with visible mapping to both visible and hidden mapping to both hidden.",
+        "Show previous feedback continues to control current-state versus historical feedback for whichever review side is visible, and revealing a previously hidden side restores its applicable feedback.",
+        "Tests cover all four visibility combinations, stored-preference migration and persistence, and representative nested feedback; the browser smoke verifies the answer-only layout and restoration of both panels."
+      ],
+      "steps": [],
+      "notes": "Second follow-up gap reported during user acceptance on 2026-09-06. Implemented on 2026-09-06 with independent Question review and Answer review preferences, all four visibility layouts, no empty hidden-side container, and deterministic migration from the former combined preference. Unit tests cover migration and every visibility combination; final visual acceptance remains with the user.",
+      "children": []
+    },
+    {
+      "id": "T10",
+      "title": "Lighten the review theme and increase typography",
+      "status": "in_review",
+      "description": "Make Review Content Web comfortable for sustained review by replacing near-dark content surfaces with a light neutral palette and increasing the undersized typography used for tags, paper names, metadata, controls, raw source, and other reviewer-facing information.",
+      "acceptanceCriteria": [
+        "Raw-source blocks and other content-panel backgrounds no longer use near-black or strongly dark fills; differentiation uses light gray, a slightly deeper version of the main paper background, subtle borders, or similarly light neutral treatment.",
+        "The lighter surfaces retain clear hierarchy and readable foreground contrast without changing the semantic meaning of RAG, warning, success, or active-control states.",
+        "The application typography scale is increased across the paper browser and selected-paper view, including paper names, tags, metadata, filters, display controls, raw source, identifiers, review panels, comments, and navigation.",
+        "Reviewer-facing labels, tags, paper names, controls, metadata, and raw-source text are not rendered below 0.875rem at supported viewport sizes, while primary question and answer content remains at least 1rem unless a larger existing size already applies.",
+        "Increased text sizes wrap or reflow cleanly at narrow and wide viewport sizes without clipping, overlapping, truncating essential information, or creating unusable controls.",
+        "Foreground and background combinations meet WCAG AA contrast for ordinary text and interactive states, including raw-source blocks and tag badges.",
+        "Style or browser tests cover the light raw-source treatment and minimum typography scale, followed by visual verification of the paper list and a representative nested paper at desktop and narrow viewport widths."
+      ],
+      "steps": [],
+      "notes": "Third follow-up gap reported during user acceptance on 2026-09-06. Implemented on 2026-09-06 with a light neutral page, filter, collection, review, and raw-source palette; reviewer-facing explicit rem sizes are at least 0.875rem and primary content remains at least 1rem. Static style-contract tests guard the palette and minimum typography scale; final desktop and narrow visual acceptance remains with the user.",
+      "children": []
+    },
+    {
+      "id": "T11",
+      "title": "Make review feedback prominent and stable",
+      "status": "in_review",
+      "description": "Restructure feedback presentation so existing review comments are the most prominent information in each question context, historical feedback is easy to discover, and appending feedback does not continually move the Add Comment interaction down the page.",
+      "acceptanceCriteria": [
+        "When a question, subquestion, or sub-subquestion has feedback, that feedback is visually dominant within the node context through stronger weight, the larger typography established by T10, and an accessible destructive/red treatment rather than a quiet neutral card.",
+        "Feedback is presented in a central or full-width region instead of being constrained to the narrow side-by-side question and answer control columns; its exact node and review side remain unmistakable.",
+        "Question and answer feedback continue to respect the independently visible review sides introduced by T9, while comments remain attached to the exact nested-node UUID and inherited top-level RAG state already stored in SQLite.",
+        "The comment composer and Add Comment action occupy a stable, predictable position. Appending one or many comments does not push the composer progressively farther down; the growing append-only history is placed after the composer, in a bounded region, or in another layout that preserves access to the action.",
+        "The vague Show everything control is replaced or supplemented by an explicit Show previous feedback control located with the feedback experience. It remains discoverable when there is only current feedback or no historical feedback and communicates current and historical counts or an equally clear empty state.",
+        "By default only feedback for the current RAG state is shown. Enabling Show previous feedback reveals immutable comments from all earlier states with their original RAG state, reviewer, and date clearly identified; disabling it returns to the current-state view.",
+        "The destructive feedback treatment remains compatible with T10's light theme, meets WCAG AA contrast, and is distinguishable from transient submission errors and success messages.",
+        "Tests cover current-only and historical visibility, zero-history discoverability, question-versus-answer context, append order, and preserved exact-node/RAG filtering. Browser verification confirms prominent feedback and a stable Add Comment position before and after appending multiple mocked comments at desktop and narrow widths."
+      ],
+      "steps": [],
+      "notes": "Fourth follow-up gap reported during user acceptance on 2026-09-06. Implemented on 2026-09-06 with full-width stacked review scopes, a stable composer before the growing feedback list, prominent destructive/red populated-feedback treatment, per-side current/previous counts, and an explicit Show previous feedback switch that reveals immutable earlier-RAG comments. Existing exact-node UUID and inherited top-level RAG data behavior remains unchanged and tested; final visual acceptance remains with the user.",
+      "children": []
+    },
+    {
+      "id": "T12",
+      "title": "Simplify the internal review landing page",
+      "status": "in_review",
+      "description": "Replace the oversized, promotional landing-page treatment with a compact and functional internal-tool layout that prioritizes finding and opening a paper.",
+      "acceptanceCriteria": [
+        "The landing page no longer uses the massive multi-line hero title or marketing-style slogan treatment; the application identity and short purpose remain available in a compact header.",
+        "Paper collection navigation, search, results, and repository connection status become the primary above-the-fold content, with the paper browser visible without scrolling past a large introduction on a typical laptop viewport.",
+        "Decorative treatments that do not support review work—including excessive display typography, dramatic spacing, notebook-style background effects, heavy shadows, and dark showcase panels—are removed or substantially toned down.",
+        "The simplified landing page follows T10's light neutral palette and readable typography while retaining clear selected, hover, focus, invalid-source, empty, and disconnected states.",
+        "All existing landing-page behavior remains intact: live collection counts, collection selection, paper search, source details, invalid-paper handling, repository diagnostics, and navigation to stable paper routes.",
+        "The layout remains straightforward and usable at narrow and wide viewport sizes, with no decorative element taking priority over paper selection.",
+        "Browser tests preserve the landing-page browsing behavior, and visual verification at desktop and narrow widths confirms a compact internal-tool hierarchy rather than a promotional hero page."
+      ],
+      "steps": [],
+      "notes": "Fifth follow-up gap reported during user acceptance on 2026-09-06. Implemented on 2026-09-06 with a compact Choose a paper heading, short purpose copy, substantially reduced spacing and type scale, no ruled-paper background or showcase shadow, and a light collection rail so the paper browser is the primary content. The landing contract and production route smoke pass; final visual acceptance remains with the user.",
       "children": []
     }
   ],

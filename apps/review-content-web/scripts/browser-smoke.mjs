@@ -1,6 +1,6 @@
 import assert from 'node:assert/strict';
 
-const baseUrl = process.env.REVIEW_CONTENT_BASE_URL ?? 'http://127.0.0.1:3004';
+const baseUrl = process.env.REVIEW_CONTENT_BASE_URL ?? 'http://127.0.0.1:3001';
 const paperPath =
   '/papers/toml/dulwich-college--11-plus--maths--undated--specimen-paper-f.toml';
 

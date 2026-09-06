@@ -16,14 +16,15 @@ maths-colour macro catalogue.
 - [`apps/review-legacy-gatsby-web`](apps/review-legacy-gatsby-web) retains the
   generated-Markdown Gatsby reviewer. It is currently unused but remains the
   sole review consumer of copied paper assets until it is explicitly retired.
+- [`apps/review-content-web`](apps/review-content-web) is the direct-content
+  Next.js reviewer and the primary review application. It reads paper TOML
+  from the active `rtq-content` checkout without generated Markdown, submits
+  outcomes to Google Sheets through `review-api`, and keeps append-only
+  comments in the machine-local
+  `rtq-content/database/review-content.sqlite` database.
 - [`apps/review-markdown-web`](apps/review-markdown-web) is the maintained
   Next.js application for reviewing generated paper Markdown and submitting
   review actions.
-- [`apps/review-content-web`](apps/review-content-web) is the direct-content
-  Next.js reviewer. It reads paper TOML from the active `rtq-content` checkout
-  without generated Markdown, submits outcomes to Google Sheets through
-  `review-api`, and keeps append-only comments in the machine-local
-  `rtq-content/database/review-content.sqlite` database.
 - [`apps/review-tag-web`](apps/review-tag-web) is the maintained Next.js
   application for reviewing and editing tags directly in canonical paper TOML.
 - [`apps/review-question-viewer-web`](apps/review-question-viewer-web) is the
@@ -53,42 +54,32 @@ from the command's current directory. The resolver validates
 `@rtq/content-workspace`, `@rtq/papers`, and `@rtq/maths-assets` before use and
 derives papers and assets from that one checkout.
 
-Run an application from its directory:
+Review Content Web exposes canonical paper TOML, the seven generated focus,
+topic, and RAG collections, and exemplar tiers. Its five dimensional tag axes
+use OR matching within an axis and AND matching across axes. Question and
+answer RAG-state filters are independent. Filter state is encoded in the URL,
+while display preferences are remembered in browser storage; Reset filters
+clears both. Source TOML remains read-only: review outcomes go to Google Sheets
+through Review API, while contextual append-only comments go to the local
+SQLite database.
+
+Run an application from the workspace root on its assigned port:
 
 ```sh
-cd apps/review-markdown-web
-pnpm dev
-
-# Or run the direct-content reviewer on its assigned port:
-cd ../review-content-web
-pnpm dev --port 3004
-
-# Or run the internal documentation application:
-cd ../docs-web
-pnpm dev --port 3003
-
-# Or run the tag reviewer on its established port:
-cd ../review-tag-web
-pnpm dev --port 3001
-
-# Or run the question viewer on its established port:
-cd ../review-question-viewer-web
-pnpm dev --port 3002
-
-# Or run the retained Gatsby application:
-cd ../review-legacy-gatsby-web
-pnpm develop
-
-# Or run the review API through its Bundler-owned adapter:
-cd ../review-api
-pnpm dev
+pnpm review-content-web:dev          # http://localhost:3001
+pnpm review-tag-web:dev              # http://localhost:3002
+pnpm review-question-viewer-web:dev  # http://localhost:3003
+pnpm review-markdown-web:dev         # http://localhost:3004
+pnpm docs-web:dev                    # http://localhost:3005/docs
+pnpm review-api:dev                  # http://localhost:4567
+pnpm review-legacy-gatsby-web:dev    # http://localhost:8000
 ```
 
-The maintained review applications use ports `3000`, `3001`, `3002`, and
-`3004`; the documentation application currently uses `3003`; the review API
-uses `4567`; Gatsby runs at `http://localhost:8000`. The coordinated tmux stack
-will move documentation to `3005` when it registers the content reviewer. See
-each application README for its content, asset, and runtime prerequisites.
+Port `3000` remains reserved for the main RTQ website. Review Content Web uses
+`3001`, Review Tag Web uses `3002`, Review Question Viewer uses `3003`, Review
+Markdown Web uses `3004`, and Docs Web uses `3005`. Review API uses `4567`, and
+the retained Gatsby application uses `8000`. See each application README for
+its content, asset, and runtime prerequisites.
 
 The same applications can be started from the workspace root:
 
@@ -117,4 +108,11 @@ pnpm review-api:syntax:check
 The API reads its application-local credential, token, and UUID-index files.
 Treat them as sensitive: do not print their contents or copy their values into
 logs or documentation. The complete multi-service tmux workflow remains owned
-by `rtq-content/packages/papers`.
+by `rtq-content/packages/papers`. From that directory, start it and then verify
+the three moved services from this workspace:
+
+```sh
+pnpm review-stack:start
+cd ../../../rtq-review
+pnpm review-stack:smoke
+```

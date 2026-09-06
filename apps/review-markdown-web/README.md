@@ -40,11 +40,11 @@ pnpm install --frozen-lockfile
 ## Local use
 
 ```bash
-cd /path/to/rtq-review/apps/review-markdown-web
-pnpm dev
+cd /path/to/rtq-review
+pnpm review-markdown-web:dev
 ```
 
-Open `http://localhost:3000`. For the complete multi-repository workflow, start
+Open `http://localhost:3004`. For the complete multi-repository workflow, start
 the review stack from `rtq-content/packages/papers` so its
 generated content and review services are prepared together. PaperImage
 requests are resolved at request time from `@rtq/maths-assets`; adjacent JSON

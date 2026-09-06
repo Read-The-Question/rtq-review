@@ -33,11 +33,11 @@ pnpm install --frozen-lockfile
 ## Local use
 
 ```bash
-cd /path/to/rtq-review/apps/review-question-viewer-web
-pnpm dev --port 3002
+cd /path/to/rtq-review
+pnpm review-question-viewer-web:dev
 ```
 
-Open `http://localhost:3002`. The shared `@rtq/papers` review stack starts this
+Open `http://localhost:3003`. The shared `@rtq/papers` review stack starts this
 workspace application on the same port. From `rtq-content/packages/papers`, use
 `pnpm question-viewer:show -- ...` to set the active question rather than
 posting to the API manually.

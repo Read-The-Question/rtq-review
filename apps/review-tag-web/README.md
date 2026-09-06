@@ -33,11 +33,11 @@ pnpm install --frozen-lockfile
 ## Local use
 
 ```bash
-cd /path/to/rtq-review/apps/review-tag-web
-pnpm dev --port 3001
+cd /path/to/rtq-review
+pnpm review-tag-web:dev
 ```
 
-Open `http://localhost:3001`. The shared `@rtq/papers` review stack starts this
+Open `http://localhost:3002`. The shared `@rtq/papers` review stack starts this
 workspace application on the same port.
 
 PaperImage binaries, sidecars, technical manifests, and generated LongDivision

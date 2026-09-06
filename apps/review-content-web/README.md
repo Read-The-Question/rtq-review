@@ -35,7 +35,7 @@ From the `rtq-review` workspace root:
 pnpm review-content-web:dev
 ```
 
-Open `http://localhost:3004`.
+Open `http://localhost:3001`.
 
 The paper index reads the current working tree on each refresh. A selected paper
 uses a stable route shaped as `/papers/<collection>/<source-relative-path>`.
@@ -115,3 +115,24 @@ is available as:
 ```bash
 pnpm --filter rtq-review-content-web test:browser
 ```
+
+## Acceptance walkthrough
+
+Use mocked Review API responses for this walkthrough; do not submit a test
+outcome to the production Google Sheet.
+
+1. Open one canonical paper and one derived paper, and confirm their raw values
+   and allowlisted paper assets come directly from the content checkout.
+2. Select tags in two dimensions, confirm the visible set is reduced using OR
+   within each dimension and AND across dimensions, then add independent
+   question and answer RAG-state filters.
+3. Copy the filtered URL, refresh, and confirm the filter scope is restored.
+   Use **Clear all**, then reopen the copied URL to prove clear and restore
+   independently.
+4. Submit a mocked question or answer outcome and confirm the success state is
+   visible without changing the source TOML.
+5. Append feedback to a question or nested question, refresh, and confirm it
+   remains attached to that exact UUID at the current top-level RAG state.
+6. Change the current state, confirm the earlier feedback is hidden, then turn
+   on **Show everything** and confirm the prior-state feedback appears in its
+   original context.

@@ -43,7 +43,7 @@ From the repository root:
 pnpm docs-web:dev
 ```
 
-Open `http://localhost:3003/docs`, then choose a repository in the sidebar. For
+Open `http://localhost:3005/docs`, then choose a repository in the sidebar. For
 example:
 
 - `/docs/rtq-review/apps/review-tag-web/README`

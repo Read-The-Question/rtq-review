@@ -189,7 +189,7 @@
     {
       "id": "T6",
       "title": "Keep runtime content current and responsive",
-      "status": "in_progress",
+      "status": "done",
       "description": "Ensure direct filesystem consumption remains useful during active authoring without repeatedly parsing the entire paper corpus or hiding source changes.",
       "acceptanceCriteria": [
         "Initial collection and selected-paper reads occur directly on the server with no internal HTTP round trip and no generated Markdown dependency.",
@@ -201,25 +201,25 @@
         "Integration tests cover direct source freshness, selected-file change detection, index invalidation, and recovery from a temporarily unreadable source."
       ],
       "steps": [],
-      "notes": "A lightweight selected-file version endpoint or equivalent invalidation signal is preferred over copying review-web's corpus watcher or review-tag-web's repeated full-document server action reads without measurement.",
+      "notes": "Implemented on 2026-09-06. Initial index and selected-paper rendering remain direct Node-runtime Server Component reads with no generated Markdown or internal HTTP round trip, while dimensional and question/answer RAG filtering remains a client-side operation over the loaded paper. @rtq/review-paper-model now retains only source summaries in a process-local cache keyed by validated collection root, file name, and filesystem fingerprint; every index request still enumerates current directories, prunes removals, discovers additions and renames, and reparses only new or changed files. Invalid summaries are deliberately not cached so transient parse failures recover on the next refresh. Selected paper reads remain uncached. A new inspectPaperSource boundary and no-store /api/papers/source-version route inspect only the open TOML file. ReviewSurface checks that endpoint on window focus or visibility restoration without polling, keeps the existing rendered paper available, distinguishes changed, temporarily invalid, unavailable, and failed-check states, and offers controlled router.refresh, retry, or index navigation. The component is keyed by collection, path, and content hash so a successful refresh reloads comments and review data while URL-backed filters and local display preferences survive. The README documents first-load cache construction, additions/removals/renames/metadata invalidation, per-process development/production behavior, and the fact that filters make no source or Sheets requests. Tests cover unchanged cache reuse, metadata edits, additions, renames, removals, direct content-hash freshness, temporary invalid TOML and recovery, deletion, freshness-state evaluation, safe URL encoding, and the endpoint's live success/no-store and unsafe-path behavior. Workspace format, lint, types, and 62 tests pass; the production build passes with the existing non-fatal sibling-path trace warning. A live smoke against Review Content Web on isolated port 3010 passed because docs-web still occupies 3004 until T7 performs the planned port move. A live 2,550-file audit confirmed the second in-process index call reused every unchanged summary.",
       "children": []
     },
     {
       "id": "T7",
       "title": "Document, integrate, and validate the maintained review stack",
-      "status": "todo",
+      "status": "in_progress",
       "description": "Make the renamed and new applications understandable and independently runnable, then update the rtq-content-owned tmux stack so every maintained review service starts with an explicit non-conflicting port.",
       "acceptanceCriteria": [
         "The root README and new application README explain purpose, source-of-truth boundaries, supported collections, filtering semantics, Google Sheets outcome synchronization, the <rtq-content>/database/review-content.sqlite machine-local persistence location and backup implications, environment/path configuration, local URL, and checks.",
         "The root package exposes correctly named start commands for review-markdown-web and review-content-web, updates stale review-web command references, and retains compatibility aliases only if they are documented and useful.",
-        "The rtq-content-owned tmux YAML starts review-content-web on port 3004, starts docs-web on port 3005, and starts the other maintained review services on their existing assigned ports.",
-        "Starting the tmux stack brings up all configured services together, and HTTP smoke checks confirm that review-content-web responds on 3004 and docs-web responds on 3005 without a port collision.",
+        "The rtq-content-owned tmux YAML starts the primary review-content-web on port 3001, moves review-markdown-web to port 3004, starts docs-web on port 3005, and starts the other maintained review services on their existing assigned ports.",
+        "Starting the tmux stack brings up all configured services together, and HTTP smoke checks confirm that review-content-web responds on 3001, review-markdown-web responds on 3004, and docs-web responds on 3005 without a port collision.",
         "The review-markdown-web rename and docs-web port move do not alter either application's functional behavior or generated inputs.",
         "The new package and app pass format, lint, types, unit/integration tests, browser smoke checks, and a production build.",
         "A manual acceptance walkthrough demonstrates choosing a canonical or derived paper, applying at least two dimensional filters, reviewing the reduced question set, opening raw source, rendering representative assets, submitting a mocked or approved non-production outcome, appending and reloading a local current-state comment, observing a prior-state comment as historical, and clearing/restoring the URL-backed filter state."
       ],
       "steps": [],
-      "notes": "Production Google Sheets writes must not be used as an automated test. Use mocked upstream requests unless the user explicitly authorizes a controlled provider-state test.",
+      "notes": "Port assignment revised on 2026-09-06: review-content-web is the primary reviewer and owns port 3001; review-markdown-web moves to 3004; docs-web remains planned for 3005. Production Google Sheets writes must not be used as an automated test. Use mocked upstream requests unless the user explicitly authorizes a controlled provider-state test.",
       "children": []
     }
   ],

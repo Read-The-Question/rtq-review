@@ -1,7 +1,7 @@
 'use client';
 
 import Link from 'next/link';
-import { usePathname, useSearchParams } from 'next/navigation';
+import { usePathname, useRouter, useSearchParams } from 'next/navigation';
 import {
   type FormEvent,
   useCallback,
@@ -9,6 +9,7 @@ import {
   useMemo,
   useRef,
   useState,
+  useTransition,
 } from 'react';
 
 import {
@@ -47,6 +48,11 @@ import {
   type ReviewSide,
   type ReviewTargetDescriptor,
 } from '@/lib/review-types';
+import {
+  evaluateSourceFreshness,
+  sourceVersionUrl,
+  type SourceFreshnessStatus,
+} from '@/lib/source-freshness';
 
 import { RtqMarkdown } from './rtq-markdown';
 import { SiteHeader } from './site-header';
@@ -780,6 +786,69 @@ function QuestionNavigation({
   );
 }
 
+function SourceFreshnessBanner({
+  checking,
+  onCheck,
+  onRefresh,
+  refreshing,
+  status,
+}: {
+  checking: boolean;
+  onCheck: () => void;
+  onRefresh: () => void;
+  refreshing: boolean;
+  status: SourceFreshnessStatus;
+}) {
+  if (status.state === 'current') return null;
+
+  const copy =
+    status.state === 'changed'
+      ? {
+          detail:
+            'The TOML changed after this view loaded. Refresh to review the current working-tree version.',
+          title: 'Source changed on disk',
+        }
+      : status.state === 'invalid'
+        ? {
+            detail: status.message,
+            title: 'Source TOML is temporarily invalid',
+          }
+        : status.state === 'unavailable'
+          ? {
+              detail: status.message,
+              title: 'Source file is unavailable',
+            }
+          : {
+              detail: status.message,
+              title: 'Freshness check could not complete',
+            };
+
+  return (
+    <section
+      className={`source-freshness source-freshness--${status.state}`}
+      role={status.state === 'changed' ? 'status' : 'alert'}
+    >
+      <div>
+        <strong>{copy.title}</strong>
+        <span>{copy.detail}</span>
+      </div>
+      <div className="source-freshness-actions">
+        {status.state === 'changed' ? (
+          <button disabled={refreshing} onClick={onRefresh} type="button">
+            {refreshing ? 'Refreshing…' : 'Refresh paper'}
+          </button>
+        ) : null}
+        <button disabled={checking} onClick={onCheck} type="button">
+          {checking ? 'Checking…' : 'Check again'}
+        </button>
+        {status.state === 'unavailable' ? (
+          <Link href="/">Paper index</Link>
+        ) : null}
+      </div>
+    </section>
+  );
+}
+
 export function ReviewSurface({
   commentLoad,
   paper,
@@ -790,7 +859,9 @@ export function ReviewSurface({
   reviewer: string;
 }) {
   const pathname = usePathname();
+  const router = useRouter();
   const searchParams = useSearchParams();
+  const [refreshing, startRefresh] = useTransition();
   const [preferences, setPreferences] = useState<ReviewPreferences>(
     DEFAULT_REVIEW_PREFERENCES,
   );
@@ -804,7 +875,12 @@ export function ReviewSurface({
   const [pendingKeys, setPendingKeys] = useState<ReadonlySet<string>>(
     () => new Set(),
   );
+  const [sourceFreshness, setSourceFreshness] = useState<SourceFreshnessStatus>(
+    { state: 'current' },
+  );
+  const [sourceFreshnessChecking, setSourceFreshnessChecking] = useState(false);
   const pendingRequestKeys = useRef(new Set<string>());
+  const sourceFreshnessPending = useRef(false);
   const selection = useMemo(
     () => parseReviewFilterSearchParams(searchParams.toString()),
     [searchParams],
@@ -830,6 +906,36 @@ export function ReviewSurface({
     () => new Set(result.matchingNodeIds),
     [result.matchingNodeIds],
   );
+
+  const checkSourceFreshness = useCallback(async () => {
+    if (sourceFreshnessPending.current) return;
+    sourceFreshnessPending.current = true;
+    setSourceFreshnessChecking(true);
+
+    try {
+      const response = await fetch(
+        sourceVersionUrl(paper.source.collection.id, paper.source.relativePath),
+        { cache: 'no-store' },
+      );
+      const payload: unknown = await response.json().catch(() => undefined);
+      setSourceFreshness(
+        evaluateSourceFreshness(paper.source.version, payload),
+      );
+    } catch {
+      setSourceFreshness({
+        message:
+          'The app could not inspect the source file. Check the local server and try again.',
+        state: 'error',
+      });
+    } finally {
+      sourceFreshnessPending.current = false;
+      setSourceFreshnessChecking(false);
+    }
+  }, [
+    paper.source.collection.id,
+    paper.source.relativePath,
+    paper.source.version,
+  ]);
 
   const withPending = useCallback(
     <Result,>(key: string, request: () => Promise<Result>) =>
@@ -945,6 +1051,21 @@ export function ReviewSurface({
   }, []);
 
   useEffect(() => {
+    function checkVisibleSource() {
+      if (document.visibilityState === 'visible') {
+        void checkSourceFreshness();
+      }
+    }
+
+    window.addEventListener('focus', checkVisibleSource);
+    document.addEventListener('visibilitychange', checkVisibleSource);
+    return () => {
+      window.removeEventListener('focus', checkVisibleSource);
+      document.removeEventListener('visibilitychange', checkVisibleSource);
+    };
+  }, [checkSourceFreshness]);
+
+  useEffect(() => {
     if (!activeFromUrl || activeId !== activeFromUrl) return;
     document
       .getElementById(`question-${activeId}`)
@@ -1020,6 +1141,10 @@ export function ReviewSurface({
     const next = new URLSearchParams(searchParams.toString());
     next.set('question', id);
     replaceSearchParams(next);
+  }
+
+  function refreshPaper() {
+    startRefresh(() => router.refresh());
   }
 
   useEffect(() => {
@@ -1100,6 +1225,14 @@ export function ReviewSurface({
           ))}
         </div>
       </header>
+
+      <SourceFreshnessBanner
+        checking={sourceFreshnessChecking}
+        onCheck={() => void checkSourceFreshness()}
+        onRefresh={refreshPaper}
+        refreshing={refreshing}
+        status={sourceFreshness}
+      />
 
       <FilterPanel
         facets={result.facets}

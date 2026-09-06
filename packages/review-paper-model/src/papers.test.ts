@@ -1,10 +1,17 @@
 import assert from 'node:assert/strict';
-import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from 'node:fs';
+import {
+  mkdirSync,
+  mkdtempSync,
+  renameSync,
+  rmSync,
+  writeFileSync,
+} from 'node:fs';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import test from 'node:test';
 
 import {
+  inspectPaperSource,
   listPaperCollections,
   listPaperSources,
   readReviewPaper,
@@ -506,6 +513,129 @@ test('isolates missing, empty, malformed, and traversal cases', async () => {
         environment: { RTQ_CONTENT_ROOT: root },
       }),
       /safe repository-relative path/,
+    );
+  } finally {
+    rmSync(root, { force: true, recursive: true });
+  }
+});
+
+test('reuses unchanged index summaries and invalidates additions, renames, removals, and metadata changes', async () => {
+  const root = createContentWorkspace(['toml']);
+  const collectionRoot = join(root, 'packages', 'papers', 'papers', 'toml');
+  const originalName = 'original.toml';
+  const renamedName = 'renamed.toml';
+  writePaper(root, 'toml', originalName, simplePaper);
+
+  try {
+    const first = await listPaperSources({
+      environment: { RTQ_CONTENT_ROOT: root },
+    });
+    const unchanged = await listPaperSources({
+      environment: { RTQ_CONTENT_ROOT: root },
+    });
+    assert.strictEqual(unchanged[0], first[0]);
+
+    writePaper(
+      root,
+      'toml',
+      originalName,
+      simplePaper.replace(
+        '\n[[sections]]',
+        '\n[meta.paper-name]\nvalue = "Changed metadata"\n\n[[sections]]',
+      ),
+    );
+    const metadataChanged = await listPaperSources({
+      environment: { RTQ_CONTENT_ROOT: root },
+    });
+    assert.notStrictEqual(metadataChanged[0], first[0]);
+    assert.equal(
+      metadataChanged[0]?.state === 'ready'
+        ? metadataChanged[0].source.title
+        : undefined,
+      'Changed metadata',
+    );
+
+    writePaper(root, 'toml', 'added.toml', simplePaper);
+    const added = await listPaperSources({
+      environment: { RTQ_CONTENT_ROOT: root },
+    });
+    assert.deepEqual(
+      added.map((entry) =>
+        entry.state === 'ready'
+          ? entry.source.relativePath
+          : entry.relativePath,
+      ),
+      ['added.toml', originalName],
+    );
+
+    renameSync(
+      join(collectionRoot, originalName),
+      join(collectionRoot, renamedName),
+    );
+    const renamed = await listPaperSources({
+      environment: { RTQ_CONTENT_ROOT: root },
+    });
+    assert.deepEqual(
+      renamed.map((entry) =>
+        entry.state === 'ready'
+          ? entry.source.relativePath
+          : entry.relativePath,
+      ),
+      ['added.toml', renamedName],
+    );
+
+    rmSync(join(collectionRoot, 'added.toml'));
+    const removed = await listPaperSources({
+      environment: { RTQ_CONTENT_ROOT: root },
+    });
+    assert.deepEqual(
+      removed.map((entry) =>
+        entry.state === 'ready'
+          ? entry.source.relativePath
+          : entry.relativePath,
+      ),
+      [renamedName],
+    );
+  } finally {
+    rmSync(root, { force: true, recursive: true });
+  }
+});
+
+test('reads selected-source versions directly and recovers after transiently invalid TOML', async () => {
+  const root = createContentWorkspace(['toml']);
+  const fileName = 'fresh.toml';
+  writePaper(root, 'toml', fileName, simplePaper);
+  const options = { environment: { RTQ_CONTENT_ROOT: root } };
+
+  try {
+    const initial = await inspectPaperSource('toml', fileName, options);
+    const initialPaper = await readReviewPaper('toml', fileName, options);
+    assert.equal(initial.state, 'ready');
+    assert.equal(
+      initial.state === 'ready' ? initial.source.version : undefined,
+      initialPaper.source.version,
+    );
+
+    writePaper(root, 'toml', fileName, '[meta\n');
+    const invalid = await inspectPaperSource('toml', fileName, options);
+    assert.equal(invalid.state, 'invalid');
+    assert.match(
+      invalid.state === 'invalid' ? invalid.message : '',
+      /could not be parsed/,
+    );
+
+    writePaper(root, 'toml', fileName, `${simplePaper}\n# recovered\n`);
+    const recovered = await inspectPaperSource('toml', fileName, options);
+    assert.equal(recovered.state, 'ready');
+    assert.notEqual(
+      recovered.state === 'ready' ? recovered.source.version : undefined,
+      initial.state === 'ready' ? initial.source.version : undefined,
+    );
+
+    rmSync(join(root, 'packages', 'papers', 'papers', 'toml', fileName));
+    await assert.rejects(
+      inspectPaperSource('toml', fileName, options),
+      /unavailable/,
     );
   } finally {
     rmSync(root, { force: true, recursive: true });

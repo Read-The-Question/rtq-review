@@ -48,6 +48,7 @@ test('exports a read-only public surface', () => {
     'REVIEWABLE_COLLECTION_IDS',
     'getContentWorkspaceStatus',
     'filterReviewPaper',
+    'inspectPaperSource',
     'listPaperCollections',
     'listPaperSources',
     'parseDimensionalFilterSearchParams',

@@ -54,7 +54,11 @@ export type {
   ReviewStateFilterSide,
   ReviewWorking,
 } from './model.ts';
-export { listPaperSources, readReviewPaper } from './papers.ts';
+export {
+  inspectPaperSource,
+  listPaperSources,
+  readReviewPaper,
+} from './papers.ts';
 export { resolvePaperCollectionRoot, resolvePaperSourcePath } from './paths.ts';
 export { dimensionalTagAxis, resolveReviewPaperTags } from './tags.ts';
 export { getContentWorkspaceStatus } from './workspace.ts';

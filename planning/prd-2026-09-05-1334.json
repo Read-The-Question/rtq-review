@@ -172,7 +172,7 @@
     {
       "id": "T5A",
       "title": "Support the canonical equationNumber macro across maintained reviewers",
-      "status": "in_review",
+      "status": "done",
       "description": "Add the rtq-content KaTeX macro \\equationNumber to every maintained Next.js review website before content migration begins, preserving its canonical semantic class in both display and inline mathematics without broadly trusting arbitrary KaTeX HTML extensions.",
       "acceptanceCriteria": [
         "review-markdown-web, review-tag-web, review-question-viewer-web, and review-content-web all render \\equationNumber{n} in display and inline mathematics as a footnote-sized parenthesized number with the rtq-maths-equation-number semantic class, matching rtq-content/packages/papers/new-scripts/papers/rtq-katex-macro-contract.json.",
@@ -189,7 +189,7 @@
     {
       "id": "T6",
       "title": "Keep runtime content current and responsive",
-      "status": "todo",
+      "status": "in_progress",
       "description": "Ensure direct filesystem consumption remains useful during active authoring without repeatedly parsing the entire paper corpus or hiding source changes.",
       "acceptanceCriteria": [
         "Initial collection and selected-paper reads occur directly on the server with no internal HTTP round trip and no generated Markdown dependency.",

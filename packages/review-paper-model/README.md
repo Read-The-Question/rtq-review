@@ -9,6 +9,13 @@ collections that exist in the active checkout. It provides a fault-isolated file
 index and parses a selected TOML file into serializable paper metadata, sections,
 and a complete three-level question tree.
 
+The file index keeps only source summaries in a process-local cache. Every index
+request enumerates the current collection directories, prunes removed entries,
+and reparses only files whose filesystem fingerprint changed, so additions,
+renames, removals, and metadata edits invalidate naturally. `inspectPaperSource`
+performs a direct single-file read and parse for selected-source freshness checks;
+`readReviewPaper` remains uncached and always returns the current file contents.
+
 Every content value retains its source text and its project-macro-expanded text.
 Repeated working formulas and tips remain ordered. `PaperTable`, `PaperImage`, and
 `LongDivision` are represented as safe preparation descriptors for the rendering

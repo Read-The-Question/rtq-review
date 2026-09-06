@@ -38,6 +38,7 @@ export default async function PaperPage({
     <Suspense fallback={<div className="route-loading">Preparing review…</div>}>
       <ReviewSurface
         commentLoad={commentLoad}
+        key={`${paper.source.collection.id}:${paper.source.relativePath}:${paper.source.version}`}
         paper={displayPaper}
         reviewer={reviewContentReviewer}
       />

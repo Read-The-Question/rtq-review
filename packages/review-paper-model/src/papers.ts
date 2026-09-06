@@ -1,5 +1,5 @@
 import { createHash } from 'node:crypto';
-import { readFile, readdir } from 'node:fs/promises';
+import { readFile, readdir, stat } from 'node:fs/promises';
 import { basename, extname } from 'node:path';
 
 import type { ResolveRtqContentOptions } from '@rtq/review-repository-paths';
@@ -40,6 +40,13 @@ type NodePosition = Readonly<{
   subquestionIndex?: number;
   subSubquestionIndex?: number;
 }>;
+
+type CachedPaperSource = Readonly<{
+  fingerprint: string;
+  summary: PaperSourceSummary;
+}>;
+
+const paperSourceIndexCache = new Map<string, Map<string, CachedPaperSource>>();
 
 function hashContent(raw: string): string {
   return createHash('sha256').update(raw).digest('hex');
@@ -278,6 +285,35 @@ function invalidSourceSummary(
   };
 }
 
+async function sourceFingerprint(sourcePath: string): Promise<string> {
+  const metadata = await stat(sourcePath);
+  return [
+    metadata.dev,
+    metadata.ino,
+    metadata.size,
+    metadata.mtimeMs,
+    metadata.ctimeMs,
+  ].join(':');
+}
+
+async function loadPaperSourceSummary(
+  collection: PaperCollection,
+  relativePath: string,
+  sourcePath: string,
+): Promise<PaperSourceSummary> {
+  const raw = await readFile(sourcePath, 'utf8');
+
+  try {
+    const parsed = parsePaperToml(raw, collection.id);
+    return {
+      source: buildPaperSource(collection, relativePath, raw, parsed),
+      state: 'ready',
+    };
+  } catch (error) {
+    return invalidSourceSummary(collection, relativePath, raw, error);
+  }
+}
+
 async function listCollectionSources(
   collection: PaperCollection,
   options: ResolveRtqContentOptions,
@@ -300,24 +336,39 @@ async function listCollectionSources(
       }),
     );
 
+  const cache = paperSourceIndexCache.get(root) ?? new Map();
+  paperSourceIndexCache.set(root, cache);
+  const currentFileNames = new Set(fileNames);
+  for (const cachedFileName of cache.keys()) {
+    if (!currentFileNames.has(cachedFileName)) cache.delete(cachedFileName);
+  }
+
   return Promise.all(
     fileNames.map(async (fileName): Promise<PaperSourceSummary> => {
-      let raw = '';
-
       try {
         const sourcePath = resolvePaperSourcePath(
           collection.directory,
           fileName,
           options,
         );
-        raw = await readFile(sourcePath, 'utf8');
-        const parsed = parsePaperToml(raw, collection.id);
-        return {
-          source: buildPaperSource(collection, fileName, raw, parsed),
-          state: 'ready',
-        };
+        const fingerprint = await sourceFingerprint(sourcePath);
+        const cached = cache.get(fileName);
+        if (cached?.fingerprint === fingerprint) return cached.summary;
+
+        const summary = await loadPaperSourceSummary(
+          collection,
+          fileName,
+          sourcePath,
+        );
+        if (summary.state === 'ready') {
+          cache.set(fileName, { fingerprint, summary });
+        } else {
+          cache.delete(fileName);
+        }
+        return summary;
       } catch (error) {
-        return invalidSourceSummary(collection, fileName, raw, error);
+        cache.delete(fileName);
+        return invalidSourceSummary(collection, fileName, '', error);
       }
     }),
   );
@@ -331,6 +382,20 @@ export async function listPaperSources(
     collections.map((collection) => listCollectionSources(collection, options)),
   );
   return groups.flat();
+}
+
+export async function inspectPaperSource(
+  collectionId: PaperCollectionId,
+  relativePath: string,
+  options: ResolveRtqContentOptions = {},
+): Promise<PaperSourceSummary> {
+  const collection = paperCollectionForId(collectionId);
+  const sourcePath = resolvePaperSourcePath(
+    collection.directory,
+    relativePath,
+    options,
+  );
+  return loadPaperSourceSummary(collection, relativePath, sourcePath);
 }
 
 function originalSource(

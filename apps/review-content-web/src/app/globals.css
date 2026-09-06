@@ -548,6 +548,71 @@ a.paper-row:hover {
   padding: 0.38rem 0.55rem;
 }
 
+.source-freshness {
+  align-items: center;
+  background: #fff7df;
+  border: 1px solid var(--gold);
+  display: flex;
+  gap: 1.5rem;
+  justify-content: space-between;
+  margin-top: 2rem;
+  padding: 1rem 1.2rem;
+}
+
+.source-freshness--error,
+.source-freshness--invalid,
+.source-freshness--unavailable {
+  background: #fff0eb;
+  border-color: var(--signal);
+}
+
+.source-freshness > div:first-child {
+  display: grid;
+  gap: 0.25rem;
+}
+
+.source-freshness strong {
+  font-family: 'SFMono-Regular', Consolas, monospace;
+  font-size: 0.68rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.source-freshness span {
+  color: var(--muted);
+  font-size: 0.76rem;
+  line-height: 1.45;
+}
+
+.source-freshness-actions {
+  display: flex;
+  flex: none;
+  gap: 0.5rem;
+}
+
+.source-freshness-actions button,
+.source-freshness-actions a {
+  background: transparent;
+  border: 1px solid var(--ink);
+  color: var(--ink);
+  cursor: pointer;
+  font-size: 0.62rem;
+  font-weight: 750;
+  padding: 0.62rem 0.75rem;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.source-freshness-actions button:first-child {
+  background: var(--ink);
+  color: var(--paper-bright);
+}
+
+.source-freshness-actions button:disabled {
+  cursor: wait;
+  opacity: 0.5;
+}
+
 .filter-panel {
   background: var(--ink);
   color: var(--paper-bright);
@@ -1682,6 +1747,11 @@ a.paper-row:hover {
     align-items: start;
   }
 
+  .source-freshness {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
   .facet-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
@@ -1797,6 +1867,10 @@ a.paper-row:hover {
     align-items: flex-start;
     flex-direction: column;
     gap: 0.7rem;
+  }
+
+  .source-freshness-actions {
+    flex-wrap: wrap;
   }
 }
 

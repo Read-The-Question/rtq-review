@@ -40,6 +40,29 @@ Open `http://localhost:3004`.
 The paper index reads the current working tree on each refresh. A selected paper
 uses a stable route shaped as `/papers/<collection>/<source-relative-path>`.
 
+## Live source behavior
+
+The index enumerates every supported collection on each request, so additions,
+removals, and renames appear after a page refresh. It keeps only paper summaries
+in a process-local cache and uses each file's filesystem fingerprint to reparse
+changed metadata; unchanged paper bodies are not repeatedly parsed. The first
+index request after a server restart rebuilds this disposable cache directly
+from TOML. No generated Markdown or durable index is involved.
+
+A paper route is dynamic and reads the selected TOML directly for every server
+request. While a paper remains open, returning focus to the tab or making a
+hidden tab visible checks only that selected file—there is no polling and no
+corpus rescan. If its content hash changed, the current rendered view remains
+available and a banner offers a controlled refresh. Temporarily invalid TOML,
+deleted or moved files, and failed checks have separate retryable notices.
+
+Development and production builds use the same behavior. In development, edit
+the content checkout and return to the review tab to trigger the selected-file
+check. In production, the Node.js process must be able to see the same local
+checkout; each process maintains its own disposable index-summary cache.
+Dimensional and RAG filtering operates entirely on the already loaded paper in
+the browser and does not read TOML or contact Google Sheets.
+
 ## Review controls
 
 - Combine tags within any of the five dimensions and filter question and answer

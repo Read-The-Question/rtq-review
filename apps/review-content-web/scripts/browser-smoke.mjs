@@ -46,6 +46,23 @@ assert.ok(
   'workings should follow formulas and tips',
 );
 
+const sourceVersion = await read(
+  '/api/papers/source-version?collection=toml&path=dulwich-college--11-plus--maths--undated--specimen-paper-f.toml',
+);
+const sourceVersionPayload = JSON.parse(sourceVersion.text);
+assert.equal(sourceVersionPayload.state, 'ready');
+assert.match(sourceVersionPayload.version, /^[a-f0-9]{64}$/);
+assert.equal(sourceVersion.response.headers.get('cache-control'), 'no-store');
+
+const unsafeSourceVersion = await fetch(
+  `${baseUrl}/api/papers/source-version?collection=toml&path=..%2Fpackage.json`,
+);
+assert.equal(unsafeSourceVersion.status, 400);
+assert.deepEqual(await unsafeSourceVersion.json(), {
+  message: 'The selected paper route is not reviewable.',
+  state: 'unavailable',
+});
+
 const derivedPaperPath =
   '/papers/focusTopicToml/topicpapers_math.direction_1.toml';
 const derivedPaper = await read(derivedPaperPath);

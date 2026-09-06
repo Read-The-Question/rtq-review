@@ -24,7 +24,7 @@ recorded in the canonical
   `RTQ_REVIEW_API_BASE_URL` set to its server-only URL
 
 `RTQ_REVIEWER` sets the short reviewer identity sent with outcomes and recorded
-with comments; it defaults to `up` and accepts letters, numbers, dots,
+with comments; it defaults to `ap` and accepts letters, numbers, dots,
 underscores, and hyphens.
 
 ## Local use

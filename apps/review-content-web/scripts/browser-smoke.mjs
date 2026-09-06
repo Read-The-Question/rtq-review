@@ -69,7 +69,7 @@ assert.match(
   derivedPaper.text,
   /bancrofts-school--11-plus--maths--2018--paper-1:1:20/,
 );
-assert.match(derivedPaper.text, /Add feedback as <!-- -->up/);
+assert.match(derivedPaper.text, /Add feedback as <!-- -->ap/);
 
 const positive = await read(
   `${paperPath}?family=family.unknown&frame=frame.columnar`,

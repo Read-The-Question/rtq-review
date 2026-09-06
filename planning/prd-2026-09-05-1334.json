@@ -315,7 +315,7 @@
     {
       "id": "T13",
       "title": "Match the RTQ working hierarchy and section rail",
-      "status": "in_review",
+      "status": "done",
       "description": "Bring Review Content Web's rendered working area closer to the production RTQ website by restoring its labelled row hierarchy and rendering authored WorkingSection stages as a connected marker-and-rail sequence instead of flattening them into bare bold headings or rules.",
       "acceptanceCriteria": [
         "The working area follows the production website's information hierarchy: tips use a Keep in mind row, formulas use a Formulas used row, the working body remains visually primary, and later working methods have a clear Method N separator.",
@@ -327,7 +327,7 @@
         "Preparation and interface tests cover structured, untitled, hidden, malformed, and flat working content plus the labelled rows, rail, and responsive styling; formatting, lint, types, tests, and production build pass."
       ],
       "steps": [],
-      "notes": "Follow-up requested during user acceptance on 2026-09-06. Implemented on 2026-09-06 using the production PaperViewWorking, PaperViewQuestionRowLabel, and PaperViewWorkingSection composition as the reference. Review Content Web now preserves WorkingSection stages as serializable display segments, hides visibility=hidden stages only from the rendered view, and renders visible stages with an untitled-aware marker, connected rail, optional title rule, and terminal marker. Formula and tip collections use Formulas used and Keep in mind rows, later methods use Method N dividers, and flat workings retain their ordinary rendering. Parser and static interface coverage pass alongside a production build and live structured-paper route inspection; final visual acceptance remains with the user.",
+      "notes": "Follow-up requested during user acceptance on 2026-09-06. Implemented on 2026-09-06 using the production PaperViewWorking, PaperViewQuestionRowLabel, and PaperViewWorkingSection composition as the reference. Review Content Web now preserves WorkingSection stages as serializable display segments, hides visibility=hidden stages only from the rendered view, and renders visible stages with an untitled-aware marker, connected rail, optional title rule, and terminal marker. Formula and tip collections use Formulas used and Keep in mind rows, later methods use Method N dividers, and flat workings retain their ordinary rendering. Parser and static interface coverage pass alongside a production build and live structured-paper route inspection. Accepted by the user and marked done on 2026-09-06.",
       "children": []
     }
   ],

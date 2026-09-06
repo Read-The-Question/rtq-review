@@ -7,7 +7,7 @@ export type EditableFolderKey =
   | 'topicToml'
   | 'ragToml'
   | 'ragTopicToml';
-export type ReadOnlyGeneratedFolderKey = 'allTagsToml';
+export type ReadOnlyGeneratedFolderKey = 'allTopicsToml';
 export type RegisteredFolderKey =
   EditableFolderKey | ReadOnlyGeneratedFolderKey;
 export type ExemplarFolderKey = `exemplarsLevel${number}Toml`;

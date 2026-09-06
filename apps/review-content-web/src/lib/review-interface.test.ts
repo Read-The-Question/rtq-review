@@ -8,6 +8,12 @@ const componentUrl = new URL(
 );
 const cssUrl = new URL('../app/globals.css', import.meta.url);
 const homeUrl = new URL('../app/page.tsx', import.meta.url);
+const browserUrl = new URL('../components/file-browser.tsx', import.meta.url);
+const macrosPageUrl = new URL('../app/macros/page.tsx', import.meta.url);
+const macrosListUrl = new URL(
+  '../components/macro-review-list.tsx',
+  import.meta.url,
+);
 
 test('display preferences use accessible switches and independent review sides', async () => {
   const component = await fs.readFile(componentUrl, 'utf8');
@@ -43,6 +49,14 @@ test('feedback follows the stable composer in a full-width review flow', async (
   );
 });
 
+test('focusing an interactive review control does not navigate its question', async () => {
+  const component = await fs.readFile(componentUrl, 'utf8');
+
+  assert.match(component, /onFocusCapture=\{\(event\) =>/);
+  assert.match(component, /event\.target === event\.currentTarget/);
+  assert.doesNotMatch(component, /onFocusCapture=\{onActivate\}/);
+});
+
 test('review surfaces stay light and reviewer-facing rem sizes stay readable', async () => {
   const css = await fs.readFile(cssUrl, 'utf8');
   const remSizes = [...css.matchAll(/font-size:\s*(0\.\d+)rem/g)].map((match) =>
@@ -73,6 +87,39 @@ test('the landing page uses a compact paper-first introduction', async () => {
   assert.match(
     css,
     /\.collection-rail\s*{[^}]*background:\s*var\(--paper-deep\)/s,
+  );
+});
+
+test('the paper rail links to a read-only whole-file macro review', async () => {
+  const [browser, macrosPage, macrosList, css] = await Promise.all([
+    fs.readFile(browserUrl, 'utf8'),
+    fs.readFile(macrosPageUrl, 'utf8'),
+    fs.readFile(macrosListUrl, 'utf8'),
+    fs.readFile(cssUrl, 'utf8'),
+  ]);
+
+  assert.match(browser, /href="\/macros"/);
+  assert.match(macrosPage, /readReviewMacros/);
+  assert.match(
+    macrosPage,
+    /<MacroReviewList entries=\{macroDocument\.entries\}/,
+  );
+  assert.match(macrosPage, /Show complete raw file/);
+  assert.match(macrosList, /entries\.map/);
+  assert.match(macrosList, /role="switch"/);
+  assert.match(macrosList, /Show original source/);
+  assert.match(macrosList, /showOriginalSource \? \(/);
+  assert.match(macrosList, /<RtqMarkdown markdown=\{entry\.expanded\}/);
+  assert.doesNotMatch(macrosList, /Show expansion source/);
+  assert.doesNotMatch(macrosList, /<details className="macro-entry-source"/);
+  assert.doesNotMatch(macrosPage, /ReviewSurface|reviewContentReviewer/);
+  assert.match(
+    css,
+    /\.review-toolbar\s*{[^}]*position:\s*sticky;[^}]*top:\s*0/s,
+  );
+  assert.match(
+    css,
+    /\.macro-preview\s*{[^}]*border-left:\s*3px solid var\(--ink\)/s,
   );
 });
 

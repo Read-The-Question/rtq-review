@@ -348,6 +348,7 @@ function navigationCopyForFile(folderKey: FolderKey, stem: string) {
     case 'toml':
     case 'focusToml':
       return parseCanonicalStem(stem);
+    case 'allTopicsToml':
     case 'focusTopicToml':
     case 'topicToml':
       return parseTopicStem(stem);

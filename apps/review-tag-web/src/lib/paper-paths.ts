@@ -56,10 +56,10 @@ export const SOURCE_FOLDERS: Record<
     label: string;
   }
 > = {
-  allTagsToml: {
-    absolutePath: path.join(SOURCE_PAPERS_ROOT, 'allTagsToml'),
-    description: 'Papers grouped across all dimensional tags',
-    label: 'All Tags Papers',
+  allTopicsToml: {
+    absolutePath: path.join(SOURCE_PAPERS_ROOT, 'allTopicsToml'),
+    description: 'Papers grouped across every active tag',
+    label: 'All Topic Papers',
   },
   focusToml: {
     absolutePath: path.join(SOURCE_PAPERS_ROOT, 'focusToml'),

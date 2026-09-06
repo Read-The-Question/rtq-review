@@ -52,6 +52,7 @@ test('exports a read-only public surface', () => {
     'listPaperCollections',
     'listPaperSources',
     'parseDimensionalFilterSearchParams',
+    'readReviewMacros',
     'readReviewPaper',
     'resolveReviewPaperTags',
     'resolvePaperCollectionRoot',

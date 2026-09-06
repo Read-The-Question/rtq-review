@@ -124,7 +124,11 @@ function groupingFromStem(
       : {};
   }
 
-  if (collectionId === 'focusTopicToml' || collectionId === 'topicToml') {
+  if (
+    collectionId === 'allTopicsToml' ||
+    collectionId === 'focusTopicToml' ||
+    collectionId === 'topicToml'
+  ) {
     const match = /^topicpapers_(.+)_\d+$/i.exec(stem);
     return match ? { topic: match[1] } : {};
   }

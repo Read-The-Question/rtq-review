@@ -763,7 +763,9 @@ function QuestionNode({
         active && node.depth === 0 ? ' question-node--active' : ''
       }${exactMatch ? '' : ' question-node--context'}`}
       id={`question-${node.id}`}
-      onFocusCapture={onActivate}
+      onFocusCapture={(event) => {
+        if (event.target === event.currentTarget) onActivate();
+      }}
       tabIndex={node.depth === 0 ? 0 : -1}
     >
       <header className="question-heading">

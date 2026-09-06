@@ -153,8 +153,8 @@ export function partitionReviewComments(
     )
     .toSorted(
       (left, right) =>
-        left.createdAt.localeCompare(right.createdAt) ||
-        left.id.localeCompare(right.id),
+        right.createdAt.localeCompare(left.createdAt) ||
+        right.id.localeCompare(left.id),
     );
   return {
     current: matching.filter((comment) => comment.ragState === target.ragState),

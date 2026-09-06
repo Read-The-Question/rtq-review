@@ -82,6 +82,13 @@ export function FileBrowser({
             </button>
           ))}
         </div>
+        <nav className="reference-list" aria-label="Reference content">
+          <p>Reference</p>
+          <Link className="reference-link" href="/macros">
+            <span>Macros</span>
+            <strong>1 file</strong>
+          </Link>
+        </nav>
       </aside>
 
       <div className="file-index">

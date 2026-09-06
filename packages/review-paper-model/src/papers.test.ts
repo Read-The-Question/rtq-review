@@ -19,7 +19,7 @@ import {
 
 const registeredCollections = [
   'toml',
-  'allTagsToml',
+  'allTopicsToml',
   'focusToml',
   'focusTopicToml',
   'focusRagToml',
@@ -198,7 +198,7 @@ formula = '''Two'''
 test('discovers only supported existing collections in stable order', async () => {
   const root = createContentWorkspace([
     'toml',
-    'allTagsToml',
+    'allTopicsToml',
     'focusToml',
     'topicToml',
     'exemplarsLevel11Toml',
@@ -216,7 +216,7 @@ test('discovers only supported existing collections in stable order', async () =
       collections.map((collection) => collection.id),
       [
         'toml',
-        'allTagsToml',
+        'allTopicsToml',
         'focusToml',
         'topicToml',
         'exemplarsLevel3Toml',
@@ -229,7 +229,7 @@ test('discovers only supported existing collections in stable order', async () =
     );
     assert.equal(collections[0].generated, false);
     assert.equal(collections[1].generated, true);
-    assert.equal(collections[1].label, 'All Tags Papers');
+    assert.equal(collections[1].label, 'All Topic Papers');
     assert.equal(collections.at(-1)?.exemplarLevel, 11);
   } finally {
     rmSync(root, { force: true, recursive: true });
@@ -239,6 +239,7 @@ test('discovers only supported existing collections in stable order', async () =
 test('indexes canonical, derived, and exemplar papers without admitting non-paper entries', async () => {
   const root = createContentWorkspace([
     'toml',
+    'allTopicsToml',
     'topicToml',
     'exemplarsLevel3Toml',
     'ragToml',
@@ -249,6 +250,12 @@ test('indexes canonical, derived, and exemplar papers without admitting non-pape
     'toml',
     'source-school--11-plus--maths--2020--paper-1.toml',
     simplePaper.replace(/^rtq-question-id = .*\n/m, ''),
+  );
+  writePaper(
+    root,
+    'allTopicsToml',
+    'topicpapers_frame.columnar_1.toml',
+    simplePaper,
   );
   writePaper(
     root,
@@ -284,7 +291,7 @@ test('indexes canonical, derived, and exemplar papers without admitting non-pape
     const sources = await listPaperSources({
       environment: { RTQ_CONTENT_ROOT: root },
     });
-    assert.equal(sources.length, 5);
+    assert.equal(sources.length, 6);
 
     const canonical = sources.find(
       (entry) =>
@@ -320,6 +327,16 @@ test('indexes canonical, derived, and exemplar papers without admitting non-pape
     assert.deepEqual(topic.source.provenance.sourcePaperStems, [
       'source-school--11-plus--maths--2020--paper-1',
     ]);
+
+    const allTopic = sources.find(
+      (entry) =>
+        entry.state === 'ready' &&
+        entry.source.collection.id === 'allTopicsToml',
+    );
+    assert.ok(allTopic && allTopic.state === 'ready');
+    assert.equal(allTopic.source.topic, 'frame.columnar');
+    assert.equal(allTopic.source.title, 'Frame / Columnar');
+    assert.equal(allTopic.source.collection.readOnly, true);
 
     const exemplar = sources.find(
       (entry) =>

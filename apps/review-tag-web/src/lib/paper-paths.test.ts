@@ -34,14 +34,18 @@ test('contains paper reads and writes inside the selected TOML folder', () => {
   }
 });
 
-test('recognizes generated all-tags papers but keeps them read-only', () => {
-  assert.equal(paperPaths.isFolderKey('allTagsToml'), true);
-  assert.equal(paperPaths.isEditableFolderKey('allTagsToml'), false);
-  assert.equal(paperPaths.isReadOnlyFolder('allTagsToml'), true);
-  assert.equal(paperPaths.folderLabel('allTagsToml'), 'All Tags Papers');
+test('recognizes generated all-topic papers but keeps them read-only', () => {
+  assert.equal(paperPaths.isFolderKey('allTopicsToml'), true);
+  assert.equal(paperPaths.isEditableFolderKey('allTopicsToml'), false);
+  assert.equal(paperPaths.isReadOnlyFolder('allTopicsToml'), true);
+  assert.equal(paperPaths.folderLabel('allTopicsToml'), 'All Topic Papers');
   assert.equal(
-    paperPaths.resolvePaperFilePath('allTagsToml', 'math.number.toml'),
-    path.join(paperPaths.SOURCE_PAPERS_ROOT, 'allTagsToml', 'math.number.toml'),
+    paperPaths.resolvePaperFilePath('allTopicsToml', 'math.number.toml'),
+    path.join(
+      paperPaths.SOURCE_PAPERS_ROOT,
+      'allTopicsToml',
+      'math.number.toml',
+    ),
   );
 
   assert.equal(paperPaths.isReadOnlyFolder('exemplarsLevel4Toml'), true);

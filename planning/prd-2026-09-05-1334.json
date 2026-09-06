@@ -87,7 +87,7 @@
       "status": "in_progress",
       "description": "Adapt the proven collection browser, safe path resolution, strict/loose TOML parsing, provenance, macro, working-collection, and review-metadata concepts into a normalized paper read model.",
       "acceptanceCriteria": [
-        "The collection registry covers toml, focusToml, focusTopicToml, focusRagToml, focusRagTopicToml, topicToml, ragToml, ragTopicToml, and discovered exemplarsLevel<Tier>Toml folders that exist in the configured checkout.",
+        "The collection registry covers toml, allTopicsToml, focusToml, focusTopicToml, focusRagToml, focusRagTopicToml, topicToml, ragToml, ragTopicToml, and discovered exemplarsLevel<Tier>Toml folders that exist in the configured checkout.",
         "Missing or empty registered folders do not break other collections, and non-paper folders, manifests, hidden files, and non-TOML files are excluded.",
         "The browser exposes file title, collection identity, question count, focus group, topic, RAG grouping, and source provenance when each value can be established without guessing.",
         "A selected valid file is parsed into paper metadata, sections, and ordered question trees through sub-subquestion depth while preserving UUIDs, rtq-question-id provenance, raw content, content RAG, review RAG, legacy source comment metadata, and version hash.",
@@ -97,7 +97,7 @@
         "Unit tests cover canonical, derived, exemplar, malformed, missing, empty, traversal, provenance, repeated-working-child, and representative nested-question cases."
       ],
       "steps": [],
-      "notes": "Implemented on 2026-09-05 in @rtq/review-paper-model. The read-only boundary now discovers the eight registered paper-level collections plus existing exemplarsLevel<Tier>Toml directories, isolates malformed files in the source index, and rejects unsupported collections such as questionNodeToml. Selected papers parse into serializable metadata, provenance, ordered sections, and complete question/subquestion/sub-subquestion trees with stable canonical source-question IDs, UUIDs, explicit tags, source/review RAG, legacy comments, raw content, macro-expanded content, repeated formula/tip children, answers, and safe PaperTable/PaperImage/LongDivision preparation descriptors. Strict TOML remains mandatory outside recognized exemplar placeholder documents. Fixture tests cover registry ordering, missing/empty collections, excluded files/folders, canonical/derived/exemplar metadata, topic/RAG grouping, provenance, malformed input, constrained loose parsing, traversal, nesting, repeated working children, review metadata, macros, and safe preparation contexts. Workspace lint, format, types, and tests pass. A live read-only smoke test discovered all 15 currently present collection directories and indexed all 2,550 current TOML papers with zero invalid documents; a representative topic paper normalized to a JSON-serializable model.",
+      "notes": "Implemented on 2026-09-05 in @rtq/review-paper-model. The read-only boundary discovers the registered paper-level collections plus existing exemplarsLevel<Tier>Toml directories, isolates malformed files in the source index, and rejects unsupported collections such as questionNodeToml. A 2026-09-06 correction replaces the mistaken allTagsToml registration with the canonical allTopicsToml one-way projection. Selected papers parse into serializable metadata, provenance, ordered sections, and complete question/subquestion/sub-subquestion trees with stable canonical source-question IDs, UUIDs, explicit tags, source/review RAG, legacy comments, raw content, macro-expanded content, repeated formula/tip children, answers, and safe PaperTable/PaperImage/LongDivision preparation descriptors. Strict TOML remains mandatory outside recognized exemplar placeholder documents. Fixture tests cover registry ordering, missing/empty collections, excluded files/folders, canonical/derived/exemplar metadata, topic/RAG grouping, provenance, malformed input, constrained loose parsing, traversal, nesting, repeated working children, review metadata, macros, and safe preparation contexts. Workspace lint, format, types, and tests pass.",
       "children": []
     },
     {
@@ -328,6 +328,71 @@
       ],
       "steps": [],
       "notes": "Follow-up requested during user acceptance on 2026-09-06. Implemented on 2026-09-06 using the production PaperViewWorking, PaperViewQuestionRowLabel, and PaperViewWorkingSection composition as the reference. Review Content Web now preserves WorkingSection stages as serializable display segments, hides visibility=hidden stages only from the rendered view, and renders visible stages with an untitled-aware marker, connected rail, optional title rule, and terminal marker. Formula and tip collections use Formulas used and Keep in mind rows, later methods use Method N dividers, and flat workings retain their ordinary rendering. Parser and static interface coverage pass alongside a production build and live structured-paper route inspection. Accepted by the user and marked done on 2026-09-06.",
+      "children": []
+    },
+    {
+      "id": "T14",
+      "title": "Add a whole-file macros review view",
+      "status": "in_review",
+      "description": "Expose the canonical rtq-content macros.toml as one dedicated read-only document in Review Content Web so reviewers can inspect every macro and its rendered expansion without treating it as a paper collection or enabling review mutations.",
+      "acceptanceCriteria": [
+        "The landing-page collection rail contains a direct Macros link that remains distinct from TOML paper collections.",
+        "The macros route reads packages/papers/scripts/papers/lib/model/macros.toml directly from the active validated rtq-content checkout on every request.",
+        "Every parsed macro appears in source-file order with its identifier, macro category, and rendered Markdown/KaTeX expansion.",
+        "One sticky display setting expands or collapses the original source for every macro together, defaults to collapsed, and replaces the repeated per-macro disclosure controls.",
+        "A complete raw-file disclosure preserves comments and headings that are not represented by parsed TOML values.",
+        "The page uses the existing paper header and review typography but contains no review outcome, comment, tag-filter, or source-mutation controls.",
+        "Missing or invalid macro source fails safely with a reviewer-facing unavailable state, and model/interface coverage plus formatting, lint, types, tests, and production build pass."
+      ],
+      "steps": [],
+      "notes": "Requested and implemented on 2026-09-06 as the first read-only macro-review iteration. The new /macros route renders all 165 entries from the current 781-line canonical file and is linked from a Reference section in the landing-page collection rail. A follow-up replaces the 165 individual source disclosures with one sticky Show original source setting that reveals or hides every entry's source together; the separate complete-file raw disclosure remains available for comments and headings. The route reads only through the review-paper-model server boundary and deliberately omits all review and mutation plumbing. Awaiting user review.",
+      "children": []
+    },
+    {
+      "id": "T15",
+      "title": "Show newest review comments first",
+      "status": "in_review",
+      "description": "Present append-only review feedback in reverse chronological order so the latest comment is immediately visible at the top of both current-state and previous-state comment lists.",
+      "acceptanceCriteria": [
+        "Current-RAG comments are displayed newest first using their stored created_at timestamps.",
+        "When previous feedback is enabled, historical-RAG comments are also displayed newest first.",
+        "Comment persistence remains append-only and stored rows and timestamps are not modified or migrated.",
+        "Ordering is deterministic when timestamps are equal, and automated coverage verifies unordered input with multiple current and historical comments.",
+        "Formatting, lint, types, tests, and the Review Content Web production build pass."
+      ],
+      "steps": [],
+      "notes": "Requested and implemented on 2026-09-06 by reversing the presentation-layer comment ordering in partitionReviewComments. Both current and historical groups now inherit the same newest-first ordering without changing SQLite retrieval or append-only storage. Awaiting user review.",
+      "children": []
+    },
+    {
+      "id": "T16",
+      "title": "Prevent comment focus from scrolling the question",
+      "status": "in_review",
+      "description": "Stop focus within review controls from activating the enclosing question and causing the URL-driven question navigation effect to scroll the viewport away from the comment composer.",
+      "acceptanceCriteria": [
+        "Clicking or keyboard-focusing a comment input, outcome button, link, toggle, or any other interactive descendant does not change the active-question URL or scroll the viewport to the top of the question.",
+        "Focusing the top-level question card itself can still activate it for keyboard navigation, and explicit previous/next question navigation retains its existing scroll behavior.",
+        "The fix applies to top-level questions, subquestions, and sub-subquestions without changing comment identity, RAG-state handling, or persistence.",
+        "Automated interface coverage guards the focus-target boundary, and formatting, lint, types, tests, and the Review Content Web production build pass."
+      ],
+      "steps": [],
+      "notes": "Requested and implemented on 2026-09-06 after tracing the jump to the question article's bubbling focus handler. The handler now activates only when the article itself receives focus; focus originating from a nested comment or review control is ignored. Awaiting user review.",
+      "children": []
+    },
+    {
+      "id": "T17",
+      "title": "Show the complete all-topics paper collection",
+      "status": "in_review",
+      "description": "Correct the generated collection registration from the nonexistent allTagsToml directory to the canonical rtq-content allTopicsToml projection so Review Content Web and Tag Web expose every generated all-topic paper.",
+      "acceptanceCriteria": [
+        "Review Content Web discovers allTopicsToml directly from the configured rtq-content checkout and lists all eligible TOML papers in that folder after refresh.",
+        "All-topics filenames are interpreted as topic projections, producing a readable topic title and topic metadata rather than exposing the raw topicpapers filename.",
+        "Tag Web also discovers allTopicsToml and keeps the entire collection read-only; no tag mutation route accepts it as editable.",
+        "The nonexistent allTagsToml identifier is removed from maintained application code, tests, and documentation.",
+        "Collection fixtures cover discovery, topic metadata, source-path resolution, and Tag Web's read-only boundary; formatting, lint, types, tests, and affected production builds pass."
+      ],
+      "steps": [],
+      "notes": "Reported and corrected on 2026-09-06. The active content checkout contains 399 TOML papers in packages/papers/papers/allTopicsToml, while the review apps had registered allTagsToml, a directory that does not exist. Both apps now use the documented allTopicsToml name, with the collection remaining read-only in Tag Web. Awaiting user review.",
       "children": []
     }
   ],

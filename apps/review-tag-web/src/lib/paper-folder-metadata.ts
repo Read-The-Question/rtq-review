@@ -18,7 +18,7 @@ export const EDITABLE_FOLDER_ORDER: EditableFolderKey[] = [
 
 export const FOLDER_ORDER: RegisteredFolderKey[] = [
   'toml',
-  'allTagsToml',
+  'allTopicsToml',
   'focusToml',
   'focusTopicToml',
   'focusRagToml',
@@ -29,7 +29,7 @@ export const FOLDER_ORDER: RegisteredFolderKey[] = [
 ];
 
 const FOLDER_LABELS: Record<RegisteredFolderKey, string> = {
-  allTagsToml: 'All Tags Papers',
+  allTopicsToml: 'All Topic Papers',
   focusToml: 'Focus Papers',
   focusTopicToml: 'Focus Topic Papers',
   focusRagToml: 'Focus RAG Papers',

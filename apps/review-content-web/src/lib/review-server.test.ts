@@ -77,6 +77,28 @@ test('partitions current and historical comments by exact side and state', () =>
       uuid: target.uuid,
     },
     {
+      comment: 'Latest current-state feedback',
+      createdAt: '2026-09-06T11:00:00.000Z',
+      id: 'c3',
+      questionId: 'paper:1:1',
+      ragState: 'rag_wf_ng3',
+      reviewer: 'ap',
+      side: 'question' as const,
+      submissionId: 's3',
+      uuid: target.uuid,
+    },
+    {
+      comment: 'Older previous-state feedback',
+      createdAt: '2026-09-06T07:00:00.000Z',
+      id: 'c4',
+      questionId: 'paper:1:1',
+      ragState: 'rag_wf_ng2',
+      reviewer: 'ap',
+      side: 'question' as const,
+      submissionId: 's4',
+      uuid: target.uuid,
+    },
+    {
       comment: 'Other side',
       createdAt: '2026-09-06T08:00:00.000Z',
       id: 'c0',
@@ -102,11 +124,11 @@ test('partitions current and historical comments by exact side and state', () =>
   const groups = partitionReviewComments(comments, target);
   assert.deepEqual(
     groups.current.map((comment) => comment.id),
-    ['c1'],
+    ['c3', 'c1'],
   );
   assert.deepEqual(
     groups.history.map((comment) => comment.id),
-    ['c2'],
+    ['c2', 'c4'],
   );
 });
 

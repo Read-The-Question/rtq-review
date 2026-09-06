@@ -9,7 +9,13 @@ The application currently provides collection and file browsing, full nested
 paper presentation, five-axis runtime tag filters, independent question and
 answer content-RAG filters, rendered and raw content views, allowlisted
 canonical paper assets, Google Sheets outcome submission, and local append-only
-review comments.
+review comments. The read-only `allTopicsToml` collection exposes the complete
+one-way projection across every active tag.
+
+The paper index also links to a dedicated read-only view of the canonical
+`packages/papers/scripts/papers/lib/model/macros.toml`. That page treats the
+file as one review document and shows every macro's source and rendered
+expansion without paper review controls.
 
 Its direct-TOML KaTeX macro path and current semantic-colour conformance are
 recorded in the canonical

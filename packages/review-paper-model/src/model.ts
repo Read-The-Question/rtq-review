@@ -8,7 +8,7 @@ export const DIMENSIONAL_TAG_AXES = [
 
 export const REVIEWABLE_COLLECTION_IDS = [
   'toml',
-  'allTagsToml',
+  'allTopicsToml',
   'focusToml',
   'focusTopicToml',
   'focusRagToml',
@@ -76,6 +76,22 @@ export type PaperSourceSummary =
       title: string;
       version: string;
     }>;
+
+export type ReviewMacroKind = 'formula' | 'shared' | 'tip' | 'working';
+
+export type ReviewMacroEntry = Readonly<{
+  expanded: string;
+  kind: ReviewMacroKind;
+  name: string;
+  source: string;
+}>;
+
+export type ReviewMacroDocument = Readonly<{
+  entries: readonly ReviewMacroEntry[];
+  fileName: 'macros.toml';
+  rawSource: string;
+  repositoryPath: string;
+}>;
 
 export type ReviewAssetContext = Readonly<{
   answerIndex?: number;

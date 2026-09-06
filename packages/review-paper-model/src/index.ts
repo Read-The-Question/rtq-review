@@ -20,6 +20,7 @@ export {
   serializeReviewFilterSearchParams,
 } from './filters.ts';
 export { DIMENSIONAL_TAG_AXES, REVIEWABLE_COLLECTION_IDS } from './model.ts';
+export { readReviewMacros, REVIEW_MACROS_REPOSITORY_PATH } from './macros.ts';
 export type {
   ContentWorkspaceStatus,
   DimensionalFilterSelection,
@@ -44,6 +45,9 @@ export type {
   ReviewContentPreparation,
   ReviewFilterSelection,
   ReviewLongDivisionPreparation,
+  ReviewMacroDocument,
+  ReviewMacroEntry,
+  ReviewMacroKind,
   ReviewPaper,
   ReviewPaperImagePreparation,
   ReviewPaperMetadata,

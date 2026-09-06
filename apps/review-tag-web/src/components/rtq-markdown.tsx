@@ -6,7 +6,7 @@ import rehypeRaw from 'rehype-raw';
 import remarkGfm from 'remark-gfm';
 import remarkMath from 'remark-math';
 
-import { rtqKatexMacros } from '@/lib/rtq-katex';
+import { rtqKatexOptions } from '@/lib/rtq-katex';
 import { cn } from '@/lib/utils';
 
 type RtqMarkdownProps = {
@@ -22,13 +22,7 @@ export function RtqMarkdown({ className, markdown }: RtqMarkdownProps) {
   return (
     <div className={cn('rtq-markdown', className)}>
       <ReactMarkdown
-        rehypePlugins={[
-          rehypeRaw,
-          [
-            rehypeKatex,
-            { macros: rtqKatexMacros, strict: 'warn', throwOnError: false },
-          ],
-        ]}
+        rehypePlugins={[rehypeRaw, [rehypeKatex, rtqKatexOptions]]}
         remarkPlugins={[remarkGfm, remarkMath]}>
         {markdown}
       </ReactMarkdown>

@@ -1,6 +1,5 @@
 import assert from 'node:assert/strict';
 import path from 'node:path';
-
 import test from 'node:test';
 
 // @ts-expect-error Node's native TypeScript runner requires the explicit extension.

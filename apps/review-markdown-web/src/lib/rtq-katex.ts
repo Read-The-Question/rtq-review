@@ -1,4 +1,6 @@
-export const rtqKatexMacros: Record<string, string> = {
+import { getRtqReviewKatexOptions } from '@rtq/review-katex-options';
+
+const reviewerKatexMacros: Record<string, string> = {
   '\\addCarryOver': '\\scriptstyle \\grayF',
   '\\multiplyCarryOver': '\\scriptstyle \\grayF{#1}',
   '\\subtractBorrow': '\\textstyle \\green',
@@ -12,3 +14,6 @@ export const rtqKatexMacros: Record<string, string> = {
   '\\solvedOrder': '\\maroonC{\\footnotesize{(#1)}}',
   '\\solvedOrderPhantom': '\\phantom{\\maroonC{\\footnotesize{(#1)}}}',
 };
+
+export const rtqKatexOptions = getRtqReviewKatexOptions(reviewerKatexMacros);
+export const rtqKatexMacros = rtqKatexOptions.macros;

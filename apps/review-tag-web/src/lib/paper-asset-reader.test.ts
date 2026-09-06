@@ -2,9 +2,9 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
 import os from 'node:os';
 import path from 'node:path';
+import test from 'node:test';
 
 import { REVIEW_WORKSPACE_ROOT } from '@rtq/review-repository-paths';
-import test from 'node:test';
 
 import * as paperAssetReader from './paper-asset-reader.ts';
 

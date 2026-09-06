@@ -145,7 +145,7 @@
     {
       "id": "T5",
       "title": "Add Google Sheets outcomes and local append-only review comments",
-      "status": "in_review",
+      "status": "done",
       "description": "Provide structured review controls for visible question trees. Persist review outcomes through review-api to Google Sheets, but persist comments locally in SQLite through Drizzle so feedback is durable, append-only, and associated with the exact question, subquestion, or sub-subquestion UUID, review side, and inherited top-level RAG state in which it was written.",
       "acceptanceCriteria": [
         "Each eligible top-level question displays separate question-side and answer-side source RAG, current synchronized review outcome, locally stored comments for the current RAG state, and the target sheet code used only for outcome submission; every eligible nested node displays its own contextual question-side and answer-side comment controls without gaining a Google Sheets outcome control.",
@@ -167,6 +167,23 @@
       ],
       "steps": [],
       "notes": "Implemented and revised on 2026-09-06 in review-content-web. Top-level questions retain independent question/answer Google Sheets outcome controls for all 12 review-api outcomes. Comments use a separate POST-only adapter that never calls review-api. Every question, subquestion, and sub-subquestion now has contextual question-side and answer-side comment controls keyed by that node's own required UUID and its own optional rtq-question-id; no parent ID or UUID is inherited or persisted. Recursive server verification locates the exact node in live TOML and derives only the corresponding question or answer RAG state from its containing top-level question. Current-state feedback renders against the exact node by default, and the page-level Show everything toggle reveals labelled, immutable other-state history. Initial loading recursively collects all node identities and performs one batched Drizzle query. A generated forward migration preserves existing comments, makes rtq-question-id nullable, and indexes UUID, optional question ID, side, RAG state, and chronology. The repository remains append/list/close only, with no edit, reset, or delete route. Formula and tip fields now render before their associated working. The SQLite database remains <rtq-content>/database/review-content.sqlite and is narrowly Git-ignored with its sidecars. Tests cover migrations, durable reload, nullable identity isolation, recursive sub-subquestion resolution, inherited question/answer RAG, chronological history, immediate append feedback, idempotency, validation/spoofing, safe failures, all outcomes, and duplicate suppression. Workspace lint, format, types and 52 tests pass; the production build and live route/API smoke pass. The smoke renders nested feedback for a real subquestion, verifies Formula → Tip → Working order, rejects a stale nested-state comment without insertion, and leaves the local database at zero comments. Cross-reload outcomes still depend on the existing Sheets-to-canonical synchronization cycle. The ignored SQLite file requires separate backup if it needs preservation. The existing runtime sibling-path NFT trace warning remains non-fatal.",
+      "children": []
+    },
+    {
+      "id": "T5A",
+      "title": "Support the canonical equationNumber macro across maintained reviewers",
+      "status": "in_review",
+      "description": "Add the rtq-content KaTeX macro \\equationNumber to every maintained Next.js review website before content migration begins, preserving its canonical semantic class in both display and inline mathematics without broadly trusting arbitrary KaTeX HTML extensions.",
+      "acceptanceCriteria": [
+        "review-markdown-web, review-tag-web, review-question-viewer-web, and review-content-web all render \\equationNumber{n} in display and inline mathematics as a footnote-sized parenthesized number with the rtq-maths-equation-number semantic class, matching rtq-content/packages/papers/new-scripts/papers/rtq-katex-macro-contract.json.",
+        "The four maintained reviewers consume one workspace-owned, client-safe equation-number KaTeX options boundary rather than adding four new divergent macro/trust definitions or importing private modules from another application.",
+        "The KaTeX trust policy permits only the canonical rtq-maths-equation-number htmlClass extension added by this task and does not enable arbitrary htmlClass, htmlStyle, URL, or other trusted commands.",
+        "Existing reviewer-specific macro behavior remains unchanged; the task does not rewrite content, generated Markdown, TOML, the canonical rtq-content macro contract, or the explicitly excluded legacy Gatsby reviewer.",
+        "Automated tests compare the shared definition with the canonical JSON contract, render representative aligned display equations and inline references, assert the semantic class and visible parenthesized number, and prove an unapproved HTML extension remains untrusted.",
+        "All four maintained reviewer applications pass their format, lint, type, test, and production-build checks after adopting the shared options boundary."
+      ],
+      "steps": [],
+      "notes": "Implemented on 2026-09-06 as an approved priority detour after T5. The new client-safe @rtq/review-katex-options workspace package owns the exact canonical equationNumber expansion plus a narrow trust callback that accepts only htmlClass with rtq-maths-equation-number; each maintained reviewer merges this addition with its unchanged local macro table. review-markdown-web, review-tag-web, review-question-viewer-web, and review-content-web now pass the shared options through their KaTeX render path. Shared tests compare the definition with the rtq-content JSON contract, exercise aligned display and inline rendering, assert the footnote-size class and visible parenthesized numbers, preserve a caller macro, and reject unapproved htmlClass and htmlStyle trust contexts. Each app also has a renderer-wiring test. All four apps pass format, lint, types, full unit tests (75 total), and production builds; the shared package passes format, types, and 3 contract/security tests. Existing non-fatal Turbopack sibling-path trace warnings remain unchanged. The legacy Gatsby reviewer and rtq-content sources were not changed. After acceptance, execution returns to the original T6 and T7 sequence.",
       "children": []
     },
     {

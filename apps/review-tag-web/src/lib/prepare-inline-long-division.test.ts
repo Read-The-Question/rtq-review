@@ -1,9 +1,9 @@
 import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
 import path from 'node:path';
+import test from 'node:test';
 
 import { resolveRtqContentPaths } from '@rtq/review-repository-paths';
-import test from 'node:test';
 
 import { prepareInlineLongDivisionSvg } from './prepare-inline-long-division.ts';
 

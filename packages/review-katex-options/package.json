@@ -1,0 +1,22 @@
+{
+  "name": "@rtq/review-katex-options",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "scripts": {
+    "format:check": "prettier --check .",
+    "format:fix": "prettier --write .",
+    "test": "node --no-warnings --test --experimental-strip-types src/index.test.ts",
+    "types": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@rtq/review-repository-paths": "workspace:*",
+    "@types/node": "^20",
+    "katex": "^0.17.0",
+    "prettier": "^3.8.0",
+    "typescript": "^5"
+  }
+}

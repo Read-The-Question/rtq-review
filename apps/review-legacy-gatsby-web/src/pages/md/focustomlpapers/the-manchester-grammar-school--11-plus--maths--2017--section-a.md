@@ -1,7 +1,7 @@
 ---
 slug: "focustomlpapers/the-manchester-grammar-school-11-plus-maths-2017-section-a"
 title: "Focus Paper - The Manchester Grammar School - 11 Plus - Maths - 2017 - Section A"
-date: 2026-09-06 06:52:36
+date: 2026-09-06 13:12:22
 questions_count: "20"
 ---
 <div class="paper" id="page-the-manchester-grammar-school-11-plus-maths-2017-section-a-top">

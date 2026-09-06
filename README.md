@@ -108,11 +108,14 @@ pnpm review-api:syntax:check
 The API reads its application-local credential, token, and UUID-index files.
 Treat them as sensitive: do not print their contents or copy their values into
 logs or documentation. The complete multi-service tmux workflow remains owned
-by `rtq-content/packages/papers`. From that directory, start it and then verify
-the three moved services from this workspace:
+by `rtq-content/packages/papers`. From that directory, start it. In a second
+terminal, verify the three moved services from this workspace:
 
 ```sh
 pnpm review-stack:start
+```
+
+```sh
 cd ../../../rtq-review
 pnpm review-stack:smoke
 ```

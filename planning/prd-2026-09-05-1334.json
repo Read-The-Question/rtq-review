@@ -26,7 +26,7 @@
       "Current-state comment presentation by default plus a Show everything toggle for historical prior-state comments, including author/reviewer identity and server-recorded creation time, with no edit, reset, or delete action.",
       "Source freshness while a paper is open, clear loading/empty/error/stale states, keyboard- and screen-reader-usable controls, and responsive paper navigation.",
       "A tested read-only paper model boundary that can be adopted by existing review applications later without requiring their migration in this iteration.",
-      "Register review-content-web in the rtq-content-owned tmux YAML on port 3004 and move docs-web to port 3005 in that stack so all maintained review services start together.",
+      "Register the primary review-content-web in the rtq-content-owned tmux YAML on port 3001, move review-markdown-web to port 3004, and move docs-web to port 3005 so all maintained review services start together.",
       "Workspace scripts, application documentation, and proportionate unit, integration, browser-smoke, type, lint, format, and production-build validation."
     ],
     "out": [
@@ -58,7 +58,7 @@
       "Do not modify user-owned changes in the legacy Gatsby generated content tree or any unrelated dirty-worktree paths.",
       "The new application may selectively adapt existing code, but must not import private implementation modules across application directories or create a third untested copy of the TOML/tag/asset model.",
       "The existing generated-Markdown reviewer must retain its routes, inputs, review actions, and runtime behavior after its directory/package/display-name rename.",
-      "The coordinated review stack must reserve port 3004 for review-content-web and port 3005 for docs-web; existing review service ports otherwise remain unchanged."
+      "The coordinated review stack must reserve port 3001 for the primary review-content-web, port 3004 for review-markdown-web, and port 3005 for docs-web; existing review service ports otherwise remain unchanged."
     ]
   },
   "tasks": [
@@ -69,8 +69,8 @@
       "description": "Rename the existing generated-Markdown reviewer for clarity, then create the new Next.js application and a small workspace-owned read-only paper-model package so filesystem parsing, identity, tags, and filtering have one tested boundary rather than being copied wholesale from another private application.",
       "acceptanceCriteria": [
         "The existing apps/review-web directory is renamed to apps/review-markdown-web, its package and human-facing identities use review-markdown-web/Review Markdown Web consistently, and all workspace commands and maintained references target the renamed app.",
-        "The renamed review-markdown-web retains the same generated-Markdown inputs, routes, UI, review behavior, and service port; its existing checks pass after the rename.",
-        "A new App Router application exists at apps/review-content-web with package name rtq-review-content-web, display name Review Content Web, and local port 3004 without changing another existing application's behavior.",
+        "The renamed review-markdown-web retains the same generated-Markdown inputs, routes, UI, and review behavior; its service-port reassignment is limited to the T7 stack integration, and its existing checks pass after the rename.",
+        "A new App Router application exists at apps/review-content-web with package name rtq-review-content-web, display name Review Content Web, and local port 3001 without changing another existing application's behavior.",
         "A workspace package exposes only the read-only paper collection, normalized paper tree, effective-tag, and filter contracts needed by the new app; it exports no TOML write operation.",
         "The package builds on @rtq/review-repository-paths and does not import source files from review-tag-web or review-question-viewer-web across application boundaries.",
         "The application defaults to Server Components and the initial server-to-client paper payload is serializable.",
@@ -78,7 +78,7 @@
         "Tests prove that the package API cannot resolve a content path outside the validated rtq-content paper roots and that no source-write API is exposed."
       ],
       "steps": [],
-      "notes": "Implemented on 2026-09-05. The generated-Markdown app is renamed to apps/review-markdown-web with package identity rtq-review-markdown-web, maintained documentation references and root commands are updated, and its routes and runtime implementation remain unchanged. The new apps/review-content-web foundation uses package identity rtq-review-content-web and the root command assigns port 3004. @rtq/review-paper-model exports serializable read-model contracts plus containment-checked read-only path resolution and no source-write API. Root format, lint, types, and tests pass; both app production builds pass; Docs format/lint/types/tests pass; and a runtime smoke test returned HTTP 200 with the active rtq-content checkout connected. Port 3004 was already occupied by the current Docs tmux process, so the smoke test used temporary port 3010 without stopping user-owned state; T7 will move Docs to 3005. The legacy localStorage key rtq-review-web:display-preferences is intentionally retained as a compatibility implementation detail so the rename does not reset reviewer preferences. Existing apps are intentionally not migrated to the model package in this PRD.",
+      "notes": "Implemented on 2026-09-05. The generated-Markdown app is renamed to apps/review-markdown-web with package identity rtq-review-markdown-web, maintained documentation references and root commands are updated, and its routes and runtime implementation remain unchanged. The new apps/review-content-web foundation uses package identity rtq-review-content-web. It was originally exercised on a temporary port during T1; the later T7 revision assigns primary Review Content Web to 3001, Review Markdown Web to 3004, and Docs Web to 3005. @rtq/review-paper-model exports serializable read-model contracts plus containment-checked read-only path resolution and no source-write API. Root format, lint, types, and tests pass; both app production builds pass; Docs format/lint/types/tests pass; and a runtime smoke test returned HTTP 200 with the active rtq-content checkout connected. The legacy localStorage key rtq-review-web:display-preferences is intentionally retained as a compatibility implementation detail so the rename does not reset reviewer preferences. Existing apps are intentionally not migrated to the model package in this PRD.",
       "children": []
     },
     {
@@ -90,7 +90,7 @@
         "The collection registry covers toml, focusToml, focusTopicToml, focusRagToml, focusRagTopicToml, topicToml, ragToml, ragTopicToml, and discovered exemplarsLevel<Tier>Toml folders that exist in the configured checkout.",
         "Missing or empty registered folders do not break other collections, and non-paper folders, manifests, hidden files, and non-TOML files are excluded.",
         "The browser exposes file title, collection identity, question count, focus group, topic, RAG grouping, and source provenance when each value can be established without guessing.",
-      "A selected valid file is parsed into paper metadata, sections, and ordered question trees through sub-subquestion depth while preserving UUIDs, rtq-question-id provenance, raw content, content RAG, review RAG, legacy source comment metadata, and version hash.",
+        "A selected valid file is parsed into paper metadata, sections, and ordered question trees through sub-subquestion depth while preserving UUIDs, rtq-question-id provenance, raw content, content RAG, review RAG, legacy source comment metadata, and version hash.",
         "Canonical and normal generated TOML use strict parsing; supported exemplar placeholders use the established constrained loose-read fallback without weakening ordinary-file validation.",
         "The model resolves project abbreviations/macros, repeated formula and tip children, PaperTable, PaperImage, and LongDivision preparation inputs without exposing private asset sidecars or generated sources.",
         "All collections are read-only in this application regardless of whether review-tag-web currently treats a folder as editable.",
@@ -207,7 +207,7 @@
     {
       "id": "T7",
       "title": "Document, integrate, and validate the maintained review stack",
-      "status": "in_progress",
+      "status": "in_review",
       "description": "Make the renamed and new applications understandable and independently runnable, then update the rtq-content-owned tmux stack so every maintained review service starts with an explicit non-conflicting port.",
       "acceptanceCriteria": [
         "The root README and new application README explain purpose, source-of-truth boundaries, supported collections, filtering semantics, Google Sheets outcome synchronization, the <rtq-content>/database/review-content.sqlite machine-local persistence location and backup implications, environment/path configuration, local URL, and checks.",
@@ -219,7 +219,7 @@
         "A manual acceptance walkthrough demonstrates choosing a canonical or derived paper, applying at least two dimensional filters, reviewing the reduced question set, opening raw source, rendering representative assets, submitting a mocked or approved non-production outcome, appending and reloading a local current-state comment, observing a prior-state comment as historical, and clearing/restoring the URL-backed filter state."
       ],
       "steps": [],
-      "notes": "Port assignment revised on 2026-09-06: review-content-web is the primary reviewer and owns port 3001; review-markdown-web moves to 3004; docs-web remains planned for 3005. Production Google Sheets writes must not be used as an automated test. Use mocked upstream requests unless the user explicitly authorizes a controlled provider-state test.",
+      "notes": "Port assignment revised and implemented on 2026-09-06: review-content-web is the primary reviewer on 3001, review-markdown-web is on 3004, docs-web is on 3005, and the existing tag and question-viewer assignments remain 3002 and 3003. Root format, lint, types, and tests passed; the full review-content-web check and production build passed; review-markdown-web and docs-web production builds passed; the rtq-content repository naming audit passed. The six-window tmux stack started without a port collision, stack smoke checks passed for 3001/3004/3005, Content Web's browser smoke passed on 3001, and the other three services returned HTTP 200. The documented manual acceptance walkthrough remains for user review. No production Google Sheets write was performed.",
       "children": []
     }
   ],
@@ -232,7 +232,7 @@
     "pnpm --filter rtq-review-content-web test:browser",
     "pnpm --filter rtq-review-content-web build",
     "Run the renamed review-markdown-web application's existing format, lint, type, test, and build checks through its new package identity",
-    "Load or validate the rtq-content tmux review-stack configuration and smoke-check review-content-web on port 3004 and docs-web on port 3005",
+    "Load the rtq-content tmux review-stack configuration and smoke-check review-content-web on port 3001, review-markdown-web on port 3004, and docs-web on port 3005",
     "Verify git diffs contain only the renamed Markdown reviewer, the new content reviewer, the new read-only package, approved workspace/docs/tmux integration, the narrow rtq-content database ignore rule, and this PRD; functional changes to existing apps and user-owned Gatsby changes remain untouched"
   ],
   "openQuestions": [
@@ -246,8 +246,8 @@
   "decisions": [
     "Build a new Next.js application in rtq-review rather than changing an existing review website.",
     "Rename the existing generated-Markdown Next.js application from review-web to review-markdown-web while preserving its behavior.",
-    "Name the new direct-TOML application review-content-web and run it on port 3004.",
-    "Update the rtq-content-owned tmux YAML in this delivery so it starts review-content-web on port 3004 and moves docs-web to port 3005.",
+    "Name the new direct-TOML application review-content-web and run it as the primary reviewer on port 3001.",
+    "Update the rtq-content-owned tmux YAML in this delivery so the primary review-content-web starts on port 3001, review-markdown-web moves to port 3004, and docs-web moves to port 3005.",
     "Keep every existing review application operational and exclude the legacy Gatsby application from design and reuse analysis.",
     "Read TOML and maths assets directly from the active rtq-content checkout at runtime; generated Markdown is not an input.",
     "Treat all paper content as read-only while retaining question-side and answer-side review outcome writes through review-api to Google Sheets.",
@@ -258,7 +258,7 @@
     "Preserve canonical TOML as the complete-paper source of truth and treat generated TOML folders as replaceable projections.",
     "Use review-tag-web as the primary reference for collection browsing, complete-paper parsing, tag inheritance, assets, and paper navigation.",
     "Use review-question-viewer-web as the primary reference for a structured raw/rendered content model and React-based review controls.",
-    "Use review-web as the behavioral reference for bulk review, display preferences, and review action coverage, but do not reuse its generated-Markdown DOM mutation architecture.",
+    "Use review-markdown-web as the behavioral reference for bulk review, display preferences, and review action coverage, but do not reuse its generated-Markdown DOM mutation architecture.",
     "Do not modify review-api for local comment persistence; its existing outcome endpoints remain the Google Sheets boundary, and its legacy comment endpoints remain available only to existing applications."
   ],
   "notes": "Code review completed against the maintained Next.js applications, review-api, @rtq/review-repository-paths, the canonical dimensional-tag documentation, the derived-TOML runbook, the paper-review process, and the RAG-state architecture. The two direct-TOML apps currently duplicate substantial parser/asset/tag logic and have drifted in macros, PaperTable handling, placeholder behavior, types, and test coverage. The new app should reconcile a tested superset behind its own read-only package boundary; migration of existing apps can be considered later as a separate risk-controlled task. The review-web to review-markdown-web rename is naming/configuration work only, while the rtq-content tmux update is an explicitly required cross-repository integration change rather than a deferred follow-up."

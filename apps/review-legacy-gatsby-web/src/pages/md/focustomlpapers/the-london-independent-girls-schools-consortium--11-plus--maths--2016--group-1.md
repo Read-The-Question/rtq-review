@@ -1,7 +1,7 @@
 ---
 slug: "focustomlpapers/the-london-independent-girls-schools-consortium-11-plus-maths-2016-group-1"
 title: "Focus Paper - The London Independent Girls Schools Consortium - 11 Plus - Maths - 2016 - Group 1"
-date: 2026-09-06 06:52:36
+date: 2026-09-06 13:12:22
 questions_count: "45"
 ---
 <div class="paper" id="page-the-london-independent-girls-schools-consortium-11-plus-maths-2016-group-1-top">

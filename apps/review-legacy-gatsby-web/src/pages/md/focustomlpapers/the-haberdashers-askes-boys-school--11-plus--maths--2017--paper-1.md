@@ -1,7 +1,7 @@
 ---
 slug: "focustomlpapers/the-haberdashers-askes-boys-school-11-plus-maths-2017-paper-1"
 title: "Focus Paper - The Haberdashers Askes Boys School - 11 Plus - Maths - 2017 - Paper 1"
-date: 2026-09-06 06:52:36
+date: 2026-09-06 13:12:22
 questions_count: "30"
 ---
 <div class="paper" id="page-the-haberdashers-askes-boys-school-11-plus-maths-2017-paper-1-top">

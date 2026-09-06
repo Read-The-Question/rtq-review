@@ -1,7 +1,7 @@
 ---
 slug: "focustomlpapers/st-pauls-girls-school-11-plus-maths-undated-paper-1"
 title: "Focus Paper - St Pauls Girls School - 11 Plus - Maths - Undated - Paper 1"
-date: 2026-09-06 06:52:36
+date: 2026-09-06 13:12:22
 questions_count: "35"
 ---
 <div class="paper" id="page-st-pauls-girls-school-11-plus-maths-undated-paper-1-top">

@@ -1,7 +1,7 @@
 ---
 slug: "focustomlpapers/bancrofts-school-11-plus-maths-2018-paper-1"
 title: "Focus Paper - Bancrofts School - 11 Plus - Maths - 2018 - Paper 1"
-date: 2026-09-06 06:52:36
+date: 2026-09-06 13:12:22
 questions_count: "37"
 ---
 <div class="paper" id="page-bancrofts-school-11-plus-maths-2018-paper-1-top">

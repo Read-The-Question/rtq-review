@@ -7,9 +7,11 @@ export const INITIAL_REVIEW_PREFERENCES_KEY =
   'rtq.review-content.preferences.v1';
 
 export type ReviewControlMode = 'advanced' | 'simple';
+export type VisibleReviewSide = 'answer' | 'question';
 
 export type ReviewPreferences = Readonly<{
   reviewControlMode: ReviewControlMode;
+  reviewTargetSide: VisibleReviewSide;
   showAnswerReview: boolean;
   showQuestionReview: boolean;
   showRaw: boolean;
@@ -20,6 +22,7 @@ export type ReviewPreferences = Readonly<{
 
 export const DEFAULT_REVIEW_PREFERENCES: ReviewPreferences = {
   reviewControlMode: 'simple',
+  reviewTargetSide: 'answer',
   showAnswerReview: true,
   showQuestionReview: false,
   showRaw: false,
@@ -27,8 +30,6 @@ export const DEFAULT_REVIEW_PREFERENCES: ReviewPreferences = {
   showStatusBackground: false,
   showTags: true,
 };
-
-export type VisibleReviewSide = 'answer' | 'question';
 
 function parsePreferenceRecord(
   value: string | null,
@@ -85,12 +86,18 @@ export function parseReviewPreferences(
     previous?.reviewControlMode ??
     legacy?.reviewControlMode ??
     initial?.reviewControlMode;
+  const requestedReviewTargetSide = parsed?.reviewTargetSide;
 
   return {
     reviewControlMode:
       requestedControlMode === 'advanced' || requestedControlMode === 'simple'
         ? requestedControlMode
         : DEFAULT_REVIEW_PREFERENCES.reviewControlMode,
+    reviewTargetSide:
+      requestedReviewTargetSide === 'answer' ||
+      requestedReviewTargetSide === 'question'
+        ? requestedReviewTargetSide
+        : DEFAULT_REVIEW_PREFERENCES.reviewTargetSide,
     showAnswerReview: preference(
       'showAnswerReview',
       oldReviewPreference ?? DEFAULT_REVIEW_PREFERENCES.showAnswerReview,

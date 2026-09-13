@@ -88,6 +88,19 @@ test('review controls default to simple and preserve an advanced selection', () 
   );
 });
 
+test('review target defaults to answer and preserves a question selection', () => {
+  assert.equal(parseReviewPreferences(null).reviewTargetSide, 'answer');
+  assert.equal(
+    parseReviewPreferences('{"reviewTargetSide":"question"}').reviewTargetSide,
+    'question',
+  );
+  assert.equal(
+    parseReviewPreferences('{"reviewTargetSide":"unsupported"}')
+      .reviewTargetSide,
+    'answer',
+  );
+});
+
 test('review sides support both, question-only, answer-only, and neither', () => {
   assert.deepEqual(visibleReviewSides(DEFAULT_REVIEW_PREFERENCES), ['answer']);
   assert.deepEqual(

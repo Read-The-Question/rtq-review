@@ -112,6 +112,9 @@ the browser and does not read TOML or contact Google Sheets.
   Soon**. The interface never requires reviewers to interpret internal PR
   codes. Reset clears only the state-scoped request in the configured
   destination and never removes SQLite feedback.
+- The **Review target** selector persists the chosen Question or Answer side in
+  local browser storage, so quick-review actions keep the same target after a
+  refresh.
 - Rendered workings follow the production RTQ hierarchy: formulas and tips use
   labelled rows, later methods have their own divider, and authored
   `WorkingSection` stages retain their titles and connected side rail. Hidden

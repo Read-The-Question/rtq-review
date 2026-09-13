@@ -1481,7 +1481,6 @@ export function ReviewSurface({
   );
   const [sourceFreshnessChecking, setSourceFreshnessChecking] = useState(false);
   const [currentNodeId, setCurrentNodeId] = useState<string>();
-  const [keyboardSide, setKeyboardSide] = useState<ReviewSide>('answer');
   const [keyboardStatus, setKeyboardStatus] = useState<ReviewActionStatus>({
     kind: 'idle',
     message: '',
@@ -1501,6 +1500,7 @@ export function ReviewSurface({
     () => parseReviewFilterSearchParams(searchParams.toString()),
     [searchParams],
   );
+  const keyboardSide = preferences.reviewTargetSide;
   const reviewOutcomeFilterContext = useMemo(() => {
     if (outcomeLoad.error) return undefined;
     const source = {
@@ -2465,7 +2465,7 @@ export function ReviewSurface({
                   <input
                     checked={keyboardSide === side}
                     name="keyboard-review-target"
-                    onChange={() => setKeyboardSide(side)}
+                    onChange={() => updatePreference('reviewTargetSide', side)}
                     type="radio"
                     value={side}
                   />

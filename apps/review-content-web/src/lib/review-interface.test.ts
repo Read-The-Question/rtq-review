@@ -282,7 +282,8 @@ test('keyboard review follows the exact visible node while outcomes stay top-lev
   assert.match(component, /role="radiogroup"/);
   assert.match(component, /name="keyboard-review-target"/);
   assert.match(component, /type="radio"/);
-  assert.match(component, /useState<ReviewSide>\('answer'\)/);
+  assert.match(component, /keyboardSide = preferences\.reviewTargetSide/);
+  assert.match(component, /updatePreference\('reviewTargetSide', side\)/);
   assert.doesNotMatch(
     component,
     /enabledReviewSides\.includes\(preferredKeyboardSide\)/,

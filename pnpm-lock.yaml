@@ -385,6 +385,9 @@ importers:
       '@rtq/review-paper-markdown':
         specifier: workspace:*
         version: link:../../packages/review-paper-markdown
+      '@rtq/review-paper-model':
+        specifier: workspace:*
+        version: link:../../packages/review-paper-model
       '@rtq/review-repository-paths':
         specifier: workspace:*
         version: link:../../packages/repository-paths

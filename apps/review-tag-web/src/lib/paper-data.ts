@@ -2,6 +2,15 @@ import crypto from 'node:crypto';
 import fs from 'node:fs/promises';
 import path from 'node:path';
 
+import {
+  type QuestionNumberingConfig,
+  formatQuestionIndexLabel,
+  formatQuestionPathLabel,
+  questionListTypeForDepth,
+  resolveQuestionNumberingConfig,
+  resolveSectionQuestionStart,
+} from '@rtq/review-paper-model/numbering';
+
 import { enrichRtqMarkdown } from '@/lib/paper-assets';
 import { applyPaperMacros } from '@/lib/paper-macros';
 import {
@@ -27,7 +36,6 @@ import type {
   ExemplarFolderKey,
   FileIndexItem,
   FolderKey,
-  NodeKind,
   OriginalQuestionSource,
   PaperDocument,
   PaperNode,
@@ -35,7 +43,7 @@ import type {
   StatusTone,
 } from '@/lib/paper-types';
 import { sortPersistedTags, tagKindFor } from '@/lib/tag-taxonomy';
-import { humanizeStem, lowerAlpha, lowerRoman } from '@/lib/utils';
+import { humanizeStem } from '@/lib/utils';
 
 type NodeContext = {
   assetFileStem?: string;
@@ -440,28 +448,6 @@ function nodePath(
   return parts.join('.');
 }
 
-function hierarchyLabel(
-  kind: NodeKind,
-  sectionIndex: number,
-  questionIndex: number,
-  subquestionIndex: number | null,
-  subsubquestionIndex: number | null,
-) {
-  const questionLabel = `S${sectionIndex + 1} Q${questionIndex + 1}`;
-
-  if (kind === 'question') {
-    return questionLabel;
-  }
-
-  if (kind === 'subquestion') {
-    return `${questionLabel}${lowerAlpha(subquestionIndex ?? 0)}`;
-  }
-
-  return `${questionLabel}${lowerAlpha(subquestionIndex ?? 0)}.${lowerRoman(
-    (subsubquestionIndex ?? 0) + 1,
-  )}`;
-}
-
 async function hydrateMarkdown(
   text: string,
   context: NodeContext,
@@ -546,6 +532,8 @@ async function buildNodeContent(
 async function buildSubsubquestionNodes(
   rawChildren: unknown,
   baseContext: NodeContext,
+  numbering: QuestionNumberingConfig,
+  parentLabels: readonly string[],
 ): Promise<PaperNode[]> {
   if (!Array.isArray(rawChildren)) {
     return [];
@@ -573,6 +561,10 @@ async function buildSubsubquestionNodes(
       typeof record['rtq-inherit-tags'] === 'boolean'
         ? (record['rtq-inherit-tags'] as boolean)
         : true;
+    const shortLabel = formatQuestionIndexLabel(
+      index + 1,
+      questionListTypeForDepth(numbering, 2),
+    );
 
     children.push({
       children: [],
@@ -583,13 +575,7 @@ async function buildSubsubquestionNodes(
       explicitDisplayTags: [],
       explicitInherit,
       explicitTags,
-      hierarchyLabel: hierarchyLabel(
-        'subsubquestion',
-        context.sectionIndex,
-        context.questionIndex,
-        context.subquestionIndex,
-        index,
-      ),
+      hierarchyLabel: formatQuestionPathLabel([...parentLabels, shortLabel]),
       inheritedDisplayTags: [],
       inheritedTags: [],
       isRootNode: false,
@@ -603,7 +589,7 @@ async function buildSubsubquestionNodes(
       originalSource: originalSourceFromQuestionId(questionId),
       questionId,
       sectionIndex: context.sectionIndex,
-      shortLabel: lowerRoman(index + 1),
+      shortLabel,
       subquestionIndex: context.subquestionIndex,
       subsubquestionIndex: index,
       uuid: typeof record['rtq-uuid'] === 'string' ? record['rtq-uuid'] : null,
@@ -616,6 +602,8 @@ async function buildSubsubquestionNodes(
 async function buildSubquestionNodes(
   rawChildren: unknown,
   baseContext: NodeContext,
+  numbering: QuestionNumberingConfig,
+  parentLabels: readonly string[],
 ) {
   if (!Array.isArray(rawChildren)) {
     return [];
@@ -643,11 +631,22 @@ async function buildSubquestionNodes(
       typeof record['rtq-inherit-tags'] === 'boolean'
         ? (record['rtq-inherit-tags'] as boolean)
         : true;
+    const shortLabel = formatQuestionIndexLabel(
+      index + 1,
+      questionListTypeForDepth(numbering, 1),
+    );
+    const pathLabels = [...parentLabels, shortLabel];
+    const descendantNumbering = resolveQuestionNumberingConfig(
+      record,
+      numbering,
+    );
 
     children.push({
       children: await buildSubsubquestionNodes(
         record.subquestions,
         assetContext,
+        descendantNumbering,
+        pathLabels,
       ),
       content: await buildNodeContent(record, assetContext),
       depth: 1,
@@ -656,13 +655,7 @@ async function buildSubquestionNodes(
       explicitDisplayTags: [],
       explicitInherit,
       explicitTags,
-      hierarchyLabel: hierarchyLabel(
-        'subquestion',
-        context.sectionIndex,
-        context.questionIndex,
-        index,
-        null,
-      ),
+      hierarchyLabel: formatQuestionPathLabel(pathLabels),
       inheritedDisplayTags: [],
       inheritedTags: [],
       isRootNode: false,
@@ -671,7 +664,7 @@ async function buildSubquestionNodes(
       originalSource: originalSourceFromQuestionId(questionId),
       questionId,
       sectionIndex: context.sectionIndex,
-      shortLabel: lowerAlpha(index),
+      shortLabel,
       subquestionIndex: index,
       subsubquestionIndex: null,
       uuid: typeof record['rtq-uuid'] === 'string' ? record['rtq-uuid'] : null,
@@ -685,6 +678,8 @@ async function buildQuestionNodes(
   sectionIndex: number,
   rawQuestions: unknown,
   fileStem: string,
+  numbering: QuestionNumberingConfig,
+  questionStart: number,
 ) {
   if (!Array.isArray(rawQuestions)) {
     return [];
@@ -710,9 +705,23 @@ async function buildQuestionNodes(
         ? record['rtq-question-id']
         : null;
     const assetContext = assetContextFromQuestionId(questionId, context);
+    const shortLabel = formatQuestionIndexLabel(
+      questionStart + index,
+      questionListTypeForDepth(numbering, 0),
+    );
+    const pathLabels = [shortLabel];
+    const descendantNumbering = resolveQuestionNumberingConfig(
+      record,
+      numbering,
+    );
 
     questions.push({
-      children: await buildSubquestionNodes(record.subquestions, assetContext),
+      children: await buildSubquestionNodes(
+        record.subquestions,
+        assetContext,
+        descendantNumbering,
+        pathLabels,
+      ),
       content: await buildNodeContent(record, assetContext),
       depth: 0,
       effectiveDisplayTags: [],
@@ -720,13 +729,7 @@ async function buildQuestionNodes(
       explicitDisplayTags: [],
       explicitInherit: null,
       explicitTags: sortPersistedTags(asStringArray(record['rtq-tags'])),
-      hierarchyLabel: hierarchyLabel(
-        'question',
-        sectionIndex,
-        index,
-        null,
-        null,
-      ),
+      hierarchyLabel: shortLabel,
       inheritedDisplayTags: [],
       inheritedTags: [],
       isRootNode: true,
@@ -735,7 +738,7 @@ async function buildQuestionNodes(
       originalSource: originalSourceFromQuestionId(questionId),
       questionId,
       sectionIndex,
-      shortLabel: `Q${index + 1}`,
+      shortLabel,
       subquestionIndex: null,
       subsubquestionIndex: null,
       uuid: typeof record['rtq-uuid'] === 'string' ? record['rtq-uuid'] : null,
@@ -1104,9 +1107,11 @@ export async function readPaperDocument(
   const fileName = path.basename(relativePath);
   const fileStem = relativePaperSlug(fileName);
   const sections: PaperSection[] = [];
+  const paperNumbering = resolveQuestionNumberingConfig(parsed.meta ?? {});
 
   for (const [sectionIndex, rawSection] of (parsed.sections ?? []).entries()) {
     const section = rawSection as Record<string, unknown>;
+    const numbering = resolveQuestionNumberingConfig(section, paperNumbering);
 
     sections.push({
       index: sectionIndex,
@@ -1116,6 +1121,8 @@ export async function readPaperDocument(
         sectionIndex,
         section.questions,
         fileStem,
+        numbering,
+        resolveSectionQuestionStart(section),
       ),
     });
   }

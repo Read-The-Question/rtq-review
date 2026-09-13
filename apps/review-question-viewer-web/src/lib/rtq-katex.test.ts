@@ -15,6 +15,15 @@ test('renders the shared equationNumber macro', () => {
   assert.ok(html.replace(/<[^>]+>/g, '').includes('(7)'));
 });
 
+test('renders opt-in columnar arithmetic spacing', () => {
+  const html = katex.renderToString(
+    String.raw`\columnarArithmeticStyle\begin{array}{c}1\\2\end{array}`,
+    { ...rtqKatexOptions, throwOnError: true },
+  );
+
+  assert.match(html, /height:3\.6em/);
+});
+
 test('renders sequenceStep with a fractional step', () => {
   const html = katex.renderToString(String.raw`\sequenceStep{\dfrac{1}{1}}`, {
     ...rtqKatexOptions,

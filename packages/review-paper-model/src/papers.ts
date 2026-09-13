@@ -25,6 +25,14 @@ import type {
   ReviewTargetState,
   ReviewWorking,
 } from './model.ts';
+import {
+  formatQuestionIndexLabel,
+  formatQuestionPathLabel,
+  questionListTypeForDepth,
+  resolveQuestionNumberingConfig,
+  resolveSectionQuestionStart,
+  type QuestionNumberingConfig,
+} from './numbering.ts';
 import { resolvePaperCollectionRoot, resolvePaperSourcePath } from './paths.ts';
 import {
   PaperTomlParseError,
@@ -476,47 +484,6 @@ function reviewTarget(
   };
 }
 
-function lowerRoman(value: number): string {
-  const numerals: Array<readonly [number, string]> = [
-    [1000, 'm'],
-    [900, 'cm'],
-    [500, 'd'],
-    [400, 'cd'],
-    [100, 'c'],
-    [90, 'xc'],
-    [50, 'l'],
-    [40, 'xl'],
-    [10, 'x'],
-    [9, 'ix'],
-    [5, 'v'],
-    [4, 'iv'],
-    [1, 'i'],
-  ];
-  let remaining = value;
-  let result = '';
-
-  for (const [amount, numeral] of numerals) {
-    while (remaining >= amount) {
-      result += numeral;
-      remaining -= amount;
-    }
-  }
-
-  return result;
-}
-
-function nodeLabel(position: NodePosition, depth: 0 | 1 | 2): string {
-  const base = `S${position.sectionIndex + 1} Q${position.questionIndex + 1}`;
-  if (depth === 0) return base;
-  const subquestion = String.fromCharCode(
-    97 + (position.subquestionIndex ?? 0),
-  );
-  if (depth === 1) return `${base}${subquestion}`;
-  return `${base}${subquestion}.${lowerRoman(
-    (position.subSubquestionIndex ?? 0) + 1,
-  )}`;
-}
-
 function nodeId(position: NodePosition): string {
   return [
     `s${position.sectionIndex}`,
@@ -568,6 +535,9 @@ function buildNode(
   record: Record<string, unknown>,
   position: NodePosition,
   depth: 0 | 1 | 2,
+  index: number,
+  parentLabels: readonly string[],
+  numbering: QuestionNumberingConfig,
   inheritedSourceQuestionId: string | undefined,
   macros: PaperMacros,
 ): ReviewPaperNode {
@@ -589,6 +559,12 @@ function buildNode(
         ? record['rtq-inherit-tags']
         : true;
   const childRecords = depth === 2 ? [] : asRecords(record.subquestions);
+  const indexLabel = formatQuestionIndexLabel(
+    index,
+    questionListTypeForDepth(numbering, depth),
+  );
+  const pathLabels = [...parentLabels, indexLabel];
+  const descendantNumbering = resolveQuestionNumberingConfig(record, numbering);
   const children = childRecords.map((child, index) =>
     buildNode(
       child,
@@ -596,6 +572,9 @@ function buildNode(
         ? { ...position, subquestionIndex: index }
         : { ...position, subSubquestionIndex: index },
       depth === 0 ? 1 : 2,
+      index + 1,
+      pathLabels,
+      descendantNumbering,
       sourceQuestionId,
       macros,
     ),
@@ -624,7 +603,7 @@ function buildNode(
         : depth === 1
           ? 'subquestion'
           : 'sub-subquestion',
-    label: nodeLabel(position, depth),
+    label: formatQuestionPathLabel(pathLabels),
     ...(sourceQuestionId
       ? { originalSource: originalSource(sourceQuestionId) }
       : {}),
@@ -676,22 +655,31 @@ export async function readReviewPaper(
   const parsed = parsePaperToml(raw, collection.id);
   const source = buildPaperSource(collection, relativePath, raw, parsed);
   const stem = paperStem(source.fileName);
-  const sections = parsed.sections.map((section, sectionIndex) => ({
-    id: `section-${sectionIndex}`,
-    label:
-      meaningfulString(section.name) ??
-      meaningfulString(section.title) ??
-      `Section ${sectionIndex + 1}`,
-    questions: asRecords(section.questions).map((question, questionIndex) =>
-      buildNode(
-        question,
-        { paperStem: stem, questionIndex, sectionIndex },
-        0,
-        undefined,
-        macros,
+  const paperNumbering = resolveQuestionNumberingConfig(parsed.meta);
+  const sections = parsed.sections.map((section, sectionIndex) => {
+    const numbering = resolveQuestionNumberingConfig(section, paperNumbering);
+    const questionStart = resolveSectionQuestionStart(section);
+
+    return {
+      id: `section-${sectionIndex}`,
+      label:
+        meaningfulString(section.name) ??
+        meaningfulString(section.title) ??
+        `Section ${sectionIndex + 1}`,
+      questions: asRecords(section.questions).map((question, questionIndex) =>
+        buildNode(
+          question,
+          { paperStem: stem, questionIndex, sectionIndex },
+          0,
+          questionStart + questionIndex,
+          [],
+          numbering,
+          undefined,
+          macros,
+        ),
       ),
-    ),
-  }));
+    };
+  });
 
   return resolveReviewPaperTags({
     metadata: paperMetadata(parsed),

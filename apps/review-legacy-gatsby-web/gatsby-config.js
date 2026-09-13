@@ -21,6 +21,7 @@ const rtqKatexMacros = {
   "\\boxedFilledValue": "\\boxed{\\filledValue{#1}}",
   "\\solvedOrder": "\\maroonC{\\footnotesize{(#1)}}",
   "\\solvedOrderPhantom": "\\phantom{\\maroonC{\\footnotesize{(#1)}}}",
+  "\\columnarArithmeticStyle": "\\def\\arraystretch{1.5}",
 };
 
 module.exports = {

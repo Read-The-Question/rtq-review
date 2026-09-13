@@ -28,6 +28,12 @@ const PAPER_LIST_STYLE_TYPE_SET = new Set<string>(PAPER_LIST_STYLE_TYPES);
 const MARKDOWN_FENCE = /^ {0,3}(`{3,}|~{3,})/;
 const PAPER_LIST_TAG = /<\/?PaperList\b[^>\r\n]*(?:>|$)/g;
 const PAPER_LIST_TOKEN = /<\/?PaperList\b/;
+const PAPER_LIST_OPEN_PATTERN =
+  /^(?<indent> {0,3})<PaperList(?:[ \t]+(?<attributes>[^>\r\n]*))?>[ \t]*$/;
+const PAPER_LIST_CLOSE_PATTERN = /^ {0,3}<\/PaperList>[ \t]*$/;
+const PAPER_LIST_TAG_PREFIX_PATTERN = /^ {0,3}<\/?PaperList\b/;
+const PAPER_LIST_STYLE_ATTRIBUTE_PATTERN =
+  /^listStyleType[ \t]*=[ \t]*(["'])(.*?)\1$/;
 
 type MarkdownFence = Readonly<{ character: "`" | "~"; length: number }>;
 
@@ -120,6 +126,79 @@ export function hasActivePaperList(markdown: string): boolean {
   }
 
   return false;
+}
+
+function paperListCompatibilityStyle(attributes: string | undefined): string {
+  if (!attributes?.trim()) return "auto";
+
+  const match = attributes.trim().match(PAPER_LIST_STYLE_ATTRIBUTE_PATTERN);
+  if (!match) return "auto";
+
+  const value = match[2].trim().toLowerCase();
+  return PAPER_LIST_STYLE_TYPE_SET.has(value) ? value : "auto";
+}
+
+/**
+ * Convert authored PaperList wrappers to inert metadata understood by the
+ * non-MDX Markdown renderer. This mirrors the generated-paper compatibility
+ * contract while leaving fenced examples untouched.
+ */
+export function toPaperListCompatibilityMarkdown(markdown: string): string {
+  const lines = markdown.match(/.*(?:\r\n|\n|$)/g)?.filter(Boolean) ?? [];
+  const output: string[] = [];
+  let fence: MarkdownFence | undefined;
+  let openWrappers = 0;
+
+  for (const line of lines) {
+    const content = line.replace(/\r?\n$/, "");
+
+    if (fence) {
+      output.push(line);
+      if (closesFence(content, fence)) fence = undefined;
+      continue;
+    }
+
+    const nextFence = openingFence(content);
+    if (nextFence) {
+      fence = nextFence;
+      output.push(line);
+      continue;
+    }
+
+    const openingMatch = content.match(PAPER_LIST_OPEN_PATTERN);
+    if (openingMatch) {
+      openWrappers += 1;
+      const indent = openingMatch.groups?.indent ?? "";
+      const style = paperListCompatibilityStyle(
+        openingMatch.groups?.attributes,
+      );
+      const lineEnding = line.slice(content.length);
+      output.push(
+        `${indent}<!-- ${PAPER_LIST_COMPATIBILITY_KEY}: ${style} -->${lineEnding}`,
+      );
+      continue;
+    }
+
+    if (PAPER_LIST_CLOSE_PATTERN.test(content)) {
+      if (openWrappers === 0) {
+        throw new Error("PaperList closing tag has no matching opening tag");
+      }
+      openWrappers -= 1;
+      continue;
+    }
+
+    if (PAPER_LIST_TAG_PREFIX_PATTERN.test(content)) {
+      throw new Error(`Malformed PaperList wrapper: ${content.trim()}`);
+    }
+
+    output.push(line);
+  }
+
+  if (openWrappers > 0) {
+    throw new Error("PaperList opening tag has no matching closing tag");
+  }
+
+  return output.join("");
 }
 
 function isParent(node: RootContent): node is RootContent & Parent {

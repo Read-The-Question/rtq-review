@@ -4,12 +4,14 @@ import test from 'node:test';
 
 import {
   remarkPaperList,
-  remarkPaperListMdx,
+  toPaperListCompatibilityMarkdown,
 } from '@rtq/review-paper-markdown';
 import { validatePaperListMarkdown } from '@rtq/review-paper-markdown/validate';
 import { createElement } from 'react';
 import { renderToStaticMarkup } from 'react-dom/server';
 import ReactMarkdown from 'react-markdown';
+import rehypeRaw from 'rehype-raw';
+import remarkGfm from 'remark-gfm';
 import remarkMath from 'remark-math';
 
 const sourceRoot = new URL('..', import.meta.url);
@@ -19,7 +21,8 @@ function render(markdown: string) {
     createElement(
       ReactMarkdown,
       {
-        remarkPlugins: [remarkMath, remarkPaperListMdx, remarkPaperList],
+        rehypePlugins: [rehypeRaw],
+        remarkPlugins: [remarkGfm, remarkMath, remarkPaperList],
       },
       markdown,
     ),
@@ -28,19 +31,42 @@ function render(markdown: string) {
 
 test('renders validated PaperList markers with isolated list semantics', () => {
   const html = render(
-    [
-      '<PaperList listStyleType="upper-alpha">',
-      '',
-      '3. $\\dfrac{1}{3}$',
-      '   - Native nested list',
-      '',
-      '</PaperList>',
-    ].join('\n'),
+    toPaperListCompatibilityMarkdown(
+      [
+        '<PaperList listStyleType="upper-alpha">',
+        '',
+        '3. $\\dfrac{1}{3}$',
+        '   - Native nested list',
+        '',
+        '</PaperList>',
+      ].join('\n'),
+    ),
   );
 
   assert.match(html, /<ol start="3" style="list-style-type:upper-alpha">/);
   assert.match(html, /<ul>\s*<li>Native nested list<\/li>\s*<\/ul>/);
   assert.doesNotMatch(html, /PaperList|listStyleType/);
+});
+
+test('renders prepared PaperTable separators and multiline LongDivision SVG markup', () => {
+  const html = render(
+    [
+      '| Value | Result |',
+      '| --- | ---: |',
+      '| One | 1 |',
+      '',
+      '<!-- RTQ_TABLE_KEEP_AFTER: do not remove; keeps markdown table rendering stable -->',
+      '',
+      '<div class="paper-long-division-graphic"><svg aria-hidden="true" viewBox="0 0 10 10">',
+      '  <g><text x="5" y="5">8</text></g>',
+      '</svg></div>',
+    ].join('\n'),
+  );
+
+  assert.match(html, /<table>/);
+  assert.match(html, /<svg aria-hidden="true" viewBox="0 0 10 10">/);
+  assert.match(html, /<text x="5" y="5">8<\/text>/);
+  assert.doesNotMatch(html, /RTQ_TABLE_KEEP_AFTER/);
 });
 
 test('rejects malformed wrappers without rejecting ordinary LaTeX', () => {
@@ -63,7 +89,8 @@ test('uses the shared contract at the central read-only Tag Web boundaries', asy
   ]);
 
   assert.match(assets, /validatePaperListMarkdown\(text\)/);
-  assert.match(component, /remarkPaperListMdx/);
+  assert.match(assets, /toPaperListCompatibilityMarkdown\(text\)/);
+  assert.doesNotMatch(component, /remarkPaperListMdx/);
   assert.match(component, /remarkPaperList/);
   assert.match(css, /\.rtq-markdown ul\s*{[^}]*list-style-type:\s*disc/s);
   assert.match(css, /\.rtq-markdown ol\s*{[^}]*list-style-type:\s*decimal/s);

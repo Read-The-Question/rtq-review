@@ -195,6 +195,52 @@ formula = '''One'''
 formula = '''Two'''
 `;
 
+const numberingPaper = String.raw`[meta]
+list-type = "lower-alpha"
+sub-list-type = "lower-roman"
+sub-sub-list-type = "upper-alpha"
+
+[[sections]]
+name = "Overrides"
+question-start = 27
+list-type = "upper-alpha"
+sub-list-type = "upper-alpha"
+sub-sub-list-type = "lower-alpha"
+
+[[sections.questions]]
+rtq-uuid = "OVERRIDE-TOP"
+sub-list-type = "decimal"
+sub-sub-list-type = "upper-roman"
+question = '''Top'''
+
+[[sections.questions.subquestions]]
+rtq-uuid = "OVERRIDE-SUB"
+question = '''Sub'''
+
+[[sections.questions.subquestions.subquestions]]
+rtq-uuid = "OVERRIDE-DEEP"
+question = '''Deep'''
+
+[[sections.questions]]
+rtq-uuid = "OVERRIDE-TOP-2"
+question = '''Second top'''
+
+[[sections]]
+name = "Paper defaults"
+
+[[sections.questions]]
+rtq-uuid = "DEFAULT-TOP"
+question = '''Top'''
+
+[[sections.questions.subquestions]]
+rtq-uuid = "DEFAULT-SUB"
+question = '''Sub'''
+
+[[sections.questions.subquestions.subquestions]]
+rtq-uuid = "DEFAULT-DEEP"
+question = '''Deep'''
+`;
+
 test('discovers only supported existing collections in stable order', async () => {
   const root = createContentWorkspace([
     'toml',
@@ -426,9 +472,12 @@ test('parses the complete nested read model and safe preparation inputs', async 
       '$a + b = c$',
     );
     assert.equal(subquestion.kind, 'subquestion');
+    assert.equal(question.label, '1');
+    assert.equal(subquestion.label, '1.a');
     assert.equal(subquestion.explicitInherit, true);
     assert.equal(subquestion.sourceQuestionId, question.questionId);
     assert.equal(subSubquestion.kind, 'sub-subquestion');
+    assert.equal(subSubquestion.label, '1.a.i');
     assert.equal(subSubquestion.explicitInherit, false);
     assert.deepEqual(subSubquestion.children, []);
     assert.deepEqual(question.originalSource, {
@@ -470,6 +519,39 @@ test('parses the complete nested read model and safe preparation inputs', async 
       'paper-image',
     );
     assert.doesNotThrow(() => JSON.stringify(paper));
+  } finally {
+    rmSync(root, { force: true, recursive: true });
+  }
+});
+
+test('matches paper numbering inheritance and section question starts', async () => {
+  const root = createContentWorkspace(['toml']);
+  writePaper(root, 'toml', 'numbering.toml', numberingPaper);
+
+  try {
+    const paper = await readReviewPaper('toml', 'numbering.toml', {
+      environment: { RTQ_CONTENT_ROOT: root },
+    });
+    const overridden = paper.sections[0].questions[0];
+    const inherited = paper.sections[1].questions[0];
+
+    assert.deepEqual(
+      [
+        overridden.label,
+        overridden.children[0].label,
+        overridden.children[0].children[0].label,
+        paper.sections[0].questions[1].label,
+      ],
+      ['AA', 'AA.1', 'AA.1.I', 'AB'],
+    );
+    assert.deepEqual(
+      [
+        inherited.label,
+        inherited.children[0].label,
+        inherited.children[0].children[0].label,
+      ],
+      ['a', 'a.i', 'a.i.A'],
+    );
   } finally {
     rmSync(root, { force: true, recursive: true });
   }

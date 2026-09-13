@@ -13,6 +13,7 @@ import {
   remarkPaperList,
   remarkPaperListMdx,
   stripPaperListWrapperLines,
+  toPaperListCompatibilityMarkdown,
 } from "./index.ts";
 import { validatePaperListMarkdown } from "./validate.ts";
 
@@ -187,6 +188,42 @@ test("consumes inert generated-Markdown compatibility metadata", async () => {
   );
   assert.match(html, /<ol start="3" style="list-style-type: upper-alpha">/);
   assert.doesNotMatch(html, /RTQ_PAPER_LIST_STYLE/);
+});
+
+test("converts authored wrappers to compatibility metadata", async () => {
+  const source = [
+    '<PaperList listStyleType="UPPER-ROMAN">',
+    "",
+    "1. Parent",
+    '   <PaperList listStyleType="square">',
+    "",
+    "   - Child",
+    "",
+    "   </PaperList>",
+    "",
+    "</PaperList>",
+  ].join("\n");
+  const compatible = toPaperListCompatibilityMarkdown(source);
+
+  assert.match(compatible, /RTQ_PAPER_LIST_STYLE: upper-roman/);
+  assert.match(compatible, /RTQ_PAPER_LIST_STYLE: square/);
+  assert.doesNotMatch(compatible, /<\/?PaperList/);
+
+  const html = await renderCompatibility(compatible);
+  assert.match(html, /<ol style="list-style-type: upper-roman">/);
+  assert.match(html, /<ul style="list-style-type: square">/);
+});
+
+test("leaves fenced PaperList examples unchanged during compatibility conversion", () => {
+  const source = [
+    "```md",
+    '<PaperList listStyleType="circle">',
+    "- Example",
+    "</PaperList>",
+    "```",
+  ].join("\n");
+
+  assert.equal(toPaperListCompatibilityMarkdown(source), source);
 });
 
 test("uses semantic defaults for unsupported compatibility values", async () => {

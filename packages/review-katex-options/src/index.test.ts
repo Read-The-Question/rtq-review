@@ -8,6 +8,8 @@ import katex from "katex";
 
 import {
   getRtqReviewKatexOptions,
+  RTQ_COLUMNAR_ARITHMETIC_STYLE_EXPANSION,
+  RTQ_COLUMNAR_ARITHMETIC_STYLE_MACRO,
   RTQ_EQUATION_NUMBER_CLASS,
   RTQ_EQUATION_NUMBER_EXPANSION,
   RTQ_EQUATION_NUMBER_MACRO,
@@ -25,7 +27,7 @@ const options = getRtqReviewKatexOptions({
   "\\existingReviewerMacro": "x_{#1}",
 });
 
-test("matches the canonical rtq-content equation-number contract", () => {
+test("matches the canonical rtq-content shared macro contracts", () => {
   const contractPath = path.join(
     resolveRtqContentRoot(),
     "packages",
@@ -37,16 +39,38 @@ test("matches the canonical rtq-content equation-number contract", () => {
   const contract = JSON.parse(
     readFileSync(contractPath, "utf8"),
   ) as MacroContract;
-  const canonical = contract.macros.find(
+  const equationNumber = contract.macros.find(
     ({ name }) => name === RTQ_EQUATION_NUMBER_MACRO,
   );
+  const columnarArithmeticStyle = contract.macros.find(
+    ({ name }) => name === RTQ_COLUMNAR_ARITHMETIC_STYLE_MACRO,
+  );
 
-  assert.deepEqual(canonical, {
+  assert.deepEqual(equationNumber, {
     expansion: RTQ_EQUATION_NUMBER_EXPANSION,
     name: RTQ_EQUATION_NUMBER_MACRO,
     semanticClass: RTQ_EQUATION_NUMBER_CLASS,
   });
+  assert.deepEqual(columnarArithmeticStyle, {
+    expansion: RTQ_COLUMNAR_ARITHMETIC_STYLE_EXPANSION,
+    name: RTQ_COLUMNAR_ARITHMETIC_STYLE_MACRO,
+  });
   assert.equal(options.macros["\\existingReviewerMacro"], "x_{#1}");
+});
+
+test("applies columnar arithmetic spacing only when requested", () => {
+  const plain = katex.renderToString(
+    String.raw`\begin{array}{c}1\\2\end{array}`,
+    options,
+  );
+  const columnar = katex.renderToString(
+    String.raw`\columnarArithmeticStyle\begin{array}{c}1\\2\end{array}`,
+    options,
+  );
+
+  assert.match(plain, /height:2\.4em/);
+  assert.doesNotMatch(plain, /height:3\.6em/);
+  assert.match(columnar, /height:3\.6em/);
 });
 
 test("renders equation numbers consistently in display and inline maths", () => {

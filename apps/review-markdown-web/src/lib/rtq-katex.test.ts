@@ -14,6 +14,16 @@ test('renders the shared equationNumber macro through Markdown', async () => {
   assert.ok(html.replace(/<[^>]+>/g, '').includes('(7)'));
 });
 
+test('renders opt-in columnar arithmetic spacing through Markdown', async () => {
+  const html = await renderMarkdownToHtml(
+    String.raw`$\columnarArithmeticStyle\begin{array}{c}1\\2\end{array}$`,
+    rtqKatexMacros,
+  );
+
+  assert.doesNotMatch(html, /katex-error/);
+  assert.match(html, /height:3\.6em/);
+});
+
 test('renders sequenceStep with a fractional step through Markdown', async () => {
   const html = await renderMarkdownToHtml(
     String.raw`$\sequenceStep{\dfrac{1}{1}}$`,

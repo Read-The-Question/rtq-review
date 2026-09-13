@@ -4,13 +4,16 @@ import test from 'node:test';
 import {
   remarkPaperList,
   remarkPaperListMdx,
+  remarkPaperSmall,
 } from '@rtq/review-paper-markdown';
 import { createElement } from 'react';
 import { renderToStaticMarkup } from 'react-dom/server';
 import ReactMarkdown from 'react-markdown';
+import rehypeKatex from 'rehype-katex';
 import remarkGfm from 'remark-gfm';
 import remarkMath from 'remark-math';
 
+import { rtqKatexOptions } from './rtq-katex.ts';
 import { preparePaperListMarkdown } from './paper-list-markdown.ts';
 
 test('preserves a valid PaperList for the shared render transform', () => {
@@ -105,4 +108,29 @@ test('renders unordered styles and semantic invalid-value defaults', () => {
     ),
     /<ol style="list-style-type:decimal">/,
   );
+});
+
+test('renders PaperSmall with inline maths through the Review Content stack', () => {
+  const html = renderToStaticMarkup(
+    createElement(
+      ReactMarkdown,
+      {
+        rehypePlugins: [[rehypeKatex, rtqKatexOptions]],
+        remarkPlugins: [
+          remarkGfm,
+          remarkMath,
+          remarkPaperListMdx,
+          remarkPaperSmall,
+        ],
+      },
+      'Estimate. <PaperSmall aria-label="Supporting note">Rounded $x^2$</PaperSmall>',
+    ),
+  );
+
+  assert.match(
+    html,
+    /<small aria-label="Supporting note" data-paper-small="">/,
+  );
+  assert.match(html, /class="katex"/);
+  assert.doesNotMatch(html, /PaperSmall/);
 });

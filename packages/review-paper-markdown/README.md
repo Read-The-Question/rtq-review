@@ -32,6 +32,15 @@ Use `validatePaperListMarkdown` from `@rtq/review-paper-markdown/validate` on a
 server preparation boundary when malformed content needs to become a
 reviewer-facing preparation issue rather than a render failure.
 
+## PaperSmall
+
+`PaperSmall` marks supplementary or fine-print phrasing content. The shared
+`remarkPaperSmall` transform converts inline and standalone single-line usage
+to semantic native `<small data-paper-small>` output while preserving inline
+Markdown and maths. It keeps inert native attributes, discards executable or
+style attributes, and unwraps unsupported flow children as readable unstyled
+content rather than leaving an unsupported MDX node for ReactMarkdown.
+
 ## PaperTable
 
 `PaperTable` wraps exactly one GFM pipe table. The shared transform implements

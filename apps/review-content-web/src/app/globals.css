@@ -1685,6 +1685,11 @@ a.paper-row:hover {
   list-style-type: decimal;
 }
 
+.rtq-markdown small[data-paper-small] {
+  font-size: 0.8em;
+  line-height: 1.5;
+}
+
 .rtq-markdown img {
   display: block;
   height: auto;

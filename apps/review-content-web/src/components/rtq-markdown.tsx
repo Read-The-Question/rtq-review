@@ -4,6 +4,7 @@ import {
   rehypePaperTable,
   remarkPaperList,
   remarkPaperListMdx,
+  remarkPaperSmall,
   remarkPaperTable,
 } from '@rtq/review-paper-markdown';
 import ReactMarkdown from 'react-markdown';
@@ -38,6 +39,7 @@ export function RtqMarkdown({ markdown }: { markdown: string }) {
           remarkPaperListMdx,
           remarkPaperTable,
           remarkPaperList,
+          remarkPaperSmall,
         ]}
       >
         {markdown}

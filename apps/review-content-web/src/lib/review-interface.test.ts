@@ -341,7 +341,7 @@ test('review surfaces stay light and reviewer-facing rem sizes stay readable', a
   );
 });
 
-test('review Markdown uses the shared PaperList and PaperTable contracts', async () => {
+test('review Markdown uses the shared Paper component contracts', async () => {
   const [markdown, preparation, css] = await Promise.all([
     fs.readFile(markdownUrl, 'utf8'),
     fs.readFile(preparePaperUrl, 'utf8'),
@@ -351,6 +351,7 @@ test('review Markdown uses the shared PaperList and PaperTable contracts', async
   assert.match(markdown, /@rtq\/review-paper-markdown/);
   assert.match(markdown, /remarkPaperListMdx/);
   assert.match(markdown, /remarkPaperList/);
+  assert.match(markdown, /remarkPaperSmall/);
   assert.match(markdown, /remarkPaperTable/);
   assert.match(markdown, /rehypePaperTable/);
   assert.match(preparation, /preparePaperTableMarkdown/);
@@ -372,6 +373,10 @@ test('review Markdown uses the shared PaperList and PaperTable contracts', async
   assert.match(preparation, /working: prepareField\(working\.working/);
   assert.match(css, /\.rtq-markdown ul\s*{[^}]*list-style-type:\s*disc/s);
   assert.match(css, /\.rtq-markdown ol\s*{[^}]*list-style-type:\s*decimal/s);
+  assert.match(
+    css,
+    /\.rtq-markdown small\[data-paper-small\]\s*{[^}]*font-size:\s*0\.8em[^}]*line-height:\s*1\.5/s,
+  );
 });
 
 test('the landing page uses a compact paper-first introduction', async () => {

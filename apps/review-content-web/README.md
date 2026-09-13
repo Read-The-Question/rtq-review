@@ -115,6 +115,9 @@ the browser and does not read TOML or contact Google Sheets.
 - The **Review target** selector persists the chosen Question or Answer side in
   local browser storage, so quick-review actions keep the same target after a
   refresh.
+- Authored `<PaperSmall>...</PaperSmall>` supplementary text renders as a
+  semantic native `small` element at a restrained relative size, including
+  inline maths, without acquiring footnote behaviour.
 - Rendered workings follow the production RTQ hierarchy: formulas and tips use
   labelled rows, later methods have their own divider, and authored
   `WorkingSection` stages retain their titles and connected side rail. Hidden

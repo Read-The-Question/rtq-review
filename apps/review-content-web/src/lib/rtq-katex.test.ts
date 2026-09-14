@@ -3,11 +3,19 @@ import test from 'node:test';
 
 import katex from 'katex';
 
-import { rtqKatexOptions } from './rtq-katex.ts';
+import { rtqKatexMacros, rtqKatexOptions } from './rtq-katex.ts';
+
+test('registers all thirteen prefixed RTQ macros', () => {
+  assert.equal(
+    Object.keys(rtqKatexMacros).filter((name) => name.startsWith('\\rtqMaths'))
+      .length,
+    13,
+  );
+});
 
 test('renders the shared equationNumber macro', () => {
   const html = katex.renderToString(
-    String.raw`\equationNumber{7}`,
+    String.raw`\rtqMathsEquationNumber{7}`,
     rtqKatexOptions,
   );
 
@@ -17,7 +25,7 @@ test('renders the shared equationNumber macro', () => {
 
 test('renders opt-in columnar arithmetic spacing', () => {
   const html = katex.renderToString(
-    String.raw`\columnarArithmeticStyle\begin{array}{c}1\\2\end{array}`,
+    String.raw`\rtqMathsColumnarArithmeticStyle\begin{array}{c}1\\2\end{array}`,
     { ...rtqKatexOptions, throwOnError: true },
   );
 
@@ -25,10 +33,13 @@ test('renders opt-in columnar arithmetic spacing', () => {
 });
 
 test('renders sequenceStep with a fractional step', () => {
-  const html = katex.renderToString(String.raw`\sequenceStep{\dfrac{1}{1}}`, {
-    ...rtqKatexOptions,
-    throwOnError: true,
-  });
+  const html = katex.renderToString(
+    String.raw`\rtqMathsSequenceStep{\dfrac{1}{1}}`,
+    {
+      ...rtqKatexOptions,
+      throwOnError: true,
+    },
+  );
 
   assert.doesNotMatch(html, /katex-error/);
   assert.match(html, /color:#ed5fa6/);

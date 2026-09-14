@@ -4022,10 +4022,10 @@ $\dfrac {6} {10} \quad \boxed {\phantom {\dfrac {a} {b}}} \quad \dfrac {3} {4}$
 
 $
 \begin{aligned}
- &= \dfrac {6} {10} \quad \boxedEmptyValue \quad \dfrac {3} {4} \\\\
- &= 0.6 \quad \boxedEmptyValue \quad 0.75 \\\\
- &= 0.6 \quad \boxedFilledValue{<} \quad 0.75 \\\\
- &= \dfrac {6} {10} \quad \boxedFilledValue{<} \quad \dfrac {3} {4}
+ &= \dfrac {6} {10} \quad \rtqMathsBoxedEmptyValue \quad \dfrac {3} {4} \\\\
+ &= 0.6 \quad \rtqMathsBoxedEmptyValue \quad 0.75 \\\\
+ &= 0.6 \quad \rtqMathsBoxedFilledValue{<} \quad 0.75 \\\\
+ &= \dfrac {6} {10} \quad \rtqMathsBoxedFilledValue{<} \quad \dfrac {3} {4}
 \end{aligned}
 $
 </div>
@@ -4048,10 +4048,10 @@ $\dfrac {6} {10} \quad  <  \quad \dfrac {3} {4}$
 </div>
 <pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
- &= \dfrac {6} {10} \quad \boxedEmptyValue \quad \dfrac {3} {4} \\\\
- &= 0.6 \quad \boxedEmptyValue \quad 0.75 \\\\
- &= 0.6 \quad \boxedFilledValue{&lt;} \quad 0.75 \\\\
- &= \dfrac {6} {10} \quad \boxedFilledValue{&lt;} \quad \dfrac {3} {4}
+ &= \dfrac {6} {10} \quad \rtqMathsBoxedEmptyValue \quad \dfrac {3} {4} \\\\
+ &= 0.6 \quad \rtqMathsBoxedEmptyValue \quad 0.75 \\\\
+ &= 0.6 \quad \rtqMathsBoxedFilledValue{&lt;} \quad 0.75 \\\\
+ &= \dfrac {6} {10} \quad \rtqMathsBoxedFilledValue{&lt;} \quad \dfrac {3} {4}
 \end{aligned}
 &#36;
 </code></pre>
@@ -4136,10 +4136,10 @@ $\dfrac {8} {7} \quad \boxed {\phantom {\dfrac {a} {b}}} \quad \dfrac {11} {13}$
 
 $
 \begin{aligned}
- &= \dfrac {8} {7} \quad \boxedEmptyValue \quad \dfrac {11} {13} \\\\
- &\approx 1.14 \quad \boxedEmptyValue \quad 0.85 \\\\
- &\approx 1.14 \quad \boxedFilledValue{>} \quad 0.85 \\\\
- &= \dfrac {8} {7} \quad \boxedFilledValue{>} \quad \dfrac {11} {13}
+ &= \dfrac {8} {7} \quad \rtqMathsBoxedEmptyValue \quad \dfrac {11} {13} \\\\
+ &\approx 1.14 \quad \rtqMathsBoxedEmptyValue \quad 0.85 \\\\
+ &\approx 1.14 \quad \rtqMathsBoxedFilledValue{>} \quad 0.85 \\\\
+ &= \dfrac {8} {7} \quad \rtqMathsBoxedFilledValue{>} \quad \dfrac {11} {13}
 \end{aligned}
 $
 </div>
@@ -4162,10 +4162,10 @@ $\dfrac {8} {7} \quad  >  \quad \dfrac {11} {13}$
 </div>
 <pre class="language-latex"><code class="language-latex">&#36;
 \begin{aligned}
- &= \dfrac {8} {7} \quad \boxedEmptyValue \quad \dfrac {11} {13} \\\\
- &\approx 1.14 \quad \boxedEmptyValue \quad 0.85 \\\\
- &\approx 1.14 \quad \boxedFilledValue{&gt;} \quad 0.85 \\\\
- &= \dfrac {8} {7} \quad \boxedFilledValue{&gt;} \quad \dfrac {11} {13}
+ &= \dfrac {8} {7} \quad \rtqMathsBoxedEmptyValue \quad \dfrac {11} {13} \\\\
+ &\approx 1.14 \quad \rtqMathsBoxedEmptyValue \quad 0.85 \\\\
+ &\approx 1.14 \quad \rtqMathsBoxedFilledValue{&gt;} \quad 0.85 \\\\
+ &= \dfrac {8} {7} \quad \rtqMathsBoxedFilledValue{&gt;} \quad \dfrac {11} {13}
 \end{aligned}
 &#36;
 </code></pre>

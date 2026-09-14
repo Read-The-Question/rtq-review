@@ -102,7 +102,7 @@ ABBR: Remember to line up the decimal points.
 
 $
 \begin{array}{cccccccccccccc}
-    & 1 & {}^{\subtractBorrow{4}} \cancel{5} \ . & {}^{\subtractBorrow{1}} 0 & 5 \\
+    & 1 & {}^{\rtqMathsSubtractBorrow{4}} \cancel{5} \ . & {}^{\rtqMathsSubtractBorrow{1}} 0 & 5 \\
 {}- &   1   &    4 \ .    &    8    &    4 \\
 \hline
     &   0    &    0 \ .    &    2    &    1
@@ -159,7 +159,7 @@ $0.21$
 
 &#36;
 \begin{array}{cccccccccccccc}
-    & 1 & {}^{\subtractBorrow{4}} \cancel{5} \ . & {}^{\subtractBorrow{1}} 0 & 5 \\
+    & 1 & {}^{\rtqMathsSubtractBorrow{4}} \cancel{5} \ . & {}^{\rtqMathsSubtractBorrow{1}} 0 & 5 \\
 {}- &   1   &    4 \ .    &    8    &    4 \\
 \hline
     &   0    &    0 \ .    &    2    &    1
@@ -354,7 +354,7 @@ ABBR: Let's first multiply the numbers ignoring the decimal points.
 
 $
 \begin{array}{cccccccccccccc}
-    & \multiplyCarryOver {1} & \multiplyCarryOver {4} &  \\
+    & \rtqMathsMultiplyCarryOver {1} & \rtqMathsMultiplyCarryOver {4} &  \\
         &   3   &   1   &   6 \\
 \times  &       &       &   7 \\
 \hline
@@ -408,7 +408,7 @@ $221.2$
 
 &#36;
 \begin{array}{cccccccccccccc}
-    & \multiplyCarryOver {1} & \multiplyCarryOver {4} &  \\
+    & \rtqMathsMultiplyCarryOver {1} & \rtqMathsMultiplyCarryOver {4} &  \\
         &   3   &   1   &   6 \\
 \times  &       &       &   7 \\
 \hline
@@ -3044,13 +3044,13 @@ Multiply by $2$ each time.
 
 $
 \begin{matrix}
-&   \sequenceStep{\times 2}
-&&  \sequenceStep{\times 2}
-&&  \sequenceStep{\times 2}
-&&  \sequenceStep{\times 2}
-&&  \sequenceStep{\times 2}
-&&  \sequenceStep{\times 2}
-&&  \sequenceStep{\times 2}  \\
+&   \rtqMathsSequenceStep{\times 2}
+&&  \rtqMathsSequenceStep{\times 2}
+&&  \rtqMathsSequenceStep{\times 2}
+&&  \rtqMathsSequenceStep{\times 2}
+&&  \rtqMathsSequenceStep{\times 2}
+&&  \rtqMathsSequenceStep{\times 2}
+&&  \rtqMathsSequenceStep{\times 2}  \\
 \ldots, && \ldots, && 3, && 6, && 12, && 24, && 48, && \ldots
 \end{matrix}
 $
@@ -3124,13 +3124,13 @@ Multiply by &#36;2&#36; each time.
 
 &#36;
 \begin{matrix}
-&   \sequenceStep{\times 2}
-&&  \sequenceStep{\times 2}
-&&  \sequenceStep{\times 2}
-&&  \sequenceStep{\times 2}
-&&  \sequenceStep{\times 2}
-&&  \sequenceStep{\times 2}
-&&  \sequenceStep{\times 2}  \\
+&   \rtqMathsSequenceStep{\times 2}
+&&  \rtqMathsSequenceStep{\times 2}
+&&  \rtqMathsSequenceStep{\times 2}
+&&  \rtqMathsSequenceStep{\times 2}
+&&  \rtqMathsSequenceStep{\times 2}
+&&  \rtqMathsSequenceStep{\times 2}
+&&  \rtqMathsSequenceStep{\times 2}  \\
 \ldots, && \ldots, && 3, && 6, && 12, && 24, && 48, && \ldots
 \end{matrix}
 &#36;
@@ -5239,12 +5239,12 @@ $323 \times \ldots 7 = 1518 \ldots$
 $
 \begin{array}{cccccccccccccc}
     &            &   3   &   2   &   3 \\
-    & {}\times   &       &   \boxedFilledValue{4}   &   7 \\
+    & {}\times   &       &   \rtqMathsBoxedFilledValue{4}   &   7 \\
 \hline
         &   2   &   2   &   6   &   1 \\
    1   &   2   &   9   &   2   &   0 \\
 \hline
-    1   &   5   &   1   &   8   &   \boxedFilledValue{1}
+    1   &   5   &   1   &   8   &   \rtqMathsBoxedFilledValue{1}
 \end{array}
 $
 
@@ -5261,16 +5261,16 @@ $
 
 $
 \begin{array}{cccccccccccccc}
-    \addCarryOver {(+)} &  & \addCarryOver {1} &  &  &  \\
+    \rtqMathsAddCarryOver {(+)} &  & \rtqMathsAddCarryOver {1} &  &  &  \\
      &  &  & 3 & 2 & 3 \\
-     &  & {}\times &  & \boxedFilledValue{4} & 7 \\
+     &  & {}\times &  & \rtqMathsBoxedFilledValue{4} & 7 \\
 \hline
-     &  &  & \multiplyCarryOver {1} & \multiplyCarryOver {2} &  \\
-    \multiplyCarryOver {(\times 7)} &  & 2 & 2 & 6 & 1 \\
-     &  &  & \multiplyCarryOver {1} &  &  \\
-    \multiplyCarryOver {(\times 4)} & 1 & 2 & 9 & 2 & 0 \\
+     &  &  & \rtqMathsMultiplyCarryOver {1} & \rtqMathsMultiplyCarryOver {2} &  \\
+    \rtqMathsMultiplyCarryOver {(\times 7)} &  & 2 & 2 & 6 & 1 \\
+     &  &  & \rtqMathsMultiplyCarryOver {1} &  &  \\
+    \rtqMathsMultiplyCarryOver {(\times 4)} & 1 & 2 & 9 & 2 & 0 \\
 \hline
-     & 1 & 5 & 1 & 8 & \boxedFilledValue{1}
+     & 1 & 5 & 1 & 8 & \rtqMathsBoxedFilledValue{1}
 \end{array}
 $
 
@@ -5312,12 +5312,12 @@ $323 \times 47 = 15181$
 &#36;
 \begin{array}{cccccccccccccc}
     &            &   3   &   2   &   3 \\
-    & {}\times   &       &   \boxedFilledValue{4}   &   7 \\
+    & {}\times   &       &   \rtqMathsBoxedFilledValue{4}   &   7 \\
 \hline
         &   2   &   2   &   6   &   1 \\
    1   &   2   &   9   &   2   &   0 \\
 \hline
-    1   &   5   &   1   &   8   &   \boxedFilledValue{1}
+    1   &   5   &   1   &   8   &   \rtqMathsBoxedFilledValue{1}
 \end{array}
 &#36;
 
@@ -5327,16 +5327,16 @@ $323 \times 47 = 15181$
 
 &#36;
 \begin{array}{cccccccccccccc}
-    \addCarryOver {(+)} &  & \addCarryOver {1} &  &  &  \\
+    \rtqMathsAddCarryOver {(+)} &  & \rtqMathsAddCarryOver {1} &  &  &  \\
      &  &  & 3 & 2 & 3 \\
-     &  & {}\times &  & \boxedFilledValue{4} & 7 \\
+     &  & {}\times &  & \rtqMathsBoxedFilledValue{4} & 7 \\
 \hline
-     &  &  & \multiplyCarryOver {1} & \multiplyCarryOver {2} &  \\
-    \multiplyCarryOver {(\times 7)} &  & 2 & 2 & 6 & 1 \\
-     &  &  & \multiplyCarryOver {1} &  &  \\
-    \multiplyCarryOver {(\times 4)} & 1 & 2 & 9 & 2 & 0 \\
+     &  &  & \rtqMathsMultiplyCarryOver {1} & \rtqMathsMultiplyCarryOver {2} &  \\
+    \rtqMathsMultiplyCarryOver {(\times 7)} &  & 2 & 2 & 6 & 1 \\
+     &  &  & \rtqMathsMultiplyCarryOver {1} &  &  \\
+    \rtqMathsMultiplyCarryOver {(\times 4)} & 1 & 2 & 9 & 2 & 0 \\
 \hline
-     & 1 & 5 & 1 & 8 & \boxedFilledValue{1}
+     & 1 & 5 & 1 & 8 & \rtqMathsBoxedFilledValue{1}
 \end{array}
 &#36;
 

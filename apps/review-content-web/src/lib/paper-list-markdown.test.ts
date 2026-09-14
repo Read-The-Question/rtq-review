@@ -39,7 +39,7 @@ test('keeps malformed PaperList content readable and reports the issue', () => {
 test('does not parse LaTeX braces as MDX expressions during preparation', () => {
   const ordinaryWorking = String.raw`$
 \begin{array}{cc}
-{}^{\subtractBorrow{7}} \cancel{8} & \boxed{?}
+{}^{\rtqMathsSubtractBorrow{7}} \cancel{8} & \boxed{?}
 \end{array}
 $`;
   const listWithMaths = String.raw`<PaperList listStyleType="upper-alpha">

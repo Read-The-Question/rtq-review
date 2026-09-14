@@ -82,7 +82,7 @@ Calculate $546 + 287$.
 
 $
 \begin{array}{cccccccccccccc}
-      & \addCarryOver {1} & \addCarryOver {1} &   \\
+      & \rtqMathsAddCarryOver {1} & \rtqMathsAddCarryOver {1} &   \\
     &   5   &   4   &   6 \\
 {}+ &   2   &   8   &   7 \\
 \hline
@@ -109,7 +109,7 @@ $833$
 </div>
 <pre class="language-latex"><code class="language-latex">&#36;
 \begin{array}{cccccccccccccc}
-      & \addCarryOver {1} & \addCarryOver {1} &   \\
+      & \rtqMathsAddCarryOver {1} & \rtqMathsAddCarryOver {1} &   \\
     &   5   &   4   &   6 \\
 {}+ &   2   &   8   &   7 \\
 \hline
@@ -270,7 +270,7 @@ Calculate $546 - 287$.
 
 $
 \begin{array}{cccccccccccccc}
-    & {}^{\subtractBorrow{4}} \cancel{5} & {}^{\subtractBorrow{13}} \cancel{4} & {}^{\subtractBorrow{1}} 6 \\
+    & {}^{\rtqMathsSubtractBorrow{4}} \cancel{5} & {}^{\rtqMathsSubtractBorrow{13}} \cancel{4} & {}^{\rtqMathsSubtractBorrow{1}} 6 \\
 {}- &   2   &   8   &   7 \\
 \hline
     &   2   &   5   &   9
@@ -321,7 +321,7 @@ $259$
 
 &#36;
 \begin{array}{cccccccccccccc}
-    & {}^{\subtractBorrow{4}} \cancel{5} & {}^{\subtractBorrow{13}} \cancel{4} & {}^{\subtractBorrow{1}} 6 \\
+    & {}^{\rtqMathsSubtractBorrow{4}} \cancel{5} & {}^{\rtqMathsSubtractBorrow{13}} \cancel{4} & {}^{\rtqMathsSubtractBorrow{1}} 6 \\
 {}- &   2   &   8   &   7 \\
 \hline
     &   2   &   5   &   9
@@ -493,7 +493,7 @@ Calculate $546 \times 4$.
 
 $
 \begin{array}{cccccccccccccc}
-    & \multiplyCarryOver {1} & \multiplyCarryOver {2} &  \\
+    & \rtqMathsMultiplyCarryOver {1} & \rtqMathsMultiplyCarryOver {2} &  \\
             &    5   &   4   &   6 \\
 {}\times    &        &       &   4 \\
 \hline
@@ -520,7 +520,7 @@ $2184$
 </div>
 <pre class="language-latex"><code class="language-latex">&#36;
 \begin{array}{cccccccccccccc}
-    & \multiplyCarryOver {1} & \multiplyCarryOver {2} &  \\
+    & \rtqMathsMultiplyCarryOver {1} & \rtqMathsMultiplyCarryOver {2} &  \\
             &    5   &   4   &   6 \\
 {}\times    &        &       &   4 \\
 \hline
@@ -1261,11 +1261,11 @@ Add $3$ each time.
 
 $
 \begin{matrix}
-&   \sequenceStep{+3}
-&&  \sequenceStep{+3}
-&&  \sequenceStep{+3}
-&&  \sequenceStep{+3}
-&&  \sequenceStep{+3}  \\
+&   \rtqMathsSequenceStep{+3}
+&&  \rtqMathsSequenceStep{+3}
+&&  \rtqMathsSequenceStep{+3}
+&&  \rtqMathsSequenceStep{+3}
+&&  \rtqMathsSequenceStep{+3}  \\
 14,  &&   17,  &&  20, &&  23, && \ldots, && \ldots
 \end{matrix}
 $
@@ -1329,11 +1329,11 @@ Add &#36;3&#36; each time.
 
 &#36;
 \begin{matrix}
-&   \sequenceStep{+3}
-&&  \sequenceStep{+3}
-&&  \sequenceStep{+3}
-&&  \sequenceStep{+3}
-&&  \sequenceStep{+3}  \\
+&   \rtqMathsSequenceStep{+3}
+&&  \rtqMathsSequenceStep{+3}
+&&  \rtqMathsSequenceStep{+3}
+&&  \rtqMathsSequenceStep{+3}
+&&  \rtqMathsSequenceStep{+3}  \\
 14,  &&   17,  &&  20, &&  23, && \ldots, && \ldots
 \end{matrix}
 &#36;
@@ -1467,11 +1467,11 @@ Subtract $0.75$ each time.
 
 $
 \begin{matrix}
-&   \sequenceStep{-0.75}
-&&  \sequenceStep{-0.75}
-&&  \sequenceStep{-0.75}
-&&  \sequenceStep{-0.75}
-&&  \sequenceStep{-0.75}  \\
+&   \rtqMathsSequenceStep{-0.75}
+&&  \rtqMathsSequenceStep{-0.75}
+&&  \rtqMathsSequenceStep{-0.75}
+&&  \rtqMathsSequenceStep{-0.75}
+&&  \rtqMathsSequenceStep{-0.75}  \\
 14, && 13.25, && 12.5, && 11.75, && \ldots,  && \ldots
 \end{matrix}
 $
@@ -1535,11 +1535,11 @@ Subtract &#36;0.75&#36; each time.
 
 &#36;
 \begin{matrix}
-&   \sequenceStep{-0.75}
-&&  \sequenceStep{-0.75}
-&&  \sequenceStep{-0.75}
-&&  \sequenceStep{-0.75}
-&&  \sequenceStep{-0.75}  \\
+&   \rtqMathsSequenceStep{-0.75}
+&&  \rtqMathsSequenceStep{-0.75}
+&&  \rtqMathsSequenceStep{-0.75}
+&&  \rtqMathsSequenceStep{-0.75}
+&&  \rtqMathsSequenceStep{-0.75}  \\
 14, && 13.25, && 12.5, && 11.75, && \ldots,  && \ldots
 \end{matrix}
 &#36;

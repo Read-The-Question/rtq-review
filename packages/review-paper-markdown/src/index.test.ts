@@ -126,7 +126,7 @@ test("leaves literal fenced examples unchanged", async () => {
 test("validates PaperList content without treating LaTeX braces as JavaScript", () => {
   const workingWithoutPaperList = String.raw`$
 \begin{array}{cc}
-{}^{\subtractBorrow{7}} \cancel{8} & \boxed{?}
+{}^{\rtqMathsSubtractBorrow{7}} \cancel{8} & \boxed{?}
 \end{array}
 $`;
   const listWithMaths = String.raw`<PaperList listStyleType="upper-alpha">

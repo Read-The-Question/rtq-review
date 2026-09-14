@@ -2205,13 +2205,15 @@ export function ReviewSurface({
         !event.altKey &&
         !event.ctrlKey &&
         !event.metaKey &&
-        (key === 'g' || key === 'r' || key === 'c')
+        (key === 'g' || key === 'r' || key === 'd' || key === 'c')
       ) {
         event.preventDefault();
         if (key === 'c') {
           openKeyboardComment();
         } else {
-          void submitKeyboardOutcome(key === 'g' ? 'PRG' : 'PRCR');
+          void submitKeyboardOutcome(
+            key === 'g' ? 'PRG' : key === 'r' ? 'PRCR' : 'PRCC',
+          );
         }
         return;
       }
@@ -2498,6 +2500,16 @@ export function ReviewSurface({
               type="button"
             >
               Make a change <kbd>r</kbd>
+            </button>
+            <button
+              disabled={
+                Boolean(keyboardOutcomeDisabledReason) || keyboardOutcomePending
+              }
+              onClick={() => void submitKeyboardOutcome('PRCC')}
+              title={keyboardOutcomeDisabledReason ?? 'Change Complete (d)'}
+              type="button"
+            >
+              Change Complete <kbd>d</kbd>
             </button>
             <button
               disabled={Boolean(commentLoad.error)}

@@ -4,9 +4,17 @@ import test from 'node:test';
 import { renderMarkdownToHtml } from './markdown-renderer.ts';
 import { rtqKatexMacros } from './rtq-katex.ts';
 
+test('registers all thirteen prefixed RTQ macros', () => {
+  assert.equal(
+    Object.keys(rtqKatexMacros).filter(name => name.startsWith('\\rtqMaths'))
+      .length,
+    13,
+  );
+});
+
 test('renders the shared equationNumber macro through Markdown', async () => {
   const html = await renderMarkdownToHtml(
-    String.raw`Inline $\equationNumber{7}$.`,
+    String.raw`Inline $\rtqMathsEquationNumber{7}$.`,
     rtqKatexMacros,
   );
 
@@ -16,7 +24,7 @@ test('renders the shared equationNumber macro through Markdown', async () => {
 
 test('renders opt-in columnar arithmetic spacing through Markdown', async () => {
   const html = await renderMarkdownToHtml(
-    String.raw`$\columnarArithmeticStyle\begin{array}{c}1\\2\end{array}$`,
+    String.raw`$\rtqMathsColumnarArithmeticStyle\begin{array}{c}1\\2\end{array}$`,
     rtqKatexMacros,
   );
 
@@ -26,7 +34,7 @@ test('renders opt-in columnar arithmetic spacing through Markdown', async () => 
 
 test('renders sequenceStep with a fractional step through Markdown', async () => {
   const html = await renderMarkdownToHtml(
-    String.raw`$\sequenceStep{\dfrac{1}{1}}$`,
+    String.raw`$\rtqMathsSequenceStep{\dfrac{1}{1}}$`,
     rtqKatexMacros,
   );
 

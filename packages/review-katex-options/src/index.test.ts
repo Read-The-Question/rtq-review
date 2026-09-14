@@ -64,7 +64,7 @@ test("applies columnar arithmetic spacing only when requested", () => {
     options,
   );
   const columnar = katex.renderToString(
-    String.raw`\columnarArithmeticStyle\begin{array}{c}1\\2\end{array}`,
+    String.raw`\rtqMathsColumnarArithmeticStyle\begin{array}{c}1\\2\end{array}`,
     options,
   );
 
@@ -78,12 +78,12 @@ test("renders equation numbers consistently in display and inline maths", () => 
     {
       displayMode: true,
       numbers: ["(1)", "(2)"],
-      source: String.raw`\begin{aligned}5b + 2a &= 3.40 & \equationNumber{1} \\ 3b + a &= 2.00 & \equationNumber{2}\end{aligned}`,
+      source: String.raw`\begin{aligned}5b + 2a &= 3.40 & \rtqMathsEquationNumber{1} \\ 3b + a &= 2.00 & \rtqMathsEquationNumber{2}\end{aligned}`,
     },
     {
       displayMode: false,
       numbers: ["(2)"],
-      source: String.raw`\equationNumber{2}`,
+      source: String.raw`\rtqMathsEquationNumber{2}`,
     },
   ];
 

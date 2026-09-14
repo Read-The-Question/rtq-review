@@ -180,7 +180,7 @@ $2018 - \boxed{\phantom{5555}} = 1989$
 
 **Working**
 
-$2018 - \boxedFilledValue{29} = 1989$
+$2018 - \rtqMathsBoxedFilledValue{29} = 1989$
 </div>
 </div>
 <div class="answers">
@@ -199,7 +199,7 @@ $29$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">&#36;2018 - \boxedFilledValue{29} = 1989&#36;
+<pre class="language-latex"><code class="language-latex">&#36;2018 - \rtqMathsBoxedFilledValue{29} = 1989&#36;
 </code></pre>
 </div>
 </div>
@@ -407,7 +407,7 @@ $18 + \boxed{\phantom{5555}} + 23 = 67$
 
 **Working**
 
-$18 + \boxedFilledValue{26} + 23 = 67$
+$18 + \rtqMathsBoxedFilledValue{26} + 23 = 67$
 </div>
 </div>
 <div class="answers">
@@ -426,7 +426,7 @@ $26$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">&#36;18 + \boxedFilledValue{26} + 23 = 67&#36;
+<pre class="language-latex"><code class="language-latex">&#36;18 + \rtqMathsBoxedFilledValue{26} + 23 = 67&#36;
 </code></pre>
 </div>
 </div>
@@ -966,7 +966,7 @@ Subtract $2018$ from $8102$.
 
 $
 \begin{array}{cccccccccccccc}
-    & 8 & {}^{\subtractBorrow{0}} \cancel{1} & {}^{\subtractBorrow{9}} \cancel{0} & {}^{\subtractBorrow{1}} 2 \\
+    & 8 & {}^{\rtqMathsSubtractBorrow{0}} \cancel{1} & {}^{\rtqMathsSubtractBorrow{9}} \cancel{0} & {}^{\rtqMathsSubtractBorrow{1}} 2 \\
 {}- &   2   &   0   &   1   &   8 \\
 \hline
     &   6   &   0   &   8   &   4
@@ -1017,7 +1017,7 @@ $6084$
 
 &#36;
 \begin{array}{cccccccccccccc}
-    & 8 & {}^{\subtractBorrow{0}} \cancel{1} & {}^{\subtractBorrow{9}} \cancel{0} & {}^{\subtractBorrow{1}} 2 \\
+    & 8 & {}^{\rtqMathsSubtractBorrow{0}} \cancel{1} & {}^{\rtqMathsSubtractBorrow{9}} \cancel{0} & {}^{\rtqMathsSubtractBorrow{1}} 2 \\
 {}- &   2   &   0   &   1   &   8 \\
 \hline
     &   6   &   0   &   8   &   4
@@ -1403,13 +1403,13 @@ $
 
 $
 \begin{array}{cccccccccccccc}
-    \addCarryOver {(+)} &  &  & \addCarryOver {1} &  &  \\
+    \rtqMathsAddCarryOver {(+)} &  &  & \rtqMathsAddCarryOver {1} &  &  \\
      &  & 2 & 0 & 1 & 8 \\
      & {}\times &  &  & 1 & 7 \\
 \hline
-     &  &  & \multiplyCarryOver {1} & \multiplyCarryOver {5} &  \\
-    \multiplyCarryOver {(\times 7)} & 1 & 4 & 1 & 2 & 6 \\
-    \multiplyCarryOver {(\times 1)} & 2 & 0 & 1 & 8 & 0 \\
+     &  &  & \rtqMathsMultiplyCarryOver {1} & \rtqMathsMultiplyCarryOver {5} &  \\
+    \rtqMathsMultiplyCarryOver {(\times 7)} & 1 & 4 & 1 & 2 & 6 \\
+    \rtqMathsMultiplyCarryOver {(\times 1)} & 2 & 0 & 1 & 8 & 0 \\
 \hline
      & 3 & 4 & 3 & 0 & 6
 \end{array}
@@ -1455,13 +1455,13 @@ $34306$
 
 &#36;
 \begin{array}{cccccccccccccc}
-    \addCarryOver {(+)} &  &  & \addCarryOver {1} &  &  \\
+    \rtqMathsAddCarryOver {(+)} &  &  & \rtqMathsAddCarryOver {1} &  &  \\
      &  & 2 & 0 & 1 & 8 \\
      & {}\times &  &  & 1 & 7 \\
 \hline
-     &  &  & \multiplyCarryOver {1} & \multiplyCarryOver {5} &  \\
-    \multiplyCarryOver {(\times 7)} & 1 & 4 & 1 & 2 & 6 \\
-    \multiplyCarryOver {(\times 1)} & 2 & 0 & 1 & 8 & 0 \\
+     &  &  & \rtqMathsMultiplyCarryOver {1} & \rtqMathsMultiplyCarryOver {5} &  \\
+    \rtqMathsMultiplyCarryOver {(\times 7)} & 1 & 4 & 1 & 2 & 6 \\
+    \rtqMathsMultiplyCarryOver {(\times 1)} & 2 & 0 & 1 & 8 & 0 \\
 \hline
      & 3 & 4 & 3 & 0 & 6
 \end{array}
@@ -1622,7 +1622,7 @@ What number (written in digits) is twenty **less** than twenty thousand?
 
 $
 \begin{array}{cccccccccccccc}
-    & {}^{\subtractBorrow{1}} \cancel{2} & {}^{\subtractBorrow{9}} \cancel{0} & {}^{\subtractBorrow{9}} \cancel{0} & {}^{\subtractBorrow{1}} 0 & 0 \\
+    & {}^{\rtqMathsSubtractBorrow{1}} \cancel{2} & {}^{\rtqMathsSubtractBorrow{9}} \cancel{0} & {}^{\rtqMathsSubtractBorrow{9}} \cancel{0} & {}^{\rtqMathsSubtractBorrow{1}} 0 & 0 \\
 {}- &       &         &         &    2    &    0 \\
 \hline
     &   1   &    9    &    9    &    8    &    0
@@ -1673,7 +1673,7 @@ $19980$
 
 &#36;
 \begin{array}{cccccccccccccc}
-    & {}^{\subtractBorrow{1}} \cancel{2} & {}^{\subtractBorrow{9}} \cancel{0} & {}^{\subtractBorrow{9}} \cancel{0} & {}^{\subtractBorrow{1}} 0 & 0 \\
+    & {}^{\rtqMathsSubtractBorrow{1}} \cancel{2} & {}^{\rtqMathsSubtractBorrow{9}} \cancel{0} & {}^{\rtqMathsSubtractBorrow{9}} \cancel{0} & {}^{\rtqMathsSubtractBorrow{1}} 0 & 0 \\
 {}- &       &         &         &    2    &    0 \\
 \hline
     &   1   &    9    &    9    &    8    &    0
@@ -5305,10 +5305,10 @@ Multiply by $2$ each time.
 
 $
 \begin{matrix}
-&   \sequenceStep{\times 2}
-&&  \sequenceStep{\times 2}
-&&  \sequenceStep{\times 2}
-&&  \sequenceStep{\times 2}  \\
+&   \rtqMathsSequenceStep{\times 2}
+&&  \rtqMathsSequenceStep{\times 2}
+&&  \rtqMathsSequenceStep{\times 2}
+&&  \rtqMathsSequenceStep{\times 2}  \\
 6, && 12, && \ldots, && 48, && 96
 \end{matrix}
 $
@@ -5363,10 +5363,10 @@ Multiply by &#36;2&#36; each time.
 
 &#36;
 \begin{matrix}
-&   \sequenceStep{\times 2}
-&&  \sequenceStep{\times 2}
-&&  \sequenceStep{\times 2}
-&&  \sequenceStep{\times 2}  \\
+&   \rtqMathsSequenceStep{\times 2}
+&&  \rtqMathsSequenceStep{\times 2}
+&&  \rtqMathsSequenceStep{\times 2}
+&&  \rtqMathsSequenceStep{\times 2}  \\
 6, && 12, && \ldots, && 48, && 96
 \end{matrix}
 &#36;
@@ -5479,11 +5479,11 @@ Add $10$, then $11$, then $12$, and so on.
 
 $
 \begin{matrix}
-&   \sequenceStep{+10}
-&&  \sequenceStep{+11}
-&&  \sequenceStep{+12}
-&&  \sequenceStep{+13}
-&&  \sequenceStep{+14}  \\
+&   \rtqMathsSequenceStep{+10}
+&&  \rtqMathsSequenceStep{+11}
+&&  \rtqMathsSequenceStep{+12}
+&&  \rtqMathsSequenceStep{+13}
+&&  \rtqMathsSequenceStep{+14}  \\
 3, && 13, && 24, && \ldots, && 49, && 63
 \end{matrix}
 $
@@ -5538,11 +5538,11 @@ Add &#36;10&#36;, then &#36;11&#36;, then &#36;12&#36;, and so on.
 
 &#36;
 \begin{matrix}
-&   \sequenceStep{+10}
-&&  \sequenceStep{+11}
-&&  \sequenceStep{+12}
-&&  \sequenceStep{+13}
-&&  \sequenceStep{+14}  \\
+&   \rtqMathsSequenceStep{+10}
+&&  \rtqMathsSequenceStep{+11}
+&&  \rtqMathsSequenceStep{+12}
+&&  \rtqMathsSequenceStep{+13}
+&&  \rtqMathsSequenceStep{+14}  \\
 3, && 13, && 24, && \ldots, && 49, && 63
 \end{matrix}
 &#36;
@@ -12903,9 +12903,9 @@ ABBR: Using BIDMAS
 **Working**
 
 $
-123 \ \boxedFilledValue{-} \
-45  \ \boxedFilledValue{-} \ 
-67  \ \boxedFilledValue{+} \ 
+123 \ \rtqMathsBoxedFilledValue{-} \
+45  \ \rtqMathsBoxedFilledValue{-} \ 
+67  \ \rtqMathsBoxedFilledValue{+} \ 
 89 = \ 100
 $
 </div>
@@ -12933,9 +12933,9 @@ $123 - 45 - 67 + 89 = 100$
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
 <pre class="language-latex"><code class="language-latex">&#36;
-123 \ \boxedFilledValue{-} \
-45  \ \boxedFilledValue{-} \ 
-67  \ \boxedFilledValue{+} \ 
+123 \ \rtqMathsBoxedFilledValue{-} \
+45  \ \rtqMathsBoxedFilledValue{-} \ 
+67  \ \rtqMathsBoxedFilledValue{+} \ 
 89 = \ 100
 &#36;
 </code></pre>

@@ -82,7 +82,7 @@ Add: $88 + 37$
 
 $
 \begin{array}{cccccccccccccc}
-    & \addCarryOver {1} &   \\
+    & \rtqMathsAddCarryOver {1} &   \\
         & 8 & 8 \\
     {}+ & 3 & 7 \\
     \hline
@@ -109,7 +109,7 @@ $125$
 </div>
 <pre class="language-latex"><code class="language-latex">&#36;
 \begin{array}{cccccccccccccc}
-    & \addCarryOver {1} &   \\
+    & \rtqMathsAddCarryOver {1} &   \\
         & 8 & 8 \\
     {}+ & 3 & 7 \\
     \hline
@@ -270,7 +270,7 @@ Subtract: $96 - 47$
 
 $
 \begin{array}{cccccccccccccc}
-    & {}^{\subtractBorrow{8}} \cancel{9} & {}^{\subtractBorrow{1}} 6 \\
+    & {}^{\rtqMathsSubtractBorrow{8}} \cancel{9} & {}^{\rtqMathsSubtractBorrow{1}} 6 \\
     {}- & 4 & 7 \\
     \hline
         & 4 & 9
@@ -321,7 +321,7 @@ $49$
 
 &#36;
 \begin{array}{cccccccccccccc}
-    & {}^{\subtractBorrow{8}} \cancel{9} & {}^{\subtractBorrow{1}} 6 \\
+    & {}^{\rtqMathsSubtractBorrow{8}} \cancel{9} & {}^{\rtqMathsSubtractBorrow{1}} 6 \\
     {}- & 4 & 7 \\
     \hline
         & 4 & 9
@@ -493,7 +493,7 @@ Multiply: $58 \times 7$.
 
 $
 \begin{array}{cccccccccccccc}
-    & \multiplyCarryOver {5} &  \\
+    & \rtqMathsMultiplyCarryOver {5} &  \\
              & 5 & 8 \\
     {}\times &   & 7 \\
     \hline
@@ -520,7 +520,7 @@ $406$
 </div>
 <pre class="language-latex"><code class="language-latex">&#36;
 \begin{array}{cccccccccccccc}
-    & \multiplyCarryOver {5} &  \\
+    & \rtqMathsMultiplyCarryOver {5} &  \\
              & 5 & 8 \\
     {}\times &   & 7 \\
     \hline
@@ -2895,7 +2895,7 @@ ABBR: Using BIDMAS
 
 **Working**
 
-$8 - \filledValue{(} 5 + 2 \filledValue{)} = 1$
+$8 - \rtqMathsFilledValue{(} 5 + 2 \rtqMathsFilledValue{)} = 1$
 </div>
 </div>
 <div class="answers">
@@ -2920,7 +2920,7 @@ $8 - (5 + 2) = 1$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">&#36;8 - \filledValue{(} 5 + 2 \filledValue{)} = 1&#36;
+<pre class="language-latex"><code class="language-latex">&#36;8 - \rtqMathsFilledValue{(} 5 + 2 \rtqMathsFilledValue{)} = 1&#36;
 </code></pre>
 </div>
 </div>
@@ -3011,7 +3011,7 @@ ABBR: Using BIDMAS
 
 **Working**
 
-$12 - \filledValue{(} 11 + 2 - 1 \filledValue{)} = 0$
+$12 - \rtqMathsFilledValue{(} 11 + 2 - 1 \rtqMathsFilledValue{)} = 0$
 </div>
 </div>
 <div class="answers">
@@ -3036,7 +3036,7 @@ $12 - (11 + 2 - 1) = 0$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">&#36;12 - \filledValue{(} 11 + 2 - 1 \filledValue{)} = 0&#36;
+<pre class="language-latex"><code class="language-latex">&#36;12 - \rtqMathsFilledValue{(} 11 + 2 - 1 \rtqMathsFilledValue{)} = 0&#36;
 </code></pre>
 </div>
 </div>
@@ -6966,9 +6966,9 @@ Fill each missing value by calculating it from the numbers already given.
 
 |       | Left handed                                         | Right handed                                         | Total                                           |
 |-----|-----------                                        |------------                                        |-----                                          |
-| Boys  | $\filledValue{8 - 3 = 5} \ \solvedOrder{9}$         | $\filledValue{22 - 13 = 9} \ \solvedOrder{8}$        | $\filledValue{30 - 16 = 14} \ \solvedOrder{7}$ |
-| Girls | $\filledValue{16 - 13 = 3} \ \solvedOrder{5}$       | $\filledValue{13} \ \solvedOrder{4}$                 | $\filledValue{16} \ \solvedOrder{3}$           |
-| Total | $\filledValue{8} \ \solvedOrder{2}$                 | $\filledValue{30 - 8 = 22} \ \solvedOrder{6}$        | $\filledValue{30} \ \solvedOrder{1}$           |
+| Boys  | $\rtqMathsFilledValue{8 - 3 = 5} \ \rtqMathsSolvedOrder{9}$         | $\rtqMathsFilledValue{22 - 13 = 9} \ \rtqMathsSolvedOrder{8}$        | $\rtqMathsFilledValue{30 - 16 = 14} \ \rtqMathsSolvedOrder{7}$ |
+| Girls | $\rtqMathsFilledValue{16 - 13 = 3} \ \rtqMathsSolvedOrder{5}$       | $\rtqMathsFilledValue{13} \ \rtqMathsSolvedOrder{4}$                 | $\rtqMathsFilledValue{16} \ \rtqMathsSolvedOrder{3}$           |
+| Total | $\rtqMathsFilledValue{8} \ \rtqMathsSolvedOrder{2}$                 | $\rtqMathsFilledValue{30 - 8 = 22} \ \rtqMathsSolvedOrder{6}$        | $\rtqMathsFilledValue{30} \ \rtqMathsSolvedOrder{1}$           |
 
 
 </div>
@@ -7021,9 +7021,9 @@ Fill each missing value by calculating it from the numbers already given.
 
 |       | Left handed                                         | Right handed                                         | Total                                           |
 |-----|-----------                                        |------------                                        |-----                                          |
-| Boys  | &#36;\filledValue{8 - 3 = 5} \ \solvedOrder{9}&#36;         | &#36;\filledValue{22 - 13 = 9} \ \solvedOrder{8}&#36;        | &#36;\filledValue{30 - 16 = 14} \ \solvedOrder{7}&#36; |
-| Girls | &#36;\filledValue{16 - 13 = 3} \ \solvedOrder{5}&#36;       | &#36;\filledValue{13} \ \solvedOrder{4}&#36;                 | &#36;\filledValue{16} \ \solvedOrder{3}&#36;           |
-| Total | &#36;\filledValue{8} \ \solvedOrder{2}&#36;                 | &#36;\filledValue{30 - 8 = 22} \ \solvedOrder{6}&#36;        | &#36;\filledValue{30} \ \solvedOrder{1}&#36;           |
+| Boys  | &#36;\rtqMathsFilledValue{8 - 3 = 5} \ \rtqMathsSolvedOrder{9}&#36;         | &#36;\rtqMathsFilledValue{22 - 13 = 9} \ \rtqMathsSolvedOrder{8}&#36;        | &#36;\rtqMathsFilledValue{30 - 16 = 14} \ \rtqMathsSolvedOrder{7}&#36; |
+| Girls | &#36;\rtqMathsFilledValue{16 - 13 = 3} \ \rtqMathsSolvedOrder{5}&#36;       | &#36;\rtqMathsFilledValue{13} \ \rtqMathsSolvedOrder{4}&#36;                 | &#36;\rtqMathsFilledValue{16} \ \rtqMathsSolvedOrder{3}&#36;           |
+| Total | &#36;\rtqMathsFilledValue{8} \ \rtqMathsSolvedOrder{2}&#36;                 | &#36;\rtqMathsFilledValue{30 - 8 = 22} \ \rtqMathsSolvedOrder{6}&#36;        | &#36;\rtqMathsFilledValue{30} \ \rtqMathsSolvedOrder{1}&#36;           |
 
 &lt;/PaperTable&gt;
 

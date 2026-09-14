@@ -1,12 +1,12 @@
 export const RTQ_EQUATION_NUMBER_CLASS = "rtq-maths-equation-number" as const;
 
-export const RTQ_EQUATION_NUMBER_MACRO = "\\equationNumber" as const;
+export const RTQ_EQUATION_NUMBER_MACRO = "\\rtqMathsEquationNumber" as const;
 
 export const RTQ_EQUATION_NUMBER_EXPANSION =
   "\\htmlClass{rtq-maths-equation-number}{\\footnotesize{(#1)}}" as const;
 
 export const RTQ_COLUMNAR_ARITHMETIC_STYLE_MACRO =
-  "\\columnarArithmeticStyle" as const;
+  "\\rtqMathsColumnarArithmeticStyle" as const;
 
 export const RTQ_COLUMNAR_ARITHMETIC_STYLE_EXPANSION =
   "\\def\\arraystretch{1.5}" as const;

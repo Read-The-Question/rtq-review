@@ -254,7 +254,7 @@ Work out $825 - 573$.
 
 $
 \begin{array}{cccccccccccccc}
-    & {}^{\subtractBorrow{7}} \cancel{8} & {}^{\subtractBorrow{1}} 2 & 5 \\
+    & {}^{\rtqMathsSubtractBorrow{7}} \cancel{8} & {}^{\rtqMathsSubtractBorrow{1}} 2 & 5 \\
 {}- &   5   &   7   &   3 \\
 \hline
     &   2   &   5   &   2
@@ -305,7 +305,7 @@ $252$
 
 &#36;
 \begin{array}{cccccccccccccc}
-    & {}^{\subtractBorrow{7}} \cancel{8} & {}^{\subtractBorrow{1}} 2 & 5 \\
+    & {}^{\rtqMathsSubtractBorrow{7}} \cancel{8} & {}^{\rtqMathsSubtractBorrow{1}} 2 & 5 \\
 {}- &   5   &   7   &   3 \\
 \hline
     &   2   &   5   &   2
@@ -1576,7 +1576,7 @@ $
 &= (8 + 4) \times 6 - 5 \\\\
 &= 12 \times 6 - 5 \\\\
 &= 72 - 5 \\\\
-&= \filledValue{67}
+&= \rtqMathsFilledValue{67}
 \end{aligned}
 $
 
@@ -1660,7 +1660,7 @@ $(8 + 4) \times 6 - 5$
 &= (8 + 4) \times 6 - 5 \\\\
 &= 12 \times 6 - 5 \\\\
 &= 72 - 5 \\\\
-&= \filledValue{67}
+&= \rtqMathsFilledValue{67}
 \end{aligned}
 &#36;
 

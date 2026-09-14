@@ -2110,10 +2110,10 @@ Subtract $7$ each time.
 
 $
 \begin{matrix}
-&   \sequenceStep{-7}
-&&  \sequenceStep{-7}
-&&  \sequenceStep{-7}
-&&  \sequenceStep{-7}  \\
+&   \rtqMathsSequenceStep{-7}
+&&  \rtqMathsSequenceStep{-7}
+&&  \rtqMathsSequenceStep{-7}
+&&  \rtqMathsSequenceStep{-7}  \\
 47,  &&    40,  &&  33,  &&   26, && \ldots
 \end{matrix}
 $
@@ -2168,10 +2168,10 @@ Subtract &#36;7&#36; each time.
 
 &#36;
 \begin{matrix}
-&   \sequenceStep{-7}
-&&  \sequenceStep{-7}
-&&  \sequenceStep{-7}
-&&  \sequenceStep{-7}  \\
+&   \rtqMathsSequenceStep{-7}
+&&  \rtqMathsSequenceStep{-7}
+&&  \rtqMathsSequenceStep{-7}
+&&  \rtqMathsSequenceStep{-7}  \\
 47,  &&    40,  &&  33,  &&   26, && \ldots
 \end{matrix}
 &#36;
@@ -5555,7 +5555,7 @@ ABBR: Remember to line up the decimal points.
 
 $
 \begin{array}{cccccccccccccc}
-      &   & \addCarryOver {1} &   &   \\
+      &   & \rtqMathsAddCarryOver {1} &   &   \\
         &   4 \ .   &   6   &   7   &   9 \\
 {}+     &   2 \ .   &   1   &   5   &   0 \\
 \hline
@@ -5588,7 +5588,7 @@ $6.829$
 </div>
 <pre class="language-latex"><code class="language-latex">&#36;
 \begin{array}{cccccccccccccc}
-      &   & \addCarryOver {1} &   &   \\
+      &   & \rtqMathsAddCarryOver {1} &   &   \\
         &   4 \ .   &   6   &   7   &   9 \\
 {}+     &   2 \ .   &   1   &   5   &   0 \\
 \hline
@@ -7951,9 +7951,9 @@ So for the $40^\text{th}$ number, add $3$ a total of $40 - 1 = 39$ times.
 
 $
 \begin{matrix}
-&   \sequenceStep{+3}
-&&  \sequenceStep{+3}
-&&  \sequenceStep{+3}  \\
+&   \rtqMathsSequenceStep{+3}
+&&  \rtqMathsSequenceStep{+3}
+&&  \rtqMathsSequenceStep{+3}  \\
 10,  &&  13,  &&  16,  &&  19, && \ldots
 \end{matrix}
 $
@@ -8013,9 +8013,9 @@ So for the &#36;40^\text{th}&#36; number, add &#36;3&#36; a total of &#36;40 - 1
 
 &#36;
 \begin{matrix}
-&   \sequenceStep{+3}
-&&  \sequenceStep{+3}
-&&  \sequenceStep{+3}  \\
+&   \rtqMathsSequenceStep{+3}
+&&  \rtqMathsSequenceStep{+3}
+&&  \rtqMathsSequenceStep{+3}  \\
 10,  &&  13,  &&  16,  &&  19, && \ldots
 \end{matrix}
 &#36;

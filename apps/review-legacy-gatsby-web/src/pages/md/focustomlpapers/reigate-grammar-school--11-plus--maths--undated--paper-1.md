@@ -2606,11 +2606,11 @@ Multiply by $-2$ each time.
 
 $
 \begin{matrix}
-&   \sequenceStepBare{\times (-2)}
-&&  \sequenceStepBare{\times (-2)}
-&&  \sequenceStepBare{\times (-2)}
-&&  \sequenceStepBare{\times (-2)}
-&&  \sequenceStepBare{\times (-2)}  \\
+&   \rtqMathsSequenceStepBare{\times (-2)}
+&&  \rtqMathsSequenceStepBare{\times (-2)}
+&&  \rtqMathsSequenceStepBare{\times (-2)}
+&&  \rtqMathsSequenceStepBare{\times (-2)}
+&&  \rtqMathsSequenceStepBare{\times (-2)}  \\
 1, && -2, && 4, && -8, && \ldots, && \ldots
 \end{matrix}
 $
@@ -2674,11 +2674,11 @@ Multiply by &#36;-2&#36; each time.
 
 &#36;
 \begin{matrix}
-&   \sequenceStepBare{\times (-2)}
-&&  \sequenceStepBare{\times (-2)}
-&&  \sequenceStepBare{\times (-2)}
-&&  \sequenceStepBare{\times (-2)}
-&&  \sequenceStepBare{\times (-2)}  \\
+&   \rtqMathsSequenceStepBare{\times (-2)}
+&&  \rtqMathsSequenceStepBare{\times (-2)}
+&&  \rtqMathsSequenceStepBare{\times (-2)}
+&&  \rtqMathsSequenceStepBare{\times (-2)}
+&&  \rtqMathsSequenceStepBare{\times (-2)}  \\
 1, && -2, && 4, && -8, && \ldots, && \ldots
 \end{matrix}
 &#36;

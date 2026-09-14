@@ -163,6 +163,17 @@ test('the sticky toolbar keeps compact filter access with focus and return contr
   );
 });
 
+test('the sticky toolbar exposes common review outcomes as quick actions', async () => {
+  const component = await fs.readFile(componentUrl, 'utf8');
+
+  assert.match(component, /Looks good <kbd>g<\/kbd>/);
+  assert.match(component, /Make a change <kbd>r<\/kbd>/);
+  assert.match(component, /Change Complete <kbd>d<\/kbd>/);
+  assert.match(component, /Comment <kbd>c<\/kbd>/);
+  assert.match(component, /submitKeyboardOutcome\('PRCC'\)/);
+  assert.match(component, /key === 'r' \? 'PRCR' : 'PRCC'/);
+});
+
 test('reports the active outcome destination once in the page header', async () => {
   const [component, siteHeader] = await Promise.all([
     fs.readFile(componentUrl, 'utf8'),
@@ -293,10 +304,13 @@ test('keyboard review follows the exact visible node while outcomes stay top-lev
     /Enable question or answer review to use quick review/,
   );
   assert.match(component, /aria-label="Quick review actions"/);
-  assert.match(component, /key === 'g' \|\| key === 'r' \|\| key === 'c'/);
   assert.match(
     component,
-    /submitKeyboardOutcome\(key === 'g' \? 'PRG' : 'PRCR'\)/,
+    /key === 'g' \|\| key === 'r' \|\| key === 'd' \|\| key === 'c'/,
+  );
+  assert.match(
+    component,
+    /key === 'g' \? 'PRG' : key === 'r' \? 'PRCR' : 'PRCC'/,
   );
   assert.match(component, /role="dialog"/);
   assert.match(component, /aria-modal="true"/);

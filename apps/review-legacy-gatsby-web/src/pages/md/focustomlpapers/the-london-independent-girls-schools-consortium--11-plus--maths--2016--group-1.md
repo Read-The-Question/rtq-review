@@ -82,7 +82,7 @@ Work out $4689 + 2703$.
 
 $
 \begin{array}{cccccccccccccc}
-      & \addCarryOver {1} &   & \addCarryOver {1} &   \\
+      & \rtqMathsAddCarryOver {1} &   & \rtqMathsAddCarryOver {1} &   \\
     &    4    &    6    &    8    &    9 \\
 {}+ &    2    &    7    &    0    &    3 \\
 \hline
@@ -109,7 +109,7 @@ $7392$
 </div>
 <pre class="language-latex"><code class="language-latex">&#36;
 \begin{array}{cccccccccccccc}
-      & \addCarryOver {1} &   & \addCarryOver {1} &   \\
+      & \rtqMathsAddCarryOver {1} &   & \rtqMathsAddCarryOver {1} &   \\
     &    4    &    6    &    8    &    9 \\
 {}+ &    2    &    7    &    0    &    3 \\
 \hline
@@ -270,7 +270,7 @@ Work out $7305 - 946$.
 
 $
 \begin{array}{cccccccccccccc}
-    & {}^{\subtractBorrow{6}} \cancel{7} & {}^{\subtractBorrow{12}} \cancel{3} & {}^{\subtractBorrow{9}} \cancel{0} & {}^{\subtractBorrow{1}} 5 \\
+    & {}^{\rtqMathsSubtractBorrow{6}} \cancel{7} & {}^{\rtqMathsSubtractBorrow{12}} \cancel{3} & {}^{\rtqMathsSubtractBorrow{9}} \cancel{0} & {}^{\rtqMathsSubtractBorrow{1}} 5 \\
 {}-       &         &    9    &    4    &    6 \\
 \hline
           &    6    &    3    &    5    &    9
@@ -321,7 +321,7 @@ $6359$
 
 &#36;
 \begin{array}{cccccccccccccc}
-    & {}^{\subtractBorrow{6}} \cancel{7} & {}^{\subtractBorrow{12}} \cancel{3} & {}^{\subtractBorrow{9}} \cancel{0} & {}^{\subtractBorrow{1}} 5 \\
+    & {}^{\rtqMathsSubtractBorrow{6}} \cancel{7} & {}^{\rtqMathsSubtractBorrow{12}} \cancel{3} & {}^{\rtqMathsSubtractBorrow{9}} \cancel{0} & {}^{\rtqMathsSubtractBorrow{1}} 5 \\
 {}-       &         &    9    &    4    &    6 \\
 \hline
           &    6    &    3    &    5    &    9
@@ -493,7 +493,7 @@ Work out $3729 \times 6$.
 
 $
 \begin{array}{cccccccccccccc}
-    & \multiplyCarryOver {4} & \multiplyCarryOver {1} & \multiplyCarryOver {5} &  \\
+    & \rtqMathsMultiplyCarryOver {4} & \rtqMathsMultiplyCarryOver {1} & \rtqMathsMultiplyCarryOver {5} &  \\
         &    3     &   7    &   2   &    9 \\
 \times  &          &        &       &    6 \\
 \hline
@@ -520,7 +520,7 @@ $22374$
 </div>
 <pre class="language-latex"><code class="language-latex">&#36;
 \begin{array}{cccccccccccccc}
-    & \multiplyCarryOver {4} & \multiplyCarryOver {1} & \multiplyCarryOver {5} &  \\
+    & \rtqMathsMultiplyCarryOver {4} & \rtqMathsMultiplyCarryOver {1} & \rtqMathsMultiplyCarryOver {5} &  \\
         &    3     &   7    &   2   &    9 \\
 \times  &          &        &       &    6 \\
 \hline
@@ -1138,10 +1138,10 @@ Subtract $7$ each time.
 
 $
 \begin{matrix}
-&   \sequenceStep{-7}
-&&  \sequenceStep{-7}
-&&  \sequenceStep{-7}
-&&  \sequenceStep{-7}  \\
+&   \rtqMathsSequenceStep{-7}
+&&  \rtqMathsSequenceStep{-7}
+&&  \rtqMathsSequenceStep{-7}
+&&  \rtqMathsSequenceStep{-7}  \\
 83,  &&   76,  &&   69,  &&   62,  &&   \ldots
 \end{matrix}
 $
@@ -1196,10 +1196,10 @@ Subtract &#36;7&#36; each time.
 
 &#36;
 \begin{matrix}
-&   \sequenceStep{-7}
-&&  \sequenceStep{-7}
-&&  \sequenceStep{-7}
-&&  \sequenceStep{-7}  \\
+&   \rtqMathsSequenceStep{-7}
+&&  \rtqMathsSequenceStep{-7}
+&&  \rtqMathsSequenceStep{-7}
+&&  \rtqMathsSequenceStep{-7}  \\
 83,  &&   76,  &&   69,  &&   62,  &&   \ldots
 \end{matrix}
 &#36;
@@ -1778,7 +1778,7 @@ Write in numerals, the number that is *three hundred* less than *fourteen thousa
 
 $
 \begin{array}{cccccccccccccc}
-    &   1   &   {}^{\subtractBorrow{3}} \cancel{4}   &   {}^{\subtractBorrow{10}} 0   &   5   &   0 \\
+    &   1   &   {}^{\rtqMathsSubtractBorrow{3}} \cancel{4}   &   {}^{\rtqMathsSubtractBorrow{10}} 0   &   5   &   0 \\
 {}- &       &       &   3   &   0   &   0 \\
 \hline
     &   1   &   3   &   7   &   5   &   0
@@ -1829,7 +1829,7 @@ $13750$
 
 &#36;
 \begin{array}{cccccccccccccc}
-    &   1   &   {}^{\subtractBorrow{3}} \cancel{4}   &   {}^{\subtractBorrow{10}} 0   &   5   &   0 \\
+    &   1   &   {}^{\rtqMathsSubtractBorrow{3}} \cancel{4}   &   {}^{\rtqMathsSubtractBorrow{10}} 0   &   5   &   0 \\
 {}- &       &       &   3   &   0   &   0 \\
 \hline
     &   1   &   3   &   7   &   5   &   0
@@ -2031,7 +2031,7 @@ $
 </div>
 <div class="paper-working-section-body">
 
-$16 \times 7 \quad \boxedFilledValue{>} \quad 17 \times 6$
+$16 \times 7 \quad \rtqMathsBoxedFilledValue{>} \quad 17 \times 6$
 
 </div>
 </div>
@@ -2068,7 +2068,7 @@ $16 \times 7 > 17 \times 6$
 
 &lt;WorkingSection phase="conclusion" title="Answer"&gt;
 
-&#36;16 \times 7 \quad \boxedFilledValue{&gt;} \quad 17 \times 6&#36;
+&#36;16 \times 7 \quad \rtqMathsBoxedFilledValue{&gt;} \quad 17 \times 6&#36;
 
 &lt;/WorkingSection&gt;
 </code></pre>
@@ -5087,10 +5087,10 @@ The magic total is $2 + 5 + 8 = 15$.
 Fill each missing value so every row, column, and diagonal has total $15$.
 
 
-| $6$ | $\filledValue{15 - 6 - 2 = 7} \ \solvedOrder{1}$ | $2$ |
+| $6$ | $\rtqMathsFilledValue{15 - 6 - 2 = 7} \ \rtqMathsSolvedOrder{1}$ | $2$ |
 |---|-------------------------------------------------|---|
-| $\filledValue{15 - 6 - 8 = 1} \ \solvedOrder{2}$ | $5$ | $\filledValue{15 - 1 - 5 = 9} \ \solvedOrder{3}$ |
-| $8$ | $\filledValue{15 - 7 - 5 = 3} \ \solvedOrder{4}$ | $\filledValue{15 - 8 - 3 = 4} \ \solvedOrder{5}$ |
+| $\rtqMathsFilledValue{15 - 6 - 8 = 1} \ \rtqMathsSolvedOrder{2}$ | $5$ | $\rtqMathsFilledValue{15 - 1 - 5 = 9} \ \rtqMathsSolvedOrder{3}$ |
+| $8$ | $\rtqMathsFilledValue{15 - 7 - 5 = 3} \ \rtqMathsSolvedOrder{4}$ | $\rtqMathsFilledValue{15 - 8 - 3 = 4} \ \rtqMathsSolvedOrder{5}$ |
 
 
 </div>
@@ -5146,10 +5146,10 @@ Fill each missing value so every row, column, and diagonal has total &#36;15&#36
 
 &lt;PaperTable&gt;
 
-| &#36;6&#36; | &#36;\filledValue{15 - 6 - 2 = 7} \ \solvedOrder{1}&#36; | &#36;2&#36; |
+| &#36;6&#36; | &#36;\rtqMathsFilledValue{15 - 6 - 2 = 7} \ \rtqMathsSolvedOrder{1}&#36; | &#36;2&#36; |
 |---|-------------------------------------------------|---|
-| &#36;\filledValue{15 - 6 - 8 = 1} \ \solvedOrder{2}&#36; | &#36;5&#36; | &#36;\filledValue{15 - 1 - 5 = 9} \ \solvedOrder{3}&#36; |
-| &#36;8&#36; | &#36;\filledValue{15 - 7 - 5 = 3} \ \solvedOrder{4}&#36; | &#36;\filledValue{15 - 8 - 3 = 4} \ \solvedOrder{5}&#36; |
+| &#36;\rtqMathsFilledValue{15 - 6 - 8 = 1} \ \rtqMathsSolvedOrder{2}&#36; | &#36;5&#36; | &#36;\rtqMathsFilledValue{15 - 1 - 5 = 9} \ \rtqMathsSolvedOrder{3}&#36; |
+| &#36;8&#36; | &#36;\rtqMathsFilledValue{15 - 7 - 5 = 3} \ \rtqMathsSolvedOrder{4}&#36; | &#36;\rtqMathsFilledValue{15 - 8 - 3 = 4} \ \rtqMathsSolvedOrder{5}&#36; |
 
 &lt;/PaperTable&gt;
 
@@ -14882,10 +14882,10 @@ For the perimeter, count the outside edge units. The perimeter goes up by $4$ ea
 
 $
 \begin{matrix}
-& \sequenceStep{+2}
-&& \sequenceStep{+3}
-&& \sequenceStep{+4}
-&& \sequenceStep{+5} \\\\
+& \rtqMathsSequenceStep{+2}
+&& \rtqMathsSequenceStep{+3}
+&& \rtqMathsSequenceStep{+4}
+&& \rtqMathsSequenceStep{+5} \\\\
 1, && 3, && 6, && 10, && 15
 \end{matrix}
 $
@@ -14903,10 +14903,10 @@ $
 
 $
 \begin{matrix}
-& \sequenceStep{+4}
-&& \sequenceStep{+4}
-&& \sequenceStep{+4}
-&& \sequenceStep{+4} \\\\
+& \rtqMathsSequenceStep{+4}
+&& \rtqMathsSequenceStep{+4}
+&& \rtqMathsSequenceStep{+4}
+&& \rtqMathsSequenceStep{+4} \\\\
 4, && 8, && 12, && 16, && 20
 \end{matrix}
 $
@@ -14966,10 +14966,10 @@ For the perimeter, count the outside edge units. The perimeter goes up by &#36;4
 
 &#36;
 \begin{matrix}
-& \sequenceStep{+2}
-&& \sequenceStep{+3}
-&& \sequenceStep{+4}
-&& \sequenceStep{+5} \\\\
+& \rtqMathsSequenceStep{+2}
+&& \rtqMathsSequenceStep{+3}
+&& \rtqMathsSequenceStep{+4}
+&& \rtqMathsSequenceStep{+5} \\\\
 1, && 3, && 6, && 10, && 15
 \end{matrix}
 &#36;
@@ -14980,10 +14980,10 @@ For the perimeter, count the outside edge units. The perimeter goes up by &#36;4
 
 &#36;
 \begin{matrix}
-& \sequenceStep{+4}
-&& \sequenceStep{+4}
-&& \sequenceStep{+4}
-&& \sequenceStep{+4} \\\\
+& \rtqMathsSequenceStep{+4}
+&& \rtqMathsSequenceStep{+4}
+&& \rtqMathsSequenceStep{+4}
+&& \rtqMathsSequenceStep{+4} \\\\
 4, && 8, && 12, && 16, && 20
 \end{matrix}
 &#36;

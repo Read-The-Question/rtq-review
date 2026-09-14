@@ -4,25 +4,32 @@
 const rtqKatexMacros = {
   // RTQ content macros are real KaTeX macros, so they only apply inside math
   // blocks. Keep non-math scaffolding placeholders in the Rukian pipeline.
-  // "\\addCarryOver": "\\scriptstyle \\grayF",
-  // "\\multiplyCarryOver": "\\scriptstyle \\grayF",
-  // "\\subtractBorrow": "\\textstyle \\green",
-  // "\\addCarryOver": "\\textstyle \\grayF",
-  // "\\multiplyCarryOver": "{}^{\\scriptstyle \\grayF}{#1}",
-  // "\\multiplyCarryOver": "\\mkern-9mu{\\scriptstyle \\grayF{#1}}",
-  "\\addCarryOver": "\\scriptstyle \\grayF",
-  "\\multiplyCarryOver": "\\scriptstyle \\grayF{#1}",
-  "\\subtractBorrow": "\\textstyle \\green",
+  // "\\rtqMathsAddCarryOver": "\\scriptstyle \\grayF",
+  // "\\rtqMathsMultiplyCarryOver": "\\scriptstyle \\grayF",
+  // "\\rtqMathsSubtractBorrow": "\\textstyle \\green",
+  // "\\rtqMathsAddCarryOver": "\\textstyle \\grayF",
+  // "\\rtqMathsMultiplyCarryOver": "{}^{\\scriptstyle \\grayF}{#1}",
+  // "\\rtqMathsMultiplyCarryOver": "\\mkern-9mu{\\scriptstyle \\grayF{#1}}",
+  "\\rtqMathsAddCarryOver": "\\scriptstyle \\grayF",
+  "\\rtqMathsMultiplyCarryOver": "\\scriptstyle \\grayF{#1}",
+  "\\rtqMathsSubtractBorrow": "\\textstyle \\green",
   "\\maroonC": "\\textcolor{##ed5fa6}{#1}",
-  "\\sequenceStep": "\\maroonC{\\footnotesize{(#1)}}",
-  "\\sequenceStepBare": "\\maroonC{\\footnotesize{#1}}",
-  "\\filledValue": "\\textcolor{green}{#1}",
-  "\\incorrectValue": "\\textcolor{red}{#1}",
-  "\\boxedFilledValue": "\\boxed{\\filledValue{#1}}",
-  "\\solvedOrder": "\\maroonC{\\footnotesize{(#1)}}",
-  "\\solvedOrderPhantom": "\\phantom{\\maroonC{\\footnotesize{(#1)}}}",
-  "\\columnarArithmeticStyle": "\\def\\arraystretch{1.5}",
+  "\\rtqMathsSequenceStep": "\\maroonC{\\footnotesize{(#1)}}",
+  "\\rtqMathsSequenceStepBare": "\\maroonC{\\footnotesize{#1}}",
+  "\\rtqMathsFilledValue": "\\textcolor{green}{#1}",
+  "\\rtqMathsIncorrectValue": "\\textcolor{red}{#1}",
+  "\\rtqMathsBoxedFilledValue": "\\boxed{\\rtqMathsFilledValue{#1}}",
+  "\\rtqMathsBoxedEmptyValue": "\\boxed{\\phantom{9}}",
+  "\\rtqMathsSolvedOrder": "\\maroonC{\\footnotesize{(#1)}}",
+  "\\rtqMathsSolvedOrderPhantom": "\\phantom{\\maroonC{\\footnotesize{(#1)}}}",
+  "\\rtqMathsEquationNumber":
+    "\\htmlClass{rtq-maths-equation-number}{\\footnotesize{(#1)}}",
+  "\\rtqMathsColumnarArithmeticStyle": "\\def\\arraystretch{1.5}",
 };
+
+const trustRtqKatex = (context) =>
+  context.command === "\\htmlClass" &&
+  context.class === "rtq-maths-equation-number";
 
 module.exports = {
   siteMetadata: {
@@ -44,9 +51,11 @@ module.exports = {
             resolve: `gatsby-remark-katex`,
             options: {
               // Add any KaTeX options from https://github.com/KaTeX/KaTeX/blob/master/docs/options.md here
-              strict: `warn`,
+              strict: (errorCode) =>
+                errorCode === "htmlExtension" ? "ignore" : "warn",
               throwOnError: false,
               macros: rtqKatexMacros,
+              trust: trustRtqKatex,
             },
           },
 

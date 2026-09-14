@@ -12,7 +12,9 @@ import {
   type GlobalReviewFindingRepository,
 } from "./global-review-findings.ts";
 import {
+  createReviewCommentReader,
   createReviewCommentRepository,
+  type ReviewCommentReader,
   type ReviewCommentRepository,
 } from "./review-comments.ts";
 import {
@@ -42,6 +44,13 @@ type OpenReviewOutcomeReaderOptions = Readonly<{
   databasePath?: string;
 }>;
 
+type OpenReviewCommentReaderOptions = Readonly<{
+  databasePath?: string;
+}>;
+
+export type OpenReviewCommentReader = ReviewCommentReader &
+  Readonly<{ close: () => void }>;
+
 export type OpenReviewOutcomeReader = ReviewOutcomeReader &
   Readonly<{ close: () => void }>;
 
@@ -57,6 +66,8 @@ export const REVIEW_MIGRATIONS_FOLDER = path.join(
   "review-store",
   "drizzle",
 );
+
+const REVIEW_STORE_RUNTIME_VERSION = 2;
 
 export function openReviewStore(
   options: OpenReviewStoreOptions = {},
@@ -122,16 +133,51 @@ export function openReviewOutcomeReader(
   }
 }
 
+export function openReviewCommentReader(
+  options: OpenReviewCommentReaderOptions = {},
+): OpenReviewCommentReader {
+  const databasePath = options.databasePath ?? REVIEW_DATABASE_PATH;
+  let sqlite: Database.Database | undefined;
+  try {
+    sqlite = new Database(databasePath, {
+      fileMustExist: true,
+      readonly: true,
+    });
+    const connection = sqlite;
+    return {
+      close: () => connection.close(),
+      ...createReviewCommentReader(connection),
+    };
+  } catch (error) {
+    try {
+      sqlite?.close();
+    } catch {
+      // The recoverable error below is sufficient for callers.
+    }
+    throw new ReviewDatabaseError(
+      "The review comment reader is unavailable. Check that the tracked rtq-review database exists and its migrations are current.",
+      { cause: error },
+    );
+  }
+}
+
 declare global {
   var __rtqReviewStore: ReviewStore | undefined;
+  var __rtqReviewStoreRuntimeVersion: number | undefined;
 }
 
 export function getReviewStore(): ReviewStore {
   const existing = globalThis.__rtqReviewStore;
-  if (existing && !Object.hasOwn(existing, "findings")) {
+  if (
+    existing &&
+    globalThis.__rtqReviewStoreRuntimeVersion !== REVIEW_STORE_RUNTIME_VERSION
+  ) {
     existing.close();
     globalThis.__rtqReviewStore = undefined;
   }
-  globalThis.__rtqReviewStore ??= openReviewStore();
+  if (!globalThis.__rtqReviewStore) {
+    globalThis.__rtqReviewStore = openReviewStore();
+    globalThis.__rtqReviewStoreRuntimeVersion = REVIEW_STORE_RUNTIME_VERSION;
+  }
   return globalThis.__rtqReviewStore;
 }

@@ -55,7 +55,6 @@ export const reviewComments = sqliteTable(
   {
     id: text("id").primaryKey(),
     submissionId: text("submission_id").notNull(),
-    questionId: text("rtq_question_id"),
     uuid: text("rtq_uuid").notNull(),
     side: text("side", { enum: ["question", "answer"] }).notNull(),
     ragState: text("rag_state").notNull(),
@@ -71,7 +70,6 @@ export const reviewComments = sqliteTable(
     uniqueIndex("review_comments_submission_id_unique").on(table.submissionId),
     index("review_comments_identity_state_created_idx").on(
       table.uuid,
-      table.questionId,
       table.side,
       table.ragState,
       table.createdAt,

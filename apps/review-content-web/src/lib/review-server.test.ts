@@ -160,7 +160,6 @@ test('partitions current and historical comments by exact side and state', () =>
       comment: 'New state',
       createdAt: '2026-09-06T10:00:00.000Z',
       id: 'c2',
-      questionId: 'paper:1:1',
       ragState: 'rag_wf_ng4',
       reviewer: 'up',
       side: 'question' as const,
@@ -171,7 +170,6 @@ test('partitions current and historical comments by exact side and state', () =>
       comment: 'Current state',
       createdAt: '2026-09-06T09:00:00.000Z',
       id: 'c1',
-      questionId: 'paper:1:1',
       ragState: 'rag_wf_ng3',
       reviewer: 'wf',
       side: 'question' as const,
@@ -182,7 +180,6 @@ test('partitions current and historical comments by exact side and state', () =>
       comment: 'Latest current-state feedback',
       createdAt: '2026-09-06T11:00:00.000Z',
       id: 'c3',
-      questionId: 'paper:1:1',
       ragState: 'rag_wf_ng3',
       reviewer: 'ap',
       side: 'question' as const,
@@ -193,7 +190,6 @@ test('partitions current and historical comments by exact side and state', () =>
       comment: 'Older previous-state feedback',
       createdAt: '2026-09-06T07:00:00.000Z',
       id: 'c4',
-      questionId: 'paper:1:1',
       ragState: 'rag_wf_ng2',
       reviewer: 'ap',
       side: 'question' as const,
@@ -204,7 +200,6 @@ test('partitions current and historical comments by exact side and state', () =>
       comment: 'Other side',
       createdAt: '2026-09-06T08:00:00.000Z',
       id: 'c0',
-      questionId: 'paper:1:1',
       ragState: 'rag_wf_ng3',
       reviewer: 'wf',
       side: 'answer' as const,
@@ -212,15 +207,14 @@ test('partitions current and historical comments by exact side and state', () =>
       uuid: target.uuid,
     },
     {
-      comment: 'Other question identity',
+      comment: 'Other UUID',
       createdAt: '2026-09-06T08:30:00.000Z',
       id: 'c00',
-      questionId: 'paper:1:2',
       ragState: 'rag_wf_ng3',
       reviewer: 'wf',
       side: 'question' as const,
       submissionId: 's00',
-      uuid: target.uuid,
+      uuid: 'AAAAAAAA-AAAA-4AAA-8AAA-AAAAAAAAAAAA',
     },
   ];
   const groups = partitionReviewComments(comments, target);
@@ -232,6 +226,33 @@ test('partitions current and historical comments by exact side and state', () =>
     groups.history.map((comment) => comment.id),
     ['c2', 'c4'],
   );
+});
+
+test('matches comments across canonical and derived paper projections', () => {
+  const comment = {
+    comment: 'Projection-independent feedback',
+    createdAt: '2026-09-06T09:00:00.000Z',
+    id: 'projection-comment',
+    ragState: target.ragState,
+    reviewer: 'up',
+    side: target.side,
+    submissionId: 'projection-submission',
+    uuid: target.uuid,
+  };
+  const canonicalTarget = { ...target, questionId: null };
+  const topicTarget = {
+    ...target,
+    questionId: 'source-paper:1:1',
+    relativePath: 'topicpapers_math.operation.addition_1.toml',
+  };
+
+  assert.deepEqual(
+    partitionReviewComments([comment], canonicalTarget).current,
+    [comment],
+  );
+  assert.deepEqual(partitionReviewComments([comment], topicTarget).current, [
+    comment,
+  ]);
 });
 
 test('uses each nested node UUID and only inherits RAG from its top-level question', () => {

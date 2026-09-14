@@ -28,14 +28,17 @@ export type WorkingSectionParseResult = Readonly<{
   segments?: readonly ParsedWorkingSegment[];
 }>;
 
-const ATTRIBUTE = /([A-Za-z][A-Za-z0-9_-]*)\s*=\s*["']([^"']*)["']/g;
+const ATTRIBUTE = /([A-Za-z][A-Za-z0-9_-]*)\s*=\s*(?:"([^"]*)"|'([^']*)')/g;
 const OPENING = /^\s*<WorkingSection\b([^>]*)>\s*$/;
 const CLOSING = /^\s*<\/WorkingSection>\s*$/;
 const PHASES = new Set<string>(WORKING_SECTION_PHASES);
 
 function attributes(value: string): Readonly<Record<string, string>> {
   return Object.fromEntries(
-    [...value.matchAll(ATTRIBUTE)].map((match) => [match[1], match[2]]),
+    [...value.matchAll(ATTRIBUTE)].map((match) => [
+      match[1],
+      match[2] ?? match[3] ?? '',
+    ]),
   );
 }
 

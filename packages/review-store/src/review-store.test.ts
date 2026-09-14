@@ -54,7 +54,6 @@ test("comments remain durable, chronological, idempotent, and state scoped", () 
   });
   const firstInput = {
     comment: "Check the unit conversion.",
-    questionId: "paper:1:1",
     ragState: "rag_wf_ng3",
     reviewer: "up",
     side: "question" as const,
@@ -78,7 +77,6 @@ test("comments remain durable, chronological, idempotent, and state scoped", () 
   store.comments.append({
     ...firstInput,
     comment: "Nested-node feedback.",
-    questionId: null,
     submissionId: "submission-nested",
     uuid: "uuid-nested",
   });
@@ -89,9 +87,7 @@ test("comments remain durable, chronological, idempotent, and state scoped", () 
   assert.equal(second.created, true);
   assert.deepEqual(
     store.comments
-      .listForTargets([
-        { questionId: "paper:1:1", side: "question", uuid: "uuid-1" },
-      ])
+      .listForTargets([{ side: "question", uuid: "uuid-1" }])
       .map((comment) => [comment.comment, comment.ragState]),
     [
       ["Check the unit conversion.", "rag_wf_ng3"],
@@ -100,9 +96,7 @@ test("comments remain durable, chronological, idempotent, and state scoped", () 
   );
   assert.deepEqual(
     store.comments
-      .listForTargets([
-        { questionId: null, side: "question", uuid: "uuid-nested" },
-      ])
+      .listForTargets([{ side: "question", uuid: "uuid-nested" }])
       .map((comment) => comment.comment),
     ["Nested-node feedback."],
   );
@@ -110,17 +104,14 @@ test("comments remain durable, chronological, idempotent, and state scoped", () 
 
   const reloaded = openReviewStore({ databasePath });
   assert.equal(
-    reloaded.comments.listForTargets([
-      { questionId: "paper:1:1", side: "question", uuid: "uuid-1" },
-    ]).length,
+    reloaded.comments.listForTargets([{ side: "question", uuid: "uuid-1" }])
+      .length,
     2,
   );
   reloaded.close();
   assert.throws(
     () =>
-      reloaded.comments.listForTargets([
-        { questionId: "paper:1:1", side: "question", uuid: "uuid-1" },
-      ]),
+      reloaded.comments.listForTargets([{ side: "question", uuid: "uuid-1" }]),
     ReviewDatabaseError,
   );
   rmSync(directory, { force: true, recursive: true });
@@ -176,9 +167,18 @@ test("upgrades the existing comment schema without rewriting stored comments", (
   const upgraded = openReviewStore({ databasePath });
   assert.equal(
     upgraded.comments.listForTargets([
-      { questionId: "paper:1:1", side: "question", uuid: "uuid-existing" },
+      { side: "question", uuid: "uuid-existing" },
     ])[0]?.comment,
     "Preserve this existing row.",
+  );
+  const inspectionDatabase = new Database(databasePath, { readonly: true });
+  const columns = inspectionDatabase
+    .prepare("pragma table_info(review_comments)")
+    .all() as { name: string }[];
+  inspectionDatabase.close();
+  assert.equal(
+    columns.some(({ name }) => name === "rtq_question_id"),
+    false,
   );
   assert.deepEqual(upgraded.outcomes.listAll(), []);
   assert.deepEqual(upgraded.findings.listTodo(), []);
@@ -190,7 +190,6 @@ test("comments reject a reused submission ID with different content", () => {
   const store = openReviewStore({ databasePath: ":memory:" });
   const input = {
     comment: "First comment",
-    questionId: "q1",
     ragState: "rag_wf_g2",
     reviewer: "up",
     side: "answer" as const,

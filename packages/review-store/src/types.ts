@@ -52,10 +52,14 @@ export function isReviewOutcome(value: unknown): value is ReviewOutcome {
 }
 
 export type ReviewTargetIdentity = Readonly<{
-  questionId: string | null;
   side: ReviewSide;
   uuid: string;
 }>;
+
+export type ReviewCommentTarget = ReviewTargetIdentity &
+  Readonly<{
+    ragState: string;
+  }>;
 
 export type LocalReviewComment = ReviewTargetIdentity &
   Readonly<{

@@ -1,6 +1,6 @@
 # Review outcome workflow
 
-Status: living architecture, updated 10 September 2026.
+Status: living architecture, updated 14 September 2026.
 
 This document describes how Review Content Web records review decisions and how
 those decisions later change canonical paper TOML. It is intentionally a living
@@ -20,6 +20,7 @@ still applies to the current canonical state and, if it does, updates TOML.
 | RAG vocabulary and transition policy                 | `rtq-content/packages/papers`        | `docs/architecture/rag-states.md`, `scripts/papers/lib/reader/rag_reader.rb`, and `scripts/papers/lib/rag_review_sync.rb` |
 | Review comments and database outcomes                | `rtq-review/packages/review-store`   | `database/review-content.sqlite` through `@rtq/review-store/server`                                                       |
 | Reviewer interaction and live-target validation      | `rtq-review/apps/review-content-web` | The current canonical paper read from the active `rtq-content` checkout                                                   |
+| Comment resolution across repositories               | `rtq-review/packages/review-store`   | The versioned `review-comments:resolve` standard-input/standard-output contract                                           |
 | Outcome resolution across repositories               | `rtq-review/packages/review-store`   | The versioned `review-outcomes:resolve` standard-input/standard-output contract                                           |
 | TOML inventory, transition calculation, and mutation | `rtq-content/packages/papers`        | `scripts/papers/lib/database_review_sync.rb` and the shared RAG transition engine                                         |
 
@@ -242,6 +243,14 @@ Nested question nodes can have their own comment identity and inherit the
 containing top-level side state. Outcome submission and canonical sync remain
 limited to the top-level review targets currently supported by Review Content
 Web.
+
+Comment identity is the node UUID plus review side. The stored RAG state is the
+reviewed content-state snapshot used to distinguish current feedback from
+history. `rtq-question-id`, collection, and file path describe a particular
+paper projection and must never qualify comment lookup. Cross-repository
+consumers resolve exact current-state comments through the read-only
+`pnpm --silent review-comments:resolve` contract using only UUID, side, and RAG
+state.
 
 ## Database ownership and migrations
 

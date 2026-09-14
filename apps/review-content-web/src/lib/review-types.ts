@@ -220,11 +220,7 @@ export function partitionReviewComments(
   history: readonly LocalReviewComment[];
 }> {
   const matching = comments
-    .filter(
-      (comment) =>
-        comment.questionId === target.questionId &&
-        reviewTargetKey(comment) === reviewTargetKey(target),
-    )
+    .filter((comment) => reviewTargetKey(comment) === reviewTargetKey(target))
     .toSorted(
       (left, right) =>
         right.createdAt.localeCompare(left.createdAt) ||

@@ -1,5 +1,6 @@
 export {
   ReviewCommentConflictError,
+  ReviewCommentRequestError,
   ReviewDatabaseError,
   ReviewFindingConflictError,
   ReviewOutcomeRequestError,
@@ -13,8 +14,19 @@ export type {
 } from "./global-review-findings.ts";
 export type {
   AppendReviewComment,
+  ReviewCommentReader,
   ReviewCommentRepository,
 } from "./review-comments.ts";
+export {
+  parseReviewCommentResolutionRequest,
+  resolveReviewCommentRequest,
+  resolveReviewCommentRequestJson,
+  REVIEW_COMMENT_RESOLUTION_SCHEMA_VERSION,
+} from "./review-comment-resolution.ts";
+export type {
+  ReviewCommentResolutionRequest,
+  ReviewCommentResolutionResponse,
+} from "./review-comment-resolution.ts";
 export {
   parseReviewOutcomeResolutionRequest,
   resolveReviewOutcomeRequest,
@@ -31,14 +43,20 @@ export type {
 } from "./review-outcomes.ts";
 export {
   getReviewStore,
+  openReviewCommentReader,
   openReviewOutcomeReader,
   openReviewStore,
 } from "./review-store.ts";
-export type { OpenReviewStoreOptions, ReviewStore } from "./review-store.ts";
+export type {
+  OpenReviewCommentReader,
+  OpenReviewStoreOptions,
+  ReviewStore,
+} from "./review-store.ts";
 export type {
   GlobalReviewFinding,
   GlobalReviewFindingStatus,
   LocalReviewComment,
+  ReviewCommentTarget,
   ReviewOutcome,
   ReviewOutcomeTarget,
   ReviewSide,

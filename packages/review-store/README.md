@@ -25,6 +25,41 @@ provenance, `listTodo` returns only the active inbox in chronological order,
 and `markProcessed` atomically records `processedAt` and `processedBy`. There is
 no Jira URL field; external consumers own any onward Jira mapping.
 
+## Resolve current-state comments
+
+Comments are identified by the question node's UUID and review side. Their RAG
+state records the content-state snapshot against which the feedback was made.
+Paper collection, file path, and `rtq-question-id` are not comment identity, so
+the same comment resolves from canonical TOML and every derived paper
+projection containing that UUID.
+
+Cross-repository consumers use the read-only, versioned resolver rather than
+opening SQLite or importing the writable repository:
+
+```sh
+pnpm --silent review-comments:resolve
+```
+
+It accepts a JSON request on standard input:
+
+```json
+{
+  "schemaVersion": 1,
+  "targets": [
+    {
+      "uuid": "QUESTION-UUID",
+      "side": "answer",
+      "ragState": "rag_wf_ng3"
+    }
+  ]
+}
+```
+
+The response contains every matching append-only comment in deterministic
+chronological order. No match is represented by an empty `matches` array. The
+resolver opens the tracked database read-only and does not inspect TOML, run
+migrations, or change any stored data.
+
 ## Resolve current-state outcomes
 
 The read-only resolution command accepts one versioned JSON request on standard

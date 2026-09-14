@@ -157,8 +157,9 @@ transition trigger.
 
 Comments never call `review-api`. They are appended through Drizzle to
 `<rtq-review>/database/review-content.sqlite`. Every question, subquestion, and
-sub-subquestion uses its own UUID for feedback; its own `rtq-question-id` is
-retained only when present. Nested nodes inherit only the corresponding
+sub-subquestion uses its own UUID and review side for feedback. Collection,
+paper path, and `rtq-question-id` are verified submission context but are not
+persisted comment identity. Nested nodes inherit only the corresponding
 question or answer RAG state from their containing top-level question.
 Current-state comments appear against their exact node by default; **Show
 previous feedback** also reveals earlier-state history. Feedback uses a

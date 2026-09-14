@@ -51,6 +51,36 @@ Hidden explanation.
   });
 });
 
+test('preserves quotes that differ from the attribute delimiter', () => {
+  assert.deepEqual(
+    parseWorkingSections(`<WorkingSection phase="solve" title="Sam's age">
+First stage.
+</WorkingSection>
+
+<WorkingSection phase='verify' title='Check the "quoted" result'>
+Second stage.
+</WorkingSection>`),
+    {
+      segments: [
+        {
+          kind: 'section',
+          markdown: 'First stage.',
+          phase: 'solve',
+          title: "Sam's age",
+          visibility: 'visible',
+        },
+        {
+          kind: 'section',
+          markdown: 'Second stage.',
+          phase: 'verify',
+          title: 'Check the "quoted" result',
+          visibility: 'visible',
+        },
+      ],
+    },
+  );
+});
+
 test('leaves flat working content unstructured', () => {
   assert.deepEqual(parseWorkingSections('A short direct calculation.'), {});
   assert.deepEqual(

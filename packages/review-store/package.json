@@ -8,13 +8,14 @@
     "./types": "./src/types.ts"
   },
   "scripts": {
+    "comments:resolve": "node --no-warnings --experimental-strip-types src/resolve-review-comments-cli.ts",
     "database:tracking:check": "node scripts/database-tracking-check.mjs",
     "database:migrate": "node --no-warnings --experimental-strip-types src/migrate-database.ts",
     "db:generate": "drizzle-kit generate --config drizzle.config.ts",
     "format:check": "prettier --check .",
     "format:fix": "prettier --write .",
     "outcomes:resolve": "node --no-warnings --experimental-strip-types src/resolve-review-outcomes-cli.ts",
-    "test": "node --no-warnings --test --experimental-strip-types src/review-store.test.ts src/review-outcome-resolution.test.ts",
+    "test": "node --no-warnings --test --experimental-strip-types src/review-store.test.ts src/review-comment-resolution.test.ts src/review-outcome-resolution.test.ts",
     "types": "tsc --noEmit"
   },
   "dependencies": {

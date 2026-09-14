@@ -45,7 +45,6 @@ export function reviewCommentIdentitiesForPaper(
           return target
             ? [
                 {
-                  questionId: target.questionId,
                   side: target.side,
                   uuid: target.uuid,
                 },
@@ -94,7 +93,6 @@ export async function appendVerifiedReviewComment(
     const repository = dependencies.repository ?? getReviewStore().comments;
     return repository.append({
       comment: input.comment,
-      questionId: target.questionId,
       ragState: target.ragState,
       reviewer: input.reviewer,
       side: target.side,

@@ -12,6 +12,13 @@ export class ReviewCommentConflictError extends Error {
   }
 }
 
+export class ReviewCommentRequestError extends Error {
+  constructor(message: string) {
+    super(message);
+    this.name = "ReviewCommentRequestError";
+  }
+}
+
 export class ReviewFindingConflictError extends Error {
   constructor() {
     super("That submission ID is already associated with another finding.");

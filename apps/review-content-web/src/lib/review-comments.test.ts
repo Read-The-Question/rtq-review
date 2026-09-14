@@ -25,7 +25,6 @@ test('returns an appended comment immediately and maps store failures safely', a
     comment: 'Local only',
     createdAt: '2026-09-06T10:00:00.000Z',
     id: 'comment-1',
-    questionId: target.questionId,
     ragState: target.ragState,
     reviewer: 'up',
     side: target.side,

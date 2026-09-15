@@ -1,7 +1,9 @@
-export const REVIEW_PREFERENCES_KEY = 'rtq.review-content.preferences.v4';
+export const REVIEW_PREFERENCES_KEY = 'rtq.review-content.preferences.v5';
 export const PREVIOUS_REVIEW_PREFERENCES_KEY =
-  'rtq.review-content.preferences.v3';
+  'rtq.review-content.preferences.v4';
 export const LEGACY_REVIEW_PREFERENCES_KEY =
+  'rtq.review-content.preferences.v3';
+export const EARLIER_REVIEW_PREFERENCES_KEY =
   'rtq.review-content.preferences.v2';
 export const INITIAL_REVIEW_PREFERENCES_KEY =
   'rtq.review-content.preferences.v1';
@@ -11,11 +13,9 @@ export type VisibleReviewSide = 'answer' | 'question';
 
 export type ReviewPreferences = Readonly<{
   reviewControlMode: ReviewControlMode;
-  reviewTargetSide: VisibleReviewSide;
-  showAnswerFeedback: boolean;
-  showAnswerReview: boolean;
-  showQuestionFeedback: boolean;
-  showQuestionReview: boolean;
+  reviewSide: VisibleReviewSide;
+  showFeedback: boolean;
+  showInlineReview: boolean;
   showRaw: boolean;
   showSolutions: boolean;
   showStatusBackground: boolean;
@@ -24,11 +24,9 @@ export type ReviewPreferences = Readonly<{
 
 export const DEFAULT_REVIEW_PREFERENCES: ReviewPreferences = {
   reviewControlMode: 'simple',
-  reviewTargetSide: 'answer',
-  showAnswerFeedback: true,
-  showAnswerReview: true,
-  showQuestionFeedback: false,
-  showQuestionReview: false,
+  reviewSide: 'answer',
+  showFeedback: true,
+  showInlineReview: true,
   showRaw: false,
   showSolutions: true,
   showStatusBackground: false,
@@ -53,12 +51,15 @@ export function parseReviewPreferences(
   value: string | null,
   previousValue: string | null = null,
   legacyValue: string | null = null,
+  earlierValue: string | null = null,
   initialValue: string | null = null,
 ): ReviewPreferences {
   const parsed = parsePreferenceRecord(value);
   const previous = parsePreferenceRecord(previousValue);
   const legacy = parsePreferenceRecord(legacyValue);
+  const earlier = parsePreferenceRecord(earlierValue);
   const initial = parsePreferenceRecord(initialValue);
+  const records = [parsed, previous, legacy, earlier, initial];
   const oldReviewPreference =
     typeof parsed?.showReview === 'boolean'
       ? parsed.showReview
@@ -66,9 +67,11 @@ export function parseReviewPreferences(
         ? previous.showReview
         : typeof legacy?.showReview === 'boolean'
           ? legacy.showReview
-          : typeof initial?.showReview === 'boolean'
-            ? initial.showReview
-            : undefined;
+          : typeof earlier?.showReview === 'boolean'
+            ? earlier.showReview
+            : typeof initial?.showReview === 'boolean'
+              ? initial.showReview
+              : undefined;
 
   function preference(
     key: keyof ReviewPreferences,
@@ -77,46 +80,87 @@ export function parseReviewPreferences(
     const currentPreference = parsed?.[key];
     const previousPreference = previous?.[key];
     const legacyPreference = legacy?.[key];
+    const earlierPreference = earlier?.[key];
     const initialPreference = initial?.[key];
     if (typeof currentPreference === 'boolean') return currentPreference;
     if (typeof previousPreference === 'boolean') return previousPreference;
     if (typeof legacyPreference === 'boolean') return legacyPreference;
+    if (typeof earlierPreference === 'boolean') return earlierPreference;
     if (typeof initialPreference === 'boolean') return initialPreference;
     return fallback;
+  }
+
+  function legacySide(): VisibleReviewSide {
+    for (const record of records) {
+      const requestedSide = record?.reviewSide ?? record?.reviewTargetSide;
+      if (requestedSide === 'answer' || requestedSide === 'question') {
+        return requestedSide;
+      }
+      if (
+        record?.showQuestionReview === true &&
+        record?.showAnswerReview !== true
+      ) {
+        return 'question';
+      }
+      if (
+        record?.showAnswerReview === true &&
+        record?.showQuestionReview !== true
+      ) {
+        return 'answer';
+      }
+      if (
+        record?.showQuestionFeedback === true &&
+        record?.showAnswerFeedback !== true
+      ) {
+        return 'question';
+      }
+      if (
+        record?.showAnswerFeedback === true &&
+        record?.showQuestionFeedback !== true
+      ) {
+        return 'answer';
+      }
+    }
+    return DEFAULT_REVIEW_PREFERENCES.reviewSide;
+  }
+
+  function legacySidePreference(
+    side: VisibleReviewSide,
+    suffix: 'Feedback' | 'Review',
+  ): boolean | undefined {
+    const key = `show${side === 'question' ? 'Question' : 'Answer'}${suffix}`;
+    for (const record of records) {
+      const requested = record?.[key];
+      if (typeof requested === 'boolean') return requested;
+    }
+    return undefined;
   }
 
   const requestedControlMode =
     parsed?.reviewControlMode ??
     previous?.reviewControlMode ??
     legacy?.reviewControlMode ??
+    earlier?.reviewControlMode ??
     initial?.reviewControlMode;
-  const requestedReviewTargetSide = parsed?.reviewTargetSide;
-  const showAnswerReview = preference(
-    'showAnswerReview',
-    oldReviewPreference ?? DEFAULT_REVIEW_PREFERENCES.showAnswerReview,
-  );
-  const showQuestionReview =
-    typeof parsed?.showQuestionReview === 'boolean'
-      ? parsed.showQuestionReview
-      : DEFAULT_REVIEW_PREFERENCES.showQuestionReview;
+  const reviewSide = legacySide();
 
   return {
     reviewControlMode:
       requestedControlMode === 'advanced' || requestedControlMode === 'simple'
         ? requestedControlMode
         : DEFAULT_REVIEW_PREFERENCES.reviewControlMode,
-    reviewTargetSide:
-      requestedReviewTargetSide === 'answer' ||
-      requestedReviewTargetSide === 'question'
-        ? requestedReviewTargetSide
-        : DEFAULT_REVIEW_PREFERENCES.reviewTargetSide,
-    showAnswerFeedback: preference('showAnswerFeedback', showAnswerReview),
-    showAnswerReview,
-    showQuestionFeedback: preference(
-      'showQuestionFeedback',
-      showQuestionReview,
+    reviewSide,
+    showFeedback: preference(
+      'showFeedback',
+      legacySidePreference(reviewSide, 'Feedback') ??
+        DEFAULT_REVIEW_PREFERENCES.showFeedback,
     ),
-    showQuestionReview,
+    showInlineReview: preference(
+      'showInlineReview',
+      legacySidePreference(reviewSide, 'Review') ??
+        oldReviewPreference ??
+        DEFAULT_REVIEW_PREFERENCES.showInlineReview,
+    ),
     showRaw: preference('showRaw', DEFAULT_REVIEW_PREFERENCES.showRaw),
     showSolutions: preference(
       'showSolutions',
@@ -133,19 +177,19 @@ export function parseReviewPreferences(
 export function visibleReviewSides(
   preferences: ReviewPreferences,
 ): readonly VisibleReviewSide[] {
-  const sides: VisibleReviewSide[] = [];
-  if (preferences.showAnswerReview) sides.push('answer');
-  if (preferences.showQuestionReview) sides.push('question');
-  return sides;
+  return preferences.showInlineReview ? [preferences.reviewSide] : [];
 }
 
 export function visibleFeedbackSides(
   preferences: ReviewPreferences,
 ): readonly VisibleReviewSide[] {
-  const sides: VisibleReviewSide[] = [];
-  if (preferences.showAnswerFeedback) sides.push('answer');
-  if (preferences.showQuestionFeedback) sides.push('question');
-  return sides;
+  return preferences.showFeedback ? [preferences.reviewSide] : [];
+}
+
+export function activeReviewSides(
+  preferences: ReviewPreferences,
+): readonly VisibleReviewSide[] {
+  return [preferences.reviewSide];
 }
 
 export function adjacentQuestionId(

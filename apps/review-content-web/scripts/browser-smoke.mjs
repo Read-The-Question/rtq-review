@@ -18,41 +18,43 @@ assert.doesNotMatch(home.text, /Change the lens/);
 const paper = await read(paperPath);
 for (const expected of [
   'Review filters',
-  'Question state',
-  'Answer state',
-  'Peer-review outcome',
-  'Question review outcome',
-  'Answer review outcome',
-  'Pending',
-  'Approved',
-  'Reviewed [(]Comments[)]',
-  'Ready For Review',
-  'Blocked',
+  'No active filters',
+  'Paper review console',
+  'Answer review controls',
+  'Answer review',
+  'Review target',
+  'Current outcome',
   'Coming Soon',
   'Filters',
+  'Previous',
+  'Next',
+  'View',
   'Workings &amp; answers',
   'Raw source',
   'Review workflow',
   'Outcomes &amp; comments → local SQLite',
   'Node feedback',
   'Add comment',
-  'Simple review',
+  'Simple inline actions',
+  'Inline review panel',
   'Looks good',
   'Make a change',
+  'Change Complete',
   'Global finding',
   'Reset',
-  'S1 Q1',
-  'S1 Q5a',
-  'j / k',
+  '<h3>1</h3>',
+  '<h3>5.a</h3>',
 ]) {
   assert.match(paper.text, new RegExp(expected));
 }
 assert.match(paper.text, /api\/assets\/papers/);
 assert.match(paper.text, /aria-label="Filtered question navigation"/);
+assert.match(paper.text, /aria-expanded="false"/);
+assert.doesNotMatch(paper.text, /Keyboard review target/);
 assert.match(paper.text, /href="#question-s0\.q4\.sq0"/);
 assert.doesNotMatch(paper.text, /rtq-question-id is unavailable/);
 assert.doesNotMatch(paper.text, /previous comments are hidden/i);
-assert.match(paper.text, /Own UUID · RAG inherited from S1 Q5/);
+assert.match(paper.text, /Own UUID · RAG inherited from 5/);
 const formulaPosition = paper.text.indexOf('Formulas used');
 const tipPosition = paper.text.indexOf('Keep in mind');
 const workingPosition = paper.text.indexOf('solution-row--working');
@@ -107,13 +109,12 @@ const positive = await read(
   `${paperPath}?family=family.unknown&frame=frame.columnar`,
 );
 assert.match(positive.text, /1<!-- --> \/ <!-- -->4<!-- --> matching/);
-assert.match(positive.text, /question-node--active/);
 
 const independentStates = await read(
   `${paperPath}?question-rag=rag_wf_g0&answer-rag=rag_wf_notstarted`,
 );
 assert.match(independentStates.text, /1<!-- --> \/ <!-- -->6<!-- --> matching/);
-assert.match(independentStates.text, /S1 Q8/);
+assert.match(independentStates.text, /<h3>8<\/h3>/);
 
 const pendingReview = await read(`${paperPath}?question-review=PRNS`);
 assert.doesNotMatch(pendingReview.text, /No question shares that exact lens/);

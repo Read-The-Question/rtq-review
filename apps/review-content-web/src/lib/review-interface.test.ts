@@ -23,18 +23,22 @@ const findingsRouteUrl = new URL(
   import.meta.url,
 );
 
-test('display preferences use accessible switches and independent review sides', async () => {
+test('display preferences separate the active side from inline visibility', async () => {
   const component = await fs.readFile(componentUrl, 'utf8');
 
   assert.match(component, /role="switch"/);
-  assert.match(component, /label="Question review"/);
-  assert.match(component, /label="Answer review"/);
-  assert.match(component, /label="Question feedback"/);
-  assert.match(component, /label="Answer feedback"/);
+  assert.match(component, /role="group"/);
+  assert.match(component, /aria-label="Review target"/);
+  assert.match(component, /function ReviewLane/);
+  assert.match(component, /side=\{preferences\.reviewSide\}/);
+  assert.match(component, /inlineEnabled=\{preferences\.showInlineReview\}/);
+  assert.match(component, /feedbackEnabled=\{preferences\.showFeedback\}/);
   assert.match(component, /label="Status background"/);
-  assert.match(component, /label="Simple review"/);
-  assert.match(component, /label="Show previous feedback"/);
-  assert.doesNotMatch(component, /label="Review panel"/);
+  assert.match(component, /label="Simple inline actions"/);
+  assert.match(component, /label="Inline review panel"/);
+  assert.match(component, /label="Previous feedback"/);
+  assert.doesNotMatch(component, /showQuestionReview|showAnswerReview/);
+  assert.doesNotMatch(component, /showQuestionFeedback|showAnswerFeedback/);
   assert.doesNotMatch(component, /label="Show everything"/);
 });
 
@@ -102,18 +106,14 @@ test('top-level questions expose current outcomes and feedback as scan badges', 
   assert.match(component, /function reviewStatusRails/);
   assert.match(
     component,
-    /reviewStatusRails\(node, reviewSide, reviewRuntime\)/,
+    /reviewStatusRails\(node, reviewSides, reviewRuntime\)/,
   );
-  assert.match(component, /reviewSide=\{keyboardSide\}/);
-  assert.match(
-    component,
-    /<span className="toolbar-label">Review target<\/span>/,
-  );
-  assert.doesNotMatch(
-    component,
-    /return visibleReviewSides\(preferences\)\.flatMap/,
-  );
+  assert.match(component, /reviewSides=\{enabledReviewSides\}/);
+  assert.match(component, /activeReviewSides\(preferences\)/);
+  assert.match(component, /return reviewSides\.flatMap/);
+  assert.match(component, /aria-label="Review target"/);
   assert.match(component, /question-status-rail--\$\{tone\}/);
+  assert.match(component, /question-status-rail--\$\{side\}/);
   assert.match(component, /side === 'answer' \? 'A' : 'Q'/);
   assert.match(
     component,
@@ -128,6 +128,9 @@ test('top-level questions expose current outcomes and feedback as scan badges', 
   assert.match(css, /--review-change-complete-background:/);
   assert.match(css, /--review-blocked-background:/);
   assert.match(css, /--review-coming-soon-background:/);
+  assert.match(css, /--review-coming-soon-background:\s*#e7d9f2/);
+  assert.match(css, /--review-coming-soon-border:\s*#694f7c/);
+  assert.match(css, /--review-coming-soon-tint:\s*#f5eff8/);
   assert.match(
     css,
     /\.review-activity-badge\s*{[^}]*background:\s*var\(--review-option-background/s,
@@ -146,8 +149,12 @@ test('the sticky toolbar keeps compact filter access with focus and return contr
   ]);
 
   assert.match(component, /aria-controls="review-filters"/);
+  assert.match(component, /aria-expanded=\{filtersExpanded\}/);
+  assert.match(component, /setFiltersExpanded\(true\)/);
+  assert.match(component, /filtersExpanded \? \(/);
   assert.match(component, /selectedFilterCount/);
   assert.match(component, /aria-label="Page navigation"/);
+  assert.match(component, /aria-label="Question navigation"/);
   assert.match(component, /Scroll to top \(keyboard shortcut: t\)/);
   assert.match(component, /Scroll to bottom \(keyboard shortcut: b\)/);
   assert.match(component, /key === 't' \|\| key === 'b'/);
@@ -159,21 +166,45 @@ test('the sticky toolbar keeps compact filter access with focus and return contr
     css,
     /\.review-toolbar\s*{[^}]*position:\s*sticky;[^}]*top:\s*0/s,
   );
-  assert.match(
-    css,
-    /@media \(max-width: 560px\)[\s\S]*\.review-toolbar\s*{[^}]*overflow-x:\s*auto;[^}]*position:\s*sticky/s,
-  );
+  assert.match(css, /\.filter-disclosure-toggle\s*{/);
 });
 
-test('the sticky toolbar exposes common review outcomes as quick actions', async () => {
+test('the sticky toolbar always exposes one explicitly selected review side', async () => {
   const component = await fs.readFile(componentUrl, 'utf8');
 
-  assert.match(component, /Looks good <kbd>g<\/kbd>/);
-  assert.match(component, /Make a change <kbd>r<\/kbd>/);
-  assert.match(component, /Change Complete <kbd>d<\/kbd>/);
-  assert.match(component, /Comment <kbd>c<\/kbd>/);
-  assert.match(component, /submitKeyboardOutcome\('PRCC'\)/);
-  assert.match(component, /key === 'r' \? 'PRCR' : 'PRCC'/);
+  assert.match(component, /function ReviewSideSelector/);
+  assert.match(component, /\(\['question', 'answer'\] as const\)\.map/);
+  assert.match(component, /updatePreference\('reviewSide', side\)/);
+  assert.match(
+    component,
+    /submitToolbarOutcome\(preferences\.reviewSide, outcome\)/,
+  );
+  assert.match(component, /openKeyboardComment\(preferences\.reviewSide\)/);
+  assert.equal(component.match(/<ReviewLane/g)?.length, 1);
+  assert.match(component, /PRIMARY_REVIEW_OPTIONS\.map/);
+  assert.match(component, /SECONDARY_REVIEW_OPTIONS\.map/);
+  assert.doesNotMatch(component, /review-lane--disabled/);
+});
+
+test('sticky toolbar popovers dismiss after selection, outside click, and Escape', async () => {
+  const component = await fs.readFile(componentUrl, 'utf8');
+
+  assert.match(component, /function dismissReviewPopover/);
+  assert.match(component, /review-lane-more review-popover/);
+  assert.match(component, /review-view-menu review-popover/);
+  assert.match(
+    component,
+    /dismissReviewPopover\(event\.currentTarget\);[\s\S]*onOutcome\(option\.outcome\)/,
+  );
+  assert.match(
+    component,
+    /details\.review-popover\[open\][\s\S]*!details\.contains\(target\)[\s\S]*removeAttribute\('open'\)/,
+  );
+  assert.match(component, /window\.addEventListener\('pointerdown'/);
+  assert.match(
+    component,
+    /event\.key === 'Escape'[\s\S]*details\.removeAttribute\('open'\)/,
+  );
 });
 
 test('reports the active outcome destination once in the page header', async () => {
@@ -225,8 +256,8 @@ test('the filtered paper rail links every visible question hierarchy level', asy
 test('previous feedback is controlled globally without repeated hidden-history prompts', async () => {
   const component = await fs.readFile(componentUrl, 'utf8');
 
-  assert.match(component, /label="Show previous feedback"/);
-  assert.match(component, /visibleFeedbackSides\(preferences\)\.length > 0/);
+  assert.match(component, /label="Previous feedback"/);
+  assert.match(component, /checked=\{showPreviousFeedback\}/);
   assert.match(component, /runtime\.showPreviousFeedback/);
   assert.doesNotMatch(component, /previous comments are hidden/i);
   assert.doesNotMatch(component, /Use Show previous feedback above/i);
@@ -248,11 +279,11 @@ test('feedback is independent from review panels and only renders when populated
   assert.match(component, /if \(!hasFeedback\) return null/);
   assert.match(
     component,
-    /preferences\.showQuestionFeedback[\s\S]*side="question"/,
+    /preferences\.showFeedback && preferences\.reviewSide === 'question'[\s\S]*side="question"/,
   );
   assert.match(
     component,
-    /<SolutionContent[\s\S]*preferences\.showAnswerFeedback[\s\S]*side="answer"/,
+    /<SolutionContent[\s\S]*preferences\.showFeedback && preferences\.reviewSide === 'answer'[\s\S]*side="answer"/,
   );
   assert.match(component, /visibleReviewSides\(preferences\)\.length > 0/);
   assert.match(
@@ -272,7 +303,7 @@ test('question bodies do not navigate when clicked or focused', async () => {
   assert.doesNotMatch(component, /tabIndex=\{node\.depth === 0 \? 0 : -1\}/);
 });
 
-test('keyboard review follows the exact visible node while outcomes stay top-level', async () => {
+test('the review console follows the exact visible node with explicit side targets', async () => {
   const [component, css] = await Promise.all([
     fs.readFile(componentUrl, 'utf8'),
     fs.readFile(cssUrl, 'utf8'),
@@ -290,45 +321,38 @@ test('keyboard review follows the exact visible node while outcomes stay top-lev
     component,
     /right\.cursor\.node\.depth - left\.cursor\.node\.depth/,
   );
+  assert.match(component, /currentCursor\.topLevelQuestion,[\s\S]*'question'/);
   assert.match(
     component,
-    /reviewTargetForNode\(currentCursor\.topLevelQuestion, keyboardSide/,
+    /reviewTargetForNode\(\s*currentCursor\.topLevelQuestion,\s*'answer'/s,
   );
   assert.match(
     component,
     /reviewCommentTargetForNode\(\s*currentCursor\.node,\s*currentCursor\.topLevelQuestion/s,
   );
-  assert.match(
-    component,
-    /Outcome applies to \{currentCursor\.topLevelQuestion\.label\}/,
-  );
-  assert.match(component, /aria-label="Keyboard review target"/);
-  assert.match(component, /role="radiogroup"/);
-  assert.match(component, /name="keyboard-review-target"/);
-  assert.match(component, /type="radio"/);
-  assert.match(component, /keyboardSide = preferences\.reviewTargetSide/);
-  assert.match(component, /updatePreference\('reviewTargetSide', side\)/);
-  assert.doesNotMatch(
-    component,
-    /enabledReviewSides\.includes\(preferredKeyboardSide\)/,
-  );
-  assert.doesNotMatch(
-    component,
-    /Enable question or answer review to use quick review/,
-  );
-  assert.match(component, /aria-label="Quick review actions"/);
-  assert.match(
-    component,
-    /key === 'g' \|\| key === 'r' \|\| key === 'd' \|\| key === 'c'/,
-  );
-  assert.match(
-    component,
-    /key === 'g' \? 'PRG' : key === 'r' \? 'PRCR' : 'PRCC'/,
-  );
+  assert.match(component, /aria-label=\{`\$\{label\} review controls`\}/);
+  assert.doesNotMatch(component, /keyboardSide/);
+  assert.doesNotMatch(component, /submitKeyboardOutcome/);
+  assert.doesNotMatch(component, /key === 'g'/);
   assert.match(component, /role="dialog"/);
   assert.match(component, /aria-modal="true"/);
   assert.match(component, /event\.currentTarget\.form\?\.requestSubmit\(\)/);
-  assert.match(css, /\.review-toolbar-group--quick-review\s*{/);
+  assert.match(css, /\.review-lanes\s*{/);
+  assert.match(css, /\.review-lane--question/);
+  assert.match(css, /\.review-lane--answer/);
+  assert.match(
+    css,
+    /\.review-toolbar\s*{[^}]*grid-template-columns:\s*minmax\(0, 1fr\);[^}]*justify-content:\s*stretch;[^}]*width:\s*100%/s,
+  );
+  assert.match(
+    css,
+    /\.review-lane--answer \.review-lane-actions[\s\S]*?justify-content:\s*flex-end/,
+  );
+  assert.match(
+    css,
+    /\.review-lane--answer \.review-lane-heading > div[\s\S]*?text-align:\s*right/,
+  );
+  assert.match(css, /\.review-view-menu\s*{[^}]*margin-left:\s*auto/s);
   assert.match(css, /\.keyboard-comment-backdrop\s*{[^}]*position:\s*fixed/s);
 });
 

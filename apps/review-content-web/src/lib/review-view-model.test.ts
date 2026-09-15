@@ -3,10 +3,12 @@ import test from 'node:test';
 
 import {
   DEFAULT_REVIEW_PREFERENCES,
+  EARLIER_REVIEW_PREFERENCES_KEY,
   INITIAL_REVIEW_PREFERENCES_KEY,
   LEGACY_REVIEW_PREFERENCES_KEY,
   PREVIOUS_REVIEW_PREFERENCES_KEY,
   REVIEW_PREFERENCES_KEY,
+  activeReviewSides,
   adjacentQuestionId,
   collectionRoute,
   paperRoute,
@@ -17,13 +19,17 @@ import {
 } from './review-view-model.ts';
 
 test('display preference storage is versioned for review status treatments', () => {
-  assert.equal(REVIEW_PREFERENCES_KEY, 'rtq.review-content.preferences.v4');
+  assert.equal(REVIEW_PREFERENCES_KEY, 'rtq.review-content.preferences.v5');
   assert.equal(
     PREVIOUS_REVIEW_PREFERENCES_KEY,
-    'rtq.review-content.preferences.v3',
+    'rtq.review-content.preferences.v4',
   );
   assert.equal(
     LEGACY_REVIEW_PREFERENCES_KEY,
+    'rtq.review-content.preferences.v3',
+  );
+  assert.equal(
+    EARLIER_REVIEW_PREFERENCES_KEY,
     'rtq.review-content.preferences.v2',
   );
   assert.equal(
@@ -44,7 +50,7 @@ test('preferences survive partial and malformed local values', () => {
   });
 });
 
-test('preferences migrate the former settings into the answer-first review default', () => {
+test('preferences migrate independent side settings into one active review side', () => {
   assert.deepEqual(
     parseReviewPreferences(
       null,
@@ -52,8 +58,7 @@ test('preferences migrate the former settings into the answer-first review defau
     ),
     {
       ...DEFAULT_REVIEW_PREFERENCES,
-      showAnswerReview: true,
-      showQuestionReview: false,
+      reviewSide: 'answer',
       showRaw: true,
     },
   );
@@ -63,36 +68,36 @@ test('preferences migrate the former settings into the answer-first review defau
       null,
       '{"showReview":true}',
     ),
-    {
-      ...DEFAULT_REVIEW_PREFERENCES,
-      showAnswerReview: true,
-      showQuestionReview: false,
-    },
+    DEFAULT_REVIEW_PREFERENCES,
+  );
+  assert.equal(
+    parseReviewPreferences(
+      null,
+      '{"showAnswerReview":false,"showQuestionReview":true}',
+    ).reviewSide,
+    'question',
   );
 });
 
-test('feedback visibility migrates from review panels and then stays independent', () => {
+test('inline review and feedback migrate independently for the active side', () => {
   assert.deepEqual(
     parseReviewPreferences(
       '{"showAnswerReview":false,"showQuestionReview":true}',
     ),
     {
       ...DEFAULT_REVIEW_PREFERENCES,
-      showAnswerFeedback: false,
-      showAnswerReview: false,
-      showQuestionFeedback: true,
-      showQuestionReview: true,
+      reviewSide: 'question',
     },
   );
   assert.deepEqual(
     parseReviewPreferences(
-      '{"showAnswerFeedback":true,"showAnswerReview":false,"showQuestionFeedback":true,"showQuestionReview":false}',
+      '{"reviewSide":"question","showFeedback":false,"showInlineReview":false}',
     ),
     {
       ...DEFAULT_REVIEW_PREFERENCES,
-      showAnswerReview: false,
-      showQuestionFeedback: true,
-      showQuestionReview: false,
+      reviewSide: 'question',
+      showFeedback: false,
+      showInlineReview: false,
     },
   );
 });
@@ -115,72 +120,60 @@ test('review controls default to simple and preserve an advanced selection', () 
   );
 });
 
-test('review target defaults to answer and preserves a question selection', () => {
-  assert.equal(parseReviewPreferences(null).reviewTargetSide, 'answer');
+test('the former shared review target migrates into the active side', () => {
   assert.equal(
-    parseReviewPreferences('{"reviewTargetSide":"question"}').reviewTargetSide,
+    parseReviewPreferences('{"reviewTargetSide":"question"}').reviewSide,
     'question',
-  );
-  assert.equal(
-    parseReviewPreferences('{"reviewTargetSide":"unsupported"}')
-      .reviewTargetSide,
-    'answer',
   );
 });
 
-test('review sides support both, question-only, answer-only, and neither', () => {
+test('inline review exposes only the active side or stays hidden', () => {
   assert.deepEqual(visibleReviewSides(DEFAULT_REVIEW_PREFERENCES), ['answer']);
   assert.deepEqual(
     visibleReviewSides({
       ...DEFAULT_REVIEW_PREFERENCES,
-      showQuestionReview: true,
-    }),
-    ['answer', 'question'],
-  );
-  assert.deepEqual(
-    visibleReviewSides({
-      ...DEFAULT_REVIEW_PREFERENCES,
-      showAnswerReview: false,
-      showQuestionReview: true,
+      reviewSide: 'question',
     }),
     ['question'],
   );
   assert.deepEqual(
     visibleReviewSides({
       ...DEFAULT_REVIEW_PREFERENCES,
-      showAnswerReview: false,
-      showQuestionReview: false,
+      showInlineReview: false,
     }),
     [],
   );
 });
 
-test('feedback sides support both, question-only, answer-only, and neither', () => {
+test('feedback exposes only the active side or stays hidden', () => {
   assert.deepEqual(visibleFeedbackSides(DEFAULT_REVIEW_PREFERENCES), [
     'answer',
   ]);
   assert.deepEqual(
     visibleFeedbackSides({
       ...DEFAULT_REVIEW_PREFERENCES,
-      showQuestionFeedback: true,
-    }),
-    ['answer', 'question'],
-  );
-  assert.deepEqual(
-    visibleFeedbackSides({
-      ...DEFAULT_REVIEW_PREFERENCES,
-      showAnswerFeedback: false,
-      showQuestionFeedback: true,
+      reviewSide: 'question',
     }),
     ['question'],
   );
   assert.deepEqual(
     visibleFeedbackSides({
       ...DEFAULT_REVIEW_PREFERENCES,
-      showAnswerFeedback: false,
-      showQuestionFeedback: false,
+      showFeedback: false,
     }),
     [],
+  );
+});
+
+test('sticky review always exposes exactly one active side', () => {
+  assert.deepEqual(activeReviewSides(DEFAULT_REVIEW_PREFERENCES), ['answer']);
+  assert.deepEqual(
+    activeReviewSides({
+      ...DEFAULT_REVIEW_PREFERENCES,
+      reviewSide: 'question',
+      showInlineReview: false,
+    }),
+    ['question'],
   );
 });
 

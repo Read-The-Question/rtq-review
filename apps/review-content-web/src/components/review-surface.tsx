@@ -32,15 +32,16 @@ import type {
 } from '@/lib/display-model';
 import {
   DEFAULT_REVIEW_PREFERENCES,
+  EARLIER_REVIEW_PREFERENCES_KEY,
   INITIAL_REVIEW_PREFERENCES_KEY,
   LEGACY_REVIEW_PREFERENCES_KEY,
   PREVIOUS_REVIEW_PREFERENCES_KEY,
   REVIEW_PREFERENCES_KEY,
+  activeReviewSides,
   adjacentQuestionId,
   collectionRoute,
   parseReviewPreferences,
   reviewStateLabel,
-  visibleFeedbackSides,
   visibleReviewSides,
   type ReviewPreferences,
   type ReviewControlMode,
@@ -62,7 +63,6 @@ import {
   type ReviewCommentLoad,
   type ReviewOutcomeDestination,
   type ReviewOutcomeLoad,
-  type ReviewOutcome,
   type ReviewOutcomeSelection,
   type ReviewSide,
   type ReviewTargetDescriptor,
@@ -83,6 +83,20 @@ const axisCopy: Readonly<Record<DimensionalTagAxis, string>> = {
   math: 'Math',
   reasoning: 'Reasoning',
 };
+
+const PRIMARY_REVIEW_OPTIONS = REVIEW_OUTCOME_OPTIONS.filter(
+  ({ outcome }) =>
+    outcome === 'PRG' || outcome === 'PRCR' || outcome === 'PRCC',
+);
+const SECONDARY_REVIEW_OPTIONS = REVIEW_OUTCOME_OPTIONS.filter(
+  ({ outcome }) => outcome === 'PRBD' || outcome === 'PRCS',
+);
+
+function dismissReviewPopover(element: Element): void {
+  element
+    .closest<HTMLDetailsElement>('details.review-popover')
+    ?.removeAttribute('open');
+}
 
 function hasField(field: DisplayContentField): boolean {
   return Boolean(field.rendered.trim() || field.raw.trim());
@@ -228,19 +242,21 @@ function reviewStatusTone(
 
 function reviewStatusRails(
   node: DisplayPaperNode,
-  reviewSide: ReviewSide,
+  reviewSides: readonly ReviewSide[],
   runtime: ReviewRuntimeState,
 ): readonly ReviewStatusRail[] {
   if (node.depth !== 0) return [];
-  if (!reviewTargetForNode(node, reviewSide, runtime.source)) return [];
-  const outcome = displayedReviewOutcome(
-    node,
-    reviewSide,
-    runtime.source,
-    runtime.outcomeDestination,
-    runtime.outcomeOverrides,
-  );
-  return [{ outcome, side: reviewSide, tone: reviewStatusTone(outcome) }];
+  return reviewSides.flatMap((side) => {
+    if (!reviewTargetForNode(node, side, runtime.source)) return [];
+    const outcome = displayedReviewOutcome(
+      node,
+      side,
+      runtime.source,
+      runtime.outcomeDestination,
+      runtime.outcomeOverrides,
+    );
+    return [{ outcome, side, tone: reviewStatusTone(outcome) }];
+  });
 }
 
 function dominantReviewStatusTone(
@@ -623,7 +639,8 @@ function ReviewPanel({
   topLevelQuestion: DisplayPaperNode;
 }) {
   const outcomesEnabled = node.depth === 0;
-  const visibleSides = visibleReviewSides(preferences);
+  const [side] = visibleReviewSides(preferences);
+  if (!side) return null;
   return (
     <aside
       className={`review-panel${outcomesEnabled ? '' : ' review-panel--nested'}`}
@@ -635,18 +652,16 @@ function ReviewPanel({
           <span>{`Own UUID · RAG inherited from ${topLevelQuestion.label}`}</span>
         ) : null}
       </div>
-      <div className="review-scopes" data-visible-sides={visibleSides.length}>
-        {visibleSides.map((side) => (
-          <ReviewScope
-            controlMode={preferences.reviewControlMode}
-            key={side}
-            node={node}
-            outcomesEnabled={outcomesEnabled}
-            runtime={runtime}
-            side={side}
-            topLevelQuestion={topLevelQuestion}
-          />
-        ))}
+      <div className="review-scopes" data-review-side={side}>
+        <ReviewScope
+          controlMode={preferences.reviewControlMode}
+          key={side}
+          node={node}
+          outcomesEnabled={outcomesEnabled}
+          runtime={runtime}
+          side={side}
+          topLevelQuestion={topLevelQuestion}
+        />
       </div>
     </aside>
   );
@@ -916,19 +931,19 @@ function QuestionNode({
   matchingNodeIds,
   node,
   preferences,
-  reviewSide,
+  reviewSides,
   reviewRuntime,
   topLevelQuestion,
 }: {
   matchingNodeIds: ReadonlySet<string>;
   node: DisplayPaperNode;
   preferences: ReviewPreferences;
-  reviewSide: ReviewSide;
+  reviewSides: readonly ReviewSide[];
   reviewRuntime: ReviewRuntimeState;
   topLevelQuestion: DisplayPaperNode;
 }) {
   const exactMatch = matchingNodeIds.has(node.id);
-  const statusRails = reviewStatusRails(node, reviewSide, reviewRuntime);
+  const statusRails = reviewStatusRails(node, reviewSides, reviewRuntime);
   const backgroundTone = preferences.showStatusBackground
     ? dominantReviewStatusTone(statusRails)
     : undefined;
@@ -937,6 +952,14 @@ function QuestionNode({
       className={`question-node question-node--depth-${node.depth}${
         exactMatch ? '' : ' question-node--context'
       }${statusRails.length > 0 ? ' question-node--with-status-rails' : ''}${
+        statusRails.some(({ side }) => side === 'question')
+          ? ' question-node--with-question-status'
+          : ''
+      }${
+        statusRails.some(({ side }) => side === 'answer')
+          ? ' question-node--with-answer-status'
+          : ''
+      }${
         backgroundTone
           ? ` question-node--status-background-${backgroundTone}`
           : ''
@@ -947,7 +970,7 @@ function QuestionNode({
         <div className="question-status-rails" aria-hidden="true">
           {statusRails.map(({ side, tone }) => (
             <span
-              className={`question-status-rail question-status-rail--${tone}`}
+              className={`question-status-rail question-status-rail--${side} question-status-rail--${tone}`}
               key={side}
             >
               <span>{side === 'answer' ? 'A' : 'Q'}</span>
@@ -986,7 +1009,7 @@ function QuestionNode({
           preferences={preferences}
         />
       </div>
-      {preferences.showQuestionFeedback ? (
+      {preferences.showFeedback && preferences.reviewSide === 'question' ? (
         <ReviewFeedback
           node={node}
           runtime={reviewRuntime}
@@ -995,7 +1018,7 @@ function QuestionNode({
         />
       ) : null}
       <SolutionContent node={node} preferences={preferences} />
-      {preferences.showAnswerFeedback ? (
+      {preferences.showFeedback && preferences.reviewSide === 'answer' ? (
         <ReviewFeedback
           node={node}
           runtime={reviewRuntime}
@@ -1019,7 +1042,7 @@ function QuestionNode({
               matchingNodeIds={matchingNodeIds}
               node={child}
               preferences={preferences}
-              reviewSide={reviewSide}
+              reviewSides={reviewSides}
               reviewRuntime={reviewRuntime}
               topLevelQuestion={topLevelQuestion}
             />
@@ -1104,6 +1127,170 @@ function PreferenceToggle({
   );
 }
 
+function ReviewSideSelector({
+  onChange,
+  side,
+}: {
+  onChange: (side: ReviewSide) => void;
+  side: ReviewSide;
+}) {
+  return (
+    <div
+      aria-label="Review target"
+      className="review-side-selector"
+      role="group"
+    >
+      {(['question', 'answer'] as const).map((option) => {
+        const label = option === 'question' ? 'Question' : 'Answer';
+        return (
+          <button
+            aria-pressed={side === option}
+            className={`review-side-option review-side-option--${option}`}
+            key={option}
+            onClick={() => onChange(option)}
+            type="button"
+          >
+            <span aria-hidden="true">{option === 'question' ? 'Q' : 'A'}</span>
+            {label}
+          </button>
+        );
+      })}
+    </div>
+  );
+}
+
+function ReviewLane({
+  commentDisabledReason,
+  disabledReason,
+  feedbackEnabled,
+  inlineEnabled,
+  nodeLabel,
+  onComment,
+  onOutcome,
+  onToggleFeedback,
+  onToggleInline,
+  outcome,
+  pending,
+  side,
+}: {
+  commentDisabledReason?: string;
+  disabledReason?: string;
+  feedbackEnabled: boolean;
+  inlineEnabled: boolean;
+  nodeLabel: string;
+  onComment: () => void;
+  onOutcome: (outcome: ReviewOutcomeSelection) => void;
+  onToggleFeedback: (enabled: boolean) => void;
+  onToggleInline: (enabled: boolean) => void;
+  outcome: ReviewOutcomeSelection | undefined;
+  pending: boolean;
+  side: ReviewSide;
+}) {
+  const label = side === 'question' ? 'Question' : 'Answer';
+  const actionDisabled = Boolean(disabledReason) || pending;
+  return (
+    <section
+      className={`review-lane review-lane--${side}`}
+      aria-label={`${label} review controls`}
+    >
+      <header className="review-lane-heading">
+        <span className="review-lane-mark" aria-hidden="true">
+          {side === 'question' ? 'Q' : 'A'}
+        </span>
+        <div>
+          <span>{label} review</span>
+          <strong>{nodeLabel}</strong>
+        </div>
+      </header>
+      <div className="review-lane-status" aria-live="polite">
+        <span>Current outcome</span>
+        <strong
+          className={
+            outcome
+              ? `review-lane-status--${reviewOutcomeTone(outcome)}`
+              : 'review-lane-status--pending'
+          }
+        >
+          {outcome ? reviewOutcomeLabel(outcome) : 'Pending'}
+        </strong>
+      </div>
+      <div className="review-lane-actions">
+        {PRIMARY_REVIEW_OPTIONS.map((option) => (
+          <button
+            aria-pressed={outcome === option.outcome}
+            className={`review-lane-action review-lane-action--${option.tone}`}
+            disabled={actionDisabled}
+            key={option.outcome}
+            onClick={() => onOutcome(option.outcome)}
+            title={disabledReason}
+            type="button"
+          >
+            {option.actionLabel}
+          </button>
+        ))}
+        <button
+          className="review-lane-action review-lane-action--comment"
+          disabled={Boolean(commentDisabledReason)}
+          onClick={onComment}
+          title={commentDisabledReason}
+          type="button"
+        >
+          Comment
+        </button>
+        <details className="review-lane-more review-popover">
+          <summary>More</summary>
+          <div>
+            {SECONDARY_REVIEW_OPTIONS.map((option) => (
+              <button
+                aria-pressed={outcome === option.outcome}
+                className={`review-lane-action review-lane-action--${option.tone}`}
+                disabled={actionDisabled}
+                key={option.outcome}
+                onClick={(event) => {
+                  dismissReviewPopover(event.currentTarget);
+                  onOutcome(option.outcome);
+                }}
+                title={disabledReason}
+                type="button"
+              >
+                {option.actionLabel}
+              </button>
+            ))}
+            <button
+              aria-pressed={!outcome}
+              className="review-lane-action review-lane-action--reset"
+              disabled={actionDisabled}
+              onClick={(event) => {
+                dismissReviewPopover(event.currentTarget);
+                onOutcome(null);
+              }}
+              title={disabledReason}
+              type="button"
+            >
+              Reset
+            </button>
+          </div>
+        </details>
+      </div>
+      <div className="review-lane-footer">
+        <PreferenceToggle
+          checked={feedbackEnabled}
+          label={`${label} feedback`}
+          onChange={onToggleFeedback}
+        />
+        <PreferenceToggle
+          checked={inlineEnabled}
+          label="Inline review panel"
+          onChange={onToggleInline}
+        />
+        {disabledReason ? (
+          <span className="review-lane-warning">{disabledReason}</span>
+        ) : null}
+      </div>
+    </section>
+  );
+}
+
 function FilterPanel({
   facets,
   onClear,
@@ -1146,12 +1333,7 @@ function FilterPanel({
   const selectedReviewOutcomeCount =
     selection.questionReview.length + selection.answerReview.length;
   return (
-    <section
-      className="filter-panel"
-      aria-labelledby="filter-title"
-      id="review-filters"
-      tabIndex={-1}
-    >
+    <section className="filter-panel" aria-labelledby="filter-title">
       <div className="filter-heading">
         <div>
           <p className="eyebrow">Runtime lens</p>
@@ -1511,6 +1693,7 @@ export function ReviewSurface({
   const [filterReturnQuestionId, setFilterReturnQuestionId] = useState<
     string | undefined
   >();
+  const [filtersExpanded, setFiltersExpanded] = useState(false);
   const [outcomeOverrides, setOutcomeOverrides] = useState<
     Readonly<Record<string, ReviewOutcomeSelection>>
   >(outcomeLoad.outcomes);
@@ -1541,7 +1724,7 @@ export function ReviewSurface({
     () => parseReviewFilterSearchParams(searchParams.toString()),
     [searchParams],
   );
-  const keyboardSide = preferences.reviewTargetSide;
+  const enabledReviewSides = activeReviewSides(preferences);
   const reviewOutcomeFilterContext = useMemo(() => {
     if (outcomeLoad.error) return undefined;
     const source = {
@@ -1607,24 +1790,83 @@ export function ReviewSurface({
     reviewCursorById.get(activeId ?? '') ??
     reviewCursors[0];
   const navigationActiveId = currentCursor?.topLevelQuestion.id ?? activeId;
-  const keyboardOutcomeTarget =
-    currentCursor && keyboardSide
-      ? reviewTargetForNode(currentCursor.topLevelQuestion, keyboardSide, {
-          collectionId: paper.source.collection.id,
-          relativePath: paper.source.relativePath,
-        })
-      : undefined;
-  const keyboardOutcomeDisabledReason = !keyboardOutcomeTarget
-    ? 'The current question does not have a reviewable UUID and RAG state.'
-    : outcomeLoad.error
-      ? outcomeLoad.error
-      : outcomeLoad.destination === 'google-sheets' &&
-          !keyboardOutcomeTarget.sheet
-        ? `Source state ${reviewStateLabel(keyboardOutcomeTarget.ragState)} has no Google Sheets route.`
-        : undefined;
-  const keyboardOutcomePending = keyboardOutcomeTarget
-    ? pendingKeys.has(`${reviewTargetKey(keyboardOutcomeTarget)}:outcome`)
+  const reviewSource = {
+    collectionId: paper.source.collection.id,
+    relativePath: paper.source.relativePath,
+  };
+  const questionOutcomeTarget = currentCursor
+    ? reviewTargetForNode(
+        currentCursor.topLevelQuestion,
+        'question',
+        reviewSource,
+      )
+    : undefined;
+  const answerOutcomeTarget = currentCursor
+    ? reviewTargetForNode(
+        currentCursor.topLevelQuestion,
+        'answer',
+        reviewSource,
+      )
+    : undefined;
+  function outcomeDisabledReason(
+    target: ReviewTargetDescriptor | undefined,
+  ): string | undefined {
+    if (!target) {
+      return 'The current question does not have a reviewable UUID and RAG state.';
+    }
+    if (outcomeLoad.error) return outcomeLoad.error;
+    if (outcomeLoad.destination === 'google-sheets' && !target.sheet) {
+      return `Source state ${reviewStateLabel(target.ragState)} has no Google Sheets route.`;
+    }
+    return undefined;
+  }
+  const questionOutcomeDisabledReason = outcomeDisabledReason(
+    questionOutcomeTarget,
+  );
+  const answerOutcomeDisabledReason =
+    outcomeDisabledReason(answerOutcomeTarget);
+  const questionOutcomePending = questionOutcomeTarget
+    ? pendingKeys.has(`${reviewTargetKey(questionOutcomeTarget)}:outcome`)
     : false;
+  const answerOutcomePending = answerOutcomeTarget
+    ? pendingKeys.has(`${reviewTargetKey(answerOutcomeTarget)}:outcome`)
+    : false;
+  const questionOutcome = currentCursor
+    ? displayedReviewOutcome(
+        currentCursor.topLevelQuestion,
+        'question',
+        reviewSource,
+        outcomeLoad.destination,
+        outcomeOverrides,
+      )
+    : undefined;
+  const answerOutcome = currentCursor
+    ? displayedReviewOutcome(
+        currentCursor.topLevelQuestion,
+        'answer',
+        reviewSource,
+        outcomeLoad.destination,
+        outcomeOverrides,
+      )
+    : undefined;
+  function commentDisabledReason(side: ReviewSide): string | undefined {
+    if (!currentCursor) return 'There is no current question to comment on.';
+    const target = reviewCommentTargetForNode(
+      currentCursor.node,
+      currentCursor.topLevelQuestion,
+      side,
+      reviewSource,
+    );
+    return target
+      ? commentLoad.error
+      : targetUnavailableReason(
+          currentCursor.node,
+          currentCursor.topLevelQuestion,
+          side,
+        );
+  }
+  const questionCommentDisabledReason = commentDisabledReason('question');
+  const answerCommentDisabledReason = commentDisabledReason('answer');
   const keyboardCommentPending = commentDialog
     ? pendingKeys.has(`${reviewTargetKey(commentDialog.target)}:comment`)
     : false;
@@ -1642,6 +1884,19 @@ export function ReviewSurface({
     selection.answerRag.length +
     selection.questionReview.length +
     selection.answerReview.length;
+  const currentQuestionIndex = navigationActiveId
+    ? result.matchingQuestionTreeIds.indexOf(navigationActiveId)
+    : -1;
+  const previousQuestionId = adjacentQuestionId(
+    result.matchingQuestionTreeIds,
+    navigationActiveId,
+    -1,
+  );
+  const nextQuestionId = adjacentQuestionId(
+    result.matchingQuestionTreeIds,
+    navigationActiveId,
+    1,
+  );
 
   const checkSourceFreshness = useCallback(async () => {
     if (sourceFreshnessPending.current) return;
@@ -1790,6 +2045,7 @@ export function ReviewSurface({
           stored,
           localStorage.getItem(PREVIOUS_REVIEW_PREFERENCES_KEY),
           localStorage.getItem(LEGACY_REVIEW_PREFERENCES_KEY),
+          localStorage.getItem(EARLIER_REVIEW_PREFERENCES_KEY),
           localStorage.getItem(INITIAL_REVIEW_PREFERENCES_KEY),
         );
         if (!stored) {
@@ -1917,20 +2173,19 @@ export function ReviewSurface({
     );
   }
 
-  function updatePreferences(next: ReviewPreferences) {
-    setPreferences(next);
-    try {
-      localStorage.setItem(REVIEW_PREFERENCES_KEY, JSON.stringify(next));
-    } catch {
-      // Display preferences remain usable when browser storage is unavailable.
-    }
-  }
-
   function updatePreference<Key extends keyof ReviewPreferences>(
     key: Key,
     value: ReviewPreferences[Key],
   ) {
-    updatePreferences({ ...preferences, [key]: value });
+    setPreferences((current) => {
+      const next = { ...current, [key]: value };
+      try {
+        localStorage.setItem(REVIEW_PREFERENCES_KEY, JSON.stringify(next));
+      } catch {
+        // Display preferences remain usable when browser storage is unavailable.
+      }
+      return next;
+    });
   }
 
   function toggleFilter(axis: DimensionalTagAxis, value: string) {
@@ -2002,6 +2257,7 @@ export function ReviewSurface({
 
   function showFilters() {
     setFilterReturnQuestionId(activeId);
+    setFiltersExpanded(true);
     requestAnimationFrame(() => {
       const panel = document.getElementById('review-filters');
       panel?.scrollIntoView({ behavior: 'smooth', block: 'start' });
@@ -2037,24 +2293,32 @@ export function ReviewSurface({
       });
   }
 
-  async function submitKeyboardOutcome(outcome: ReviewOutcome) {
-    if (
-      !keyboardOutcomeTarget ||
-      keyboardOutcomeDisabledReason ||
-      keyboardOutcomePending
-    ) {
-      if (keyboardOutcomeDisabledReason) {
+  async function submitToolbarOutcome(
+    side: ReviewSide,
+    outcome: ReviewOutcomeSelection,
+  ) {
+    const target =
+      side === 'question' ? questionOutcomeTarget : answerOutcomeTarget;
+    const disabledReason =
+      side === 'question'
+        ? questionOutcomeDisabledReason
+        : answerOutcomeDisabledReason;
+    const pending =
+      side === 'question' ? questionOutcomePending : answerOutcomePending;
+    if (!target || disabledReason || pending) {
+      if (disabledReason) {
         setKeyboardStatus({
           kind: 'error',
-          message: keyboardOutcomeDisabledReason,
+          message: disabledReason,
         });
       }
       return;
     }
     setKeyboardStatus({ kind: 'idle', message: '' });
     try {
-      const message = await submitOutcome(keyboardOutcomeTarget, outcome);
-      setKeyboardStatus({ kind: 'success', message });
+      const message = await submitOutcome(target, outcome);
+      const label = side === 'question' ? 'Question' : 'Answer';
+      setKeyboardStatus({ kind: 'success', message: `${label}: ${message}` });
     } catch (error) {
       setKeyboardStatus({
         kind: 'error',
@@ -2064,7 +2328,7 @@ export function ReviewSurface({
     }
   }
 
-  function openKeyboardComment() {
+  function openKeyboardComment(side: ReviewSide) {
     if (!currentCursor) {
       setKeyboardStatus({
         kind: 'error',
@@ -2075,7 +2339,7 @@ export function ReviewSurface({
     const target = reviewCommentTargetForNode(
       currentCursor.node,
       currentCursor.topLevelQuestion,
-      keyboardSide,
+      side,
       {
         collectionId: paper.source.collection.id,
         relativePath: paper.source.relativePath,
@@ -2096,7 +2360,7 @@ export function ReviewSurface({
     setKeyboardStatus({ kind: 'idle', message: '' });
     setCommentDialog({
       nodeLabel: currentCursor.node.label,
-      side: keyboardSide,
+      side,
       target,
       topLevelLabel: currentCursor.topLevelQuestion.label,
     });
@@ -2157,7 +2421,7 @@ export function ReviewSurface({
     setGlobalFindingDialog({
       nodeId: currentCursor.node.id,
       nodeLabel: currentCursor.node.label,
-      side: keyboardSide,
+      side: 'question',
     });
   }
 
@@ -2218,6 +2482,20 @@ export function ReviewSurface({
   }
 
   useEffect(() => {
+    function closeReviewPopoversOutside(target: Node): void {
+      toolbarRef.current
+        ?.querySelectorAll<HTMLDetailsElement>('details.review-popover[open]')
+        .forEach((details) => {
+          if (!details.contains(target)) details.removeAttribute('open');
+        });
+    }
+
+    function onPointerDown(event: PointerEvent) {
+      if (event.target instanceof Node) {
+        closeReviewPopoversOutside(event.target);
+      }
+    }
+
     function onKeyDown(event: KeyboardEvent) {
       if (globalFindingDialog) {
         if (event.key === 'Escape') {
@@ -2233,6 +2511,16 @@ export function ReviewSurface({
         }
         return;
       }
+      if (event.key === 'Escape') {
+        const openPopovers = toolbarRef.current?.querySelectorAll(
+          'details.review-popover[open]',
+        );
+        if (openPopovers?.length) {
+          event.preventDefault();
+          openPopovers.forEach((details) => details.removeAttribute('open'));
+          return;
+        }
+      }
       const target = event.target as HTMLElement | null;
       if (
         target?.isContentEditable ||
@@ -2242,23 +2530,6 @@ export function ReviewSurface({
       }
 
       const key = event.key.toLowerCase();
-      if (
-        !event.altKey &&
-        !event.ctrlKey &&
-        !event.metaKey &&
-        (key === 'g' || key === 'r' || key === 'd' || key === 'c')
-      ) {
-        event.preventDefault();
-        if (key === 'c') {
-          openKeyboardComment();
-        } else {
-          void submitKeyboardOutcome(
-            key === 'g' ? 'PRG' : key === 'r' ? 'PRCR' : 'PRCC',
-          );
-        }
-        return;
-      }
-
       if (
         !event.altKey &&
         !event.ctrlKey &&
@@ -2287,8 +2558,12 @@ export function ReviewSurface({
         navigateTo(next);
       }
     }
+    window.addEventListener('pointerdown', onPointerDown);
     window.addEventListener('keydown', onKeyDown);
-    return () => window.removeEventListener('keydown', onKeyDown);
+    return () => {
+      window.removeEventListener('pointerdown', onPointerDown);
+      window.removeEventListener('keydown', onKeyDown);
+    };
   });
 
   return (
@@ -2350,43 +2625,112 @@ export function ReviewSurface({
         status={sourceFreshness}
       />
 
-      <FilterPanel
-        facets={result.facets}
-        onClear={clearFilters}
-        onClearReviewOutcomes={clearReviewOutcomes}
-        onToggle={toggleFilter}
-        onToggleState={toggleStateFilter}
-        onReturnToQuestion={
-          filterReturnQuestionId ? returnToQuestion : undefined
-        }
-        reviewOutcomeError={outcomeLoad.error}
-        reviewOutcomeFacets={result.reviewOutcomeFacets}
-        returnQuestionLabel={
-          filterReturnQuestionId
-            ? (displayNodeById.get(filterReturnQuestionId)?.label ?? 'question')
-            : undefined
-        }
-        selection={selection}
-        stateFacets={result.stateFacets}
-      />
+      <section
+        className={`filter-disclosure${
+          filtersExpanded ? ' filter-disclosure--expanded' : ''
+        }`}
+        id="review-filters"
+        tabIndex={-1}
+      >
+        <button
+          aria-controls="review-filters"
+          aria-expanded={filtersExpanded}
+          className="filter-disclosure-toggle"
+          onClick={() => setFiltersExpanded((expanded) => !expanded)}
+          type="button"
+        >
+          <span aria-hidden="true">{filtersExpanded ? '−' : '+'}</span>
+          <strong>Review filters</strong>
+          <small>
+            {selectedFilterCount
+              ? `${selectedFilterCount} active · ${result.matchingQuestionTreeCount} matching`
+              : 'No active filters'}
+          </small>
+          <span>{filtersExpanded ? 'Collapse' : 'Expand'}</span>
+        </button>
+        {filtersExpanded ? (
+          <FilterPanel
+            facets={result.facets}
+            onClear={clearFilters}
+            onClearReviewOutcomes={clearReviewOutcomes}
+            onToggle={toggleFilter}
+            onToggleState={toggleStateFilter}
+            onReturnToQuestion={
+              filterReturnQuestionId ? returnToQuestion : undefined
+            }
+            reviewOutcomeError={outcomeLoad.error}
+            reviewOutcomeFacets={result.reviewOutcomeFacets}
+            returnQuestionLabel={
+              filterReturnQuestionId
+                ? (displayNodeById.get(filterReturnQuestionId)?.label ??
+                  'question')
+                : undefined
+            }
+            selection={selection}
+            stateFacets={result.stateFacets}
+          />
+        ) : null}
+      </section>
 
       <section
         className="review-toolbar"
-        aria-label="Display and feedback preferences"
+        aria-label="Paper review console"
         ref={toolbarRef}
       >
-        <div className="review-toolbar-group review-toolbar-group--navigation">
-          <button
-            aria-controls="review-filters"
-            className="toolbar-filter-button"
-            onClick={showFilters}
-            type="button"
-          >
-            Filters
-            <strong aria-label={`${selectedFilterCount} active filters`}>
-              {selectedFilterCount}
-            </strong>
-          </button>
+        <div className="review-toolbar-common">
+          <div className="review-toolbar-group review-toolbar-group--navigation">
+            <button
+              aria-controls="review-filters"
+              aria-expanded={filtersExpanded}
+              className="toolbar-filter-button"
+              onClick={showFilters}
+              type="button"
+            >
+              Filters
+              <strong aria-label={`${selectedFilterCount} active filters`}>
+                {selectedFilterCount}
+              </strong>
+            </button>
+            <div className="toolbar-current-question" aria-live="polite">
+              <span className="toolbar-label">Current</span>
+              <strong>{currentCursor?.node.label ?? 'No question'}</strong>
+              <small>
+                {currentQuestionIndex >= 0
+                  ? `${currentQuestionIndex + 1} of ${result.matchingQuestionTreeIds.length}`
+                  : `0 of ${result.matchingQuestionTreeIds.length}`}
+              </small>
+            </div>
+            <div
+              aria-label="Question navigation"
+              className="toolbar-scroll-controls toolbar-question-controls"
+              role="group"
+            >
+              <button
+                aria-label="Previous question (keyboard shortcut: k)"
+                disabled={!previousQuestionId}
+                onClick={() =>
+                  previousQuestionId && navigateTo(previousQuestionId)
+                }
+                title="Previous question (k)"
+                type="button"
+              >
+                <span aria-hidden="true">←</span>
+                <span>Previous</span>
+                <kbd>k</kbd>
+              </button>
+              <button
+                aria-label="Next question (keyboard shortcut: j)"
+                disabled={!nextQuestionId}
+                onClick={() => nextQuestionId && navigateTo(nextQuestionId)}
+                title="Next question (j)"
+                type="button"
+              >
+                <span>Next</span>
+                <span aria-hidden="true">→</span>
+                <kbd>j</kbd>
+              </button>
+            </div>
+          </div>
           <div
             aria-label="Page navigation"
             className="toolbar-scroll-controls"
@@ -2413,176 +2757,102 @@ export function ReviewSurface({
               <kbd>b</kbd>
             </button>
           </div>
-        </div>
-        <div className="review-toolbar-group">
-          <span className="toolbar-label">Display</span>
-          <PreferenceToggle
-            checked={preferences.showSolutions}
-            label="Workings & answers"
-            onChange={(value) => updatePreference('showSolutions', value)}
-          />
-          <PreferenceToggle
-            checked={preferences.showTags}
-            label="Tags"
-            onChange={(value) => updatePreference('showTags', value)}
-          />
-          <PreferenceToggle
-            checked={preferences.showRaw}
-            label="Raw source"
-            onChange={(value) => updatePreference('showRaw', value)}
-          />
-          <PreferenceToggle
-            checked={preferences.showQuestionReview}
-            label="Question review"
-            onChange={(value) => updatePreference('showQuestionReview', value)}
-          />
-          <PreferenceToggle
-            checked={preferences.showAnswerReview}
-            label="Answer review"
-            onChange={(value) => updatePreference('showAnswerReview', value)}
-          />
-          <PreferenceToggle
-            checked={Boolean(preferences.showQuestionFeedback)}
-            label="Question feedback"
-            onChange={(value) =>
-              updatePreference('showQuestionFeedback', value)
-            }
-          />
-          <PreferenceToggle
-            checked={Boolean(preferences.showAnswerFeedback)}
-            label="Answer feedback"
-            onChange={(value) => updatePreference('showAnswerFeedback', value)}
-          />
-          <PreferenceToggle
-            checked={preferences.showStatusBackground}
-            label="Status background"
-            onChange={(value) =>
-              updatePreference('showStatusBackground', value)
-            }
-          />
-        </div>
-        {visibleReviewSides(preferences).length > 0 ? (
-          <div className="review-toolbar-group review-toolbar-group--mode">
-            <span className="toolbar-label">Review mode</span>
-            <PreferenceToggle
-              checked={preferences.reviewControlMode === 'simple'}
-              label="Simple review"
-              onChange={(value) =>
-                updatePreference(
-                  'reviewControlMode',
-                  value ? 'simple' : 'advanced',
-                )
-              }
-            />
-            <span className="feedback-mode-copy">
-              {preferences.reviewControlMode === 'simple'
-                ? 'Looks good / Make a change / Reset'
-                : 'All review requests'}
-            </span>
-          </div>
-        ) : null}
-        {visibleFeedbackSides(preferences).length > 0 ? (
-          <div className="review-toolbar-group review-toolbar-group--feedback">
-            <span className="toolbar-label">Feedback</span>
-            <PreferenceToggle
-              checked={showPreviousFeedback}
-              label="Show previous feedback"
-              onChange={setShowPreviousFeedback}
-            />
-            <span className="feedback-mode-copy">
-              {showPreviousFeedback ? 'All RAG states' : 'Current RAG only'}
-            </span>
-          </div>
-        ) : null}
-        <div className="review-toolbar-group review-toolbar-group--quick-review">
-          <div className="keyboard-review-target" aria-live="polite">
-            <span className="toolbar-label">Current</span>
-            <strong>
-              {currentCursor?.node.label ?? 'No question'}
-              {` · ${keyboardSide === 'answer' ? 'Answer' : 'Question'}`}
-            </strong>
-            {currentCursor &&
-            currentCursor.node.id !== currentCursor.topLevelQuestion.id ? (
-              <small>
-                Outcome applies to {currentCursor.topLevelQuestion.label}
-              </small>
-            ) : null}
-          </div>
-          <div className="keyboard-target-control">
-            <span className="toolbar-label">Review target</span>
+          <details className="review-view-menu review-popover">
+            <summary>View</summary>
             <div
-              aria-label="Keyboard review target"
-              className="keyboard-side-selector"
-              role="radiogroup"
+              onChange={(event) => dismissReviewPopover(event.currentTarget)}
             >
-              {(['answer', 'question'] as const).map((side) => (
-                <label key={side}>
-                  <input
-                    checked={keyboardSide === side}
-                    name="keyboard-review-target"
-                    onChange={() => updatePreference('reviewTargetSide', side)}
-                    type="radio"
-                    value={side}
-                  />
-                  <span>{side === 'answer' ? 'Answer' : 'Question'}</span>
-                </label>
-              ))}
+              <PreferenceToggle
+                checked={preferences.showSolutions}
+                label="Workings & answers"
+                onChange={(value) => updatePreference('showSolutions', value)}
+              />
+              <PreferenceToggle
+                checked={preferences.showTags}
+                label="Tags"
+                onChange={(value) => updatePreference('showTags', value)}
+              />
+              <PreferenceToggle
+                checked={preferences.showRaw}
+                label="Raw source"
+                onChange={(value) => updatePreference('showRaw', value)}
+              />
+              <PreferenceToggle
+                checked={preferences.showStatusBackground}
+                label="Status background"
+                onChange={(value) =>
+                  updatePreference('showStatusBackground', value)
+                }
+              />
+              <PreferenceToggle
+                checked={preferences.reviewControlMode === 'simple'}
+                label="Simple inline actions"
+                onChange={(value) =>
+                  updatePreference(
+                    'reviewControlMode',
+                    value ? 'simple' : 'advanced',
+                  )
+                }
+              />
+              <PreferenceToggle
+                checked={showPreviousFeedback}
+                label="Previous feedback"
+                onChange={setShowPreviousFeedback}
+              />
             </div>
-          </div>
-          <div
-            aria-label="Quick review actions"
-            className="keyboard-review-actions"
-            role="group"
+          </details>
+          <button
+            className="global-finding-button"
+            disabled={!currentCursor || globalFindingPending}
+            onClick={openGlobalFinding}
+            title="Create a finding for the review content product"
+            type="button"
           >
-            <button
-              disabled={
-                Boolean(keyboardOutcomeDisabledReason) || keyboardOutcomePending
-              }
-              onClick={() => void submitKeyboardOutcome('PRG')}
-              title={keyboardOutcomeDisabledReason ?? 'Looks good (g)'}
-              type="button"
-            >
-              Looks good <kbd>g</kbd>
-            </button>
-            <button
-              disabled={
-                Boolean(keyboardOutcomeDisabledReason) || keyboardOutcomePending
-              }
-              onClick={() => void submitKeyboardOutcome('PRCR')}
-              title={keyboardOutcomeDisabledReason ?? 'Make a change (r)'}
-              type="button"
-            >
-              Make a change <kbd>r</kbd>
-            </button>
-            <button
-              disabled={
-                Boolean(keyboardOutcomeDisabledReason) || keyboardOutcomePending
-              }
-              onClick={() => void submitKeyboardOutcome('PRCC')}
-              title={keyboardOutcomeDisabledReason ?? 'Change Complete (d)'}
-              type="button"
-            >
-              Change Complete <kbd>d</kbd>
-            </button>
-            <button
-              disabled={Boolean(commentLoad.error)}
-              onClick={openKeyboardComment}
-              title={commentLoad.error ?? 'Add comment (c)'}
-              type="button"
-            >
-              Comment <kbd>c</kbd>
-            </button>
-            <button
-              disabled={!currentCursor || globalFindingPending}
-              onClick={openGlobalFinding}
-              title="Create a finding for the review content product"
-              type="button"
-            >
-              Global finding
-            </button>
-          </div>
+            Global finding
+          </button>
         </div>
-        <span className="keyboard-note">j / k · next / previous</span>
+        <div className={`review-lanes review-lanes--${preferences.reviewSide}`}>
+          <ReviewSideSelector
+            onChange={(side) => updatePreference('reviewSide', side)}
+            side={preferences.reviewSide}
+          />
+          <ReviewLane
+            commentDisabledReason={
+              preferences.reviewSide === 'question'
+                ? questionCommentDisabledReason
+                : answerCommentDisabledReason
+            }
+            disabledReason={
+              preferences.reviewSide === 'question'
+                ? questionOutcomeDisabledReason
+                : answerOutcomeDisabledReason
+            }
+            feedbackEnabled={preferences.showFeedback}
+            inlineEnabled={preferences.showInlineReview}
+            nodeLabel={currentCursor?.topLevelQuestion.label ?? 'No question'}
+            onComment={() => openKeyboardComment(preferences.reviewSide)}
+            onOutcome={(outcome) =>
+              void submitToolbarOutcome(preferences.reviewSide, outcome)
+            }
+            onToggleFeedback={(value) =>
+              updatePreference('showFeedback', value)
+            }
+            onToggleInline={(value) =>
+              updatePreference('showInlineReview', value)
+            }
+            outcome={
+              preferences.reviewSide === 'question'
+                ? questionOutcome
+                : answerOutcome
+            }
+            pending={
+              preferences.reviewSide === 'question'
+                ? questionOutcomePending
+                : answerOutcomePending
+            }
+            side={preferences.reviewSide}
+          />
+        </div>
         {keyboardStatus.message ? (
           <span
             className={`keyboard-review-status keyboard-review-status--${keyboardStatus.kind}`}
@@ -2639,7 +2909,7 @@ export function ReviewSurface({
                       matchingNodeIds={matchingNodeIds}
                       node={displayQuestion}
                       preferences={preferences}
-                      reviewSide={keyboardSide}
+                      reviewSides={enabledReviewSides}
                       reviewRuntime={reviewRuntime}
                       topLevelQuestion={displayQuestion}
                     />
@@ -2790,12 +3060,7 @@ export function ReviewSurface({
               </div>
               <div>
                 <dt>Context</dt>
-                <dd>
-                  {globalFindingDialog.nodeLabel} ·{' '}
-                  {globalFindingDialog.side === 'answer'
-                    ? 'Answer'
-                    : 'Question'}
-                </dd>
+                <dd>{globalFindingDialog.nodeLabel}</dd>
               </div>
             </dl>
             <form onSubmit={(event) => void submitGlobalFinding(event)}>

@@ -48,6 +48,7 @@ test("registers and renders the complete prefixed RTQ vocabulary", () => {
     "\\rtqMathsSolvedOrder",
     "\\rtqMathsSolvedOrderPhantom",
     "\\rtqMathsSubtractBorrow",
+    "\\rtqMathsSymbolAsterisk",
     "\\rtqMathsSymbolBigStarPendingReview",
     "\\rtqMathsSymbolBigTriangleUpPendingReview",
     "\\rtqMathsSymbolBlackHeartSuit",

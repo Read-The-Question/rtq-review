@@ -3,6 +3,7 @@ import { getRtqReviewKatexOptions } from '@rtq/review-katex-options';
 const reviewerKatexMacros: Record<string, string> = {
   '\\rtqMathsSymbolDollar': '\\text{\\textdollar}',
   '\\rtqMathsSymbolEuro': '\\text{€}',
+  '\\rtqMathsSymbolAsterisk': '\\ast',
   '\\rtqMathsSymbolBlackHeartSuit': '\\heartsuit',
   '\\rtqMathsSymbolBlackTriangle': '\\blacktriangle',
   '\\rtqMathsSymbolBlackSquare': '\\blacksquare',

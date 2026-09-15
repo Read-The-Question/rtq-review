@@ -30,23 +30,31 @@ const rtqKatexMacros = {
   "\\rtqMathsAddCarryOver": "\\scriptstyle \\grayF",
   "\\rtqMathsMultiplyCarryOver": "\\scriptstyle \\grayF{#1}",
   "\\rtqMathsSubtractBorrow": "\\textstyle \\green",
-  "\\maroonC": "\\textcolor{##ed5fa6}{#1}",
-  "\\rtqMathsSequenceStep": "\\maroonC{\\footnotesize{(#1)}}",
-  "\\rtqMathsSequenceStepBare": "\\maroonC{\\footnotesize{#1}}",
+  "\\rtqMathsSequenceStep":
+    "\\htmlClass{rtq-maths-working-step}{\\footnotesize{(#1)}}",
+  "\\rtqMathsSequenceStepBare":
+    "\\htmlClass{rtq-maths-working-step}{\\footnotesize{#1}}",
   "\\rtqMathsFilledValue": "\\textcolor{green}{#1}",
   "\\rtqMathsIncorrectValue": "\\textcolor{red}{#1}",
   "\\rtqMathsBoxedFilledValue": "\\boxed{\\rtqMathsFilledValue{#1}}",
   "\\rtqMathsBoxedEmptyValue": "\\boxed{\\phantom{9}}",
-  "\\rtqMathsSolvedOrder": "\\maroonC{\\footnotesize{(#1)}}",
-  "\\rtqMathsSolvedOrderPhantom": "\\phantom{\\maroonC{\\footnotesize{(#1)}}}",
+  "\\rtqMathsSolvedOrder":
+    "\\htmlClass{rtq-maths-working-step}{\\footnotesize{(#1)}}",
+  "\\rtqMathsSolvedOrderPhantom":
+    "\\phantom{\\htmlClass{rtq-maths-working-step}{\\footnotesize{(#1)}}}",
   "\\rtqMathsEquationNumber":
     "\\htmlClass{rtq-maths-equation-number}{\\footnotesize{(#1)}}",
   "\\rtqMathsColumnarArithmeticStyle": "\\def\\arraystretch{1.5}",
 };
 
+const rtqKatexApprovedClasses = new Set([
+  "rtq-maths-equation-number",
+  "rtq-maths-working-step",
+]);
+
 const trustRtqKatex = (context) =>
   context.command === "\\htmlClass" &&
-  context.class === "rtq-maths-equation-number";
+  rtqKatexApprovedClasses.has(context.class);
 
 module.exports = {
   siteMetadata: {

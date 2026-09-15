@@ -13,6 +13,7 @@ import {
   RTQ_EQUATION_NUMBER_CLASS,
   RTQ_EQUATION_NUMBER_EXPANSION,
   RTQ_EQUATION_NUMBER_MACRO,
+  RTQ_WORKING_STEP_CLASS,
 } from "./index.ts";
 
 type MacroContract = Readonly<{
@@ -98,14 +99,13 @@ test("renders equation numbers consistently in display and inline maths", () => 
   }
 });
 
-test("trusts only the canonical equation-number class", () => {
-  assert.equal(
-    options.trust({
-      class: RTQ_EQUATION_NUMBER_CLASS,
-      command: "\\htmlClass",
-    }),
-    true,
-  );
+test("trusts only canonical semantic classes", () => {
+  for (const className of [RTQ_EQUATION_NUMBER_CLASS, RTQ_WORKING_STEP_CLASS]) {
+    assert.equal(
+      options.trust({ class: className, command: "\\htmlClass" }),
+      true,
+    );
+  }
   assert.equal(
     options.trust({ class: "not-approved", command: "\\htmlClass" }),
     false,

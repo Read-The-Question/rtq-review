@@ -17,6 +17,7 @@
   --error: #a33232;
   --maths-working-carry: #70757b;
   --maths-working-remainder: #008000;
+  --rtq-maths-working-step: #ed5fa6;
   --long-division-working-rule: var(--muted-strong);
   --tag-family-fill: #ffeddd;
   --tag-family-line: #e1a05a;
@@ -79,6 +80,10 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: var(--font-geist-sans), Arial, Helvetica, sans-serif;
+}
+
+.rtq-maths-working-step {
+  color: var(--rtq-maths-working-step);
 }
 
 .sr-only {

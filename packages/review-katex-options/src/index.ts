@@ -1,4 +1,5 @@
 export const RTQ_EQUATION_NUMBER_CLASS = "rtq-maths-equation-number" as const;
+export const RTQ_WORKING_STEP_CLASS = "rtq-maths-working-step" as const;
 
 export const RTQ_EQUATION_NUMBER_MACRO = "\\rtqMathsEquationNumber" as const;
 
@@ -16,10 +17,16 @@ type KatexTrustContext = Readonly<{
   command: string;
 }>;
 
-export function trustRtqEquationNumber(context: KatexTrustContext): boolean {
+const RTQ_TRUSTED_SEMANTIC_CLASSES = new Set<string>([
+  RTQ_EQUATION_NUMBER_CLASS,
+  RTQ_WORKING_STEP_CLASS,
+]);
+
+export function trustRtqSemanticClass(context: KatexTrustContext): boolean {
   return (
     context.command === "\\htmlClass" &&
-    context.class === RTQ_EQUATION_NUMBER_CLASS
+    typeof context.class === "string" &&
+    RTQ_TRUSTED_SEMANTIC_CLASSES.has(context.class)
   );
 }
 
@@ -39,6 +46,6 @@ export function getRtqReviewKatexOptions<
     },
     strict: reviewKatexStrictness,
     throwOnError: false,
-    trust: trustRtqEquationNumber,
+    trust: trustRtqSemanticClass,
   } as const;
 }

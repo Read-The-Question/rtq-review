@@ -15,6 +15,7 @@
   --green: #15803d;
   --maths-working-carry: #70757b;
   --maths-working-remainder: #008000;
+  --rtq-maths-working-step: #ed5fa6;
   --long-division-working-rule: var(--muted);
   --amber: #6d5bd0;
   --blue: #1d4ed8;
@@ -61,6 +62,10 @@ body {
   margin: 0;
   color: var(--foreground);
   font-family: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+}
+
+.rtq-maths-working-step {
+  color: var(--rtq-maths-working-step);
 }
 
 .sr-only {

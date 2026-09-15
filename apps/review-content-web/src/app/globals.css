@@ -14,6 +14,7 @@
   --navy: #344054;
   --gold: #8a6116;
   --violet: #694f7c;
+  --rtq-maths-working-step: #ed5fa6;
   --feedback-background: #fff3f2;
   --review-approved-background: #16724b;
   --review-approved-border: #105c3c;
@@ -57,6 +58,10 @@ body {
   font-family: 'Avenir Next', Avenir, 'Segoe UI', sans-serif;
   font-size: 1rem;
   line-height: 1.5;
+}
+
+.rtq-maths-working-step {
+  color: var(--rtq-maths-working-step);
 }
 
 button,

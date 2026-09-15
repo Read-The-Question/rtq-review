@@ -9,7 +9,12 @@ body {
   --question-gap: 28px;
   --maths-working-carry: #70757b;
   --maths-working-remainder: #008000;
+  --rtq-maths-working-step: #ed5fa6;
   --long-division-working-rule: #444444;
+}
+
+.rtq-maths-working-step {
+  color: var(--rtq-maths-working-step);
 }
 
 .paper-long-division-alignment {

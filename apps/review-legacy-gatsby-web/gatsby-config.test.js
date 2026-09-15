@@ -32,6 +32,16 @@ test("applies columnar arithmetic spacing only when requested", () => {
   assert.match(columnar, /height:3\.6em/);
 });
 
+test("renders sequence steps through the semantic working-step class", () => {
+  const options = { ...getRtqKatexOptions(), throwOnError: true };
+  const html = katex.renderToString(
+    String.raw`\rtqMathsSequenceStep{+2}`,
+    options,
+  );
+
+  assert.match(html, /class="[^"]*rtq-maths-working-step/);
+});
+
 test("registers and renders the complete prefixed RTQ vocabulary", () => {
   const options = { ...getRtqKatexOptions(), throwOnError: true };
   const expected = [

@@ -26,7 +26,10 @@ test('registers all prefixed RTQ macros including one-to-one symbol wrappers', (
   assert.equal(rtqKatexMacros['\\rtqMathsSymbolEuro'], '\\text{€}');
   assert.equal(rtqKatexMacros['\\rtqMathsSymbolAsterisk'], '\\ast');
   assert.equal(rtqKatexMacros['\\rtqMathsSymbolBlackHeartSuit'], '\\heartsuit');
-  assert.equal(rtqKatexMacros['\\rtqMathsSymbolBlackTriangle'], '\\blacktriangle');
+  assert.equal(
+    rtqKatexMacros['\\rtqMathsSymbolBlackTriangle'],
+    '\\blacktriangle',
+  );
   assert.equal(rtqKatexMacros['\\rtqMathsSymbolBlackSquare'], '\\blacksquare');
   assert.equal(rtqKatexMacros['\\rtqMathsSymbolPound'], undefined);
   assert.equal(rtqKatexMacros['\\rtqMathsSymbolDegree'], undefined);
@@ -61,5 +64,5 @@ test('renders sequenceStep with a fractional step', () => {
   );
 
   assert.doesNotMatch(html, /katex-error/);
-  assert.match(html, /color:#ed5fa6/);
+  assert.match(html, /class="[^"]*rtq-maths-working-step/);
 });

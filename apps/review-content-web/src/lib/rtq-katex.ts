@@ -4,6 +4,7 @@ const reviewerKatexMacros: Record<string, string> = {
   '\\rtqMathsSymbolDollar': '\\text{\\textdollar}',
   '\\rtqMathsSymbolEuro': '\\text{€}',
   '\\rtqMathsSymbolAsterisk': '\\ast',
+  '\\rtqMathsSymbolBoxDot': '\\boxdot',
   '\\rtqMathsSymbolBlackHeartSuit': '\\heartsuit',
   '\\rtqMathsSymbolBlackTriangle': '\\blacktriangle',
   '\\rtqMathsSymbolBlackSquare': '\\blacksquare',

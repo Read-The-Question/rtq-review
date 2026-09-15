@@ -59,6 +59,7 @@ test("registers and renders the complete prefixed RTQ vocabulary", () => {
     "\\rtqMathsSolvedOrderPhantom",
     "\\rtqMathsSubtractBorrow",
     "\\rtqMathsSymbolAsterisk",
+    "\\rtqMathsSymbolBoxDot",
     "\\rtqMathsSymbolBigStarPendingReview",
     "\\rtqMathsSymbolBigTriangleUpPendingReview",
     "\\rtqMathsSymbolBlackHeartSuit",
@@ -87,6 +88,7 @@ test("registers and renders the complete prefixed RTQ vocabulary", () => {
     options.macros["\\rtqMathsSymbolTrianglePendingReview"],
     "\\triangle",
   );
+  assert.equal(options.macros["\\rtqMathsSymbolBoxDot"], "\\boxdot");
   const html = katex.renderToString(
     String.raw`\rtqMathsBoxedEmptyValue\rtqMathsEquationNumber{2}`,
     options,

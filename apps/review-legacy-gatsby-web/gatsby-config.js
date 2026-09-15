@@ -5,6 +5,7 @@ const rtqKatexMacros = {
   "\\rtqMathsSymbolDollar": "\\text{\\textdollar}",
   "\\rtqMathsSymbolEuro": "\\text{€}",
   "\\rtqMathsSymbolAsterisk": "\\ast",
+  "\\rtqMathsSymbolBoxDot": "\\boxdot",
   "\\rtqMathsSymbolBlackHeartSuit": "\\heartsuit",
   "\\rtqMathsSymbolBlackTriangle": "\\blacktriangle",
   "\\rtqMathsSymbolBlackSquare": "\\blacksquare",

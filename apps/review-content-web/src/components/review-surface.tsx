@@ -36,10 +36,12 @@ import {
   INITIAL_REVIEW_PREFERENCES_KEY,
   LEGACY_REVIEW_PREFERENCES_KEY,
   PREVIOUS_REVIEW_PREFERENCES_KEY,
+  REVIEW_FILTER_DISCLOSURE_KEY,
   REVIEW_PREFERENCES_KEY,
   activeReviewSides,
   adjacentQuestionId,
   collectionRoute,
+  parseReviewFilterDisclosure,
   parseReviewPreferences,
   reviewStateLabel,
   visibleReviewSides,
@@ -2039,6 +2041,7 @@ export function ReviewSurface({
   useEffect(() => {
     const frame = requestAnimationFrame(() => {
       let next = DEFAULT_REVIEW_PREFERENCES;
+      let nextFiltersExpanded = false;
       try {
         const stored = localStorage.getItem(REVIEW_PREFERENCES_KEY);
         next = parseReviewPreferences(
@@ -2054,7 +2057,15 @@ export function ReviewSurface({
       } catch {
         // Browser storage is optional; the in-memory controls still work.
       }
+      try {
+        nextFiltersExpanded = parseReviewFilterDisclosure(
+          localStorage.getItem(REVIEW_FILTER_DISCLOSURE_KEY),
+        );
+      } catch {
+        // The disclosure keeps its default when browser storage is unavailable.
+      }
       setPreferences(next);
+      setFiltersExpanded(nextFiltersExpanded);
     });
     return () => cancelAnimationFrame(frame);
   }, []);
@@ -2188,6 +2199,18 @@ export function ReviewSurface({
     });
   }
 
+  function updateFilterDisclosure(expanded: boolean) {
+    setFiltersExpanded(expanded);
+    try {
+      localStorage.setItem(
+        REVIEW_FILTER_DISCLOSURE_KEY,
+        JSON.stringify({ expanded }),
+      );
+    } catch {
+      // The disclosure remains usable when browser storage is unavailable.
+    }
+  }
+
   function toggleFilter(axis: DimensionalTagAxis, value: string) {
     const selected = selection[axis].includes(value);
     const nextSelection = {
@@ -2257,7 +2280,7 @@ export function ReviewSurface({
 
   function showFilters() {
     setFilterReturnQuestionId(activeId);
-    setFiltersExpanded(true);
+    updateFilterDisclosure(true);
     requestAnimationFrame(() => {
       const panel = document.getElementById('review-filters');
       panel?.scrollIntoView({ behavior: 'smooth', block: 'start' });
@@ -2636,7 +2659,7 @@ export function ReviewSurface({
           aria-controls="review-filters"
           aria-expanded={filtersExpanded}
           className="filter-disclosure-toggle"
-          onClick={() => setFiltersExpanded((expanded) => !expanded)}
+          onClick={() => updateFilterDisclosure(!filtersExpanded)}
           type="button"
         >
           <span aria-hidden="true">{filtersExpanded ? '−' : '+'}</span>

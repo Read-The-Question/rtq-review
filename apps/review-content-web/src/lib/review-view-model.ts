@@ -1,4 +1,6 @@
 export const REVIEW_PREFERENCES_KEY = 'rtq.review-content.preferences.v5';
+export const REVIEW_FILTER_DISCLOSURE_KEY =
+  'rtq.review-content.filter-disclosure.v1';
 export const PREVIOUS_REVIEW_PREFERENCES_KEY =
   'rtq.review-content.preferences.v4';
 export const LEGACY_REVIEW_PREFERENCES_KEY =
@@ -32,6 +34,21 @@ export const DEFAULT_REVIEW_PREFERENCES: ReviewPreferences = {
   showStatusBackground: false,
   showTags: true,
 };
+
+export function parseReviewFilterDisclosure(value: string | null): boolean {
+  if (!value) return false;
+  try {
+    const parsed: unknown = JSON.parse(value);
+    return (
+      Boolean(parsed) &&
+      typeof parsed === 'object' &&
+      !Array.isArray(parsed) &&
+      (parsed as Record<string, unknown>).expanded === true
+    );
+  } catch {
+    return false;
+  }
+}
 
 function parsePreferenceRecord(
   value: string | null,

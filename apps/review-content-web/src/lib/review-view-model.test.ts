@@ -7,11 +7,13 @@ import {
   INITIAL_REVIEW_PREFERENCES_KEY,
   LEGACY_REVIEW_PREFERENCES_KEY,
   PREVIOUS_REVIEW_PREFERENCES_KEY,
+  REVIEW_FILTER_DISCLOSURE_KEY,
   REVIEW_PREFERENCES_KEY,
   activeReviewSides,
   adjacentQuestionId,
   collectionRoute,
   paperRoute,
+  parseReviewFilterDisclosure,
   parseReviewPreferences,
   reviewStateLabel,
   visibleFeedbackSides,
@@ -36,6 +38,18 @@ test('display preference storage is versioned for review status treatments', () 
     INITIAL_REVIEW_PREFERENCES_KEY,
     'rtq.review-content.preferences.v1',
   );
+});
+
+test('review filter disclosure storage is versioned and safely parsed', () => {
+  assert.equal(
+    REVIEW_FILTER_DISCLOSURE_KEY,
+    'rtq.review-content.filter-disclosure.v1',
+  );
+  assert.equal(parseReviewFilterDisclosure(null), false);
+  assert.equal(parseReviewFilterDisclosure('{broken'), false);
+  assert.equal(parseReviewFilterDisclosure('{}'), false);
+  assert.equal(parseReviewFilterDisclosure('{"expanded":false}'), false);
+  assert.equal(parseReviewFilterDisclosure('{"expanded":true}'), true);
 });
 
 test('preferences survive partial and malformed local values', () => {

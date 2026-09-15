@@ -150,7 +150,7 @@ test('the sticky toolbar keeps compact filter access with focus and return contr
 
   assert.match(component, /aria-controls="review-filters"/);
   assert.match(component, /aria-expanded=\{filtersExpanded\}/);
-  assert.match(component, /setFiltersExpanded\(true\)/);
+  assert.match(component, /updateFilterDisclosure\(true\)/);
   assert.match(component, /filtersExpanded \? \(/);
   assert.match(component, /selectedFilterCount/);
   assert.match(component, /aria-label="Page navigation"/);
@@ -167,6 +167,24 @@ test('the sticky toolbar keeps compact filter access with focus and return contr
     /\.review-toolbar\s*{[^}]*position:\s*sticky;[^}]*top:\s*0/s,
   );
   assert.match(css, /\.filter-disclosure-toggle\s*{/);
+});
+
+test('review filter disclosure restores and persists its expanded state', async () => {
+  const component = await fs.readFile(componentUrl, 'utf8');
+
+  assert.match(
+    component,
+    /localStorage\.getItem\(REVIEW_FILTER_DISCLOSURE_KEY\)/,
+  );
+  assert.match(component, /parseReviewFilterDisclosure/);
+  assert.match(
+    component,
+    /localStorage\.setItem\([\s\S]*REVIEW_FILTER_DISCLOSURE_KEY,[\s\S]*JSON\.stringify\(\{ expanded \}\)/,
+  );
+  assert.match(
+    component,
+    /onClick=\{\(\) => updateFilterDisclosure\(!filtersExpanded\)\}/,
+  );
 });
 
 test('the sticky toolbar always exposes one explicitly selected review side', async () => {

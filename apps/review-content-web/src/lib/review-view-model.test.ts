@@ -12,6 +12,7 @@ import {
   paperRoute,
   parseReviewPreferences,
   reviewStateLabel,
+  visibleFeedbackSides,
   visibleReviewSides,
 } from './review-view-model.ts';
 
@@ -70,6 +71,32 @@ test('preferences migrate the former settings into the answer-first review defau
   );
 });
 
+test('feedback visibility migrates from review panels and then stays independent', () => {
+  assert.deepEqual(
+    parseReviewPreferences(
+      '{"showAnswerReview":false,"showQuestionReview":true}',
+    ),
+    {
+      ...DEFAULT_REVIEW_PREFERENCES,
+      showAnswerFeedback: false,
+      showAnswerReview: false,
+      showQuestionFeedback: true,
+      showQuestionReview: true,
+    },
+  );
+  assert.deepEqual(
+    parseReviewPreferences(
+      '{"showAnswerFeedback":true,"showAnswerReview":false,"showQuestionFeedback":true,"showQuestionReview":false}',
+    ),
+    {
+      ...DEFAULT_REVIEW_PREFERENCES,
+      showAnswerReview: false,
+      showQuestionFeedback: true,
+      showQuestionReview: false,
+    },
+  );
+});
+
 test('review controls default to simple and preserve an advanced selection', () => {
   assert.equal(parseReviewPreferences(null).reviewControlMode, 'simple');
   assert.equal(
@@ -123,6 +150,35 @@ test('review sides support both, question-only, answer-only, and neither', () =>
       ...DEFAULT_REVIEW_PREFERENCES,
       showAnswerReview: false,
       showQuestionReview: false,
+    }),
+    [],
+  );
+});
+
+test('feedback sides support both, question-only, answer-only, and neither', () => {
+  assert.deepEqual(visibleFeedbackSides(DEFAULT_REVIEW_PREFERENCES), [
+    'answer',
+  ]);
+  assert.deepEqual(
+    visibleFeedbackSides({
+      ...DEFAULT_REVIEW_PREFERENCES,
+      showQuestionFeedback: true,
+    }),
+    ['answer', 'question'],
+  );
+  assert.deepEqual(
+    visibleFeedbackSides({
+      ...DEFAULT_REVIEW_PREFERENCES,
+      showAnswerFeedback: false,
+      showQuestionFeedback: true,
+    }),
+    ['question'],
+  );
+  assert.deepEqual(
+    visibleFeedbackSides({
+      ...DEFAULT_REVIEW_PREFERENCES,
+      showAnswerFeedback: false,
+      showQuestionFeedback: false,
     }),
     [],
   );

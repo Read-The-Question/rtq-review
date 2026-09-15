@@ -48,6 +48,22 @@ test("registers and renders the complete prefixed RTQ vocabulary", () => {
     "\\rtqMathsSolvedOrder",
     "\\rtqMathsSolvedOrderPhantom",
     "\\rtqMathsSubtractBorrow",
+    "\\rtqMathsSymbolBigStarPendingReview",
+    "\\rtqMathsSymbolBigTriangleUpPendingReview",
+    "\\rtqMathsSymbolBlackHeartSuit",
+    "\\rtqMathsSymbolBlackLozengePendingReview",
+    "\\rtqMathsSymbolBlackSquare",
+    "\\rtqMathsSymbolBlackTriangle",
+    "\\rtqMathsSymbolBlackTrianglePendingReview",
+    "\\rtqMathsSymbolCheckmarkPendingReview",
+    "\\rtqMathsSymbolClubSuitPendingReview",
+    "\\rtqMathsSymbolDiamondSuitPendingReview",
+    "\\rtqMathsSymbolDollar",
+    "\\rtqMathsSymbolEuro",
+    "\\rtqMathsSymbolHeartSuitPendingReview",
+    "\\rtqMathsSymbolHeartsPendingReview",
+    "\\rtqMathsSymbolSpadeSuitPendingReview",
+    "\\rtqMathsSymbolTrianglePendingReview",
   ];
 
   assert.deepEqual(
@@ -55,6 +71,10 @@ test("registers and renders the complete prefixed RTQ vocabulary", () => {
       .filter((name) => name.startsWith("\\rtqMaths"))
       .sort(),
     expected,
+  );
+  assert.equal(
+    options.macros["\\rtqMathsSymbolTrianglePendingReview"],
+    "\\triangle",
   );
   const html = katex.renderToString(
     String.raw`\rtqMathsBoxedEmptyValue\rtqMathsEquationNumber{2}`,

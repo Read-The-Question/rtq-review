@@ -102,10 +102,12 @@ the browser and does not read TOML or contact Google Sheets.
 - Use **Clear all** to reset both state facets, all five tag dimensions, and the
   active question while retaining unrelated display parameters.
 - Use the simple display switches to show or hide workings and answers,
-  dimensional tags, raw TOML values, Question review, and Answer review. The
-  review sides are independent, so answer-only and question-only layouts are
-  supported. Display preferences stay in local browser storage and existing
-  combined review-panel preferences migrate to the two switches.
+  dimensional tags, raw TOML values, Question review, Answer review, Question
+  feedback, and Answer feedback. Review panels and populated feedback histories
+  are independently visible for each side, so the sticky quick-review controls
+  can be used with feedback visible and the full panels hidden. Display
+  preferences stay in local browser storage; existing settings initially show
+  feedback wherever the corresponding review panel was visible.
 - Use the persistent **Simple review** switch to choose between **Looks good**,
   **Make a change**, and **Reset**, or the complete descriptive request set.
   Detailed mode adds **Change Complete**, **Block it**, and **Coming

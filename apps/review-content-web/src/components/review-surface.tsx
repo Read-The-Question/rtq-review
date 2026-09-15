@@ -40,6 +40,7 @@ import {
   collectionRoute,
   parseReviewPreferences,
   reviewStateLabel,
+  visibleFeedbackSides,
   visibleReviewSides,
   type ReviewPreferences,
   type ReviewControlMode,
@@ -334,11 +335,6 @@ function ReviewScope({
   const key = target ? reviewTargetKey(target) : `${node.id}:${side}`;
   const outcomePending = runtime.pendingKeys.has(`${key}:outcome`);
   const commentPending = runtime.pendingKeys.has(`${key}:comment`);
-  const commentGroups = target
-    ? partitionReviewComments(runtime.comments, target)
-    : { current: [], history: [] };
-  const hasFeedback =
-    commentGroups.current.length > 0 || commentGroups.history.length > 0;
   const displayedOutcome = displayedReviewOutcome(
     node,
     side,
@@ -543,43 +539,72 @@ function ReviewScope({
           {status.message}
         </p>
       ) : null}
+    </section>
+  );
+}
 
-      <section
-        aria-label={`${side} feedback`}
-        aria-live="polite"
-        className={`feedback-region${hasFeedback ? ' feedback-region--populated' : ''}`}
-      >
-        <div className="comment-heading">
-          <div>
-            <strong>
-              {side === 'question' ? 'Question' : 'Answer'} feedback
-            </strong>
-            <span>
-              {target ? reviewStateLabel(target.ragState) : 'State unavailable'}
-            </span>
-          </div>
+function ReviewFeedback({
+  node,
+  runtime,
+  side,
+  topLevelQuestion,
+}: {
+  node: DisplayPaperNode;
+  runtime: ReviewRuntimeState;
+  side: ReviewSide;
+  topLevelQuestion: DisplayPaperNode;
+}) {
+  const target = reviewCommentTargetForNode(
+    node,
+    topLevelQuestion,
+    side,
+    runtime.source,
+  );
+  const commentGroups = target
+    ? partitionReviewComments(runtime.comments, target)
+    : { current: [], history: [] };
+  const legacyComments = node.review[side].legacyComments;
+  const hasFeedback =
+    commentGroups.current.length > 0 ||
+    commentGroups.history.length > 0 ||
+    Boolean(legacyComments);
+  if (!hasFeedback) return null;
+
+  return (
+    <section
+      aria-label={`${side} feedback`}
+      aria-live="polite"
+      className="feedback-region feedback-region--populated"
+    >
+      <div className="comment-heading">
+        <div>
+          <strong>
+            {side === 'question' ? 'Question' : 'Answer'} feedback
+          </strong>
           <span>
-            {commentGroups.current.length} current ·{' '}
-            {commentGroups.history.length} previous
+            {target ? reviewStateLabel(target.ragState) : 'State unavailable'}
           </span>
         </div>
-        <CommentList comments={commentGroups.current} current />
-        {runtime.showPreviousFeedback && commentGroups.history.length > 0 ? (
-          <section className="comment-history">
-            <div className="comment-history-heading">
-              <strong>Previous feedback</strong>
-              <span>{commentGroups.history.length} read only</span>
-            </div>
-            <p>These comments do not apply to the current RAG state.</p>
-            <CommentList comments={commentGroups.history} current={false} />
-          </section>
-        ) : null}
-      </section>
-
-      {node.review[side].legacyComments ? (
+        <span>
+          {commentGroups.current.length} current ·{' '}
+          {commentGroups.history.length} previous
+        </span>
+      </div>
+      <CommentList comments={commentGroups.current} current />
+      {runtime.showPreviousFeedback && commentGroups.history.length > 0 ? (
+        <section className="comment-history">
+          <div className="comment-history-heading">
+            <strong>Previous feedback</strong>
+            <span>{commentGroups.history.length} read only</span>
+          </div>
+          <p>These comments do not apply to the current RAG state.</p>
+          <CommentList comments={commentGroups.history} current={false} />
+        </section>
+      ) : null}
+      {legacyComments ? (
         <details className="legacy-source-comments">
           <summary>Legacy synchronized comment</summary>
-          <pre>{node.review[side].legacyComments}</pre>
+          <pre>{legacyComments}</pre>
         </details>
       ) : null}
     </section>
@@ -961,7 +986,23 @@ function QuestionNode({
           preferences={preferences}
         />
       </div>
+      {preferences.showQuestionFeedback ? (
+        <ReviewFeedback
+          node={node}
+          runtime={reviewRuntime}
+          side="question"
+          topLevelQuestion={topLevelQuestion}
+        />
+      ) : null}
       <SolutionContent node={node} preferences={preferences} />
+      {preferences.showAnswerFeedback ? (
+        <ReviewFeedback
+          node={node}
+          runtime={reviewRuntime}
+          side="answer"
+          topLevelQuestion={topLevelQuestion}
+        />
+      ) : null}
       {visibleReviewSides(preferences).length > 0 ? (
         <ReviewPanel
           node={node}
@@ -2401,6 +2442,18 @@ export function ReviewSurface({
             onChange={(value) => updatePreference('showAnswerReview', value)}
           />
           <PreferenceToggle
+            checked={Boolean(preferences.showQuestionFeedback)}
+            label="Question feedback"
+            onChange={(value) =>
+              updatePreference('showQuestionFeedback', value)
+            }
+          />
+          <PreferenceToggle
+            checked={Boolean(preferences.showAnswerFeedback)}
+            label="Answer feedback"
+            onChange={(value) => updatePreference('showAnswerFeedback', value)}
+          />
+          <PreferenceToggle
             checked={preferences.showStatusBackground}
             label="Status background"
             onChange={(value) =>
@@ -2409,37 +2462,37 @@ export function ReviewSurface({
           />
         </div>
         {visibleReviewSides(preferences).length > 0 ? (
-          <>
-            <div className="review-toolbar-group review-toolbar-group--mode">
-              <span className="toolbar-label">Review mode</span>
-              <PreferenceToggle
-                checked={preferences.reviewControlMode === 'simple'}
-                label="Simple review"
-                onChange={(value) =>
-                  updatePreference(
-                    'reviewControlMode',
-                    value ? 'simple' : 'advanced',
-                  )
-                }
-              />
-              <span className="feedback-mode-copy">
-                {preferences.reviewControlMode === 'simple'
-                  ? 'Looks good / Make a change / Reset'
-                  : 'All review requests'}
-              </span>
-            </div>
-            <div className="review-toolbar-group review-toolbar-group--feedback">
-              <span className="toolbar-label">Feedback</span>
-              <PreferenceToggle
-                checked={showPreviousFeedback}
-                label="Show previous feedback"
-                onChange={setShowPreviousFeedback}
-              />
-              <span className="feedback-mode-copy">
-                {showPreviousFeedback ? 'All RAG states' : 'Current RAG only'}
-              </span>
-            </div>
-          </>
+          <div className="review-toolbar-group review-toolbar-group--mode">
+            <span className="toolbar-label">Review mode</span>
+            <PreferenceToggle
+              checked={preferences.reviewControlMode === 'simple'}
+              label="Simple review"
+              onChange={(value) =>
+                updatePreference(
+                  'reviewControlMode',
+                  value ? 'simple' : 'advanced',
+                )
+              }
+            />
+            <span className="feedback-mode-copy">
+              {preferences.reviewControlMode === 'simple'
+                ? 'Looks good / Make a change / Reset'
+                : 'All review requests'}
+            </span>
+          </div>
+        ) : null}
+        {visibleFeedbackSides(preferences).length > 0 ? (
+          <div className="review-toolbar-group review-toolbar-group--feedback">
+            <span className="toolbar-label">Feedback</span>
+            <PreferenceToggle
+              checked={showPreviousFeedback}
+              label="Show previous feedback"
+              onChange={setShowPreviousFeedback}
+            />
+            <span className="feedback-mode-copy">
+              {showPreviousFeedback ? 'All RAG states' : 'Current RAG only'}
+            </span>
+          </div>
         ) : null}
         <div className="review-toolbar-group review-toolbar-group--quick-review">
           <div className="keyboard-review-target" aria-live="polite">

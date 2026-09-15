@@ -4,12 +4,30 @@ import test from 'node:test';
 import { renderMarkdownToHtml } from './markdown-renderer.ts';
 import { rtqKatexMacros } from './rtq-katex.ts';
 
-test('registers all thirteen prefixed RTQ macros', () => {
+test('registers all prefixed RTQ macros including one-to-one symbol wrappers', () => {
   assert.equal(
     Object.keys(rtqKatexMacros).filter(name => name.startsWith('\\rtqMaths'))
       .length,
-    13,
+    29,
   );
+  assert.equal(
+    rtqKatexMacros['\\rtqMathsSymbolTrianglePendingReview'],
+    '\\triangle',
+  );
+  assert.equal(
+    rtqKatexMacros['\\rtqMathsSymbolHeartsPendingReview'],
+    '\\hearts',
+  );
+  assert.equal(
+    rtqKatexMacros['\\rtqMathsSymbolHeartSuitPendingReview'],
+    '\\heartsuit',
+  );
+  assert.equal(rtqKatexMacros['\\rtqMathsSymbolEuro'], '\\text{€}');
+  assert.equal(rtqKatexMacros['\\rtqMathsSymbolBlackHeartSuit'], '\\heartsuit');
+  assert.equal(rtqKatexMacros['\\rtqMathsSymbolBlackTriangle'], '\\blacktriangle');
+  assert.equal(rtqKatexMacros['\\rtqMathsSymbolBlackSquare'], '\\blacksquare');
+  assert.equal(rtqKatexMacros['\\rtqMathsSymbolPound'], undefined);
+  assert.equal(rtqKatexMacros['\\rtqMathsSymbolDegree'], undefined);
 });
 
 test('renders the shared equationNumber macro through Markdown', async () => {

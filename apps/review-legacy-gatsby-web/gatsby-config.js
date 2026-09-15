@@ -2,6 +2,22 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 const rtqKatexMacros = {
+  "\\rtqMathsSymbolDollar": "\\text{\\textdollar}",
+  "\\rtqMathsSymbolEuro": "\\text{€}",
+  "\\rtqMathsSymbolBlackHeartSuit": "\\heartsuit",
+  "\\rtqMathsSymbolBlackTriangle": "\\blacktriangle",
+  "\\rtqMathsSymbolBlackSquare": "\\blacksquare",
+  "\\rtqMathsSymbolHeartsPendingReview": "\\hearts",
+  "\\rtqMathsSymbolHeartSuitPendingReview": "\\heartsuit",
+  "\\rtqMathsSymbolSpadeSuitPendingReview": "\\spadesuit",
+  "\\rtqMathsSymbolClubSuitPendingReview": "\\clubsuit",
+  "\\rtqMathsSymbolDiamondSuitPendingReview": "\\diamondsuit",
+  "\\rtqMathsSymbolTrianglePendingReview": "\\triangle",
+  "\\rtqMathsSymbolBigTriangleUpPendingReview": "\\bigtriangleup",
+  "\\rtqMathsSymbolBlackTrianglePendingReview": "\\blacktriangle",
+  "\\rtqMathsSymbolBigStarPendingReview": "\\bigstar",
+  "\\rtqMathsSymbolBlackLozengePendingReview": "\\blacklozenge",
+  "\\rtqMathsSymbolCheckmarkPendingReview": "\\checkmark",
   // RTQ content macros are real KaTeX macros, so they only apply inside math
   // blocks. Keep non-math scaffolding placeholders in the Rukian pipeline.
   // "\\rtqMathsAddCarryOver": "\\scriptstyle \\grayF",

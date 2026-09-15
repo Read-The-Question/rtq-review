@@ -29,6 +29,8 @@ test('display preferences use accessible switches and independent review sides',
   assert.match(component, /role="switch"/);
   assert.match(component, /label="Question review"/);
   assert.match(component, /label="Answer review"/);
+  assert.match(component, /label="Question feedback"/);
+  assert.match(component, /label="Answer feedback"/);
   assert.match(component, /label="Status background"/);
   assert.match(component, /label="Simple review"/);
   assert.match(component, /label="Show previous feedback"/);
@@ -224,24 +226,35 @@ test('previous feedback is controlled globally without repeated hidden-history p
   const component = await fs.readFile(componentUrl, 'utf8');
 
   assert.match(component, /label="Show previous feedback"/);
+  assert.match(component, /visibleFeedbackSides\(preferences\)\.length > 0/);
   assert.match(component, /runtime\.showPreviousFeedback/);
   assert.doesNotMatch(component, /previous comments are hidden/i);
   assert.doesNotMatch(component, /Use Show previous feedback above/i);
 });
 
-test('feedback follows the stable composer in a full-width review flow', async () => {
+test('feedback is independent from review panels and only renders when populated', async () => {
   const [component, css] = await Promise.all([
     fs.readFile(componentUrl, 'utf8'),
     fs.readFile(cssUrl, 'utf8'),
   ]);
-  const composerPosition = component.indexOf('className="comment-form"');
-  const feedbackPosition = component.indexOf('className={`feedback-region');
-
-  assert.ok(composerPosition >= 0, 'comment composer should render');
-  assert.ok(
-    feedbackPosition > composerPosition,
-    'growing feedback should render after the stable composer',
+  const reviewScope = component.slice(
+    component.indexOf('function ReviewScope'),
+    component.indexOf('function ReviewFeedback'),
   );
+
+  assert.match(reviewScope, /className="comment-form"/);
+  assert.doesNotMatch(reviewScope, /feedback-region/);
+  assert.match(component, /function ReviewFeedback/);
+  assert.match(component, /if \(!hasFeedback\) return null/);
+  assert.match(
+    component,
+    /preferences\.showQuestionFeedback[\s\S]*side="question"/,
+  );
+  assert.match(
+    component,
+    /<SolutionContent[\s\S]*preferences\.showAnswerFeedback[\s\S]*side="answer"/,
+  );
+  assert.match(component, /visibleReviewSides\(preferences\)\.length > 0/);
   assert.match(
     css,
     /\.review-scopes\s*{[^}]*grid-template-columns:\s*minmax\(0, 1fr\)/s,

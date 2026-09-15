@@ -12,7 +12,9 @@ export type VisibleReviewSide = 'answer' | 'question';
 export type ReviewPreferences = Readonly<{
   reviewControlMode: ReviewControlMode;
   reviewTargetSide: VisibleReviewSide;
+  showAnswerFeedback: boolean;
   showAnswerReview: boolean;
+  showQuestionFeedback: boolean;
   showQuestionReview: boolean;
   showRaw: boolean;
   showSolutions: boolean;
@@ -23,7 +25,9 @@ export type ReviewPreferences = Readonly<{
 export const DEFAULT_REVIEW_PREFERENCES: ReviewPreferences = {
   reviewControlMode: 'simple',
   reviewTargetSide: 'answer',
+  showAnswerFeedback: true,
   showAnswerReview: true,
+  showQuestionFeedback: false,
   showQuestionReview: false,
   showRaw: false,
   showSolutions: true,
@@ -87,6 +91,14 @@ export function parseReviewPreferences(
     legacy?.reviewControlMode ??
     initial?.reviewControlMode;
   const requestedReviewTargetSide = parsed?.reviewTargetSide;
+  const showAnswerReview = preference(
+    'showAnswerReview',
+    oldReviewPreference ?? DEFAULT_REVIEW_PREFERENCES.showAnswerReview,
+  );
+  const showQuestionReview =
+    typeof parsed?.showQuestionReview === 'boolean'
+      ? parsed.showQuestionReview
+      : DEFAULT_REVIEW_PREFERENCES.showQuestionReview;
 
   return {
     reviewControlMode:
@@ -98,14 +110,13 @@ export function parseReviewPreferences(
       requestedReviewTargetSide === 'question'
         ? requestedReviewTargetSide
         : DEFAULT_REVIEW_PREFERENCES.reviewTargetSide,
-    showAnswerReview: preference(
-      'showAnswerReview',
-      oldReviewPreference ?? DEFAULT_REVIEW_PREFERENCES.showAnswerReview,
+    showAnswerFeedback: preference('showAnswerFeedback', showAnswerReview),
+    showAnswerReview,
+    showQuestionFeedback: preference(
+      'showQuestionFeedback',
+      showQuestionReview,
     ),
-    showQuestionReview:
-      typeof parsed?.showQuestionReview === 'boolean'
-        ? parsed.showQuestionReview
-        : DEFAULT_REVIEW_PREFERENCES.showQuestionReview,
+    showQuestionReview,
     showRaw: preference('showRaw', DEFAULT_REVIEW_PREFERENCES.showRaw),
     showSolutions: preference(
       'showSolutions',
@@ -125,6 +136,15 @@ export function visibleReviewSides(
   const sides: VisibleReviewSide[] = [];
   if (preferences.showAnswerReview) sides.push('answer');
   if (preferences.showQuestionReview) sides.push('question');
+  return sides;
+}
+
+export function visibleFeedbackSides(
+  preferences: ReviewPreferences,
+): readonly VisibleReviewSide[] {
+  const sides: VisibleReviewSide[] = [];
+  if (preferences.showAnswerFeedback) sides.push('answer');
+  if (preferences.showQuestionFeedback) sides.push('question');
   return sides;
 }
 

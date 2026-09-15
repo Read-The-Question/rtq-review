@@ -1,6 +1,22 @@
 import { getRtqReviewKatexOptions } from '@rtq/review-katex-options';
 
 const reviewerKatexMacros: Record<string, string> = {
+  '\\rtqMathsSymbolDollar': '\\text{\\textdollar}',
+  '\\rtqMathsSymbolEuro': '\\text{€}',
+  '\\rtqMathsSymbolBlackHeartSuit': '\\heartsuit',
+  '\\rtqMathsSymbolBlackTriangle': '\\blacktriangle',
+  '\\rtqMathsSymbolBlackSquare': '\\blacksquare',
+  '\\rtqMathsSymbolHeartsPendingReview': '\\hearts',
+  '\\rtqMathsSymbolHeartSuitPendingReview': '\\heartsuit',
+  '\\rtqMathsSymbolSpadeSuitPendingReview': '\\spadesuit',
+  '\\rtqMathsSymbolClubSuitPendingReview': '\\clubsuit',
+  '\\rtqMathsSymbolDiamondSuitPendingReview': '\\diamondsuit',
+  '\\rtqMathsSymbolTrianglePendingReview': '\\triangle',
+  '\\rtqMathsSymbolBigTriangleUpPendingReview': '\\bigtriangleup',
+  '\\rtqMathsSymbolBlackTrianglePendingReview': '\\blacktriangle',
+  '\\rtqMathsSymbolBigStarPendingReview': '\\bigstar',
+  '\\rtqMathsSymbolBlackLozengePendingReview': '\\blacklozenge',
+  '\\rtqMathsSymbolCheckmarkPendingReview': '\\checkmark',
   '\\rtqMathsAddCarryOver': '\\scriptstyle \\grayF',
   '\\rtqMathsMultiplyCarryOver': '\\scriptstyle \\grayF{#1}',
   '\\rtqMathsSubtractBorrow': '\\textstyle \\green',

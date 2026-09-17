@@ -1606,8 +1606,7 @@ a.paper-row:hover {
   gap: 0.35rem;
 }
 
-.review-lane-action,
-.review-lane-more > summary {
+.review-lane-action {
   background: var(--paper-bright);
   border: 1px solid var(--rule-strong);
   color: var(--ink);
@@ -1624,9 +1623,7 @@ a.paper-row:hover {
 }
 
 .review-lane-action:hover:not(:disabled),
-.review-lane-action:focus-visible,
-.review-lane-more > summary:hover,
-.review-lane-more > summary:focus-visible {
+.review-lane-action:focus-visible {
   box-shadow: inset 0 -3px 0 var(--review-lane-accent);
 }
 
@@ -1637,39 +1634,6 @@ a.paper-row:hover {
 
 .review-lane-action--comment {
   border-style: dashed;
-}
-
-.review-lane-more {
-  position: relative;
-}
-
-.review-lane-more > summary {
-  align-items: center;
-  display: flex;
-  list-style: none;
-}
-
-.review-lane-more > summary::-webkit-details-marker {
-  display: none;
-}
-
-.review-lane-more > summary::after {
-  content: '▾';
-  margin-left: 0.4rem;
-}
-
-.review-lane-more > div {
-  background: var(--paper-bright);
-  border: 1px solid var(--rule-strong);
-  box-shadow: 0 0.75rem 1.5rem rgb(32 28 23 / 14%);
-  display: grid;
-  gap: 0.35rem;
-  min-width: 10rem;
-  padding: 0.45rem;
-  position: absolute;
-  right: 0;
-  top: calc(100% + 0.3rem);
-  z-index: 31;
 }
 
 .review-lane-footer {

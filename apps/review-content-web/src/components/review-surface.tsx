@@ -1239,40 +1239,29 @@ function ReviewLane({
         >
           Comment
         </button>
-        <details className="review-lane-more review-popover">
-          <summary>More</summary>
-          <div>
-            {SECONDARY_REVIEW_OPTIONS.map((option) => (
-              <button
-                aria-pressed={outcome === option.outcome}
-                className={`review-lane-action review-lane-action--${option.tone}`}
-                disabled={actionDisabled}
-                key={option.outcome}
-                onClick={(event) => {
-                  dismissReviewPopover(event.currentTarget);
-                  onOutcome(option.outcome);
-                }}
-                title={disabledReason}
-                type="button"
-              >
-                {option.actionLabel}
-              </button>
-            ))}
-            <button
-              aria-pressed={!outcome}
-              className="review-lane-action review-lane-action--reset"
-              disabled={actionDisabled}
-              onClick={(event) => {
-                dismissReviewPopover(event.currentTarget);
-                onOutcome(null);
-              }}
-              title={disabledReason}
-              type="button"
-            >
-              Reset
-            </button>
-          </div>
-        </details>
+        {SECONDARY_REVIEW_OPTIONS.map((option) => (
+          <button
+            aria-pressed={outcome === option.outcome}
+            className={`review-lane-action review-lane-action--${option.tone}`}
+            disabled={actionDisabled}
+            key={option.outcome}
+            onClick={() => onOutcome(option.outcome)}
+            title={disabledReason}
+            type="button"
+          >
+            {option.actionLabel}
+          </button>
+        ))}
+        <button
+          aria-pressed={!outcome}
+          className="review-lane-action review-lane-action--reset"
+          disabled={actionDisabled}
+          onClick={() => onOutcome(null)}
+          title={disabledReason}
+          type="button"
+        >
+          Reset
+        </button>
       </div>
       <div className="review-lane-footer">
         <PreferenceToggle

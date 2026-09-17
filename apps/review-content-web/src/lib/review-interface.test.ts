@@ -201,18 +201,21 @@ test('the sticky toolbar always exposes one explicitly selected review side', as
   assert.equal(component.match(/<ReviewLane/g)?.length, 1);
   assert.match(component, /PRIMARY_REVIEW_OPTIONS\.map/);
   assert.match(component, /SECONDARY_REVIEW_OPTIONS\.map/);
+  assert.match(component, /onClick=\{\(\) => onOutcome\(option\.outcome\)\}/);
+  assert.match(component, /onClick=\{\(\) => onOutcome\(null\)\}/);
+  assert.doesNotMatch(component, /<summary>More<\/summary>/);
+  assert.doesNotMatch(component, /review-lane-more/);
   assert.doesNotMatch(component, /review-lane--disabled/);
 });
 
-test('sticky toolbar popovers dismiss after selection, outside click, and Escape', async () => {
+test('the sticky View popover dismisses after selection, outside click, and Escape', async () => {
   const component = await fs.readFile(componentUrl, 'utf8');
 
   assert.match(component, /function dismissReviewPopover/);
-  assert.match(component, /review-lane-more review-popover/);
   assert.match(component, /review-view-menu review-popover/);
   assert.match(
     component,
-    /dismissReviewPopover\(event\.currentTarget\);[\s\S]*onOutcome\(option\.outcome\)/,
+    /onChange=\{\(event\) => dismissReviewPopover\(event\.currentTarget\)\}/,
   );
   assert.match(
     component,

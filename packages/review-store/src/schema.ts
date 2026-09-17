@@ -7,6 +7,13 @@ import {
   uniqueIndex,
 } from "drizzle-orm/sqlite-core";
 
+const REVIEW_SIDE_VALUES = [
+  "question",
+  "answer",
+  "question-image",
+  "answer-image",
+] as const;
+
 export const globalReviewFindings = sqliteTable(
   "global_review_findings",
   {
@@ -26,7 +33,7 @@ export const globalReviewFindings = sqliteTable(
     sourceNodeUuid: text("source_node_uuid"),
     sourceNodeLabel: text("source_node_label").notNull(),
     sourceSide: text("source_side", {
-      enum: ["question", "answer"],
+      enum: REVIEW_SIDE_VALUES,
     }).notNull(),
     processedAt: text("processed_at"),
     processedBy: text("processed_by"),
@@ -56,7 +63,7 @@ export const reviewComments = sqliteTable(
     id: text("id").primaryKey(),
     submissionId: text("submission_id").notNull(),
     uuid: text("rtq_uuid").notNull(),
-    side: text("side", { enum: ["question", "answer"] }).notNull(),
+    side: text("side", { enum: REVIEW_SIDE_VALUES }).notNull(),
     ragState: text("rag_state").notNull(),
     comment: text("comment").notNull(),
     reviewer: text("reviewer").notNull(),
@@ -65,7 +72,7 @@ export const reviewComments = sqliteTable(
   (table) => [
     check(
       "review_comments_side_check",
-      sql`${table.side} in ('question', 'answer')`,
+      sql`${table.side} in ('question', 'answer', 'question-image', 'answer-image')`,
     ),
     uniqueIndex("review_comments_submission_id_unique").on(table.submissionId),
     index("review_comments_identity_state_created_idx").on(
@@ -81,7 +88,7 @@ export const reviewOutcomes = sqliteTable(
   "review_outcomes",
   {
     uuid: text("rtq_uuid").notNull(),
-    side: text("side", { enum: ["question", "answer"] }).notNull(),
+    side: text("side", { enum: REVIEW_SIDE_VALUES }).notNull(),
     ragState: text("rag_state").notNull(),
     outcome: text("outcome").notNull(),
     reviewer: text("reviewer").notNull(),
@@ -91,7 +98,7 @@ export const reviewOutcomes = sqliteTable(
   (table) => [
     check(
       "review_outcomes_side_check",
-      sql`${table.side} in ('question', 'answer')`,
+      sql`${table.side} in ('question', 'answer', 'question-image', 'answer-image')`,
     ),
     uniqueIndex("review_outcomes_identity_state_unique").on(
       table.uuid,

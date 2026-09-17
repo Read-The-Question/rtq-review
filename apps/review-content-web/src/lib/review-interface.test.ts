@@ -114,7 +114,7 @@ test('top-level questions expose current outcomes and feedback as scan badges', 
   assert.match(component, /aria-label="Review target"/);
   assert.match(component, /question-status-rail--\$\{tone\}/);
   assert.match(component, /question-status-rail--\$\{side\}/);
-  assert.match(component, /side === 'answer' \? 'A' : 'Q'/);
+  assert.match(component, /reviewSideShortLabel\(side\)/);
   assert.match(
     component,
     /question-node--status-background-\$\{backgroundTone\}/,
@@ -191,7 +191,7 @@ test('the sticky toolbar always exposes one explicitly selected review side', as
   const component = await fs.readFile(componentUrl, 'utf8');
 
   assert.match(component, /function ReviewSideSelector/);
-  assert.match(component, /\(\['question', 'answer'\] as const\)\.map/);
+  assert.match(component, /REVIEW_SIDE_OPTIONS\.map/);
   assert.match(component, /updatePreference\('reviewSide', side\)/);
   assert.match(
     component,
@@ -342,11 +342,8 @@ test('the review console follows the exact visible node with explicit side targe
     component,
     /right\.cursor\.node\.depth - left\.cursor\.node\.depth/,
   );
-  assert.match(component, /currentCursor\.topLevelQuestion,[\s\S]*'question'/);
-  assert.match(
-    component,
-    /reviewTargetForNode\(\s*currentCursor\.topLevelQuestion,\s*'answer'/s,
-  );
+  assert.match(component, /function toolbarOutcomeTarget\(side: ReviewSide\)/);
+  assert.match(component, /currentCursor\.topLevelQuestion,[\s\S]*side,/);
   assert.match(
     component,
     /reviewCommentTargetForNode\(\s*currentCursor\.node,\s*currentCursor\.topLevelQuestion/s,

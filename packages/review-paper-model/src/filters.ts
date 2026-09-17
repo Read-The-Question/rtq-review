@@ -35,23 +35,38 @@ const facetLabels: Readonly<Record<DimensionalTagAxis, string>> = {
 
 const stateFacetParameters = {
   answer: 'answerRag',
+  'answer-image': 'answerImageRag',
   question: 'questionRag',
+  'question-image': 'questionImageRag',
 } as const;
 
 const stateFacetLabels: Readonly<Record<ReviewStateFilterSide, string>> = {
   answer: 'Answer state',
+  'answer-image': 'Answer image state',
   question: 'Question state',
+  'question-image': 'Question image state',
 };
 
 const outcomeFacetParameters = {
   answer: 'answerReview',
+  'answer-image': 'answerImageReview',
   question: 'questionReview',
+  'question-image': 'questionImageReview',
 } as const;
 
 const outcomeFacetLabels: Readonly<Record<ReviewOutcomeFilterSide, string>> = {
   answer: 'Answer review outcome',
+  'answer-image': 'Answer image review outcome',
   question: 'Question review outcome',
+  'question-image': 'Question image review outcome',
 };
+
+const reviewFilterSides = [
+  'question',
+  'question-image',
+  'answer',
+  'answer-image',
+] as const satisfies readonly ReviewStateFilterSide[];
 
 function compareValues(left: string, right: string): number {
   return left.localeCompare(right, undefined, {
@@ -73,8 +88,12 @@ export function emptyDimensionalFilterSelection(): DimensionalFilterSelection {
 export function emptyReviewFilterSelection(): ReviewFilterSelection {
   return {
     ...emptyDimensionalFilterSelection(),
+    answerImageRag: [],
+    answerImageReview: [],
     answerRag: [],
     answerReview: [],
+    questionImageRag: [],
+    questionImageReview: [],
     questionRag: [],
     questionReview: [],
   };
@@ -108,8 +127,12 @@ export function normalizeReviewFilterSelection(
 ): ReviewFilterSelection {
   return {
     ...normalizeDimensionalFilterSelection(selection),
+    answerImageRag: normalizeStateValues(selection.answerImageRag),
+    answerImageReview: normalizeStateValues(selection.answerImageReview),
     answerRag: normalizeStateValues(selection.answerRag),
     answerReview: normalizeStateValues(selection.answerReview),
+    questionImageRag: normalizeStateValues(selection.questionImageRag),
+    questionImageReview: normalizeStateValues(selection.questionImageReview),
     questionRag: normalizeStateValues(selection.questionRag),
     questionReview: normalizeStateValues(selection.questionReview),
   };
@@ -157,8 +180,12 @@ export function parseReviewFilterSearchParams(
   const searchParams = searchParamsFrom(value);
   return normalizeReviewFilterSelection({
     ...parseDimensionalFilterSearchParams(searchParams),
+    answerImageRag: searchParams.getAll('answer-image-rag'),
+    answerImageReview: searchParams.getAll('answer-image-review'),
     answerRag: searchParams.getAll('answer-rag'),
     answerReview: searchParams.getAll('answer-review'),
+    questionImageRag: searchParams.getAll('question-image-rag'),
+    questionImageReview: searchParams.getAll('question-image-review'),
     questionRag: searchParams.getAll('question-rag'),
     questionReview: searchParams.getAll('question-review'),
   });
@@ -173,15 +200,31 @@ export function serializeReviewFilterSearchParams(
     serializeDimensionalFilterSearchParams(normalized, current),
   );
 
+  searchParams.delete('answer-image-rag');
+  searchParams.delete('answer-image-review');
   searchParams.delete('answer-rag');
   searchParams.delete('answer-review');
+  searchParams.delete('question-image-rag');
+  searchParams.delete('question-image-review');
   searchParams.delete('question-rag');
   searchParams.delete('question-review');
+  for (const value of normalized.answerImageRag) {
+    searchParams.append('answer-image-rag', value);
+  }
+  for (const value of normalized.answerImageReview) {
+    searchParams.append('answer-image-review', value);
+  }
   for (const value of normalized.answerRag) {
     searchParams.append('answer-rag', value);
   }
   for (const value of normalized.answerReview) {
     searchParams.append('answer-review', value);
+  }
+  for (const value of normalized.questionImageRag) {
+    searchParams.append('question-image-rag', value);
+  }
+  for (const value of normalized.questionImageReview) {
+    searchParams.append('question-image-review', value);
   }
   for (const value of normalized.questionRag) {
     searchParams.append('question-rag', value);
@@ -213,7 +256,9 @@ export function clearReviewOutcomeFilters(
 ): ReviewFilterSelection {
   return normalizeReviewFilterSelection({
     ...selection,
+    answerImageReview: [],
     answerReview: [],
+    questionImageReview: [],
     questionReview: [],
   });
 }
@@ -239,7 +284,7 @@ function nodeMatches(
   });
   if (!dimensionsMatch) return false;
 
-  return (['question', 'answer'] as const).every((side) => {
+  return reviewFilterSides.every((side) => {
     if (side === excludedStateSide) return true;
     const selected = selection[stateFacetParameters[side]];
     if (selected.length === 0) return true;
@@ -287,7 +332,7 @@ function treeMatchesReviewOutcomes(
   context: ReviewOutcomeFilterContext | undefined,
 ): boolean {
   if (!context) return true;
-  return (['question', 'answer'] as const).every((side) => {
+  return reviewFilterSides.every((side) => {
     const selected = selection[outcomeFacetParameters[side]];
     return (
       selected.length === 0 ||
@@ -454,29 +499,27 @@ export function filterReviewPaper(
       return { count, disabled: count === 0 && !selected, selected, value };
     }),
   }));
-  const stateFacets: ReviewStateFacet[] = (['question', 'answer'] as const).map(
-    (side) => {
-      const parameter = stateFacetParameters[side];
-      return {
-        label: stateFacetLabels[side],
-        options: stateFacetValues(paper, selection, side).map((value) => {
-          const count = stateFacetCount(
-            trees,
-            selection,
-            side,
-            value,
-            outcomeContext,
-          );
-          const selected = selection[parameter].includes(value);
-          return { count, disabled: count === 0 && !selected, selected, value };
-        }),
-        parameter,
-        side,
-      };
-    },
-  );
+  const stateFacets: ReviewStateFacet[] = reviewFilterSides.map((side) => {
+    const parameter = stateFacetParameters[side];
+    return {
+      label: stateFacetLabels[side],
+      options: stateFacetValues(paper, selection, side).map((value) => {
+        const count = stateFacetCount(
+          trees,
+          selection,
+          side,
+          value,
+          outcomeContext,
+        );
+        const selected = selection[parameter].includes(value);
+        return { count, disabled: count === 0 && !selected, selected, value };
+      }),
+      parameter,
+      side,
+    };
+  });
   const reviewOutcomeFacets: ReviewOutcomeFacet[] = outcomeContext
-    ? (['question', 'answer'] as const).map((side) => {
+    ? reviewFilterSides.map((side) => {
         const parameter = outcomeFacetParameters[side];
         return {
           label: outcomeFacetLabels[side],

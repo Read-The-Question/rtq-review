@@ -15,6 +15,7 @@ import type {
   ReviewCommentTarget,
   ReviewTargetIdentity,
 } from "./types.ts";
+import { isReviewSide } from "./types.ts";
 
 export type AppendReviewComment = ReviewTargetIdentity &
   Readonly<{
@@ -156,7 +157,7 @@ function validateTarget(target: ReviewCommentTarget): void {
   if (!target.ragState.trim()) {
     throw new ReviewStoreValidationError("ragState");
   }
-  if (target.side !== "answer" && target.side !== "question") {
+  if (!isReviewSide(target.side)) {
     throw new ReviewStoreValidationError("side");
   }
 }

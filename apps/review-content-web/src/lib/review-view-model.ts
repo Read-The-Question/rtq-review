@@ -11,7 +11,7 @@ export const INITIAL_REVIEW_PREFERENCES_KEY =
   'rtq.review-content.preferences.v1';
 
 export type ReviewControlMode = 'advanced' | 'simple';
-export type VisibleReviewSide = 'answer' | 'question';
+export type VisibleReviewSide = ReviewSide;
 
 export type ReviewPreferences = Readonly<{
   reviewControlMode: ReviewControlMode;
@@ -110,7 +110,12 @@ export function parseReviewPreferences(
   function legacySide(): VisibleReviewSide {
     for (const record of records) {
       const requestedSide = record?.reviewSide ?? record?.reviewTargetSide;
-      if (requestedSide === 'answer' || requestedSide === 'question') {
+      if (
+        requestedSide === 'answer' ||
+        requestedSide === 'answer-image' ||
+        requestedSide === 'question' ||
+        requestedSide === 'question-image'
+      ) {
         return requestedSide;
       }
       if (
@@ -145,6 +150,7 @@ export function parseReviewPreferences(
     side: VisibleReviewSide,
     suffix: 'Feedback' | 'Review',
   ): boolean | undefined {
+    if (side === 'answer-image' || side === 'question-image') return undefined;
     const key = `show${side === 'question' ? 'Question' : 'Answer'}${suffix}`;
     for (const record of records) {
       const requested = record?.[key];
@@ -263,3 +269,4 @@ export function reviewStateLabel(value: string): string {
     .replaceAll(/[_-]+/g, ' ')
     .toUpperCase();
 }
+import type { ReviewSide } from '@rtq/review-store/types';

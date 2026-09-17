@@ -94,6 +94,26 @@ const SECONDARY_REVIEW_OPTIONS = REVIEW_OUTCOME_OPTIONS.filter(
   ({ outcome }) => outcome === 'PRBD' || outcome === 'PRCS',
 );
 
+const REVIEW_SIDE_OPTIONS = [
+  { label: 'Question', shortLabel: 'Q', value: 'question' },
+  { label: 'Question image', shortLabel: 'QI', value: 'question-image' },
+  { label: 'Answer', shortLabel: 'A', value: 'answer' },
+  { label: 'Answer image', shortLabel: 'AI', value: 'answer-image' },
+] as const satisfies readonly Readonly<{
+  label: string;
+  shortLabel: string;
+  value: ReviewSide;
+}>[];
+
+function reviewSideLabel(side: ReviewSide): string {
+  return REVIEW_SIDE_OPTIONS.find((option) => option.value === side)!.label;
+}
+
+function reviewSideShortLabel(side: ReviewSide): string {
+  return REVIEW_SIDE_OPTIONS.find((option) => option.value === side)!
+    .shortLabel;
+}
+
 function dismissReviewPopover(element: Element): void {
   element
     .closest<HTMLDetailsElement>('details.review-popover')
@@ -320,8 +340,8 @@ function targetUnavailableReason(
   side: ReviewSide,
 ): string {
   if (!node.uuid) return 'rtq-uuid is unavailable.';
-  if (!topLevelQuestion.review[side].contentRag) {
-    return `${side === 'question' ? 'Question' : 'Answer'} RAG is unavailable on the top-level question.`;
+  if (!topLevelQuestion.review[side]?.contentRag) {
+    return `${reviewSideLabel(side)} RAG is unavailable on the top-level question.`;
   }
   return 'Review metadata is unavailable.';
 }
@@ -360,6 +380,7 @@ function ReviewScope({
     runtime.outcomeDestination,
     runtime.outcomeOverrides,
   );
+  const imageState = side.endsWith('-image') ? node.review[side] : undefined;
   const outcomeDisabledReason = !target
     ? targetUnavailableReason(node, topLevelQuestion, side)
     : runtime.outcomeError
@@ -424,7 +445,7 @@ function ReviewScope({
       <header>
         <div>
           <span>{outcomesEnabled ? `${side} review` : `${side} feedback`}</span>
-          <h4>{side === 'question' ? 'Question' : 'Answer'}</h4>
+          <h4>{reviewSideLabel(side)}</h4>
         </div>
         <dl>
           <div>
@@ -432,9 +453,25 @@ function ReviewScope({
             <dd>
               {target
                 ? reviewStateLabel(target.ragState)
-                : statusValue(node.review[side].contentRag)}
+                : statusValue(node.review[side]?.contentRag)}
             </dd>
           </div>
+          {imageState ? (
+            <div>
+              <dt>Image types</dt>
+              <dd>
+                {imageState.imageTypes?.length
+                  ? imageState.imageTypes.join(', ')
+                  : 'Unclassified at NG2 / none confirmed after NG2'}
+              </dd>
+            </div>
+          ) : null}
+          {imageState?.imageNotes ? (
+            <div>
+              <dt>Image notes</dt>
+              <dd>{imageState.imageNotes}</dd>
+            </div>
+          ) : null}
           {outcomesEnabled ? (
             <>
               <div>
@@ -581,7 +618,7 @@ function ReviewFeedback({
   const commentGroups = target
     ? partitionReviewComments(runtime.comments, target)
     : { current: [], history: [] };
-  const legacyComments = node.review[side].legacyComments;
+  const legacyComments = node.review[side]?.legacyComments;
   const hasFeedback =
     commentGroups.current.length > 0 ||
     commentGroups.history.length > 0 ||
@@ -596,9 +633,7 @@ function ReviewFeedback({
     >
       <div className="comment-heading">
         <div>
-          <strong>
-            {side === 'question' ? 'Question' : 'Answer'} feedback
-          </strong>
+          <strong>{reviewSideLabel(side)} feedback</strong>
           <span>
             {target ? reviewStateLabel(target.ragState) : 'State unavailable'}
           </span>
@@ -954,11 +989,11 @@ function QuestionNode({
       className={`question-node question-node--depth-${node.depth}${
         exactMatch ? '' : ' question-node--context'
       }${statusRails.length > 0 ? ' question-node--with-status-rails' : ''}${
-        statusRails.some(({ side }) => side === 'question')
+        statusRails.some(({ side }) => side.startsWith('question'))
           ? ' question-node--with-question-status'
           : ''
       }${
-        statusRails.some(({ side }) => side === 'answer')
+        statusRails.some(({ side }) => side.startsWith('answer'))
           ? ' question-node--with-answer-status'
           : ''
       }${
@@ -975,7 +1010,7 @@ function QuestionNode({
               className={`question-status-rail question-status-rail--${side} question-status-rail--${tone}`}
               key={side}
             >
-              <span>{side === 'answer' ? 'A' : 'Q'}</span>
+              <span>{reviewSideShortLabel(side)}</span>
             </span>
           ))}
         </div>
@@ -1083,19 +1118,17 @@ function QuestionReviewActivity({
           <span
             className={`review-activity-badge review-activity-badge--${tone}`}
           >
-            {side === 'question' ? 'Question' : 'Answer'} ·{' '}
+            {reviewSideLabel(side)} ·{' '}
             {outcome ? reviewOutcomeLabel(outcome) : 'Pending'}
           </span>
           {commentGroups.current.length > 0 ? (
             <span className="review-feedback-badge">
-              {side === 'question' ? 'Question' : 'Answer'} feedback ·{' '}
-              {commentGroups.current.length}
+              {reviewSideLabel(side)} feedback · {commentGroups.current.length}
             </span>
           ) : null}
           {runtime.showPreviousFeedback && commentGroups.history.length > 0 ? (
             <span className="review-feedback-badge review-feedback-badge--history">
-              {side === 'question' ? 'Question' : 'Answer'} previous ·{' '}
-              {commentGroups.history.length}
+              {reviewSideLabel(side)} previous · {commentGroups.history.length}
             </span>
           ) : null}
         </div>
@@ -1142,18 +1175,17 @@ function ReviewSideSelector({
       className="review-side-selector"
       role="group"
     >
-      {(['question', 'answer'] as const).map((option) => {
-        const label = option === 'question' ? 'Question' : 'Answer';
+      {REVIEW_SIDE_OPTIONS.map((option) => {
         return (
           <button
-            aria-pressed={side === option}
-            className={`review-side-option review-side-option--${option}`}
-            key={option}
-            onClick={() => onChange(option)}
+            aria-pressed={side === option.value}
+            className={`review-side-option review-side-option--${option.value}`}
+            key={option.value}
+            onClick={() => onChange(option.value)}
             type="button"
           >
-            <span aria-hidden="true">{option === 'question' ? 'Q' : 'A'}</span>
-            {label}
+            <span aria-hidden="true">{option.shortLabel}</span>
+            {option.label}
           </button>
         );
       })}
@@ -1188,7 +1220,7 @@ function ReviewLane({
   pending: boolean;
   side: ReviewSide;
 }) {
-  const label = side === 'question' ? 'Question' : 'Answer';
+  const label = reviewSideLabel(side);
   const actionDisabled = Boolean(disabledReason) || pending;
   return (
     <section
@@ -1197,7 +1229,7 @@ function ReviewLane({
     >
       <header className="review-lane-heading">
         <span className="review-lane-mark" aria-hidden="true">
-          {side === 'question' ? 'Q' : 'A'}
+          {reviewSideShortLabel(side)}
         </span>
         <div>
           <span>{label} review</span>
@@ -1300,7 +1332,15 @@ function FilterPanel({
   onClearReviewOutcomes: () => void;
   onToggle: (axis: DimensionalTagAxis, value: string) => void;
   onToggleState: (
-    parameter: 'answerRag' | 'answerReview' | 'questionRag' | 'questionReview',
+    parameter:
+      | 'answerImageRag'
+      | 'answerImageReview'
+      | 'answerRag'
+      | 'answerReview'
+      | 'questionImageRag'
+      | 'questionImageReview'
+      | 'questionRag'
+      | 'questionReview',
     value: string,
   ) => void;
   onReturnToQuestion?: () => void;
@@ -1317,12 +1357,19 @@ function FilterPanel({
       (count, axis) => count + selection[axis].length,
       0,
     ) +
+    selection.questionImageRag.length +
     selection.questionRag.length +
+    selection.answerImageRag.length +
     selection.answerRag.length +
+    selection.questionImageReview.length +
     selection.questionReview.length +
+    selection.answerImageReview.length +
     selection.answerReview.length;
   const selectedReviewOutcomeCount =
-    selection.questionReview.length + selection.answerReview.length;
+    selection.questionImageReview.length +
+    selection.questionReview.length +
+    selection.answerImageReview.length +
+    selection.answerReview.length;
   return (
     <section className="filter-panel" aria-labelledby="filter-title">
       <div className="filter-heading">
@@ -1740,7 +1787,12 @@ export function ReviewSurface({
             };
             return [
               question.id,
-              { answer: valueFor('answer'), question: valueFor('question') },
+              {
+                answer: valueFor('answer'),
+                'answer-image': valueFor('answer-image'),
+                question: valueFor('question'),
+                'question-image': valueFor('question-image'),
+              },
             ];
           }),
         ),
@@ -1785,20 +1837,11 @@ export function ReviewSurface({
     collectionId: paper.source.collection.id,
     relativePath: paper.source.relativePath,
   };
-  const questionOutcomeTarget = currentCursor
-    ? reviewTargetForNode(
-        currentCursor.topLevelQuestion,
-        'question',
-        reviewSource,
-      )
-    : undefined;
-  const answerOutcomeTarget = currentCursor
-    ? reviewTargetForNode(
-        currentCursor.topLevelQuestion,
-        'answer',
-        reviewSource,
-      )
-    : undefined;
+  function toolbarOutcomeTarget(side: ReviewSide) {
+    return currentCursor
+      ? reviewTargetForNode(currentCursor.topLevelQuestion, side, reviewSource)
+      : undefined;
+  }
   function outcomeDisabledReason(
     target: ReviewTargetDescriptor | undefined,
   ): string | undefined {
@@ -1811,35 +1854,23 @@ export function ReviewSurface({
     }
     return undefined;
   }
-  const questionOutcomeDisabledReason = outcomeDisabledReason(
-    questionOutcomeTarget,
-  );
-  const answerOutcomeDisabledReason =
-    outcomeDisabledReason(answerOutcomeTarget);
-  const questionOutcomePending = questionOutcomeTarget
-    ? pendingKeys.has(`${reviewTargetKey(questionOutcomeTarget)}:outcome`)
-    : false;
-  const answerOutcomePending = answerOutcomeTarget
-    ? pendingKeys.has(`${reviewTargetKey(answerOutcomeTarget)}:outcome`)
-    : false;
-  const questionOutcome = currentCursor
-    ? displayedReviewOutcome(
-        currentCursor.topLevelQuestion,
-        'question',
-        reviewSource,
-        outcomeLoad.destination,
-        outcomeOverrides,
-      )
-    : undefined;
-  const answerOutcome = currentCursor
-    ? displayedReviewOutcome(
-        currentCursor.topLevelQuestion,
-        'answer',
-        reviewSource,
-        outcomeLoad.destination,
-        outcomeOverrides,
-      )
-    : undefined;
+  function toolbarOutcomePending(side: ReviewSide): boolean {
+    const target = toolbarOutcomeTarget(side);
+    return target
+      ? pendingKeys.has(`${reviewTargetKey(target)}:outcome`)
+      : false;
+  }
+  function toolbarOutcome(side: ReviewSide) {
+    return currentCursor
+      ? displayedReviewOutcome(
+          currentCursor.topLevelQuestion,
+          side,
+          reviewSource,
+          outcomeLoad.destination,
+          outcomeOverrides,
+        )
+      : undefined;
+  }
   function commentDisabledReason(side: ReviewSide): string | undefined {
     if (!currentCursor) return 'There is no current question to comment on.';
     const target = reviewCommentTargetForNode(
@@ -1856,8 +1887,6 @@ export function ReviewSurface({
           side,
         );
   }
-  const questionCommentDisabledReason = commentDisabledReason('question');
-  const answerCommentDisabledReason = commentDisabledReason('answer');
   const keyboardCommentPending = commentDialog
     ? pendingKeys.has(`${reviewTargetKey(commentDialog.target)}:comment`)
     : false;
@@ -1871,9 +1900,13 @@ export function ReviewSurface({
       (count, axis) => count + selection[axis].length,
       0,
     ) +
+    selection.questionImageRag.length +
     selection.questionRag.length +
+    selection.answerImageRag.length +
     selection.answerRag.length +
+    selection.questionImageReview.length +
     selection.questionReview.length +
+    selection.answerImageReview.length +
     selection.answerReview.length;
   const currentQuestionIndex = navigationActiveId
     ? result.matchingQuestionTreeIds.indexOf(navigationActiveId)
@@ -2218,7 +2251,15 @@ export function ReviewSurface({
   }
 
   function toggleStateFilter(
-    parameter: 'answerRag' | 'answerReview' | 'questionRag' | 'questionReview',
+    parameter:
+      | 'answerImageRag'
+      | 'answerImageReview'
+      | 'answerRag'
+      | 'answerReview'
+      | 'questionImageRag'
+      | 'questionImageReview'
+      | 'questionRag'
+      | 'questionReview',
     value: string,
   ) {
     const selected = selection[parameter].includes(value);
@@ -2309,14 +2350,9 @@ export function ReviewSurface({
     side: ReviewSide,
     outcome: ReviewOutcomeSelection,
   ) {
-    const target =
-      side === 'question' ? questionOutcomeTarget : answerOutcomeTarget;
-    const disabledReason =
-      side === 'question'
-        ? questionOutcomeDisabledReason
-        : answerOutcomeDisabledReason;
-    const pending =
-      side === 'question' ? questionOutcomePending : answerOutcomePending;
+    const target = toolbarOutcomeTarget(side);
+    const disabledReason = outcomeDisabledReason(target);
+    const pending = toolbarOutcomePending(side);
     if (!target || disabledReason || pending) {
       if (disabledReason) {
         setKeyboardStatus({
@@ -2329,7 +2365,7 @@ export function ReviewSurface({
     setKeyboardStatus({ kind: 'idle', message: '' });
     try {
       const message = await submitOutcome(target, outcome);
-      const label = side === 'question' ? 'Question' : 'Answer';
+      const label = reviewSideLabel(side);
       setKeyboardStatus({ kind: 'success', message: `${label}: ${message}` });
     } catch (error) {
       setKeyboardStatus({
@@ -2829,16 +2865,12 @@ export function ReviewSurface({
             side={preferences.reviewSide}
           />
           <ReviewLane
-            commentDisabledReason={
-              preferences.reviewSide === 'question'
-                ? questionCommentDisabledReason
-                : answerCommentDisabledReason
-            }
-            disabledReason={
-              preferences.reviewSide === 'question'
-                ? questionOutcomeDisabledReason
-                : answerOutcomeDisabledReason
-            }
+            commentDisabledReason={commentDisabledReason(
+              preferences.reviewSide,
+            )}
+            disabledReason={outcomeDisabledReason(
+              toolbarOutcomeTarget(preferences.reviewSide),
+            )}
             feedbackEnabled={preferences.showFeedback}
             inlineEnabled={preferences.showInlineReview}
             nodeLabel={currentCursor?.topLevelQuestion.label ?? 'No question'}
@@ -2852,16 +2884,8 @@ export function ReviewSurface({
             onToggleInline={(value) =>
               updatePreference('showInlineReview', value)
             }
-            outcome={
-              preferences.reviewSide === 'question'
-                ? questionOutcome
-                : answerOutcome
-            }
-            pending={
-              preferences.reviewSide === 'question'
-                ? questionOutcomePending
-                : answerOutcomePending
-            }
+            outcome={toolbarOutcome(preferences.reviewSide)}
+            pending={toolbarOutcomePending(preferences.reviewSide)}
             side={preferences.reviewSide}
           />
         </div>
@@ -2977,7 +3001,7 @@ export function ReviewSurface({
               <div>
                 <dt>Target</dt>
                 <dd>
-                  {commentDialog.side === 'answer' ? 'Answer' : 'Question'} ·{' '}
+                  {reviewSideLabel(commentDialog.side)} ·{' '}
                   {reviewStateLabel(commentDialog.target.ragState)}
                 </dd>
               </div>

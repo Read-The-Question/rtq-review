@@ -645,6 +645,41 @@ function ReviewPane({
           sessionId={sessionId}
           uuid={node.uuid}
         />
+        {(
+          [
+            ['Question image', node.review.questionImage],
+            ['Answer image', node.review.answerImage],
+          ] as const
+        ).map(([label, metadata]) => (
+          <section className="review-scope" key={label}>
+            <header className="review-scope__header">
+              <div>
+                <p className="review-scope__eyebrow">Image review</p>
+                <h4>{label}</h4>
+              </div>
+              <div className="review-scope__state">
+                <span>Source {metadata.sourceRag?.value ?? 'missing'}</span>
+                <strong>{metadata.reviewRag?.value ?? 'PRNS'}</strong>
+              </div>
+            </header>
+            <dl>
+              <div>
+                <dt>Types</dt>
+                <dd>
+                  {metadata.imageTypes?.length
+                    ? metadata.imageTypes.join(', ')
+                    : 'Unclassified at NG2 / none confirmed after NG2'}
+                </dd>
+              </div>
+              {metadata.imageNotes ? (
+                <div>
+                  <dt>Notes</dt>
+                  <dd>{metadata.imageNotes}</dd>
+                </div>
+              ) : null}
+            </dl>
+          </section>
+        ))}
       </div>
     </section>
   );

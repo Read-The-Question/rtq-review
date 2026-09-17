@@ -463,22 +463,32 @@ function assetContext(
 
 function reviewTarget(
   record: Record<string, unknown>,
-  target: 'answer' | 'question',
+  target: 'answer' | 'answer-image' | 'question' | 'question-image',
   uuid: string | undefined,
 ): ReviewTargetState {
-  const isAnswer = target === 'answer';
-  const contentRag = meaningfulString(
-    record[isAnswer ? 'rtq-answer-rag' : 'rtq-question-rag'],
-  );
-  const reviewOutcome = meaningfulString(
-    record[isAnswer ? 'rtq-review-rag' : 'rtq-question-review-rag'],
-  );
+  const rag = isRecord(record.rag) ? record.rag : {};
+  const sideName = target.startsWith('answer') ? 'answer' : 'question';
+  const rawSide = rag[sideName];
+  const side = isRecord(rawSide) ? rawSide : {};
+  const imageTarget = target.endsWith('-image');
+  const rawTrack = imageTarget ? side.image : side;
+  const track = isRecord(rawTrack) ? rawTrack : {};
+  const review = isRecord(track.review) ? track.review : {};
+  const contentRag = meaningfulString(track.state);
+  const reviewOutcome = meaningfulString(review.outcome);
+  const imageTypes = imageTarget
+    ? stringArray(track.types).filter(
+        (value): value is 'generated' | 'screenshot' =>
+          value === 'generated' || value === 'screenshot',
+      )
+    : undefined;
+  const imageNotes = imageTarget ? meaningfulString(track.notes) : undefined;
 
   return {
     ...(contentRag ? { contentRag } : {}),
-    legacyComments: asString(
-      record[isAnswer ? 'rtq-review-comments' : 'rtq-question-review-comments'],
-    ).trim(),
+    ...(imageNotes ? { imageNotes } : {}),
+    ...(imageTypes ? { imageTypes } : {}),
+    legacyComments: asString(review.comments).trim(),
     ...(reviewOutcome ? { reviewOutcome } : {}),
     ...(uuid ? { uuid } : {}),
   };
@@ -610,7 +620,9 @@ function buildNode(
     ...(questionId ? { questionId } : {}),
     review: {
       answer: reviewTarget(record, 'answer', uuid),
+      'answer-image': reviewTarget(record, 'answer-image', uuid),
       question: reviewTarget(record, 'question', uuid),
+      'question-image': reviewTarget(record, 'question-image', uuid),
     },
     ...(sourceQuestionId ? { sourceQuestionId } : {}),
     ...(uuid ? { uuid } : {}),

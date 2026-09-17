@@ -16,7 +16,7 @@ still applies to the current canonical state and, if it does, updates TOML.
 
 | Concern                                              | Owner                                | Source of truth                                                                                                           |
 | ---------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
-| Current question and answer state                    | `rtq-content/packages/papers`        | Complete papers under `papers/toml`                                                                                       |
+| Current question, answer, and image state            | `rtq-content/packages/papers`        | Complete papers under `papers/toml`                                                                                       |
 | RAG vocabulary and transition policy                 | `rtq-content/packages/papers`        | `docs/architecture/rag-states.md`, `scripts/papers/lib/reader/rag_reader.rb`, and `scripts/papers/lib/rag_review_sync.rb` |
 | Review comments and database outcomes                | `rtq-review/packages/review-store`   | `database/review-content.sqlite` through `@rtq/review-store/server`                                                       |
 | Reviewer interaction and live-target validation      | `rtq-review/apps/review-content-web` | The current canonical paper read from the active `rtq-content` checkout                                                   |
@@ -32,14 +32,14 @@ state. The content sync does not open SQLite or import Drizzle internals.
 
 ```text
 Reviewer opens a canonical question
-  -> Review Content Web reads its UUID and current question/answer RAG states
+  -> Review Content Web reads its UUID and all four current RAG states
   -> reviewer submits an outcome for one side
   -> the server re-reads canonical TOML and rejects a stale target
   -> exactly one configured destination stores the review decision
   -> canonical TOML remains unchanged
 
 Operator runs the database-outcome sync in rtq-content
-  -> sync inventories every top-level UUID and both current side states
+  -> sync inventories every top-level UUID and all four review targets
   -> review-store resolves only exact UUID + side + state matches
   -> rtq-content applies the current transition policy
   -> dry-run reports, or apply edits, canonical content and companion review fields
@@ -49,11 +49,11 @@ Operator runs the database-outcome sync in rtq-content
 ### 1. Open the review page
 
 Review Content Web reads the selected complete paper directly from canonical
-`papers/toml`. For each top-level question, the question and answer are
-independent review targets. Each target has:
+`papers/toml`. For each top-level question, question content, question images,
+answer content, and answer images are independent review targets. Each target has:
 
 - the question UUID;
-- a side: `question` or `answer`;
+- a side: `question`, `question-image`, `answer`, or `answer-image`;
 - the current canonical RAG value for that side.
 
 In database mode, the page also requests stored outcomes for those exact
@@ -107,7 +107,7 @@ one state-scoped target:
 | Field        | Meaning                                          |
 | ------------ | ------------------------------------------------ |
 | `rtq_uuid`   | Canonical top-level question identity            |
-| `side`       | `question` or `answer`                           |
+| `side`       | One of the four content or image review sides    |
 | `rag_state`  | Canonical state in which the review occurred     |
 | `outcome`    | Review decision such as `PRG`                    |
 | `reviewer`   | Reviewer identity supplied by the application    |
@@ -125,7 +125,7 @@ canonical state, a calculated next state, or an applied/consumed flag.
 ### 4. Leave canonical TOML unchanged until sync
 
 Approval is a recorded instruction, not an immediate mutation. After the
-review request succeeds, the TOML question or answer remains in its original
+review request succeeds, the selected content or image track remains in its original
 state. This pull boundary keeps canonical edits visible, reviewable, and under
 the operator's control.
 
@@ -135,16 +135,17 @@ review badge, filter classification, and facet counts change without pretending
 that canonical content RAG has advanced. Reset removes that transient outcome
 from the same presentation state.
 
-The full filter panel provides independent **Question review outcome** and
-**Answer review outcome** facets. They classify only exact current-state
+The full filter panel provides independent review-outcome facets for question
+content, question images, answer content, and answer images. They classify only exact current-state
 outcomes. They contain only canonical review values, presented as **Pending**
 for `PRNS` or no exact outcome, **Approved** for `PRG`, **Reviewed (Comments)**
 for `PRCR`, **Ready For Review** for `PRCC`, **Blocked** for `PRBD`, and
 **Coming Soon** for `PRCS`. A load failure is reported as unavailable and is
 never treated as Pending. There are no synthetic or inverse filter options.
-Selections within one facet use OR; question outcome, answer outcome,
-content-RAG, and dimensional facets combine with AND. The selections live in
-the URL as `question-review` and `answer-review` parameters.
+Selections within one facet use OR; all four outcome, RAG, and dimensional
+facets combine with AND. The selections use the URL parameters
+`question-review`, `question-image-review`, `answer-review`, and
+`answer-image-review`.
 
 Each top-level question heading also summarizes its exact current question and
 answer activity. Actionable outcomes use the same semantic label and colour
@@ -159,7 +160,7 @@ reviewer was inspecting.
 
 From `rtq-content/packages/papers`, the database sync first parses every
 complete canonical paper. It validates unique top-level UUIDs and recognised
-question and answer states before asking Review Store for anything.
+states for all four review targets before asking Review Store for anything.
 
 It sends all current targets to this command in the sibling `rtq-review`
 workspace:
@@ -193,11 +194,12 @@ pnpm papers:review-outcomes:sync:apply
 ```
 
 Dry-run is the default. Apply mode uses the line-preserving TOML updater. `PRG`,
-`PRBD`, and `PRCS` update the matching `rtq-question-rag` or `rtq-answer-rag`
-field and reset its companion review field to `PRNS`. `PRCR` and `PRCC` do not
-change content RAG; they are retained in the companion review field. Reset is
-represented by the absence of an exact database outcome, so the sync returns a
-retained companion signal to `PRNS`. The database path never changes companion
+`PRBD`, and `PRCS` update the matching content or image state field and reset
+its companion review outcome to `PRNS`.
+`PRCR` and `PRCC` do not change content RAG; they are retained in the companion
+review field. Reset is represented by the absence of an exact database outcome,
+so the sync returns a retained companion signal to `PRNS`. The database path
+never changes companion
 TOML comment fields, derived TOML, generated Markdown, PDFs, assets, Google
 Sheets, comments, or the review database.
 

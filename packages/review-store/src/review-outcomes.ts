@@ -19,6 +19,7 @@ import {
   REMOVED_REVIEW_OUTCOMES,
   REVIEW_OUTCOMES,
   isReviewOutcome,
+  isReviewSide,
 } from "./types.ts";
 
 export type ReviewOutcomeRepository = Readonly<{
@@ -40,7 +41,7 @@ function requireValue(field: string, value: string): void {
 function validateTarget(target: ReviewOutcomeTarget): void {
   requireValue("uuid", target.uuid);
   requireValue("ragState", target.ragState);
-  if (target.side !== "answer" && target.side !== "question") {
+  if (!isReviewSide(target.side)) {
     throw new ReviewStoreValidationError("side");
   }
 }
@@ -89,9 +90,9 @@ function storedOutcome(row: OutcomeRecord): ReviewOutcome {
 
 function toOutcome(row: OutcomeRecord): StoredReviewOutcome {
   const side = storedString(row, "side");
-  if (side !== "answer" && side !== "question") {
+  if (!isReviewSide(side)) {
     throw new ReviewStoreDataError(
-      `Invalid stored review outcome (${describeIdentity(row)}): field "side" must be "question" or "answer".`,
+      `Invalid stored review outcome (${describeIdentity(row)}): field "side" is not supported.`,
     );
   }
   return {

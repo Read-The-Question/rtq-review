@@ -106,69 +106,19 @@ get '/' do
 end
 
 post '/rag' do
-  request_payload = parse_request(request)
-
-  googlesheet_reader = GoogleSheetReader.new
-
-  request_status = validate_rag_request(request_payload, googlesheet_reader, :answer)
-  if request_status != "ok"
-    puts "RAG Error: #{request_status}"
-
-    return [400, {
-      status: "error",
-      reason: request_status
-    }.to_json]
-  end
-
-  update_values_status = update_rag_values(request_payload, googlesheet_reader, :answer)
-  if update_values_status != "ok"
-    puts "RAG Error: #{update_values_status}"
-
-    return [400, {
-      status: "error",
-      reason: update_values_status
-    }.to_json]
-  end
-
-  puts "RAG Success: Updated"
-
-  {
-    status: "success",
-    reason: "RAG updated"
-  }.to_json
+  handle_rag_request(request, :answer)
 end
 
 post '/questionrag' do
-  request_payload = parse_request(request)
+  handle_rag_request(request, :question)
+end
 
-  googlesheet_reader = GoogleSheetReader.new
+post '/answerimagerag' do
+  handle_rag_request(request, :answer_image)
+end
 
-  request_status = validate_rag_request(request_payload, googlesheet_reader, :question)
-  if request_status != "ok"
-    puts "RAG Error: #{request_status}"
-
-    return [400, {
-      status: "error",
-      reason: request_status
-    }.to_json]
-  end
-
-  update_values_status = update_rag_values(request_payload, googlesheet_reader, :question)
-  if update_values_status != "ok"
-    puts "RAG Error: #{update_values_status}"
-
-    return [400, {
-      status: "error",
-      reason: update_values_status
-    }.to_json]
-  end
-
-  puts "RAG Success: Updated"
-
-  {
-    status: "success",
-    reason: "RAG updated"
-  }.to_json
+post '/questionimagerag' do
+  handle_rag_request(request, :question_image)
 end
 
 
@@ -372,6 +322,35 @@ post '/questioncomments' do
 end
 
 helpers do
+  def handle_rag_request(request, request_type)
+    request_payload = parse_request(request)
+    googlesheet_reader = GoogleSheetReader.new
+    request_status = validate_rag_request(request_payload, googlesheet_reader, request_type)
+    if request_status != "ok"
+      puts "RAG Error: #{request_status}"
+      return [400, { status: "error", reason: request_status }.to_json]
+    end
+
+    update_status = update_rag_values(request_payload, googlesheet_reader, request_type)
+    if update_status != "ok"
+      puts "RAG Error: #{update_status}"
+      return [400, { status: "error", reason: update_status }.to_json]
+    end
+
+    puts "RAG Success: Updated"
+    { status: "success", reason: "RAG updated" }.to_json
+  end
+
+  def rag_sheet_name(request_type, sheet)
+    family = {
+      answer: "Answers - Reviews",
+      answer_image: "Answer Images - Reviews",
+      question: "Questions - Reviews",
+      question_image: "Question Images - Reviews"
+    }.fetch(request_type)
+    "#{family} - #{sheet}"
+  end
+
   def parse_request(request)
     request.body.rewind
     request_payload = JSON.parse(request.body.read, symbolize_names: true)
@@ -403,10 +382,7 @@ helpers do
       return "Invalid request: Invalid Sheet: #{sheet}"
     end
 
-    sheet_name = "Answers - Reviews - #{sheet}"
-    if request_type == :question
-      sheet_name = "Questions - Reviews - #{sheet}"
-    end
+    sheet_name = rag_sheet_name(request_type, sheet)
 
     read_range_name = "#{sheet_name}!A#{row_idx}:H#{row_idx}"
     logger.info(read_range_name)
@@ -488,10 +464,7 @@ helpers do
       return "Invalid request: Unknown State: #{review_rag.upcase}"
     end
 
-    sheet_name = "Answers - Reviews - #{sheet}"
-    if request_type == :question
-      sheet_name = "Questions - Reviews - #{sheet}"
-    end
+    sheet_name = rag_sheet_name(request_type, sheet)
 
     read_range_name = "#{sheet_name}!A#{row_idx}:H#{row_idx}"
     read_values = googlesheet_reader.get_values(updated_spreadsheet_id, read_range_name)
@@ -547,10 +520,7 @@ helpers do
     reviewer = request_payload[:reviewer] || :wf
 
     # Read the TOML Rag value to find which sheet to use
-    sheet_name = "Answers - Reviews - #{sheet}"
-    if request_type == :question
-      sheet_name = "Questions - Reviews - #{sheet}"
-    end
+    sheet_name = rag_sheet_name(request_type, sheet)
 
     read_range_name = "#{sheet_name}!A#{row_idx}:H#{row_idx}"
     read_values = googlesheet_reader.get_values(updated_spreadsheet_id, read_range_name)
@@ -576,10 +546,7 @@ helpers do
     sheet = request_payload[:sheet]
 
     # Read the TOML Rag value to find which sheet to use
-    sheet_name = "Answers - Reviews - #{sheet}"
-    if request_type == :question
-      sheet_name = "Questions - Reviews - #{sheet}"
-    end
+    sheet_name = rag_sheet_name(request_type, sheet)
 
     read_range_name = "#{sheet_name}!A#{row_idx}:H#{row_idx}"
     read_values = googlesheet_reader.get_values(updated_spreadsheet_id, read_range_name)
@@ -602,10 +569,7 @@ helpers do
     reviewer = request_payload[:reviewer] || :wf
 
     # Read the TOML Rag value to find which sheet to use
-    sheet_name = "Answers - Reviews - #{sheet}"
-    if request_type == :question
-      sheet_name = "Questions - Reviews - #{sheet}"
-    end
+    sheet_name = rag_sheet_name(request_type, sheet)
 
     logger.info "Sheet:[#{sheet_name}] UUID:[#{uuid}] State:[#{state}]"
 

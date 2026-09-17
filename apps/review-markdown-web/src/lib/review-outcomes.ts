@@ -9,7 +9,12 @@ export const CANONICAL_REVIEW_OUTCOMES = [
 export type CanonicalReviewOutcome = (typeof CANONICAL_REVIEW_OUTCOMES)[number];
 export type ReviewOutcomeSelection = CanonicalReviewOutcome | '';
 
-const REVIEW_OUTCOME_ACTIONS = ['rag', 'question-rag'] as const;
+const REVIEW_OUTCOME_ACTIONS = [
+  'rag',
+  'answer-image-rag',
+  'question-rag',
+  'question-image-rag',
+] as const;
 
 export class ReviewOutcomeRequestError extends Error {
   constructor(message: string) {

@@ -1,6 +1,10 @@
 import { ReviewOutcomeRequestError } from "./errors.ts";
 import type { ReviewOutcomeReader } from "./review-outcomes.ts";
-import type { ReviewOutcomeTarget, StoredReviewOutcome } from "./types.ts";
+import {
+  isReviewSide,
+  type ReviewOutcomeTarget,
+  type StoredReviewOutcome,
+} from "./types.ts";
 
 export const REVIEW_OUTCOME_RESOLUTION_SCHEMA_VERSION = 1 as const;
 
@@ -39,10 +43,8 @@ function parseTarget(value: unknown, index: number): ReviewOutcomeTarget {
   const location = `targets[${index}]`;
   const record = recordAt(value, location);
   const side = record.side;
-  if (side !== "question" && side !== "answer") {
-    throw new ReviewOutcomeRequestError(
-      `${location}.side must be "question" or "answer".`,
-    );
+  if (!isReviewSide(side)) {
+    throw new ReviewOutcomeRequestError(`${location}.side is not supported.`);
   }
   return {
     ragState: stringAt(record, "ragState", location),

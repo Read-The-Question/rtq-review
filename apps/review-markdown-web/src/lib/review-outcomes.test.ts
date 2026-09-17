@@ -9,8 +9,10 @@ import {
   parseReviewOutcomeRequestBody,
 } from './review-outcomes.ts';
 
-test('guards both question and answer submission routes', () => {
+test('guards all four content and image submission routes', () => {
+  assert.equal(isReviewOutcomeAction('question-image-rag'), true);
   assert.equal(isReviewOutcomeAction('question-rag'), true);
+  assert.equal(isReviewOutcomeAction('answer-image-rag'), true);
   assert.equal(isReviewOutcomeAction('rag'), true);
   assert.equal(isReviewOutcomeAction('comments'), false);
 });

@@ -116,12 +116,21 @@ name = "A"
 [[sections.questions]]
 rtq-question-id = "source-school--11-plus--maths--2020--paper-1:1:2"
 rtq-uuid = "TOP-UUID"
-rtq-answer-rag = "rag_wf_ng3"
-rtq-review-rag = "rag_wf_prg"
-rtq-review-comments = '''Legacy answer comment'''
-rtq-question-rag = "rag_wf_g0"
-rtq-question-review-rag = "rag_wf_prcc"
-rtq-question-review-comments = '''Legacy question comment'''
+rag.answer.state = "rag_wf_ng3"
+rag.answer.review.outcome = "rag_wf_prg"
+rag.answer.review.comments = '''Legacy answer comment'''
+rag.answer.image.state = "rag_wf_ng2"
+rag.answer.image.types = ["generated"]
+rag.answer.image.notes = '''Draw the working diagram.'''
+rag.answer.image.review.outcome = "rag_wf_prns"
+rag.answer.image.review.comments = '''Answer image comment'''
+rag.question.state = "rag_wf_g0"
+rag.question.review.outcome = "rag_wf_prcc"
+rag.question.review.comments = '''Legacy question comment'''
+rag.question.image.state = "rag_wf_ng3"
+rag.question.image.types = []
+rag.question.image.review.outcome = "rag_wf_prg"
+rag.question.image.review.comments = '''Question image comment'''
 rtq-tags = ["family.money", "frame.labelled"]
 question = '''
 rtq_abbr_test
@@ -460,11 +469,19 @@ test('parses the complete nested read model and safe preparation inputs', async 
       question.review.answer.legacyComments,
       'Legacy answer comment',
     );
+    assert.equal(question.review['answer-image'].contentRag, 'rag_wf_ng2');
+    assert.deepEqual(question.review['answer-image'].imageTypes, ['generated']);
+    assert.equal(
+      question.review['answer-image'].imageNotes,
+      'Draw the working diagram.',
+    );
     assert.equal(question.review.question.contentRag, 'rag_wf_g0');
     assert.equal(
       question.review.question.legacyComments,
       'Legacy question comment',
     );
+    assert.equal(question.review['question-image'].contentRag, 'rag_wf_ng3');
+    assert.deepEqual(question.review['question-image'].imageTypes, []);
     assert.equal(question.content.workings[0].formulas.length, 2);
     assert.equal(question.content.workings[0].tips.length, 2);
     assert.equal(

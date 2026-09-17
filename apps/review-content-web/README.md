@@ -91,20 +91,21 @@ the browser and does not read TOML or contact Google Sheets.
 
 ## Review controls
 
-- Combine tags within any of the five dimensions and filter question and answer
-  content-RAG states independently. The shared URL preserves the complete
+- Combine tags within any of the five dimensions and filter question content,
+  question image, answer content, and answer image RAG states independently.
+  The shared URL preserves the complete
   filter scope across refreshes, along with the active matching question.
 - Peer-review outcome filters allow every outcome to be selected even when its
   current count is zero. Multiple outcomes on one side use OR, so reviewers can
   select both the current and intended next outcome before changing a request.
-  **Reset** in that band clears all question and answer outcome selections while
+  **Reset** in that band clears all four outcome selections while
   preserving content-RAG and dimensional filters.
 - Use **Clear all** to reset both state facets, all five tag dimensions, and the
   active question while retaining unrelated display parameters.
 - Use the simple display switches to show or hide workings and answers,
-  dimensional tags, raw TOML values, Question review, Answer review, Question
-  feedback, and Answer feedback. Review panels and populated feedback histories
-  are independently visible for each side, so the sticky quick-review controls
+  dimensional tags, raw TOML values, and the selected review and feedback
+  target. Review panels and populated feedback histories are independently
+  visible for each side, so the sticky quick-review controls
   can be used with feedback visible and the full panels hidden. Display
   preferences stay in local browser storage; existing settings initially show
   feedback wherever the corresponding review panel was visible.
@@ -207,11 +208,12 @@ outcome to the production Google Sheet.
    and allowlisted paper assets come directly from the content checkout.
 2. Select tags in two dimensions, confirm the visible set is reduced using OR
    within each dimension and AND across dimensions, then add independent
-   question and answer RAG-state filters.
+   filters for all four question, question-image, answer, and answer-image
+   RAG-state tracks.
 3. Copy the filtered URL, refresh, and confirm the filter scope is restored.
    Use **Clear all**, then reopen the copied URL to prove clear and restore
    independently.
-4. Submit a mocked question or answer outcome and confirm the success state is
+4. Submit a mocked content or image outcome and confirm the success state is
    visible without changing the source TOML.
 5. Append feedback to a question or nested question, refresh, and confirm it
    remains attached to that exact UUID at the current top-level RAG state.

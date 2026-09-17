@@ -9,7 +9,11 @@ import {
 } from "./errors.ts";
 import { globalReviewFindings } from "./schema.ts";
 import type { ReviewStoreDatabase } from "./review-store.ts";
-import type { GlobalReviewFinding, ReviewSide } from "./types.ts";
+import {
+  isReviewSide,
+  type GlobalReviewFinding,
+  type ReviewSide,
+} from "./types.ts";
 
 export type AppendGlobalReviewFinding = Readonly<{
   finding: string;
@@ -45,7 +49,7 @@ function requireValue(field: string, value: string): void {
 }
 
 function validateSide(side: ReviewSide): void {
-  if (side !== "answer" && side !== "question") {
+  if (!isReviewSide(side)) {
     throw new ReviewStoreValidationError("sourceSide");
   }
 }

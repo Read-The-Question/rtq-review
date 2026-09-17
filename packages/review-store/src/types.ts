@@ -1,4 +1,18 @@
-export type ReviewSide = "answer" | "question";
+export const REVIEW_SIDES = [
+  "question",
+  "question-image",
+  "answer",
+  "answer-image",
+] as const;
+
+export type ReviewSide = (typeof REVIEW_SIDES)[number];
+
+export function isReviewSide(value: unknown): value is ReviewSide {
+  return (
+    typeof value === "string" &&
+    (REVIEW_SIDES as readonly string[]).includes(value)
+  );
+}
 
 export const GLOBAL_REVIEW_FINDING_STATUSES = ["todo", "processed"] as const;
 

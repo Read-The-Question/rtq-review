@@ -47,6 +47,8 @@ export type RagState = {
 
 export type ReviewScopeMetadata = {
   comments: string;
+  imageNotes?: string;
+  imageTypes?: string[];
   reviewRag: RagState | null;
   sheet: string | null;
   sourceRag: RagState | null;
@@ -54,7 +56,9 @@ export type ReviewScopeMetadata = {
 
 export type ReviewMetadata = {
   answer: ReviewScopeMetadata;
+  answerImage: ReviewScopeMetadata;
   question: ReviewScopeMetadata;
+  questionImage: ReviewScopeMetadata;
 };
 
 export type OriginalQuestionSource = {

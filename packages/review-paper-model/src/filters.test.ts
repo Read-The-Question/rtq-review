@@ -65,8 +65,18 @@ function node(
         ...(options.answerRag ? { contentRag: options.answerRag } : {}),
         legacyComments: '',
       },
+      'answer-image': {
+        contentRag: 'rag_wf_ng2',
+        imageTypes: [],
+        legacyComments: '',
+      },
       question: {
         ...(options.questionRag ? { contentRag: options.questionRag } : {}),
+        legacyComments: '',
+      },
+      'question-image': {
+        contentRag: 'rag_wf_ng2',
+        imageTypes: [],
         legacyComments: '',
       },
     },
@@ -387,7 +397,7 @@ test('cross-filters question and answer state counts and retains zero selections
 
   assert.deepEqual(
     result.stateFacets.map((facet) => facet.side),
-    ['question', 'answer'],
+    ['question', 'question-image', 'answer', 'answer-image'],
   );
   assert.deepEqual(
     question?.options.find((option) => option.value === 'rag_wf_missing'),
@@ -494,7 +504,7 @@ test('cross-filters review outcomes with content state and dimensions', () => {
   assert.deepEqual(result.matchingNodeIds, ['s0.q0.sq0']);
   assert.deepEqual(
     result.reviewOutcomeFacets.map((facet) => facet.side),
-    ['question', 'answer'],
+    ['question', 'question-image', 'answer', 'answer-image'],
   );
   assert.equal(
     result.reviewOutcomeFacets[0].options.find(
@@ -508,16 +518,15 @@ test('cross-filters review outcomes with content state and dimensions', () => {
     ),
     'review outcomes must remain selectable when their cross-filtered count is zero',
   );
+  const answerFacet = result.reviewOutcomeFacets.find(
+    (facet) => facet.side === 'answer',
+  );
   assert.equal(
-    result.reviewOutcomeFacets[1].options.find(
-      (option) => option.value === 'PRCR',
-    )?.count,
+    answerFacet?.options.find((option) => option.value === 'PRCR')?.count,
     1,
   );
   assert.equal(
-    result.reviewOutcomeFacets[1].options.find(
-      (option) => option.value === 'PRG',
-    )?.count,
+    answerFacet?.options.find((option) => option.value === 'PRG')?.count,
     0,
   );
 });
@@ -564,16 +573,20 @@ test('round-trips stable repeated URL parameters and clears dimensions', () => {
 
 test('round-trips state and dimensional filters and clears the complete lens', () => {
   const parsed = parseReviewFilterSearchParams(
-    '?question-rag=rag_wf_ng4&math=math.number.fraction&answer-rag=rag_wf_g3&question=q-3&answer-rag=rag_wf_g2&question-rag=rag_wf_ng4&question-review=PRCR&answer-review=PRCC',
+    '?question-rag=rag_wf_ng4&question-image-rag=rag_wf_ng2&math=math.number.fraction&answer-rag=rag_wf_g3&answer-image-review=PRG&question=q-3&answer-rag=rag_wf_g2&question-rag=rag_wf_ng4&question-review=PRCR&answer-review=PRCC',
   );
 
   assert.deepEqual(parsed, {
+    answerImageRag: [],
+    answerImageReview: ['PRG'],
     answerRag: ['rag_wf_g2', 'rag_wf_g3'],
     answerReview: ['PRCC'],
     family: [],
     frame: [],
     marker: [],
     math: ['math.number.fraction'],
+    questionImageRag: ['rag_wf_ng2'],
+    questionImageReview: [],
     questionRag: ['rag_wf_ng4'],
     questionReview: ['PRCR'],
     reasoning: [],
@@ -584,21 +597,27 @@ test('round-trips state and dimensional filters and clears the complete lens', (
   );
   assert.equal(
     serialized,
-    'answer-rag=rag_wf_g2&answer-rag=rag_wf_g3&answer-review=PRCC&math=math.number.fraction&question=q-3&question-rag=rag_wf_ng4&question-review=PRCR&view=raw',
+    'answer-image-review=PRG&answer-rag=rag_wf_g2&answer-rag=rag_wf_g3&answer-review=PRCC&math=math.number.fraction&question=q-3&question-image-rag=rag_wf_ng2&question-rag=rag_wf_ng4&question-review=PRCR&view=raw',
   );
   assert.deepEqual(parseReviewFilterSearchParams(serialized), parsed);
   assert.deepEqual(clearReviewOutcomeFilters(parsed), {
     ...parsed,
+    answerImageReview: [],
     answerReview: [],
+    questionImageReview: [],
     questionReview: [],
   });
   assert.deepEqual(clearAllReviewFilters(), {
+    answerImageRag: [],
+    answerImageReview: [],
     answerRag: [],
     answerReview: [],
     family: [],
     frame: [],
     marker: [],
     math: [],
+    questionImageRag: [],
+    questionImageReview: [],
     questionRag: [],
     questionReview: [],
     reasoning: [],

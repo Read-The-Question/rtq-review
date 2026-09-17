@@ -1,4 +1,5 @@
 import type { ReviewPaper, ReviewPaperNode } from '@rtq/review-paper-model';
+import { REVIEW_SIDES } from '@rtq/review-store/types';
 import {
   getReviewStore,
   ReviewCommentConflictError,
@@ -35,7 +36,7 @@ export function reviewCommentIdentitiesForPaper(
   const targets = paper.sections.flatMap((section) =>
     section.questions.flatMap((topLevel) =>
       flattenQuestionTree(topLevel).flatMap((node) =>
-        (['question', 'answer'] as const).flatMap((side) => {
+        REVIEW_SIDES.flatMap((side) => {
           const target = reviewCommentTargetForNode(
             node,
             topLevel,

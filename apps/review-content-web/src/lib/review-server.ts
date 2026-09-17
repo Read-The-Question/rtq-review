@@ -95,7 +95,7 @@ export function parseReviewMutationRequest(
   const target = record(body.target);
   const side = target.side;
   if (!isReviewSide(side)) {
-    throw new ReviewRequestError('Review side must be question or answer.');
+    throw new ReviewRequestError('Review side is not supported.');
   }
   const sheetValue = target.sheet;
   if (
@@ -191,7 +191,7 @@ export function parseGlobalReviewFindingRequest(
   const body = record(value);
   const source = record(body.source);
   if (!isReviewSide(source.side)) {
-    throw new ReviewRequestError('Review side must be question or answer.');
+    throw new ReviewRequestError('Review side is not supported.');
   }
   return {
     finding: requiredString(body.finding, 'Finding', 10_000),

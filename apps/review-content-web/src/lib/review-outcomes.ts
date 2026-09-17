@@ -1,4 +1,5 @@
 import type { ReviewPaper } from '@rtq/review-paper-model';
+import { REVIEW_SIDES } from '@rtq/review-store/types';
 import {
   getReviewStore,
   ReviewDatabaseError,
@@ -47,7 +48,14 @@ export async function forwardReviewOutcome(
     return { message: 'No Google Sheets route is available.', status: 409 };
   }
   const fetcher = options.fetcher ?? fetch;
-  const path = input.target.side === 'question' ? 'questionrag' : 'rag';
+  const path =
+    input.target.side === 'question'
+      ? 'questionrag'
+      : input.target.side === 'answer'
+        ? 'rag'
+        : input.target.side === 'question-image'
+          ? 'questionimagerag'
+          : 'answerimagerag';
   let response: Response;
   try {
     response = await fetcher(`${options.baseUrl.replace(/\/$/, '')}/${path}`, {
@@ -159,7 +167,7 @@ export function reviewOutcomeTargetsForPaper(paper: ReviewPaper) {
   };
   return paper.sections.flatMap((section) =>
     section.questions.flatMap((question) =>
-      (['question', 'answer'] as const).flatMap((side) => {
+      REVIEW_SIDES.flatMap((side) => {
         const target = reviewTargetForNode(question, side, source);
         return target
           ? [

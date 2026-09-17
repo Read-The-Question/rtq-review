@@ -155,6 +155,8 @@ export type OriginalQuestionSource = Readonly<{
 
 export type ReviewTargetState = Readonly<{
   contentRag?: string;
+  imageNotes?: string;
+  imageTypes?: readonly ('generated' | 'screenshot')[];
   legacyComments: string;
   reviewOutcome?: string;
   uuid?: string;
@@ -179,7 +181,9 @@ export type ReviewPaperNode = Readonly<{
   questionId?: string;
   review: Readonly<{
     answer: ReviewTargetState;
+    'answer-image': ReviewTargetState;
     question: ReviewTargetState;
+    'question-image': ReviewTargetState;
   }>;
   sourceQuestionId?: string;
   uuid?: string;
@@ -209,14 +213,17 @@ export type DimensionalFilterSelection = Readonly<
   Record<DimensionalTagAxis, readonly string[]>
 >;
 
-export type ReviewStateFilterSide = 'answer' | 'question';
+export type ReviewStateFilterSide =
+  'answer' | 'answer-image' | 'question' | 'question-image';
 export type ReviewOutcomeFilterSide = ReviewStateFilterSide;
 
 export type ReviewOutcomeFilterContext = Readonly<{
   values: Readonly<
     Record<
       string,
-      Readonly<Record<ReviewOutcomeFilterSide, string | null | undefined>>
+      Readonly<
+        Partial<Record<ReviewOutcomeFilterSide, string | null | undefined>>
+      >
     >
   >;
 }>;
@@ -224,7 +231,11 @@ export type ReviewOutcomeFilterContext = Readonly<{
 export type ReviewFilterSelection = DimensionalFilterSelection &
   Readonly<{
     answerRag: readonly string[];
+    answerImageRag: readonly string[];
+    answerImageReview: readonly string[];
     answerReview: readonly string[];
+    questionImageRag: readonly string[];
+    questionImageReview: readonly string[];
     questionRag: readonly string[];
     questionReview: readonly string[];
   }>;
@@ -245,14 +256,19 @@ export type DimensionalFacet = Readonly<{
 export type ReviewStateFacet = Readonly<{
   label: string;
   options: readonly DimensionalFacetOption[];
-  parameter: 'answerRag' | 'questionRag';
+  parameter:
+    'answerImageRag' | 'answerRag' | 'questionImageRag' | 'questionRag';
   side: ReviewStateFilterSide;
 }>;
 
 export type ReviewOutcomeFacet = Readonly<{
   label: string;
   options: readonly DimensionalFacetOption[];
-  parameter: 'answerReview' | 'questionReview';
+  parameter:
+    | 'answerImageReview'
+    | 'answerReview'
+    | 'questionImageReview'
+    | 'questionReview';
   side: ReviewOutcomeFilterSide;
 }>;
 

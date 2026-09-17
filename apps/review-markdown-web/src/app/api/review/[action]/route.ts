@@ -10,8 +10,10 @@ export const runtime = 'nodejs';
 
 const actionMap = {
   'add-subtag': 'addsubtag',
+  'answer-image-rag': 'answerimagerag',
   comments: 'comments',
   'question-comments': 'questioncomments',
+  'question-image-rag': 'questionimagerag',
   'question-rag': 'questionrag',
   rag: 'rag',
   'remove-subtag': 'removesubtag',

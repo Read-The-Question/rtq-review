@@ -1,6 +1,10 @@
 import { ReviewCommentRequestError } from "./errors.ts";
 import type { ReviewCommentReader } from "./review-comments.ts";
-import type { LocalReviewComment, ReviewCommentTarget } from "./types.ts";
+import {
+  isReviewSide,
+  type LocalReviewComment,
+  type ReviewCommentTarget,
+} from "./types.ts";
 
 export const REVIEW_COMMENT_RESOLUTION_SCHEMA_VERSION = 1 as const;
 
@@ -39,10 +43,8 @@ function parseTarget(value: unknown, index: number): ReviewCommentTarget {
   const location = `targets[${index}]`;
   const record = recordAt(value, location);
   const side = record.side;
-  if (side !== "question" && side !== "answer") {
-    throw new ReviewCommentRequestError(
-      `${location}.side must be "question" or "answer".`,
-    );
+  if (!isReviewSide(side)) {
+    throw new ReviewCommentRequestError(`${location}.side is not supported.`);
   }
   return {
     ragState: stringAt(record, "ragState", location),

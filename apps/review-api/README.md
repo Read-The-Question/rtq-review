@@ -33,12 +33,13 @@ The maintained review stack expects the service at `http://localhost:4567`.
 `RTQ_REVIEW_API_PUBLIC_HOSTS` preserves the existing comma-separated public
 host authorization override used by the optional ngrok workflow.
 
-The `POST /rag` and `POST /questionrag` endpoints accept the configured review
-outcomes: `PRG`, `PRCR`, `PRCC`, `PRBD`, and `PRCS`. Retired outcomes are
-rejected. Both endpoints also accept an empty `rag` string as an explicit
-reset, which clears the existing review outcome cell after the normal UUID,
-sheet, and content-state validation has succeeded. `PRNS` is the default state,
-not another submitted trigger.
+The `POST /rag`, `POST /questionrag`, `POST /answerimagerag`, and
+`POST /questionimagerag` endpoints accept the configured review outcomes:
+`PRG`, `PRCR`, `PRCC`, `PRBD`, and `PRCS`. Retired outcomes are rejected. All
+four endpoints also accept an empty `rag` string as an explicit reset, which
+clears the existing review outcome cell after the normal UUID, sheet, and
+content-state validation has succeeded. `PRNS` is the default state, not
+another submitted trigger.
 
 ## Checks
 

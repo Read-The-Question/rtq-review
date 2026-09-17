@@ -2,13 +2,17 @@ import {
   PENDING_REVIEW_OUTCOME,
   type ReviewPaperNode,
 } from '@rtq/review-paper-model/client';
-import type { LocalReviewComment, ReviewSide } from '@rtq/review-store/types';
+import {
+  type LocalReviewComment,
+  type ReviewSide,
+} from '@rtq/review-store/types';
 
 export type {
   LocalReviewComment,
   ReviewSide,
   ReviewTargetIdentity,
 } from '@rtq/review-store/types';
+export { isReviewSide } from '@rtq/review-store/types';
 
 export const REVIEW_OUTCOMES = ['PRG', 'PRCR', 'PRCC', 'PRBD', 'PRCS'] as const;
 
@@ -150,14 +154,10 @@ export function displayedReviewOutcome(
   if (!target) return undefined;
   const key = reviewTargetKey(target);
   if (Object.hasOwn(overrides, key)) return overrides[key];
-  const sourceOutcome = node.review[side].reviewOutcome;
+  const sourceOutcome = node.review[side]?.reviewOutcome;
   return destination === 'google-sheets' && isReviewOutcome(sourceOutcome)
     ? sourceOutcome
     : undefined;
-}
-
-export function isReviewSide(value: unknown): value is ReviewSide {
-  return value === 'answer' || value === 'question';
 }
 
 export function isReviewSheetCode(value: unknown): value is ReviewSheetCode {
@@ -238,7 +238,7 @@ export function reviewTargetForNode(
   source: Readonly<{ collectionId: string; relativePath: string }>,
 ): ReviewTargetDescriptor | undefined {
   const state = node.review[side];
-  if (node.depth !== 0 || !node.uuid || !state.contentRag) {
+  if (node.depth !== 0 || !node.uuid || !state?.contentRag) {
     return undefined;
   }
   const ragState = normalizeSourceRag(state.contentRag);
@@ -262,7 +262,7 @@ export function reviewCommentTargetForNode(
   source: Readonly<{ collectionId: string; relativePath: string }>,
 ): ReviewTargetDescriptor | undefined {
   if (topLevelQuestion.depth !== 0 || !node.uuid) return undefined;
-  const inheritedState = topLevelQuestion.review[side].contentRag;
+  const inheritedState = topLevelQuestion.review[side]?.contentRag;
   if (!inheritedState) return undefined;
   const ragState = normalizeSourceRag(inheritedState);
   if (!ragState) return undefined;

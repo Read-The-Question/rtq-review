@@ -30,8 +30,9 @@ Dimensional tags are resolved independently for family, math, frame, marker,
 and reasoning. The filter API applies exact OR matching within an axis and AND
 matching between axes, returns cross-filtered facet counts, preserves selected
 zero-result values, and carries complete top-level question trees alongside the
-IDs of the exact matching nodes. Independent question and answer content-RAG
-facets participate in the same exact filter expression. URL helpers use stable
+IDs of the exact matching nodes. Independent question content, question image,
+answer content, and answer image RAG facets participate in the same exact
+filter expression. URL helpers use stable
 repeated parameters, preserve unrelated query parameters, and can clear the
 complete tag-and-state review lens in one operation.
 

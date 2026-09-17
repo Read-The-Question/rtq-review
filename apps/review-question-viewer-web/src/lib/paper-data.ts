@@ -75,6 +75,12 @@ function asString(value: unknown) {
   return typeof value === 'string' ? value : '';
 }
 
+function asRecord(value: unknown): Record<string, unknown> {
+  return value && typeof value === 'object' && !Array.isArray(value)
+    ? (value as Record<string, unknown>)
+    : {};
+}
+
 function asStringArray(value: unknown) {
   if (!Array.isArray(value)) {
     return [];
@@ -553,52 +559,85 @@ function ragStatesFromRecord(
     return [];
   }
 
-  const keys = ['rtq-answer-rag'];
-  const labels: Record<string, string> = {
-    'rtq-answer-rag': 'Answer',
-  };
-
-  return keys.flatMap((key): RagState[] => {
-    const state = ragStateFromRecordValue(record, key, labels[key]);
-
-    return state ? [state] : [];
-  });
+  const rag = asRecord(record.rag);
+  const answer = asRecord(rag.answer);
+  const state = ragStateFromRecordValue(answer, 'state', 'Answer');
+  return state ? [state] : [];
 }
 
 function reviewMetadataFromRecord(
   record: Record<string, unknown>,
 ): ReviewMetadata {
-  const answerSourceRag = ragStateFromRecordValue(
-    record,
-    'rtq-answer-rag',
-    'Answer',
-  );
+  const rag = asRecord(record.rag);
+  const answer = asRecord(rag.answer);
+  const answerReview = asRecord(answer.review);
+  const answerImage = asRecord(answer.image);
+  const answerImageReview = asRecord(answerImage.review);
+  const question = asRecord(rag.question);
+  const questionReview = asRecord(question.review);
+  const questionImage = asRecord(question.image);
+  const questionImageReview = asRecord(questionImage.review);
+  const answerSourceRag = ragStateFromRecordValue(answer, 'state', 'Answer');
   const questionSourceRag = ragStateFromRecordValue(
-    record,
-    'rtq-question-rag',
+    question,
+    'state',
     'Question',
+  );
+  const answerImageSourceRag = ragStateFromRecordValue(
+    answerImage,
+    'state',
+    'Answer image',
+  );
+  const questionImageSourceRag = ragStateFromRecordValue(
+    questionImage,
+    'state',
+    'Question image',
   );
 
   return {
     answer: {
-      comments: asString(record['rtq-review-comments']).trim(),
+      comments: asString(answerReview.comments).trim(),
       reviewRag: ragStateFromRecordValue(
-        record,
-        'rtq-review-rag',
+        answerReview,
+        'outcome',
         'Answer review',
       ),
       sheet: sheetCodeFromRag(answerSourceRag?.rawValue),
       sourceRag: answerSourceRag,
     },
-    question: {
-      comments: asString(record['rtq-question-review-comments']).trim(),
+    answerImage: {
+      comments: asString(answerImageReview.comments).trim(),
+      imageNotes: asString(answerImage.notes).trim() || undefined,
+      imageTypes: asStringArray(answerImage.types),
       reviewRag: ragStateFromRecordValue(
-        record,
-        'rtq-question-review-rag',
+        answerImageReview,
+        'outcome',
+        'Answer image review',
+      ),
+      sheet: sheetCodeFromRag(answerImageSourceRag?.rawValue),
+      sourceRag: answerImageSourceRag,
+    },
+    question: {
+      comments: asString(questionReview.comments).trim(),
+      reviewRag: ragStateFromRecordValue(
+        questionReview,
+        'outcome',
         'Question review',
       ),
       sheet: sheetCodeFromRag(questionSourceRag?.rawValue),
       sourceRag: questionSourceRag,
+    },
+    questionImage: {
+      comments: asString(questionImageReview.comments).trim(),
+      imageNotes: asString(questionImage.notes).trim() || undefined,
+      imageTypes: asStringArray(questionImage.types),
+      reviewRag: ragStateFromRecordValue(
+        questionImageReview,
+        'outcome',
+        'Question image review',
+      ),
+      sheet: sheetCodeFromRag(questionImageSourceRag?.rawValue),
+      sourceRag: questionImageSourceRag,
     },
   };
 }

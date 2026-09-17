@@ -242,7 +242,12 @@ export function reviewTargetForNode(
     return undefined;
   }
   const ragState = normalizeSourceRag(state.contentRag);
-  if (!ragState) return undefined;
+  if (
+    !ragState ||
+    (side.endsWith('-image') && ragState === 'rag_wf_notapplicable')
+  ) {
+    return undefined;
+  }
   return {
     collectionId: source.collectionId,
     nodeId: node.id,
@@ -265,7 +270,12 @@ export function reviewCommentTargetForNode(
   const inheritedState = topLevelQuestion.review[side]?.contentRag;
   if (!inheritedState) return undefined;
   const ragState = normalizeSourceRag(inheritedState);
-  if (!ragState) return undefined;
+  if (
+    !ragState ||
+    (side.endsWith('-image') && ragState === 'rag_wf_notapplicable')
+  ) {
+    return undefined;
+  }
   return {
     collectionId: source.collectionId,
     nodeId: node.id,

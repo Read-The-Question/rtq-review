@@ -262,11 +262,11 @@ export function collectionRoute(
 }
 
 export function reviewStateLabel(value: string): string {
-  return value
+  const state = value
     .trim()
     .replace(/^rag_wf_/i, '')
     .replace(/^rag_/i, '')
-    .replaceAll(/[_-]+/g, ' ')
-    .toUpperCase();
+    .replaceAll(/[_-]+/g, ' ');
+  return state.toLowerCase() === 'notapplicable' ? 'N/A' : state.toUpperCase();
 }
 import type { ReviewSide } from '@rtq/review-store/types';

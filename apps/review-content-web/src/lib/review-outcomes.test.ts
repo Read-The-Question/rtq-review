@@ -198,6 +198,13 @@ test('reload resolves only current question and answer state in database mode', 
     uuid: target.uuid,
   });
   store.repository.set({
+    outcome: 'PRG',
+    ragState: 'rag_wf_notapplicable',
+    reviewer: 'up',
+    side: 'answer-image',
+    uuid: target.uuid,
+  });
+  store.repository.set({
     outcome: 'PRCR',
     ragState: 'rag_wf_ng2',
     reviewer: 'up',
@@ -214,7 +221,9 @@ test('reload resolves only current question and answer state in database mode', 
             questionId: target.questionId,
             review: {
               answer: { contentRag: target.ragState },
+              'answer-image': { contentRag: 'rag_wf_notapplicable' },
               question: { contentRag: target.ragState },
+              'question-image': { contentRag: 'rag_wf_notapplicable' },
             },
             uuid: target.uuid,
           },

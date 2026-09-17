@@ -506,6 +506,7 @@ function ragTone(value: string): RagState['tone'] {
     'ng7',
     'ng8',
     'notstarted',
+    'notapplicable',
   ]);
 
   return validStates.has(state as RagState['tone'])
@@ -608,6 +609,7 @@ function reviewMetadataFromRecord(
     answerImage: {
       comments: asString(answerImageReview.comments).trim(),
       imageNotes: asString(answerImage.notes).trim() || undefined,
+      imageSourceDecisions: asStringArray(answerImage['source-decisions']),
       imageTypes: asStringArray(answerImage.types),
       reviewRag: ragStateFromRecordValue(
         answerImageReview,
@@ -630,6 +632,7 @@ function reviewMetadataFromRecord(
     questionImage: {
       comments: asString(questionImageReview.comments).trim(),
       imageNotes: asString(questionImage.notes).trim() || undefined,
+      imageSourceDecisions: asStringArray(questionImage['source-decisions']),
       imageTypes: asStringArray(questionImage.types),
       reviewRag: ragStateFromRecordValue(
         questionImageReview,

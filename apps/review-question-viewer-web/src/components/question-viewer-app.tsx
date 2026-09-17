@@ -650,36 +650,47 @@ function ReviewPane({
             ['Question image', node.review.questionImage],
             ['Answer image', node.review.answerImage],
           ] as const
-        ).map(([label, metadata]) => (
-          <section className="review-scope" key={label}>
-            <header className="review-scope__header">
-              <div>
-                <p className="review-scope__eyebrow">Image review</p>
-                <h4>{label}</h4>
-              </div>
-              <div className="review-scope__state">
-                <span>Source {metadata.sourceRag?.value ?? 'missing'}</span>
-                <strong>{metadata.reviewRag?.value ?? 'PRNS'}</strong>
-              </div>
-            </header>
-            <dl>
-              <div>
-                <dt>Types</dt>
-                <dd>
-                  {metadata.imageTypes?.length
-                    ? metadata.imageTypes.join(', ')
-                    : 'Unclassified at NG2 / none confirmed after NG2'}
-                </dd>
-              </div>
-              {metadata.imageNotes ? (
+        )
+          .filter(
+            ([, metadata]) =>
+              metadata.sourceRag?.rawValue !== 'rag_wf_notapplicable',
+          )
+          .map(([label, metadata]) => (
+            <section className="review-scope" key={label}>
+              <header className="review-scope__header">
                 <div>
-                  <dt>Notes</dt>
-                  <dd>{metadata.imageNotes}</dd>
+                  <p className="review-scope__eyebrow">Image review</p>
+                  <h4>{label}</h4>
                 </div>
-              ) : null}
-            </dl>
-          </section>
-        ))}
+                <div className="review-scope__state">
+                  <span>Source {metadata.sourceRag?.value ?? 'missing'}</span>
+                  <strong>{metadata.reviewRag?.value ?? 'PRNS'}</strong>
+                </div>
+              </header>
+              <dl>
+                <div>
+                  <dt>Types</dt>
+                  <dd>
+                    {metadata.imageTypes?.length
+                      ? metadata.imageTypes.join(', ')
+                      : 'Unclassified at NG2 / none confirmed after NG2'}
+                  </dd>
+                </div>
+                {metadata.imageNotes ? (
+                  <div>
+                    <dt>Notes</dt>
+                    <dd>{metadata.imageNotes}</dd>
+                  </div>
+                ) : null}
+                {metadata.imageSourceDecisions?.length ? (
+                  <div>
+                    <dt>Source decisions</dt>
+                    <dd>{metadata.imageSourceDecisions.join(', ')}</dd>
+                  </div>
+                ) : null}
+              </dl>
+            </section>
+          ))}
       </div>
     </section>
   );

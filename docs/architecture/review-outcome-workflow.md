@@ -40,6 +40,7 @@ Reviewer opens a canonical question
 
 Operator runs the database-outcome sync in rtq-content
   -> sync inventories every top-level UUID and all four review targets
+  -> Not Applicable image targets are excluded from outcome resolution
   -> review-store resolves only exact UUID + side + state matches
   -> rtq-content applies the current transition policy
   -> dry-run reports, or apply edits, canonical content and companion review fields
@@ -59,6 +60,13 @@ answer content, and answer images are independent review targets. Each target ha
 In database mode, the page also requests stored outcomes for those exact
 targets. An outcome recorded for the same UUID and side at an earlier state is
 not displayed as the current decision.
+
+Image targets whose canonical state is `rag_wf_notapplicable` are dormant.
+They do not produce review controls, pending-review requests, database
+lookups, Google Sheets rows, or transitions. When review discovers image work,
+the content source must first activate that side explicitly at `rag_wf_ng2`;
+only then does it re-enter the ordinary image-review workflow. Active image
+panels also expose the controlled `source-decisions` metadata when present.
 
 ### 2. Submit a review request
 

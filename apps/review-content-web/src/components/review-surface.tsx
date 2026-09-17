@@ -343,6 +343,12 @@ function targetUnavailableReason(
   if (!topLevelQuestion.review[side]?.contentRag) {
     return `${reviewSideLabel(side)} RAG is unavailable on the top-level question.`;
   }
+  if (
+    side.endsWith('-image') &&
+    topLevelQuestion.review[side]?.contentRag === 'rag_wf_notapplicable'
+  ) {
+    return `${reviewSideLabel(side)} is Not Applicable. Activate it explicitly at NG2 when image work is discovered.`;
+  }
   return 'Review metadata is unavailable.';
 }
 
@@ -391,6 +397,13 @@ function ReviewScope({
   const commentDisabledReason = !target
     ? targetUnavailableReason(node, topLevelQuestion, side)
     : runtime.commentError;
+
+  if (
+    side.endsWith('-image') &&
+    topLevelQuestion.review[side]?.contentRag === 'rag_wf_notapplicable'
+  ) {
+    return null;
+  }
 
   async function submitOutcome(outcome: ReviewOutcomeSelection) {
     if (!target || outcomeDisabledReason || outcomePending) return;
@@ -470,6 +483,12 @@ function ReviewScope({
             <div>
               <dt>Image notes</dt>
               <dd>{imageState.imageNotes}</dd>
+            </div>
+          ) : null}
+          {imageState?.imageSourceDecisions?.length ? (
+            <div>
+              <dt>Source decisions</dt>
+              <dd>{imageState.imageSourceDecisions.join(', ')}</dd>
             </div>
           ) : null}
           {outcomesEnabled ? (

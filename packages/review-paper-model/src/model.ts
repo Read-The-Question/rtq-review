@@ -156,6 +156,9 @@ export type OriginalQuestionSource = Readonly<{
 export type ReviewTargetState = Readonly<{
   contentRag?: string;
   imageNotes?: string;
+  imageSourceDecisions?: readonly (
+    'decorative-included' | 'decorative-omitted' | 'decorative-undecided'
+  )[];
   imageTypes?: readonly ('generated' | 'screenshot')[];
   legacyComments: string;
   reviewOutcome?: string;

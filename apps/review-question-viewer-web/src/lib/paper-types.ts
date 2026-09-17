@@ -37,6 +37,7 @@ export type RagState = {
     | 'ng7'
     | 'ng8'
     | 'notstarted'
+    | 'notapplicable'
     | 'review-danger'
     | 'review-pending'
     | 'review-success'
@@ -48,6 +49,7 @@ export type RagState = {
 export type ReviewScopeMetadata = {
   comments: string;
   imageNotes?: string;
+  imageSourceDecisions?: string[];
   imageTypes?: string[];
   reviewRag: RagState | null;
   sheet: string | null;

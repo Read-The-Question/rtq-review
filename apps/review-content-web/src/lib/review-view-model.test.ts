@@ -223,5 +223,6 @@ test('collection routes encode the collection identifier', () => {
 test('rack states have compact reviewer-facing labels', () => {
   assert.equal(reviewStateLabel('rag_wf_ng4'), 'NG4');
   assert.equal(reviewStateLabel('rag_ng2'), 'NG2');
+  assert.equal(reviewStateLabel('rag_wf_notapplicable'), 'N/A');
   assert.equal(reviewStateLabel('editorial_hold'), 'EDITORIAL HOLD');
 });

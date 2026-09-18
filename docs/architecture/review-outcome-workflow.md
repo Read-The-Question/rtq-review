@@ -121,15 +121,17 @@ a configuration error.
 In database mode, one `review_outcomes` row represents the latest decision for
 one state-scoped target:
 
-| Field        | Meaning                                          |
-| ------------ | ------------------------------------------------ |
-| `rtq_uuid`   | Canonical top-level question identity            |
-| `side`       | One of the four content or image review sides    |
-| `rag_state`  | Canonical state in which the review occurred     |
-| `outcome`    | Review decision such as `PRG`                    |
-| `reviewer`   | Reviewer identity supplied by the application    |
-| `created_at` | Time this state-scoped decision was first stored |
-| `updated_at` | Time it was last replaced                        |
+| Field                | Meaning                                                              |
+| -------------------- | -------------------------------------------------------------------- |
+| `rtq_uuid`           | Canonical top-level question identity                                |
+| `side`               | One of the four content or image review sides                        |
+| `rag_state`          | Canonical state in which the review occurred                         |
+| `outcome`            | Review decision such as `PRG`                                        |
+| `image_types_json`   | Latest controlled image types for an image side, or `null`           |
+| `image_ignored_json` | Latest controlled ignored-image reasons for an image side, or `null` |
+| `reviewer`           | Reviewer identity supplied by the application                        |
+| `created_at`         | Time this state-scoped decision was first stored                     |
+| `updated_at`         | Time the outcome or image metadata was last replaced                 |
 
 The unique identity is `rtq_uuid + side + rag_state`. Submitting another
 decision for that identity replaces the outcome and reviewer while retaining
@@ -228,9 +230,15 @@ its companion review outcome to `PRNS`.
 `PRCR` and `PRCC` do not change content RAG; they are retained in the companion
 review field. Reset is represented by the absence of an exact database outcome,
 so the sync returns a retained companion signal to `PRNS`. The database path
-never changes companion
-TOML comment fields, derived TOML, generated Markdown, PDFs, assets, Google
-Sheets, comments, or the review database.
+also copies the latest non-null `imageMetadata.types` and
+`imageMetadata.ignored` arrays from an exact image outcome into the matching
+canonical image fields. This metadata is part of the same dry-run/apply plan as
+the image RAG transition. A later metadata-only upsert is still applied when
+the RAG and companion review fields already match. Historical image rows with
+`null` metadata preserve the canonical arrays rather than clearing them. The
+database path never changes companion TOML comment fields, derived TOML,
+generated Markdown, PDFs, assets, Google Sheets, comments, or the review
+database.
 
 ## Replay and failure behaviour
 
@@ -247,6 +255,8 @@ The design does not need an “applied” database flag:
   matching companion TOML review field; comment history remains untouched.
 - A single sync calculates at most one transition for the state it observed;
   it does not cascade through outcomes stored for several future states.
+- Image metadata comes from the same exact UUID, image side, and current-state
+  outcome as the transition; a stale outcome cannot update current arrays.
 - Inventory, resolver, contract, or transition errors fail the run rather than
   silently skipping questionable data. The complete plan is built before apply
   mode edits any file.

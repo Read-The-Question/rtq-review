@@ -9,7 +9,7 @@ test('registers all prefixed RTQ macros including one-to-one symbol wrappers', (
   assert.equal(
     Object.keys(rtqKatexMacros).filter(name => name.startsWith('\\rtqMaths'))
       .length,
-    51,
+    52,
   );
   assert.equal(
     rtqKatexMacros['\\rtqMathsSymbolTrianglePendingReview'],
@@ -53,6 +53,15 @@ test('renders opt-in columnar arithmetic spacing', () => {
   );
 
   assert.match(html, /height:3\.6em/);
+});
+
+test('renders the columnar decimal point', () => {
+  const html = katex.renderToString(
+    String.raw`\begin{array}{cc}2\rtqMathsColumnarDecimalPoint & 4\end{array}`,
+    { ...rtqKatexOptions, throwOnError: true },
+  );
+
+  assert.match(html, /rlap/);
 });
 
 test('renders the boxed-value grammar', () => {

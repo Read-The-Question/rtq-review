@@ -16,7 +16,7 @@ import type { ReviewOutcomeTarget } from "./types.ts";
 
 function target(
   uuid: string,
-  side: "answer" | "question",
+  side: ReviewOutcomeTarget["side"],
   ragState: string,
 ): ReviewOutcomeTarget {
   return { ragState, side, uuid };
@@ -129,6 +129,40 @@ test("reflects replacement and reset semantics without changing stored rows", ()
   assert.equal(store.outcomes.resolve([selected])[0]?.outcome, "PRCR");
   assert.equal(store.outcomes.clear(selected), true);
   assert.deepEqual(store.outcomes.resolve([selected]), []);
+  store.close();
+});
+
+test("returns the latest structured metadata for an exact image outcome", () => {
+  const store = openReviewStore({ databasePath: ":memory:" });
+  const selected = target("uuid-image", "question-image", "rag_wf_ng2");
+  store.outcomes.set({
+    ...selected,
+    imageMetadata: { ignored: [], types: ["generated"] },
+    outcome: "PRCR",
+    reviewer: "first",
+  });
+  store.outcomes.set({
+    ...selected,
+    imageMetadata: {
+      ignored: ["decorative"],
+      types: ["generated", "screenshot"],
+    },
+    outcome: "PRG",
+    reviewer: "second",
+  });
+
+  const response = resolveReviewOutcomeRequest(
+    { schemaVersion: 1, targets: [selected] },
+    store.outcomes,
+  );
+
+  assert.equal(response.matches.length, 1);
+  assert.deepEqual(response.matches[0]?.imageMetadata, {
+    ignored: ["decorative"],
+    types: ["generated", "screenshot"],
+  });
+  assert.equal(response.matches[0]?.outcome, "PRG");
+  assert.equal(response.matches[0]?.reviewer, "second");
   store.close();
 });
 

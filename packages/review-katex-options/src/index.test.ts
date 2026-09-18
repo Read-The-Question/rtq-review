@@ -151,6 +151,8 @@ test("applies columnar arithmetic spacing only when requested", () => {
 });
 
 test("renders the columnar decimal point as the contracted zero-width overlap", () => {
+  const normalize = (html: string) =>
+    html.replace(/<annotation[^>]*>[\s\S]*?<\/annotation>/g, "<annotation/>");
   const macro = katex.renderToString(
     String.raw`\begin{array}{cc}2\rtqMathsColumnarDecimalPoint & 4\end{array}`,
     options,
@@ -160,7 +162,7 @@ test("renders the columnar decimal point as the contracted zero-width overlap", 
     options,
   );
 
-  assert.equal(macro, direct);
+  assert.equal(normalize(macro), normalize(direct));
   assert.match(macro, /rlap/);
 });
 

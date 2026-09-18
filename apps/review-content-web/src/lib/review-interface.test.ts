@@ -303,6 +303,14 @@ test('the filtered paper rail links every visible question hierarchy level', asy
     css,
     /\.question-index\s*{[^}]*position:\s*sticky;[^}]*top:\s*var\(--review-toolbar-offset, 6rem\)/s,
   );
+  assert.match(
+    css,
+    /\.paper-section\s*{[^}]*scroll-margin-top:\s*calc\(var\(--review-toolbar-offset, 16rem\) \+ 2rem\)/s,
+  );
+  assert.match(
+    css,
+    /\.question-node\s*{[^}]*scroll-margin-top:\s*calc\(var\(--review-toolbar-offset, 16rem\) \+ 2rem\)/s,
+  );
   assert.match(css, /\.question-index-link--current\s*{/);
 });
 

@@ -1980,7 +1980,7 @@ a.paper-row:hover {
 
 .paper-section {
   min-width: 0;
-  scroll-margin-top: 6rem;
+  scroll-margin-top: calc(var(--review-toolbar-offset, 16rem) + 2rem);
 }
 
 .paper-section > header {
@@ -2019,7 +2019,7 @@ a.paper-row:hover {
   min-width: 0;
   padding: clamp(1.1rem, 2.7vw, 2.7rem);
   position: relative;
-  scroll-margin-top: 6.4rem;
+  scroll-margin-top: calc(var(--review-toolbar-offset, 16rem) + 2rem);
   transition:
     border-color 150ms ease,
     box-shadow 150ms ease;

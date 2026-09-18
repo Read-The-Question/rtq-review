@@ -49,6 +49,23 @@ test("renders the columnar decimal point as the contracted zero-width overlap", 
   assert.match(macro, /rlap/);
 });
 
+test("renders question-mark placeholders with their contracted math roles", () => {
+  const options = { ...getRtqKatexOptions(), throwOnError: true };
+  const normalize = (html) =>
+    html.replace(/<annotation[^>]*>[\s\S]*?<\/annotation>/g, "<annotation/>");
+  const cases = [
+    ["\\rtqMathsQuestionMarkPlaceholder", "\\mathord{?}"],
+    ["\\rtqMathsQuestionMarkOperatorPlaceholder", "\\mathbin{?}"],
+  ];
+
+  for (const [macro, expansion] of cases) {
+    assert.equal(
+      normalize(katex.renderToString(macro, options)),
+      normalize(katex.renderToString(expansion, options)),
+    );
+  }
+});
+
 test("renders sequence steps through the semantic working-step class", () => {
   const options = { ...getRtqKatexOptions(), throwOnError: true };
   const html = katex.renderToString(
@@ -87,6 +104,8 @@ test("registers and renders the complete prefixed RTQ vocabulary", () => {
     "\\rtqMathsEquationNumber",
     "\\rtqMathsIncorrectValue",
     "\\rtqMathsMultiplyCarryOver",
+    "\\rtqMathsQuestionMarkOperatorPlaceholder",
+    "\\rtqMathsQuestionMarkPlaceholder",
     "\\rtqMathsSequenceStep",
     "\\rtqMathsSequenceStepBare",
     "\\rtqMathsSizeEightPendingReview",

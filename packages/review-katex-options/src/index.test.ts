@@ -18,6 +18,7 @@ import {
   RTQ_EQUATION_NUMBER_MACRO,
   RTQ_EMPTY_VALUE_MACROS,
   RTQ_PENDING_SIZE_SWITCHES,
+  RTQ_QUESTION_MARK_PLACEHOLDER_MACROS,
   RTQ_WORKING_STEP_CLASS,
 } from "./index.ts";
 
@@ -88,7 +89,28 @@ test("matches the canonical rtq-content shared macro contracts", () => {
       name,
     );
   }
+  for (const name of Object.keys(RTQ_QUESTION_MARK_PLACEHOLDER_MACROS)) {
+    assert.equal(
+      contract.macros.some((macro) => macro.name === name),
+      true,
+      name,
+    );
+  }
   assert.equal(options.macros["\\existingReviewerMacro"], "x_{#1}");
+});
+
+test("renders question-mark placeholders with their contracted math roles", () => {
+  const normalize = (html: string) =>
+    html.replace(/<annotation[^>]*>[\s\S]*?<\/annotation>/g, "<annotation/>");
+
+  for (const [macro, expansion] of Object.entries(
+    RTQ_QUESTION_MARK_PLACEHOLDER_MACROS,
+  )) {
+    assert.equal(
+      normalize(katex.renderToString(macro, options)),
+      normalize(katex.renderToString(expansion, options)),
+    );
+  }
 });
 
 test("preserves every enlarged size through its pending-review switch", () => {

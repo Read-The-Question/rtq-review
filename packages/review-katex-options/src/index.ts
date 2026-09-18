@@ -18,6 +18,11 @@ export const RTQ_COLUMNAR_DECIMAL_POINT_MACRO =
 export const RTQ_COLUMNAR_DECIMAL_POINT_EXPANSION =
   "\\mathrlap{\\mkern5mu .}" as const;
 
+export const RTQ_QUESTION_MARK_PLACEHOLDER_MACROS = {
+  "\\rtqMathsQuestionMarkPlaceholder": "\\mathord{?}",
+  "\\rtqMathsQuestionMarkOperatorPlaceholder": "\\mathbin{?}",
+} as const;
+
 export const RTQ_PENDING_SIZE_SWITCHES = {
   "\\rtqMathsSizeSevenPendingReview": "\\large",
   "\\rtqMathsSizeEightPendingReview": "\\Large",
@@ -88,6 +93,7 @@ export function getRtqReviewKatexOptions<
       [RTQ_COLUMNAR_ARITHMETIC_STYLE_MACRO]:
         RTQ_COLUMNAR_ARITHMETIC_STYLE_EXPANSION,
       [RTQ_COLUMNAR_DECIMAL_POINT_MACRO]: RTQ_COLUMNAR_DECIMAL_POINT_EXPANSION,
+      ...RTQ_QUESTION_MARK_PLACEHOLDER_MACROS,
       ...RTQ_PENDING_SIZE_SWITCHES,
       ...RTQ_BOXED_VALUE_MACROS,
       ...RTQ_EMPTY_VALUE_MACROS,

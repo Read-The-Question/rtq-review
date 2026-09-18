@@ -3,12 +3,14 @@ import {
   type ReviewPaperNode,
 } from '@rtq/review-paper-model/client';
 import {
+  type ImageReviewMetadata,
   type LocalReviewComment,
   type ReviewSide,
 } from '@rtq/review-store/types';
 
 export type {
   LocalReviewComment,
+  ImageReviewMetadata,
   ReviewSide,
   ReviewTargetIdentity,
 } from '@rtq/review-store/types';
@@ -79,6 +81,7 @@ export type ReviewOutcomeDestination = 'database' | 'google-sheets';
 export type ReviewOutcomeLoad = Readonly<{
   destination: ReviewOutcomeDestination;
   error?: string;
+  imageMetadata: Readonly<Record<string, ImageReviewMetadata>>;
   outcomes: Readonly<Record<string, ReviewOutcomeSelection>>;
 }>;
 export type ReviewSheetCode = (typeof REVIEW_SHEET_CODES)[number];
@@ -158,6 +161,30 @@ export function displayedReviewOutcome(
   return destination === 'google-sheets' && isReviewOutcome(sourceOutcome)
     ? sourceOutcome
     : undefined;
+}
+
+export function sourceImageReviewMetadata(
+  node: ReviewPaperNode,
+  side: 'answer-image' | 'question-image',
+): ImageReviewMetadata {
+  const state = node.review[side];
+  return {
+    ignored: state.imageIgnored ?? [],
+    types: state.imageTypes ?? [],
+  };
+}
+
+export function displayedImageReviewMetadata(
+  node: ReviewPaperNode,
+  side: 'answer-image' | 'question-image',
+  source: Readonly<{ collectionId: string; relativePath: string }>,
+  overrides: Readonly<Record<string, ImageReviewMetadata>>,
+): ImageReviewMetadata {
+  const target = reviewTargetForNode(node, side, source);
+  if (!target) return sourceImageReviewMetadata(node, side);
+  return (
+    overrides[reviewTargetKey(target)] ?? sourceImageReviewMetadata(node, side)
+  );
 }
 
 export function isReviewSheetCode(value: unknown): value is ReviewSheetCode {

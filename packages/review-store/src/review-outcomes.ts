@@ -9,6 +9,7 @@ import {
 import { reviewOutcomes } from "./schema.ts";
 import type { ReviewStoreDatabase } from "./review-store.ts";
 import type {
+  ImageReviewMetadata,
   ReviewOutcome,
   ReviewOutcomeTarget,
   SetReviewOutcome,
@@ -18,6 +19,9 @@ import {
   LEGACY_REVIEW_OUTCOME_CONSOLIDATIONS,
   REMOVED_REVIEW_OUTCOMES,
   REVIEW_OUTCOMES,
+  isImageReviewIgnoredReason,
+  isImageReviewSide,
+  isImageReviewType,
   isReviewOutcome,
   isReviewSide,
 } from "./types.ts";
@@ -48,6 +52,8 @@ function validateTarget(target: ReviewOutcomeTarget): void {
 
 type OutcomeRecord = Readonly<{
   createdAt: unknown;
+  imageIgnoredJson: unknown;
+  imageTypesJson: unknown;
   outcome: unknown;
   ragState: unknown;
   reviewer: unknown;
@@ -88,6 +94,68 @@ function storedOutcome(row: OutcomeRecord): ReviewOutcome {
   );
 }
 
+function storedImageMetadata(
+  row: OutcomeRecord,
+  side: ReviewOutcomeTarget["side"],
+): ImageReviewMetadata | null {
+  if (row.imageTypesJson === null && row.imageIgnoredJson === null) return null;
+  if (
+    !isImageReviewSide(side) ||
+    typeof row.imageTypesJson !== "string" ||
+    typeof row.imageIgnoredJson !== "string"
+  ) {
+    throw new ReviewStoreDataError(
+      `Invalid stored review outcome (${describeIdentity(row)}): image metadata must be complete and limited to image review sides.`,
+    );
+  }
+  try {
+    const types: unknown = JSON.parse(row.imageTypesJson);
+    const ignored: unknown = JSON.parse(row.imageIgnoredJson);
+    if (
+      !Array.isArray(types) ||
+      !types.every(isImageReviewType) ||
+      new Set(types).size !== types.length ||
+      !Array.isArray(ignored) ||
+      !ignored.every(isImageReviewIgnoredReason) ||
+      new Set(ignored).size !== ignored.length
+    ) {
+      throw new Error("invalid controlled image metadata");
+    }
+    return { ignored, types };
+  } catch {
+    throw new ReviewStoreDataError(
+      `Invalid stored review outcome (${describeIdentity(row)}): image metadata must contain supported JSON arrays.`,
+    );
+  }
+}
+
+function validateImageMetadata(
+  input: SetReviewOutcome,
+): ImageReviewMetadata | null {
+  if (input.imageMetadata === undefined) return null;
+  if (!isImageReviewSide(input.side)) {
+    throw new ReviewStoreValidationError(
+      "imageMetadata",
+      'Review store field "imageMetadata" is accepted only for image review sides.',
+    );
+  }
+  const { ignored, types } = input.imageMetadata;
+  if (
+    !Array.isArray(types) ||
+    !types.every(isImageReviewType) ||
+    new Set(types).size !== types.length ||
+    !Array.isArray(ignored) ||
+    !ignored.every(isImageReviewIgnoredReason) ||
+    new Set(ignored).size !== ignored.length
+  ) {
+    throw new ReviewStoreValidationError(
+      "imageMetadata",
+      'Review store field "imageMetadata" contains unsupported or duplicate values.',
+    );
+  }
+  return { ignored: [...ignored], types: [...types] };
+}
+
 function toOutcome(row: OutcomeRecord): StoredReviewOutcome {
   const side = storedString(row, "side");
   if (!isReviewSide(side)) {
@@ -97,6 +165,7 @@ function toOutcome(row: OutcomeRecord): StoredReviewOutcome {
   }
   return {
     createdAt: storedString(row, "createdAt"),
+    imageMetadata: storedImageMetadata(row, side),
     outcome: storedOutcome(row),
     ragState: storedString(row, "ragState"),
     reviewer: storedString(row, "reviewer"),
@@ -183,6 +252,7 @@ export function createReviewOutcomeRepository(
         );
       }
       requireValue("reviewer", input.reviewer);
+      const imageMetadata = validateImageMetadata(input);
       try {
         return db.transaction((transaction) => {
           const timestamp = now().toISOString();
@@ -190,6 +260,12 @@ export function createReviewOutcomeRepository(
             .insert(reviewOutcomes)
             .values({
               createdAt: timestamp,
+              imageIgnoredJson: imageMetadata
+                ? JSON.stringify(imageMetadata.ignored)
+                : null,
+              imageTypesJson: imageMetadata
+                ? JSON.stringify(imageMetadata.types)
+                : null,
               outcome: input.outcome,
               ragState: input.ragState,
               reviewer: input.reviewer,
@@ -204,6 +280,12 @@ export function createReviewOutcomeRepository(
                 reviewOutcomes.ragState,
               ],
               set: {
+                imageIgnoredJson: imageMetadata
+                  ? JSON.stringify(imageMetadata.ignored)
+                  : null,
+                imageTypesJson: imageMetadata
+                  ? JSON.stringify(imageMetadata.types)
+                  : null,
                 outcome: input.outcome,
                 reviewer: input.reviewer,
                 updatedAt: timestamp,
@@ -248,6 +330,8 @@ const RESOLVE_OUTCOMES_SQL = `
     outcome.side as side,
     outcome.rag_state as ragState,
     outcome.outcome as outcome,
+    outcome.image_types_json as imageTypesJson,
+    outcome.image_ignored_json as imageIgnoredJson,
     outcome.reviewer as reviewer,
     outcome.created_at as createdAt,
     outcome.updated_at as updatedAt

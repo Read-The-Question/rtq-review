@@ -91,6 +91,8 @@ export const reviewOutcomes = sqliteTable(
     side: text("side", { enum: REVIEW_SIDE_VALUES }).notNull(),
     ragState: text("rag_state").notNull(),
     outcome: text("outcome").notNull(),
+    imageTypesJson: text("image_types_json"),
+    imageIgnoredJson: text("image_ignored_json"),
     reviewer: text("reviewer").notNull(),
     createdAt: text("created_at").notNull(),
     updatedAt: text("updated_at").notNull(),
@@ -99,6 +101,10 @@ export const reviewOutcomes = sqliteTable(
     check(
       "review_outcomes_side_check",
       sql`${table.side} in ('question', 'answer', 'question-image', 'answer-image')`,
+    ),
+    check(
+      "review_outcomes_image_metadata_check",
+      sql`((${table.side} in ('question-image', 'answer-image')) and ((${table.imageTypesJson} is null and ${table.imageIgnoredJson} is null) or (${table.imageTypesJson} is not null and ${table.imageIgnoredJson} is not null))) or ((${table.side} in ('question', 'answer')) and ${table.imageTypesJson} is null and ${table.imageIgnoredJson} is null)`,
     ),
     uniqueIndex("review_outcomes_identity_state_unique").on(
       table.uuid,

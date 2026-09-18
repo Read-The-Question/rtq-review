@@ -69,25 +69,32 @@ test('review requests use descriptive canonical actions in both modes', async ()
   );
 });
 
-test('review outcome filters are independent, URL-backed, and failure-safe', async () => {
+test('review filters are context-scoped, paired, URL-backed, and failure-safe', async () => {
   const component = await fs.readFile(componentUrl, 'utf8');
 
-  assert.match(component, /<strong>Peer-review outcome<\/strong>/);
+  assert.match(component, /className="review-context-filter-row"/);
+  assert.match(component, /reviewSidesForContext\(reviewContext\)\.map/);
   assert.match(
     component,
     /reviewOutcomeFacets=\{result\.reviewOutcomeFacets\}/,
   );
   assert.match(component, /reviewOutcomeFilterLabel\(option\.value\)/);
   assert.match(component, /reviewOutcomeError=\{outcomeLoad\.error\}/);
-  assert.match(component, /selection\.questionReview\.length/);
-  assert.match(component, /selection\.answerReview\.length/);
-  assert.match(component, /Selections within each side use OR\./);
+  assert.match(component, /reviewContext=\{preferences\.reviewSide\}/);
+  assert.match(component, /selection=\{activeSelection\}/);
   assert.match(component, /aria-label="Reset review outcome filters"/);
-  assert.match(component, /clearReviewOutcomeFilters\(selection\)/);
+  assert.match(
+    component,
+    /clearReviewOutcomeFiltersForContext\([\s\S]*selection,[\s\S]*preferences\.reviewSide/,
+  );
   assert.match(component, /onClearReviewOutcomes=\{clearReviewOutcomes\}/);
   assert.match(
     component,
-    /filterReviewPaper\(paper, selection, reviewOutcomeFilterContext\)/,
+    /filterReviewPaper\(paper, activeSelection, reviewOutcomeFilterContext\)/,
+  );
+  assert.match(
+    component,
+    /reviewFilterSelectionForContext\(selection, preferences\.reviewSide\)/,
   );
 });
 
@@ -115,10 +122,9 @@ test('top-level questions expose current outcomes and feedback as scan badges', 
   assert.match(component, /question-status-rail--\$\{tone\}/);
   assert.match(component, /question-status-rail--\$\{side\}/);
   assert.match(component, /reviewSideShortLabel\(side\)/);
-  assert.match(
-    component,
-    /question-node--status-background-\$\{backgroundTone\}/,
-  );
+  assert.match(component, /function ImageReviewStatusBlock/);
+  assert.match(component, /review-content-status--\$\{contentStatusTone\}/);
+  assert.match(component, /review-content-status--\$\{tone\}/);
   assert.match(
     component,
     /outcome \? reviewOutcomeLabel\(outcome\) : 'Pending'/,
@@ -137,7 +143,8 @@ test('top-level questions expose current outcomes and feedback as scan badges', 
   );
   assert.match(css, /\.question-status-rail--approved\s*{/);
   assert.match(css, /\.question-status-rail--pending\s*{/);
-  assert.match(css, /\.question-node--status-background-blocked\s*{/);
+  assert.match(css, /\.review-content-status--blocked\s*{/);
+  assert.doesNotMatch(css, /\.question-node--status-background-blocked\s*{/);
   assert.doesNotMatch(component, /question-node--active/);
   assert.doesNotMatch(css, /\.question-node--active/);
 });
@@ -187,17 +194,21 @@ test('review filter disclosure restores and persists its expanded state', async 
   );
 });
 
-test('the sticky toolbar always exposes one explicitly selected review side', async () => {
-  const component = await fs.readFile(componentUrl, 'utf8');
+test('the sticky toolbar exposes both tracks in one selected review context', async () => {
+  const [component, css] = await Promise.all([
+    fs.readFile(componentUrl, 'utf8'),
+    fs.readFile(cssUrl, 'utf8'),
+  ]);
 
   assert.match(component, /function ReviewSideSelector/);
-  assert.match(component, /REVIEW_SIDE_OPTIONS\.map/);
+  assert.match(component, /REVIEW_CONTEXT_OPTIONS\.map/);
   assert.match(component, /updatePreference\('reviewSide', side\)/);
   assert.match(
     component,
-    /submitToolbarOutcome\(preferences\.reviewSide, outcome\)/,
+    /reviewSidesForContext\(preferences\.reviewSide\)\.map/,
   );
-  assert.match(component, /openKeyboardComment\(preferences\.reviewSide\)/);
+  assert.match(component, /submitToolbarOutcome\(side, outcome\)/);
+  assert.match(component, /openKeyboardComment\(side\)/);
   assert.equal(component.match(/<ReviewLane/g)?.length, 1);
   assert.match(component, /PRIMARY_REVIEW_OPTIONS\.map/);
   assert.match(component, /SECONDARY_REVIEW_OPTIONS\.map/);
@@ -206,6 +217,27 @@ test('the sticky toolbar always exposes one explicitly selected review side', as
   assert.doesNotMatch(component, /<summary>More<\/summary>/);
   assert.doesNotMatch(component, /review-lane-more/);
   assert.doesNotMatch(component, /review-lane--disabled/);
+  assert.match(component, /function ImageMetadataControls/);
+  assert.match(component, />Generated</);
+  assert.match(component, />Screenshot</);
+  assert.match(component, />Ignore decorative source image</);
+  assert.match(
+    component,
+    /Saved with the current or next image review[\s\S]*action/,
+  );
+  assert.match(component, /displayedImageReviewMetadata/);
+  assert.match(
+    component,
+    /JSON\.stringify\(\{ imageMetadata, outcome, reviewer, target \}\)/,
+  );
+  assert.match(css, /\.image-metadata-controls\s*{/);
+  assert.match(component, /pendingOutcomeSelections/);
+  assert.match(
+    component,
+    /while \(pendingRequestKeys\.current\.has\(`\$\{key\}:outcome`\)\)/,
+  );
+  assert.match(component, /imageMetadataSaveChains/);
+  assert.match(component, /sameImageMetadata/);
 });
 
 test('the sticky View popover dismisses after selection, outside click, and Escape', async () => {
@@ -300,16 +332,16 @@ test('feedback is independent from review panels and only renders when populated
   assert.match(component, /if \(!hasFeedback\) return null/);
   assert.match(
     component,
-    /preferences\.showFeedback && preferences\.reviewSide === 'question'[\s\S]*side="question"/,
+    /visibleFeedbackSides\(preferences\)[\s\S]*side\.startsWith\('question'\)/,
   );
   assert.match(
     component,
-    /<SolutionContent[\s\S]*preferences\.showFeedback && preferences\.reviewSide === 'answer'[\s\S]*side="answer"/,
+    /<SolutionContent[\s\S]*visibleFeedbackSides\(preferences\)[\s\S]*side\.startsWith\('answer'\)/,
   );
   assert.match(component, /visibleReviewSides\(preferences\)\.length > 0/);
   assert.match(
     css,
-    /\.review-scopes\s*{[^}]*grid-template-columns:\s*minmax\(0, 1fr\)/s,
+    /\.review-scopes\s*{[^}]*grid-template-columns:\s*repeat\(2, minmax\(0, 1fr\)\)/s,
   );
   assert.match(
     css,

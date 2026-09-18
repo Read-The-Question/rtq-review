@@ -353,6 +353,7 @@ test("outcomes replace within one identity and state without consumption flags",
   );
   assert.deepEqual(Object.keys(replacement).sort(), [
     "createdAt",
+    "imageMetadata",
     "outcome",
     "ragState",
     "reviewer",
@@ -364,6 +365,64 @@ test("outcomes replace within one identity and state without consumption flags",
   assert.equal(store.outcomes.clear(target), false);
   assert.equal(store.outcomes.get(target), undefined);
   assert.equal(store.outcomes.listAll().length, 2);
+  store.close();
+});
+
+test("image outcomes persist structured type and decorative decisions", () => {
+  const store = openReviewStore({ databasePath: ":memory:" });
+  const target = {
+    ragState: "rag_wf_ng2",
+    side: "question-image" as const,
+    uuid: "uuid-image",
+  };
+
+  const bothTypes = store.outcomes.set({
+    ...target,
+    imageMetadata: {
+      ignored: ["decorative"],
+      types: ["generated", "screenshot"],
+    },
+    outcome: "PRCR",
+    reviewer: "up",
+  });
+  assert.deepEqual(bothTypes.imageMetadata, {
+    ignored: ["decorative"],
+    types: ["generated", "screenshot"],
+  });
+
+  const noImage = store.outcomes.set({
+    ...target,
+    imageMetadata: { ignored: [], types: [] },
+    outcome: "PRG",
+    reviewer: "up",
+  });
+  assert.deepEqual(noImage.imageMetadata, { ignored: [], types: [] });
+  assert.deepEqual(store.outcomes.resolve([target])[0]?.imageMetadata, {
+    ignored: [],
+    types: [],
+  });
+
+  assert.throws(
+    () =>
+      store.outcomes.set({
+        ...target,
+        imageMetadata: { ignored: [], types: ["generated", "generated"] },
+        outcome: "PRG",
+        reviewer: "up",
+      }),
+    ReviewStoreValidationError,
+  );
+  assert.throws(
+    () =>
+      store.outcomes.set({
+        ...target,
+        imageMetadata: { ignored: ["decorative"], types: [] },
+        outcome: "PRG",
+        reviewer: "up",
+        side: "question",
+      }),
+    ReviewStoreValidationError,
+  );
   store.close();
 });
 

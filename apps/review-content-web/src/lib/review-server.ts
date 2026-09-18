@@ -1,4 +1,11 @@
 import {
+  isImageReviewIgnoredReason,
+  isImageReviewSide,
+  isImageReviewType,
+  type ImageReviewMetadata,
+} from '@rtq/review-store/types';
+
+import {
   isPaperCollectionId,
   readReviewPaper,
   type ReviewPaper,
@@ -34,7 +41,10 @@ export type ReviewMutationRequest = Readonly<{
 }>;
 
 export type ReviewOutcomeRequest = ReviewMutationRequest &
-  Readonly<{ outcome: ReviewOutcomeSelection }>;
+  Readonly<{
+    imageMetadata?: ImageReviewMetadata;
+    outcome: ReviewOutcomeSelection;
+  }>;
 
 export type ReviewCommentRequest = Readonly<{
   comment: string;
@@ -143,7 +153,51 @@ export function parseReviewOutcomeRequest(
   if (outcome !== null && !isReviewOutcome(outcome)) {
     throw new ReviewRequestError('Review request is not supported.');
   }
-  return { ...mutation, outcome };
+  const imageMetadata = parseImageReviewMetadata(
+    body.imageMetadata,
+    mutation.target.side,
+  );
+  return {
+    ...mutation,
+    ...(imageMetadata ? { imageMetadata } : {}),
+    outcome,
+  };
+}
+
+function parseImageReviewMetadata(
+  value: unknown,
+  side: ReviewTargetDescriptor['side'],
+): ImageReviewMetadata | undefined {
+  if (value === undefined) return undefined;
+  if (!isImageReviewSide(side)) {
+    throw new ReviewRequestError(
+      'Image metadata is accepted only for image review targets.',
+    );
+  }
+  const metadata = record(value);
+  if (
+    !Array.isArray(metadata.types) ||
+    !metadata.types.every(isImageReviewType)
+  ) {
+    throw new ReviewRequestError(
+      'Image types must contain only generated and screenshot.',
+    );
+  }
+  if (
+    !Array.isArray(metadata.ignored) ||
+    !metadata.ignored.every(isImageReviewIgnoredReason)
+  ) {
+    throw new ReviewRequestError(
+      'Ignored image reasons must contain only decorative.',
+    );
+  }
+  if (
+    new Set(metadata.types).size !== metadata.types.length ||
+    new Set(metadata.ignored).size !== metadata.ignored.length
+  ) {
+    throw new ReviewRequestError('Image metadata must not contain duplicates.');
+  }
+  return { ignored: metadata.ignored, types: metadata.types };
 }
 
 export function parseReviewCommentRequest(

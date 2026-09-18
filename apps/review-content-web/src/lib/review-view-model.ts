@@ -1,3 +1,6 @@
+import type { ReviewFilterSelection } from '@rtq/review-paper-model/client';
+import type { ReviewSide } from '@rtq/review-store/types';
+
 export const REVIEW_PREFERENCES_KEY = 'rtq.review-content.preferences.v5';
 export const REVIEW_FILTER_DISCLOSURE_KEY =
   'rtq.review-content.filter-disclosure.v1';
@@ -11,7 +14,8 @@ export const INITIAL_REVIEW_PREFERENCES_KEY =
   'rtq.review-content.preferences.v1';
 
 export type ReviewControlMode = 'advanced' | 'simple';
-export type VisibleReviewSide = ReviewSide;
+export type ReviewContext = 'answer' | 'question';
+export type VisibleReviewSide = ReviewContext;
 
 export type ReviewPreferences = Readonly<{
   reviewControlMode: ReviewControlMode;
@@ -110,13 +114,11 @@ export function parseReviewPreferences(
   function legacySide(): VisibleReviewSide {
     for (const record of records) {
       const requestedSide = record?.reviewSide ?? record?.reviewTargetSide;
-      if (
-        requestedSide === 'answer' ||
-        requestedSide === 'answer-image' ||
-        requestedSide === 'question' ||
-        requestedSide === 'question-image'
-      ) {
-        return requestedSide;
+      if (requestedSide === 'answer' || requestedSide === 'answer-image') {
+        return 'answer';
+      }
+      if (requestedSide === 'question' || requestedSide === 'question-image') {
+        return 'question';
       }
       if (
         record?.showQuestionReview === true &&
@@ -150,7 +152,6 @@ export function parseReviewPreferences(
     side: VisibleReviewSide,
     suffix: 'Feedback' | 'Review',
   ): boolean | undefined {
-    if (side === 'answer-image' || side === 'question-image') return undefined;
     const key = `show${side === 'question' ? 'Question' : 'Answer'}${suffix}`;
     for (const record of records) {
       const requested = record?.[key];
@@ -197,22 +198,101 @@ export function parseReviewPreferences(
   };
 }
 
+export function reviewSidesForContext(
+  context: ReviewContext,
+): readonly [ReviewSide, ReviewSide] {
+  return context === 'question'
+    ? ['question', 'question-image']
+    : ['answer', 'answer-image'];
+}
+
 export function visibleReviewSides(
   preferences: ReviewPreferences,
-): readonly VisibleReviewSide[] {
-  return preferences.showInlineReview ? [preferences.reviewSide] : [];
+): readonly ReviewSide[] {
+  return preferences.showInlineReview
+    ? reviewSidesForContext(preferences.reviewSide)
+    : [];
 }
 
 export function visibleFeedbackSides(
   preferences: ReviewPreferences,
-): readonly VisibleReviewSide[] {
-  return preferences.showFeedback ? [preferences.reviewSide] : [];
+): readonly ReviewSide[] {
+  return preferences.showFeedback
+    ? reviewSidesForContext(preferences.reviewSide)
+    : [];
 }
 
 export function activeReviewSides(
   preferences: ReviewPreferences,
-): readonly VisibleReviewSide[] {
-  return [preferences.reviewSide];
+): readonly ReviewSide[] {
+  return reviewSidesForContext(preferences.reviewSide);
+}
+
+export function reviewFilterSelectionForContext(
+  selection: ReviewFilterSelection,
+  context: ReviewContext,
+): ReviewFilterSelection {
+  return context === 'question'
+    ? {
+        ...selection,
+        answerImageRag: [],
+        answerImageReview: [],
+        answerRag: [],
+        answerReview: [],
+      }
+    : {
+        ...selection,
+        questionImageRag: [],
+        questionImageReview: [],
+        questionRag: [],
+        questionReview: [],
+      };
+}
+
+export function clearReviewFiltersForContext(
+  selection: ReviewFilterSelection,
+  context: ReviewContext,
+): ReviewFilterSelection {
+  const withoutDimensions = {
+    ...selection,
+    family: [],
+    frame: [],
+    marker: [],
+    math: [],
+    reasoning: [],
+  };
+  return context === 'question'
+    ? {
+        ...withoutDimensions,
+        questionImageRag: [],
+        questionImageReview: [],
+        questionRag: [],
+        questionReview: [],
+      }
+    : {
+        ...withoutDimensions,
+        answerImageRag: [],
+        answerImageReview: [],
+        answerRag: [],
+        answerReview: [],
+      };
+}
+
+export function clearReviewOutcomeFiltersForContext(
+  selection: ReviewFilterSelection,
+  context: ReviewContext,
+): ReviewFilterSelection {
+  return context === 'question'
+    ? {
+        ...selection,
+        questionImageReview: [],
+        questionReview: [],
+      }
+    : {
+        ...selection,
+        answerImageReview: [],
+        answerReview: [],
+      };
 }
 
 export function adjacentQuestionId(
@@ -269,4 +349,3 @@ export function reviewStateLabel(value: string): string {
     .replaceAll(/[_-]+/g, ' ');
   return state.toLowerCase() === 'notapplicable' ? 'N/A' : state.toUpperCase();
 }
-import type { ReviewSide } from '@rtq/review-store/types';

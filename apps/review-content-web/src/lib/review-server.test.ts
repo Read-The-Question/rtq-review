@@ -455,6 +455,45 @@ test('accepts every API outcome and rejects malformed mutation input', () => {
       .outcome,
     null,
   );
+  const imageMetadata = {
+    ignored: ['decorative'] as const,
+    types: ['generated', 'screenshot'] as const,
+  };
+  assert.deepEqual(
+    parseReviewOutcomeRequest({
+      imageMetadata,
+      outcome: 'PRG',
+      reviewer: 'up',
+      target: { ...target, side: 'question-image' },
+    }).imageMetadata,
+    imageMetadata,
+  );
+  for (const invalidImageMetadata of [
+    { ignored: [], types: ['photograph'] },
+    { ignored: ['decoration'], types: [] },
+    { ignored: [], types: ['generated', 'generated'] },
+  ]) {
+    assert.throws(
+      () =>
+        parseReviewOutcomeRequest({
+          imageMetadata: invalidImageMetadata,
+          outcome: 'PRG',
+          reviewer: 'up',
+          target: { ...target, side: 'question-image' },
+        }),
+      ReviewRequestError,
+    );
+  }
+  assert.throws(
+    () =>
+      parseReviewOutcomeRequest({
+        imageMetadata,
+        outcome: 'PRG',
+        reviewer: 'up',
+        target,
+      }),
+    ReviewRequestError,
+  );
   assert.throws(
     () => parseReviewOutcomeRequest({ outcome: '', reviewer: 'up', target }),
     ReviewRequestError,
@@ -673,6 +712,18 @@ test('maps question and answer outcomes and forwards only API-required fields', 
     },
     { baseUrl: 'http://review.test', fetcher },
   );
+  await forwardReviewOutcome(
+    {
+      imageMetadata: {
+        ignored: ['decorative'],
+        types: ['generated', 'screenshot'],
+      },
+      outcome: 'PRCR',
+      reviewer: 'wf',
+      target: { ...target, side: 'question-image' },
+    },
+    { baseUrl: 'http://review.test', fetcher },
+  );
   const reset = await forwardReviewOutcome(
     { outcome: null, reviewer: 'ap', target },
     { baseUrl: 'http://review.test', fetcher },
@@ -700,6 +751,19 @@ test('maps question and answer outcomes and forwards only API-required fields', 
     url: 'http://review.test/questionrag',
   });
   assert.deepEqual(requests.at(-2), {
+    body: {
+      imageMetadata: {
+        ignored: ['decorative'],
+        types: ['generated', 'screenshot'],
+      },
+      rag: 'PRCR',
+      reviewer: 'wf',
+      sheet: 'NG3',
+      uuid: 'D8AE66C1-9AB8-4C7F-A023-1C17B53237CF',
+    },
+    url: 'http://review.test/questionimagerag',
+  });
+  assert.deepEqual(requests.at(-3), {
     body: {
       rag: 'PRCR',
       reviewer: 'wf',

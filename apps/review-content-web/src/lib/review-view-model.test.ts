@@ -11,10 +11,14 @@ import {
   REVIEW_PREFERENCES_KEY,
   activeReviewSides,
   adjacentQuestionId,
+  clearReviewFiltersForContext,
+  clearReviewOutcomeFiltersForContext,
   collectionRoute,
   paperRoute,
   parseReviewFilterDisclosure,
   parseReviewPreferences,
+  reviewFilterSelectionForContext,
+  reviewSidesForContext,
   reviewStateLabel,
   visibleFeedbackSides,
   visibleReviewSides,
@@ -139,16 +143,27 @@ test('the former shared review target migrates into the active side', () => {
     parseReviewPreferences('{"reviewTargetSide":"question"}').reviewSide,
     'question',
   );
+  assert.equal(
+    parseReviewPreferences('{"reviewSide":"question-image"}').reviewSide,
+    'question',
+  );
+  assert.equal(
+    parseReviewPreferences('{"reviewSide":"answer-image"}').reviewSide,
+    'answer',
+  );
 });
 
-test('inline review exposes only the active side or stays hidden', () => {
-  assert.deepEqual(visibleReviewSides(DEFAULT_REVIEW_PREFERENCES), ['answer']);
+test('inline review exposes the paired active context or stays hidden', () => {
+  assert.deepEqual(visibleReviewSides(DEFAULT_REVIEW_PREFERENCES), [
+    'answer',
+    'answer-image',
+  ]);
   assert.deepEqual(
     visibleReviewSides({
       ...DEFAULT_REVIEW_PREFERENCES,
       reviewSide: 'question',
     }),
-    ['question'],
+    ['question', 'question-image'],
   );
   assert.deepEqual(
     visibleReviewSides({
@@ -159,16 +174,17 @@ test('inline review exposes only the active side or stays hidden', () => {
   );
 });
 
-test('feedback exposes only the active side or stays hidden', () => {
+test('feedback exposes the paired active context or stays hidden', () => {
   assert.deepEqual(visibleFeedbackSides(DEFAULT_REVIEW_PREFERENCES), [
     'answer',
+    'answer-image',
   ]);
   assert.deepEqual(
     visibleFeedbackSides({
       ...DEFAULT_REVIEW_PREFERENCES,
       reviewSide: 'question',
     }),
-    ['question'],
+    ['question', 'question-image'],
   );
   assert.deepEqual(
     visibleFeedbackSides({
@@ -179,16 +195,63 @@ test('feedback exposes only the active side or stays hidden', () => {
   );
 });
 
-test('sticky review always exposes exactly one active side', () => {
-  assert.deepEqual(activeReviewSides(DEFAULT_REVIEW_PREFERENCES), ['answer']);
+test('sticky review always exposes both tracks in the active context', () => {
+  assert.deepEqual(activeReviewSides(DEFAULT_REVIEW_PREFERENCES), [
+    'answer',
+    'answer-image',
+  ]);
   assert.deepEqual(
     activeReviewSides({
       ...DEFAULT_REVIEW_PREFERENCES,
       reviewSide: 'question',
       showInlineReview: false,
     }),
-    ['question'],
+    ['question', 'question-image'],
   );
+  assert.deepEqual(reviewSidesForContext('answer'), ['answer', 'answer-image']);
+  assert.deepEqual(reviewSidesForContext('question'), [
+    'question',
+    'question-image',
+  ]);
+});
+
+test('review filters apply only the active context and preserve the other lens', () => {
+  const selection = {
+    answerImageRag: ['rag_wf_ng2'],
+    answerImageReview: ['PRCR'],
+    answerRag: ['rag_wf_ng3'],
+    answerReview: ['PRG'],
+    family: ['family.money'],
+    frame: [],
+    marker: [],
+    math: [],
+    questionImageRag: ['rag_wf_ng2'],
+    questionImageReview: ['PRCC'],
+    questionRag: ['rag_wf_ng1'],
+    questionReview: ['PRCS'],
+    reasoning: [],
+  } as const;
+
+  assert.deepEqual(reviewFilterSelectionForContext(selection, 'question'), {
+    ...selection,
+    answerImageRag: [],
+    answerImageReview: [],
+    answerRag: [],
+    answerReview: [],
+  });
+  assert.deepEqual(clearReviewOutcomeFiltersForContext(selection, 'question'), {
+    ...selection,
+    questionImageReview: [],
+    questionReview: [],
+  });
+  assert.deepEqual(clearReviewFiltersForContext(selection, 'answer'), {
+    ...selection,
+    answerImageRag: [],
+    answerImageReview: [],
+    answerRag: [],
+    answerReview: [],
+    family: [],
+  });
 });
 
 test('matching-question navigation stops at either end', () => {

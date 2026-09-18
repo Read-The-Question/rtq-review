@@ -7,6 +7,40 @@ export const REVIEW_SIDES = [
 
 export type ReviewSide = (typeof REVIEW_SIDES)[number];
 
+export const IMAGE_REVIEW_TYPES = ["generated", "screenshot"] as const;
+export const IMAGE_REVIEW_IGNORED_REASONS = ["decorative"] as const;
+
+export type ImageReviewType = (typeof IMAGE_REVIEW_TYPES)[number];
+export type ImageReviewIgnoredReason =
+  (typeof IMAGE_REVIEW_IGNORED_REASONS)[number];
+
+export type ImageReviewMetadata = Readonly<{
+  ignored: readonly ImageReviewIgnoredReason[];
+  types: readonly ImageReviewType[];
+}>;
+
+export function isImageReviewSide(
+  side: ReviewSide,
+): side is "answer-image" | "question-image" {
+  return side === "answer-image" || side === "question-image";
+}
+
+export function isImageReviewType(value: unknown): value is ImageReviewType {
+  return (
+    typeof value === "string" &&
+    (IMAGE_REVIEW_TYPES as readonly string[]).includes(value)
+  );
+}
+
+export function isImageReviewIgnoredReason(
+  value: unknown,
+): value is ImageReviewIgnoredReason {
+  return (
+    typeof value === "string" &&
+    (IMAGE_REVIEW_IGNORED_REASONS as readonly string[]).includes(value)
+  );
+}
+
 export function isReviewSide(value: unknown): value is ReviewSide {
   return (
     typeof value === "string" &&
@@ -94,6 +128,7 @@ export type ReviewOutcomeTarget = Readonly<{
 export type StoredReviewOutcome = ReviewOutcomeTarget &
   Readonly<{
     createdAt: string;
+    imageMetadata: ImageReviewMetadata | null;
     outcome: ReviewOutcome;
     reviewer: string;
     updatedAt: string;
@@ -101,6 +136,7 @@ export type StoredReviewOutcome = ReviewOutcomeTarget &
 
 export type SetReviewOutcome = ReviewOutcomeTarget &
   Readonly<{
+    imageMetadata?: ImageReviewMetadata;
     outcome: ReviewOutcome;
     reviewer: string;
   }>;

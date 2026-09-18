@@ -34,6 +34,7 @@ function storedOutcome(
 ): StoredReviewOutcome {
   return {
     createdAt: '2026-09-09T12:00:00.000Z',
+    imageMetadata: input.imageMetadata ?? null,
     outcome: input.outcome,
     ragState: input.target.ragState,
     reviewer: input.reviewer,
@@ -69,6 +70,7 @@ function repository() {
     set(input) {
       calls.set += 1;
       const stored = storedOutcome({
+        ...(input.imageMetadata ? { imageMetadata: input.imageMetadata } : {}),
         outcome: input.outcome as NonNullable<ReviewOutcomeRequest['outcome']>,
         reviewer: input.reviewer,
         target: {
@@ -198,8 +200,12 @@ test('reload resolves only current question and answer state in database mode', 
     uuid: target.uuid,
   });
   store.repository.set({
-    outcome: 'PRG',
-    ragState: 'rag_wf_notapplicable',
+    imageMetadata: {
+      ignored: ['decorative'],
+      types: ['generated', 'screenshot'],
+    },
+    outcome: 'PRCC',
+    ragState: 'rag_wf_ng2',
     reviewer: 'up',
     side: 'answer-image',
     uuid: target.uuid,
@@ -221,7 +227,7 @@ test('reload resolves only current question and answer state in database mode', 
             questionId: target.questionId,
             review: {
               answer: { contentRag: target.ragState },
-              'answer-image': { contentRag: 'rag_wf_notapplicable' },
+              'answer-image': { contentRag: 'rag_wf_ng2' },
               question: { contentRag: target.ragState },
               'question-image': { contentRag: 'rag_wf_notapplicable' },
             },
@@ -241,14 +247,25 @@ test('reload resolves only current question and answer state in database mode', 
   });
   assert.equal(loaded.error, undefined);
   assert.deepEqual(loaded.outcomes, {
+    [`${target.uuid}:answer-image`]: 'PRCC',
     [`${target.uuid}:question`]: 'PRG',
+  });
+  assert.deepEqual(loaded.imageMetadata, {
+    [`${target.uuid}:answer-image`]: {
+      ignored: ['decorative'],
+      types: ['generated', 'screenshot'],
+    },
   });
   assert.equal(store.calls.resolve, 1);
 
   const sheets = loadReviewOutcomesForPaper(paper, 'google-sheets', {
     repository: store.repository,
   });
-  assert.deepEqual(sheets, { destination: 'google-sheets', outcomes: {} });
+  assert.deepEqual(sheets, {
+    destination: 'google-sheets',
+    imageMetadata: {},
+    outcomes: {},
+  });
   assert.equal(store.calls.resolve, 1);
 });
 

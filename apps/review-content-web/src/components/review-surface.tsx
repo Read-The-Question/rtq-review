@@ -14,8 +14,6 @@ import {
 
 import {
   DIMENSIONAL_TAG_AXES,
-  clearAllReviewFilters,
-  clearReviewOutcomeFilters,
   filterReviewPaper,
   parseReviewFilterSearchParams,
   serializeReviewFilterSearchParams,
@@ -40,17 +38,24 @@ import {
   REVIEW_PREFERENCES_KEY,
   activeReviewSides,
   adjacentQuestionId,
+  clearReviewFiltersForContext,
+  clearReviewOutcomeFiltersForContext,
   collectionRoute,
   parseReviewFilterDisclosure,
   parseReviewPreferences,
+  reviewFilterSelectionForContext,
+  reviewSidesForContext,
   reviewStateLabel,
+  visibleFeedbackSides,
   visibleReviewSides,
+  type ReviewContext,
   type ReviewPreferences,
   type ReviewControlMode,
 } from '@/lib/review-view-model';
 import {
   REVIEW_OUTCOME_OPTIONS,
   SIMPLE_REVIEW_OUTCOME_OPTIONS,
+  displayedImageReviewMetadata,
   displayedReviewOutcome,
   isReviewOutcome,
   partitionReviewComments,
@@ -62,6 +67,7 @@ import {
   reviewOutcomeTone,
   runUniqueReviewRequest,
   type LocalReviewComment,
+  type ImageReviewMetadata,
   type ReviewCommentLoad,
   type ReviewOutcomeDestination,
   type ReviewOutcomeLoad,
@@ -103,6 +109,15 @@ const REVIEW_SIDE_OPTIONS = [
   label: string;
   shortLabel: string;
   value: ReviewSide;
+}>[];
+
+const REVIEW_CONTEXT_OPTIONS = [
+  { label: 'Question', shortLabel: 'Q', value: 'question' },
+  { label: 'Answer', shortLabel: 'A', value: 'answer' },
+] as const satisfies readonly Readonly<{
+  label: string;
+  shortLabel: string;
+  value: ReviewContext;
 }>[];
 
 function reviewSideLabel(side: ReviewSide): string {
@@ -191,6 +206,7 @@ type ReviewRuntimeState = Readonly<{
   ) => Promise<LocalReviewComment>;
   commentError?: string;
   comments: readonly LocalReviewComment[];
+  imageMetadataOverrides: Readonly<Record<string, ImageReviewMetadata>>;
   outcomeDestination: ReviewOutcomeDestination;
   outcomeError?: string;
   outcomeOverrides: Readonly<Record<string, ReviewOutcomeSelection>>;
@@ -201,7 +217,13 @@ type ReviewRuntimeState = Readonly<{
   submitOutcome: (
     target: ReviewTargetDescriptor,
     outcome: ReviewOutcomeSelection,
+    imageMetadata?: ImageReviewMetadata,
   ) => Promise<string>;
+  updateImageMetadata: (
+    target: ReviewTargetDescriptor,
+    imageMetadata: ImageReviewMetadata,
+    outcome: ReviewOutcomeSelection | undefined,
+  ) => void;
 }>;
 
 type ReviewActionStatus = Readonly<{
@@ -247,15 +269,6 @@ type ReviewStatusRail = Readonly<{
   tone: ReviewStatusTone;
 }>;
 
-const REVIEW_STATUS_PRIORITY: Readonly<Record<ReviewStatusTone, number>> = {
-  approved: 0,
-  'coming-soon': 1,
-  pending: 2,
-  'change-complete': 3,
-  'change-requested': 4,
-  blocked: 5,
-};
-
 function reviewStatusTone(
   outcome: ReviewOutcomeSelection | undefined,
 ): ReviewStatusTone {
@@ -279,19 +292,6 @@ function reviewStatusRails(
     );
     return [{ outcome, side, tone: reviewStatusTone(outcome) }];
   });
-}
-
-function dominantReviewStatusTone(
-  rails: readonly ReviewStatusRail[],
-): ReviewStatusTone | undefined {
-  return rails.reduce<ReviewStatusTone | undefined>(
-    (dominant, rail) =>
-      !dominant ||
-      REVIEW_STATUS_PRIORITY[rail.tone] > REVIEW_STATUS_PRIORITY[dominant]
-        ? rail.tone
-        : dominant,
-    undefined,
-  );
 }
 
 function utcDateTime(value: string): string {
@@ -352,6 +352,92 @@ function targetUnavailableReason(
   return 'Review metadata is unavailable.';
 }
 
+function imageReviewSide(
+  side: ReviewSide,
+): 'answer-image' | 'question-image' | undefined {
+  return side === 'answer-image' || side === 'question-image'
+    ? side
+    : undefined;
+}
+
+function sameImageMetadata(
+  left: ImageReviewMetadata | undefined,
+  right: ImageReviewMetadata,
+): boolean {
+  return Boolean(
+    left &&
+    left.types.length === right.types.length &&
+    left.types.every((value, index) => value === right.types[index]) &&
+    left.ignored.length === right.ignored.length &&
+    left.ignored.every((value, index) => value === right.ignored[index]),
+  );
+}
+
+function ImageMetadataControls({
+  disabled,
+  metadata,
+  onChange,
+}: {
+  disabled: boolean;
+  metadata: ImageReviewMetadata;
+  onChange: (metadata: ImageReviewMetadata) => void;
+}) {
+  function toggleType(type: 'generated' | 'screenshot', checked: boolean) {
+    const selected = new Set(metadata.types);
+    if (checked) selected.add(type);
+    else selected.delete(type);
+    onChange({
+      ...metadata,
+      types: (['generated', 'screenshot'] as const).filter((value) =>
+        selected.has(value),
+      ),
+    });
+  }
+
+  function toggleDecorative(checked: boolean) {
+    onChange({
+      ...metadata,
+      ignored: checked ? ['decorative'] : [],
+    });
+  }
+
+  return (
+    <fieldset className="image-metadata-controls" disabled={disabled}>
+      <legend>Image handling</legend>
+      <div>
+        <label>
+          <input
+            checked={metadata.types.includes('generated')}
+            onChange={(event) => toggleType('generated', event.target.checked)}
+            type="checkbox"
+          />
+          <span>Generated</span>
+        </label>
+        <label>
+          <input
+            checked={metadata.types.includes('screenshot')}
+            onChange={(event) => toggleType('screenshot', event.target.checked)}
+            type="checkbox"
+          />
+          <span>Screenshot</span>
+        </label>
+        <label>
+          <input
+            checked={metadata.ignored.includes('decorative')}
+            onChange={(event) => toggleDecorative(event.target.checked)}
+            type="checkbox"
+          />
+          <span>Ignore decorative source image</span>
+        </label>
+      </div>
+      <small>
+        Choose all that apply. Saved with the current or next image review
+        action.
+      </small>
+    </fieldset>
+  );
+}
+
 function ReviewScope({
   controlMode,
   node,
@@ -386,7 +472,18 @@ function ReviewScope({
     runtime.outcomeDestination,
     runtime.outcomeOverrides,
   );
-  const imageState = side.endsWith('-image') ? node.review[side] : undefined;
+  const selectedImageSide = imageReviewSide(side);
+  const imageState = selectedImageSide
+    ? node.review[selectedImageSide]
+    : undefined;
+  const imageMetadata = selectedImageSide
+    ? displayedImageReviewMetadata(
+        node,
+        selectedImageSide,
+        runtime.source,
+        runtime.imageMetadataOverrides,
+      )
+    : undefined;
   const outcomeDisabledReason = !target
     ? targetUnavailableReason(node, topLevelQuestion, side)
     : runtime.outcomeError
@@ -409,7 +506,11 @@ function ReviewScope({
     if (!target || outcomeDisabledReason || outcomePending) return;
     setStatus({ kind: 'idle', message: '' });
     try {
-      const message = await runtime.submitOutcome(target, outcome);
+      const message = await runtime.submitOutcome(
+        target,
+        outcome,
+        outcome === null ? undefined : imageMetadata,
+      );
       setStatus({ kind: 'success', message });
     } catch (error) {
       setStatus({
@@ -451,7 +552,7 @@ function ReviewScope({
 
   return (
     <section
-      className={`review-scope review-scope--${side}${
+      className={`review-scope review-scope--${side} review-scope--status-${reviewStatusTone(displayedOutcome)}${
         status.kind === 'success' ? ' review-scope--success' : ''
       }`}
     >
@@ -469,12 +570,12 @@ function ReviewScope({
                 : statusValue(node.review[side]?.contentRag)}
             </dd>
           </div>
-          {imageState ? (
+          {imageState && imageMetadata ? (
             <div>
               <dt>Image types</dt>
               <dd>
-                {imageState.imageTypes?.length
-                  ? imageState.imageTypes.join(', ')
+                {imageMetadata.types.length
+                  ? imageMetadata.types.join(', ')
                   : 'Unclassified at NG2 / none confirmed after NG2'}
               </dd>
             </div>
@@ -485,10 +586,10 @@ function ReviewScope({
               <dd>{imageState.imageNotes}</dd>
             </div>
           ) : null}
-          {imageState?.imageIgnored?.length ? (
+          {imageMetadata?.ignored.length ? (
             <div>
               <dt>Ignored</dt>
-              <dd>{imageState.imageIgnored.join(', ')}</dd>
+              <dd>{imageMetadata.ignored.join(', ')}</dd>
             </div>
           ) : null}
           {outcomesEnabled ? (
@@ -512,6 +613,18 @@ function ReviewScope({
           ) : null}
         </dl>
       </header>
+
+      {outcomesEnabled && selectedImageSide && imageMetadata ? (
+        <ImageMetadataControls
+          disabled={Boolean(outcomeDisabledReason)}
+          metadata={imageMetadata}
+          onChange={(next) => {
+            if (target) {
+              runtime.updateImageMetadata(target, next, displayedOutcome);
+            }
+          }}
+        />
+      ) : null}
 
       {outcomesEnabled ? (
         <>
@@ -695,8 +808,8 @@ function ReviewPanel({
   topLevelQuestion: DisplayPaperNode;
 }) {
   const outcomesEnabled = node.depth === 0;
-  const [side] = visibleReviewSides(preferences);
-  if (!side) return null;
+  const sides = visibleReviewSides(preferences);
+  if (sides.length === 0) return null;
   return (
     <aside
       className={`review-panel${outcomesEnabled ? '' : ' review-panel--nested'}`}
@@ -708,16 +821,21 @@ function ReviewPanel({
           <span>{`Own UUID · RAG inherited from ${topLevelQuestion.label}`}</span>
         ) : null}
       </div>
-      <div className="review-scopes" data-review-side={side}>
-        <ReviewScope
-          controlMode={preferences.reviewControlMode}
-          key={side}
-          node={node}
-          outcomesEnabled={outcomesEnabled}
-          runtime={runtime}
-          side={side}
-          topLevelQuestion={topLevelQuestion}
-        />
+      <div
+        className="review-scopes"
+        data-review-context={preferences.reviewSide}
+      >
+        {sides.map((side) => (
+          <ReviewScope
+            controlMode={preferences.reviewControlMode}
+            key={side}
+            node={node}
+            outcomesEnabled={outcomesEnabled}
+            runtime={runtime}
+            side={side}
+            topLevelQuestion={topLevelQuestion}
+          />
+        ))}
       </div>
     </aside>
   );
@@ -888,9 +1006,11 @@ function hasVisibleWorking(
 function SolutionContent({
   node,
   preferences,
+  statusTone,
 }: {
   node: DisplayPaperNode;
   preferences: ReviewPreferences;
+  statusTone?: ReviewStatusTone;
 }) {
   if (!preferences.showSolutions) return null;
   const hasWorkings = node.content.workings.some(
@@ -908,7 +1028,9 @@ function SolutionContent({
   if (!hasWorkings && !hasAnswers) return null;
 
   return (
-    <div className="solution-grid">
+    <div
+      className={`solution-grid${statusTone ? ` review-content-status--${statusTone}` : ''}`}
+    >
       {hasWorkings ? (
         <section className="solution-block">
           <h4>Working</h4>
@@ -983,6 +1105,83 @@ function SolutionContent({
   );
 }
 
+function ImageReviewStatusBlock({
+  node,
+  runtime,
+  showBackground,
+  side,
+}: {
+  node: DisplayPaperNode;
+  runtime: ReviewRuntimeState;
+  showBackground: boolean;
+  side: 'answer-image' | 'question-image';
+}) {
+  if (node.depth !== 0) return null;
+  const target = reviewTargetForNode(node, side, runtime.source);
+  const outcome = displayedReviewOutcome(
+    node,
+    side,
+    runtime.source,
+    runtime.outcomeDestination,
+    runtime.outcomeOverrides,
+  );
+  const state = node.review[side];
+  const tone = reviewStatusTone(outcome);
+  const metadata = displayedImageReviewMetadata(
+    node,
+    side,
+    runtime.source,
+    runtime.imageMetadataOverrides,
+  );
+  const types = metadata.types;
+  const ignored = metadata.ignored;
+
+  return (
+    <section
+      aria-label={`${reviewSideLabel(side)} status`}
+      className={`image-review-status${
+        showBackground ? ` review-content-status--${tone}` : ''
+      }`}
+    >
+      <span className="image-review-status-mark" aria-hidden="true">
+        {reviewSideShortLabel(side)}
+      </span>
+      <div className="image-review-status-heading">
+        <span>{reviewSideLabel(side)}</span>
+        <strong>{outcome ? reviewOutcomeLabel(outcome) : 'Pending'}</strong>
+      </div>
+      <dl>
+        <div>
+          <dt>RAG state</dt>
+          <dd>
+            {target
+              ? reviewStateLabel(target.ragState)
+              : statusValue(state.contentRag)}
+          </dd>
+        </div>
+        <div>
+          <dt>Included image</dt>
+          <dd>
+            {types.length
+              ? types.map((type) => reviewStateLabel(type)).join(', ')
+              : state.contentRag === 'rag_wf_ng2'
+                ? 'Unclassified at NG2'
+                : 'No included image confirmed'}
+          </dd>
+        </div>
+        <div>
+          <dt>Ignored source image</dt>
+          <dd>
+            {ignored.length
+              ? ignored.map((reason) => reviewStateLabel(reason)).join(', ')
+              : 'None'}
+          </dd>
+        </div>
+      </dl>
+    </section>
+  );
+}
+
 function QuestionNode({
   matchingNodeIds,
   node,
@@ -1000,9 +1199,13 @@ function QuestionNode({
 }) {
   const exactMatch = matchingNodeIds.has(node.id);
   const statusRails = reviewStatusRails(node, reviewSides, reviewRuntime);
-  const backgroundTone = preferences.showStatusBackground
-    ? dominantReviewStatusTone(statusRails)
+  const contentStatus = statusRails.find(
+    ({ side }) => side === preferences.reviewSide,
+  );
+  const contentStatusTone = preferences.showStatusBackground
+    ? contentStatus?.tone
     : undefined;
+  const imageSide = `${preferences.reviewSide}-image` as const;
   return (
     <article
       className={`question-node question-node--depth-${node.depth}${
@@ -1014,10 +1217,6 @@ function QuestionNode({
       }${
         statusRails.some(({ side }) => side.startsWith('answer'))
           ? ' question-node--with-answer-status'
-          : ''
-      }${
-        backgroundTone
-          ? ` question-node--status-background-${backgroundTone}`
           : ''
       }`}
       id={`question-${node.id}`}
@@ -1058,30 +1257,64 @@ function QuestionNode({
       </header>
 
       {preferences.showTags ? <NodeTags node={node} /> : null}
-      <div className="question-copy">
+      <div
+        className={`question-copy${
+          preferences.reviewSide === 'question' && contentStatusTone
+            ? ` review-content-status--${contentStatusTone}`
+            : ''
+        }`}
+      >
         <ContentField
           field={node.content.question}
           label="Question"
           preferences={preferences}
         />
       </div>
-      {preferences.showFeedback && preferences.reviewSide === 'question' ? (
-        <ReviewFeedback
+      {preferences.reviewSide === 'question' ? (
+        <ImageReviewStatusBlock
           node={node}
           runtime={reviewRuntime}
-          side="question"
-          topLevelQuestion={topLevelQuestion}
+          showBackground={preferences.showStatusBackground}
+          side={imageSide}
         />
       ) : null}
-      <SolutionContent node={node} preferences={preferences} />
-      {preferences.showFeedback && preferences.reviewSide === 'answer' ? (
-        <ReviewFeedback
+      {visibleFeedbackSides(preferences)
+        .filter((side) => side.startsWith('question'))
+        .map((side) => (
+          <ReviewFeedback
+            key={side}
+            node={node}
+            runtime={reviewRuntime}
+            side={side}
+            topLevelQuestion={topLevelQuestion}
+          />
+        ))}
+      <SolutionContent
+        node={node}
+        preferences={preferences}
+        statusTone={
+          preferences.reviewSide === 'answer' ? contentStatusTone : undefined
+        }
+      />
+      {preferences.reviewSide === 'answer' ? (
+        <ImageReviewStatusBlock
           node={node}
           runtime={reviewRuntime}
-          side="answer"
-          topLevelQuestion={topLevelQuestion}
+          showBackground={preferences.showStatusBackground}
+          side={imageSide}
         />
       ) : null}
+      {visibleFeedbackSides(preferences)
+        .filter((side) => side.startsWith('answer'))
+        .map((side) => (
+          <ReviewFeedback
+            key={side}
+            node={node}
+            runtime={reviewRuntime}
+            side={side}
+            topLevelQuestion={topLevelQuestion}
+          />
+        ))}
       {visibleReviewSides(preferences).length > 0 ? (
         <ReviewPanel
           node={node}
@@ -1185,8 +1418,8 @@ function ReviewSideSelector({
   onChange,
   side,
 }: {
-  onChange: (side: ReviewSide) => void;
-  side: ReviewSide;
+  onChange: (side: ReviewContext) => void;
+  side: ReviewContext;
 }) {
   return (
     <div
@@ -1194,7 +1427,7 @@ function ReviewSideSelector({
       className="review-side-selector"
       role="group"
     >
-      {REVIEW_SIDE_OPTIONS.map((option) => {
+      {REVIEW_CONTEXT_OPTIONS.map((option) => {
         return (
           <button
             aria-pressed={side === option.value}
@@ -1215,11 +1448,14 @@ function ReviewSideSelector({
 function ReviewLane({
   commentDisabledReason,
   disabledReason,
+  displayPreferences,
   feedbackEnabled,
+  imageMetadata,
   inlineEnabled,
   nodeLabel,
   onComment,
   onOutcome,
+  onImageMetadataChange,
   onToggleFeedback,
   onToggleInline,
   outcome,
@@ -1228,11 +1464,14 @@ function ReviewLane({
 }: {
   commentDisabledReason?: string;
   disabledReason?: string;
+  displayPreferences: boolean;
   feedbackEnabled: boolean;
+  imageMetadata?: ImageReviewMetadata;
   inlineEnabled: boolean;
   nodeLabel: string;
   onComment: () => void;
   onOutcome: (outcome: ReviewOutcomeSelection) => void;
+  onImageMetadataChange?: (metadata: ImageReviewMetadata) => void;
   onToggleFeedback: (enabled: boolean) => void;
   onToggleInline: (enabled: boolean) => void;
   outcome: ReviewOutcomeSelection | undefined;
@@ -1241,9 +1480,10 @@ function ReviewLane({
 }) {
   const label = reviewSideLabel(side);
   const actionDisabled = Boolean(disabledReason) || pending;
+  const tone = reviewStatusTone(outcome);
   return (
     <section
-      className={`review-lane review-lane--${side}`}
+      className={`review-lane review-lane--${side} review-lane--status-${tone}`}
       aria-label={`${label} review controls`}
     >
       <header className="review-lane-heading">
@@ -1267,6 +1507,13 @@ function ReviewLane({
           {outcome ? reviewOutcomeLabel(outcome) : 'Pending'}
         </strong>
       </div>
+      {imageMetadata && onImageMetadataChange ? (
+        <ImageMetadataControls
+          disabled={Boolean(disabledReason)}
+          metadata={imageMetadata}
+          onChange={onImageMetadataChange}
+        />
+      ) : null}
       <div className="review-lane-actions">
         {PRIMARY_REVIEW_OPTIONS.map((option) => (
           <button
@@ -1315,16 +1562,20 @@ function ReviewLane({
         </button>
       </div>
       <div className="review-lane-footer">
-        <PreferenceToggle
-          checked={feedbackEnabled}
-          label={`${label} feedback`}
-          onChange={onToggleFeedback}
-        />
-        <PreferenceToggle
-          checked={inlineEnabled}
-          label="Inline review panel"
-          onChange={onToggleInline}
-        />
+        {displayPreferences ? (
+          <>
+            <PreferenceToggle
+              checked={feedbackEnabled}
+              label="Review feedback"
+              onChange={onToggleFeedback}
+            />
+            <PreferenceToggle
+              checked={inlineEnabled}
+              label="Inline review panel"
+              onChange={onToggleInline}
+            />
+          </>
+        ) : null}
         {disabledReason ? (
           <span className="review-lane-warning">{disabledReason}</span>
         ) : null}
@@ -1342,6 +1593,7 @@ function FilterPanel({
   onReturnToQuestion,
   reviewOutcomeError,
   reviewOutcomeFacets,
+  reviewContext,
   returnQuestionLabel,
   selection,
   stateFacets,
@@ -1367,6 +1619,7 @@ function FilterPanel({
   reviewOutcomeFacets: ReturnType<
     typeof filterReviewPaper
   >['reviewOutcomeFacets'];
+  reviewContext: ReviewContext;
   returnQuestionLabel?: string;
   selection: ReviewFilterSelection;
   stateFacets: ReturnType<typeof filterReviewPaper>['stateFacets'];
@@ -1411,10 +1664,23 @@ function FilterPanel({
           </button>
         </div>
       </div>
-      <div className="state-filter-band review-outcome-filter-band">
-        <div className="state-filter-intro">
+      <section
+        aria-label={`${reviewContext} review filters`}
+        className={`review-context-filters review-context-filters--${reviewContext}`}
+      >
+        <header className="review-context-filter-heading">
+          <div>
+            <span className="review-context-filter-mark" aria-hidden="true">
+              {reviewContext === 'question' ? 'Q' : 'A'}
+            </span>
+            <div>
+              <strong>{reviewContext} review lens</strong>
+              <span>
+                Main content and image filters apply together to this view.
+              </span>
+            </div>
+          </div>
           <div className="state-filter-intro-heading">
-            <strong>Peer-review outcome</strong>
             <button
               aria-label="Reset review outcome filters"
               disabled={selectedReviewOutcomeCount === 0}
@@ -1424,83 +1690,86 @@ function FilterPanel({
               Reset
             </button>
           </div>
-          <span>
-            Select any number of outcomes. Selections within each side use OR.
-          </span>
-        </div>
-        {reviewOutcomeError ? (
-          <p className="review-unavailable" role="status">
-            Review outcome filters are unavailable: {reviewOutcomeError}
-          </p>
-        ) : (
-          reviewOutcomeFacets.map((facet) => (
-            <fieldset
-              className={`state-facet state-facet--${facet.side}`}
-              key={facet.side}
-            >
-              <legend>{facet.label}</legend>
-              <div className="state-options review-outcome-options">
-                {facet.options.map((option) => (
-                  <label
-                    className={`${
-                      isReviewOutcome(option.value)
-                        ? `review-outcome-option--${reviewOutcomeTone(option.value)}`
-                        : ''
-                    }${option.disabled ? ' facet-option--disabled' : ''}`}
-                    key={option.value}
-                    title={option.value}
-                  >
-                    <input
-                      checked={option.selected}
-                      disabled={option.disabled}
-                      onChange={() =>
-                        onToggleState(facet.parameter, option.value)
-                      }
-                      type="checkbox"
-                    />
-                    <span>{reviewOutcomeFilterLabel(option.value)}</span>
-                    <strong>{option.count}</strong>
-                  </label>
-                ))}
+        </header>
+        <div className="review-context-filter-rows">
+          {reviewSidesForContext(reviewContext).map((side) => {
+            const stateFacet = stateFacets.find((facet) => facet.side === side);
+            const outcomeFacet = reviewOutcomeFacets.find(
+              (facet) => facet.side === side,
+            );
+            if (!stateFacet) return null;
+            return (
+              <div className="review-context-filter-row" key={side}>
+                <div className="review-context-filter-track">
+                  <span aria-hidden="true">{reviewSideShortLabel(side)}</span>
+                  <strong>{reviewSideLabel(side)}</strong>
+                </div>
+                <fieldset className={`state-facet state-facet--${side}`}>
+                  <legend>RAG state</legend>
+                  <div className="state-options">
+                    {stateFacet.options.map((option) => (
+                      <label
+                        className={
+                          option.disabled ? 'facet-option--disabled' : ''
+                        }
+                        key={option.value}
+                        title={option.value}
+                      >
+                        <input
+                          checked={option.selected}
+                          disabled={option.disabled}
+                          onChange={() =>
+                            onToggleState(stateFacet.parameter, option.value)
+                          }
+                          type="checkbox"
+                        />
+                        <span>{reviewStateLabel(option.value)}</span>
+                        <strong>{option.count}</strong>
+                      </label>
+                    ))}
+                  </div>
+                </fieldset>
+                <fieldset className={`state-facet state-facet--${side}`}>
+                  <legend>Review outcome</legend>
+                  {reviewOutcomeError ? (
+                    <p className="review-unavailable" role="status">
+                      Outcomes unavailable: {reviewOutcomeError}
+                    </p>
+                  ) : (
+                    <div className="state-options review-outcome-options">
+                      {outcomeFacet?.options.map((option) => (
+                        <label
+                          className={`${
+                            isReviewOutcome(option.value)
+                              ? `review-outcome-option--${reviewOutcomeTone(option.value)}`
+                              : ''
+                          }${option.disabled ? ' facet-option--disabled' : ''}`}
+                          key={option.value}
+                          title={option.value}
+                        >
+                          <input
+                            checked={option.selected}
+                            disabled={option.disabled}
+                            onChange={() =>
+                              onToggleState(
+                                outcomeFacet.parameter,
+                                option.value,
+                              )
+                            }
+                            type="checkbox"
+                          />
+                          <span>{reviewOutcomeFilterLabel(option.value)}</span>
+                          <strong>{option.count}</strong>
+                        </label>
+                      ))}
+                    </div>
+                  )}
+                </fieldset>
               </div>
-            </fieldset>
-          ))
-        )}
-      </div>
-      <div className="state-filter-band">
-        <div className="state-filter-intro">
-          <strong>Content RAG state</strong>
-          <span>Question and answer readiness are independent.</span>
+            );
+          })}
         </div>
-        {stateFacets.map((facet) => (
-          <fieldset
-            className={`state-facet state-facet--${facet.side}`}
-            key={facet.side}
-          >
-            <legend>{facet.label}</legend>
-            <div className="state-options">
-              {facet.options.map((option) => (
-                <label
-                  className={option.disabled ? 'facet-option--disabled' : ''}
-                  key={option.value}
-                  title={option.value}
-                >
-                  <input
-                    checked={option.selected}
-                    disabled={option.disabled}
-                    onChange={() =>
-                      onToggleState(facet.parameter, option.value)
-                    }
-                    type="checkbox"
-                  />
-                  <span>{reviewStateLabel(option.value)}</span>
-                  <strong>{option.count}</strong>
-                </label>
-              ))}
-            </div>
-          </fieldset>
-        ))}
-      </div>
+      </section>
       <p className="filter-section-label">Content dimensions</p>
       <div className="facet-grid">
         {facets.map((facet) => (
@@ -1754,6 +2023,9 @@ export function ReviewSurface({
   const [outcomeOverrides, setOutcomeOverrides] = useState<
     Readonly<Record<string, ReviewOutcomeSelection>>
   >(outcomeLoad.outcomes);
+  const [imageMetadataOverrides, setImageMetadataOverrides] = useState<
+    Readonly<Record<string, ImageReviewMetadata>>
+  >(outcomeLoad.imageMetadata);
   const [pendingKeys, setPendingKeys] = useState<ReadonlySet<string>>(
     () => new Set(),
   );
@@ -1776,10 +2048,18 @@ export function ReviewSurface({
   const globalFindingSubmissionId = useRef<string | undefined>(undefined);
   const toolbarRef = useRef<HTMLElement>(null);
   const pendingRequestKeys = useRef(new Set<string>());
+  const pendingOutcomeSelections = useRef(
+    new Map<string, ReviewOutcomeSelection>(),
+  );
+  const imageMetadataSaveChains = useRef(new Map<string, Promise<void>>());
   const sourceFreshnessPending = useRef(false);
   const selection = useMemo(
     () => parseReviewFilterSearchParams(searchParams.toString()),
     [searchParams],
+  );
+  const activeSelection = useMemo(
+    () => reviewFilterSelectionForContext(selection, preferences.reviewSide),
+    [preferences.reviewSide, selection],
   );
   const enabledReviewSides = activeReviewSides(preferences);
   const reviewOutcomeFilterContext = useMemo(() => {
@@ -1819,8 +2099,8 @@ export function ReviewSurface({
     };
   }, [outcomeLoad.destination, outcomeLoad.error, outcomeOverrides, paper]);
   const result = useMemo(
-    () => filterReviewPaper(paper, selection, reviewOutcomeFilterContext),
-    [paper, reviewOutcomeFilterContext, selection],
+    () => filterReviewPaper(paper, activeSelection, reviewOutcomeFilterContext),
+    [activeSelection, paper, reviewOutcomeFilterContext],
   );
   const displayNodeById = useMemo(
     () =>
@@ -1890,6 +2170,19 @@ export function ReviewSurface({
         )
       : undefined;
   }
+  function toolbarImageMetadata(
+    side: ReviewSide,
+  ): ImageReviewMetadata | undefined {
+    const selectedImageSide = imageReviewSide(side);
+    return currentCursor && selectedImageSide
+      ? displayedImageReviewMetadata(
+          currentCursor.topLevelQuestion,
+          selectedImageSide,
+          reviewSource,
+          imageMetadataOverrides,
+        )
+      : undefined;
+  }
   function commentDisabledReason(side: ReviewSide): string | undefined {
     if (!currentCursor) return 'There is no current question to comment on.';
     const target = reviewCommentTargetForNode(
@@ -1916,17 +2209,17 @@ export function ReviewSurface({
   );
   const selectedFilterCount =
     DIMENSIONAL_TAG_AXES.reduce(
-      (count, axis) => count + selection[axis].length,
+      (count, axis) => count + activeSelection[axis].length,
       0,
     ) +
-    selection.questionImageRag.length +
-    selection.questionRag.length +
-    selection.answerImageRag.length +
-    selection.answerRag.length +
-    selection.questionImageReview.length +
-    selection.questionReview.length +
-    selection.answerImageReview.length +
-    selection.answerReview.length;
+    activeSelection.questionImageRag.length +
+    activeSelection.questionRag.length +
+    activeSelection.answerImageRag.length +
+    activeSelection.answerRag.length +
+    activeSelection.questionImageReview.length +
+    activeSelection.questionReview.length +
+    activeSelection.answerImageReview.length +
+    activeSelection.answerReview.length;
   const currentQuestionIndex = navigationActiveId
     ? result.matchingQuestionTreeIds.indexOf(navigationActiveId)
     : -1;
@@ -1993,20 +2286,96 @@ export function ReviewSurface({
   }, []);
 
   const submitOutcome = useCallback(
-    (target: ReviewTargetDescriptor, outcome: ReviewOutcomeSelection) => {
+    (
+      target: ReviewTargetDescriptor,
+      outcome: ReviewOutcomeSelection,
+      imageMetadata?: ImageReviewMetadata,
+    ) => {
       const key = reviewTargetKey(target);
-      return withPending(`${key}:outcome`, async () => {
+      pendingOutcomeSelections.current.set(key, outcome);
+      const request = withPending(`${key}:outcome`, async () => {
         const response = await fetch('/api/review/outcome', {
-          body: JSON.stringify({ outcome, reviewer, target }),
+          body: JSON.stringify({ imageMetadata, outcome, reviewer, target }),
           headers: { 'Content-Type': 'application/json' },
           method: 'POST',
         });
         const { message } = await responseMessage(response);
         setOutcomeOverrides((current) => ({ ...current, [key]: outcome }));
+        setImageMetadataOverrides((current) => {
+          if (outcome !== null && imageMetadata) {
+            if (
+              Object.hasOwn(current, key) &&
+              !sameImageMetadata(current[key], imageMetadata)
+            ) {
+              return current;
+            }
+            return { ...current, [key]: imageMetadata };
+          }
+          if (outcome !== null || !Object.hasOwn(current, key)) return current;
+          const next = { ...current };
+          delete next[key];
+          return next;
+        });
         return message;
+      });
+      return request.finally(() => {
+        if (pendingOutcomeSelections.current.get(key) === outcome) {
+          pendingOutcomeSelections.current.delete(key);
+        }
       });
     },
     [responseMessage, reviewer, withPending],
+  );
+
+  const updateImageMetadata = useCallback(
+    (
+      target: ReviewTargetDescriptor,
+      imageMetadata: ImageReviewMetadata,
+      outcome: ReviewOutcomeSelection | undefined,
+    ) => {
+      const key = reviewTargetKey(target);
+      setImageMetadataOverrides((current) => ({
+        ...current,
+        [key]: imageMetadata,
+      }));
+      const effectiveOutcome =
+        outcome ?? pendingOutcomeSelections.current.get(key);
+      if (!effectiveOutcome) return;
+
+      const previous = imageMetadataSaveChains.current.get(key);
+      const save = (previous ?? Promise.resolve())
+        .catch(() => undefined)
+        .then(async () => {
+          while (pendingRequestKeys.current.has(`${key}:outcome`)) {
+            await new Promise<void>((resolve) => setTimeout(resolve, 25));
+          }
+          const message = await submitOutcome(
+            target,
+            effectiveOutcome,
+            imageMetadata,
+          );
+          setKeyboardStatus({
+            kind: 'success',
+            message: `${reviewSideLabel(target.side)} metadata: ${message}`,
+          });
+        })
+        .catch((error: unknown) => {
+          setKeyboardStatus({
+            kind: 'error',
+            message:
+              error instanceof Error
+                ? error.message
+                : 'Image metadata could not be saved.',
+          });
+        })
+        .finally(() => {
+          if (imageMetadataSaveChains.current.get(key) === save) {
+            imageMetadataSaveChains.current.delete(key);
+          }
+        });
+      imageMetadataSaveChains.current.set(key, save);
+    },
+    [submitOutcome],
   );
 
   const appendComment = useCallback(
@@ -2054,6 +2423,7 @@ export function ReviewSurface({
       outcomeDestination: outcomeLoad.destination,
       outcomeError: outcomeLoad.error,
       outcomeOverrides,
+      imageMetadataOverrides,
       pendingKeys,
       reviewer,
       showPreviousFeedback,
@@ -2062,6 +2432,7 @@ export function ReviewSurface({
         relativePath: paper.source.relativePath,
       },
       submitOutcome,
+      updateImageMetadata,
     }),
     [
       appendComment,
@@ -2070,12 +2441,14 @@ export function ReviewSurface({
       outcomeLoad.destination,
       outcomeLoad.error,
       outcomeOverrides,
+      imageMetadataOverrides,
       paper.source.collection.id,
       paper.source.relativePath,
       pendingKeys,
       reviewer,
       showPreviousFeedback,
       submitOutcome,
+      updateImageMetadata,
     ],
   );
 
@@ -2302,7 +2675,10 @@ export function ReviewSurface({
     current.delete('question');
     replaceSearchParams(
       new URLSearchParams(
-        serializeReviewFilterSearchParams(clearAllReviewFilters(), current),
+        serializeReviewFilterSearchParams(
+          clearReviewFiltersForContext(selection, preferences.reviewSide),
+          current,
+        ),
       ),
     );
   }
@@ -2313,7 +2689,10 @@ export function ReviewSurface({
     replaceSearchParams(
       new URLSearchParams(
         serializeReviewFilterSearchParams(
-          clearReviewOutcomeFilters(selection),
+          clearReviewOutcomeFiltersForContext(
+            selection,
+            preferences.reviewSide,
+          ),
           current,
         ),
       ),
@@ -2383,7 +2762,11 @@ export function ReviewSurface({
     }
     setKeyboardStatus({ kind: 'idle', message: '' });
     try {
-      const message = await submitOutcome(target, outcome);
+      const message = await submitOutcome(
+        target,
+        outcome,
+        outcome === null ? undefined : toolbarImageMetadata(side),
+      );
       const label = reviewSideLabel(side);
       setKeyboardStatus({ kind: 'success', message: `${label}: ${message}` });
     } catch (error) {
@@ -2727,13 +3110,14 @@ export function ReviewSurface({
             }
             reviewOutcomeError={outcomeLoad.error}
             reviewOutcomeFacets={result.reviewOutcomeFacets}
+            reviewContext={preferences.reviewSide}
             returnQuestionLabel={
               filterReturnQuestionId
                 ? (displayNodeById.get(filterReturnQuestionId)?.label ??
                   'question')
                 : undefined
             }
-            selection={selection}
+            selection={activeSelection}
             stateFacets={result.stateFacets}
           />
         ) : null}
@@ -2883,30 +3267,35 @@ export function ReviewSurface({
             onChange={(side) => updatePreference('reviewSide', side)}
             side={preferences.reviewSide}
           />
-          <ReviewLane
-            commentDisabledReason={commentDisabledReason(
-              preferences.reviewSide,
-            )}
-            disabledReason={outcomeDisabledReason(
-              toolbarOutcomeTarget(preferences.reviewSide),
-            )}
-            feedbackEnabled={preferences.showFeedback}
-            inlineEnabled={preferences.showInlineReview}
-            nodeLabel={currentCursor?.topLevelQuestion.label ?? 'No question'}
-            onComment={() => openKeyboardComment(preferences.reviewSide)}
-            onOutcome={(outcome) =>
-              void submitToolbarOutcome(preferences.reviewSide, outcome)
-            }
-            onToggleFeedback={(value) =>
-              updatePreference('showFeedback', value)
-            }
-            onToggleInline={(value) =>
-              updatePreference('showInlineReview', value)
-            }
-            outcome={toolbarOutcome(preferences.reviewSide)}
-            pending={toolbarOutcomePending(preferences.reviewSide)}
-            side={preferences.reviewSide}
-          />
+          {reviewSidesForContext(preferences.reviewSide).map((side, index) => (
+            <ReviewLane
+              commentDisabledReason={commentDisabledReason(side)}
+              disabledReason={outcomeDisabledReason(toolbarOutcomeTarget(side))}
+              displayPreferences={index === 0}
+              feedbackEnabled={preferences.showFeedback}
+              imageMetadata={toolbarImageMetadata(side)}
+              inlineEnabled={preferences.showInlineReview}
+              key={side}
+              nodeLabel={currentCursor?.topLevelQuestion.label ?? 'No question'}
+              onComment={() => openKeyboardComment(side)}
+              onImageMetadataChange={(metadata) => {
+                const target = toolbarOutcomeTarget(side);
+                if (target) {
+                  updateImageMetadata(target, metadata, toolbarOutcome(side));
+                }
+              }}
+              onOutcome={(outcome) => void submitToolbarOutcome(side, outcome)}
+              onToggleFeedback={(value) =>
+                updatePreference('showFeedback', value)
+              }
+              onToggleInline={(value) =>
+                updatePreference('showInlineReview', value)
+              }
+              outcome={toolbarOutcome(side)}
+              pending={toolbarOutcomePending(side)}
+              side={side}
+            />
+          ))}
         </div>
         {keyboardStatus.message ? (
           <span

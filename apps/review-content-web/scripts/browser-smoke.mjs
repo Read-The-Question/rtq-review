@@ -21,9 +21,17 @@ for (const expected of [
   'No active filters',
   'Paper review console',
   'Answer review controls',
+  'Answer image review controls',
   'Answer review',
+  'Answer image review',
+  'Answer image status',
   'Review target',
   'Current outcome',
+  'Image handling',
+  'Generated',
+  'Screenshot',
+  'Ignore decorative source image',
+  'Saved with the current or next image review',
   'Coming Soon',
   'Filters',
   'Previous',
@@ -120,7 +128,7 @@ const pendingReview = await read(`${paperPath}?question-review=PRNS`);
 assert.doesNotMatch(pendingReview.text, /No question shares that exact lens/);
 
 const approvedOnly = await read(`${paperPath}?question-review=PRG`);
-assert.match(approvedOnly.text, /No question shares that exact lens/);
+assert.doesNotMatch(approvedOnly.text, /No question shares that exact lens/);
 
 const empty = await read(`${paperPath}?family=family.age&frame=frame.algebra`);
 assert.match(empty.text, /No question shares that exact lens/);

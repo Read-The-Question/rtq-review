@@ -16,6 +16,7 @@ import {
   type ReviewOutcomeDestination,
   type ReviewOutcomeLoad,
   type ReviewOutcomeSelection,
+  type ImageReviewMetadata,
 } from './review-types.ts';
 
 type ForwardOutcomeOptions = Readonly<{
@@ -60,6 +61,7 @@ export async function forwardReviewOutcome(
   try {
     response = await fetcher(`${options.baseUrl.replace(/\/$/, '')}/${path}`, {
       body: JSON.stringify({
+        ...(input.imageMetadata ? { imageMetadata: input.imageMetadata } : {}),
         rag: input.outcome ?? '',
         reviewer: input.reviewer,
         sheet: input.target.sheet,
@@ -113,6 +115,7 @@ export function persistReviewOutcome(
       };
     }
     repository.set({
+      ...(input.imageMetadata ? { imageMetadata: input.imageMetadata } : {}),
       outcome: input.outcome,
       ragState: input.target.ragState,
       reviewer: input.reviewer,
@@ -193,7 +196,7 @@ export function loadReviewOutcomesForPaper(
   options: LoadReviewOutcomeOptions = {},
 ): ReviewOutcomeLoad {
   if (destination === 'google-sheets') {
-    return { destination, outcomes: {} };
+    return { destination, imageMetadata: {}, outcomes: {} };
   }
   try {
     const repository = options.repository ?? getReviewStore().outcomes;
@@ -204,6 +207,7 @@ export function loadReviewOutcomesForPaper(
       ),
     );
     const outcomes: Record<string, ReviewOutcomeSelection> = {};
+    const imageMetadata: Record<string, ImageReviewMetadata> = {};
     for (const stored of repository.resolve(targets)) {
       const identity = JSON.stringify([
         stored.uuid,
@@ -213,14 +217,19 @@ export function loadReviewOutcomesForPaper(
       if (!requested.has(identity) || !isReviewOutcome(stored.outcome)) {
         throw new Error('The review database returned an invalid outcome.');
       }
-      outcomes[reviewTargetKey(stored)] = stored.outcome;
+      const key = reviewTargetKey(stored);
+      outcomes[key] = stored.outcome;
+      if (stored.imageMetadata) {
+        imageMetadata[key] = stored.imageMetadata;
+      }
     }
-    return { destination, outcomes };
+    return { destination, imageMetadata, outcomes };
   } catch {
     return {
       destination,
       error:
         'Review requests are unavailable. Check the rtq-review database directory and retry.',
+      imageMetadata: {},
       outcomes: {},
     };
   }

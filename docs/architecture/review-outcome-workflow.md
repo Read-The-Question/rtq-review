@@ -64,9 +64,18 @@ not displayed as the current decision.
 Every canonical image target starts at `rag_wf_ng2` and participates in the
 ordinary review controls, pending-review requests, lookups, rows, and
 transitions. A PRG review advances it directly to NG3. Image panels expose the
-controlled `ignored` metadata when present; `decorative` records an omitted
-decorative source image. The shared readers retain `rag_wf_notapplicable` only
-for historical compatibility, and canonical content must not author it.
+controlled image metadata and let the reviewer select `generated` and
+`screenshot` together when both apply. A separate decorative option maps to
+`ignored = ["decorative"]`. The structured `types` and `ignored` arrays are
+stored atomically with the exact state-scoped image review outcome; an explicit
+pair of empty arrays records that the reviewed target has no included image.
+Metadata selected before the first outcome is submitted with that action.
+Metadata changed after an outcome already exists re-submits the same outcome
+and upserts the same UUID, image side, and RAG-state row. Client writes for one
+target are serialized, so a rapid sequence of selections is applied in order
+and the latest selection is the durable value.
+The shared readers retain `rag_wf_notapplicable` only for historical
+compatibility, and canonical content must not author it.
 
 ### 2. Submit a review request
 
@@ -143,23 +152,34 @@ review badge, filter classification, and facet counts change without pretending
 that canonical content RAG has advanced. Reset removes that transient outcome
 from the same presentation state.
 
-The full filter panel provides independent review-outcome facets for question
-content, question images, answer content, and answer images. They classify only exact current-state
-outcomes. They contain only canonical review values, presented as **Pending**
+The review surface groups the four independent targets into two reviewer
+contexts: Question pairs question content with question images, and Answer
+pairs answer content with answer images. Both tracks in the active context keep
+their own controls, comments, outcomes, status backgrounds, and commands.
+
+The full filter panel shows only the two RAG and outcome facets in the active
+context. Question filters never narrow the Answer context, and Answer filters
+never narrow the Question context. Inactive selections remain in the URL so
+switching context restores that lens, but the filter engine ignores them until
+their context is active. The facets classify only exact current-state outcomes.
+They contain only canonical review values, presented as **Pending**
 for `PRNS` or no exact outcome, **Approved** for `PRG`, **Reviewed (Comments)**
 for `PRCR`, **Ready For Review** for `PRCC`, **Blocked** for `PRBD`, and
 **Coming Soon** for `PRCS`. A load failure is reported as unavailable and is
 never treated as Pending. There are no synthetic or inverse filter options.
-Selections within one facet use OR; all four outcome, RAG, and dimensional
-facets combine with AND. The selections use the URL parameters
+Selections within one facet use OR; the two active outcome facets, two active
+RAG facets, and common dimensional facets combine with AND. The selections use
+the URL parameters
 `question-review`, `question-image-review`, `answer-review`, and
 `answer-image-review`.
 
-Each top-level question heading also summarizes its exact current question and
-answer activity. Actionable outcomes use the same semantic label and colour
-mapping as their controls, while current-state comment counts remain visually
-distinct. Prior-state comment counts appear in this scan surface only when
-**Show previous feedback** is enabled. The sticky review toolbar exposes a
+Each top-level question heading also summarizes the two tracks in the active
+context. The main content surface uses the content outcome background, while a
+persistent image-status block uses the image outcome background even when the
+inline review panel is hidden. Actionable outcomes use the same semantic label
+and colour mapping as their controls, while current-state comment counts remain
+visually distinct. Prior-state comment counts appear in this scan surface only
+when **Show previous feedback** is enabled. The sticky review toolbar exposes a
 compact Filters control and active-filter count; it moves focus to the normal
 non-sticky filter panel, which offers a return control to the question the
 reviewer was inspecting.

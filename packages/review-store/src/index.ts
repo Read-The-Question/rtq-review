@@ -55,6 +55,9 @@ export type {
 export type {
   GlobalReviewFinding,
   GlobalReviewFindingStatus,
+  ImageReviewIgnoredReason,
+  ImageReviewMetadata,
+  ImageReviewType,
   LocalReviewComment,
   ReviewCommentTarget,
   ReviewOutcome,
@@ -66,6 +69,11 @@ export type {
 } from "./types.ts";
 export {
   GLOBAL_REVIEW_FINDING_STATUSES,
+  IMAGE_REVIEW_IGNORED_REASONS,
+  IMAGE_REVIEW_TYPES,
+  isImageReviewIgnoredReason,
+  isImageReviewSide,
+  isImageReviewType,
   isReviewOutcome,
   LEGACY_REVIEW_OUTCOME_CONSOLIDATIONS,
   REMOVED_REVIEW_OUTCOMES,

@@ -2119,6 +2119,30 @@ a.paper-row:hover {
   --question-status-tint: var(--review-pending-tint);
 }
 
+.question-node--status-background-approved {
+  background: var(--review-approved-tint);
+}
+
+.question-node--status-background-change-requested {
+  background: var(--review-change-requested-tint);
+}
+
+.question-node--status-background-change-complete {
+  background: var(--review-change-complete-tint);
+}
+
+.question-node--status-background-blocked {
+  background: var(--review-blocked-tint);
+}
+
+.question-node--status-background-coming-soon {
+  background: var(--review-coming-soon-tint);
+}
+
+.question-node--status-background-pending {
+  background: var(--review-pending-tint);
+}
+
 .question-node--context > .question-heading::after {
   color: var(--faint);
   content: 'context';
@@ -2250,11 +2274,6 @@ a.paper-row:hover {
 
 .question-copy {
   padding: clamp(1.5rem, 3vw, 3rem) 0;
-}
-
-.question-copy[class*='review-content-status--'] {
-  margin-top: 1rem;
-  padding-inline: clamp(1rem, 2vw, 1.5rem);
 }
 
 .review-content-status--approved {
@@ -2626,11 +2645,6 @@ a.paper-row:hover {
   gap: 2rem;
   grid-template-columns: minmax(0, 2fr) minmax(16rem, 1fr);
   padding: 2rem 0;
-}
-
-.solution-grid[class*='review-content-status--'] {
-  margin: 1rem 0;
-  padding-inline: clamp(1rem, 2vw, 1.5rem);
 }
 
 .solution-block {

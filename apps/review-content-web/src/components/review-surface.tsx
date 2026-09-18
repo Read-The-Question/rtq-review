@@ -1006,11 +1006,9 @@ function hasVisibleWorking(
 function SolutionContent({
   node,
   preferences,
-  statusTone,
 }: {
   node: DisplayPaperNode;
   preferences: ReviewPreferences;
-  statusTone?: ReviewStatusTone;
 }) {
   if (!preferences.showSolutions) return null;
   const hasWorkings = node.content.workings.some(
@@ -1028,9 +1026,7 @@ function SolutionContent({
   if (!hasWorkings && !hasAnswers) return null;
 
   return (
-    <div
-      className={`solution-grid${statusTone ? ` review-content-status--${statusTone}` : ''}`}
-    >
+    <div className="solution-grid">
       {hasWorkings ? (
         <section className="solution-block">
           <h4>Working</h4>
@@ -1218,6 +1214,10 @@ function QuestionNode({
         statusRails.some(({ side }) => side.startsWith('answer'))
           ? ' question-node--with-answer-status'
           : ''
+      }${
+        contentStatusTone
+          ? ` question-node--status-background-${contentStatusTone}`
+          : ''
       }`}
       id={`question-${node.id}`}
     >
@@ -1257,13 +1257,7 @@ function QuestionNode({
       </header>
 
       {preferences.showTags ? <NodeTags node={node} /> : null}
-      <div
-        className={`question-copy${
-          preferences.reviewSide === 'question' && contentStatusTone
-            ? ` review-content-status--${contentStatusTone}`
-            : ''
-        }`}
-      >
+      <div className="question-copy">
         <ContentField
           field={node.content.question}
           label="Question"
@@ -1289,13 +1283,7 @@ function QuestionNode({
             topLevelQuestion={topLevelQuestion}
           />
         ))}
-      <SolutionContent
-        node={node}
-        preferences={preferences}
-        statusTone={
-          preferences.reviewSide === 'answer' ? contentStatusTone : undefined
-        }
-      />
+      <SolutionContent node={node} preferences={preferences} />
       {preferences.reviewSide === 'answer' ? (
         <ImageReviewStatusBlock
           node={node}

@@ -123,7 +123,10 @@ test('top-level questions expose current outcomes and feedback as scan badges', 
   assert.match(component, /question-status-rail--\$\{side\}/);
   assert.match(component, /reviewSideShortLabel\(side\)/);
   assert.match(component, /function ImageReviewStatusBlock/);
-  assert.match(component, /review-content-status--\$\{contentStatusTone\}/);
+  assert.match(
+    component,
+    /question-node--status-background-\$\{contentStatusTone\}/,
+  );
   assert.match(component, /review-content-status--\$\{tone\}/);
   assert.match(
     component,
@@ -144,7 +147,15 @@ test('top-level questions expose current outcomes and feedback as scan badges', 
   assert.match(css, /\.question-status-rail--approved\s*{/);
   assert.match(css, /\.question-status-rail--pending\s*{/);
   assert.match(css, /\.review-content-status--blocked\s*{/);
-  assert.doesNotMatch(css, /\.question-node--status-background-blocked\s*{/);
+  assert.match(css, /\.question-node--status-background-blocked\s*{/);
+  assert.doesNotMatch(
+    css,
+    /\.question-copy\[class\*='review-content-status--'\]/,
+  );
+  assert.doesNotMatch(
+    css,
+    /\.solution-grid\[class\*='review-content-status--'\]/,
+  );
   assert.doesNotMatch(component, /question-node--active/);
   assert.doesNotMatch(css, /\.question-node--active/);
 });

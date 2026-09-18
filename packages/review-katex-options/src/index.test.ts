@@ -8,11 +8,13 @@ import katex from "katex";
 
 import {
   getRtqReviewKatexOptions,
+  RTQ_BOXED_VALUE_MACROS,
   RTQ_COLUMNAR_ARITHMETIC_STYLE_EXPANSION,
   RTQ_COLUMNAR_ARITHMETIC_STYLE_MACRO,
   RTQ_EQUATION_NUMBER_CLASS,
   RTQ_EQUATION_NUMBER_EXPANSION,
   RTQ_EQUATION_NUMBER_MACRO,
+  RTQ_PENDING_SIZE_SWITCHES,
   RTQ_WORKING_STEP_CLASS,
 } from "./index.ts";
 
@@ -46,6 +48,11 @@ test("matches the canonical rtq-content shared macro contracts", () => {
   const columnarArithmeticStyle = contract.macros.find(
     ({ name }) => name === RTQ_COLUMNAR_ARITHMETIC_STYLE_MACRO,
   );
+  const pendingSizeSwitches = Object.fromEntries(
+    contract.macros
+      .filter(({ name }) => name in RTQ_PENDING_SIZE_SWITCHES)
+      .map(({ expansion, name }) => [name, expansion]),
+  );
 
   assert.deepEqual(equationNumber, {
     expansion: RTQ_EQUATION_NUMBER_EXPANSION,
@@ -56,7 +63,45 @@ test("matches the canonical rtq-content shared macro contracts", () => {
     expansion: RTQ_COLUMNAR_ARITHMETIC_STYLE_EXPANSION,
     name: RTQ_COLUMNAR_ARITHMETIC_STYLE_MACRO,
   });
+  assert.deepEqual(pendingSizeSwitches, RTQ_PENDING_SIZE_SWITCHES);
+  for (const name of Object.keys(RTQ_BOXED_VALUE_MACROS)) {
+    assert.equal(
+      contract.macros.some((macro) => macro.name === name),
+      true,
+      name,
+    );
+  }
   assert.equal(options.macros["\\existingReviewerMacro"], "x_{#1}");
+});
+
+test("preserves every enlarged size through its pending-review switch", () => {
+  const normalize = (html: string) =>
+    html.replace(/<annotation[^>]*>[\s\S]*?<\/annotation>/g, "<annotation/>");
+
+  for (const [wrapper, source] of Object.entries(RTQ_PENDING_SIZE_SWITCHES)) {
+    for (const expression of [
+      `{${source} \\boxed{7}}`,
+      `\\boxed{${source} 7}`,
+      `\\boxed{\\phantom{${source} 7}}`,
+    ]) {
+      assert.equal(
+        normalize(
+          katex.renderToString(expression.replace(source, wrapper), options),
+        ),
+        normalize(katex.renderToString(expression, options)),
+      );
+    }
+  }
+});
+
+test("renders every boxed-value geometry in the shared review contract", () => {
+  for (const name of Object.keys(RTQ_BOXED_VALUE_MACROS)) {
+    const source = name.includes("EmptyValue") ? name : `${name}{7}`;
+    const html = katex.renderToString(source, options);
+
+    assert.doesNotMatch(html, /katex-error/, name);
+    if (name.includes("CorrectValue")) assert.match(html, /color:green/, name);
+  }
 });
 
 test("applies columnar arithmetic spacing only when requested", () => {

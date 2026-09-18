@@ -12,6 +12,34 @@ export const RTQ_COLUMNAR_ARITHMETIC_STYLE_MACRO =
 export const RTQ_COLUMNAR_ARITHMETIC_STYLE_EXPANSION =
   "\\def\\arraystretch{1.5}" as const;
 
+export const RTQ_PENDING_SIZE_SWITCHES = {
+  "\\rtqMathsSizeSevenPendingReview": "\\large",
+  "\\rtqMathsSizeEightPendingReview": "\\Large",
+  "\\rtqMathsSizeNinePendingReview": "\\LARGE",
+  "\\rtqMathsSizeTenPendingReview": "\\huge",
+  "\\rtqMathsSizeElevenPendingReview": "\\Huge",
+} as const;
+
+export const RTQ_BOXED_VALUE_MACROS = {
+  "\\rtqMathsCorrectValue": "\\textcolor{green}{#1}",
+  "\\rtqMathsBoxedValue": "\\boxed{#1}",
+  "\\rtqMathsBoxedValueOneDigitPaddingEachSide":
+    "\\boxed{\\phantom{0}#1\\phantom{0}}",
+  "\\rtqMathsBoxedValueFractionPaddingEachSide":
+    "\\boxed{\\phantom{\\dfrac{0}{0}}#1\\phantom{\\dfrac{0}{0}}}",
+  "\\rtqMathsBoxedCorrectValue": "\\boxed{\\rtqMathsCorrectValue{#1}}",
+  "\\rtqMathsBoxedCorrectValueOneDigitPaddingEachSide":
+    "\\boxed{\\phantom{0}\\rtqMathsCorrectValue{#1}\\phantom{0}}",
+  "\\rtqMathsBoxedCorrectValueFractionPaddingEachSide":
+    "\\boxed{\\phantom{\\dfrac{0}{0}}\\rtqMathsCorrectValue{#1}\\phantom{\\dfrac{0}{0}}}",
+  "\\rtqMathsBoxedEmptyValueZeroDigitsWidePendingReview": "\\boxed{}",
+  "\\rtqMathsBoxedEmptyValueOneDigitWide": "\\boxed{\\phantom{0}}",
+  "\\rtqMathsBoxedEmptyValueTwoDigitsWide": "\\boxed{\\phantom{00}}",
+  "\\rtqMathsBoxedEmptyValueThreeDigitsWide": "\\boxed{\\phantom{000}}",
+  "\\rtqMathsBoxedEmptyValueFourDigitsWide": "\\boxed{\\phantom{0000}}",
+  "\\rtqMathsBoxedEmptyValueFraction": "\\boxed{\\phantom{\\dfrac{0}{0}}}",
+} as const;
+
 type KatexTrustContext = Readonly<{
   class?: string;
   command: string;
@@ -43,6 +71,8 @@ export function getRtqReviewKatexOptions<
       [RTQ_EQUATION_NUMBER_MACRO]: RTQ_EQUATION_NUMBER_EXPANSION,
       [RTQ_COLUMNAR_ARITHMETIC_STYLE_MACRO]:
         RTQ_COLUMNAR_ARITHMETIC_STYLE_EXPANSION,
+      ...RTQ_PENDING_SIZE_SWITCHES,
+      ...RTQ_BOXED_VALUE_MACROS,
     },
     strict: reviewKatexStrictness,
     throwOnError: false,

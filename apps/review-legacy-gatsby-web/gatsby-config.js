@@ -35,10 +35,25 @@ const rtqKatexMacros = {
     "\\htmlClass{rtq-maths-working-step}{\\footnotesize{(#1)}}",
   "\\rtqMathsSequenceStepBare":
     "\\htmlClass{rtq-maths-working-step}{\\footnotesize{#1}}",
-  "\\rtqMathsFilledValue": "\\textcolor{green}{#1}",
+  "\\rtqMathsCorrectValue": "\\textcolor{green}{#1}",
   "\\rtqMathsIncorrectValue": "\\textcolor{red}{#1}",
-  "\\rtqMathsBoxedFilledValue": "\\boxed{\\rtqMathsFilledValue{#1}}",
-  "\\rtqMathsBoxedEmptyValue": "\\boxed{\\phantom{9}}",
+  "\\rtqMathsBoxedValue": "\\boxed{#1}",
+  "\\rtqMathsBoxedValueOneDigitPaddingEachSide":
+    "\\boxed{\\phantom{0}#1\\phantom{0}}",
+  "\\rtqMathsBoxedValueFractionPaddingEachSide":
+    "\\boxed{\\phantom{\\dfrac{0}{0}}#1\\phantom{\\dfrac{0}{0}}}",
+  "\\rtqMathsBoxedCorrectValue": "\\boxed{\\rtqMathsCorrectValue{#1}}",
+  "\\rtqMathsBoxedCorrectValueOneDigitPaddingEachSide":
+    "\\boxed{\\phantom{0}\\rtqMathsCorrectValue{#1}\\phantom{0}}",
+  "\\rtqMathsBoxedCorrectValueFractionPaddingEachSide":
+    "\\boxed{\\phantom{\\dfrac{0}{0}}\\rtqMathsCorrectValue{#1}\\phantom{\\dfrac{0}{0}}}",
+  "\\rtqMathsBoxedEmptyValueZeroDigitsWidePendingReview": "\\boxed{}",
+  "\\rtqMathsBoxedEmptyValueOneDigitWide": "\\boxed{\\phantom{0}}",
+  "\\rtqMathsBoxedEmptyValueTwoDigitsWide": "\\boxed{\\phantom{00}}",
+  "\\rtqMathsBoxedEmptyValueThreeDigitsWide": "\\boxed{\\phantom{000}}",
+  "\\rtqMathsBoxedEmptyValueFourDigitsWide": "\\boxed{\\phantom{0000}}",
+  "\\rtqMathsBoxedEmptyValueFraction":
+    "\\boxed{\\phantom{\\dfrac{0}{0}}}",
   "\\rtqMathsSolvedOrder":
     "\\htmlClass{rtq-maths-working-step}{\\footnotesize{(#1)}}",
   "\\rtqMathsSolvedOrderPhantom":
@@ -46,6 +61,11 @@ const rtqKatexMacros = {
   "\\rtqMathsEquationNumber":
     "\\htmlClass{rtq-maths-equation-number}{\\footnotesize{(#1)}}",
   "\\rtqMathsColumnarArithmeticStyle": "\\def\\arraystretch{1.5}",
+  "\\rtqMathsSizeSevenPendingReview": "\\large",
+  "\\rtqMathsSizeEightPendingReview": "\\Large",
+  "\\rtqMathsSizeNinePendingReview": "\\LARGE",
+  "\\rtqMathsSizeTenPendingReview": "\\huge",
+  "\\rtqMathsSizeElevenPendingReview": "\\Huge",
 };
 
 const rtqKatexApprovedClasses = new Set([

@@ -46,15 +46,30 @@ test("registers and renders the complete prefixed RTQ vocabulary", () => {
   const options = { ...getRtqKatexOptions(), throwOnError: true };
   const expected = [
     "\\rtqMathsAddCarryOver",
-    "\\rtqMathsBoxedEmptyValue",
-    "\\rtqMathsBoxedFilledValue",
+    "\\rtqMathsBoxedCorrectValue",
+    "\\rtqMathsBoxedCorrectValueFractionPaddingEachSide",
+    "\\rtqMathsBoxedCorrectValueOneDigitPaddingEachSide",
+    "\\rtqMathsBoxedEmptyValueFourDigitsWide",
+    "\\rtqMathsBoxedEmptyValueFraction",
+    "\\rtqMathsBoxedEmptyValueOneDigitWide",
+    "\\rtqMathsBoxedEmptyValueThreeDigitsWide",
+    "\\rtqMathsBoxedEmptyValueTwoDigitsWide",
+    "\\rtqMathsBoxedEmptyValueZeroDigitsWidePendingReview",
+    "\\rtqMathsBoxedValue",
+    "\\rtqMathsBoxedValueFractionPaddingEachSide",
+    "\\rtqMathsBoxedValueOneDigitPaddingEachSide",
     "\\rtqMathsColumnarArithmeticStyle",
+    "\\rtqMathsCorrectValue",
     "\\rtqMathsEquationNumber",
-    "\\rtqMathsFilledValue",
     "\\rtqMathsIncorrectValue",
     "\\rtqMathsMultiplyCarryOver",
     "\\rtqMathsSequenceStep",
     "\\rtqMathsSequenceStepBare",
+    "\\rtqMathsSizeEightPendingReview",
+    "\\rtqMathsSizeElevenPendingReview",
+    "\\rtqMathsSizeNinePendingReview",
+    "\\rtqMathsSizeSevenPendingReview",
+    "\\rtqMathsSizeTenPendingReview",
     "\\rtqMathsSolvedOrder",
     "\\rtqMathsSolvedOrderPhantom",
     "\\rtqMathsSubtractBorrow",
@@ -90,7 +105,7 @@ test("registers and renders the complete prefixed RTQ vocabulary", () => {
   );
   assert.equal(options.macros["\\rtqMathsSymbolBoxDot"], "\\boxdot");
   const html = katex.renderToString(
-    String.raw`\rtqMathsBoxedEmptyValue\rtqMathsEquationNumber{2}`,
+    String.raw`\rtqMathsBoxedEmptyValueZeroDigitsWidePendingReview\rtqMathsBoxedEmptyValueFraction\rtqMathsBoxedCorrectValue{7}\rtqMathsEquationNumber{2}`,
     options,
   );
   assert.doesNotMatch(html, /katex-error/);

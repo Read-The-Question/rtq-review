@@ -26,10 +26,7 @@ const reviewerKatexMacros: Record<string, string> = {
     '\\htmlClass{rtq-maths-working-step}{\\footnotesize{(#1)}}',
   '\\rtqMathsSequenceStepBare':
     '\\htmlClass{rtq-maths-working-step}{\\footnotesize{#1}}',
-  '\\rtqMathsFilledValue': '\\textcolor{green}{#1}',
   '\\rtqMathsIncorrectValue': '\\textcolor{red}{#1}',
-  '\\rtqMathsBoxedFilledValue': '\\boxed{\\rtqMathsFilledValue{#1}}',
-  '\\rtqMathsBoxedEmptyValue': '\\boxed{\\phantom{9}}',
   '\\rtqMathsSolvedOrder':
     '\\htmlClass{rtq-maths-working-step}{\\footnotesize{(#1)}}',
   '\\rtqMathsSolvedOrderPhantom':

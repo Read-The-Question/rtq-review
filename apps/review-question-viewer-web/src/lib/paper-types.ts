@@ -48,8 +48,8 @@ export type RagState = {
 
 export type ReviewScopeMetadata = {
   comments: string;
+  imageIgnored?: string[];
   imageNotes?: string;
-  imageSourceDecisions?: string[];
   imageTypes?: string[];
   reviewRag: RagState | null;
   sheet: string | null;

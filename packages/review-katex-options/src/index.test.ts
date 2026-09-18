@@ -14,6 +14,7 @@ import {
   RTQ_EQUATION_NUMBER_CLASS,
   RTQ_EQUATION_NUMBER_EXPANSION,
   RTQ_EQUATION_NUMBER_MACRO,
+  RTQ_EMPTY_VALUE_MACROS,
   RTQ_PENDING_SIZE_SWITCHES,
   RTQ_WORKING_STEP_CLASS,
 } from "./index.ts";
@@ -71,6 +72,13 @@ test("matches the canonical rtq-content shared macro contracts", () => {
       name,
     );
   }
+  for (const name of Object.keys(RTQ_EMPTY_VALUE_MACROS)) {
+    assert.equal(
+      contract.macros.some((macro) => macro.name === name),
+      true,
+      name,
+    );
+  }
   assert.equal(options.macros["\\existingReviewerMacro"], "x_{#1}");
 });
 
@@ -102,6 +110,20 @@ test("renders every boxed-value geometry in the shared review contract", () => {
     assert.doesNotMatch(html, /katex-error/, name);
     if (name.includes("CorrectValue")) assert.match(html, /color:green/, name);
   }
+});
+
+test("renders every unboxed empty-value geometry in the shared review contract", () => {
+  for (const name of Object.keys(RTQ_EMPTY_VALUE_MACROS)) {
+    const html = katex.renderToString(name, options);
+    assert.doesNotMatch(html, /katex-error/, name);
+  }
+
+  const solvedOrder = katex.renderToString(
+    String.raw`\rtqMathsEmptyValueSolvedOrder`,
+    options,
+  );
+  assert.match(solvedOrder, /rtq-maths-working-step/);
+  assert.match(solvedOrder, /color:transparent/);
 });
 
 test("applies columnar arithmetic spacing only when requested", () => {

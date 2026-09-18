@@ -609,7 +609,7 @@ function reviewMetadataFromRecord(
     answerImage: {
       comments: asString(answerImageReview.comments).trim(),
       imageNotes: asString(answerImage.notes).trim() || undefined,
-      imageSourceDecisions: asStringArray(answerImage['source-decisions']),
+      imageIgnored: asStringArray(answerImage.ignored),
       imageTypes: asStringArray(answerImage.types),
       reviewRag: ragStateFromRecordValue(
         answerImageReview,
@@ -632,7 +632,7 @@ function reviewMetadataFromRecord(
     questionImage: {
       comments: asString(questionImageReview.comments).trim(),
       imageNotes: asString(questionImage.notes).trim() || undefined,
-      imageSourceDecisions: asStringArray(questionImage['source-decisions']),
+      imageIgnored: asStringArray(questionImage.ignored),
       imageTypes: asStringArray(questionImage.types),
       reviewRag: ragStateFromRecordValue(
         questionImageReview,

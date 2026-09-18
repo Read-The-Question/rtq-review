@@ -483,24 +483,16 @@ function reviewTarget(
       )
     : undefined;
   const imageNotes = imageTarget ? meaningfulString(track.notes) : undefined;
-  const imageSourceDecisions = imageTarget
-    ? stringArray(track['source-decisions']).filter(
-        (
-          value,
-        ): value is
-          | 'decorative-included'
-          | 'decorative-omitted'
-          | 'decorative-undecided' =>
-          value === 'decorative-included' ||
-          value === 'decorative-omitted' ||
-          value === 'decorative-undecided',
+  const imageIgnored = imageTarget
+    ? stringArray(track.ignored).filter(
+        (value): value is 'decorative' => value === 'decorative',
       )
     : undefined;
 
   return {
     ...(contentRag ? { contentRag } : {}),
     ...(imageNotes ? { imageNotes } : {}),
-    ...(imageSourceDecisions ? { imageSourceDecisions } : {}),
+    ...(imageIgnored ? { imageIgnored } : {}),
     ...(imageTypes ? { imageTypes } : {}),
     legacyComments: asString(review.comments).trim(),
     ...(reviewOutcome ? { reviewOutcome } : {}),

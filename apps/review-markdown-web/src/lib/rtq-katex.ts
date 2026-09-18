@@ -29,8 +29,6 @@ const reviewerKatexMacros: Record<string, string> = {
   '\\rtqMathsIncorrectValue': '\\textcolor{red}{#1}',
   '\\rtqMathsSolvedOrder':
     '\\htmlClass{rtq-maths-working-step}{\\footnotesize{(#1)}}',
-  '\\rtqMathsSolvedOrderPhantom':
-    '\\phantom{\\htmlClass{rtq-maths-working-step}{\\footnotesize{(#1)}}}',
 };
 
 export const rtqKatexOptions = getRtqReviewKatexOptions(reviewerKatexMacros);

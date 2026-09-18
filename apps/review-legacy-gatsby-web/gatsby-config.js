@@ -54,10 +54,15 @@ const rtqKatexMacros = {
   "\\rtqMathsBoxedEmptyValueFourDigitsWide": "\\boxed{\\phantom{0000}}",
   "\\rtqMathsBoxedEmptyValueFraction":
     "\\boxed{\\phantom{\\dfrac{0}{0}}}",
+  "\\rtqMathsEmptyValueOneDigitWide": "\\phantom{0}",
+  "\\rtqMathsEmptyValueTwoDigitsWide": "\\phantom{00}",
+  "\\rtqMathsEmptyValueThreeDigitsWide": "\\phantom{000}",
+  "\\rtqMathsEmptyValueFourDigitsWide": "\\phantom{0000}",
+  "\\rtqMathsEmptyValueFraction": "\\phantom{\\dfrac{0}{0}}",
   "\\rtqMathsSolvedOrder":
     "\\htmlClass{rtq-maths-working-step}{\\footnotesize{(#1)}}",
-  "\\rtqMathsSolvedOrderPhantom":
-    "\\phantom{\\htmlClass{rtq-maths-working-step}{\\footnotesize{(#1)}}}",
+  "\\rtqMathsEmptyValueSolvedOrder":
+    "\\phantom{\\htmlClass{rtq-maths-working-step}{\\footnotesize{(0)}}}",
   "\\rtqMathsEquationNumber":
     "\\htmlClass{rtq-maths-equation-number}{\\footnotesize{(#1)}}",
   "\\rtqMathsColumnarArithmeticStyle": "\\def\\arraystretch{1.5}",

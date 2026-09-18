@@ -40,6 +40,16 @@ export const RTQ_BOXED_VALUE_MACROS = {
   "\\rtqMathsBoxedEmptyValueFraction": "\\boxed{\\phantom{\\dfrac{0}{0}}}",
 } as const;
 
+export const RTQ_EMPTY_VALUE_MACROS = {
+  "\\rtqMathsEmptyValueOneDigitWide": "\\phantom{0}",
+  "\\rtqMathsEmptyValueTwoDigitsWide": "\\phantom{00}",
+  "\\rtqMathsEmptyValueThreeDigitsWide": "\\phantom{000}",
+  "\\rtqMathsEmptyValueFourDigitsWide": "\\phantom{0000}",
+  "\\rtqMathsEmptyValueFraction": "\\phantom{\\dfrac{0}{0}}",
+  "\\rtqMathsEmptyValueSolvedOrder":
+    "\\phantom{\\htmlClass{rtq-maths-working-step}{\\footnotesize{(0)}}}",
+} as const;
+
 type KatexTrustContext = Readonly<{
   class?: string;
   command: string;
@@ -73,6 +83,7 @@ export function getRtqReviewKatexOptions<
         RTQ_COLUMNAR_ARITHMETIC_STYLE_EXPANSION,
       ...RTQ_PENDING_SIZE_SWITCHES,
       ...RTQ_BOXED_VALUE_MACROS,
+      ...RTQ_EMPTY_VALUE_MACROS,
     },
     strict: reviewKatexStrictness,
     throwOnError: false,

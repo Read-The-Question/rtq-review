@@ -121,7 +121,7 @@ rag.answer.review.outcome = "rag_wf_prg"
 rag.answer.review.comments = '''Legacy answer comment'''
 rag.answer.image.state = "rag_wf_ng2"
 rag.answer.image.types = ["generated"]
-rag.answer.image.source-decisions = ["decorative-included"]
+rag.answer.image.ignored = ["decorative"]
 rag.answer.image.notes = '''Draw the working diagram.'''
 rag.answer.image.review.outcome = "rag_wf_prns"
 rag.answer.image.review.comments = '''Answer image comment'''
@@ -130,7 +130,7 @@ rag.question.review.outcome = "rag_wf_prcc"
 rag.question.review.comments = '''Legacy question comment'''
 rag.question.image.state = "rag_wf_ng3"
 rag.question.image.types = []
-rag.question.image.source-decisions = ["decorative-omitted"]
+rag.question.image.ignored = ["decorative"]
 rag.question.image.review.outcome = "rag_wf_prg"
 rag.question.image.review.comments = '''Question image comment'''
 rtq-tags = ["family.money", "frame.labelled"]
@@ -473,8 +473,8 @@ test('parses the complete nested read model and safe preparation inputs', async 
     );
     assert.equal(question.review['answer-image'].contentRag, 'rag_wf_ng2');
     assert.deepEqual(question.review['answer-image'].imageTypes, ['generated']);
-    assert.deepEqual(question.review['answer-image'].imageSourceDecisions, [
-      'decorative-included',
+    assert.deepEqual(question.review['answer-image'].imageIgnored, [
+      'decorative',
     ]);
     assert.equal(
       question.review['answer-image'].imageNotes,
@@ -487,8 +487,8 @@ test('parses the complete nested read model and safe preparation inputs', async 
     );
     assert.equal(question.review['question-image'].contentRag, 'rag_wf_ng3');
     assert.deepEqual(question.review['question-image'].imageTypes, []);
-    assert.deepEqual(question.review['question-image'].imageSourceDecisions, [
-      'decorative-omitted',
+    assert.deepEqual(question.review['question-image'].imageIgnored, [
+      'decorative',
     ]);
     assert.equal(question.content.workings[0].formulas.length, 2);
     assert.equal(question.content.workings[0].tips.length, 2);

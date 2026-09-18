@@ -9,7 +9,7 @@ test('registers all prefixed RTQ macros including one-to-one symbol wrappers', (
   assert.equal(
     Object.keys(rtqKatexMacros).filter(name => name.startsWith('\\rtqMaths'))
       .length,
-    46,
+    51,
   );
   assert.equal(
     rtqKatexMacros['\\rtqMathsSymbolTrianglePendingReview'],
@@ -57,7 +57,7 @@ test('renders opt-in columnar arithmetic spacing', () => {
 
 test('renders the boxed-value grammar', () => {
   const html = katex.renderToString(
-    String.raw`\rtqMathsBoxedEmptyValueZeroDigitsWidePendingReview\rtqMathsBoxedEmptyValueFraction\rtqMathsBoxedValue{7}\rtqMathsBoxedCorrectValue{8}`,
+    String.raw`\rtqMathsBoxedEmptyValueZeroDigitsWidePendingReview\rtqMathsBoxedEmptyValueFraction\rtqMathsEmptyValueFraction\rtqMathsBoxedValue{7}\rtqMathsBoxedCorrectValue{8}`,
     rtqKatexOptions,
   );
 

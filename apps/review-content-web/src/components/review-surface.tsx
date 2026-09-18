@@ -485,10 +485,10 @@ function ReviewScope({
               <dd>{imageState.imageNotes}</dd>
             </div>
           ) : null}
-          {imageState?.imageSourceDecisions?.length ? (
+          {imageState?.imageIgnored?.length ? (
             <div>
-              <dt>Source decisions</dt>
-              <dd>{imageState.imageSourceDecisions.join(', ')}</dd>
+              <dt>Ignored</dt>
+              <dd>{imageState.imageIgnored.join(', ')}</dd>
             </div>
           ) : null}
           {outcomesEnabled ? (

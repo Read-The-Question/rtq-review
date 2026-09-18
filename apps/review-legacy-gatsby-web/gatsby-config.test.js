@@ -60,6 +60,12 @@ test("registers and renders the complete prefixed RTQ vocabulary", () => {
     "\\rtqMathsBoxedValueOneDigitPaddingEachSide",
     "\\rtqMathsColumnarArithmeticStyle",
     "\\rtqMathsCorrectValue",
+    "\\rtqMathsEmptyValueFourDigitsWide",
+    "\\rtqMathsEmptyValueFraction",
+    "\\rtqMathsEmptyValueOneDigitWide",
+    "\\rtqMathsEmptyValueSolvedOrder",
+    "\\rtqMathsEmptyValueThreeDigitsWide",
+    "\\rtqMathsEmptyValueTwoDigitsWide",
     "\\rtqMathsEquationNumber",
     "\\rtqMathsIncorrectValue",
     "\\rtqMathsMultiplyCarryOver",
@@ -71,7 +77,6 @@ test("registers and renders the complete prefixed RTQ vocabulary", () => {
     "\\rtqMathsSizeSevenPendingReview",
     "\\rtqMathsSizeTenPendingReview",
     "\\rtqMathsSolvedOrder",
-    "\\rtqMathsSolvedOrderPhantom",
     "\\rtqMathsSubtractBorrow",
     "\\rtqMathsSymbolAsterisk",
     "\\rtqMathsSymbolBigStarPendingReview",
@@ -105,7 +110,7 @@ test("registers and renders the complete prefixed RTQ vocabulary", () => {
   );
   assert.equal(options.macros["\\rtqMathsSymbolBoxDot"], "\\boxdot");
   const html = katex.renderToString(
-    String.raw`\rtqMathsBoxedEmptyValueZeroDigitsWidePendingReview\rtqMathsBoxedEmptyValueFraction\rtqMathsBoxedCorrectValue{7}\rtqMathsEquationNumber{2}`,
+    String.raw`\rtqMathsBoxedEmptyValueZeroDigitsWidePendingReview\rtqMathsBoxedEmptyValueFraction\rtqMathsEmptyValueFraction\rtqMathsBoxedCorrectValue{7}\rtqMathsEquationNumber{2}`,
     options,
   );
   assert.doesNotMatch(html, /katex-error/);

@@ -682,10 +682,10 @@ function ReviewPane({
                     <dd>{metadata.imageNotes}</dd>
                   </div>
                 ) : null}
-                {metadata.imageSourceDecisions?.length ? (
+                {metadata.imageIgnored?.length ? (
                   <div>
-                    <dt>Source decisions</dt>
-                    <dd>{metadata.imageSourceDecisions.join(', ')}</dd>
+                    <dt>Ignored</dt>
+                    <dd>{metadata.imageIgnored.join(', ')}</dd>
                   </div>
                 ) : null}
               </dl>

@@ -61,12 +61,12 @@ In database mode, the page also requests stored outcomes for those exact
 targets. An outcome recorded for the same UUID and side at an earlier state is
 not displayed as the current decision.
 
-Image targets whose canonical state is `rag_wf_notapplicable` are dormant.
-They do not produce review controls, pending-review requests, database
-lookups, Google Sheets rows, or transitions. When review discovers image work,
-the content source must first activate that side explicitly at `rag_wf_ng2`;
-only then does it re-enter the ordinary image-review workflow. Active image
-panels also expose the controlled `source-decisions` metadata when present.
+Every canonical image target starts at `rag_wf_ng2` and participates in the
+ordinary review controls, pending-review requests, lookups, rows, and
+transitions. A PRG review advances it directly to NG3. Image panels expose the
+controlled `ignored` metadata when present; `decorative` records an omitted
+decorative source image. The shared readers retain `rag_wf_notapplicable` only
+for historical compatibility, and canonical content must not author it.
 
 ### 2. Submit a review request
 

@@ -1,7 +1,7 @@
 ---
 slug: "focustomlpapers/devonport-high-school-for-boys-11-plus-maths-2020-paper-1"
 title: "Focus Paper - Devonport High School For Boys - 11 Plus - Maths - 2020 - Paper 1"
-date: 2026-09-06 13:12:22
+date: 2026-09-18 05:44:32
 questions_count: "44"
 ---
 <div class="paper" id="page-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-top">
@@ -14,7 +14,7 @@ questions_count: "44"
 </div>
 <ul class="question decimal question_type_question list_type_decimal">
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-1">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-1">
 <div class="uuid">
 <p>5E27E4C1-9770-4014-B987-7640D59C1349</p>
 </div>
@@ -31,7 +31,7 @@ questions_count: "44"
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng3</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -140,44 +140,29 @@ $2569$
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="5E27E4C1-9770-4014-B987-7640D59C1349" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="5E27E4C1-9770-4014-B987-7640D59C1349" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="5E27E4C1-9770-4014-B987-7640D59C1349" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="5E27E4C1-9770-4014-B987-7640D59C1349" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="5E27E4C1-9770-4014-B987-7640D59C1349" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="5E27E4C1-9770-4014-B987-7640D59C1349" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="5E27E4C1-9770-4014-B987-7640D59C1349" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="5E27E4C1-9770-4014-B987-7640D59C1349" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="5E27E4C1-9770-4014-B987-7640D59C1349" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="5E27E4C1-9770-4014-B987-7640D59C1349" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="5E27E4C1-9770-4014-B987-7640D59C1349" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="5E27E4C1-9770-4014-B987-7640D59C1349" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="5E27E4C1-9770-4014-B987-7640D59C1349" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="5E27E4C1-9770-4014-B987-7640D59C1349" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="5E27E4C1-9770-4014-B987-7640D59C1349" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="5E27E4C1-9770-4014-B987-7640D59C1349" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="5E27E4C1-9770-4014-B987-7640D59C1349" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="5E27E4C1-9770-4014-B987-7640D59C1349" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="5E27E4C1-9770-4014-B987-7640D59C1349" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="5E27E4C1-9770-4014-B987-7640D59C1349" id="FORM-5E27E4C1-9770-4014-B987-7640D59C1349" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="5E27E4C1-9770-4014-B987-7640D59C1349" id="FORM-5E27E4C1-9770-4014-B987-7640D59C1349" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -189,7 +174,7 @@ $2569$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-2">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-2">
 <div class="uuid">
 <p>A922E32B-F98B-4BB5-80FE-0CC14DF89EBD</p>
 </div>
@@ -206,7 +191,7 @@ $2569$
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng3</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -310,44 +295,29 @@ August
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="A922E32B-F98B-4BB5-80FE-0CC14DF89EBD" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A922E32B-F98B-4BB5-80FE-0CC14DF89EBD" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="A922E32B-F98B-4BB5-80FE-0CC14DF89EBD" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A922E32B-F98B-4BB5-80FE-0CC14DF89EBD" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="A922E32B-F98B-4BB5-80FE-0CC14DF89EBD" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A922E32B-F98B-4BB5-80FE-0CC14DF89EBD" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="A922E32B-F98B-4BB5-80FE-0CC14DF89EBD" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A922E32B-F98B-4BB5-80FE-0CC14DF89EBD" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="A922E32B-F98B-4BB5-80FE-0CC14DF89EBD" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A922E32B-F98B-4BB5-80FE-0CC14DF89EBD" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="A922E32B-F98B-4BB5-80FE-0CC14DF89EBD" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A922E32B-F98B-4BB5-80FE-0CC14DF89EBD" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="A922E32B-F98B-4BB5-80FE-0CC14DF89EBD" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="A922E32B-F98B-4BB5-80FE-0CC14DF89EBD" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="A922E32B-F98B-4BB5-80FE-0CC14DF89EBD" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="A922E32B-F98B-4BB5-80FE-0CC14DF89EBD" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="A922E32B-F98B-4BB5-80FE-0CC14DF89EBD" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="A922E32B-F98B-4BB5-80FE-0CC14DF89EBD" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="A922E32B-F98B-4BB5-80FE-0CC14DF89EBD" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="A922E32B-F98B-4BB5-80FE-0CC14DF89EBD" id="FORM-A922E32B-F98B-4BB5-80FE-0CC14DF89EBD" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A922E32B-F98B-4BB5-80FE-0CC14DF89EBD" id="FORM-A922E32B-F98B-4BB5-80FE-0CC14DF89EBD" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -359,7 +329,7 @@ August
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-3">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-3">
 <div class="uuid">
 <p>907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1</p>
 </div>
@@ -376,7 +346,7 @@ August
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng3</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -479,44 +449,29 @@ $17{:}00$
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1" id="FORM-907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1" id="FORM-907AEB26-FAAE-4CE4-AEDC-D2CD347B6EE1" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -528,7 +483,7 @@ $17{:}00$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-4">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-4">
 <div class="uuid">
 <p>58AA53DF-1B31-4A7D-A498-AD5E926C40A6</p>
 </div>
@@ -545,7 +500,7 @@ $17{:}00$
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng3</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -573,7 +528,7 @@ frame.minimal
 <img src="/assets/papers/devonport-high-school-for-boys/2020/paper-1/questions/s01-q04-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
 </div>
 
-Which point has coordinates $(2, 1) ?$
+Which point has coordinates $(2, 1)$?
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -582,7 +537,7 @@ Which point has coordinates $(2, 1) ?$
 </div>
 <pre class="language-latex"><code class="language-latex">&lt;PaperImage assetScope="question" kind="essential" /&gt;
 
-Which point has coordinates &#36;(2, 1) ?&#36;
+Which point has coordinates &#36;(2, 1)&#36;?
 </code></pre>
 </div>
 <div class="workings">
@@ -649,44 +604,29 @@ E
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="58AA53DF-1B31-4A7D-A498-AD5E926C40A6" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="58AA53DF-1B31-4A7D-A498-AD5E926C40A6" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="58AA53DF-1B31-4A7D-A498-AD5E926C40A6" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="58AA53DF-1B31-4A7D-A498-AD5E926C40A6" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="58AA53DF-1B31-4A7D-A498-AD5E926C40A6" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="58AA53DF-1B31-4A7D-A498-AD5E926C40A6" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="58AA53DF-1B31-4A7D-A498-AD5E926C40A6" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="58AA53DF-1B31-4A7D-A498-AD5E926C40A6" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="58AA53DF-1B31-4A7D-A498-AD5E926C40A6" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="58AA53DF-1B31-4A7D-A498-AD5E926C40A6" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="58AA53DF-1B31-4A7D-A498-AD5E926C40A6" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="58AA53DF-1B31-4A7D-A498-AD5E926C40A6" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="58AA53DF-1B31-4A7D-A498-AD5E926C40A6" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="58AA53DF-1B31-4A7D-A498-AD5E926C40A6" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="58AA53DF-1B31-4A7D-A498-AD5E926C40A6" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="58AA53DF-1B31-4A7D-A498-AD5E926C40A6" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="58AA53DF-1B31-4A7D-A498-AD5E926C40A6" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="58AA53DF-1B31-4A7D-A498-AD5E926C40A6" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="58AA53DF-1B31-4A7D-A498-AD5E926C40A6" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="58AA53DF-1B31-4A7D-A498-AD5E926C40A6" id="FORM-58AA53DF-1B31-4A7D-A498-AD5E926C40A6" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="58AA53DF-1B31-4A7D-A498-AD5E926C40A6" id="FORM-58AA53DF-1B31-4A7D-A498-AD5E926C40A6" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -698,7 +638,7 @@ E
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-5">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-5">
 <div class="uuid">
 <p>F49FF939-01A4-4C4C-97E5-1AF9C8DD62DC</p>
 </div>
@@ -715,7 +655,7 @@ E
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng3</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -822,44 +762,29 @@ $80$
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="F49FF939-01A4-4C4C-97E5-1AF9C8DD62DC" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F49FF939-01A4-4C4C-97E5-1AF9C8DD62DC" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="F49FF939-01A4-4C4C-97E5-1AF9C8DD62DC" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F49FF939-01A4-4C4C-97E5-1AF9C8DD62DC" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="F49FF939-01A4-4C4C-97E5-1AF9C8DD62DC" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F49FF939-01A4-4C4C-97E5-1AF9C8DD62DC" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="F49FF939-01A4-4C4C-97E5-1AF9C8DD62DC" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F49FF939-01A4-4C4C-97E5-1AF9C8DD62DC" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="F49FF939-01A4-4C4C-97E5-1AF9C8DD62DC" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F49FF939-01A4-4C4C-97E5-1AF9C8DD62DC" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="F49FF939-01A4-4C4C-97E5-1AF9C8DD62DC" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F49FF939-01A4-4C4C-97E5-1AF9C8DD62DC" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="F49FF939-01A4-4C4C-97E5-1AF9C8DD62DC" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="F49FF939-01A4-4C4C-97E5-1AF9C8DD62DC" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="F49FF939-01A4-4C4C-97E5-1AF9C8DD62DC" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="F49FF939-01A4-4C4C-97E5-1AF9C8DD62DC" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="F49FF939-01A4-4C4C-97E5-1AF9C8DD62DC" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="F49FF939-01A4-4C4C-97E5-1AF9C8DD62DC" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="F49FF939-01A4-4C4C-97E5-1AF9C8DD62DC" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="F49FF939-01A4-4C4C-97E5-1AF9C8DD62DC" id="FORM-F49FF939-01A4-4C4C-97E5-1AF9C8DD62DC" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F49FF939-01A4-4C4C-97E5-1AF9C8DD62DC" id="FORM-F49FF939-01A4-4C4C-97E5-1AF9C8DD62DC" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -871,7 +796,7 @@ $80$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-6">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-6">
 <div class="uuid">
 <p>51895EF4-90DD-4CC5-B028-99ED8D291204</p>
 </div>
@@ -888,7 +813,7 @@ $80$
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng3</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -985,44 +910,29 @@ Answer &#36;= 0.7&#36;
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="51895EF4-90DD-4CC5-B028-99ED8D291204" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="51895EF4-90DD-4CC5-B028-99ED8D291204" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="51895EF4-90DD-4CC5-B028-99ED8D291204" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="51895EF4-90DD-4CC5-B028-99ED8D291204" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="51895EF4-90DD-4CC5-B028-99ED8D291204" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="51895EF4-90DD-4CC5-B028-99ED8D291204" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="51895EF4-90DD-4CC5-B028-99ED8D291204" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="51895EF4-90DD-4CC5-B028-99ED8D291204" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="51895EF4-90DD-4CC5-B028-99ED8D291204" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="51895EF4-90DD-4CC5-B028-99ED8D291204" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="51895EF4-90DD-4CC5-B028-99ED8D291204" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="51895EF4-90DD-4CC5-B028-99ED8D291204" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="51895EF4-90DD-4CC5-B028-99ED8D291204" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="51895EF4-90DD-4CC5-B028-99ED8D291204" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="51895EF4-90DD-4CC5-B028-99ED8D291204" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="51895EF4-90DD-4CC5-B028-99ED8D291204" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="51895EF4-90DD-4CC5-B028-99ED8D291204" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="51895EF4-90DD-4CC5-B028-99ED8D291204" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="51895EF4-90DD-4CC5-B028-99ED8D291204" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="51895EF4-90DD-4CC5-B028-99ED8D291204" id="FORM-51895EF4-90DD-4CC5-B028-99ED8D291204" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="51895EF4-90DD-4CC5-B028-99ED8D291204" id="FORM-51895EF4-90DD-4CC5-B028-99ED8D291204" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -1034,7 +944,7 @@ Answer &#36;= 0.7&#36;
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-7">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-7">
 <div class="uuid">
 <p>D4559394-AFCF-4BDC-8C79-DDD8C89D76E3</p>
 </div>
@@ -1051,7 +961,7 @@ Answer &#36;= 0.7&#36;
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng3</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -1164,44 +1074,29 @@ $\dfrac {2} {3}$
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="D4559394-AFCF-4BDC-8C79-DDD8C89D76E3" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D4559394-AFCF-4BDC-8C79-DDD8C89D76E3" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="D4559394-AFCF-4BDC-8C79-DDD8C89D76E3" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D4559394-AFCF-4BDC-8C79-DDD8C89D76E3" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="D4559394-AFCF-4BDC-8C79-DDD8C89D76E3" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D4559394-AFCF-4BDC-8C79-DDD8C89D76E3" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="D4559394-AFCF-4BDC-8C79-DDD8C89D76E3" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D4559394-AFCF-4BDC-8C79-DDD8C89D76E3" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="D4559394-AFCF-4BDC-8C79-DDD8C89D76E3" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D4559394-AFCF-4BDC-8C79-DDD8C89D76E3" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="D4559394-AFCF-4BDC-8C79-DDD8C89D76E3" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D4559394-AFCF-4BDC-8C79-DDD8C89D76E3" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="D4559394-AFCF-4BDC-8C79-DDD8C89D76E3" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="D4559394-AFCF-4BDC-8C79-DDD8C89D76E3" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="D4559394-AFCF-4BDC-8C79-DDD8C89D76E3" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="D4559394-AFCF-4BDC-8C79-DDD8C89D76E3" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="D4559394-AFCF-4BDC-8C79-DDD8C89D76E3" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="D4559394-AFCF-4BDC-8C79-DDD8C89D76E3" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="D4559394-AFCF-4BDC-8C79-DDD8C89D76E3" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="D4559394-AFCF-4BDC-8C79-DDD8C89D76E3" id="FORM-D4559394-AFCF-4BDC-8C79-DDD8C89D76E3" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D4559394-AFCF-4BDC-8C79-DDD8C89D76E3" id="FORM-D4559394-AFCF-4BDC-8C79-DDD8C89D76E3" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -1213,7 +1108,7 @@ $\dfrac {2} {3}$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-8">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-8">
 <div class="uuid">
 <p>D4DD20A6-5A96-44D2-BD6F-40B33B94EA63</p>
 </div>
@@ -1230,7 +1125,7 @@ $\dfrac {2} {3}$
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng3</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -1330,7 +1225,11 @@ $
 </div>
 <div class="paper-working-section-body">
 
-Half pint $= 284 \ \text{ml}$
+$
+\begin{aligned}
+\text{Half pint} &= 284 \ \text{ml}
+\end{aligned}
+$
 
 </div>
 </div>
@@ -1388,7 +1287,11 @@ Using ratio,
 
 &lt;WorkingSection phase="conclusion" title="Answer"&gt;
 
-Half pint &#36;= 284 \ \text{ml}&#36;
+&#36;
+\begin{aligned}
+\text{Half pint} &= 284 \ \text{ml}
+\end{aligned}
+&#36;
 
 &lt;/WorkingSection&gt;
 </code></pre>
@@ -1420,44 +1323,29 @@ Half pint &#36;= 284 \ \text{ml}&#36;
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="D4DD20A6-5A96-44D2-BD6F-40B33B94EA63" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D4DD20A6-5A96-44D2-BD6F-40B33B94EA63" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="D4DD20A6-5A96-44D2-BD6F-40B33B94EA63" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D4DD20A6-5A96-44D2-BD6F-40B33B94EA63" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="D4DD20A6-5A96-44D2-BD6F-40B33B94EA63" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D4DD20A6-5A96-44D2-BD6F-40B33B94EA63" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="D4DD20A6-5A96-44D2-BD6F-40B33B94EA63" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D4DD20A6-5A96-44D2-BD6F-40B33B94EA63" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="D4DD20A6-5A96-44D2-BD6F-40B33B94EA63" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D4DD20A6-5A96-44D2-BD6F-40B33B94EA63" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="D4DD20A6-5A96-44D2-BD6F-40B33B94EA63" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D4DD20A6-5A96-44D2-BD6F-40B33B94EA63" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="D4DD20A6-5A96-44D2-BD6F-40B33B94EA63" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="D4DD20A6-5A96-44D2-BD6F-40B33B94EA63" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="D4DD20A6-5A96-44D2-BD6F-40B33B94EA63" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="D4DD20A6-5A96-44D2-BD6F-40B33B94EA63" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="D4DD20A6-5A96-44D2-BD6F-40B33B94EA63" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="D4DD20A6-5A96-44D2-BD6F-40B33B94EA63" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="D4DD20A6-5A96-44D2-BD6F-40B33B94EA63" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="D4DD20A6-5A96-44D2-BD6F-40B33B94EA63" id="FORM-D4DD20A6-5A96-44D2-BD6F-40B33B94EA63" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D4DD20A6-5A96-44D2-BD6F-40B33B94EA63" id="FORM-D4DD20A6-5A96-44D2-BD6F-40B33B94EA63" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -1469,7 +1357,7 @@ Half pint &#36;= 284 \ \text{ml}&#36;
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-9">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-9">
 <div class="uuid">
 <p>B5BFCDCA-D197-4C79-8537-F5E6D1C97217</p>
 </div>
@@ -1486,7 +1374,7 @@ Half pint &#36;= 284 \ \text{ml}&#36;
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng3</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -1589,44 +1477,29 @@ Sum of the angles &#36;= 360 \degree&#36;
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="B5BFCDCA-D197-4C79-8537-F5E6D1C97217" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B5BFCDCA-D197-4C79-8537-F5E6D1C97217" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="B5BFCDCA-D197-4C79-8537-F5E6D1C97217" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B5BFCDCA-D197-4C79-8537-F5E6D1C97217" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="B5BFCDCA-D197-4C79-8537-F5E6D1C97217" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B5BFCDCA-D197-4C79-8537-F5E6D1C97217" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="B5BFCDCA-D197-4C79-8537-F5E6D1C97217" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B5BFCDCA-D197-4C79-8537-F5E6D1C97217" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="B5BFCDCA-D197-4C79-8537-F5E6D1C97217" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B5BFCDCA-D197-4C79-8537-F5E6D1C97217" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="B5BFCDCA-D197-4C79-8537-F5E6D1C97217" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B5BFCDCA-D197-4C79-8537-F5E6D1C97217" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="B5BFCDCA-D197-4C79-8537-F5E6D1C97217" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="B5BFCDCA-D197-4C79-8537-F5E6D1C97217" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="B5BFCDCA-D197-4C79-8537-F5E6D1C97217" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="B5BFCDCA-D197-4C79-8537-F5E6D1C97217" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="B5BFCDCA-D197-4C79-8537-F5E6D1C97217" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="B5BFCDCA-D197-4C79-8537-F5E6D1C97217" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="B5BFCDCA-D197-4C79-8537-F5E6D1C97217" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="B5BFCDCA-D197-4C79-8537-F5E6D1C97217" id="FORM-B5BFCDCA-D197-4C79-8537-F5E6D1C97217" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B5BFCDCA-D197-4C79-8537-F5E6D1C97217" id="FORM-B5BFCDCA-D197-4C79-8537-F5E6D1C97217" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -1638,7 +1511,7 @@ Sum of the angles &#36;= 360 \degree&#36;
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-10">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-10">
 <div class="uuid">
 <p>553D9630-2488-43F6-B40B-249573F31F80</p>
 </div>
@@ -1655,7 +1528,7 @@ Sum of the angles &#36;= 360 \degree&#36;
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng3</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -1789,44 +1662,29 @@ $6$
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="553D9630-2488-43F6-B40B-249573F31F80" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="553D9630-2488-43F6-B40B-249573F31F80" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="553D9630-2488-43F6-B40B-249573F31F80" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="553D9630-2488-43F6-B40B-249573F31F80" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="553D9630-2488-43F6-B40B-249573F31F80" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="553D9630-2488-43F6-B40B-249573F31F80" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="553D9630-2488-43F6-B40B-249573F31F80" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="553D9630-2488-43F6-B40B-249573F31F80" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="553D9630-2488-43F6-B40B-249573F31F80" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="553D9630-2488-43F6-B40B-249573F31F80" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="553D9630-2488-43F6-B40B-249573F31F80" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="553D9630-2488-43F6-B40B-249573F31F80" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="553D9630-2488-43F6-B40B-249573F31F80" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="553D9630-2488-43F6-B40B-249573F31F80" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="553D9630-2488-43F6-B40B-249573F31F80" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="553D9630-2488-43F6-B40B-249573F31F80" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="553D9630-2488-43F6-B40B-249573F31F80" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="553D9630-2488-43F6-B40B-249573F31F80" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="553D9630-2488-43F6-B40B-249573F31F80" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="553D9630-2488-43F6-B40B-249573F31F80" id="FORM-553D9630-2488-43F6-B40B-249573F31F80" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="553D9630-2488-43F6-B40B-249573F31F80" id="FORM-553D9630-2488-43F6-B40B-249573F31F80" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -1838,7 +1696,7 @@ $6$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-11">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-11">
 <div class="uuid">
 <p>DB2AA3B6-B6BC-4F4B-A873-F581AC27CBD1</p>
 </div>
@@ -1855,7 +1713,7 @@ $6$
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng3</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -1874,14 +1732,14 @@ math.number
 
 **Question**
 
-What is $36 \div (9 + 3)?$
+What is $36 \div (9 + 3)$?
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What is &#36;36 \div (9 + 3)?&#36;
+<pre class="language-latex"><code class="language-latex">What is &#36;36 \div (9 + 3)&#36;?
 </code></pre>
 </div>
 <div class="workings">
@@ -1975,44 +1833,29 @@ $3$
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="DB2AA3B6-B6BC-4F4B-A873-F581AC27CBD1" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="DB2AA3B6-B6BC-4F4B-A873-F581AC27CBD1" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="DB2AA3B6-B6BC-4F4B-A873-F581AC27CBD1" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="DB2AA3B6-B6BC-4F4B-A873-F581AC27CBD1" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="DB2AA3B6-B6BC-4F4B-A873-F581AC27CBD1" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="DB2AA3B6-B6BC-4F4B-A873-F581AC27CBD1" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="DB2AA3B6-B6BC-4F4B-A873-F581AC27CBD1" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="DB2AA3B6-B6BC-4F4B-A873-F581AC27CBD1" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="DB2AA3B6-B6BC-4F4B-A873-F581AC27CBD1" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="DB2AA3B6-B6BC-4F4B-A873-F581AC27CBD1" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="DB2AA3B6-B6BC-4F4B-A873-F581AC27CBD1" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="DB2AA3B6-B6BC-4F4B-A873-F581AC27CBD1" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="DB2AA3B6-B6BC-4F4B-A873-F581AC27CBD1" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="DB2AA3B6-B6BC-4F4B-A873-F581AC27CBD1" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="DB2AA3B6-B6BC-4F4B-A873-F581AC27CBD1" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="DB2AA3B6-B6BC-4F4B-A873-F581AC27CBD1" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="DB2AA3B6-B6BC-4F4B-A873-F581AC27CBD1" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="DB2AA3B6-B6BC-4F4B-A873-F581AC27CBD1" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="DB2AA3B6-B6BC-4F4B-A873-F581AC27CBD1" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="DB2AA3B6-B6BC-4F4B-A873-F581AC27CBD1" id="FORM-DB2AA3B6-B6BC-4F4B-A873-F581AC27CBD1" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="DB2AA3B6-B6BC-4F4B-A873-F581AC27CBD1" id="FORM-DB2AA3B6-B6BC-4F4B-A873-F581AC27CBD1" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -2024,7 +1867,7 @@ $3$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-12">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-12">
 <div class="uuid">
 <p>BD72F43E-8D06-4C07-B142-E87805AC1946</p>
 </div>
@@ -2041,7 +1884,7 @@ $3$
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng3</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -2217,44 +2060,29 @@ Subtract &#36;7&#36; each time.
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="BD72F43E-8D06-4C07-B142-E87805AC1946" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="BD72F43E-8D06-4C07-B142-E87805AC1946" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="BD72F43E-8D06-4C07-B142-E87805AC1946" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="BD72F43E-8D06-4C07-B142-E87805AC1946" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="BD72F43E-8D06-4C07-B142-E87805AC1946" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="BD72F43E-8D06-4C07-B142-E87805AC1946" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="BD72F43E-8D06-4C07-B142-E87805AC1946" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="BD72F43E-8D06-4C07-B142-E87805AC1946" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="BD72F43E-8D06-4C07-B142-E87805AC1946" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="BD72F43E-8D06-4C07-B142-E87805AC1946" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="BD72F43E-8D06-4C07-B142-E87805AC1946" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="BD72F43E-8D06-4C07-B142-E87805AC1946" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="BD72F43E-8D06-4C07-B142-E87805AC1946" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="BD72F43E-8D06-4C07-B142-E87805AC1946" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="BD72F43E-8D06-4C07-B142-E87805AC1946" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="BD72F43E-8D06-4C07-B142-E87805AC1946" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="BD72F43E-8D06-4C07-B142-E87805AC1946" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="BD72F43E-8D06-4C07-B142-E87805AC1946" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="BD72F43E-8D06-4C07-B142-E87805AC1946" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="BD72F43E-8D06-4C07-B142-E87805AC1946" id="FORM-BD72F43E-8D06-4C07-B142-E87805AC1946" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="BD72F43E-8D06-4C07-B142-E87805AC1946" id="FORM-BD72F43E-8D06-4C07-B142-E87805AC1946" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -2266,7 +2094,7 @@ Subtract &#36;7&#36; each time.
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-13">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-13">
 <div class="uuid">
 <p>5D0574D7-7E64-4EEA-A89A-3D7CBF4AD806</p>
 </div>
@@ -2283,7 +2111,7 @@ Subtract &#36;7&#36; each time.
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng3</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -2386,44 +2214,29 @@ $-2 \degree$
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="5D0574D7-7E64-4EEA-A89A-3D7CBF4AD806" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="5D0574D7-7E64-4EEA-A89A-3D7CBF4AD806" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="5D0574D7-7E64-4EEA-A89A-3D7CBF4AD806" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="5D0574D7-7E64-4EEA-A89A-3D7CBF4AD806" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="5D0574D7-7E64-4EEA-A89A-3D7CBF4AD806" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="5D0574D7-7E64-4EEA-A89A-3D7CBF4AD806" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="5D0574D7-7E64-4EEA-A89A-3D7CBF4AD806" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="5D0574D7-7E64-4EEA-A89A-3D7CBF4AD806" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="5D0574D7-7E64-4EEA-A89A-3D7CBF4AD806" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="5D0574D7-7E64-4EEA-A89A-3D7CBF4AD806" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="5D0574D7-7E64-4EEA-A89A-3D7CBF4AD806" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="5D0574D7-7E64-4EEA-A89A-3D7CBF4AD806" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="5D0574D7-7E64-4EEA-A89A-3D7CBF4AD806" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="5D0574D7-7E64-4EEA-A89A-3D7CBF4AD806" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="5D0574D7-7E64-4EEA-A89A-3D7CBF4AD806" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="5D0574D7-7E64-4EEA-A89A-3D7CBF4AD806" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="5D0574D7-7E64-4EEA-A89A-3D7CBF4AD806" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="5D0574D7-7E64-4EEA-A89A-3D7CBF4AD806" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="5D0574D7-7E64-4EEA-A89A-3D7CBF4AD806" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="5D0574D7-7E64-4EEA-A89A-3D7CBF4AD806" id="FORM-5D0574D7-7E64-4EEA-A89A-3D7CBF4AD806" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="5D0574D7-7E64-4EEA-A89A-3D7CBF4AD806" id="FORM-5D0574D7-7E64-4EEA-A89A-3D7CBF4AD806" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -2435,7 +2248,7 @@ $-2 \degree$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-14">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-14">
 <div class="uuid">
 <p>A9449EF9-3053-4405-96FD-35534110FAFD</p>
 </div>
@@ -2452,7 +2265,7 @@ $-2 \degree$
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng3</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -2572,44 +2385,29 @@ $5$
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="A9449EF9-3053-4405-96FD-35534110FAFD" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A9449EF9-3053-4405-96FD-35534110FAFD" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="A9449EF9-3053-4405-96FD-35534110FAFD" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A9449EF9-3053-4405-96FD-35534110FAFD" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="A9449EF9-3053-4405-96FD-35534110FAFD" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A9449EF9-3053-4405-96FD-35534110FAFD" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="A9449EF9-3053-4405-96FD-35534110FAFD" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A9449EF9-3053-4405-96FD-35534110FAFD" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="A9449EF9-3053-4405-96FD-35534110FAFD" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A9449EF9-3053-4405-96FD-35534110FAFD" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="A9449EF9-3053-4405-96FD-35534110FAFD" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A9449EF9-3053-4405-96FD-35534110FAFD" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="A9449EF9-3053-4405-96FD-35534110FAFD" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="A9449EF9-3053-4405-96FD-35534110FAFD" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="A9449EF9-3053-4405-96FD-35534110FAFD" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="A9449EF9-3053-4405-96FD-35534110FAFD" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="A9449EF9-3053-4405-96FD-35534110FAFD" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="A9449EF9-3053-4405-96FD-35534110FAFD" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="A9449EF9-3053-4405-96FD-35534110FAFD" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="A9449EF9-3053-4405-96FD-35534110FAFD" id="FORM-A9449EF9-3053-4405-96FD-35534110FAFD" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="A9449EF9-3053-4405-96FD-35534110FAFD" id="FORM-A9449EF9-3053-4405-96FD-35534110FAFD" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -2621,7 +2419,7 @@ $5$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-15">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-15">
 <div class="uuid">
 <p>31A2A40E-5814-48CC-8C71-91011C0B3F1C</p>
 </div>
@@ -2638,7 +2436,7 @@ $5$
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng3</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -2747,44 +2545,29 @@ $81  \ \text{minutes}$
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="31A2A40E-5814-48CC-8C71-91011C0B3F1C" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="31A2A40E-5814-48CC-8C71-91011C0B3F1C" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="31A2A40E-5814-48CC-8C71-91011C0B3F1C" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="31A2A40E-5814-48CC-8C71-91011C0B3F1C" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="31A2A40E-5814-48CC-8C71-91011C0B3F1C" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="31A2A40E-5814-48CC-8C71-91011C0B3F1C" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="31A2A40E-5814-48CC-8C71-91011C0B3F1C" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="31A2A40E-5814-48CC-8C71-91011C0B3F1C" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="31A2A40E-5814-48CC-8C71-91011C0B3F1C" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="31A2A40E-5814-48CC-8C71-91011C0B3F1C" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="31A2A40E-5814-48CC-8C71-91011C0B3F1C" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="31A2A40E-5814-48CC-8C71-91011C0B3F1C" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="31A2A40E-5814-48CC-8C71-91011C0B3F1C" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="31A2A40E-5814-48CC-8C71-91011C0B3F1C" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="31A2A40E-5814-48CC-8C71-91011C0B3F1C" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="31A2A40E-5814-48CC-8C71-91011C0B3F1C" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="31A2A40E-5814-48CC-8C71-91011C0B3F1C" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="31A2A40E-5814-48CC-8C71-91011C0B3F1C" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="31A2A40E-5814-48CC-8C71-91011C0B3F1C" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="31A2A40E-5814-48CC-8C71-91011C0B3F1C" id="FORM-31A2A40E-5814-48CC-8C71-91011C0B3F1C" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="31A2A40E-5814-48CC-8C71-91011C0B3F1C" id="FORM-31A2A40E-5814-48CC-8C71-91011C0B3F1C" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -2796,7 +2579,7 @@ $81  \ \text{minutes}$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-16">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-16">
 <div class="uuid">
 <p>4817F67D-F1F2-40D0-8436-A069F847B9C1</p>
 </div>
@@ -2813,7 +2596,7 @@ $81  \ \text{minutes}$
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng3</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -2943,44 +2726,29 @@ $40 \ \text{miles/hour}$
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="4817F67D-F1F2-40D0-8436-A069F847B9C1" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="4817F67D-F1F2-40D0-8436-A069F847B9C1" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="4817F67D-F1F2-40D0-8436-A069F847B9C1" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="4817F67D-F1F2-40D0-8436-A069F847B9C1" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="4817F67D-F1F2-40D0-8436-A069F847B9C1" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="4817F67D-F1F2-40D0-8436-A069F847B9C1" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="4817F67D-F1F2-40D0-8436-A069F847B9C1" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="4817F67D-F1F2-40D0-8436-A069F847B9C1" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="4817F67D-F1F2-40D0-8436-A069F847B9C1" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="4817F67D-F1F2-40D0-8436-A069F847B9C1" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="4817F67D-F1F2-40D0-8436-A069F847B9C1" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="4817F67D-F1F2-40D0-8436-A069F847B9C1" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="4817F67D-F1F2-40D0-8436-A069F847B9C1" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="4817F67D-F1F2-40D0-8436-A069F847B9C1" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="4817F67D-F1F2-40D0-8436-A069F847B9C1" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="4817F67D-F1F2-40D0-8436-A069F847B9C1" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="4817F67D-F1F2-40D0-8436-A069F847B9C1" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="4817F67D-F1F2-40D0-8436-A069F847B9C1" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="4817F67D-F1F2-40D0-8436-A069F847B9C1" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="4817F67D-F1F2-40D0-8436-A069F847B9C1" id="FORM-4817F67D-F1F2-40D0-8436-A069F847B9C1" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="4817F67D-F1F2-40D0-8436-A069F847B9C1" id="FORM-4817F67D-F1F2-40D0-8436-A069F847B9C1" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -2992,7 +2760,7 @@ $40 \ \text{miles/hour}$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-17">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-17">
 <div class="uuid">
 <p>47301465-B109-45B3-8338-D619296B1CE8</p>
 </div>
@@ -3009,7 +2777,7 @@ $40 \ \text{miles/hour}$
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng3</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -3106,44 +2874,29 @@ $0.067 \quad 0.106 \quad 0.161 \quad 0.601$
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="47301465-B109-45B3-8338-D619296B1CE8" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="47301465-B109-45B3-8338-D619296B1CE8" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="47301465-B109-45B3-8338-D619296B1CE8" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="47301465-B109-45B3-8338-D619296B1CE8" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="47301465-B109-45B3-8338-D619296B1CE8" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="47301465-B109-45B3-8338-D619296B1CE8" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="47301465-B109-45B3-8338-D619296B1CE8" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="47301465-B109-45B3-8338-D619296B1CE8" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="47301465-B109-45B3-8338-D619296B1CE8" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="47301465-B109-45B3-8338-D619296B1CE8" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="47301465-B109-45B3-8338-D619296B1CE8" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="47301465-B109-45B3-8338-D619296B1CE8" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="47301465-B109-45B3-8338-D619296B1CE8" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="47301465-B109-45B3-8338-D619296B1CE8" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="47301465-B109-45B3-8338-D619296B1CE8" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="47301465-B109-45B3-8338-D619296B1CE8" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="47301465-B109-45B3-8338-D619296B1CE8" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="47301465-B109-45B3-8338-D619296B1CE8" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="47301465-B109-45B3-8338-D619296B1CE8" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="47301465-B109-45B3-8338-D619296B1CE8" id="FORM-47301465-B109-45B3-8338-D619296B1CE8" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="47301465-B109-45B3-8338-D619296B1CE8" id="FORM-47301465-B109-45B3-8338-D619296B1CE8" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -3155,7 +2908,7 @@ $0.067 \quad 0.106 \quad 0.161 \quad 0.601$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-18">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-18">
 <div class="uuid">
 <p>8CB9E9FF-C1CF-493D-808B-3F8353350421</p>
 </div>
@@ -3172,7 +2925,7 @@ $0.067 \quad 0.106 \quad 0.161 \quad 0.601$
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng3</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -3196,14 +2949,14 @@ math.number.percentage
 
 **Question**
 
-What percentage of $\pounds 5$ is $\pounds 1?$
+What percentage of $\pounds 5$ is $\pounds 1$?
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What percentage of &#36;\pounds 5&#36; is &#36;\pounds 1?&#36;
+<pre class="language-latex"><code class="language-latex">What percentage of &#36;\pounds 5&#36; is &#36;\pounds 1&#36;?
 </code></pre>
 </div>
 <div class="workings">
@@ -3286,44 +3039,29 @@ $20 \%$
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="8CB9E9FF-C1CF-493D-808B-3F8353350421" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="8CB9E9FF-C1CF-493D-808B-3F8353350421" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="8CB9E9FF-C1CF-493D-808B-3F8353350421" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="8CB9E9FF-C1CF-493D-808B-3F8353350421" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="8CB9E9FF-C1CF-493D-808B-3F8353350421" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="8CB9E9FF-C1CF-493D-808B-3F8353350421" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="8CB9E9FF-C1CF-493D-808B-3F8353350421" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="8CB9E9FF-C1CF-493D-808B-3F8353350421" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="8CB9E9FF-C1CF-493D-808B-3F8353350421" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="8CB9E9FF-C1CF-493D-808B-3F8353350421" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="8CB9E9FF-C1CF-493D-808B-3F8353350421" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="8CB9E9FF-C1CF-493D-808B-3F8353350421" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="8CB9E9FF-C1CF-493D-808B-3F8353350421" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="8CB9E9FF-C1CF-493D-808B-3F8353350421" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="8CB9E9FF-C1CF-493D-808B-3F8353350421" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="8CB9E9FF-C1CF-493D-808B-3F8353350421" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="8CB9E9FF-C1CF-493D-808B-3F8353350421" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="8CB9E9FF-C1CF-493D-808B-3F8353350421" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="8CB9E9FF-C1CF-493D-808B-3F8353350421" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="8CB9E9FF-C1CF-493D-808B-3F8353350421" id="FORM-8CB9E9FF-C1CF-493D-808B-3F8353350421" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="8CB9E9FF-C1CF-493D-808B-3F8353350421" id="FORM-8CB9E9FF-C1CF-493D-808B-3F8353350421" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -3335,7 +3073,7 @@ $20 \%$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-19">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-19">
 <div class="uuid">
 <p>60EB1E1C-83CC-49EC-8A4E-63559B476793</p>
 </div>
@@ -3352,7 +3090,7 @@ $20 \%$
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng3</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -3496,44 +3234,29 @@ $13$
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="60EB1E1C-83CC-49EC-8A4E-63559B476793" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="60EB1E1C-83CC-49EC-8A4E-63559B476793" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="60EB1E1C-83CC-49EC-8A4E-63559B476793" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="60EB1E1C-83CC-49EC-8A4E-63559B476793" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="60EB1E1C-83CC-49EC-8A4E-63559B476793" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="60EB1E1C-83CC-49EC-8A4E-63559B476793" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="60EB1E1C-83CC-49EC-8A4E-63559B476793" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="60EB1E1C-83CC-49EC-8A4E-63559B476793" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="60EB1E1C-83CC-49EC-8A4E-63559B476793" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="60EB1E1C-83CC-49EC-8A4E-63559B476793" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="60EB1E1C-83CC-49EC-8A4E-63559B476793" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="60EB1E1C-83CC-49EC-8A4E-63559B476793" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="60EB1E1C-83CC-49EC-8A4E-63559B476793" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="60EB1E1C-83CC-49EC-8A4E-63559B476793" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="60EB1E1C-83CC-49EC-8A4E-63559B476793" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="60EB1E1C-83CC-49EC-8A4E-63559B476793" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="60EB1E1C-83CC-49EC-8A4E-63559B476793" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="60EB1E1C-83CC-49EC-8A4E-63559B476793" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="60EB1E1C-83CC-49EC-8A4E-63559B476793" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="60EB1E1C-83CC-49EC-8A4E-63559B476793" id="FORM-60EB1E1C-83CC-49EC-8A4E-63559B476793" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="60EB1E1C-83CC-49EC-8A4E-63559B476793" id="FORM-60EB1E1C-83CC-49EC-8A4E-63559B476793" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -3545,7 +3268,7 @@ $13$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-20">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-20">
 <div class="uuid">
 <p>3CCF8DB4-38EC-47A3-B1E8-BAC6A3745EE8</p>
 </div>
@@ -3562,7 +3285,7 @@ $13$
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng3</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -3652,7 +3375,11 @@ $
 </div>
 <div class="paper-working-section-body">
 
-Cost $= \pounds 192$
+$
+\begin{aligned}
+\text{Cost} &= \pounds 192
+\end{aligned}
+$
 
 </div>
 </div>
@@ -3705,7 +3432,11 @@ Using ratio,
 
 &lt;WorkingSection phase="conclusion" title="Answer"&gt;
 
-Cost &#36;= \pounds 192&#36;
+&#36;
+\begin{aligned}
+\text{Cost} &= \pounds 192
+\end{aligned}
+&#36;
 
 &lt;/WorkingSection&gt;
 </code></pre>
@@ -3737,44 +3468,29 @@ Cost &#36;= \pounds 192&#36;
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="3CCF8DB4-38EC-47A3-B1E8-BAC6A3745EE8" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="3CCF8DB4-38EC-47A3-B1E8-BAC6A3745EE8" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="3CCF8DB4-38EC-47A3-B1E8-BAC6A3745EE8" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="3CCF8DB4-38EC-47A3-B1E8-BAC6A3745EE8" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="3CCF8DB4-38EC-47A3-B1E8-BAC6A3745EE8" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="3CCF8DB4-38EC-47A3-B1E8-BAC6A3745EE8" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="3CCF8DB4-38EC-47A3-B1E8-BAC6A3745EE8" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="3CCF8DB4-38EC-47A3-B1E8-BAC6A3745EE8" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="3CCF8DB4-38EC-47A3-B1E8-BAC6A3745EE8" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="3CCF8DB4-38EC-47A3-B1E8-BAC6A3745EE8" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="3CCF8DB4-38EC-47A3-B1E8-BAC6A3745EE8" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="3CCF8DB4-38EC-47A3-B1E8-BAC6A3745EE8" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="3CCF8DB4-38EC-47A3-B1E8-BAC6A3745EE8" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="3CCF8DB4-38EC-47A3-B1E8-BAC6A3745EE8" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="3CCF8DB4-38EC-47A3-B1E8-BAC6A3745EE8" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="3CCF8DB4-38EC-47A3-B1E8-BAC6A3745EE8" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="3CCF8DB4-38EC-47A3-B1E8-BAC6A3745EE8" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="3CCF8DB4-38EC-47A3-B1E8-BAC6A3745EE8" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="3CCF8DB4-38EC-47A3-B1E8-BAC6A3745EE8" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="3CCF8DB4-38EC-47A3-B1E8-BAC6A3745EE8" id="FORM-3CCF8DB4-38EC-47A3-B1E8-BAC6A3745EE8" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="3CCF8DB4-38EC-47A3-B1E8-BAC6A3745EE8" id="FORM-3CCF8DB4-38EC-47A3-B1E8-BAC6A3745EE8" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -3786,7 +3502,7 @@ Cost &#36;= \pounds 192&#36;
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-21">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-21">
 <div class="uuid">
 <p>76853B80-475C-45FC-8F30-B40957F57E47</p>
 </div>
@@ -3803,7 +3519,7 @@ Cost &#36;= \pounds 192&#36;
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng3</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -3908,44 +3624,29 @@ $0.0023$
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" id="FORM-76853B80-475C-45FC-8F30-B40957F57E47" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="76853B80-475C-45FC-8F30-B40957F57E47" id="FORM-76853B80-475C-45FC-8F30-B40957F57E47" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -3957,7 +3658,7 @@ $0.0023$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-22">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-22">
 <div class="uuid">
 <p>B0D2C24D-CECA-4883-9C19-47AB0354D274</p>
 </div>
@@ -3974,7 +3675,7 @@ $0.0023$
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng3</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -4052,7 +3753,11 @@ $
 </div>
 <div class="paper-working-section-body">
 
-Flour needed $= 225 \ \text{g}$
+$
+\begin{aligned}
+\text{Flour needed} &= 225 \ \text{g}
+\end{aligned}
+$
 
 </div>
 </div>
@@ -4072,6 +3777,11 @@ Flour needed $= 225 \ \text{g}$
 **Working**
 
 <div class="paper-working-section" data-phase="setup" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Define variables</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
 <div class="paper-working-section-body">
 
 Let the amount of flour used $= a$
@@ -4113,7 +3823,11 @@ $
 </div>
 <div class="paper-working-section-body">
 
-Flour needed $= 225 \ \text{g}$
+$
+\begin{aligned}
+\text{Flour needed} &= 225 \ \text{g}
+\end{aligned}
+$
 
 </div>
 </div>
@@ -4156,7 +3870,11 @@ Using ratio,
 
 &lt;WorkingSection phase="conclusion" title="Answer"&gt;
 
-Flour needed &#36;= 225 \ \text{g}&#36;
+&#36;
+\begin{aligned}
+\text{Flour needed} &= 225 \ \text{g}
+\end{aligned}
+&#36;
 
 &lt;/WorkingSection&gt;
 </code></pre>
@@ -4167,7 +3885,7 @@ Flour needed &#36;= 225 \ \text{g}&#36;
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="setup"&gt;
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="setup" title="Define variables"&gt;
 
 Let the amount of flour used &#36;= a&#36;
 
@@ -4194,7 +3912,11 @@ a                                               &= 225 \ \text{g}
 
 &lt;WorkingSection phase="conclusion" title="Answer"&gt;
 
-Flour needed &#36;= 225 \ \text{g}&#36;
+&#36;
+\begin{aligned}
+\text{Flour needed} &= 225 \ \text{g}
+\end{aligned}
+&#36;
 
 &lt;/WorkingSection&gt;
 </code></pre>
@@ -4226,44 +3948,29 @@ Flour needed &#36;= 225 \ \text{g}&#36;
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="B0D2C24D-CECA-4883-9C19-47AB0354D274" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B0D2C24D-CECA-4883-9C19-47AB0354D274" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="B0D2C24D-CECA-4883-9C19-47AB0354D274" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B0D2C24D-CECA-4883-9C19-47AB0354D274" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="B0D2C24D-CECA-4883-9C19-47AB0354D274" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B0D2C24D-CECA-4883-9C19-47AB0354D274" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="B0D2C24D-CECA-4883-9C19-47AB0354D274" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B0D2C24D-CECA-4883-9C19-47AB0354D274" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="B0D2C24D-CECA-4883-9C19-47AB0354D274" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B0D2C24D-CECA-4883-9C19-47AB0354D274" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="B0D2C24D-CECA-4883-9C19-47AB0354D274" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B0D2C24D-CECA-4883-9C19-47AB0354D274" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="B0D2C24D-CECA-4883-9C19-47AB0354D274" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="B0D2C24D-CECA-4883-9C19-47AB0354D274" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="B0D2C24D-CECA-4883-9C19-47AB0354D274" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="B0D2C24D-CECA-4883-9C19-47AB0354D274" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="B0D2C24D-CECA-4883-9C19-47AB0354D274" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="B0D2C24D-CECA-4883-9C19-47AB0354D274" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="B0D2C24D-CECA-4883-9C19-47AB0354D274" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="B0D2C24D-CECA-4883-9C19-47AB0354D274" id="FORM-B0D2C24D-CECA-4883-9C19-47AB0354D274" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="B0D2C24D-CECA-4883-9C19-47AB0354D274" id="FORM-B0D2C24D-CECA-4883-9C19-47AB0354D274" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -4275,7 +3982,7 @@ Flour needed &#36;= 225 \ \text{g}&#36;
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_comingsoon rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-23">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-23">
 <div class="uuid">
 <p>41E51ED4-2566-416E-9B1D-DA881001E4E3</p>
 </div>
@@ -4292,7 +3999,7 @@ Flour needed &#36;= 225 \ \text{g}&#36;
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_comingsoon</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -4427,44 +4134,29 @@ Reflected point &#36;D = (2, 4)&#36;
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="CS" data-uuid="41E51ED4-2566-416E-9B1D-DA881001E4E3" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="41E51ED4-2566-416E-9B1D-DA881001E4E3" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="CS" data-uuid="41E51ED4-2566-416E-9B1D-DA881001E4E3" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="41E51ED4-2566-416E-9B1D-DA881001E4E3" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="CS" data-uuid="41E51ED4-2566-416E-9B1D-DA881001E4E3" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="41E51ED4-2566-416E-9B1D-DA881001E4E3" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="CS" data-uuid="41E51ED4-2566-416E-9B1D-DA881001E4E3" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="41E51ED4-2566-416E-9B1D-DA881001E4E3" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="CS" data-uuid="41E51ED4-2566-416E-9B1D-DA881001E4E3" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="41E51ED4-2566-416E-9B1D-DA881001E4E3" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="CS" data-uuid="41E51ED4-2566-416E-9B1D-DA881001E4E3" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="41E51ED4-2566-416E-9B1D-DA881001E4E3" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="CS" data-uuid="41E51ED4-2566-416E-9B1D-DA881001E4E3" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="CS" data-uuid="41E51ED4-2566-416E-9B1D-DA881001E4E3" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="CS" data-uuid="41E51ED4-2566-416E-9B1D-DA881001E4E3" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="CS" data-uuid="41E51ED4-2566-416E-9B1D-DA881001E4E3" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="CS" data-uuid="41E51ED4-2566-416E-9B1D-DA881001E4E3" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="CS" data-uuid="41E51ED4-2566-416E-9B1D-DA881001E4E3" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="41E51ED4-2566-416E-9B1D-DA881001E4E3" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="CS" data-uuid="41E51ED4-2566-416E-9B1D-DA881001E4E3" id="FORM-41E51ED4-2566-416E-9B1D-DA881001E4E3" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="41E51ED4-2566-416E-9B1D-DA881001E4E3" id="FORM-41E51ED4-2566-416E-9B1D-DA881001E4E3" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -4476,7 +4168,7 @@ Reflected point &#36;D = (2, 4)&#36;
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-24">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-24">
 <div class="uuid">
 <p>CABD97FF-A137-4136-B3F8-465E5FFFF48B</p>
 </div>
@@ -4493,7 +4185,7 @@ Reflected point &#36;D = (2, 4)&#36;
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng3</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -4640,44 +4332,29 @@ If &#36;\dfrac {3} {4}&#36; of the pencils are taken out, then the pencils left 
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="CABD97FF-A137-4136-B3F8-465E5FFFF48B" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="CABD97FF-A137-4136-B3F8-465E5FFFF48B" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="CABD97FF-A137-4136-B3F8-465E5FFFF48B" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="CABD97FF-A137-4136-B3F8-465E5FFFF48B" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="CABD97FF-A137-4136-B3F8-465E5FFFF48B" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="CABD97FF-A137-4136-B3F8-465E5FFFF48B" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="CABD97FF-A137-4136-B3F8-465E5FFFF48B" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="CABD97FF-A137-4136-B3F8-465E5FFFF48B" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="CABD97FF-A137-4136-B3F8-465E5FFFF48B" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="CABD97FF-A137-4136-B3F8-465E5FFFF48B" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="CABD97FF-A137-4136-B3F8-465E5FFFF48B" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="CABD97FF-A137-4136-B3F8-465E5FFFF48B" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="CABD97FF-A137-4136-B3F8-465E5FFFF48B" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="CABD97FF-A137-4136-B3F8-465E5FFFF48B" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="CABD97FF-A137-4136-B3F8-465E5FFFF48B" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="CABD97FF-A137-4136-B3F8-465E5FFFF48B" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="CABD97FF-A137-4136-B3F8-465E5FFFF48B" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="CABD97FF-A137-4136-B3F8-465E5FFFF48B" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="CABD97FF-A137-4136-B3F8-465E5FFFF48B" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="CABD97FF-A137-4136-B3F8-465E5FFFF48B" id="FORM-CABD97FF-A137-4136-B3F8-465E5FFFF48B" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="CABD97FF-A137-4136-B3F8-465E5FFFF48B" id="FORM-CABD97FF-A137-4136-B3F8-465E5FFFF48B" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -4689,7 +4366,7 @@ If &#36;\dfrac {3} {4}&#36; of the pencils are taken out, then the pencils left 
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-25">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-25">
 <div class="uuid">
 <p>7CFA18A8-41D9-48D0-8E45-D13601860CE5</p>
 </div>
@@ -4706,7 +4383,7 @@ If &#36;\dfrac {3} {4}&#36; of the pencils are taken out, then the pencils left 
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng3</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -4734,11 +4411,14 @@ $2 \quad 13 \quad 17$
 
 Select one statement which is true for ALL three numbers.
 
+<!-- RTQ_PAPER_LIST_STYLE: disc -->
+
 - They are all even numbers.
 - They are all square numbers.
 - They are all odd numbers.
 - They are all prime numbers.
 - They are all divisible by $3$.
+
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -4749,11 +4429,15 @@ Select one statement which is true for ALL three numbers.
 
 Select one statement which is true for ALL three numbers.
 
+&lt;PaperList listStyleType="disc"&gt;
+
 - They are all even numbers.
 - They are all square numbers.
 - They are all odd numbers.
 - They are all prime numbers.
 - They are all divisible by &#36;3&#36;.
+
+&lt;/PaperList&gt;
 </code></pre>
 </div>
 <div class="workings">
@@ -4831,44 +4515,29 @@ D
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="7CFA18A8-41D9-48D0-8E45-D13601860CE5" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="7CFA18A8-41D9-48D0-8E45-D13601860CE5" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="7CFA18A8-41D9-48D0-8E45-D13601860CE5" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="7CFA18A8-41D9-48D0-8E45-D13601860CE5" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="7CFA18A8-41D9-48D0-8E45-D13601860CE5" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="7CFA18A8-41D9-48D0-8E45-D13601860CE5" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="7CFA18A8-41D9-48D0-8E45-D13601860CE5" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="7CFA18A8-41D9-48D0-8E45-D13601860CE5" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="7CFA18A8-41D9-48D0-8E45-D13601860CE5" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="7CFA18A8-41D9-48D0-8E45-D13601860CE5" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="7CFA18A8-41D9-48D0-8E45-D13601860CE5" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="7CFA18A8-41D9-48D0-8E45-D13601860CE5" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="7CFA18A8-41D9-48D0-8E45-D13601860CE5" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="7CFA18A8-41D9-48D0-8E45-D13601860CE5" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="7CFA18A8-41D9-48D0-8E45-D13601860CE5" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="7CFA18A8-41D9-48D0-8E45-D13601860CE5" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="7CFA18A8-41D9-48D0-8E45-D13601860CE5" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="7CFA18A8-41D9-48D0-8E45-D13601860CE5" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="7CFA18A8-41D9-48D0-8E45-D13601860CE5" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="7CFA18A8-41D9-48D0-8E45-D13601860CE5" id="FORM-7CFA18A8-41D9-48D0-8E45-D13601860CE5" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="7CFA18A8-41D9-48D0-8E45-D13601860CE5" id="FORM-7CFA18A8-41D9-48D0-8E45-D13601860CE5" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -4880,7 +4549,7 @@ D
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-26">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-26">
 <div class="uuid">
 <p>05D0F503-9182-4564-B5A9-02F07594166E</p>
 </div>
@@ -4897,7 +4566,7 @@ D
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng3</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -4916,14 +4585,14 @@ math.number
 
 **Question**
 
-What is $11^2?$
+What is $11^2$?
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What is &#36;11^2?&#36;
+<pre class="language-latex"><code class="language-latex">What is &#36;11^2&#36;?
 </code></pre>
 </div>
 <div class="workings">
@@ -5002,44 +4671,29 @@ $121$
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="05D0F503-9182-4564-B5A9-02F07594166E" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="05D0F503-9182-4564-B5A9-02F07594166E" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="05D0F503-9182-4564-B5A9-02F07594166E" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="05D0F503-9182-4564-B5A9-02F07594166E" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="05D0F503-9182-4564-B5A9-02F07594166E" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="05D0F503-9182-4564-B5A9-02F07594166E" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="05D0F503-9182-4564-B5A9-02F07594166E" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="05D0F503-9182-4564-B5A9-02F07594166E" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="05D0F503-9182-4564-B5A9-02F07594166E" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="05D0F503-9182-4564-B5A9-02F07594166E" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="05D0F503-9182-4564-B5A9-02F07594166E" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="05D0F503-9182-4564-B5A9-02F07594166E" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="05D0F503-9182-4564-B5A9-02F07594166E" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="05D0F503-9182-4564-B5A9-02F07594166E" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="05D0F503-9182-4564-B5A9-02F07594166E" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="05D0F503-9182-4564-B5A9-02F07594166E" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="05D0F503-9182-4564-B5A9-02F07594166E" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="05D0F503-9182-4564-B5A9-02F07594166E" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="05D0F503-9182-4564-B5A9-02F07594166E" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="05D0F503-9182-4564-B5A9-02F07594166E" id="FORM-05D0F503-9182-4564-B5A9-02F07594166E" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="05D0F503-9182-4564-B5A9-02F07594166E" id="FORM-05D0F503-9182-4564-B5A9-02F07594166E" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -5051,7 +4705,7 @@ $121$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-27">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-27">
 <div class="uuid">
 <p>6C18DFA0-8423-43ED-9915-3051E3628B08</p>
 </div>
@@ -5068,7 +4722,7 @@ $121$
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng3</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -5188,44 +4842,29 @@ $54 \ \text{cm}^3 $
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="6C18DFA0-8423-43ED-9915-3051E3628B08" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="6C18DFA0-8423-43ED-9915-3051E3628B08" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="6C18DFA0-8423-43ED-9915-3051E3628B08" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="6C18DFA0-8423-43ED-9915-3051E3628B08" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="6C18DFA0-8423-43ED-9915-3051E3628B08" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="6C18DFA0-8423-43ED-9915-3051E3628B08" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="6C18DFA0-8423-43ED-9915-3051E3628B08" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="6C18DFA0-8423-43ED-9915-3051E3628B08" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="6C18DFA0-8423-43ED-9915-3051E3628B08" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="6C18DFA0-8423-43ED-9915-3051E3628B08" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="6C18DFA0-8423-43ED-9915-3051E3628B08" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="6C18DFA0-8423-43ED-9915-3051E3628B08" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="6C18DFA0-8423-43ED-9915-3051E3628B08" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="6C18DFA0-8423-43ED-9915-3051E3628B08" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="6C18DFA0-8423-43ED-9915-3051E3628B08" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="6C18DFA0-8423-43ED-9915-3051E3628B08" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="6C18DFA0-8423-43ED-9915-3051E3628B08" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="6C18DFA0-8423-43ED-9915-3051E3628B08" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="6C18DFA0-8423-43ED-9915-3051E3628B08" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="6C18DFA0-8423-43ED-9915-3051E3628B08" id="FORM-6C18DFA0-8423-43ED-9915-3051E3628B08" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="6C18DFA0-8423-43ED-9915-3051E3628B08" id="FORM-6C18DFA0-8423-43ED-9915-3051E3628B08" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -5237,7 +4876,7 @@ $54 \ \text{cm}^3 $
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-28">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-28">
 <div class="uuid">
 <p>F5D2AE7A-59C4-4E09-B6F7-E6607E8C22EE</p>
 </div>
@@ -5254,7 +4893,7 @@ $54 \ \text{cm}^3 $
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng3</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -5320,7 +4959,7 @@ Preferred order:
 </div>
 <div class="paper-working-section-body">
 
-ABBR: Compare the values as fractions.
+ABBR: Convert all the values to fractions so they can be compared.
 
 
 $
@@ -5433,44 +5072,29 @@ rtq_abbr_working_note_md_torder_ascending
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="F5D2AE7A-59C4-4E09-B6F7-E6607E8C22EE" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F5D2AE7A-59C4-4E09-B6F7-E6607E8C22EE" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="F5D2AE7A-59C4-4E09-B6F7-E6607E8C22EE" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F5D2AE7A-59C4-4E09-B6F7-E6607E8C22EE" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="F5D2AE7A-59C4-4E09-B6F7-E6607E8C22EE" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F5D2AE7A-59C4-4E09-B6F7-E6607E8C22EE" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="F5D2AE7A-59C4-4E09-B6F7-E6607E8C22EE" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F5D2AE7A-59C4-4E09-B6F7-E6607E8C22EE" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="F5D2AE7A-59C4-4E09-B6F7-E6607E8C22EE" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F5D2AE7A-59C4-4E09-B6F7-E6607E8C22EE" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="F5D2AE7A-59C4-4E09-B6F7-E6607E8C22EE" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F5D2AE7A-59C4-4E09-B6F7-E6607E8C22EE" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="F5D2AE7A-59C4-4E09-B6F7-E6607E8C22EE" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="F5D2AE7A-59C4-4E09-B6F7-E6607E8C22EE" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="F5D2AE7A-59C4-4E09-B6F7-E6607E8C22EE" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="F5D2AE7A-59C4-4E09-B6F7-E6607E8C22EE" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="F5D2AE7A-59C4-4E09-B6F7-E6607E8C22EE" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="F5D2AE7A-59C4-4E09-B6F7-E6607E8C22EE" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="F5D2AE7A-59C4-4E09-B6F7-E6607E8C22EE" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="F5D2AE7A-59C4-4E09-B6F7-E6607E8C22EE" id="FORM-F5D2AE7A-59C4-4E09-B6F7-E6607E8C22EE" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F5D2AE7A-59C4-4E09-B6F7-E6607E8C22EE" id="FORM-F5D2AE7A-59C4-4E09-B6F7-E6607E8C22EE" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -5554,6 +5178,7 @@ ABBR: Remember to line up the decimal points.
 **Working**
 
 $
+\rtqMathsColumnarArithmeticStyle
 \begin{array}{cccccccccccccc}
       &   & \rtqMathsAddCarryOver {1} &   &   \\
         &   4 \ .   &   6   &   7   &   9 \\
@@ -5587,6 +5212,7 @@ $6.829$
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
 <pre class="language-latex"><code class="language-latex">&#36;
+\rtqMathsColumnarArithmeticStyle
 \begin{array}{cccccccccccccc}
       &   & \rtqMathsAddCarryOver {1} &   &   \\
         &   4 \ .   &   6   &   7   &   9 \\
@@ -5627,25 +5253,10 @@ $6.829$
 <button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="8E6C9658-1FC1-4EAF-A90B-4BB9DCF42DB2" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="8E6C9658-1FC1-4EAF-A90B-4BB9DCF42DB2" onclick="submitReview(event)">PRPCC</button>
-</li>
-<li class="review">
 <button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="8E6C9658-1FC1-4EAF-A90B-4BB9DCF42DB2" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="8E6C9658-1FC1-4EAF-A90B-4BB9DCF42DB2" onclick="submitReview(event)">PRG2</button>
-</li>
-<li class="review">
 <button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="8E6C9658-1FC1-4EAF-A90B-4BB9DCF42DB2" onclick="submitReview(event)">PRCR</button>
-</li>
-<li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="8E6C9658-1FC1-4EAF-A90B-4BB9DCF42DB2" onclick="submitReview(event)">PRPCR</button>
-</li>
-<li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="8E6C9658-1FC1-4EAF-A90B-4BB9DCF42DB2" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="8E6C9658-1FC1-4EAF-A90B-4BB9DCF42DB2" onclick="submitReview(event)">PRR</button>
 </li>
 <li class="review">
 <button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="8E6C9658-1FC1-4EAF-A90B-4BB9DCF42DB2" onclick="submitReview(event)">PRBD</button>
@@ -5654,10 +5265,10 @@ $6.829$
 <button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="8E6C9658-1FC1-4EAF-A90B-4BB9DCF42DB2" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="8E6C9658-1FC1-4EAF-A90B-4BB9DCF42DB2" onclick="submitReview(event)">PRCT</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="8E6C9658-1FC1-4EAF-A90B-4BB9DCF42DB2" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="8E6C9658-1FC1-4EAF-A90B-4BB9DCF42DB2" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="8E6C9658-1FC1-4EAF-A90B-4BB9DCF42DB2" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
@@ -5673,7 +5284,7 @@ $6.829$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_comingsoon rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-30">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-30">
 <div class="uuid">
 <p>7D642E90-EF43-4024-B81A-27437CBC3FFA</p>
 </div>
@@ -5690,7 +5301,7 @@ $6.829$
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_comingsoon</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -5893,44 +5504,29 @@ Number of numbers in the shaded region &#36;= 2&#36;
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="CS" data-uuid="7D642E90-EF43-4024-B81A-27437CBC3FFA" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="7D642E90-EF43-4024-B81A-27437CBC3FFA" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="CS" data-uuid="7D642E90-EF43-4024-B81A-27437CBC3FFA" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="7D642E90-EF43-4024-B81A-27437CBC3FFA" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="CS" data-uuid="7D642E90-EF43-4024-B81A-27437CBC3FFA" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="7D642E90-EF43-4024-B81A-27437CBC3FFA" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="CS" data-uuid="7D642E90-EF43-4024-B81A-27437CBC3FFA" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="7D642E90-EF43-4024-B81A-27437CBC3FFA" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="CS" data-uuid="7D642E90-EF43-4024-B81A-27437CBC3FFA" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="7D642E90-EF43-4024-B81A-27437CBC3FFA" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="CS" data-uuid="7D642E90-EF43-4024-B81A-27437CBC3FFA" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="7D642E90-EF43-4024-B81A-27437CBC3FFA" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="CS" data-uuid="7D642E90-EF43-4024-B81A-27437CBC3FFA" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="CS" data-uuid="7D642E90-EF43-4024-B81A-27437CBC3FFA" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="CS" data-uuid="7D642E90-EF43-4024-B81A-27437CBC3FFA" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="CS" data-uuid="7D642E90-EF43-4024-B81A-27437CBC3FFA" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="CS" data-uuid="7D642E90-EF43-4024-B81A-27437CBC3FFA" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="CS" data-uuid="7D642E90-EF43-4024-B81A-27437CBC3FFA" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="7D642E90-EF43-4024-B81A-27437CBC3FFA" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="CS" data-uuid="7D642E90-EF43-4024-B81A-27437CBC3FFA" id="FORM-7D642E90-EF43-4024-B81A-27437CBC3FFA" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="7D642E90-EF43-4024-B81A-27437CBC3FFA" id="FORM-7D642E90-EF43-4024-B81A-27437CBC3FFA" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -5942,7 +5538,7 @@ Number of numbers in the shaded region &#36;= 2&#36;
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-31">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-31">
 <div class="uuid">
 <p>D03EBFAD-8157-4FB7-85A5-50C4D4410D21</p>
 </div>
@@ -5959,7 +5555,7 @@ Number of numbers in the shaded region &#36;= 2&#36;
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng3</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -5992,7 +5588,7 @@ marker.find-midpoint
 <img src="/assets/papers/devonport-high-school-for-boys/2020/paper-1/questions/s01-q31-i00.png" alt="" data-slot="paper-image" data-asset-scope="question" data-alt-review="pending" data-kind="essential" data-display-size="sm" data-align="center" data-indent="none" class="paper-image" style="width: 100%; max-width: 16rem; margin: 1rem auto; height: auto; display: block;" />
 </div>
 
-Which arrow is pointing at $2375?$
+Which arrow is pointing at $2375$?
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -6001,7 +5597,7 @@ Which arrow is pointing at $2375?$
 </div>
 <pre class="language-latex"><code class="language-latex">&lt;PaperImage assetScope="question" kind="essential" /&gt;
 
-Which arrow is pointing at &#36;2375?&#36;
+Which arrow is pointing at &#36;2375&#36;?
 </code></pre>
 </div>
 <div class="workings">
@@ -6019,9 +5615,13 @@ Which arrow is pointing at &#36;2375?&#36;
 
 **Working**
 
+
+<!-- RTQ_PAPER_LIST_STYLE: disc -->
+
 - Arrow $D$ is halfway between $2300$ and $2500$, so it points to $2400$.
 - Arrow $B$ is halfway between $2300$ and $2400$, so it points to $2350$.
 - Arrow $C$ is halfway between $2350$ and $2400$, and so it points to $(2350 + 2400) \div 2 = 2375$.
+
 
 So the answer is $C$.
 </div>
@@ -6042,9 +5642,14 @@ $\text{C}$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">- Arrow &#36;D&#36; is halfway between &#36;2300&#36; and &#36;2500&#36;, so it points to &#36;2400&#36;.
+<pre class="language-latex"><code class="language-latex">
+&lt;PaperList listStyleType="disc"&gt;
+
+- Arrow &#36;D&#36; is halfway between &#36;2300&#36; and &#36;2500&#36;, so it points to &#36;2400&#36;.
 - Arrow &#36;B&#36; is halfway between &#36;2300&#36; and &#36;2400&#36;, so it points to &#36;2350&#36;.
 - Arrow &#36;C&#36; is halfway between &#36;2350&#36; and &#36;2400&#36;, and so it points to &#36;(2350 + 2400) \div 2 = 2375&#36;.
+
+&lt;/PaperList&gt;
 
 So the answer is &#36;C&#36;.
 </code></pre>
@@ -6076,44 +5681,29 @@ So the answer is &#36;C&#36;.
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="D03EBFAD-8157-4FB7-85A5-50C4D4410D21" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D03EBFAD-8157-4FB7-85A5-50C4D4410D21" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="D03EBFAD-8157-4FB7-85A5-50C4D4410D21" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D03EBFAD-8157-4FB7-85A5-50C4D4410D21" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="D03EBFAD-8157-4FB7-85A5-50C4D4410D21" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D03EBFAD-8157-4FB7-85A5-50C4D4410D21" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="D03EBFAD-8157-4FB7-85A5-50C4D4410D21" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D03EBFAD-8157-4FB7-85A5-50C4D4410D21" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="D03EBFAD-8157-4FB7-85A5-50C4D4410D21" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D03EBFAD-8157-4FB7-85A5-50C4D4410D21" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="D03EBFAD-8157-4FB7-85A5-50C4D4410D21" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D03EBFAD-8157-4FB7-85A5-50C4D4410D21" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="D03EBFAD-8157-4FB7-85A5-50C4D4410D21" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="D03EBFAD-8157-4FB7-85A5-50C4D4410D21" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="D03EBFAD-8157-4FB7-85A5-50C4D4410D21" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="D03EBFAD-8157-4FB7-85A5-50C4D4410D21" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="D03EBFAD-8157-4FB7-85A5-50C4D4410D21" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="D03EBFAD-8157-4FB7-85A5-50C4D4410D21" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="D03EBFAD-8157-4FB7-85A5-50C4D4410D21" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="D03EBFAD-8157-4FB7-85A5-50C4D4410D21" id="FORM-D03EBFAD-8157-4FB7-85A5-50C4D4410D21" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="D03EBFAD-8157-4FB7-85A5-50C4D4410D21" id="FORM-D03EBFAD-8157-4FB7-85A5-50C4D4410D21" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -6125,7 +5715,7 @@ So the answer is &#36;C&#36;.
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-32">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-32">
 <div class="uuid">
 <p>EF5DCF10-9858-4EE4-8CC9-C59139A05556</p>
 </div>
@@ -6142,7 +5732,7 @@ So the answer is &#36;C&#36;.
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng3</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -6245,44 +5835,29 @@ $76.60$
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="EF5DCF10-9858-4EE4-8CC9-C59139A05556" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="EF5DCF10-9858-4EE4-8CC9-C59139A05556" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="EF5DCF10-9858-4EE4-8CC9-C59139A05556" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="EF5DCF10-9858-4EE4-8CC9-C59139A05556" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="EF5DCF10-9858-4EE4-8CC9-C59139A05556" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="EF5DCF10-9858-4EE4-8CC9-C59139A05556" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="EF5DCF10-9858-4EE4-8CC9-C59139A05556" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="EF5DCF10-9858-4EE4-8CC9-C59139A05556" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="EF5DCF10-9858-4EE4-8CC9-C59139A05556" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="EF5DCF10-9858-4EE4-8CC9-C59139A05556" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="EF5DCF10-9858-4EE4-8CC9-C59139A05556" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="EF5DCF10-9858-4EE4-8CC9-C59139A05556" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="EF5DCF10-9858-4EE4-8CC9-C59139A05556" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="EF5DCF10-9858-4EE4-8CC9-C59139A05556" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="EF5DCF10-9858-4EE4-8CC9-C59139A05556" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="EF5DCF10-9858-4EE4-8CC9-C59139A05556" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="EF5DCF10-9858-4EE4-8CC9-C59139A05556" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="EF5DCF10-9858-4EE4-8CC9-C59139A05556" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="EF5DCF10-9858-4EE4-8CC9-C59139A05556" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="EF5DCF10-9858-4EE4-8CC9-C59139A05556" id="FORM-EF5DCF10-9858-4EE4-8CC9-C59139A05556" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="EF5DCF10-9858-4EE4-8CC9-C59139A05556" id="FORM-EF5DCF10-9858-4EE4-8CC9-C59139A05556" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -6294,7 +5869,7 @@ $76.60$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-33">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-33">
 <div class="uuid">
 <p>9463F300-F509-4C89-9D36-52327C3A49BA</p>
 </div>
@@ -6311,7 +5886,7 @@ $76.60$
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng3</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -6337,7 +5912,7 @@ marker.use-given-fact
 
 If $432.6 \times 7 = 3028.2$
 
-What is $43.26 \times 0.7 ?$
+What is $43.26 \times 0.7$?
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -6346,7 +5921,7 @@ What is $43.26 \times 0.7 ?$
 </div>
 <pre class="language-latex"><code class="language-latex">If &#36;432.6 \times 7 = 3028.2&#36;
 
-What is &#36;43.26 \times 0.7 ?&#36;
+What is &#36;43.26 \times 0.7&#36;?
 </code></pre>
 </div>
 <div class="workings">
@@ -6429,44 +6004,29 @@ $30.282$
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="9463F300-F509-4C89-9D36-52327C3A49BA" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9463F300-F509-4C89-9D36-52327C3A49BA" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="9463F300-F509-4C89-9D36-52327C3A49BA" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9463F300-F509-4C89-9D36-52327C3A49BA" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="9463F300-F509-4C89-9D36-52327C3A49BA" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9463F300-F509-4C89-9D36-52327C3A49BA" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="9463F300-F509-4C89-9D36-52327C3A49BA" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9463F300-F509-4C89-9D36-52327C3A49BA" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="9463F300-F509-4C89-9D36-52327C3A49BA" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9463F300-F509-4C89-9D36-52327C3A49BA" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="9463F300-F509-4C89-9D36-52327C3A49BA" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9463F300-F509-4C89-9D36-52327C3A49BA" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="9463F300-F509-4C89-9D36-52327C3A49BA" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="9463F300-F509-4C89-9D36-52327C3A49BA" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="9463F300-F509-4C89-9D36-52327C3A49BA" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="9463F300-F509-4C89-9D36-52327C3A49BA" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="9463F300-F509-4C89-9D36-52327C3A49BA" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="9463F300-F509-4C89-9D36-52327C3A49BA" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="9463F300-F509-4C89-9D36-52327C3A49BA" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="9463F300-F509-4C89-9D36-52327C3A49BA" id="FORM-9463F300-F509-4C89-9D36-52327C3A49BA" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="9463F300-F509-4C89-9D36-52327C3A49BA" id="FORM-9463F300-F509-4C89-9D36-52327C3A49BA" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -6478,7 +6038,7 @@ $30.282$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-34">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-34">
 <div class="uuid">
 <p>AE91E319-28CD-4E72-BACB-3D5D6A529FA0</p>
 </div>
@@ -6495,7 +6055,7 @@ $30.282$
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng3</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -6621,44 +6181,29 @@ $\pounds 4.54$
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="AE91E319-28CD-4E72-BACB-3D5D6A529FA0" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="AE91E319-28CD-4E72-BACB-3D5D6A529FA0" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="AE91E319-28CD-4E72-BACB-3D5D6A529FA0" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="AE91E319-28CD-4E72-BACB-3D5D6A529FA0" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="AE91E319-28CD-4E72-BACB-3D5D6A529FA0" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="AE91E319-28CD-4E72-BACB-3D5D6A529FA0" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="AE91E319-28CD-4E72-BACB-3D5D6A529FA0" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="AE91E319-28CD-4E72-BACB-3D5D6A529FA0" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="AE91E319-28CD-4E72-BACB-3D5D6A529FA0" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="AE91E319-28CD-4E72-BACB-3D5D6A529FA0" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="AE91E319-28CD-4E72-BACB-3D5D6A529FA0" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="AE91E319-28CD-4E72-BACB-3D5D6A529FA0" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="AE91E319-28CD-4E72-BACB-3D5D6A529FA0" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="AE91E319-28CD-4E72-BACB-3D5D6A529FA0" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="AE91E319-28CD-4E72-BACB-3D5D6A529FA0" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="AE91E319-28CD-4E72-BACB-3D5D6A529FA0" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="AE91E319-28CD-4E72-BACB-3D5D6A529FA0" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="AE91E319-28CD-4E72-BACB-3D5D6A529FA0" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="AE91E319-28CD-4E72-BACB-3D5D6A529FA0" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="AE91E319-28CD-4E72-BACB-3D5D6A529FA0" id="FORM-AE91E319-28CD-4E72-BACB-3D5D6A529FA0" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="AE91E319-28CD-4E72-BACB-3D5D6A529FA0" id="FORM-AE91E319-28CD-4E72-BACB-3D5D6A529FA0" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -6670,7 +6215,7 @@ $\pounds 4.54$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-35">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-35">
 <div class="uuid">
 <p>F481AB65-8DA5-410D-BAC7-FD0E1A610F97</p>
 </div>
@@ -6687,7 +6232,7 @@ $\pounds 4.54$
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng3</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -6708,7 +6253,7 @@ frame.algebra
 
 Which number should go in the box?
 
-$\boxed{\phantom{230}} - 230 = 40 \times 30$
+$\rtqMathsBoxedEmptyValueThreeDigitsWide - 230 = 40 \times 30$
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
@@ -6717,7 +6262,7 @@ $\boxed{\phantom{230}} - 230 = 40 \times 30$
 </div>
 <pre class="language-latex"><code class="language-latex">Which number should go in the box?
 
-&#36;\boxed{\phantom{230}} - 230 = 40 \times 30&#36;
+&#36;\rtqMathsBoxedEmptyValueThreeDigitsWide - 230 = 40 \times 30&#36;
 </code></pre>
 </div>
 <div class="workings">
@@ -6736,6 +6281,11 @@ $\boxed{\phantom{230}} - 230 = 40 \times 30$
 **Working**
 
 <div class="paper-working-section" data-phase="setup" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Define variables</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
 <div class="paper-working-section-body">
 
 Let the number $= a$
@@ -6774,7 +6324,11 @@ $
 </div>
 <div class="paper-working-section-body">
 
-Missing number $= 1430$
+$
+\begin{aligned}
+\text{Missing number} &= 1430
+\end{aligned}
+$
 
 </div>
 </div>
@@ -6796,7 +6350,7 @@ $1430$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="setup"&gt;
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="setup" title="Define variables"&gt;
 
 Let the number &#36;= a&#36;
 
@@ -6819,7 +6373,11 @@ a           &= 1430
 
 &lt;WorkingSection phase="conclusion" title="Answer"&gt;
 
-Missing number &#36;= 1430&#36;
+&#36;
+\begin{aligned}
+\text{Missing number} &= 1430
+\end{aligned}
+&#36;
 
 &lt;/WorkingSection&gt;
 </code></pre>
@@ -6851,44 +6409,29 @@ Missing number &#36;= 1430&#36;
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="F481AB65-8DA5-410D-BAC7-FD0E1A610F97" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F481AB65-8DA5-410D-BAC7-FD0E1A610F97" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="F481AB65-8DA5-410D-BAC7-FD0E1A610F97" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F481AB65-8DA5-410D-BAC7-FD0E1A610F97" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="F481AB65-8DA5-410D-BAC7-FD0E1A610F97" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F481AB65-8DA5-410D-BAC7-FD0E1A610F97" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="F481AB65-8DA5-410D-BAC7-FD0E1A610F97" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F481AB65-8DA5-410D-BAC7-FD0E1A610F97" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="F481AB65-8DA5-410D-BAC7-FD0E1A610F97" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F481AB65-8DA5-410D-BAC7-FD0E1A610F97" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="F481AB65-8DA5-410D-BAC7-FD0E1A610F97" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F481AB65-8DA5-410D-BAC7-FD0E1A610F97" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="F481AB65-8DA5-410D-BAC7-FD0E1A610F97" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="F481AB65-8DA5-410D-BAC7-FD0E1A610F97" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="F481AB65-8DA5-410D-BAC7-FD0E1A610F97" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="F481AB65-8DA5-410D-BAC7-FD0E1A610F97" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="F481AB65-8DA5-410D-BAC7-FD0E1A610F97" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="F481AB65-8DA5-410D-BAC7-FD0E1A610F97" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="F481AB65-8DA5-410D-BAC7-FD0E1A610F97" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="F481AB65-8DA5-410D-BAC7-FD0E1A610F97" id="FORM-F481AB65-8DA5-410D-BAC7-FD0E1A610F97" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="F481AB65-8DA5-410D-BAC7-FD0E1A610F97" id="FORM-F481AB65-8DA5-410D-BAC7-FD0E1A610F97" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -6900,7 +6443,7 @@ Missing number &#36;= 1430&#36;
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-36">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-36">
 <div class="uuid">
 <p>5DEE6856-0BE6-44D7-A8F4-E9512AAE70C4</p>
 </div>
@@ -6917,7 +6460,7 @@ Missing number &#36;= 1430&#36;
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng3</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -7055,44 +6598,29 @@ $29 \ \text{cm}^2$
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="5DEE6856-0BE6-44D7-A8F4-E9512AAE70C4" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="5DEE6856-0BE6-44D7-A8F4-E9512AAE70C4" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="5DEE6856-0BE6-44D7-A8F4-E9512AAE70C4" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="5DEE6856-0BE6-44D7-A8F4-E9512AAE70C4" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="5DEE6856-0BE6-44D7-A8F4-E9512AAE70C4" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="5DEE6856-0BE6-44D7-A8F4-E9512AAE70C4" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="5DEE6856-0BE6-44D7-A8F4-E9512AAE70C4" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="5DEE6856-0BE6-44D7-A8F4-E9512AAE70C4" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="5DEE6856-0BE6-44D7-A8F4-E9512AAE70C4" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="5DEE6856-0BE6-44D7-A8F4-E9512AAE70C4" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="5DEE6856-0BE6-44D7-A8F4-E9512AAE70C4" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="5DEE6856-0BE6-44D7-A8F4-E9512AAE70C4" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="5DEE6856-0BE6-44D7-A8F4-E9512AAE70C4" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="5DEE6856-0BE6-44D7-A8F4-E9512AAE70C4" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="5DEE6856-0BE6-44D7-A8F4-E9512AAE70C4" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="5DEE6856-0BE6-44D7-A8F4-E9512AAE70C4" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="5DEE6856-0BE6-44D7-A8F4-E9512AAE70C4" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="5DEE6856-0BE6-44D7-A8F4-E9512AAE70C4" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="5DEE6856-0BE6-44D7-A8F4-E9512AAE70C4" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="5DEE6856-0BE6-44D7-A8F4-E9512AAE70C4" id="FORM-5DEE6856-0BE6-44D7-A8F4-E9512AAE70C4" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="5DEE6856-0BE6-44D7-A8F4-E9512AAE70C4" id="FORM-5DEE6856-0BE6-44D7-A8F4-E9512AAE70C4" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -7104,7 +6632,7 @@ $29 \ \text{cm}^2$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-37">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-37">
 <div class="uuid">
 <p>19C91008-84E1-48B4-A95A-6E08266DDF33</p>
 </div>
@@ -7121,7 +6649,7 @@ $29 \ \text{cm}^2$
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng3</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -7226,44 +6754,29 @@ $1 \dfrac {9} {10}$
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="19C91008-84E1-48B4-A95A-6E08266DDF33" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="19C91008-84E1-48B4-A95A-6E08266DDF33" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="19C91008-84E1-48B4-A95A-6E08266DDF33" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="19C91008-84E1-48B4-A95A-6E08266DDF33" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="19C91008-84E1-48B4-A95A-6E08266DDF33" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="19C91008-84E1-48B4-A95A-6E08266DDF33" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="19C91008-84E1-48B4-A95A-6E08266DDF33" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="19C91008-84E1-48B4-A95A-6E08266DDF33" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="19C91008-84E1-48B4-A95A-6E08266DDF33" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="19C91008-84E1-48B4-A95A-6E08266DDF33" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="19C91008-84E1-48B4-A95A-6E08266DDF33" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="19C91008-84E1-48B4-A95A-6E08266DDF33" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="19C91008-84E1-48B4-A95A-6E08266DDF33" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="19C91008-84E1-48B4-A95A-6E08266DDF33" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="19C91008-84E1-48B4-A95A-6E08266DDF33" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="19C91008-84E1-48B4-A95A-6E08266DDF33" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="19C91008-84E1-48B4-A95A-6E08266DDF33" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="19C91008-84E1-48B4-A95A-6E08266DDF33" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="19C91008-84E1-48B4-A95A-6E08266DDF33" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="19C91008-84E1-48B4-A95A-6E08266DDF33" id="FORM-19C91008-84E1-48B4-A95A-6E08266DDF33" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="19C91008-84E1-48B4-A95A-6E08266DDF33" id="FORM-19C91008-84E1-48B4-A95A-6E08266DDF33" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -7275,7 +6788,7 @@ $1 \dfrac {9} {10}$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-38">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-38">
 <div class="uuid">
 <p>78B273A1-70B3-40B5-A9B9-E8FA95A37234</p>
 </div>
@@ -7292,7 +6805,7 @@ $1 \dfrac {9} {10}$
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng3</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -7425,44 +6938,29 @@ $80$
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="78B273A1-70B3-40B5-A9B9-E8FA95A37234" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="78B273A1-70B3-40B5-A9B9-E8FA95A37234" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="78B273A1-70B3-40B5-A9B9-E8FA95A37234" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="78B273A1-70B3-40B5-A9B9-E8FA95A37234" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="78B273A1-70B3-40B5-A9B9-E8FA95A37234" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="78B273A1-70B3-40B5-A9B9-E8FA95A37234" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="78B273A1-70B3-40B5-A9B9-E8FA95A37234" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="78B273A1-70B3-40B5-A9B9-E8FA95A37234" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="78B273A1-70B3-40B5-A9B9-E8FA95A37234" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="78B273A1-70B3-40B5-A9B9-E8FA95A37234" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="78B273A1-70B3-40B5-A9B9-E8FA95A37234" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="78B273A1-70B3-40B5-A9B9-E8FA95A37234" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="78B273A1-70B3-40B5-A9B9-E8FA95A37234" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="78B273A1-70B3-40B5-A9B9-E8FA95A37234" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="78B273A1-70B3-40B5-A9B9-E8FA95A37234" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="78B273A1-70B3-40B5-A9B9-E8FA95A37234" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="78B273A1-70B3-40B5-A9B9-E8FA95A37234" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="78B273A1-70B3-40B5-A9B9-E8FA95A37234" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="78B273A1-70B3-40B5-A9B9-E8FA95A37234" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="78B273A1-70B3-40B5-A9B9-E8FA95A37234" id="FORM-78B273A1-70B3-40B5-A9B9-E8FA95A37234" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="78B273A1-70B3-40B5-A9B9-E8FA95A37234" id="FORM-78B273A1-70B3-40B5-A9B9-E8FA95A37234" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -7474,7 +6972,7 @@ $80$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-39">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-39">
 <div class="uuid">
 <p>4DB301EE-FBA7-4B16-9555-D99D9D2A51DC</p>
 </div>
@@ -7491,7 +6989,7 @@ $80$
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng3</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -7626,44 +7124,29 @@ $25 \ \text{minutes}$
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="4DB301EE-FBA7-4B16-9555-D99D9D2A51DC" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="4DB301EE-FBA7-4B16-9555-D99D9D2A51DC" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="4DB301EE-FBA7-4B16-9555-D99D9D2A51DC" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="4DB301EE-FBA7-4B16-9555-D99D9D2A51DC" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="4DB301EE-FBA7-4B16-9555-D99D9D2A51DC" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="4DB301EE-FBA7-4B16-9555-D99D9D2A51DC" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="4DB301EE-FBA7-4B16-9555-D99D9D2A51DC" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="4DB301EE-FBA7-4B16-9555-D99D9D2A51DC" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="4DB301EE-FBA7-4B16-9555-D99D9D2A51DC" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="4DB301EE-FBA7-4B16-9555-D99D9D2A51DC" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="4DB301EE-FBA7-4B16-9555-D99D9D2A51DC" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="4DB301EE-FBA7-4B16-9555-D99D9D2A51DC" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="4DB301EE-FBA7-4B16-9555-D99D9D2A51DC" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="4DB301EE-FBA7-4B16-9555-D99D9D2A51DC" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="4DB301EE-FBA7-4B16-9555-D99D9D2A51DC" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="4DB301EE-FBA7-4B16-9555-D99D9D2A51DC" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="4DB301EE-FBA7-4B16-9555-D99D9D2A51DC" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="4DB301EE-FBA7-4B16-9555-D99D9D2A51DC" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="4DB301EE-FBA7-4B16-9555-D99D9D2A51DC" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="4DB301EE-FBA7-4B16-9555-D99D9D2A51DC" id="FORM-4DB301EE-FBA7-4B16-9555-D99D9D2A51DC" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="4DB301EE-FBA7-4B16-9555-D99D9D2A51DC" id="FORM-4DB301EE-FBA7-4B16-9555-D99D9D2A51DC" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -7675,7 +7158,7 @@ $25 \ \text{minutes}$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-40">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-40">
 <div class="uuid">
 <p>531E3BC7-C9D8-4A66-AD98-C9130D5EE75C</p>
 </div>
@@ -7692,7 +7175,7 @@ $25 \ \text{minutes}$
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng3</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -7716,14 +7199,14 @@ math.number.percentage
 
 **Question**
 
-What is $15 \%$ of $\pounds 120?$
+What is $15 \%$ of $\pounds 120$?
 
 </div>
 <div class="questioncodeblock" style="margin: 1rem 0; padding: 0.85rem 1rem; border: 1px solid #9ea7b3; border-radius: 6px;">
 <div class="questioncodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Question Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">What is &#36;15 \%&#36; of &#36;\pounds 120?&#36;
+<pre class="language-latex"><code class="language-latex">What is &#36;15 \%&#36; of &#36;\pounds 120&#36;?
 </code></pre>
 </div>
 <div class="workings">
@@ -7810,44 +7293,29 @@ $\pounds 18$
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="531E3BC7-C9D8-4A66-AD98-C9130D5EE75C" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="531E3BC7-C9D8-4A66-AD98-C9130D5EE75C" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="531E3BC7-C9D8-4A66-AD98-C9130D5EE75C" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="531E3BC7-C9D8-4A66-AD98-C9130D5EE75C" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="531E3BC7-C9D8-4A66-AD98-C9130D5EE75C" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="531E3BC7-C9D8-4A66-AD98-C9130D5EE75C" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="531E3BC7-C9D8-4A66-AD98-C9130D5EE75C" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="531E3BC7-C9D8-4A66-AD98-C9130D5EE75C" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="531E3BC7-C9D8-4A66-AD98-C9130D5EE75C" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="531E3BC7-C9D8-4A66-AD98-C9130D5EE75C" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="531E3BC7-C9D8-4A66-AD98-C9130D5EE75C" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="531E3BC7-C9D8-4A66-AD98-C9130D5EE75C" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="531E3BC7-C9D8-4A66-AD98-C9130D5EE75C" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="531E3BC7-C9D8-4A66-AD98-C9130D5EE75C" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="531E3BC7-C9D8-4A66-AD98-C9130D5EE75C" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="531E3BC7-C9D8-4A66-AD98-C9130D5EE75C" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="531E3BC7-C9D8-4A66-AD98-C9130D5EE75C" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="531E3BC7-C9D8-4A66-AD98-C9130D5EE75C" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="531E3BC7-C9D8-4A66-AD98-C9130D5EE75C" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="531E3BC7-C9D8-4A66-AD98-C9130D5EE75C" id="FORM-531E3BC7-C9D8-4A66-AD98-C9130D5EE75C" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="531E3BC7-C9D8-4A66-AD98-C9130D5EE75C" id="FORM-531E3BC7-C9D8-4A66-AD98-C9130D5EE75C" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -7859,7 +7327,7 @@ $\pounds 18$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-41">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-41">
 <div class="uuid">
 <p>47B6EE64-52E6-4D80-A31E-F138941E6897</p>
 </div>
@@ -7876,7 +7344,7 @@ $\pounds 18$
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng3</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -8062,44 +7530,29 @@ So for the &#36;40^\text{th}&#36; number, add &#36;3&#36; a total of &#36;40 - 1
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="47B6EE64-52E6-4D80-A31E-F138941E6897" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="47B6EE64-52E6-4D80-A31E-F138941E6897" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="47B6EE64-52E6-4D80-A31E-F138941E6897" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="47B6EE64-52E6-4D80-A31E-F138941E6897" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="47B6EE64-52E6-4D80-A31E-F138941E6897" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="47B6EE64-52E6-4D80-A31E-F138941E6897" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="47B6EE64-52E6-4D80-A31E-F138941E6897" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="47B6EE64-52E6-4D80-A31E-F138941E6897" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="47B6EE64-52E6-4D80-A31E-F138941E6897" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="47B6EE64-52E6-4D80-A31E-F138941E6897" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="47B6EE64-52E6-4D80-A31E-F138941E6897" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="47B6EE64-52E6-4D80-A31E-F138941E6897" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="47B6EE64-52E6-4D80-A31E-F138941E6897" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="47B6EE64-52E6-4D80-A31E-F138941E6897" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="47B6EE64-52E6-4D80-A31E-F138941E6897" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="47B6EE64-52E6-4D80-A31E-F138941E6897" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="47B6EE64-52E6-4D80-A31E-F138941E6897" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="47B6EE64-52E6-4D80-A31E-F138941E6897" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="47B6EE64-52E6-4D80-A31E-F138941E6897" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="47B6EE64-52E6-4D80-A31E-F138941E6897" id="FORM-47B6EE64-52E6-4D80-A31E-F138941E6897" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="47B6EE64-52E6-4D80-A31E-F138941E6897" id="FORM-47B6EE64-52E6-4D80-A31E-F138941E6897" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -8111,7 +7564,7 @@ So for the &#36;40^\text{th}&#36; number, add &#36;3&#36; a total of &#36;40 - 1
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-42">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-42">
 <div class="uuid">
 <p>0D4F96D9-0F7A-42E7-A12A-FBC3567568CF</p>
 </div>
@@ -8128,7 +7581,7 @@ So for the &#36;40^\text{th}&#36; number, add &#36;3&#36; a total of &#36;40 - 1
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng3</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -8187,6 +7640,11 @@ ABBR: $\text{Volume of a cube} = (\text{Side}) ^ { 3 }$
 **Working**
 
 <div class="paper-working-section" data-phase="setup" style="margin: 1rem 0;">
+<div class="paper-working-section-header" style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+<div style="font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #5b6573;">Define variables</div>
+<div style="flex: 1; height: 1px; background: #d2d8df;"></div>
+</div>
 <div class="paper-working-section-body">
 
 Let the original edge length $= a$
@@ -8226,7 +7684,11 @@ $
 </div>
 <div class="paper-working-section-body">
 
-New volume $= 96 \ \text{cm}^3$
+$
+\begin{aligned}
+\text{New volume} &= 96 \ \text{cm}^3
+\end{aligned}
+$
 
 </div>
 </div>
@@ -8254,7 +7716,7 @@ $96 \ \text{cm}^3$
 <div class="workingcodeblock_title">
 <strong style="display: block; margin-bottom: 0.5rem;">Working Raw</strong>
 </div>
-<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="setup"&gt;
+<pre class="language-latex"><code class="language-latex">&lt;WorkingSection phase="setup" title="Define variables"&gt;
 
 Let the original edge length &#36;= a&#36;
 
@@ -8278,7 +7740,11 @@ a^3                   &= 12 \\\\
 
 &lt;WorkingSection phase="conclusion" title="Answer"&gt;
 
-New volume &#36;= 96 \ \text{cm}^3&#36;
+&#36;
+\begin{aligned}
+\text{New volume} &= 96 \ \text{cm}^3
+\end{aligned}
+&#36;
 
 &lt;/WorkingSection&gt;
 </code></pre>
@@ -8310,44 +7776,29 @@ New volume &#36;= 96 \ \text{cm}^3&#36;
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="0D4F96D9-0F7A-42E7-A12A-FBC3567568CF" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="0D4F96D9-0F7A-42E7-A12A-FBC3567568CF" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="0D4F96D9-0F7A-42E7-A12A-FBC3567568CF" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="0D4F96D9-0F7A-42E7-A12A-FBC3567568CF" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="0D4F96D9-0F7A-42E7-A12A-FBC3567568CF" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="0D4F96D9-0F7A-42E7-A12A-FBC3567568CF" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="0D4F96D9-0F7A-42E7-A12A-FBC3567568CF" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="0D4F96D9-0F7A-42E7-A12A-FBC3567568CF" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="0D4F96D9-0F7A-42E7-A12A-FBC3567568CF" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="0D4F96D9-0F7A-42E7-A12A-FBC3567568CF" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="0D4F96D9-0F7A-42E7-A12A-FBC3567568CF" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="0D4F96D9-0F7A-42E7-A12A-FBC3567568CF" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="0D4F96D9-0F7A-42E7-A12A-FBC3567568CF" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="0D4F96D9-0F7A-42E7-A12A-FBC3567568CF" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="0D4F96D9-0F7A-42E7-A12A-FBC3567568CF" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="0D4F96D9-0F7A-42E7-A12A-FBC3567568CF" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="0D4F96D9-0F7A-42E7-A12A-FBC3567568CF" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="0D4F96D9-0F7A-42E7-A12A-FBC3567568CF" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="0D4F96D9-0F7A-42E7-A12A-FBC3567568CF" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="0D4F96D9-0F7A-42E7-A12A-FBC3567568CF" id="FORM-0D4F96D9-0F7A-42E7-A12A-FBC3567568CF" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="0D4F96D9-0F7A-42E7-A12A-FBC3567568CF" id="FORM-0D4F96D9-0F7A-42E7-A12A-FBC3567568CF" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -8359,7 +7810,7 @@ New volume &#36;= 96 \ \text{cm}^3&#36;
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-43">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-43">
 <div class="uuid">
 <p>8F284311-E84B-46BB-9357-8253847A7DBB</p>
 </div>
@@ -8376,7 +7827,7 @@ New volume &#36;= 96 \ \text{cm}^3&#36;
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng3</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -8506,44 +7957,29 @@ $3 a + 2 b$
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="8F284311-E84B-46BB-9357-8253847A7DBB" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="8F284311-E84B-46BB-9357-8253847A7DBB" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="8F284311-E84B-46BB-9357-8253847A7DBB" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="8F284311-E84B-46BB-9357-8253847A7DBB" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="8F284311-E84B-46BB-9357-8253847A7DBB" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="8F284311-E84B-46BB-9357-8253847A7DBB" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="8F284311-E84B-46BB-9357-8253847A7DBB" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="8F284311-E84B-46BB-9357-8253847A7DBB" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="8F284311-E84B-46BB-9357-8253847A7DBB" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="8F284311-E84B-46BB-9357-8253847A7DBB" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="8F284311-E84B-46BB-9357-8253847A7DBB" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="8F284311-E84B-46BB-9357-8253847A7DBB" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="8F284311-E84B-46BB-9357-8253847A7DBB" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="8F284311-E84B-46BB-9357-8253847A7DBB" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="8F284311-E84B-46BB-9357-8253847A7DBB" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="8F284311-E84B-46BB-9357-8253847A7DBB" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="8F284311-E84B-46BB-9357-8253847A7DBB" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="8F284311-E84B-46BB-9357-8253847A7DBB" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="8F284311-E84B-46BB-9357-8253847A7DBB" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="8F284311-E84B-46BB-9357-8253847A7DBB" id="FORM-8F284311-E84B-46BB-9357-8253847A7DBB" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="8F284311-E84B-46BB-9357-8253847A7DBB" id="FORM-8F284311-E84B-46BB-9357-8253847A7DBB" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">
@@ -8555,7 +7991,7 @@ $3 a + 2 b$
 </div>
 </li>
 <li class="questionContainer">
-<div class="question_envelope rag_ng3 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-44">
+<div class="question_envelope rag_ng2 rag_prns question" id="question-devonport-high-school-for-boys-11-plus-maths-2020-paper-1-1-44">
 <div class="uuid">
 <p>46D8EC39-6DB3-4670-BF10-214CD634C665</p>
 </div>
@@ -8571,7 +8007,7 @@ $3 a + 2 b$
 <p>Waffles Woof</p>
 </div>
 <div class="rag">
-<p>rag_wf_ng3</p>
+<p>rag_wf_ng2</p>
 </div>
 <div class="rag">
 <p>rag_wf_prns</p>
@@ -8685,44 +8121,29 @@ $86400 \ \text {seconds}$
 <div class="review">
 <ul class="review">
 <li class="review">
-<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="46D8EC39-6DB3-4670-BF10-214CD634C665" onclick="submitReview(event)">PRCC</button>
+<button class="review rag_prcc" data-rag="PRCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="46D8EC39-6DB3-4670-BF10-214CD634C665" onclick="submitReview(event)">PRCC</button>
 </li>
 <li class="review">
-<button class="review rag_prcc" data-rag="PRPCC" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="46D8EC39-6DB3-4670-BF10-214CD634C665" onclick="submitReview(event)">PRPCC</button>
+<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="46D8EC39-6DB3-4670-BF10-214CD634C665" onclick="submitReview(event)">PRG</button>
 </li>
 <li class="review">
-<button class="review rag_prg" data-rag="PRG" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="46D8EC39-6DB3-4670-BF10-214CD634C665" onclick="submitReview(event)">PRG</button>
+<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="46D8EC39-6DB3-4670-BF10-214CD634C665" onclick="submitReview(event)">PRCR</button>
 </li>
 <li class="review">
-<button class="review rag_prg2" data-rag="PRG2" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="46D8EC39-6DB3-4670-BF10-214CD634C665" onclick="submitReview(event)">PRG2</button>
+<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="46D8EC39-6DB3-4670-BF10-214CD634C665" onclick="submitReview(event)">PRBD</button>
 </li>
 <li class="review">
-<button class="review rag_prcr" data-rag="PRCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="46D8EC39-6DB3-4670-BF10-214CD634C665" onclick="submitReview(event)">PRCR</button>
+<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="46D8EC39-6DB3-4670-BF10-214CD634C665" onclick="submitReview(event)">PRCS</button>
 </li>
 <li class="review">
-<button class="review rag_prpcr" data-rag="PRPCR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="46D8EC39-6DB3-4670-BF10-214CD634C665" onclick="submitReview(event)">PRPCR</button>
+<button class="review reset_review" data-rag="" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="46D8EC39-6DB3-4670-BF10-214CD634C665" onclick="submitReview(event)">Reset</button>
 </li>
 <li class="review">
-<button class="review rag_prrl" data-rag="PRRL" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="46D8EC39-6DB3-4670-BF10-214CD634C665" onclick="submitReview(event)">PRRL</button>
-</li>
-<li class="review">
-<button class="review rag_prr" data-rag="PRR" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="46D8EC39-6DB3-4670-BF10-214CD634C665" onclick="submitReview(event)">PRR</button>
-</li>
-<li class="review">
-<button class="review rag_prbd" data-rag="PRBD" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="46D8EC39-6DB3-4670-BF10-214CD634C665" onclick="submitReview(event)">PRBD</button>
-</li>
-<li class="review">
-<button class="review rag_prcs" data-rag="PRCS" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="46D8EC39-6DB3-4670-BF10-214CD634C665" onclick="submitReview(event)">PRCS</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-rag="PRCT" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="46D8EC39-6DB3-4670-BF10-214CD634C665" onclick="submitReview(event)">PRCT</button>
-</li>
-<li class="review">
-<button class="review rag_prct" data-review-type="REVIEW_ANSWER" data-sheet="NG3" data-uuid="46D8EC39-6DB3-4670-BF10-214CD634C665" onclick="resetComment(event)">Reset Comments</button>
+<button class="review reset_comments" data-review-type="REVIEW_ANSWER" data-sheet="NG2" data-uuid="46D8EC39-6DB3-4670-BF10-214CD634C665" onclick="resetComment(event)">Reset Comments</button>
 </li>
 </ul>
 
-<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG3" data-uuid="46D8EC39-6DB3-4670-BF10-214CD634C665" id="FORM-46D8EC39-6DB3-4670-BF10-214CD634C665" onsubmit="submitComment(event)">
+<form class="review" data-review-type="REVIEW_ANSWER" data-reviewer="up" data-sheet="NG2" data-uuid="46D8EC39-6DB3-4670-BF10-214CD634C665" id="FORM-46D8EC39-6DB3-4670-BF10-214CD634C665" onsubmit="submitComment(event)">
 <textarea cols="30" name="comment" placeholder="Enter review comments ..." required rows="10"></textarea>
 <br>
 <input type="submit" value="Submit">

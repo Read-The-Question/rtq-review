@@ -30,8 +30,6 @@ const reviewerKatexMacros: Record<string, string> = {
     '\\htmlClass{rtq-maths-working-step}{\\footnotesize{#1}}',
   '\\rtqMathsSolvedOrder':
     '\\htmlClass{rtq-maths-working-step}{\\footnotesize{(#1)}}',
-  '\\rtqMathsSolvedOrderPhantom':
-    '\\phantom{\\htmlClass{rtq-maths-working-step}{\\footnotesize{(#1)}}}',
   '\\rtqMathsSubtractBorrow': '\\textstyle \\green',
 };
 

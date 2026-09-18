@@ -3,6 +3,15 @@
 Renderer-neutral Markdown compatibility shared by the maintained RTQ review
 applications. It does not import application UI or content repositories.
 
+## PaperAuthorNote
+
+`PaperAuthorNote` is a children-only, internal authoring wrapper. The shared
+transform renders it as a semantic, visibly labelled note in review surfaces
+while preserving Markdown, GFM tables and lists, KaTeX source, and supported
+paper components inside it. The wrapper accepts no attributes, must be a
+standalone non-empty block, and cannot be nested. Fenced examples remain
+literal.
+
 ## PaperList
 
 `PaperList` wraps exactly one Markdown ordered or unordered list and accepts an

@@ -1,5 +1,8 @@
 import { getRtqReviewKatexOptions } from '@rtq/review-katex-options';
-import { remarkPaperList } from '@rtq/review-paper-markdown';
+import {
+  remarkPaperAuthorNote,
+  remarkPaperList,
+} from '@rtq/review-paper-markdown';
 import rehypeKatex from 'rehype-katex';
 import rehypeRaw from 'rehype-raw';
 import rehypeStringify from 'rehype-stringify';
@@ -17,6 +20,7 @@ export async function renderMarkdownToHtml(
     .use(remarkParse)
     .use(remarkGfm)
     .use(remarkMath)
+    .use(remarkPaperAuthorNote)
     .use(remarkPaperList)
     .use(remarkRehype, { allowDangerousHtml: true })
     .use(rehypeRaw)

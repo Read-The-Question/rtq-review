@@ -1,6 +1,7 @@
 'use client';
 
 import {
+  remarkPaperAuthorNote,
   remarkPaperList,
   remarkPaperListMdx,
 } from '@rtq/review-paper-markdown';
@@ -29,6 +30,7 @@ export function RtqMarkdown({ markdown }: RtqMarkdownProps) {
           remarkGfm,
           remarkMath,
           remarkPaperListMdx,
+          remarkPaperAuthorNote,
           remarkPaperList,
         ]}>
         {markdown}

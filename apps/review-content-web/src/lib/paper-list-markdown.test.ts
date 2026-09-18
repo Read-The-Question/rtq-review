@@ -2,6 +2,7 @@ import assert from 'node:assert/strict';
 import test from 'node:test';
 
 import {
+  remarkPaperAuthorNote,
   remarkPaperList,
   remarkPaperListMdx,
   remarkPaperSmall,
@@ -133,4 +134,28 @@ test('renders PaperSmall with inline maths through the Review Content stack', ()
   );
   assert.match(html, /class="katex"/);
   assert.doesNotMatch(html, /PaperSmall/);
+});
+
+test('renders PaperAuthorNote as labelled internal content with KaTeX', () => {
+  const html = renderToStaticMarkup(
+    createElement(
+      ReactMarkdown,
+      {
+        rehypePlugins: [[rehypeKatex, rtqKatexOptions]],
+        remarkPlugins: [
+          remarkGfm,
+          remarkMath,
+          remarkPaperListMdx,
+          remarkPaperAuthorNote,
+        ],
+      },
+      '<PaperAuthorNote>\n\nCheck **every** $x^2$ variant.\n\n</PaperAuthorNote>',
+    ),
+  );
+
+  assert.match(html, /<aside[^>]*class="paper-author-note"/);
+  assert.match(html, /Paper author note · internal only/);
+  assert.match(html, /<strong>every<\/strong>/);
+  assert.match(html, /class="katex"/);
+  assert.doesNotMatch(html, /PaperAuthorNote/);
 });

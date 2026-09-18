@@ -2,6 +2,7 @@
 
 import {
   rehypePaperTable,
+  remarkPaperAuthorNote,
   remarkPaperList,
   remarkPaperListMdx,
   remarkPaperSmall,
@@ -37,6 +38,7 @@ export function RtqMarkdown({ markdown }: { markdown: string }) {
           remarkGfm,
           remarkMath,
           remarkPaperListMdx,
+          remarkPaperAuthorNote,
           remarkPaperTable,
           remarkPaperList,
           remarkPaperSmall,

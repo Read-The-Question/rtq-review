@@ -3,6 +3,7 @@ import fs from 'node:fs/promises';
 import test from 'node:test';
 
 import {
+  remarkPaperAuthorNote,
   remarkPaperList,
   toPaperListCompatibilityMarkdown,
 } from '@rtq/review-paper-markdown';
@@ -22,7 +23,12 @@ function render(markdown: string) {
       ReactMarkdown,
       {
         rehypePlugins: [rehypeRaw],
-        remarkPlugins: [remarkGfm, remarkMath, remarkPaperList],
+        remarkPlugins: [
+          remarkGfm,
+          remarkMath,
+          remarkPaperAuthorNote,
+          remarkPaperList,
+        ],
       },
       markdown,
     ),
@@ -67,6 +73,17 @@ test('renders prepared PaperTable separators and multiline LongDivision SVG mark
   assert.match(html, /<svg aria-hidden="true" viewBox="0 0 10 10">/);
   assert.match(html, /<text x="5" y="5">8<\/text>/);
   assert.doesNotMatch(html, /RTQ_TABLE_KEEP_AFTER/);
+});
+
+test('renders PaperAuthorNote through the non-MDX Tag Web stack', () => {
+  const html = render(
+    '<PaperAuthorNote>\n\nInternal **context** with $x^2$.\n\n</PaperAuthorNote>',
+  );
+
+  assert.match(html, /<aside[^>]*class="paper-author-note"/);
+  assert.match(html, /Paper author note · internal only/);
+  assert.match(html, /<strong>context<\/strong>/);
+  assert.doesNotMatch(html, /PaperAuthorNote/);
 });
 
 test('rejects malformed wrappers without rejecting ordinary LaTeX', () => {

@@ -1,9 +1,23 @@
 const assert = require("node:assert/strict");
+const fs = require("node:fs");
 const test = require("node:test");
 
 const katex = require("katex");
 
 const gatsbyConfig = require("./gatsby-config");
+
+test("keeps PaperAuthorNote visible and explicitly internal in legacy review", () => {
+  const template = fs.readFileSync(
+    "src/pages/{MarkdownRemark.frontmatter__slug}.js",
+    "utf8",
+  );
+  const styles = fs.readFileSync("src/styles/styles.css", "utf8");
+
+  assert.match(template, /renderInternalAuthorNotes/);
+  assert.match(template, /Paper author note · internal only/);
+  assert.match(template, /<aside aria-label=/);
+  assert.match(styles, /\.paper-author-note\s*{/);
+});
 
 function getRtqKatexOptions() {
   const remark = gatsbyConfig.plugins.find(

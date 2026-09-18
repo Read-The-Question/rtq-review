@@ -3,6 +3,7 @@ import fs from 'node:fs/promises';
 import test from 'node:test';
 
 import {
+  remarkPaperAuthorNote,
   remarkPaperList,
   remarkPaperListMdx,
 } from '@rtq/review-paper-markdown';
@@ -19,7 +20,12 @@ function render(markdown: string) {
     createElement(
       ReactMarkdown,
       {
-        remarkPlugins: [remarkMath, remarkPaperListMdx, remarkPaperList],
+        remarkPlugins: [
+          remarkMath,
+          remarkPaperListMdx,
+          remarkPaperAuthorNote,
+          remarkPaperList,
+        ],
       },
       markdown,
     ),
@@ -46,6 +52,17 @@ test('falls back by semantics and rejects malformed wrappers safely', () => {
     () => validatePaperListMarkdown('<PaperList>\n\n- One'),
     /closing tag|end of file/i,
   );
+});
+
+test('renders PaperAuthorNote in an isolated question or working field', () => {
+  const html = render(
+    '<PaperAuthorNote>\n\nInternal **context** with $x^2$.\n\n</PaperAuthorNote>',
+  );
+
+  assert.match(html, /<aside[^>]*class="paper-author-note"/);
+  assert.match(html, /Paper author note · internal only/);
+  assert.match(html, /<strong>context<\/strong>/);
+  assert.doesNotMatch(html, /PaperAuthorNote/);
 });
 
 test('integrates through the viewer preparation, raw, and API error boundaries', async () => {

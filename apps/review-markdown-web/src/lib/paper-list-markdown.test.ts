@@ -45,6 +45,19 @@ test('rejects malformed compatibility metadata', async () => {
   );
 });
 
+test('renders PaperAuthorNote in generated review Markdown', async () => {
+  const html = await renderMarkdownToHtml(
+    '<PaperAuthorNote>\n\nInternal **context** with $x^2$.\n\n</PaperAuthorNote>',
+    {},
+  );
+
+  assert.match(html, /<aside[^>]*class="paper-author-note"/);
+  assert.match(html, /Paper author note · internal only/);
+  assert.match(html, /<strong>context<\/strong>/);
+  assert.match(html, /class="katex"/);
+  assert.doesNotMatch(html, /PaperAuthorNote/);
+});
+
 test('keeps semantic defaults in CSS without depth-derived marker overrides', async () => {
   const css = await fs.readFile(
     new URL('../app/globals.css', import.meta.url),

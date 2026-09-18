@@ -167,9 +167,10 @@ for `PRNS` or no exact outcome, **Approved** for `PRG`, **Reviewed (Comments)**
 for `PRCR`, **Ready For Review** for `PRCC`, **Blocked** for `PRBD`, and
 **Coming Soon** for `PRCS`. A load failure is reported as unavailable and is
 never treated as Pending. There are no synthetic or inverse filter options.
-Selections within one facet use OR; the two active outcome facets, two active
-RAG facets, and common dimensional facets combine with AND. The selections use
-the URL parameters
+Selections within one facet use OR. The two active outcome facets also form one
+OR group, so a match in either the main-content or image outcome keeps the
+question in the active review queue. The two active RAG facets and common
+dimensional facets continue to combine with AND. The selections use the URL parameters
 `question-review`, `question-image-review`, `answer-review`, and
 `answer-image-review`.
 

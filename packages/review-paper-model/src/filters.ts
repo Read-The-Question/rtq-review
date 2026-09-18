@@ -68,6 +68,23 @@ const reviewFilterSides = [
   'answer-image',
 ] as const satisfies readonly ReviewStateFilterSide[];
 
+const reviewOutcomeSidePairs = [
+  ['question', 'question-image'],
+  ['answer', 'answer-image'],
+] as const satisfies readonly (readonly [
+  ReviewOutcomeFilterSide,
+  ReviewOutcomeFilterSide,
+])[];
+
+const pairedReviewOutcomeSide: Readonly<
+  Record<ReviewOutcomeFilterSide, ReviewOutcomeFilterSide>
+> = {
+  answer: 'answer-image',
+  'answer-image': 'answer',
+  question: 'question-image',
+  'question-image': 'question',
+};
+
 function compareValues(left: string, right: string): number {
   return left.localeCompare(right, undefined, {
     numeric: true,
@@ -332,15 +349,18 @@ function treeMatchesReviewOutcomes(
   context: ReviewOutcomeFilterContext | undefined,
 ): boolean {
   if (!context) return true;
-  return reviewFilterSides.every((side) => {
-    const selected = selection[outcomeFacetParameters[side]];
-    return (
-      selected.length === 0 ||
-      reviewOutcomeMatches(
+  return reviewOutcomeSidePairs.every((sides) => {
+    const activeSides = sides.filter(
+      (side) => selection[outcomeFacetParameters[side]].length > 0,
+    );
+    if (activeSides.length === 0) return true;
+    return activeSides.some((side) => {
+      const selected = selection[outcomeFacetParameters[side]];
+      return reviewOutcomeMatches(
         reviewOutcomeValue(question, side, context),
         selected,
-      )
-    );
+      );
+    });
   });
 }
 
@@ -454,9 +474,11 @@ function reviewOutcomeFacetCount(
   context: ReviewOutcomeFilterContext,
 ): number {
   const parameter = outcomeFacetParameters[side];
+  const pairedSide = pairedReviewOutcomeSide[side];
   const candidateSelection = normalizeReviewFilterSelection({
     ...selection,
     [parameter]: [value],
+    [outcomeFacetParameters[pairedSide]]: [],
   });
   return trees.filter(
     (tree) =>

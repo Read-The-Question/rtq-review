@@ -11,6 +11,8 @@ import {
   RTQ_BOXED_VALUE_MACROS,
   RTQ_COLUMNAR_ARITHMETIC_STYLE_EXPANSION,
   RTQ_COLUMNAR_ARITHMETIC_STYLE_MACRO,
+  RTQ_COLUMNAR_DECIMAL_POINT_EXPANSION,
+  RTQ_COLUMNAR_DECIMAL_POINT_MACRO,
   RTQ_EQUATION_NUMBER_CLASS,
   RTQ_EQUATION_NUMBER_EXPANSION,
   RTQ_EQUATION_NUMBER_MACRO,
@@ -49,6 +51,9 @@ test("matches the canonical rtq-content shared macro contracts", () => {
   const columnarArithmeticStyle = contract.macros.find(
     ({ name }) => name === RTQ_COLUMNAR_ARITHMETIC_STYLE_MACRO,
   );
+  const columnarDecimalPoint = contract.macros.find(
+    ({ name }) => name === RTQ_COLUMNAR_DECIMAL_POINT_MACRO,
+  );
   const pendingSizeSwitches = Object.fromEntries(
     contract.macros
       .filter(({ name }) => name in RTQ_PENDING_SIZE_SWITCHES)
@@ -63,6 +68,10 @@ test("matches the canonical rtq-content shared macro contracts", () => {
   assert.deepEqual(columnarArithmeticStyle, {
     expansion: RTQ_COLUMNAR_ARITHMETIC_STYLE_EXPANSION,
     name: RTQ_COLUMNAR_ARITHMETIC_STYLE_MACRO,
+  });
+  assert.deepEqual(columnarDecimalPoint, {
+    expansion: RTQ_COLUMNAR_DECIMAL_POINT_EXPANSION,
+    name: RTQ_COLUMNAR_DECIMAL_POINT_MACRO,
   });
   assert.deepEqual(pendingSizeSwitches, RTQ_PENDING_SIZE_SWITCHES);
   for (const name of Object.keys(RTQ_BOXED_VALUE_MACROS)) {
@@ -139,6 +148,20 @@ test("applies columnar arithmetic spacing only when requested", () => {
   assert.match(plain, /height:2\.4em/);
   assert.doesNotMatch(plain, /height:3\.6em/);
   assert.match(columnar, /height:3\.6em/);
+});
+
+test("renders the columnar decimal point as the contracted zero-width overlap", () => {
+  const macro = katex.renderToString(
+    String.raw`\begin{array}{cc}2\rtqMathsColumnarDecimalPoint & 4\end{array}`,
+    options,
+  );
+  const direct = katex.renderToString(
+    String.raw`\begin{array}{cc}2\mathrlap{\mkern5mu .} & 4\end{array}`,
+    options,
+  );
+
+  assert.equal(macro, direct);
+  assert.match(macro, /rlap/);
 });
 
 test("renders equation numbers consistently in display and inline maths", () => {

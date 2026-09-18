@@ -66,6 +66,7 @@ const rtqKatexMacros = {
   "\\rtqMathsEquationNumber":
     "\\htmlClass{rtq-maths-equation-number}{\\footnotesize{(#1)}}",
   "\\rtqMathsColumnarArithmeticStyle": "\\def\\arraystretch{1.5}",
+  "\\rtqMathsColumnarDecimalPoint": "\\mathrlap{\\mkern5mu .}",
   "\\rtqMathsSizeSevenPendingReview": "\\large",
   "\\rtqMathsSizeEightPendingReview": "\\Large",
   "\\rtqMathsSizeNinePendingReview": "\\LARGE",

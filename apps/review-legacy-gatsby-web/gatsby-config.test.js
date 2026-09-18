@@ -32,6 +32,21 @@ test("applies columnar arithmetic spacing only when requested", () => {
   assert.match(columnar, /height:3\.6em/);
 });
 
+test("renders the columnar decimal point as the contracted zero-width overlap", () => {
+  const options = { ...getRtqKatexOptions(), throwOnError: true };
+  const macro = katex.renderToString(
+    String.raw`\begin{array}{cc}2\rtqMathsColumnarDecimalPoint & 4\end{array}`,
+    options,
+  );
+  const direct = katex.renderToString(
+    String.raw`\begin{array}{cc}2\mathrlap{\mkern5mu .} & 4\end{array}`,
+    options,
+  );
+
+  assert.equal(macro, direct);
+  assert.match(macro, /rlap/);
+});
+
 test("renders sequence steps through the semantic working-step class", () => {
   const options = { ...getRtqKatexOptions(), throwOnError: true };
   const html = katex.renderToString(
@@ -59,6 +74,7 @@ test("registers and renders the complete prefixed RTQ vocabulary", () => {
     "\\rtqMathsBoxedValueFractionPaddingEachSide",
     "\\rtqMathsBoxedValueOneDigitPaddingEachSide",
     "\\rtqMathsColumnarArithmeticStyle",
+    "\\rtqMathsColumnarDecimalPoint",
     "\\rtqMathsCorrectValue",
     "\\rtqMathsEmptyValueFourDigitsWide",
     "\\rtqMathsEmptyValueFraction",

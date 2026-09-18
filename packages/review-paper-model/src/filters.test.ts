@@ -420,9 +420,21 @@ test('cross-filters question and answer state counts and retains zero selections
 
 const outcomeContext: ReviewOutcomeFilterContext = {
   values: {
-    's0.q0': { answer: 'PRCR', question: 'PRG' },
-    's0.q1': { answer: null, question: 'PRCC' },
-    's0.q2': { answer: 'PRG', question: null },
+    's0.q0': {
+      answer: 'PRCR',
+      question: 'PRG',
+      'question-image': null,
+    },
+    's0.q1': {
+      answer: null,
+      question: 'PRCC',
+      'question-image': 'PRG',
+    },
+    's0.q2': {
+      answer: 'PRG',
+      question: null,
+      'question-image': 'PRCR',
+    },
   },
 };
 
@@ -485,6 +497,43 @@ test('maps a missing exact outcome to the canonical pending filter', () => {
       },
     ).matchingQuestionTreeIds,
     ['s0.q2'],
+  );
+});
+
+test('keeps a question when either active content or image outcome matches', () => {
+  const result = filterReviewPaper(
+    filterFixture(),
+    {
+      questionImageReview: ['PRG'],
+      questionReview: ['PRG'],
+    },
+    outcomeContext,
+  );
+
+  assert.deepEqual(result.matchingQuestionTreeIds, ['s0.q0', 's0.q1']);
+  assert.equal(
+    result.reviewOutcomeFacets
+      .find((facet) => facet.side === 'question')
+      ?.options.find((option) => option.value === 'PRG')?.count,
+    1,
+  );
+  assert.equal(
+    result.reviewOutcomeFacets
+      .find((facet) => facet.side === 'question-image')
+      ?.options.find((option) => option.value === 'PRG')?.count,
+    1,
+  );
+
+  assert.deepEqual(
+    filterReviewPaper(
+      filterFixture(),
+      {
+        questionImageReview: ['PRNS'],
+        questionReview: ['PRNS', 'PRCR'],
+      },
+      outcomeContext,
+    ).matchingQuestionTreeIds,
+    ['s0.q0', 's0.q2'],
   );
 });
 

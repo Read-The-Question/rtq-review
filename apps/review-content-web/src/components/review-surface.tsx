@@ -1676,7 +1676,8 @@ function FilterPanel({
             <div>
               <strong>{reviewContext} review lens</strong>
               <span>
-                Main content and image filters apply together to this view.
+                A match in either the main or image outcome keeps the question
+                in this view.
               </span>
             </div>
           </div>

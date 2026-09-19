@@ -1422,8 +1422,29 @@ a.paper-row:hover {
   opacity: 0.32;
 }
 
-.review-view-menu {
+.toolbar-view-controls {
+  align-items: stretch;
+  display: flex;
+  gap: 0.55rem;
   margin-left: auto;
+}
+
+.toolbar-raw-toggle {
+  background: var(--paper-bright);
+  border: 1px solid var(--rule-strong);
+  font-size: 0.875rem;
+  font-weight: 800;
+  min-height: 3rem;
+  padding: 0.55rem 0.75rem;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.toolbar-raw-toggle:hover {
+  background: var(--paper-deep);
+}
+
+.review-view-menu {
   position: relative;
 }
 

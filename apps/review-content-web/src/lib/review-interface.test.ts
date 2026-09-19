@@ -258,6 +258,20 @@ test('the sticky View popover dismisses after selection, outside click, and Esca
   assert.match(component, /review-view-menu review-popover/);
   assert.match(
     component,
+    /className="toolbar-view-controls"[\s\S]*label="Raw source"[\s\S]*<details className="review-view-menu review-popover">/,
+  );
+  const viewMenu = component.slice(
+    component.indexOf('<details className="review-view-menu review-popover">'),
+    component.indexOf(
+      '</details>',
+      component.indexOf(
+        '<details className="review-view-menu review-popover">',
+      ),
+    ),
+  );
+  assert.doesNotMatch(viewMenu, /label="Raw source"/);
+  assert.match(
+    component,
     /onChange=\{\(event\) => dismissReviewPopover\(event\.currentTarget\)\}/,
   );
   assert.match(
@@ -421,7 +435,7 @@ test('the review console follows the exact visible node with explicit side targe
     css,
     /\.review-lane--answer \.review-lane-heading > div[\s\S]*?text-align:\s*right/,
   );
-  assert.match(css, /\.review-view-menu\s*{[^}]*margin-left:\s*auto/s);
+  assert.match(css, /\.toolbar-view-controls\s*{[^}]*margin-left:\s*auto/s);
   assert.match(css, /\.keyboard-comment-backdrop\s*{[^}]*position:\s*fixed/s);
 });
 

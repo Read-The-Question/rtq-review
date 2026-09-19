@@ -1379,15 +1379,17 @@ function QuestionReviewActivity({
 
 function PreferenceToggle({
   checked,
+  className,
   label,
   onChange,
 }: {
   checked: boolean;
+  className?: string;
   label: string;
   onChange: (checked: boolean) => void;
 }) {
   return (
-    <label className="preference-toggle">
+    <label className={`preference-toggle${className ? ` ${className}` : ''}`}>
       <input
         checked={checked}
         onChange={(event) => onChange(event.target.checked)}
@@ -3197,50 +3199,53 @@ export function ReviewSurface({
               <kbd>b</kbd>
             </button>
           </div>
-          <details className="review-view-menu review-popover">
-            <summary>View</summary>
-            <div
-              onChange={(event) => dismissReviewPopover(event.currentTarget)}
-            >
-              <PreferenceToggle
-                checked={preferences.showSolutions}
-                label="Workings & answers"
-                onChange={(value) => updatePreference('showSolutions', value)}
-              />
-              <PreferenceToggle
-                checked={preferences.showTags}
-                label="Tags"
-                onChange={(value) => updatePreference('showTags', value)}
-              />
-              <PreferenceToggle
-                checked={preferences.showRaw}
-                label="Raw source"
-                onChange={(value) => updatePreference('showRaw', value)}
-              />
-              <PreferenceToggle
-                checked={preferences.showStatusBackground}
-                label="Status background"
-                onChange={(value) =>
-                  updatePreference('showStatusBackground', value)
-                }
-              />
-              <PreferenceToggle
-                checked={preferences.reviewControlMode === 'simple'}
-                label="Simple inline actions"
-                onChange={(value) =>
-                  updatePreference(
-                    'reviewControlMode',
-                    value ? 'simple' : 'advanced',
-                  )
-                }
-              />
-              <PreferenceToggle
-                checked={showPreviousFeedback}
-                label="Previous feedback"
-                onChange={setShowPreviousFeedback}
-              />
-            </div>
-          </details>
+          <div className="toolbar-view-controls">
+            <PreferenceToggle
+              checked={preferences.showRaw}
+              className="toolbar-raw-toggle"
+              label="Raw source"
+              onChange={(value) => updatePreference('showRaw', value)}
+            />
+            <details className="review-view-menu review-popover">
+              <summary>View</summary>
+              <div
+                onChange={(event) => dismissReviewPopover(event.currentTarget)}
+              >
+                <PreferenceToggle
+                  checked={preferences.showSolutions}
+                  label="Workings & answers"
+                  onChange={(value) => updatePreference('showSolutions', value)}
+                />
+                <PreferenceToggle
+                  checked={preferences.showTags}
+                  label="Tags"
+                  onChange={(value) => updatePreference('showTags', value)}
+                />
+                <PreferenceToggle
+                  checked={preferences.showStatusBackground}
+                  label="Status background"
+                  onChange={(value) =>
+                    updatePreference('showStatusBackground', value)
+                  }
+                />
+                <PreferenceToggle
+                  checked={preferences.reviewControlMode === 'simple'}
+                  label="Simple inline actions"
+                  onChange={(value) =>
+                    updatePreference(
+                      'reviewControlMode',
+                      value ? 'simple' : 'advanced',
+                    )
+                  }
+                />
+                <PreferenceToggle
+                  checked={showPreviousFeedback}
+                  label="Previous feedback"
+                  onChange={setShowPreviousFeedback}
+                />
+              </div>
+            </details>
+          </div>
           <button
             className="global-finding-button"
             disabled={!currentCursor || globalFindingPending}

@@ -19,6 +19,8 @@ import {
   RTQ_EMPTY_VALUE_MACROS,
   RTQ_PENDING_SIZE_SWITCHES,
   RTQ_QUESTION_MARK_PLACEHOLDER_MACROS,
+  RTQ_RATIO_SEPARATOR_EXPANSION,
+  RTQ_RATIO_SEPARATOR_MACRO,
   RTQ_TIME_SEPARATOR_EXPANSION,
   RTQ_TIME_SEPARATOR_MACRO,
   RTQ_TIME_MERIDIEM_MACROS,
@@ -61,6 +63,9 @@ test("matches the canonical rtq-content shared macro contracts", () => {
   const timeSeparator = contract.macros.find(
     ({ name }) => name === RTQ_TIME_SEPARATOR_MACRO,
   );
+  const ratioSeparator = contract.macros.find(
+    ({ name }) => name === RTQ_RATIO_SEPARATOR_MACRO,
+  );
   const pendingSizeSwitches = Object.fromEntries(
     contract.macros
       .filter(({ name }) => name in RTQ_PENDING_SIZE_SWITCHES)
@@ -83,6 +88,10 @@ test("matches the canonical rtq-content shared macro contracts", () => {
   assert.deepEqual(timeSeparator, {
     expansion: RTQ_TIME_SEPARATOR_EXPANSION,
     name: RTQ_TIME_SEPARATOR_MACRO,
+  });
+  assert.deepEqual(ratioSeparator, {
+    expansion: RTQ_RATIO_SEPARATOR_EXPANSION,
+    name: RTQ_RATIO_SEPARATOR_MACRO,
   });
   for (const [name, expansion] of Object.entries(RTQ_TIME_MERIDIEM_MACROS)) {
     assert.deepEqual(
@@ -142,6 +151,28 @@ test("renders clock-time separators with ordinary-atom spacing", () => {
   assert.equal(normalize(macro), normalize(direct));
   assert.doesNotMatch(macro, /mspace/);
   assert.match(raw, /mspace/);
+});
+
+test("renders ratio separators as vertically centred relations", () => {
+  const normalize = (html: string) =>
+    html.replace(/<annotation[^>]*>[\s\S]*?<\/annotation>/g, "<annotation/>");
+  const macro = katex.renderToString(
+    `4 ${RTQ_RATIO_SEPARATOR_MACRO} 5`,
+    options,
+  );
+  const direct = katex.renderToString(
+    `4 ${RTQ_RATIO_SEPARATOR_EXPANSION} 5`,
+    options,
+  );
+
+  assert.equal(normalize(macro), normalize(direct));
+  assert.match(macro, /mrel/);
+  assert.doesNotThrow(() =>
+    katex.renderToString(
+      `\\begin{array}{ccc}4 & ${RTQ_RATIO_SEPARATOR_MACRO} & 5\\end{array}`,
+      options,
+    ),
+  );
 });
 
 test("renders source-faithful and authored meridiem macros", () => {

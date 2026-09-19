@@ -70,6 +70,7 @@ const rtqKatexMacros = {
   "\\rtqMathsQuestionMarkPlaceholder": "\\mathord{?}",
   "\\rtqMathsQuestionMarkOperatorPlaceholder": "\\mathbin{?}",
   "\\rtqMathsTimeSeparator": "\\mathord{:}",
+  "\\rtqMathsRatioSeparator": "\\ratio",
   "\\rtqMathsTimeMeridiem": "\\ \\text{#1}",
   "\\rtqMathsTimeAm": "\\rtqMathsTimeMeridiem{am}",
   "\\rtqMathsTimePm": "\\rtqMathsTimeMeridiem{pm}",

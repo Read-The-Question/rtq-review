@@ -27,6 +27,10 @@ export const RTQ_TIME_SEPARATOR_MACRO = "\\rtqMathsTimeSeparator" as const;
 
 export const RTQ_TIME_SEPARATOR_EXPANSION = "\\mathord{:}" as const;
 
+export const RTQ_RATIO_SEPARATOR_MACRO = "\\rtqMathsRatioSeparator" as const;
+
+export const RTQ_RATIO_SEPARATOR_EXPANSION = "\\ratio" as const;
+
 export const RTQ_TIME_MERIDIEM_MACROS = {
   "\\rtqMathsTimeMeridiem": "\\ \\text{#1}",
   "\\rtqMathsTimeAm": "\\rtqMathsTimeMeridiem{am}",
@@ -105,6 +109,7 @@ export function getRtqReviewKatexOptions<
       [RTQ_COLUMNAR_DECIMAL_POINT_MACRO]: RTQ_COLUMNAR_DECIMAL_POINT_EXPANSION,
       ...RTQ_QUESTION_MARK_PLACEHOLDER_MACROS,
       [RTQ_TIME_SEPARATOR_MACRO]: RTQ_TIME_SEPARATOR_EXPANSION,
+      [RTQ_RATIO_SEPARATOR_MACRO]: RTQ_RATIO_SEPARATOR_EXPANSION,
       ...RTQ_TIME_MERIDIEM_MACROS,
       ...RTQ_PENDING_SIZE_SWITCHES,
       ...RTQ_BOXED_VALUE_MACROS,

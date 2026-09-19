@@ -44,9 +44,9 @@ test("matches the canonical rtq-content shared macro contracts", () => {
     resolveRtqContentRoot(),
     "packages",
     "papers",
-    "new-scripts",
-    "papers",
-    "rtq-katex-macro-contract.json",
+    "macros",
+    "katex",
+    "contract.generated.json",
   );
   const contract = JSON.parse(
     readFileSync(contractPath, "utf8"),

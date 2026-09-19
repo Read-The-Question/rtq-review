@@ -396,6 +396,14 @@ export async function listPaperSources(
   return groups.flat();
 }
 
+export async function listPaperSourcesForCollection(
+  collectionId: PaperCollectionId,
+  options: ResolveRtqContentOptions = {},
+): Promise<readonly PaperSourceSummary[]> {
+  const collection = paperCollectionForId(collectionId);
+  return listCollectionSources(collection, options);
+}
+
 export async function inspectPaperSource(
   collectionId: PaperCollectionId,
   relativePath: string,

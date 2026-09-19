@@ -32,6 +32,7 @@ export type ReviewCommentRepository = Readonly<{
   listForTargets: (
     targets: readonly ReviewTargetIdentity[],
   ) => readonly LocalReviewComment[];
+  listAll: () => readonly LocalReviewComment[];
 }>;
 
 export type ReviewCommentReader = Readonly<{
@@ -123,6 +124,26 @@ export function createReviewCommentRepository(
             cause: error,
           },
         );
+      }
+    },
+    listAll() {
+      try {
+        return db
+          .select()
+          .from(reviewComments)
+          .orderBy(
+            asc(reviewComments.uuid),
+            asc(reviewComments.side),
+            asc(reviewComments.ragState),
+            asc(reviewComments.createdAt),
+            asc(reviewComments.id),
+          )
+          .all()
+          .map(toComment);
+      } catch (error) {
+        throw new ReviewDatabaseError("Local comments could not be loaded.", {
+          cause: error,
+        });
       }
     },
     listForTargets(targets) {

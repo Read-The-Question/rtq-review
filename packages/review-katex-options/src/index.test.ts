@@ -19,6 +19,9 @@ import {
   RTQ_EMPTY_VALUE_MACROS,
   RTQ_PENDING_SIZE_SWITCHES,
   RTQ_QUESTION_MARK_PLACEHOLDER_MACROS,
+  RTQ_TIME_SEPARATOR_EXPANSION,
+  RTQ_TIME_SEPARATOR_MACRO,
+  RTQ_TIME_MERIDIEM_MACROS,
   RTQ_WORKING_STEP_CLASS,
 } from "./index.ts";
 
@@ -55,6 +58,9 @@ test("matches the canonical rtq-content shared macro contracts", () => {
   const columnarDecimalPoint = contract.macros.find(
     ({ name }) => name === RTQ_COLUMNAR_DECIMAL_POINT_MACRO,
   );
+  const timeSeparator = contract.macros.find(
+    ({ name }) => name === RTQ_TIME_SEPARATOR_MACRO,
+  );
   const pendingSizeSwitches = Object.fromEntries(
     contract.macros
       .filter(({ name }) => name in RTQ_PENDING_SIZE_SWITCHES)
@@ -74,6 +80,16 @@ test("matches the canonical rtq-content shared macro contracts", () => {
     expansion: RTQ_COLUMNAR_DECIMAL_POINT_EXPANSION,
     name: RTQ_COLUMNAR_DECIMAL_POINT_MACRO,
   });
+  assert.deepEqual(timeSeparator, {
+    expansion: RTQ_TIME_SEPARATOR_EXPANSION,
+    name: RTQ_TIME_SEPARATOR_MACRO,
+  });
+  for (const [name, expansion] of Object.entries(RTQ_TIME_MERIDIEM_MACROS)) {
+    assert.deepEqual(
+      contract.macros.find((macro) => macro.name === name),
+      { expansion, name },
+    );
+  }
   assert.deepEqual(pendingSizeSwitches, RTQ_PENDING_SIZE_SWITCHES);
   for (const name of Object.keys(RTQ_BOXED_VALUE_MACROS)) {
     assert.equal(
@@ -111,6 +127,36 @@ test("renders question-mark placeholders with their contracted math roles", () =
       normalize(katex.renderToString(expansion, options)),
     );
   }
+});
+
+test("renders clock-time separators with ordinary-atom spacing", () => {
+  const normalize = (html: string) =>
+    html.replace(/<annotation[^>]*>[\s\S]*?<\/annotation>/g, "<annotation/>");
+  const macro = katex.renderToString(`9${RTQ_TIME_SEPARATOR_MACRO}25`, options);
+  const direct = katex.renderToString(
+    `9${RTQ_TIME_SEPARATOR_EXPANSION}25`,
+    options,
+  );
+  const raw = katex.renderToString("9:25", options);
+
+  assert.equal(normalize(macro), normalize(direct));
+  assert.doesNotMatch(macro, /mspace/);
+  assert.match(raw, /mspace/);
+});
+
+test("renders source-faithful and authored meridiem macros", () => {
+  assert.doesNotThrow(() =>
+    katex.renderToString(
+      "9 \\rtqMathsTimeSeparator 25 \\rtqMathsTimeMeridiem{a.m.}",
+      options,
+    ),
+  );
+  assert.doesNotThrow(() =>
+    katex.renderToString(
+      "9 \\rtqMathsTimeSeparator 25 \\rtqMathsTimeAm\\quad 4 \\rtqMathsTimePm",
+      options,
+    ),
+  );
 });
 
 test("preserves every enlarged size through its pending-review switch", () => {

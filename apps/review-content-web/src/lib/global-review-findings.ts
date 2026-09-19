@@ -72,6 +72,16 @@ export function listTodoGlobalReviewFindings(
   }
 }
 
+export function listGlobalReviewFindings(
+  dependencies: Pick<FindingDependencies, 'repository'> = {},
+) {
+  try {
+    return findingRepository(dependencies.repository).listAll();
+  } catch (error) {
+    mapStorageError(error);
+  }
+}
+
 export function processGlobalReviewFinding(
   input: Readonly<{ id: string; processedBy: string }>,
   dependencies: Pick<FindingDependencies, 'repository'> = {},

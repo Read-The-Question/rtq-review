@@ -100,6 +100,10 @@ test("comments remain durable, chronological, idempotent, and state scoped", () 
       .map((comment) => comment.comment),
     ["Nested-node feedback."],
   );
+  assert.deepEqual(
+    store.comments.listAll().map((comment) => comment.submissionId),
+    ["submission-answer", "submission-1", "submission-2", "submission-nested"],
+  );
   store.close();
 
   const reloaded = openReviewStore({ databasePath });
@@ -264,6 +268,10 @@ test("global findings leave the todo feed when they are processed", () => {
   assert.deepEqual(
     store.findings.listTodo().map((finding) => finding.id),
     [second.finding.id],
+  );
+  assert.deepEqual(
+    store.findings.listAll().map((finding) => finding.status),
+    ["processed", "todo"],
   );
   assert.equal(
     store.findings.markProcessed({

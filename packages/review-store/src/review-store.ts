@@ -67,7 +67,7 @@ export const REVIEW_MIGRATIONS_FOLDER = path.join(
   "drizzle",
 );
 
-const REVIEW_STORE_RUNTIME_VERSION = 3;
+const REVIEW_STORE_RUNTIME_VERSION = 4;
 
 export function openReviewStore(
   options: OpenReviewStoreOptions = {},

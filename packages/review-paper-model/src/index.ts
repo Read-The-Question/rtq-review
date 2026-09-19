@@ -67,6 +67,7 @@ export type {
 export {
   inspectPaperSource,
   listPaperSources,
+  listPaperSourcesForCollection,
   readReviewPaper,
 } from './papers.ts';
 export { resolvePaperCollectionRoot, resolvePaperSourcePath } from './paths.ts';

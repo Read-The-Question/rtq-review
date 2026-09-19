@@ -70,6 +70,10 @@ test("renders question-mark placeholders with their contracted math roles", () =
   const cases = [
     ["\\rtqMathsQuestionMarkPlaceholder", "\\mathord{?}"],
     ["\\rtqMathsQuestionMarkOperatorPlaceholder", "\\mathbin{?}"],
+    ["\\rtqMathsTimeSeparator", "\\mathord{:}"],
+    ["\\rtqMathsTimeMeridiem{a.m.}", "\\ \\text{a.m.}"],
+    ["\\rtqMathsTimeAm", "\\ \\text{am}"],
+    ["\\rtqMathsTimePm", "\\ \\text{pm}"],
   ];
 
   for (const [macro, expansion] of cases) {
@@ -147,6 +151,10 @@ test("registers and renders the complete prefixed RTQ vocabulary", () => {
     "\\rtqMathsSymbolHeartsPendingReview",
     "\\rtqMathsSymbolSpadeSuitPendingReview",
     "\\rtqMathsSymbolTrianglePendingReview",
+    "\\rtqMathsTimeAm",
+    "\\rtqMathsTimeMeridiem",
+    "\\rtqMathsTimePm",
+    "\\rtqMathsTimeSeparator",
   ];
 
   assert.deepEqual(

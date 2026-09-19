@@ -39,6 +39,7 @@ export type GlobalReviewFindingRepository = Readonly<{
     input: AppendGlobalReviewFinding,
   ) => Readonly<{ created: boolean; finding: GlobalReviewFinding }>;
   listTodo: () => readonly GlobalReviewFinding[];
+  listAll: () => readonly GlobalReviewFinding[];
   markProcessed: (
     input: ProcessGlobalReviewFinding,
   ) => Readonly<{ changed: boolean; finding: GlobalReviewFinding }> | undefined;
@@ -161,6 +162,23 @@ export function createGlobalReviewFindingRepository(
             cause: error,
           },
         );
+      }
+    },
+    listAll() {
+      try {
+        return db
+          .select()
+          .from(globalReviewFindings)
+          .orderBy(
+            asc(globalReviewFindings.createdAt),
+            asc(globalReviewFindings.id),
+          )
+          .all()
+          .map(toFinding);
+      } catch (error) {
+        throw new ReviewDatabaseError("Global findings could not be loaded.", {
+          cause: error,
+        });
       }
     },
     listTodo() {

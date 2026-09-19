@@ -33,6 +33,7 @@ test('returns an appended comment immediately and maps store failures safely', a
   };
   const repository: ReviewCommentRepository = {
     append: () => ({ comment: stored, created: true }),
+    listAll: () => [],
     listForTargets: () => [],
   };
   const result = await appendVerifiedReviewComment(

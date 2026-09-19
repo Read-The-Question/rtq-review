@@ -9,6 +9,7 @@ import {
 
 import {
   appendVerifiedGlobalReviewFinding,
+  listGlobalReviewFindings,
   listTodoGlobalReviewFindings,
   processGlobalReviewFinding,
 } from './global-review-findings.ts';
@@ -38,6 +39,7 @@ function repository(
 ): GlobalReviewFindingRepository {
   return {
     append: () => ({ created: true, finding }),
+    listAll: () => [finding],
     listTodo: () => [finding],
     markProcessed: () => ({
       changed: true,
@@ -104,6 +106,9 @@ test('stores a verified global finding and exposes only the consumer operations'
     submissionId: finding.submissionId,
   });
   assert.deepEqual(listTodoGlobalReviewFindings({ repository: repository() }), [
+    finding,
+  ]);
+  assert.deepEqual(listGlobalReviewFindings({ repository: repository() }), [
     finding,
   ]);
   assert.equal(

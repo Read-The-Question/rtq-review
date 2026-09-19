@@ -23,6 +23,16 @@ export const RTQ_QUESTION_MARK_PLACEHOLDER_MACROS = {
   "\\rtqMathsQuestionMarkOperatorPlaceholder": "\\mathbin{?}",
 } as const;
 
+export const RTQ_TIME_SEPARATOR_MACRO = "\\rtqMathsTimeSeparator" as const;
+
+export const RTQ_TIME_SEPARATOR_EXPANSION = "\\mathord{:}" as const;
+
+export const RTQ_TIME_MERIDIEM_MACROS = {
+  "\\rtqMathsTimeMeridiem": "\\ \\text{#1}",
+  "\\rtqMathsTimeAm": "\\rtqMathsTimeMeridiem{am}",
+  "\\rtqMathsTimePm": "\\rtqMathsTimeMeridiem{pm}",
+} as const;
+
 export const RTQ_PENDING_SIZE_SWITCHES = {
   "\\rtqMathsSizeSevenPendingReview": "\\large",
   "\\rtqMathsSizeEightPendingReview": "\\Large",
@@ -94,6 +104,8 @@ export function getRtqReviewKatexOptions<
         RTQ_COLUMNAR_ARITHMETIC_STYLE_EXPANSION,
       [RTQ_COLUMNAR_DECIMAL_POINT_MACRO]: RTQ_COLUMNAR_DECIMAL_POINT_EXPANSION,
       ...RTQ_QUESTION_MARK_PLACEHOLDER_MACROS,
+      [RTQ_TIME_SEPARATOR_MACRO]: RTQ_TIME_SEPARATOR_EXPANSION,
+      ...RTQ_TIME_MERIDIEM_MACROS,
       ...RTQ_PENDING_SIZE_SWITCHES,
       ...RTQ_BOXED_VALUE_MACROS,
       ...RTQ_EMPTY_VALUE_MACROS,

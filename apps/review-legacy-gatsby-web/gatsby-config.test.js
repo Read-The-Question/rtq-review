@@ -102,6 +102,8 @@ test("registers and renders the complete prefixed RTQ vocabulary", () => {
     "\\rtqMathsBoxedCorrectValue",
     "\\rtqMathsBoxedCorrectValueFractionPaddingEachSide",
     "\\rtqMathsBoxedCorrectValueOneDigitPaddingEachSide",
+    "\\rtqMathsBoxedEmptyBinaryOperator",
+    "\\rtqMathsBoxedEmptyRelation",
     "\\rtqMathsBoxedEmptyValueFourDigitsWide",
     "\\rtqMathsBoxedEmptyValueFraction",
     "\\rtqMathsBoxedEmptyValueOneDigitWide",
@@ -171,7 +173,7 @@ test("registers and renders the complete prefixed RTQ vocabulary", () => {
   );
   assert.equal(options.macros["\\rtqMathsSymbolBoxDot"], "\\boxdot");
   const html = katex.renderToString(
-    String.raw`\rtqMathsBoxedEmptyValueZeroDigitsWidePendingReview\rtqMathsBoxedEmptyValueFraction\rtqMathsEmptyValueFraction\rtqMathsBoxedCorrectValue{7}\rtqMathsEquationNumber{2}`,
+    String.raw`\rtqMathsBoxedEmptyValueZeroDigitsWidePendingReview\rtqMathsBoxedEmptyValueFraction\rtqMathsBoxedEmptyBinaryOperator\rtqMathsBoxedEmptyRelation\rtqMathsEmptyValueFraction\rtqMathsBoxedCorrectValue{7}\rtqMathsEquationNumber{2}`,
     options,
   );
   assert.doesNotMatch(html, /katex-error/);

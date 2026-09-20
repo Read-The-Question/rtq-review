@@ -54,6 +54,9 @@ const rtqKatexMacros = {
   "\\rtqMathsBoxedEmptyValueFourDigitsWide": "\\boxed{\\phantom{0000}}",
   "\\rtqMathsBoxedEmptyValueFraction":
     "\\boxed{\\phantom{\\dfrac{0}{0}}}",
+  "\\rtqMathsBoxedEmptyBinaryOperator":
+    "\\mathbin{\\boxed{\\phantom{\\times}}}",
+  "\\rtqMathsBoxedEmptyRelation": "\\mathrel{\\boxed{\\phantom{=}}}",
   "\\rtqMathsEmptyValueOneDigitWide": "\\phantom{0}",
   "\\rtqMathsEmptyValueTwoDigitsWide": "\\phantom{00}",
   "\\rtqMathsEmptyValueThreeDigitsWide": "\\phantom{000}",

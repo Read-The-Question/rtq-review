@@ -63,6 +63,9 @@ export const RTQ_BOXED_VALUE_MACROS = {
   "\\rtqMathsBoxedEmptyValueThreeDigitsWide": "\\boxed{\\phantom{000}}",
   "\\rtqMathsBoxedEmptyValueFourDigitsWide": "\\boxed{\\phantom{0000}}",
   "\\rtqMathsBoxedEmptyValueFraction": "\\boxed{\\phantom{\\dfrac{0}{0}}}",
+  "\\rtqMathsBoxedEmptyBinaryOperator":
+    "\\mathbin{\\boxed{\\phantom{\\times}}}",
+  "\\rtqMathsBoxedEmptyRelation": "\\mathrel{\\boxed{\\phantom{=}}}",
 } as const;
 
 export const RTQ_EMPTY_VALUE_MACROS = {

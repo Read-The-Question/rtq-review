@@ -212,11 +212,36 @@ test("preserves every enlarged size through its pending-review switch", () => {
 
 test("renders every boxed-value geometry in the shared review contract", () => {
   for (const name of Object.keys(RTQ_BOXED_VALUE_MACROS)) {
-    const source = name.includes("EmptyValue") ? name : `${name}{7}`;
+    const source = name.includes("BoxedEmpty") ? name : `${name}{7}`;
     const html = katex.renderToString(source, options);
 
     assert.doesNotMatch(html, /katex-error/, name);
     if (name.includes("CorrectValue")) assert.match(html, /color:green/, name);
+  }
+});
+
+test("renders boxed operator placeholders with their semantic atom classes", () => {
+  const normalize = (html: string) =>
+    html.replace(/<annotation[^>]*>[\s\S]*?<\/annotation>/g, "<annotation/>");
+
+  for (const [macro, expansion, expectedClass] of [
+    [
+      "\\rtqMathsBoxedEmptyBinaryOperator",
+      "\\mathbin{\\boxed{\\phantom{\\times}}}",
+      "mbin",
+    ],
+    [
+      "\\rtqMathsBoxedEmptyRelation",
+      "\\mathrel{\\boxed{\\phantom{=}}}",
+      "mrel",
+    ],
+  ] as const) {
+    const rendered = katex.renderToString(`2${macro}3`, options);
+    assert.equal(
+      normalize(rendered),
+      normalize(katex.renderToString(`2${expansion}3`, options)),
+    );
+    assert.match(rendered, new RegExp(`class="${expectedClass}`));
   }
 });
 

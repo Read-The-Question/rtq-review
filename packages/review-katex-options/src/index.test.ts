@@ -21,6 +21,7 @@ import {
   RTQ_QUESTION_MARK_PLACEHOLDER_MACROS,
   RTQ_RATIO_SEPARATOR_EXPANSION,
   RTQ_RATIO_SEPARATOR_MACRO,
+  RTQ_SPACING_MACROS,
   RTQ_TIME_SEPARATOR_EXPANSION,
   RTQ_TIME_SEPARATOR_MACRO,
   RTQ_TIME_MERIDIEM_MACROS,
@@ -93,6 +94,12 @@ test("matches the canonical rtq-content shared macro contracts", () => {
     expansion: RTQ_RATIO_SEPARATOR_EXPANSION,
     name: RTQ_RATIO_SEPARATOR_MACRO,
   });
+  for (const [name, expansion] of Object.entries(RTQ_SPACING_MACROS)) {
+    assert.deepEqual(
+      contract.macros.find((macro) => macro.name === name),
+      { expansion, name },
+    );
+  }
   for (const [name, expansion] of Object.entries(RTQ_TIME_MERIDIEM_MACROS)) {
     assert.deepEqual(
       contract.macros.find((macro) => macro.name === name),

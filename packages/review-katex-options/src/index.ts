@@ -32,9 +32,19 @@ export const RTQ_RATIO_SEPARATOR_MACRO = "\\rtqMathsRatioSeparator" as const;
 export const RTQ_RATIO_SEPARATOR_EXPANSION = "\\ratio" as const;
 
 export const RTQ_TIME_MERIDIEM_MACROS = {
-  "\\rtqMathsTimeMeridiem": "\\ \\text{#1}",
+  "\\rtqMathsTimeMeridiem": "\\rtqMathsSpaceQuarterEm \\text{#1}",
   "\\rtqMathsTimeAm": "\\rtqMathsTimeMeridiem{am}",
   "\\rtqMathsTimePm": "\\rtqMathsTimeMeridiem{pm}",
+} as const;
+
+export const RTQ_SPACING_MACROS = {
+  "\\rtqMathsSpaceQuarterEm": "\\ ",
+  "\\rtqMathsSpaceHalfEm": "\\enspace",
+  "\\rtqMathsSpaceOneEm": "\\quad",
+  "\\rtqMathsSpaceTwoEm": "\\qquad",
+  "\\rtqMathsSpaceOneSixthEmPendingReview": "\\,",
+  "\\rtqMathsSpaceTwoNinthsEmPendingReview": "\\:",
+  "\\rtqMathsSpaceFiveEighteenthsEmPendingReview": "\\;",
 } as const;
 
 export const RTQ_PENDING_SIZE_SWITCHES = {
@@ -133,6 +143,7 @@ export function getRtqReviewKatexOptions<
       ...RTQ_QUESTION_MARK_PLACEHOLDER_MACROS,
       [RTQ_TIME_SEPARATOR_MACRO]: RTQ_TIME_SEPARATOR_EXPANSION,
       [RTQ_RATIO_SEPARATOR_MACRO]: RTQ_RATIO_SEPARATOR_EXPANSION,
+      ...RTQ_SPACING_MACROS,
       ...RTQ_TIME_MERIDIEM_MACROS,
       ...RTQ_PENDING_SIZE_SWITCHES,
       ...RTQ_BOXED_VALUE_MACROS,

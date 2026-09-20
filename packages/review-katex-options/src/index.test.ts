@@ -235,6 +235,56 @@ test("renders boxed operator placeholders with their semantic atom classes", () 
       "\\mathrel{\\boxed{\\phantom{=}}}",
       "mrel",
     ],
+    [
+      "\\rtqMathsBoxedEmptyBinaryOperatorOneDigitWide",
+      "\\mathbin{\\boxed{\\phantom{0}}}",
+      "mbin",
+    ],
+    [
+      "\\rtqMathsBoxedEmptyBinaryOperatorTwoDigitsWide",
+      "\\mathbin{\\boxed{\\phantom{00}}}",
+      "mbin",
+    ],
+    [
+      "\\rtqMathsBoxedEmptyBinaryOperatorThreeDigitsWide",
+      "\\mathbin{\\boxed{\\phantom{000}}}",
+      "mbin",
+    ],
+    [
+      "\\rtqMathsBoxedEmptyBinaryOperatorFourDigitsWide",
+      "\\mathbin{\\boxed{\\phantom{0000}}}",
+      "mbin",
+    ],
+    [
+      "\\rtqMathsBoxedEmptyBinaryOperatorFraction",
+      "\\mathbin{\\boxed{\\phantom{\\dfrac{0}{0}}}}",
+      "mbin",
+    ],
+    [
+      "\\rtqMathsBoxedEmptyRelationOneDigitWide",
+      "\\mathrel{\\boxed{\\phantom{0}}}",
+      "mrel",
+    ],
+    [
+      "\\rtqMathsBoxedEmptyRelationTwoDigitsWide",
+      "\\mathrel{\\boxed{\\phantom{00}}}",
+      "mrel",
+    ],
+    [
+      "\\rtqMathsBoxedEmptyRelationThreeDigitsWide",
+      "\\mathrel{\\boxed{\\phantom{000}}}",
+      "mrel",
+    ],
+    [
+      "\\rtqMathsBoxedEmptyRelationFourDigitsWide",
+      "\\mathrel{\\boxed{\\phantom{0000}}}",
+      "mrel",
+    ],
+    [
+      "\\rtqMathsBoxedEmptyRelationFraction",
+      "\\mathrel{\\boxed{\\phantom{\\dfrac{0}{0}}}}",
+      "mrel",
+    ],
   ] as const) {
     const rendered = katex.renderToString(`2${macro}3`, options);
     assert.equal(

@@ -52,11 +52,30 @@ const rtqKatexMacros = {
   "\\rtqMathsBoxedEmptyValueTwoDigitsWide": "\\boxed{\\phantom{00}}",
   "\\rtqMathsBoxedEmptyValueThreeDigitsWide": "\\boxed{\\phantom{000}}",
   "\\rtqMathsBoxedEmptyValueFourDigitsWide": "\\boxed{\\phantom{0000}}",
-  "\\rtqMathsBoxedEmptyValueFraction":
-    "\\boxed{\\phantom{\\dfrac{0}{0}}}",
+  "\\rtqMathsBoxedEmptyValueFraction": "\\boxed{\\phantom{\\dfrac{0}{0}}}",
   "\\rtqMathsBoxedEmptyBinaryOperator":
     "\\mathbin{\\boxed{\\phantom{\\times}}}",
   "\\rtqMathsBoxedEmptyRelation": "\\mathrel{\\boxed{\\phantom{=}}}",
+  "\\rtqMathsBoxedEmptyBinaryOperatorOneDigitWide":
+    "\\mathbin{\\rtqMathsBoxedEmptyValueOneDigitWide}",
+  "\\rtqMathsBoxedEmptyBinaryOperatorTwoDigitsWide":
+    "\\mathbin{\\rtqMathsBoxedEmptyValueTwoDigitsWide}",
+  "\\rtqMathsBoxedEmptyBinaryOperatorThreeDigitsWide":
+    "\\mathbin{\\rtqMathsBoxedEmptyValueThreeDigitsWide}",
+  "\\rtqMathsBoxedEmptyBinaryOperatorFourDigitsWide":
+    "\\mathbin{\\rtqMathsBoxedEmptyValueFourDigitsWide}",
+  "\\rtqMathsBoxedEmptyBinaryOperatorFraction":
+    "\\mathbin{\\rtqMathsBoxedEmptyValueFraction}",
+  "\\rtqMathsBoxedEmptyRelationOneDigitWide":
+    "\\mathrel{\\rtqMathsBoxedEmptyValueOneDigitWide}",
+  "\\rtqMathsBoxedEmptyRelationTwoDigitsWide":
+    "\\mathrel{\\rtqMathsBoxedEmptyValueTwoDigitsWide}",
+  "\\rtqMathsBoxedEmptyRelationThreeDigitsWide":
+    "\\mathrel{\\rtqMathsBoxedEmptyValueThreeDigitsWide}",
+  "\\rtqMathsBoxedEmptyRelationFourDigitsWide":
+    "\\mathrel{\\rtqMathsBoxedEmptyValueFourDigitsWide}",
+  "\\rtqMathsBoxedEmptyRelationFraction":
+    "\\mathrel{\\rtqMathsBoxedEmptyValueFraction}",
   "\\rtqMathsEmptyValueOneDigitWide": "\\phantom{0}",
   "\\rtqMathsEmptyValueTwoDigitsWide": "\\phantom{00}",
   "\\rtqMathsEmptyValueThreeDigitsWide": "\\phantom{000}",

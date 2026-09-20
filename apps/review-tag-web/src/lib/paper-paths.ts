@@ -44,7 +44,7 @@ export const DIMENSIONAL_STYLE_GUIDES_ROOT = path.join(
 );
 export const MACROS_TOML_PATH = path.join(
   SOURCE_PAPERS_PACKAGE_ROOT,
-  'scripts/papers/lib/model/macros.toml',
+  'macros/content/expansions.toml',
 );
 export const EXTERNAL_ASSETS_ROOT = contentPaths.assetsRoot;
 

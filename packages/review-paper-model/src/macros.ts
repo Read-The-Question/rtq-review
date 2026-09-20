@@ -11,7 +11,7 @@ import { applyPaperMacros, type PaperMacros } from './content.ts';
 import type { ReviewMacroDocument, ReviewMacroKind } from './model.ts';
 
 export const REVIEW_MACROS_REPOSITORY_PATH =
-  'packages/papers/scripts/papers/lib/model/macros.toml';
+  'packages/papers/macros/content/expansions.toml';
 
 function macroKind(name: string): ReviewMacroKind {
   if (name.startsWith('rtq_abbr_formula_')) return 'formula';
@@ -25,7 +25,7 @@ export async function readReviewMacros(
 ): Promise<ReviewMacroDocument> {
   const { papersPackageRoot } = resolveRtqContentPaths(options);
   const rawSource = await readFile(
-    join(papersPackageRoot, 'scripts', 'papers', 'lib', 'model', 'macros.toml'),
+    join(papersPackageRoot, 'macros', 'content', 'expansions.toml'),
     'utf8',
   );
   const parsed = parse(rawSource) as Record<string, unknown>;
@@ -43,7 +43,7 @@ export async function readReviewMacros(
       name,
       source,
     })),
-    fileName: 'macros.toml',
+    fileName: 'expansions.toml',
     rawSource,
     repositoryPath: REVIEW_MACROS_REPOSITORY_PATH,
   };

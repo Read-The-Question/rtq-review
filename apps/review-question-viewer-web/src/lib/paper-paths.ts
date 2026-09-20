@@ -12,7 +12,7 @@ export const SOURCE_PAPERS_PACKAGE_ROOT = contentPaths.papersPackageRoot;
 export const SOURCE_PAPERS_ROOT = contentPaths.papersRoot;
 export const MACROS_TOML_PATH = path.join(
   SOURCE_PAPERS_PACKAGE_ROOT,
-  'scripts/papers/lib/model/macros.toml',
+  'macros/content/expansions.toml',
 );
 export const EXTERNAL_ASSETS_ROOT = contentPaths.assetsRoot;
 

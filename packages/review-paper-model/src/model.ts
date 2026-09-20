@@ -88,7 +88,7 @@ export type ReviewMacroEntry = Readonly<{
 
 export type ReviewMacroDocument = Readonly<{
   entries: readonly ReviewMacroEntry[];
-  fileName: 'macros.toml';
+  fileName: 'expansions.toml';
   rawSource: string;
   repositoryPath: string;
 }>;

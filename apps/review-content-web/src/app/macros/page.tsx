@@ -19,7 +19,7 @@ export default async function MacrosPage() {
         <SiteHeader compact />
         <section className="route-message">
           <p className="eyebrow">Reference unavailable</p>
-          <h1>macros.toml could not be loaded.</h1>
+          <h1>expansions.toml could not be loaded.</h1>
           <p>
             Check that the active rtq-content checkout contains the canonical
             paper macro file.

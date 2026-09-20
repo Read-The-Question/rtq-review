@@ -26,9 +26,9 @@ raw source retains the authored wrapper. Raw GFM tables use the same visual
 defaults without claiming explicitly authored configuration.
 
 The paper index also links to a dedicated read-only view of the canonical
-`packages/papers/scripts/papers/lib/model/macros.toml`. That page treats the
-file as one review document and shows every macro's source and rendered
-expansion without paper review controls.
+`packages/papers/macros/content/expansions.toml`. That page treats the file as
+one review document and shows every macro's source and rendered expansion
+without paper review controls.
 
 Its direct-TOML KaTeX macro path and current semantic-colour conformance are
 recorded in the canonical

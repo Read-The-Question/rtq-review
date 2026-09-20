@@ -43,7 +43,7 @@ export async function readPaperMacros(
 ): Promise<PaperMacros> {
   const { papersPackageRoot } = resolveRtqContentPaths(options);
   const raw = await readFile(
-    join(papersPackageRoot, 'scripts', 'papers', 'lib', 'model', 'macros.toml'),
+    join(papersPackageRoot, 'macros', 'content', 'expansions.toml'),
     'utf8',
   );
   const parsed = parse(raw) as Record<string, unknown>;

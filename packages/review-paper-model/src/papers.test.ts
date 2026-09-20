@@ -42,7 +42,7 @@ function createContentWorkspace(
     });
   }
   mkdirSync(join(assetsPackageRoot, 'assets'), { recursive: true });
-  mkdirSync(join(papersPackageRoot, 'scripts', 'papers', 'lib', 'model'), {
+  mkdirSync(join(papersPackageRoot, 'macros', 'content'), {
     recursive: true,
   });
   writeFileSync(
@@ -59,7 +59,7 @@ function createContentWorkspace(
     JSON.stringify({ name: '@rtq/maths-assets' }),
   );
   writeFileSync(
-    join(papersPackageRoot, 'scripts', 'papers', 'lib', 'model', 'macros.toml'),
+    join(papersPackageRoot, 'macros', 'content', 'expansions.toml'),
     String.raw`rtq_abbr_test = '''Expanded project abbreviation'''
 rtq_abbr_formula = '''$a + b = c$'''
 `,

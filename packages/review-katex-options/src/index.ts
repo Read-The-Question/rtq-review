@@ -66,6 +66,26 @@ export const RTQ_BOXED_VALUE_MACROS = {
   "\\rtqMathsBoxedEmptyBinaryOperator":
     "\\mathbin{\\boxed{\\phantom{\\times}}}",
   "\\rtqMathsBoxedEmptyRelation": "\\mathrel{\\boxed{\\phantom{=}}}",
+  "\\rtqMathsBoxedEmptyBinaryOperatorOneDigitWide":
+    "\\mathbin{\\rtqMathsBoxedEmptyValueOneDigitWide}",
+  "\\rtqMathsBoxedEmptyBinaryOperatorTwoDigitsWide":
+    "\\mathbin{\\rtqMathsBoxedEmptyValueTwoDigitsWide}",
+  "\\rtqMathsBoxedEmptyBinaryOperatorThreeDigitsWide":
+    "\\mathbin{\\rtqMathsBoxedEmptyValueThreeDigitsWide}",
+  "\\rtqMathsBoxedEmptyBinaryOperatorFourDigitsWide":
+    "\\mathbin{\\rtqMathsBoxedEmptyValueFourDigitsWide}",
+  "\\rtqMathsBoxedEmptyBinaryOperatorFraction":
+    "\\mathbin{\\rtqMathsBoxedEmptyValueFraction}",
+  "\\rtqMathsBoxedEmptyRelationOneDigitWide":
+    "\\mathrel{\\rtqMathsBoxedEmptyValueOneDigitWide}",
+  "\\rtqMathsBoxedEmptyRelationTwoDigitsWide":
+    "\\mathrel{\\rtqMathsBoxedEmptyValueTwoDigitsWide}",
+  "\\rtqMathsBoxedEmptyRelationThreeDigitsWide":
+    "\\mathrel{\\rtqMathsBoxedEmptyValueThreeDigitsWide}",
+  "\\rtqMathsBoxedEmptyRelationFourDigitsWide":
+    "\\mathrel{\\rtqMathsBoxedEmptyValueFourDigitsWide}",
+  "\\rtqMathsBoxedEmptyRelationFraction":
+    "\\mathrel{\\rtqMathsBoxedEmptyValueFraction}",
 } as const;
 
 export const RTQ_EMPTY_VALUE_MACROS = {

@@ -12,7 +12,7 @@ function createContentWorkspace(): string {
   const assetsPackageRoot = join(root, 'packages', 'assets');
 
   mkdirSync(join(papersPackageRoot, 'papers', 'toml'), { recursive: true });
-  mkdirSync(join(papersPackageRoot, 'scripts', 'papers', 'lib', 'model'), {
+  mkdirSync(join(papersPackageRoot, 'macros', 'content'), {
     recursive: true,
   });
   mkdirSync(join(assetsPackageRoot, 'assets'), { recursive: true });
@@ -30,7 +30,7 @@ function createContentWorkspace(): string {
     '{"name":"@rtq/maths-assets"}',
   );
   writeFileSync(
-    join(papersPackageRoot, 'scripts', 'papers', 'lib', 'model', 'macros.toml'),
+    join(papersPackageRoot, 'macros', 'content', 'expansions.toml'),
     String.raw`# Macro review fixture
 rtq_abbr_note_example = '''Use $x$.'''
 rtq_abbr_formula_example = '''rtq_abbr_note_example Then $y$.'''
@@ -49,7 +49,7 @@ test('reads macros in file order and prepares their nested expansions', async ()
       environment: { RTQ_CONTENT_ROOT: root },
     });
 
-    assert.equal(document.fileName, 'macros.toml');
+    assert.equal(document.fileName, 'expansions.toml');
     assert.match(document.rawSource, /# Macro review fixture/);
     assert.deepEqual(
       document.entries.map((entry) => [entry.name, entry.kind]),

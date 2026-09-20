@@ -73,29 +73,21 @@ export const RTQ_BOXED_VALUE_MACROS = {
   "\\rtqMathsBoxedEmptyValueThreeDigitsWide": "\\boxed{\\phantom{000}}",
   "\\rtqMathsBoxedEmptyValueFourDigitsWide": "\\boxed{\\phantom{0000}}",
   "\\rtqMathsBoxedEmptyValueFraction": "\\boxed{\\phantom{\\dfrac{0}{0}}}",
-  "\\rtqMathsBoxedEmptyBinaryOperator":
-    "\\mathbin{\\boxed{\\phantom{\\times}}}",
-  "\\rtqMathsBoxedEmptyRelation": "\\mathrel{\\boxed{\\phantom{=}}}",
-  "\\rtqMathsBoxedEmptyBinaryOperatorOneDigitWide":
-    "\\mathbin{\\rtqMathsBoxedEmptyValueOneDigitWide}",
-  "\\rtqMathsBoxedEmptyBinaryOperatorTwoDigitsWide":
-    "\\mathbin{\\rtqMathsBoxedEmptyValueTwoDigitsWide}",
-  "\\rtqMathsBoxedEmptyBinaryOperatorThreeDigitsWide":
-    "\\mathbin{\\rtqMathsBoxedEmptyValueThreeDigitsWide}",
-  "\\rtqMathsBoxedEmptyBinaryOperatorFourDigitsWide":
-    "\\mathbin{\\rtqMathsBoxedEmptyValueFourDigitsWide}",
-  "\\rtqMathsBoxedEmptyBinaryOperatorFraction":
-    "\\mathbin{\\rtqMathsBoxedEmptyValueFraction}",
-  "\\rtqMathsBoxedEmptyRelationOneDigitWide":
-    "\\mathrel{\\rtqMathsBoxedEmptyValueOneDigitWide}",
-  "\\rtqMathsBoxedEmptyRelationTwoDigitsWide":
-    "\\mathrel{\\rtqMathsBoxedEmptyValueTwoDigitsWide}",
-  "\\rtqMathsBoxedEmptyRelationThreeDigitsWide":
-    "\\mathrel{\\rtqMathsBoxedEmptyValueThreeDigitsWide}",
-  "\\rtqMathsBoxedEmptyRelationFourDigitsWide":
-    "\\mathrel{\\rtqMathsBoxedEmptyValueFourDigitsWide}",
-  "\\rtqMathsBoxedEmptyRelationFraction":
-    "\\mathrel{\\rtqMathsBoxedEmptyValueFraction}",
+  "\\rtqMathsBoxedEmptyBinaryOperatorMatching":
+    "\\mathbin{\\boxed{\\phantom{#1}}}",
+  "\\rtqMathsBoxedEmptyRelationMatching": "\\mathrel{\\boxed{\\phantom{#1}}}",
+  "\\rtqMathsBoxedEmptyBinaryOperatorPendingReview":
+    "\\rtqMathsBoxedEmptyBinaryOperatorMatching{+}",
+  "\\rtqMathsBoxedEmptyRelationPendingReview":
+    "\\rtqMathsBoxedEmptyRelationMatching{=}",
+  "\\rtqMathsBoxedCorrectBinaryOperator":
+    "\\mathbin{\\boxed{\\rtqMathsCorrectValue{#1}}}",
+  "\\rtqMathsBoxedCorrectBinaryOperatorOneDigitPaddingEachSide":
+    "\\mathbin{\\boxed{\\phantom{0}\\rtqMathsCorrectValue{#1}\\phantom{0}}}",
+  "\\rtqMathsBoxedCorrectRelation":
+    "\\mathrel{\\boxed{\\rtqMathsCorrectValue{#1}}}",
+  "\\rtqMathsBoxedCorrectRelationOneDigitPaddingEachSide":
+    "\\mathrel{\\boxed{\\phantom{0}\\rtqMathsCorrectValue{#1}\\phantom{0}}}",
 } as const;
 
 export const RTQ_EMPTY_VALUE_MACROS = {

@@ -219,7 +219,10 @@ test("preserves every enlarged size through its pending-review switch", () => {
 
 test("renders every boxed-value geometry in the shared review contract", () => {
   for (const name of Object.keys(RTQ_BOXED_VALUE_MACROS)) {
-    const source = name.includes("BoxedEmpty") ? name : `${name}{7}`;
+    const source =
+      name.includes("BoxedEmpty") && !name.includes("Matching")
+        ? name
+        : `${name}{7}`;
     const html = katex.renderToString(source, options);
 
     assert.doesNotMatch(html, /katex-error/, name);
@@ -233,63 +236,43 @@ test("renders boxed operator placeholders with their semantic atom classes", () 
 
   for (const [macro, expansion, expectedClass] of [
     [
-      "\\rtqMathsBoxedEmptyBinaryOperator",
-      "\\mathbin{\\boxed{\\phantom{\\times}}}",
+      "\\rtqMathsBoxedEmptyBinaryOperatorMatching{+}",
+      "\\mathbin{\\boxed{\\phantom{+}}}",
       "mbin",
     ],
     [
-      "\\rtqMathsBoxedEmptyRelation",
+      "\\rtqMathsBoxedEmptyRelationMatching{=}",
       "\\mathrel{\\boxed{\\phantom{=}}}",
       "mrel",
     ],
     [
-      "\\rtqMathsBoxedEmptyBinaryOperatorOneDigitWide",
-      "\\mathbin{\\boxed{\\phantom{0}}}",
+      "\\rtqMathsBoxedEmptyBinaryOperatorPendingReview",
+      "\\mathbin{\\boxed{\\phantom{+}}}",
       "mbin",
     ],
     [
-      "\\rtqMathsBoxedEmptyBinaryOperatorTwoDigitsWide",
-      "\\mathbin{\\boxed{\\phantom{00}}}",
-      "mbin",
-    ],
-    [
-      "\\rtqMathsBoxedEmptyBinaryOperatorThreeDigitsWide",
-      "\\mathbin{\\boxed{\\phantom{000}}}",
-      "mbin",
-    ],
-    [
-      "\\rtqMathsBoxedEmptyBinaryOperatorFourDigitsWide",
-      "\\mathbin{\\boxed{\\phantom{0000}}}",
-      "mbin",
-    ],
-    [
-      "\\rtqMathsBoxedEmptyBinaryOperatorFraction",
-      "\\mathbin{\\boxed{\\phantom{\\dfrac{0}{0}}}}",
-      "mbin",
-    ],
-    [
-      "\\rtqMathsBoxedEmptyRelationOneDigitWide",
-      "\\mathrel{\\boxed{\\phantom{0}}}",
+      "\\rtqMathsBoxedEmptyRelationPendingReview",
+      "\\mathrel{\\boxed{\\phantom{=}}}",
       "mrel",
     ],
     [
-      "\\rtqMathsBoxedEmptyRelationTwoDigitsWide",
-      "\\mathrel{\\boxed{\\phantom{00}}}",
+      "\\rtqMathsBoxedCorrectBinaryOperator{+}",
+      "\\mathbin{\\boxed{\\textcolor{green}{+}}}",
+      "mbin",
+    ],
+    [
+      "\\rtqMathsBoxedCorrectBinaryOperatorOneDigitPaddingEachSide{+}",
+      "\\mathbin{\\boxed{\\phantom{0}\\textcolor{green}{+}\\phantom{0}}}",
+      "mbin",
+    ],
+    [
+      "\\rtqMathsBoxedCorrectRelation{=}",
+      "\\mathrel{\\boxed{\\textcolor{green}{=}}}",
       "mrel",
     ],
     [
-      "\\rtqMathsBoxedEmptyRelationThreeDigitsWide",
-      "\\mathrel{\\boxed{\\phantom{000}}}",
-      "mrel",
-    ],
-    [
-      "\\rtqMathsBoxedEmptyRelationFourDigitsWide",
-      "\\mathrel{\\boxed{\\phantom{0000}}}",
-      "mrel",
-    ],
-    [
-      "\\rtqMathsBoxedEmptyRelationFraction",
-      "\\mathrel{\\boxed{\\phantom{\\dfrac{0}{0}}}}",
+      "\\rtqMathsBoxedCorrectRelationOneDigitPaddingEachSide{=}",
+      "\\mathrel{\\boxed{\\phantom{0}\\textcolor{green}{=}\\phantom{0}}}",
       "mrel",
     ],
   ] as const) {

@@ -42,9 +42,6 @@ export const RTQ_SPACING_MACROS = {
   "\\rtqMathsSpaceHalfEm": "\\enspace",
   "\\rtqMathsSpaceOneEm": "\\quad",
   "\\rtqMathsSpaceTwoEm": "\\qquad",
-  "\\rtqMathsSpaceOneSixthEmPendingReview": "\\,",
-  "\\rtqMathsSpaceTwoNinthsEmPendingReview": "\\:",
-  "\\rtqMathsSpaceFiveEighteenthsEmPendingReview": "\\;",
 } as const;
 
 export const RTQ_PENDING_SIZE_SWITCHES = {

@@ -3,8 +3,10 @@
 import Link from 'next/link';
 import { usePathname, useRouter, useSearchParams } from 'next/navigation';
 import {
+  createContext,
   type FormEvent,
   useCallback,
+  useContext,
   useEffect,
   useMemo,
   useRef,
@@ -14,10 +16,17 @@ import {
 
 import {
   DIMENSIONAL_TAG_AXES,
+  compileContentSearch,
+  contentSearchRanges,
+  CONTENT_SEARCH_SCOPES,
   filterReviewPaper,
+  normalizeContentSearchScope,
   parseReviewFilterSearchParams,
   serializeReviewFilterSearchParams,
+  type CompiledContentSearch,
   type DimensionalTagAxis,
+  type ContentSearchQuery,
+  type ContentSearchScope,
   type ReviewFilterSelection,
   type ReviewPaperNode,
 } from '@rtq/review-paper-model/client';
@@ -91,6 +100,17 @@ const axisCopy: Readonly<Record<DimensionalTagAxis, string>> = {
   math: 'Math',
   reasoning: 'Reasoning',
 };
+
+const contentScopeLabels: Readonly<Record<ContentSearchScope, string>> = {
+  all: 'All content',
+  answer: 'Answers',
+  question: 'Questions',
+  working: 'Workings',
+};
+
+const ContentSearchContext = createContext<CompiledContentSearch | undefined>(
+  undefined,
+);
 
 const PRIMARY_REVIEW_OPTIONS = REVIEW_OUTCOME_OPTIONS.filter(
   ({ outcome }) =>
@@ -175,6 +195,17 @@ function FieldSupportingInfo({
   label: string;
   preferences: ReviewPreferences;
 }) {
+  const contentSearch = useContext(ContentSearchContext);
+  const searchRanges = useMemo(
+    () =>
+      contentSearch
+        ? contentSearchRanges(field.raw, field.context.scope, contentSearch)
+        : [],
+    [contentSearch, field.context.scope, field.raw],
+  );
+  const rawSource = field.raw || '(empty)';
+  let rawCursor = 0;
+
   return (
     <>
       {field.preparationIssue ? (
@@ -186,7 +217,27 @@ function FieldSupportingInfo({
         <details className="raw-source" open>
           <summary>{label} source</summary>
           <pre>
-            <code>{field.raw || '(empty)'}</code>
+            <code>
+              {searchRanges.length === 0
+                ? rawSource
+                : searchRanges.flatMap((range, index) => {
+                    const leading = field.raw.slice(rawCursor, range.start);
+                    const matched = field.raw.slice(range.start, range.end);
+                    rawCursor = range.end;
+                    return [
+                      leading,
+                      <mark
+                        className="raw-search-match"
+                        key={`${range.start}-${range.end}-${index}`}
+                      >
+                        {matched}
+                      </mark>,
+                      ...(index === searchRanges.length - 1
+                        ? [field.raw.slice(rawCursor)]
+                        : []),
+                    ];
+                  })}
+            </code>
           </pre>
         </details>
       ) : null}
@@ -1795,16 +1846,115 @@ function FilterPanel({
   );
 }
 
+function PaperContentSearch({
+  error,
+  onApply,
+  onClear,
+  search,
+}: {
+  error?: string;
+  onApply: (search: ContentSearchQuery) => void;
+  onClear: () => void;
+  search?: ContentSearchQuery;
+}) {
+  const [pattern, setPattern] = useState(search?.pattern ?? '');
+  const [scope, setScope] = useState<ContentSearchScope>(
+    search?.scope ?? 'all',
+  );
+  const [draftError, setDraftError] = useState<string>();
+
+  function submit(event: FormEvent<HTMLFormElement>) {
+    event.preventDefault();
+    const compiled = compileContentSearch({ pattern, scope });
+    if (compiled.state === 'invalid') {
+      setDraftError(compiled.message);
+      return;
+    }
+    setDraftError(undefined);
+    onApply({
+      pattern: compiled.search.pattern,
+      scope: compiled.search.scope,
+    });
+  }
+
+  const displayedError = draftError ?? error;
+  return (
+    <section
+      className="paper-content-search"
+      aria-labelledby="paper-content-search-title"
+    >
+      <div>
+        <p className="eyebrow">Authored source</p>
+        <strong id="paper-content-search-title">Search raw content</strong>
+        <span>A nested match keeps its complete top-level question.</span>
+      </div>
+      <form className="raw-content-search" onSubmit={submit}>
+        <label>
+          <span>Regular expression</span>
+          <input
+            aria-describedby={
+              displayedError ? 'paper-content-search-error' : undefined
+            }
+            onChange={(event) => setPattern(event.target.value)}
+            placeholder={String.raw`For example: \\rtqMaths`}
+            type="search"
+            value={pattern}
+          />
+        </label>
+        <label>
+          <span>Scope</span>
+          <select
+            onChange={(event) =>
+              setScope(normalizeContentSearchScope(event.target.value))
+            }
+            value={scope}
+          >
+            {CONTENT_SEARCH_SCOPES.map((value) => (
+              <option key={value} value={value}>
+                {contentScopeLabels[value]}
+              </option>
+            ))}
+          </select>
+        </label>
+        <button disabled={!pattern.trim()} type="submit">
+          Apply
+        </button>
+        {search ? (
+          <button onClick={onClear} type="button">
+            Clear
+          </button>
+        ) : null}
+      </form>
+      {displayedError ? (
+        <p
+          className="raw-content-search-error"
+          id="paper-content-search-error"
+          role="alert"
+        >
+          {displayedError}
+        </p>
+      ) : search ? (
+        <code>
+          {contentScopeLabels[search.scope]} · /{search.pattern}/im
+        </code>
+      ) : null}
+    </section>
+  );
+}
+
 function QuestionIndexNode({
+  contentMatchingNodeIds,
   currentNodeId,
   matchingNodeIds,
   node,
 }: {
+  contentMatchingNodeIds: ReadonlySet<string>;
   currentNodeId: string | undefined;
   matchingNodeIds: ReadonlySet<string>;
   node: ReviewPaperNode;
 }) {
   const exactMatch = matchingNodeIds.has(node.id);
+  const contentMatch = contentMatchingNodeIds.has(node.id);
   const current = currentNodeId === node.id;
   return (
     <li
@@ -1818,12 +1968,21 @@ function QuestionIndexNode({
         href={`#question-${node.id}`}
       >
         <span>{node.label}</span>
-        {!exactMatch ? <small>context</small> : null}
+        {contentMatch ? (
+          <span
+            aria-label="Raw content match"
+            className="question-index-search-marker"
+            title="Raw content match"
+          />
+        ) : !exactMatch ? (
+          <small>context</small>
+        ) : null}
       </a>
       {node.children.length > 0 ? (
         <ol>
           {node.children.map((child) => (
             <QuestionIndexNode
+              contentMatchingNodeIds={contentMatchingNodeIds}
               currentNodeId={currentNodeId}
               key={child.id}
               matchingNodeIds={matchingNodeIds}
@@ -1837,10 +1996,12 @@ function QuestionIndexNode({
 }
 
 function PaperQuestionIndex({
+  contentMatchingNodeIds,
   currentNodeId,
   matchingNodeIds,
   sections,
 }: {
+  contentMatchingNodeIds: ReadonlySet<string>;
   currentNodeId: string | undefined;
   matchingNodeIds: ReadonlySet<string>;
   sections: ReturnType<typeof filterReviewPaper>['matchingSections'];
@@ -1872,6 +2033,7 @@ function PaperQuestionIndex({
           <ol>
             {section.questions.map((question) => (
               <QuestionIndexNode
+                contentMatchingNodeIds={contentMatchingNodeIds}
                 currentNodeId={currentNodeId}
                 key={question.id}
                 matchingNodeIds={matchingNodeIds}
@@ -2048,6 +2210,22 @@ export function ReviewSurface({
     () => parseReviewFilterSearchParams(searchParams.toString()),
     [searchParams],
   );
+  const contentPattern = searchParams.get('content')?.trim() ?? '';
+  const contentScope = normalizeContentSearchScope(
+    searchParams.get('content-scope'),
+  );
+  const contentSearch = useMemo<ContentSearchQuery | undefined>(
+    () =>
+      contentPattern
+        ? { pattern: contentPattern, scope: contentScope }
+        : undefined,
+    [contentPattern, contentScope],
+  );
+  const compiledContentSearch = useMemo(() => {
+    if (!contentSearch) return undefined;
+    const compiled = compileContentSearch(contentSearch);
+    return compiled.state === 'ready' ? compiled.search : undefined;
+  }, [contentSearch]);
   const activeSelection = useMemo(
     () => reviewFilterSelectionForContext(selection, preferences.reviewSide),
     [preferences.reviewSide, selection],
@@ -2090,8 +2268,14 @@ export function ReviewSurface({
     };
   }, [outcomeLoad.destination, outcomeLoad.error, outcomeOverrides, paper]);
   const result = useMemo(
-    () => filterReviewPaper(paper, activeSelection, reviewOutcomeFilterContext),
-    [activeSelection, paper, reviewOutcomeFilterContext],
+    () =>
+      filterReviewPaper(
+        paper,
+        activeSelection,
+        reviewOutcomeFilterContext,
+        contentSearch,
+      ),
+    [activeSelection, contentSearch, paper, reviewOutcomeFilterContext],
   );
   const displayNodeById = useMemo(
     () =>
@@ -2197,6 +2381,10 @@ export function ReviewSurface({
   const matchingNodeIds = useMemo(
     () => new Set(result.matchingNodeIds),
     [result.matchingNodeIds],
+  );
+  const contentMatchingNodeIds = useMemo(
+    () => new Set(result.contentMatchingNodeIds),
+    [result.contentMatchingNodeIds],
   );
   const selectedFilterCount =
     DIMENSIONAL_TAG_AXES.reduce(
@@ -2690,6 +2878,23 @@ export function ReviewSurface({
     );
   }
 
+  function applyContentSearch(search: ContentSearchQuery) {
+    const current = new URLSearchParams(searchParams.toString());
+    current.delete('question');
+    current.set('content', search.pattern);
+    if (search.scope === 'all') current.delete('content-scope');
+    else current.set('content-scope', search.scope);
+    replaceSearchParams(current);
+  }
+
+  function clearContentSearch() {
+    const current = new URLSearchParams(searchParams.toString());
+    current.delete('content');
+    current.delete('content-scope');
+    current.delete('question');
+    replaceSearchParams(current);
+  }
+
   function navigateTo(id: string) {
     setCurrentNodeId(id);
     const next = new URLSearchParams(searchParams.toString());
@@ -3018,6 +3223,7 @@ export function ReviewSurface({
             href={collectionRoute(
               paper.source.collection.id,
               searchParams.get('q') ?? undefined,
+              contentSearch,
             )}
           >
             {paper.source.collection.label}
@@ -3066,6 +3272,14 @@ export function ReviewSurface({
         status={sourceFreshness}
       />
 
+      <PaperContentSearch
+        error={result.contentSearchError}
+        key={`${contentSearch?.pattern ?? ''}:${contentSearch?.scope ?? 'all'}`}
+        onApply={applyContentSearch}
+        onClear={clearContentSearch}
+        search={contentSearch}
+      />
+
       <section
         className={`filter-disclosure${
           filtersExpanded ? ' filter-disclosure--expanded' : ''
@@ -3085,7 +3299,9 @@ export function ReviewSurface({
           <small>
             {selectedFilterCount
               ? `${selectedFilterCount} active · ${result.matchingQuestionTreeCount} matching`
-              : 'No active filters'}
+              : contentSearch
+                ? `Raw search active · ${result.matchingQuestionTreeCount} matching`
+                : 'No active filters'}
           </small>
           <span>{filtersExpanded ? 'Collapse' : 'Expand'}</span>
         </button>
@@ -3313,50 +3529,60 @@ export function ReviewSurface({
           <span>0 / {result.totalQuestionTreeCount}</span>
           <h2>No question shares that exact lens.</h2>
           <p>
-            Keep the selected zero-result values for reference, or clear one
-            filter to widen the paper again.
+            Change the raw-content expression or clear one filter to widen the
+            paper again.
           </p>
-          <button onClick={clearFilters} type="button">
-            Clear all filters
-          </button>
+          <div className="empty-results-actions">
+            {contentSearch ? (
+              <button onClick={clearContentSearch} type="button">
+                Clear raw search
+              </button>
+            ) : null}
+            <button onClick={clearFilters} type="button">
+              Clear review filters
+            </button>
+          </div>
         </section>
       ) : (
-        <div className="paper-body">
-          <PaperQuestionIndex
-            currentNodeId={currentCursor?.node.id}
-            matchingNodeIds={matchingNodeIds}
-            sections={result.matchingSections}
-          />
-          <div className="paper-sections">
-            {result.matchingSections.map((section) => (
-              <section
-                className="paper-section"
-                id={section.id}
-                key={section.id}
-              >
-                <header>
-                  <span>Section</span>
-                  <h2>{section.label}</h2>
-                  <strong>{section.questions.length} matching trees</strong>
-                </header>
-                {section.questions.map((question) => {
-                  const displayQuestion = displayNodeById.get(question.id);
-                  return displayQuestion ? (
-                    <QuestionNode
-                      key={displayQuestion.id}
-                      matchingNodeIds={matchingNodeIds}
-                      node={displayQuestion}
-                      preferences={preferences}
-                      reviewSides={enabledReviewSides}
-                      reviewRuntime={reviewRuntime}
-                      topLevelQuestion={displayQuestion}
-                    />
-                  ) : null;
-                })}
-              </section>
-            ))}
+        <ContentSearchContext.Provider value={compiledContentSearch}>
+          <div className="paper-body">
+            <PaperQuestionIndex
+              contentMatchingNodeIds={contentMatchingNodeIds}
+              currentNodeId={currentCursor?.node.id}
+              matchingNodeIds={matchingNodeIds}
+              sections={result.matchingSections}
+            />
+            <div className="paper-sections">
+              {result.matchingSections.map((section) => (
+                <section
+                  className="paper-section"
+                  id={section.id}
+                  key={section.id}
+                >
+                  <header>
+                    <span>Section</span>
+                    <h2>{section.label}</h2>
+                    <strong>{section.questions.length} matching trees</strong>
+                  </header>
+                  {section.questions.map((question) => {
+                    const displayQuestion = displayNodeById.get(question.id);
+                    return displayQuestion ? (
+                      <QuestionNode
+                        key={displayQuestion.id}
+                        matchingNodeIds={matchingNodeIds}
+                        node={displayQuestion}
+                        preferences={preferences}
+                        reviewSides={enabledReviewSides}
+                        reviewRuntime={reviewRuntime}
+                        topLevelQuestion={displayQuestion}
+                      />
+                    ) : null;
+                  })}
+                </section>
+              ))}
+            </div>
           </div>
-        </div>
+        </ContentSearchContext.Provider>
       )}
 
       <QuestionNavigation

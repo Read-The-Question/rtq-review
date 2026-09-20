@@ -55,9 +55,13 @@ function browserPaper(summary: PaperSourceSummary): BrowserPaper {
 
 export async function PaperIndex({
   initialCollectionId,
+  initialContentPattern,
+  initialContentScope,
   initialQuery,
 }: {
   initialCollectionId?: string;
+  initialContentPattern?: string;
+  initialContentScope?: string;
   initialQuery?: string;
 }) {
   const workspaceStatus = getContentWorkspaceStatus();
@@ -120,8 +124,10 @@ export async function PaperIndex({
         <FileBrowser
           activeCollectionId={activeCollectionId}
           collections={collections}
+          initialContentPattern={initialContentPattern}
+          initialContentScope={initialContentScope}
           initialQuery={initialQuery}
-          key={`${activeCollectionId}:${initialQuery ?? ''}`}
+          key={`${activeCollectionId}:${initialQuery ?? ''}:${initialContentPattern ?? ''}:${initialContentScope ?? ''}`}
           papers={papers}
         />
       ) : (

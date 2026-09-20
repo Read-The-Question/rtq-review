@@ -23,9 +23,27 @@ export {
   REVIEW_OUTCOME_FILTER_VALUES,
 } from './filters.ts';
 export { DIMENSIONAL_TAG_AXES, REVIEWABLE_COLLECTION_IDS } from './model.ts';
+export {
+  compileContentSearch,
+  contentSearchRanges,
+  CONTENT_SEARCH_SCOPES,
+  DEFAULT_CONTENT_SEARCH_SCOPE,
+  isContentSearchScope,
+  normalizeContentSearchQuery,
+  normalizeContentSearchScope,
+} from './search.ts';
+export type {
+  CompiledContentSearch,
+  ContentSearchCompilation,
+  ContentSearchRange,
+} from './search.ts';
 export { readReviewMacros, REVIEW_MACROS_REPOSITORY_PATH } from './macros.ts';
 export type {
   ContentWorkspaceStatus,
+  CollectionContentSearchMatch,
+  CollectionContentSearchResult,
+  ContentSearchQuery,
+  ContentSearchScope,
   DimensionalFilterSelection,
   DimensionalFilterResult,
   DimensionalFacet,
@@ -68,7 +86,9 @@ export {
   inspectPaperSource,
   listPaperSources,
   listPaperSourcesForCollection,
+  PaperContentSearchError,
   readReviewPaper,
+  searchPaperCollectionContent,
 } from './papers.ts';
 export { resolvePaperCollectionRoot, resolvePaperSourcePath } from './paths.ts';
 export { dimensionalTagAxis, resolveReviewPaperTags } from './tags.ts';

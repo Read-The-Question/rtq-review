@@ -16,7 +16,24 @@ export {
   REVIEW_OUTCOME_FILTER_VALUES,
 } from './filters.ts';
 export { DIMENSIONAL_TAG_AXES } from './model.ts';
+export {
+  compileContentSearch,
+  contentSearchRanges,
+  CONTENT_SEARCH_SCOPES,
+  DEFAULT_CONTENT_SEARCH_SCOPE,
+  isContentSearchScope,
+  normalizeContentSearchQuery,
+  normalizeContentSearchScope,
+} from './search.ts';
 export type {
+  CompiledContentSearch,
+  ContentSearchCompilation,
+  ContentSearchRange,
+} from './search.ts';
+export type {
+  CollectionContentSearchResult,
+  ContentSearchQuery,
+  ContentSearchScope,
   DimensionalFacet,
   DimensionalFacetOption,
   DimensionalFilterResult,

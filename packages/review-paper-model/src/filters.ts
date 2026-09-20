@@ -4,6 +4,7 @@ import {
   type DimensionalFilterResult,
   type DimensionalFilterSelection,
   type DimensionalTagAxis,
+  type ContentSearchQuery,
   type QuestionTreeMatch,
   type ReviewFilterSelection,
   type ReviewOutcomeFacet,
@@ -14,6 +15,10 @@ import {
   type ReviewStateFacet,
   type ReviewStateFilterSide,
 } from './model.ts';
+import {
+  compileContentSearch,
+  reviewQuestionTreeContentMatchNodeIds,
+} from './search.ts';
 
 export const PENDING_REVIEW_OUTCOME = 'PRNS';
 export const REVIEW_OUTCOME_FILTER_VALUES = [
@@ -491,32 +496,64 @@ export function filterReviewPaper(
   paper: ReviewPaper,
   requestedSelection: Partial<ReviewFilterSelection> = {},
   outcomeContext?: ReviewOutcomeFilterContext,
+  contentSearch?: ContentSearchQuery,
 ): DimensionalFilterResult {
   const selection = normalizeReviewFilterSelection(requestedSelection);
   const trees = questionTrees(paper);
-  const questionTreeMatches: QuestionTreeMatch[] = trees.flatMap((tree) => {
-    if (!treeMatchesReviewOutcomes(tree.question, selection, outcomeContext)) {
-      return [];
-    }
-    const matchingNodeIds = tree.nodes
-      .filter((node) => nodeMatches(node, selection))
-      .map((node) => node.id);
+  const compiledSearch = contentSearch
+    ? compileContentSearch(contentSearch)
+    : undefined;
+  const contentMatchesByTree = new Map(
+    trees.map((tree) => [
+      tree.question.id,
+      compiledSearch?.state === 'ready'
+        ? reviewQuestionTreeContentMatchNodeIds(
+            tree.question,
+            compiledSearch.search,
+          )
+        : [],
+    ]),
+  );
+  const searchableTrees =
+    compiledSearch?.state === 'ready'
+      ? trees.filter(
+          (tree) =>
+            (contentMatchesByTree.get(tree.question.id)?.length ?? 0) > 0,
+        )
+      : trees;
+  const questionTreeMatches: QuestionTreeMatch[] = searchableTrees.flatMap(
+    (tree) => {
+      if (
+        !treeMatchesReviewOutcomes(tree.question, selection, outcomeContext)
+      ) {
+        return [];
+      }
+      const matchingNodeIds = tree.nodes
+        .filter((node) => nodeMatches(node, selection))
+        .map((node) => node.id);
 
-    return matchingNodeIds.length > 0
-      ? [
-          {
-            matchingNodeIds,
-            questionId: tree.question.id,
-            sectionId: tree.sectionId,
-          },
-        ]
-      : [];
-  });
+      return matchingNodeIds.length > 0
+        ? [
+            {
+              matchingNodeIds,
+              questionId: tree.question.id,
+              sectionId: tree.sectionId,
+            },
+          ]
+        : [];
+    },
+  );
   const facets: DimensionalFacet[] = DIMENSIONAL_TAG_AXES.map((axis) => ({
     axis,
     label: facetLabels[axis],
     options: facetValues(paper, selection, axis).map((value) => {
-      const count = facetCount(trees, selection, axis, value, outcomeContext);
+      const count = facetCount(
+        searchableTrees,
+        selection,
+        axis,
+        value,
+        outcomeContext,
+      );
       const selected = selection[axis].includes(value);
       return { count, disabled: count === 0 && !selected, selected, value };
     }),
@@ -527,7 +564,7 @@ export function filterReviewPaper(
       label: stateFacetLabels[side],
       options: stateFacetValues(paper, selection, side).map((value) => {
         const count = stateFacetCount(
-          trees,
+          searchableTrees,
           selection,
           side,
           value,
@@ -547,7 +584,7 @@ export function filterReviewPaper(
           label: outcomeFacetLabels[side],
           options: reviewOutcomeFacetValues(selection, side).map((value) => {
             const count = reviewOutcomeFacetCount(
-              trees,
+              searchableTrees,
               selection,
               side,
               value,
@@ -581,6 +618,15 @@ export function filterReviewPaper(
   });
 
   return {
+    ...(compiledSearch?.state === 'invalid'
+      ? { contentSearchError: compiledSearch.message }
+      : {}),
+    contentMatchingNodeIds:
+      compiledSearch?.state === 'ready'
+        ? searchableTrees.flatMap(
+            (tree) => contentMatchesByTree.get(tree.question.id) ?? [],
+          )
+        : [],
     facets,
     matchingNodeIds,
     matchingSections,

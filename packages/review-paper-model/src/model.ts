@@ -210,6 +210,26 @@ export type ReviewPaper = Readonly<{
   title: string;
 }>;
 
+export type ContentSearchScope = 'all' | 'answer' | 'question' | 'working';
+
+export type ContentSearchQuery = Readonly<{
+  pattern: string;
+  scope: ContentSearchScope;
+}>;
+
+export type CollectionContentSearchMatch = Readonly<{
+  matchingQuestionCount: number;
+  matchingQuestionIds: readonly string[];
+  matchingQuestionUuids: readonly string[];
+  relativePath: string;
+}>;
+
+export type CollectionContentSearchResult = Readonly<{
+  invalidFileCount: number;
+  matches: readonly CollectionContentSearchMatch[];
+  scannedFileCount: number;
+}>;
+
 export type DimensionalFilterSelection = Readonly<
   Record<DimensionalTagAxis, readonly string[]>
 >;
@@ -280,6 +300,8 @@ export type QuestionTreeMatch = Readonly<{
 }>;
 
 export type DimensionalFilterResult = Readonly<{
+  contentMatchingNodeIds: readonly string[];
+  contentSearchError?: string;
   facets: readonly DimensionalFacet[];
   matchingNodeIds: readonly string[];
   matchingSections: readonly Readonly<{

@@ -389,6 +389,120 @@ p {
   text-transform: none;
 }
 
+.collection-searches {
+  display: grid;
+  gap: 1rem;
+  min-width: min(34rem, 55%);
+}
+
+.collection-searches .search-field {
+  min-width: 0;
+}
+
+.raw-content-search {
+  align-items: end;
+  display: grid;
+  gap: 0.6rem;
+  grid-template-columns: minmax(12rem, 1fr) minmax(8rem, auto) auto auto;
+}
+
+.raw-content-search label {
+  color: var(--muted);
+  display: grid;
+  font-family: 'SFMono-Regular', Consolas, monospace;
+  font-size: 0.875rem;
+  gap: 0.35rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.raw-content-search input,
+.raw-content-search select {
+  background: var(--paper-bright);
+  border: 1px solid var(--rule-strong);
+  border-radius: 0;
+  color: var(--ink);
+  font-family: 'Avenir Next', Avenir, sans-serif;
+  font-size: 0.9375rem;
+  letter-spacing: 0;
+  min-height: 2.65rem;
+  padding: 0.55rem 0.65rem;
+  text-transform: none;
+}
+
+.raw-content-search input:focus-visible,
+.raw-content-search select:focus-visible {
+  border-color: var(--signal);
+  box-shadow: 0 0 0 2px rgba(180, 35, 24, 0.16);
+  outline: 0;
+}
+
+.raw-content-search button {
+  background: var(--ink);
+  border: 1px solid var(--ink);
+  color: var(--paper-bright);
+  cursor: pointer;
+  font-size: 0.875rem;
+  font-weight: 750;
+  letter-spacing: 0.07em;
+  min-height: 2.65rem;
+  padding: 0.55rem 0.75rem;
+  text-transform: uppercase;
+}
+
+.raw-content-search button + button {
+  background: transparent;
+  color: var(--ink);
+}
+
+.raw-content-search button:disabled {
+  cursor: default;
+  opacity: 0.4;
+}
+
+.raw-content-search-error {
+  color: var(--signal-dark);
+  font-size: 0.875rem;
+  line-height: 1.4;
+  margin: 0;
+}
+
+.paper-content-search {
+  align-items: end;
+  background: var(--paper-deep);
+  border: 1px solid var(--rule-strong);
+  display: grid;
+  gap: 0.7rem 1.25rem;
+  grid-template-columns: minmax(13rem, 0.65fr) minmax(25rem, 1.35fr);
+  margin-top: 2rem;
+  padding: 0.9rem;
+}
+
+.paper-content-search > div {
+  display: grid;
+  gap: 0.2rem;
+}
+
+.paper-content-search > div > strong {
+  font-family: Charter, 'Iowan Old Style', Georgia, serif;
+  font-size: 1.1rem;
+}
+
+.paper-content-search > div > span,
+.paper-content-search > code {
+  color: var(--muted);
+  font-size: 0.875rem;
+}
+
+.paper-content-search > code,
+.paper-content-search > .raw-content-search-error {
+  grid-column: 2;
+}
+
+.empty-index--searching {
+  background: var(--paper-deep);
+}
+
 .result-summary {
   border-bottom: 1px solid var(--rule-strong);
   color: var(--muted);
@@ -1968,6 +2082,17 @@ a.paper-row:hover {
   font-weight: 750;
 }
 
+.question-index-search-marker {
+  align-self: center;
+  background: #ffe45e;
+  border: 2px solid #9a4600;
+  border-radius: 50%;
+  box-shadow: 0 0 0 2px var(--paper-bright);
+  flex: 0 0 auto;
+  height: 0.7rem;
+  width: 0.7rem;
+}
+
 .question-index-link--current {
   background: var(--ink);
   box-shadow: inset 4px 0 var(--signal);
@@ -2650,6 +2775,13 @@ a.paper-row:hover {
   overflow: auto;
   padding: 1rem;
   white-space: pre-wrap;
+}
+
+.raw-search-match {
+  background: #ffe45e;
+  box-shadow: 0 0 0 2px #ffe45e;
+  color: #241a00;
+  font: inherit;
 }
 
 .preparation-issue {
@@ -3543,6 +3675,13 @@ a.paper-row:hover {
   line-height: 1.6;
 }
 
+.empty-results-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.7rem;
+  justify-content: center;
+}
+
 .paper-footer {
   align-items: center;
   border-top: 1px solid var(--rule-strong);
@@ -3829,6 +3968,24 @@ a.paper-row:hover {
     min-width: 100%;
   }
 
+  .collection-searches {
+    min-width: 100%;
+  }
+
+  .paper-content-search {
+    align-items: stretch;
+    grid-template-columns: 1fr;
+  }
+
+  .paper-content-search > code,
+  .paper-content-search > .raw-content-search-error {
+    grid-column: 1;
+  }
+
+  .raw-content-search {
+    grid-template-columns: minmax(0, 1fr) minmax(8rem, auto) auto auto;
+  }
+
   .paper-title-row {
     align-items: start;
   }
@@ -3936,6 +4093,14 @@ a.paper-row:hover {
 
   .file-index {
     padding: 1.25rem;
+  }
+
+  .raw-content-search {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .raw-content-search > label:first-child {
+    grid-column: 1 / -1;
   }
 
   .paper-row {

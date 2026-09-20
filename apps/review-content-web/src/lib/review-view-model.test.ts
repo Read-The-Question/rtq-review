@@ -270,7 +270,14 @@ test('paper routes encode collection and every source-relative segment', () => {
   );
   assert.equal(
     paperRoute('topicToml', 'nested/a paper.toml', 'subtraction facts'),
-    '/papers/topicToml/nested/a%20paper.toml?q=subtraction%20facts',
+    '/papers/topicToml/nested/a%20paper.toml?q=subtraction+facts',
+  );
+  assert.equal(
+    paperRoute('focusToml', 'paper.toml', 'fractions', {
+      pattern: String.raw`\\rtqMaths`,
+      scope: 'working',
+    }),
+    '/papers/focusToml/paper.toml?q=fractions&content=%5C%5CrtqMaths&content-scope=working',
   );
 });
 
@@ -279,7 +286,14 @@ test('collection routes encode the collection identifier', () => {
   assert.equal(collectionRoute('focus papers'), '/papers/focus%20papers');
   assert.equal(
     collectionRoute('topicToml', 'subtraction facts'),
-    '/papers/topicToml?q=subtraction%20facts',
+    '/papers/topicToml?q=subtraction+facts',
+  );
+  assert.equal(
+    collectionRoute('focusToml', undefined, {
+      pattern: 'PaperTable',
+      scope: 'all',
+    }),
+    '/papers/focusToml?content=PaperTable',
   );
 });
 

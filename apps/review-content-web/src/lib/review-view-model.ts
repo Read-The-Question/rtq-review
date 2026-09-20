@@ -311,15 +311,35 @@ export function adjacentQuestionId(
   return questionIds[nextIndex];
 }
 
-function withIndexQuery(route: string, indexQuery?: string): string {
+export type ContentSearchRouteState = Readonly<{
+  pattern: string;
+  scope: 'all' | 'answer' | 'question' | 'working';
+}>;
+
+function withIndexQuery(
+  route: string,
+  indexQuery?: string,
+  contentSearch?: ContentSearchRouteState,
+): string {
+  const parameters = new URLSearchParams();
   const query = indexQuery?.trim();
-  return query ? `${route}?q=${encodeURIComponent(query)}` : route;
+  const pattern = contentSearch?.pattern.trim();
+  if (query) parameters.set('q', query);
+  if (pattern && contentSearch) {
+    parameters.set('content', pattern);
+    if (contentSearch.scope !== 'all') {
+      parameters.set('content-scope', contentSearch.scope);
+    }
+  }
+  const serialized = parameters.toString();
+  return serialized ? `${route}?${serialized}` : route;
 }
 
 export function paperRoute(
   collectionId: string,
   relativePath: string,
   indexQuery?: string,
+  contentSearch?: ContentSearchRouteState,
 ): string {
   const slug = relativePath
     .split('/')
@@ -328,16 +348,19 @@ export function paperRoute(
   return withIndexQuery(
     `/papers/${encodeURIComponent(collectionId)}/${slug}`,
     indexQuery,
+    contentSearch,
   );
 }
 
 export function collectionRoute(
   collectionId: string,
   indexQuery?: string,
+  contentSearch?: ContentSearchRouteState,
 ): string {
   return withIndexQuery(
     `/papers/${encodeURIComponent(collectionId)}`,
     indexQuery,
+    contentSearch,
   );
 }
 

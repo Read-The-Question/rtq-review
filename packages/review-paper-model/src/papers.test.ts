@@ -15,6 +15,7 @@ import {
   listPaperCollections,
   listPaperSources,
   readReviewPaper,
+  searchPaperCollectionContent,
 } from './index.ts';
 
 const registeredCollections = [
@@ -91,6 +92,55 @@ rtq-uuid = "QUESTION-UUID"
 rtq-tags = ["math.number"]
 question = '''Question'''
 `;
+
+test('collection content search scans current files without a retained index', async () => {
+  const root = createContentWorkspace(['toml', 'focusToml']);
+  try {
+    writePaper(root, 'focusToml', 'one.toml', simplePaper);
+    writePaper(
+      root,
+      'focusToml',
+      'two.toml',
+      simplePaper.replace(
+        "question = '''Question'''",
+        "question = '''Geometry'''",
+      ),
+    );
+    const options = { environment: { RTQ_CONTENT_ROOT: root } };
+
+    const first = await searchPaperCollectionContent(
+      'focusToml',
+      { pattern: 'Geometry', scope: 'question' },
+      options,
+    );
+    assert.equal(first.scannedFileCount, 2);
+    assert.deepEqual(
+      first.matches.map((match) => match.relativePath),
+      ['two.toml'],
+    );
+
+    writePaper(
+      root,
+      'focusToml',
+      'one.toml',
+      simplePaper.replace(
+        "question = '''Question'''",
+        "question = '''Geometry'''",
+      ),
+    );
+    const second = await searchPaperCollectionContent(
+      'focusToml',
+      { pattern: 'Geometry', scope: 'question' },
+      options,
+    );
+    assert.deepEqual(
+      second.matches.map((match) => match.relativePath),
+      ['one.toml', 'two.toml'],
+    );
+  } finally {
+    rmSync(root, { force: true, recursive: true });
+  }
+});
 
 const completePaper = String.raw`[meta]
 rtq-paper-id = "PAPER-ID"

@@ -11,16 +11,28 @@ export default async function CollectionPage({
   searchParams,
 }: {
   params: Promise<{ collection: string }>;
-  searchParams: Promise<{ q?: string | string[] }>;
+  searchParams: Promise<{
+    content?: string | string[];
+    'content-scope'?: string | string[];
+    q?: string | string[];
+  }>;
 }) {
   const { collection } = await params;
-  const { q } = await searchParams;
+  const parameters = await searchParams;
   if (!isPaperCollectionId(collection)) notFound();
 
   return (
     <PaperIndex
       initialCollectionId={collection}
-      initialQuery={typeof q === 'string' ? q : undefined}
+      initialContentPattern={
+        typeof parameters.content === 'string' ? parameters.content : undefined
+      }
+      initialContentScope={
+        typeof parameters['content-scope'] === 'string'
+          ? parameters['content-scope']
+          : undefined
+      }
+      initialQuery={typeof parameters.q === 'string' ? parameters.q : undefined}
     />
   );
 }

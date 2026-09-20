@@ -12,6 +12,8 @@ import {
 } from './content.ts';
 import type {
   OriginalQuestionSource,
+  CollectionContentSearchResult,
+  ContentSearchQuery,
   PaperCollection,
   PaperCollectionId,
   PaperSource,
@@ -40,6 +42,10 @@ import {
   type ParsedPaper,
 } from './toml.ts';
 import { resolveReviewPaperTags } from './tags.ts';
+import {
+  compileContentSearch,
+  parsedQuestionTreeMatchesContentSearch,
+} from './search.ts';
 
 type NodePosition = Readonly<{
   paperStem: string;
@@ -55,6 +61,13 @@ type CachedPaperSource = Readonly<{
 }>;
 
 const paperSourceIndexCache = new Map<string, Map<string, CachedPaperSource>>();
+
+export class PaperContentSearchError extends Error {
+  constructor(message: string) {
+    super(message);
+    this.name = 'PaperContentSearchError';
+  }
+}
 
 function hashContent(raw: string): string {
   return createHash('sha256').update(raw).digest('hex');
@@ -402,6 +415,87 @@ export async function listPaperSourcesForCollection(
 ): Promise<readonly PaperSourceSummary[]> {
   const collection = paperCollectionForId(collectionId);
   return listCollectionSources(collection, options);
+}
+
+export async function searchPaperCollectionContent(
+  collectionId: PaperCollectionId,
+  query: ContentSearchQuery,
+  options: ResolveRtqContentOptions = {},
+): Promise<CollectionContentSearchResult> {
+  const compiled = compileContentSearch(query);
+  if (compiled.state === 'invalid') {
+    throw new PaperContentSearchError(compiled.message);
+  }
+
+  const collection = paperCollectionForId(collectionId);
+  const root = resolvePaperCollectionRoot(collection.directory, options);
+  const entries = await readdir(root, { withFileTypes: true });
+  const fileNames = entries
+    .filter(
+      (entry) =>
+        entry.isFile() &&
+        !entry.name.startsWith('.') &&
+        !/^manifest(?:[._-]|$)/i.test(entry.name) &&
+        extname(entry.name).toLowerCase() === '.toml',
+    )
+    .map((entry) => entry.name)
+    .sort((left, right) =>
+      left.localeCompare(right, undefined, {
+        numeric: true,
+        sensitivity: 'base',
+      }),
+    );
+
+  const inspected = await Promise.all(
+    fileNames.map(async (relativePath) => {
+      try {
+        const sourcePath = resolvePaperSourcePath(
+          collection.directory,
+          relativePath,
+          options,
+        );
+        const parsed = parsePaperToml(
+          await readFile(sourcePath, 'utf8'),
+          collection.id,
+        );
+        const matches = parsed.sections.flatMap((section, sectionIndex) =>
+          asRecords(section.questions).flatMap((question, questionIndex) =>
+            parsedQuestionTreeMatchesContentSearch(question, compiled.search)
+              ? [
+                  {
+                    id: `s${sectionIndex}.q${questionIndex}`,
+                    uuid: meaningfulString(question['rtq-uuid']),
+                  },
+                ]
+              : [],
+          ),
+        );
+        return { matches, relativePath, state: 'ready' as const };
+      } catch {
+        return { relativePath, state: 'invalid' as const };
+      }
+    }),
+  );
+
+  return {
+    invalidFileCount: inspected.filter((file) => file.state === 'invalid')
+      .length,
+    matches: inspected.flatMap((file) =>
+      file.state === 'ready' && file.matches.length > 0
+        ? [
+            {
+              matchingQuestionCount: file.matches.length,
+              matchingQuestionIds: file.matches.map((match) => match.id),
+              matchingQuestionUuids: file.matches.flatMap((match) =>
+                match.uuid ? [match.uuid] : [],
+              ),
+              relativePath: file.relativePath,
+            },
+          ]
+        : [],
+    ),
+    scannedFileCount: fileNames.length,
+  };
 }
 
 export async function inspectPaperSource(

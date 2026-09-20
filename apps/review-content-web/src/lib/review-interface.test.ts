@@ -90,8 +90,10 @@ test('review filters are context-scoped, paired, URL-backed, and failure-safe', 
   assert.match(component, /onClearReviewOutcomes=\{clearReviewOutcomes\}/);
   assert.match(
     component,
-    /filterReviewPaper\(paper, activeSelection, reviewOutcomeFilterContext\)/,
+    /filterReviewPaper\([\s\S]*paper,[\s\S]*activeSelection,[\s\S]*reviewOutcomeFilterContext,[\s\S]*contentSearch/,
   );
+  assert.match(component, /<PaperContentSearch/);
+  assert.match(component, /searchParams\.get\('content'\)/);
   assert.match(
     component,
     /reviewFilterSelectionForContext\(selection, preferences\.reviewSide\)/,
@@ -339,6 +341,27 @@ test('the filtered paper rail links every visible question hierarchy level', asy
   assert.match(css, /\.question-index-link--current\s*{/);
 });
 
+test('raw content search highlights source ranges and exact navigation nodes', async () => {
+  const [component, css] = await Promise.all([
+    fs.readFile(componentUrl, 'utf8'),
+    fs.readFile(cssUrl, 'utf8'),
+  ]);
+
+  assert.match(component, /contentSearchRanges\(/);
+  assert.match(component, /className="raw-search-match"/);
+  assert.match(component, /result\.contentMatchingNodeIds/);
+  assert.match(component, /contentMatchingNodeIds\.has\(node\.id\)/);
+  assert.match(component, /className="question-index-search-marker"/);
+  assert.match(component, /aria-label="Raw content match"/);
+  assert.match(component, /title="Raw content match"/);
+  assert.match(css, /\.raw-search-match\s*{[^}]*background:\s*#ffe45e/s);
+  assert.match(
+    css,
+    /\.question-index-search-marker\s*{[^}]*border-radius:\s*50%/s,
+  );
+  assert.doesNotMatch(css, /\.question-index-link--search-match/);
+});
+
 test('previous feedback is controlled globally without repeated hidden-history prompts', async () => {
   const component = await fs.readFile(componentUrl, 'utf8');
 
@@ -522,10 +545,15 @@ test('the landing page uses a compact paper-first introduction', async () => {
     fs.readFile(cssUrl, 'utf8'),
   ]);
 
-  assert.match(home, /<PaperIndex initialQuery=/);
+  assert.match(home, /<PaperIndex[\s\S]*initialQuery=/);
   assert.match(paperIndex, /<h1>Choose a paper<\/h1>/);
   assert.doesNotMatch(paperIndex, /Change the lens/);
-  assert.match(browser, /href=\{collectionRoute\(collection\.id\)\}/);
+  assert.match(
+    browser,
+    /href=\{collectionRoute\(collection\.id, query, contentSearch\)\}/,
+  );
+  assert.match(browser, /Search raw content/);
+  assert.match(browser, /\/api\/papers\/content-search/);
   assert.match(browser, /aria-current=/);
   assert.match(browser, /window\.history\.replaceState/);
   assert.match(browser, /parameters\.set\('q', normalized\)/);

@@ -22,6 +22,8 @@ import {
   RTQ_RATIO_SEPARATOR_EXPANSION,
   RTQ_RATIO_SEPARATOR_MACRO,
   RTQ_SPACING_MACROS,
+  RTQ_TABLE_NO_VALUE_EXPANSION,
+  RTQ_TABLE_NO_VALUE_MACRO,
   RTQ_TIME_SEPARATOR_EXPANSION,
   RTQ_TIME_SEPARATOR_MACRO,
   RTQ_TIME_MERIDIEM_MACROS,
@@ -64,6 +66,9 @@ test("matches the canonical rtq-content shared macro contracts", () => {
   const timeSeparator = contract.macros.find(
     ({ name }) => name === RTQ_TIME_SEPARATOR_MACRO,
   );
+  const tableNoValue = contract.macros.find(
+    ({ name }) => name === RTQ_TABLE_NO_VALUE_MACRO,
+  );
   const ratioSeparator = contract.macros.find(
     ({ name }) => name === RTQ_RATIO_SEPARATOR_MACRO,
   );
@@ -89,6 +94,10 @@ test("matches the canonical rtq-content shared macro contracts", () => {
   assert.deepEqual(timeSeparator, {
     expansion: RTQ_TIME_SEPARATOR_EXPANSION,
     name: RTQ_TIME_SEPARATOR_MACRO,
+  });
+  assert.deepEqual(tableNoValue, {
+    expansion: RTQ_TABLE_NO_VALUE_EXPANSION,
+    name: RTQ_TABLE_NO_VALUE_MACRO,
   });
   assert.deepEqual(ratioSeparator, {
     expansion: RTQ_RATIO_SEPARATOR_EXPANSION,
@@ -143,6 +152,16 @@ test("renders question-mark placeholders with their contracted math roles", () =
       normalize(katex.renderToString(expansion, options)),
     );
   }
+});
+
+test("renders the table no-value marker as an explicit text em dash", () => {
+  const normalize = (html: string) =>
+    html.replace(/<annotation[^>]*>[\s\S]*?<\/annotation>/g, "<annotation/>");
+
+  assert.equal(
+    normalize(katex.renderToString(RTQ_TABLE_NO_VALUE_MACRO, options)),
+    normalize(katex.renderToString(RTQ_TABLE_NO_VALUE_EXPANSION, options)),
+  );
 });
 
 test("renders clock-time separators with ordinary-atom spacing", () => {

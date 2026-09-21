@@ -8,6 +8,7 @@ import {
   useCallback,
   useContext,
   useEffect,
+  useEffectEvent,
   useMemo,
   useRef,
   useState,
@@ -50,6 +51,7 @@ import {
   clearReviewFiltersForContext,
   clearReviewOutcomeFiltersForContext,
   collectionRoute,
+  paperRoute,
   parseReviewFilterDisclosure,
   parseReviewPreferences,
   reviewFilterSelectionForContext,
@@ -74,6 +76,7 @@ import {
   reviewOutcomeLabel,
   reviewOutcomeFilterLabel,
   reviewOutcomeTone,
+  reviewSourceForNode,
   runUniqueReviewRequest,
   type LocalReviewComment,
   type ImageReviewMetadata,
@@ -295,9 +298,12 @@ type KeyboardCommentDialogState = Readonly<{
 }>;
 
 type GlobalFindingDialogState = Readonly<{
+  collectionId: string;
   nodeId: string;
   nodeLabel: string;
+  relativePath: string;
   side: ReviewSide;
+  sourceVersion: string;
 }>;
 
 function flattenReviewCursors(
@@ -1230,6 +1236,7 @@ function ImageReviewStatusBlock({
 }
 
 function QuestionNode({
+  idPrefix = '',
   matchingNodeIds,
   node,
   preferences,
@@ -1237,6 +1244,7 @@ function QuestionNode({
   reviewRuntime,
   topLevelQuestion,
 }: {
+  idPrefix?: string;
   matchingNodeIds: ReadonlySet<string>;
   node: DisplayPaperNode;
   preferences: ReviewPreferences;
@@ -1253,6 +1261,7 @@ function QuestionNode({
     ? contentStatus?.tone
     : undefined;
   const imageSide = `${preferences.reviewSide}-image` as const;
+  const corpusSource = node.depth === 0 ? node.reviewSource : undefined;
   return (
     <article
       className={`question-node question-node--depth-${node.depth}${
@@ -1270,8 +1279,48 @@ function QuestionNode({
           ? ` question-node--status-background-${contentStatusTone}`
           : ''
       }`}
-      id={`question-${node.id}`}
+      id={`${idPrefix}question-${node.id}`}
     >
+      {corpusSource ? (
+        <header className="corpus-result-source">
+          <span className="corpus-result-number">
+            {String(corpusSource.resultPosition).padStart(3, '0')}
+          </span>
+          <div>
+            <p>{corpusSource.paperTitle}</p>
+            <span>
+              {corpusSource.sectionLabel} · {node.label}
+            </span>
+            <code>{corpusSource.relativePath}</code>
+          </div>
+          <dl className="corpus-result-metadata">
+            <div>
+              <dt>Year</dt>
+              <dd>{corpusSource.paperMetadata.year ?? '—'}</dd>
+            </div>
+            <div>
+              <dt>Paper RAG</dt>
+              <dd>{corpusSource.paperMetadata.paperRag ?? '—'}</dd>
+            </div>
+            <div>
+              <dt>Access</dt>
+              <dd>{corpusSource.paperMetadata.accessTier ?? '—'}</dd>
+            </div>
+            <div>
+              <dt>Schools</dt>
+              <dd>{corpusSource.paperMetadata.schoolIds.join(', ') || '—'}</dd>
+            </div>
+          </dl>
+          <Link
+            href={`${paperRoute(
+              corpusSource.collectionId,
+              corpusSource.relativePath,
+            )}?question=${encodeURIComponent(corpusSource.nodeId)}`}
+          >
+            Open in paper ↗
+          </Link>
+        </header>
+      ) : null}
       {statusRails.length > 0 ? (
         <div className="question-status-rails" aria-hidden="true">
           {statusRails.map(({ side, tone }) => (
@@ -1366,6 +1415,7 @@ function QuestionNode({
         <div className="nested-questions">
           {node.children.map((child) => (
             <QuestionNode
+              idPrefix={idPrefix}
               key={child.id}
               matchingNodeIds={matchingNodeIds}
               node={child}
@@ -1848,12 +1898,14 @@ function FilterPanel({
 
 function PaperContentSearch({
   error,
+  limit,
   onApply,
   onClear,
   search,
 }: {
   error?: string;
-  onApply: (search: ContentSearchQuery) => void;
+  limit?: 20 | 50 | 100;
+  onApply: (search: ContentSearchQuery, limit?: 20 | 50 | 100) => void;
   onClear: () => void;
   search?: ContentSearchQuery;
 }) {
@@ -1861,6 +1913,7 @@ function PaperContentSearch({
   const [scope, setScope] = useState<ContentSearchScope>(
     search?.scope ?? 'all',
   );
+  const [resultLimit, setResultLimit] = useState<20 | 50 | 100>(limit ?? 20);
   const [draftError, setDraftError] = useState<string>();
 
   function submit(event: FormEvent<HTMLFormElement>) {
@@ -1871,10 +1924,13 @@ function PaperContentSearch({
       return;
     }
     setDraftError(undefined);
-    onApply({
-      pattern: compiled.search.pattern,
-      scope: compiled.search.scope,
-    });
+    onApply(
+      {
+        pattern: compiled.search.pattern,
+        scope: compiled.search.scope,
+      },
+      resultLimit,
+    );
   }
 
   const displayedError = draftError ?? error;
@@ -1916,8 +1972,25 @@ function PaperContentSearch({
             ))}
           </select>
         </label>
+        {limit ? (
+          <label>
+            <span>Results</span>
+            <select
+              onChange={(event) =>
+                setResultLimit(Number(event.target.value) as 20 | 50 | 100)
+              }
+              value={resultLimit}
+            >
+              {[20, 50, 100].map((value) => (
+                <option key={value} value={value}>
+                  {value}
+                </option>
+              ))}
+            </select>
+          </label>
+        ) : null}
         <button disabled={!pattern.trim()} type="submit">
-          Apply
+          {limit ? 'Search corpus' : 'Apply'}
         </button>
         {search ? (
           <button onClick={onClear} type="button">
@@ -1967,7 +2040,16 @@ function QuestionIndexNode({
         }`}
         href={`#question-${node.id}`}
       >
-        <span>{node.label}</span>
+        <span>
+          {node.reviewSource && node.depth === 0
+            ? `${node.reviewSource.resultPosition} · ${node.reviewSource.paperTitle}`
+            : node.label}
+          {node.reviewSource && node.depth === 0 ? (
+            <small>
+              {node.reviewSource.sectionLabel} · {node.label}
+            </small>
+          ) : null}
+        </span>
         {contentMatch ? (
           <span
             aria-label="Raw content match"
@@ -2147,13 +2229,61 @@ function SourceFreshnessBanner({
   );
 }
 
+export type CorpusReviewSurfaceConfig = Readonly<{
+  endPosition: number;
+  invalidFileCount: number;
+  limit: 20 | 50 | 100;
+  nextCursor?: string;
+  onClearSearch: () => void;
+  onPage: (cursor: string) => void;
+  onSearch: (search: ContentSearchQuery, limit: 20 | 50 | 100) => void;
+  previousCursor?: string;
+  scannedFileCount: number;
+  searchError?: string;
+  startPosition: number;
+}>;
+
+function CorpusPageNavigation({
+  corpus,
+}: {
+  corpus: CorpusReviewSurfaceConfig;
+}) {
+  return (
+    <nav className="corpus-page-navigation" aria-label="Corpus result pages">
+      <button
+        disabled={!corpus.previousCursor}
+        onClick={() =>
+          corpus.previousCursor && corpus.onPage(corpus.previousCursor)
+        }
+        type="button"
+      >
+        ← Previous {corpus.limit}
+      </button>
+      <span>
+        {corpus.startPosition > 0
+          ? `Results ${corpus.startPosition}–${corpus.endPosition}`
+          : 'No matching results'}
+      </span>
+      <button
+        disabled={!corpus.nextCursor}
+        onClick={() => corpus.nextCursor && corpus.onPage(corpus.nextCursor)}
+        type="button"
+      >
+        Next {corpus.limit} →
+      </button>
+    </nav>
+  );
+}
+
 export function ReviewSurface({
   commentLoad,
+  corpus,
   outcomeLoad,
   paper,
   reviewer,
 }: {
   commentLoad: ReviewCommentLoad;
+  corpus?: CorpusReviewSurfaceConfig;
   outcomeLoad: ReviewOutcomeLoad;
   paper: DisplayReviewPaper;
   reviewer: string;
@@ -2182,9 +2312,10 @@ export function ReviewSurface({
   const [pendingKeys, setPendingKeys] = useState<ReadonlySet<string>>(
     () => new Set(),
   );
-  const [sourceFreshness, setSourceFreshness] = useState<SourceFreshnessStatus>(
-    { state: 'current' },
-  );
+  const [sourceFreshness, setSourceFreshness] = useState<{
+    key?: string;
+    status: SourceFreshnessStatus;
+  }>({ status: { state: 'current' } });
   const [sourceFreshnessChecking, setSourceFreshnessChecking] = useState(false);
   const [currentNodeId, setCurrentNodeId] = useState<string>();
   const [keyboardStatus, setKeyboardStatus] = useState<ReviewActionStatus>({
@@ -2310,7 +2441,17 @@ export function ReviewSurface({
   const reviewSource = {
     collectionId: paper.source.collection.id,
     relativePath: paper.source.relativePath,
+    version: paper.source.version,
   };
+  const currentReviewSource = currentCursor
+    ? reviewSourceForNode(currentCursor.node, reviewSource)
+    : reviewSource;
+  const currentSourceCollectionId = currentReviewSource.collectionId;
+  const currentSourcePath = currentReviewSource.relativePath;
+  const currentSourceVersion = currentReviewSource.version ?? '';
+  const currentSourceKey = `${currentSourceCollectionId}\u0000${currentSourcePath}\u0000${currentSourceVersion}`;
+  const hasCurrentCursor = Boolean(currentCursor);
+  const isCorpusSurface = Boolean(corpus);
   function toolbarOutcomeTarget(side: ReviewSide) {
     return currentCursor
       ? reviewTargetForNode(currentCursor.topLevelQuestion, side, reviewSource)
@@ -2413,35 +2554,37 @@ export function ReviewSurface({
     1,
   );
 
-  const checkSourceFreshness = useCallback(async () => {
+  async function checkSourceFreshness() {
+    if (isCorpusSurface && !hasCurrentCursor) return;
     if (sourceFreshnessPending.current) return;
     sourceFreshnessPending.current = true;
     setSourceFreshnessChecking(true);
 
     try {
       const response = await fetch(
-        sourceVersionUrl(paper.source.collection.id, paper.source.relativePath),
+        sourceVersionUrl(currentSourceCollectionId, currentSourcePath),
         { cache: 'no-store' },
       );
       const payload: unknown = await response.json().catch(() => undefined);
-      setSourceFreshness(
-        evaluateSourceFreshness(paper.source.version, payload),
-      );
+      setSourceFreshness({
+        key: currentSourceKey,
+        status: evaluateSourceFreshness(currentSourceVersion, payload),
+      });
     } catch {
       setSourceFreshness({
-        message:
-          'The app could not inspect the source file. Check the local server and try again.',
-        state: 'error',
+        key: currentSourceKey,
+        status: {
+          message:
+            'The app could not inspect the source file. Check the local server and try again.',
+          state: 'error',
+        },
       });
     } finally {
       sourceFreshnessPending.current = false;
       setSourceFreshnessChecking(false);
     }
-  }, [
-    paper.source.collection.id,
-    paper.source.relativePath,
-    paper.source.version,
-  ]);
+  }
+  const checkVisibleSourceFreshness = useEffectEvent(checkSourceFreshness);
 
   const withPending = useCallback(
     <Result,>(key: string, request: () => Promise<Result>) =>
@@ -2666,7 +2809,7 @@ export function ReviewSurface({
   useEffect(() => {
     function checkVisibleSource() {
       if (document.visibilityState === 'visible') {
-        void checkSourceFreshness();
+        void checkVisibleSourceFreshness();
       }
     }
 
@@ -2676,7 +2819,7 @@ export function ReviewSurface({
       window.removeEventListener('focus', checkVisibleSource);
       document.removeEventListener('visibilitychange', checkVisibleSource);
     };
-  }, [checkSourceFreshness]);
+  }, []);
 
   useEffect(() => {
     if (!activeFromUrl || activeId !== activeFromUrl) return;
@@ -2878,7 +3021,14 @@ export function ReviewSurface({
     );
   }
 
-  function applyContentSearch(search: ContentSearchQuery) {
+  function applyContentSearch(
+    search: ContentSearchQuery,
+    requestedLimit?: 20 | 50 | 100,
+  ) {
+    if (corpus) {
+      corpus.onSearch(search, requestedLimit ?? corpus.limit);
+      return;
+    }
     const current = new URLSearchParams(searchParams.toString());
     current.delete('question');
     current.set('content', search.pattern);
@@ -2888,6 +3038,10 @@ export function ReviewSurface({
   }
 
   function clearContentSearch() {
+    if (corpus) {
+      corpus.onClearSearch();
+      return;
+    }
     const current = new URLSearchParams(searchParams.toString());
     current.delete('content');
     current.delete('content-scope');
@@ -2928,6 +3082,10 @@ export function ReviewSurface({
   }
 
   function refreshPaper() {
+    if (corpus) {
+      window.location.reload();
+      return;
+    }
     startRefresh(() => router.refresh());
   }
 
@@ -3064,10 +3222,14 @@ export function ReviewSurface({
     globalFindingSubmissionId.current = undefined;
     setGlobalFindingDraft('');
     setKeyboardStatus({ kind: 'idle', message: '' });
+    const source = reviewSourceForNode(currentCursor.node, reviewSource);
     setGlobalFindingDialog({
-      nodeId: currentCursor.node.id,
+      collectionId: source.collectionId,
+      nodeId: source.nodeId,
       nodeLabel: currentCursor.node.label,
+      relativePath: source.relativePath,
       side: 'question',
+      sourceVersion: source.version ?? paper.source.version,
     });
   }
 
@@ -3098,11 +3260,11 @@ export function ReviewSurface({
             finding,
             reviewer,
             source: {
-              collectionId: paper.source.collection.id,
+              collectionId: globalFindingDialog.collectionId,
               nodeId: globalFindingDialog.nodeId,
-              relativePath: paper.source.relativePath,
+              relativePath: globalFindingDialog.relativePath,
               side: globalFindingDialog.side,
-              sourceVersion: paper.source.version,
+              sourceVersion: globalFindingDialog.sourceVersion,
             },
             submissionId: globalFindingSubmissionId.current,
           }),
@@ -3219,21 +3381,39 @@ export function ReviewSurface({
         <div className="paper-breadcrumb">
           <Link href="/">Paper index</Link>
           <span>/</span>
-          <Link
-            href={collectionRoute(
-              paper.source.collection.id,
-              searchParams.get('q') ?? undefined,
-              contentSearch,
-            )}
-          >
-            {paper.source.collection.label}
-          </Link>
+          {corpus ? (
+            <Link href="/search">Corpus search</Link>
+          ) : (
+            <Link
+              href={collectionRoute(
+                paper.source.collection.id,
+                searchParams.get('q') ?? undefined,
+                contentSearch,
+              )}
+            >
+              {paper.source.collection.label}
+            </Link>
+          )}
         </div>
         <div className="paper-title-row">
           <div>
-            <p className="eyebrow">{paper.source.provenance.kind} source</p>
-            <h1>{paper.title}</h1>
-            <code>{paper.source.fileName}</code>
+            <p className="eyebrow">
+              {corpus
+                ? 'Canonical question corpus'
+                : `${paper.source.provenance.kind} source`}
+            </p>
+            <h1>
+              {corpus && corpus.startPosition > 0
+                ? `Search results ${corpus.startPosition}–${corpus.endPosition}`
+                : corpus
+                  ? 'Search every question'
+                  : paper.title}
+            </h1>
+            <code>
+              {corpus && contentSearch
+                ? `/${contentSearch.pattern}/im · ${contentScopeLabels[contentSearch.scope]}`
+                : paper.source.fileName}
+            </code>
           </div>
           <dl className="paper-metadata">
             <div>
@@ -3241,40 +3421,57 @@ export function ReviewSurface({
               <dd>{paper.source.questionCount}</dd>
             </div>
             <div>
-              <dt>Year</dt>
-              <dd>{paper.metadata.year ?? '—'}</dd>
+              <dt>{corpus ? 'Files scanned' : 'Year'}</dt>
+              <dd>
+                {corpus
+                  ? corpus.scannedFileCount
+                  : (paper.metadata.year ?? '—')}
+              </dd>
             </div>
             <div>
-              <dt>Paper RAG</dt>
-              <dd>{paper.metadata.paperRag ?? '—'}</dd>
+              <dt>{corpus ? 'Page size' : 'Paper RAG'}</dt>
+              <dd>
+                {corpus ? corpus.limit : (paper.metadata.paperRag ?? '—')}
+              </dd>
             </div>
             <div>
-              <dt>Access</dt>
-              <dd>{paper.metadata.accessTier ?? '—'}</dd>
+              <dt>{corpus ? 'Source' : 'Access'}</dt>
+              <dd>
+                {corpus ? 'Canonical TOML' : (paper.metadata.accessTier ?? '—')}
+              </dd>
             </div>
           </dl>
         </div>
-        <div className="paper-provenance">
-          {paper.metadata.paperId ? (
-            <code>ID {paper.metadata.paperId}</code>
-          ) : null}
-          {paper.metadata.schoolIds.map((school) => (
-            <code key={school}>School {school}</code>
-          ))}
-        </div>
+        {corpus ? null : (
+          <div className="paper-provenance">
+            {paper.metadata.paperId ? (
+              <code>ID {paper.metadata.paperId}</code>
+            ) : null}
+            {paper.metadata.schoolIds.map((school) => (
+              <code key={school}>School {school}</code>
+            ))}
+          </div>
+        )}
       </header>
 
-      <SourceFreshnessBanner
-        checking={sourceFreshnessChecking}
-        onCheck={() => void checkSourceFreshness()}
-        onRefresh={refreshPaper}
-        refreshing={refreshing}
-        status={sourceFreshness}
-      />
+      {!corpus || currentCursor ? (
+        <SourceFreshnessBanner
+          checking={sourceFreshnessChecking}
+          onCheck={() => void checkSourceFreshness()}
+          onRefresh={refreshPaper}
+          refreshing={refreshing}
+          status={
+            sourceFreshness.key === currentSourceKey
+              ? sourceFreshness.status
+              : { state: 'current' }
+          }
+        />
+      ) : null}
 
       <PaperContentSearch
-        error={result.contentSearchError}
-        key={`${contentSearch?.pattern ?? ''}:${contentSearch?.scope ?? 'all'}`}
+        error={corpus?.searchError ?? result.contentSearchError}
+        key={`${contentSearch?.pattern ?? ''}:${contentSearch?.scope ?? 'all'}:${corpus?.limit ?? ''}`}
+        limit={corpus?.limit}
         onApply={applyContentSearch}
         onClear={clearContentSearch}
         search={contentSearch}
@@ -3523,6 +3720,7 @@ export function ReviewSurface({
         onNavigate={navigateTo}
         questionIds={result.matchingQuestionTreeIds}
       />
+      {corpus ? <CorpusPageNavigation corpus={corpus} /> : null}
 
       {result.matchingQuestionTreeCount === 0 ? (
         <section className="empty-results" aria-live="polite">
@@ -3591,6 +3789,7 @@ export function ReviewSurface({
         onNavigate={navigateTo}
         questionIds={result.matchingQuestionTreeIds}
       />
+      {corpus ? <CorpusPageNavigation corpus={corpus} /> : null}
       <footer className="paper-footer" id="paper-bottom">
         <a href="#paper-top">Back to top ↑</a>
         <span>TOML and canonical assets are never mutated by this app.</span>

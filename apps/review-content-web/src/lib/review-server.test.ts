@@ -24,6 +24,7 @@ import {
   reviewOutcomeFilterLabel,
   reviewOutcomeTone,
   reviewCommentTargetForNode,
+  reviewTargetForNode,
   runUniqueReviewRequest,
   sheetCodeFromSourceRag,
   type ReviewTargetDescriptor,
@@ -291,6 +292,65 @@ test('uses each nested node UUID and only inherits RAG from its top-level questi
   assert.equal(answerTarget?.uuid, nested.uuid);
   assert.equal(answerTarget?.ragState, 'rag_wf_g0');
   assert.equal(questionTarget?.sheet, null);
+});
+
+test('uses canonical source identity for virtual corpus result nodes', () => {
+  const topLevel = {
+    depth: 0,
+    id: 'result-21.s2.q4',
+    review: {
+      answer: {},
+      'answer-image': {},
+      question: { contentRag: 'rag_wf_ng3' },
+      'question-image': {},
+    },
+    reviewSource: {
+      collectionId: 'toml',
+      nodeId: 's2.q4',
+      paperMetadata: { focusGroups: [], schoolIds: [] },
+      paperTitle: 'Canonical paper',
+      relativePath: 'school/canonical-paper.toml',
+      resultPosition: 21,
+      sectionLabel: 'Section 3',
+      version: 'canonical-version',
+    },
+    uuid: 'AAAAAAAA-AAAA-4AAA-8AAA-AAAAAAAAAAAA',
+  } as unknown as ReviewPaperNode;
+  const nested = {
+    depth: 1,
+    id: 'result-21.s2.q4.sq0',
+    review: {
+      answer: {},
+      'answer-image': {},
+      question: {},
+      'question-image': {},
+    },
+    reviewSource: {
+      ...topLevel.reviewSource,
+      nodeId: 's2.q4.sq0',
+    },
+    uuid: 'BBBBBBBB-BBBB-4BBB-8BBB-BBBBBBBBBBBB',
+  } as unknown as ReviewPaperNode;
+  const virtualSource = {
+    collectionId: 'toml',
+    relativePath: 'corpus-search',
+  };
+
+  assert.deepEqual(reviewTargetForNode(topLevel, 'question', virtualSource), {
+    collectionId: 'toml',
+    nodeId: 's2.q4',
+    questionId: null,
+    ragState: 'rag_wf_ng3',
+    relativePath: 'school/canonical-paper.toml',
+    sheet: 'NG3',
+    side: 'question',
+    uuid: topLevel.uuid,
+  });
+  assert.equal(
+    reviewCommentTargetForNode(nested, topLevel, 'question', virtualSource)
+      ?.nodeId,
+    's2.q4.sq0',
+  );
 });
 
 test('recursively resolves a nested comment target within its top-level RAG context', () => {

@@ -7,10 +7,11 @@ outcomes use one configured database or Google Sheets destination while comments
 and product-wide findings use the shared review database.
 
 The application currently provides collection and file browsing, full nested
-paper presentation, five-axis runtime tag filters, independent question and
-answer content-RAG filters, rendered and raw content views, allowlisted
-canonical paper assets, Google Sheets outcome submission, local append-only
-review comments, and a separate product-wide finding inbox. A filter-aware left rail links directly to every visible
+paper presentation, corpus-wide canonical question search, five-axis runtime
+tag filters, independent question and answer content-RAG filters, rendered and
+raw content views, allowlisted canonical paper assets, Google Sheets outcome
+submission, local append-only review comments, and a separate product-wide
+finding inbox. A filter-aware left rail links directly to every visible
 question, subquestion, and sub-subquestion. The read-only `allTopicsToml`
 collection exposes the complete one-way projection across every active tag.
 
@@ -88,6 +89,25 @@ check. In production, the Node.js process must be able to see the same local
 checkout; each process maintains its own disposable index-summary cache.
 Dimensional and RAG filtering operates entirely on the already loaded paper in
 the browser and does not read TOML or contact Google Sheets.
+
+## Corpus search
+
+Open `/search`, or select **All questions** in the landing-page rail, to search
+authored question, answer, and working source across the complete canonical
+`toml` collection. Search results are complete top-level question trees, so a
+nested match retains its surrounding question context. Each result uses the
+same `ReviewSurface` as a paper page, including the sticky review console,
+question/answer switching, filters, status backgrounds, outcomes, comments,
+image review, and global findings. Each result retains its canonical paper,
+node, UUID, RAG state, and source version for validation and links back to that
+paper; only its cross-paper display ID is synthetic.
+
+Result pages contain 20, 50, or 100 question trees and are ordered by canonical
+paper path, section, and question position. Opaque cursors preserve that stable
+order between Next and Previous pages without exposing filesystem paths. The
+server stops after establishing whether another page exists rather than
+building or returning an unbounded result set. Changing the expression, scope,
+or page size starts again from the first result.
 
 ## Review controls
 

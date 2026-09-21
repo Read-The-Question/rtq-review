@@ -14,6 +14,7 @@ import type {
   OriginalQuestionSource,
   CollectionContentSearchResult,
   ContentSearchQuery,
+  CorpusQuestionContentSearchPage,
   PaperCollection,
   PaperCollectionId,
   PaperSource,
@@ -44,6 +45,7 @@ import {
 import { resolveReviewPaperTags } from './tags.ts';
 import {
   compileContentSearch,
+  parsedQuestionTreeContentMatchNodeIds,
   parsedQuestionTreeMatchesContentSearch,
 } from './search.ts';
 
@@ -66,6 +68,62 @@ export class PaperContentSearchError extends Error {
   constructor(message: string) {
     super(message);
     this.name = 'PaperContentSearchError';
+  }
+}
+
+type CorpusQuestionSearchOptions = Readonly<{
+  cursor?: string;
+  limit: number;
+}>;
+
+type CorpusSearchCursor = Readonly<{
+  offset: number;
+  query: string;
+  version: 1;
+}>;
+
+function corpusSearchQueryKey(query: ContentSearchQuery): string {
+  return hashContent(`${query.scope}\0${query.pattern}`);
+}
+
+function encodeCorpusSearchCursor(
+  query: ContentSearchQuery,
+  offset: number,
+): string {
+  const cursor: CorpusSearchCursor = {
+    offset,
+    query: corpusSearchQueryKey(query),
+    version: 1,
+  };
+  return Buffer.from(JSON.stringify(cursor), 'utf8').toString('base64url');
+}
+
+function decodeCorpusSearchCursor(
+  value: string | undefined,
+  query: ContentSearchQuery,
+): number {
+  if (!value) return 0;
+  try {
+    const parsed: unknown = JSON.parse(
+      Buffer.from(value, 'base64url').toString('utf8'),
+    );
+    if (
+      !parsed ||
+      typeof parsed !== 'object' ||
+      Array.isArray(parsed) ||
+      (parsed as Partial<CorpusSearchCursor>).version !== 1 ||
+      !Number.isSafeInteger((parsed as Partial<CorpusSearchCursor>).offset) ||
+      ((parsed as Partial<CorpusSearchCursor>).offset ?? -1) < 0 ||
+      (parsed as Partial<CorpusSearchCursor>).query !==
+        corpusSearchQueryKey(query)
+    ) {
+      throw new Error('Invalid cursor.');
+    }
+    return (parsed as CorpusSearchCursor).offset;
+  } catch {
+    throw new PaperContentSearchError(
+      'The search page cursor is invalid for this expression.',
+    );
   }
 }
 
@@ -495,6 +553,141 @@ export async function searchPaperCollectionContent(
         : [],
     ),
     scannedFileCount: fileNames.length,
+  };
+}
+
+export async function searchPaperQuestionTrees(
+  collectionId: PaperCollectionId,
+  query: ContentSearchQuery,
+  searchOptions: CorpusQuestionSearchOptions,
+  options: ResolveRtqContentOptions = {},
+): Promise<CorpusQuestionContentSearchPage> {
+  const compiled = compileContentSearch(query);
+  if (compiled.state === 'invalid') {
+    throw new PaperContentSearchError(compiled.message);
+  }
+  if (
+    !Number.isSafeInteger(searchOptions.limit) ||
+    searchOptions.limit < 1 ||
+    searchOptions.limit > 100
+  ) {
+    throw new PaperContentSearchError(
+      'The result limit must be between 1 and 100.',
+    );
+  }
+
+  const normalizedQuery = {
+    pattern: compiled.search.pattern,
+    scope: compiled.search.scope,
+  };
+  const offset = decodeCorpusSearchCursor(
+    searchOptions.cursor,
+    normalizedQuery,
+  );
+  const collection = paperCollectionForId(collectionId);
+  const root = resolvePaperCollectionRoot(collection.directory, options);
+  const entries = await readdir(root, { withFileTypes: true });
+  const fileNames = entries
+    .filter(
+      (entry) =>
+        entry.isFile() &&
+        !entry.name.startsWith('.') &&
+        !/^manifest(?:[._-]|$)/i.test(entry.name) &&
+        extname(entry.name).toLowerCase() === '.toml',
+    )
+    .map((entry) => entry.name)
+    .sort((left, right) =>
+      left.localeCompare(right, undefined, {
+        numeric: true,
+        sensitivity: 'base',
+      }),
+    );
+
+  const matches: {
+    matchingNodeIds: readonly string[];
+    questionIndex: number;
+    relativePath: string;
+    sectionIndex: number;
+  }[] = [];
+  let invalidFileCount = 0;
+  let matchedBeforePage = 0;
+  let scannedFileCount = 0;
+  let hasNextPage = false;
+
+  fileLoop: for (const relativePath of fileNames) {
+    scannedFileCount += 1;
+    try {
+      const sourcePath = resolvePaperSourcePath(
+        collection.directory,
+        relativePath,
+        options,
+      );
+      const parsed = parsePaperToml(
+        await readFile(sourcePath, 'utf8'),
+        collection.id,
+      );
+      for (
+        let sectionIndex = 0;
+        sectionIndex < parsed.sections.length;
+        sectionIndex += 1
+      ) {
+        const questions = asRecords(parsed.sections[sectionIndex].questions);
+        for (
+          let questionIndex = 0;
+          questionIndex < questions.length;
+          questionIndex += 1
+        ) {
+          const matchingNodeIds = parsedQuestionTreeContentMatchNodeIds(
+            questions[questionIndex],
+            compiled.search,
+            `s${sectionIndex}.q${questionIndex}`,
+          );
+          if (matchingNodeIds.length === 0) continue;
+          if (matchedBeforePage < offset) {
+            matchedBeforePage += 1;
+            continue;
+          }
+          if (matches.length === searchOptions.limit) {
+            hasNextPage = true;
+            break fileLoop;
+          }
+          matches.push({
+            matchingNodeIds,
+            questionIndex,
+            relativePath,
+            sectionIndex,
+          });
+        }
+      }
+    } catch {
+      invalidFileCount += 1;
+    }
+  }
+
+  const startPosition = matches.length > 0 ? offset + 1 : 0;
+  const endPosition = offset + matches.length;
+  return {
+    endPosition,
+    invalidFileCount,
+    matches,
+    ...(hasNextPage
+      ? {
+          nextCursor: encodeCorpusSearchCursor(
+            normalizedQuery,
+            offset + matches.length,
+          ),
+        }
+      : {}),
+    ...(offset > 0
+      ? {
+          previousCursor: encodeCorpusSearchCursor(
+            normalizedQuery,
+            Math.max(0, offset - searchOptions.limit),
+          ),
+        }
+      : {}),
+    scannedFileCount,
+    startPosition,
   };
 }
 

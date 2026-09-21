@@ -279,12 +279,12 @@ function prepareField(
   }
 }
 
-function prepareNode(
+export function prepareReviewPaperNodeForDisplay(
   node: ReviewPaper['sections'][number]['questions'][number],
 ): DisplayPaperNode {
   return {
     ...node,
-    children: node.children.map(prepareNode),
+    children: node.children.map(prepareReviewPaperNodeForDisplay),
     content: {
       answers: node.content.answers.map((answer) => ({
         answer: prepareField(answer.answer),
@@ -310,7 +310,7 @@ export function prepareReviewPaperForDisplay(
     ...paper,
     sections: paper.sections.map((section) => ({
       ...section,
-      questions: section.questions.map(prepareNode),
+      questions: section.questions.map(prepareReviewPaperNodeForDisplay),
     })),
   };
 }

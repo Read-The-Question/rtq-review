@@ -180,6 +180,16 @@ export type ReviewPaperNode = Readonly<{
   label: string;
   originalSource?: OriginalQuestionSource;
   questionId?: string;
+  reviewSource?: Readonly<{
+    collectionId: PaperCollectionId;
+    nodeId: string;
+    paperMetadata: ReviewPaperMetadata;
+    paperTitle: string;
+    relativePath: string;
+    resultPosition: number;
+    sectionLabel: string;
+    version: string;
+  }>;
   review: Readonly<{
     answer: ReviewTargetState;
     'answer-image': ReviewTargetState;
@@ -228,6 +238,23 @@ export type CollectionContentSearchResult = Readonly<{
   invalidFileCount: number;
   matches: readonly CollectionContentSearchMatch[];
   scannedFileCount: number;
+}>;
+
+export type CorpusQuestionContentSearchMatch = Readonly<{
+  matchingNodeIds: readonly string[];
+  questionIndex: number;
+  relativePath: string;
+  sectionIndex: number;
+}>;
+
+export type CorpusQuestionContentSearchPage = Readonly<{
+  endPosition: number;
+  invalidFileCount: number;
+  matches: readonly CorpusQuestionContentSearchMatch[];
+  nextCursor?: string;
+  previousCursor?: string;
+  scannedFileCount: number;
+  startPosition: number;
 }>;
 
 export type DimensionalFilterSelection = Readonly<

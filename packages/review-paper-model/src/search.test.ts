@@ -5,6 +5,7 @@ import {
   compileContentSearch,
   contentSearchRanges,
   filterReviewPaper,
+  parsedQuestionTreeContentMatchNodeIds,
   type ReviewContentField,
   type ReviewPaper,
   type ReviewPaperNode,
@@ -173,5 +174,31 @@ test('invalid expressions leave the current paper visible and report an error', 
   assert.equal(
     compileContentSearch({ pattern: '[', scope: 'all' }).state,
     'invalid',
+  );
+});
+
+test('raw parsed search IDs follow the normalized nested node path', () => {
+  const compiled = compileContentSearch({
+    pattern: 'deep match',
+    scope: 'question',
+  });
+  assert.equal(compiled.state, 'ready');
+  if (compiled.state !== 'ready') return;
+
+  assert.deepEqual(
+    parsedQuestionTreeContentMatchNodeIds(
+      {
+        question: 'parent',
+        subquestions: [
+          {
+            question: 'child',
+            subquestions: [{ question: 'deep match' }],
+          },
+        ],
+      },
+      compiled.search,
+      's2.q4',
+    ),
+    ['s2.q4.sq0.ssq0'],
   );
 });

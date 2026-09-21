@@ -220,6 +220,29 @@ export function reviewTargetKey(
   return `${target.uuid}:${target.side}`;
 }
 
+export function reviewSourceForNode(
+  node: ReviewPaperNode,
+  fallback: Readonly<{
+    collectionId: string;
+    relativePath: string;
+    version?: string;
+  }>,
+) {
+  return node.reviewSource
+    ? {
+        collectionId: node.reviewSource.collectionId,
+        nodeId: node.reviewSource.nodeId,
+        relativePath: node.reviewSource.relativePath,
+        version: node.reviewSource.version,
+      }
+    : {
+        collectionId: fallback.collectionId,
+        nodeId: node.id,
+        relativePath: fallback.relativePath,
+        version: fallback.version,
+      };
+}
+
 export async function runUniqueReviewRequest<Result>(
   active: Set<string>,
   key: string,
@@ -275,12 +298,13 @@ export function reviewTargetForNode(
   ) {
     return undefined;
   }
+  const reviewSource = reviewSourceForNode(node, source);
   return {
-    collectionId: source.collectionId,
-    nodeId: node.id,
+    collectionId: reviewSource.collectionId,
+    nodeId: reviewSource.nodeId,
     questionId: node.questionId ?? null,
     ragState,
-    relativePath: source.relativePath,
+    relativePath: reviewSource.relativePath,
     sheet: sheetCodeFromSourceRag(ragState),
     side,
     uuid: node.uuid,
@@ -303,12 +327,13 @@ export function reviewCommentTargetForNode(
   ) {
     return undefined;
   }
+  const reviewSource = reviewSourceForNode(node, source);
   return {
-    collectionId: source.collectionId,
-    nodeId: node.id,
+    collectionId: reviewSource.collectionId,
+    nodeId: reviewSource.nodeId,
     questionId: node.questionId ?? null,
     ragState,
-    relativePath: source.relativePath,
+    relativePath: reviewSource.relativePath,
     sheet: null,
     side,
     uuid: node.uuid,

@@ -16,6 +16,7 @@ import {
   listPaperSources,
   readReviewPaper,
   searchPaperCollectionContent,
+  searchPaperQuestionTrees,
 } from './index.ts';
 
 const registeredCollections = [
@@ -136,6 +137,57 @@ test('collection content search scans current files without a retained index', a
     assert.deepEqual(
       second.matches.map((match) => match.relativePath),
       ['one.toml', 'two.toml'],
+    );
+  } finally {
+    rmSync(root, { force: true, recursive: true });
+  }
+});
+
+test('corpus question search returns bounded stable pages', async () => {
+  const root = createContentWorkspace(['toml']);
+  try {
+    writePaper(root, 'toml', 'one.toml', simplePaper);
+    writePaper(
+      root,
+      'toml',
+      'two.toml',
+      simplePaper.replace('QUESTION-UUID', 'SECOND-QUESTION-UUID'),
+    );
+    const options = { environment: { RTQ_CONTENT_ROOT: root } };
+
+    const first = await searchPaperQuestionTrees(
+      'toml',
+      { pattern: 'Question', scope: 'question' },
+      { limit: 1 },
+      options,
+    );
+    assert.equal(first.startPosition, 1);
+    assert.equal(first.endPosition, 1);
+    assert.equal(first.matches[0].relativePath, 'one.toml');
+    assert.deepEqual(first.matches[0].matchingNodeIds, ['s0.q0']);
+    assert.ok(first.nextCursor);
+    assert.equal(first.previousCursor, undefined);
+
+    const second = await searchPaperQuestionTrees(
+      'toml',
+      { pattern: 'Question', scope: 'question' },
+      { cursor: first.nextCursor, limit: 1 },
+      options,
+    );
+    assert.equal(second.startPosition, 2);
+    assert.equal(second.endPosition, 2);
+    assert.equal(second.matches[0].relativePath, 'two.toml');
+    assert.equal(second.nextCursor, undefined);
+    assert.ok(second.previousCursor);
+
+    await assert.rejects(
+      searchPaperQuestionTrees(
+        'toml',
+        { pattern: 'Geometry', scope: 'question' },
+        { cursor: first.nextCursor, limit: 1 },
+        options,
+      ),
+      /cursor is invalid/i,
     );
   } finally {
     rmSync(root, { force: true, recursive: true });

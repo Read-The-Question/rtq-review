@@ -31,6 +31,7 @@ export {
   isContentSearchScope,
   normalizeContentSearchQuery,
   normalizeContentSearchScope,
+  parsedQuestionTreeContentMatchNodeIds,
 } from './search.ts';
 export type {
   CompiledContentSearch,
@@ -44,6 +45,8 @@ export type {
   CollectionContentSearchResult,
   ContentSearchQuery,
   ContentSearchScope,
+  CorpusQuestionContentSearchMatch,
+  CorpusQuestionContentSearchPage,
   DimensionalFilterSelection,
   DimensionalFilterResult,
   DimensionalFacet,
@@ -89,6 +92,7 @@ export {
   PaperContentSearchError,
   readReviewPaper,
   searchPaperCollectionContent,
+  searchPaperQuestionTrees,
 } from './papers.ts';
 export { resolvePaperCollectionRoot, resolvePaperSourcePath } from './paths.ts';
 export { dimensionalTagAxis, resolveReviewPaperTags } from './tags.ts';

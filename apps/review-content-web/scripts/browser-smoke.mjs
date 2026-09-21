@@ -13,7 +13,47 @@ async function read(path) {
 const home = await read('/');
 assert.match(home.text, /Choose a paper/);
 assert.match(home.text, /Live TOML index/);
+assert.match(home.text, /All questions/);
 assert.doesNotMatch(home.text, /Change the lens/);
+
+const corpusSearch = await read('/search');
+for (const expected of [
+  'Search every question',
+  'Review filters',
+  'Paper review console',
+  'Review target',
+  'Status background',
+  'Inline review panel',
+  'Global finding',
+  'Search corpus',
+]) {
+  assert.match(corpusSearch.text, new RegExp(expected));
+}
+
+const corpusResponse = await fetch(
+  `${baseUrl}/api/papers/corpus-search?content=perimeter&content-scope=all&limit=20`,
+);
+assert.equal(corpusResponse.status, 200);
+assert.equal(corpusResponse.headers.get('cache-control'), 'no-store');
+const corpusPayload = await corpusResponse.json();
+assert.equal(corpusPayload.startPosition, 1);
+assert.equal(corpusPayload.limit, 20);
+assert.ok(corpusPayload.paper.sections[0].questions.length > 0);
+assert.ok(corpusPayload.paper.sections[0].questions.length <= 20);
+assert.equal(
+  corpusPayload.paper.sections[0].questions[0].reviewSource.resultPosition,
+  1,
+);
+assert.equal(
+  corpusPayload.paper.sections[0].questions[0].reviewSource.collectionId,
+  'toml',
+);
+assert.notEqual(
+  corpusPayload.paper.sections[0].questions[0].id,
+  corpusPayload.paper.sections[0].questions[0].reviewSource.nodeId,
+);
+assert.ok(Array.isArray(corpusPayload.commentLoad.comments));
+assert.equal(typeof corpusPayload.outcomeLoad.outcomes, 'object');
 
 const paper = await read(paperPath);
 for (const expected of [

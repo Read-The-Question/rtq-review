@@ -22,6 +22,15 @@ const findingsRouteUrl = new URL(
   '../app/api/review/findings/route.ts',
   import.meta.url,
 );
+const corpusSearchUrl = new URL(
+  '../components/corpus-search.tsx',
+  import.meta.url,
+);
+const corpusSearchPageUrl = new URL('../app/search/page.tsx', import.meta.url);
+const corpusSearchRouteUrl = new URL(
+  '../app/api/papers/corpus-search/route.ts',
+  import.meta.url,
+);
 
 test('display preferences separate the active side from inline visibility', async () => {
   const component = await fs.readFile(componentUrl, 'utf8');
@@ -471,7 +480,11 @@ test('global findings use one product-wide composer and stay out of paper state'
   assert.match(component, />\s*Global finding\s*<\/button>/);
   assert.match(component, /All review content \/ product/);
   assert.match(component, /fetch\('\/api\/review\/findings'/);
-  assert.match(component, /sourceVersion: paper\.source\.version/);
+  assert.match(
+    component,
+    /sourceVersion: source\.version \?\? paper\.source\.version/,
+  );
+  assert.match(component, /sourceVersion: globalFindingDialog\.sourceVersion/);
   assert.match(component, /message: 'Global finding submitted\.'/);
   assert.doesNotMatch(component, /setGlobalFindings|globalFindingCount/);
   assert.match(route, /export function GET\(\)/);
@@ -517,7 +530,10 @@ test('review Markdown uses the shared Paper component contracts', async () => {
     /const paperLists = preparePaperListMarkdown\(tables\.markdown\)/,
   );
   assert.match(preparation, /rendered: normalizeWorkingSections\(prepared/);
-  assert.match(preparation, /children: node\.children\.map\(prepareNode\)/);
+  assert.match(
+    preparation,
+    /children: node\.children\.map\(prepareReviewPaperNodeForDisplay\)/,
+  );
   assert.match(
     preparation,
     /question: prepareField\(node\.content\.question\)/,
@@ -534,6 +550,34 @@ test('review Markdown uses the shared Paper component contracts', async () => {
     css,
     /\.rtq-markdown small\[data-paper-small\]\s*{[^}]*font-size:\s*0\.8em[^}]*line-height:\s*1\.5/s,
   );
+});
+
+test('corpus search is bounded, URL-backed, and reuses the complete review surface', async () => {
+  const [browser, component, page, route, reviewSurface] = await Promise.all([
+    fs.readFile(browserUrl, 'utf8'),
+    fs.readFile(corpusSearchUrl, 'utf8'),
+    fs.readFile(corpusSearchPageUrl, 'utf8'),
+    fs.readFile(corpusSearchRouteUrl, 'utf8'),
+    fs.readFile(componentUrl, 'utf8'),
+  ]);
+
+  assert.match(browser, /href="\/search"/);
+  assert.match(page, /cursor=\{cursor\}/);
+  assert.match(component, /\/api\/papers\/corpus-search/);
+  assert.match(component, /<ReviewSurface/);
+  assert.match(component, /paper=\{response\.paper\}/);
+  assert.match(component, /commentLoad=\{response\.commentLoad\}/);
+  assert.match(component, /outcomeLoad=\{response\.outcomeLoad\}/);
+  assert.doesNotMatch(component, /CorpusQuestionTree/);
+  assert.match(component, /response\.startPosition/);
+  assert.match(component, /response\.nextCursor/);
+  assert.match(component, /response\.previousCursor/);
+  assert.match(reviewSurface, /CorpusReviewSurfaceConfig/);
+  assert.match(reviewSurface, /<PaperContentSearch/);
+  assert.match(reviewSurface, /<CorpusPageNavigation/);
+  assert.match(route, /searchCanonicalQuestionCorpus/);
+  assert.match(route, /isCorpusSearchLimit/);
+  assert.match(route, /'Cache-Control': 'no-store'/);
 });
 
 test('the landing page uses a compact paper-first introduction', async () => {

@@ -203,10 +203,29 @@ export function parsedQuestionTreeMatchesContentSearch(
   question: Record<string, unknown>,
   search: CompiledContentSearch,
 ): boolean {
-  if (recordFields(question).some((field) => fieldMatches(field, search))) {
-    return true;
-  }
-  return records(question.subquestions).some((child) =>
-    parsedQuestionTreeMatchesContentSearch(child, search),
+  return (
+    parsedQuestionTreeContentMatchNodeIds(question, search, 'question').length >
+    0
   );
+}
+
+export function parsedQuestionTreeContentMatchNodeIds(
+  question: Record<string, unknown>,
+  search: CompiledContentSearch,
+  nodeId: string,
+  depth = 0,
+): readonly string[] {
+  return [
+    ...(recordFields(question).some((field) => fieldMatches(field, search))
+      ? [nodeId]
+      : []),
+    ...records(question.subquestions).flatMap((child, index) =>
+      parsedQuestionTreeContentMatchNodeIds(
+        child,
+        search,
+        `${nodeId}.${depth === 0 ? 'sq' : 'ssq'}${index}`,
+        depth + 1,
+      ),
+    ),
+  ];
 }

@@ -245,6 +245,13 @@ export function FileBrowser({
             </Link>
           ))}
         </div>
+        <nav className="reference-list" aria-label="Corpus search">
+          <p>Search</p>
+          <Link className="reference-link" href="/search">
+            <span>All questions</span>
+            <strong>Open</strong>
+          </Link>
+        </nav>
         <nav className="reference-list" aria-label="Review work">
           <p>Reviews</p>
           <Link className="reference-link" href="/reviews/global">

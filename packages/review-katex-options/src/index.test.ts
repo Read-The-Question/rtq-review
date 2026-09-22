@@ -21,6 +21,8 @@ import {
   RTQ_QUESTION_MARK_PLACEHOLDER_MACROS,
   RTQ_RATIO_SEPARATOR_EXPANSION,
   RTQ_RATIO_SEPARATOR_MACRO,
+  RTQ_LIST_SEPARATOR_EXPANSION,
+  RTQ_LIST_SEPARATOR_MACRO,
   RTQ_SPACING_MACROS,
   RTQ_TABLE_NO_VALUE_EXPANSION,
   RTQ_TABLE_NO_VALUE_MACRO,
@@ -103,6 +105,13 @@ test("matches the canonical rtq-content shared macro contracts", () => {
     expansion: RTQ_RATIO_SEPARATOR_EXPANSION,
     name: RTQ_RATIO_SEPARATOR_MACRO,
   });
+  assert.deepEqual(
+    contract.macros.find(({ name }) => name === RTQ_LIST_SEPARATOR_MACRO),
+    {
+      expansion: RTQ_LIST_SEPARATOR_EXPANSION,
+      name: RTQ_LIST_SEPARATOR_MACRO,
+    },
+  );
   for (const [name, expansion] of Object.entries(RTQ_SPACING_MACROS)) {
     assert.deepEqual(
       contract.macros.find((macro) => macro.name === name),
@@ -198,6 +207,16 @@ test("renders ratio separators as vertically centred relations", () => {
       `\\begin{array}{ccc}4 & ${RTQ_RATIO_SEPARATOR_MACRO} & 5\\end{array}`,
       options,
     ),
+  );
+});
+
+test("renders the semantic list separator as one em", () => {
+  const normalize = (html: string) =>
+    html.replace(/<annotation[^>]*>[\s\S]*?<\/annotation>/g, "<annotation/>");
+
+  assert.equal(
+    normalize(katex.renderToString(`1${RTQ_LIST_SEPARATOR_MACRO}2`, options)),
+    normalize(katex.renderToString("1\\quad2", options)),
   );
 });
 

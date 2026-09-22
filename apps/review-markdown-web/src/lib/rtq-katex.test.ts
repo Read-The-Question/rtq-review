@@ -8,8 +8,9 @@ test('registers all prefixed RTQ macros including one-to-one symbol wrappers', (
   assert.equal(
     Object.keys(rtqKatexMacros).filter(name => name.startsWith('\\rtqMaths'))
       .length,
-    71,
+    73,
   );
+  assert.equal(rtqKatexMacros['\\rtqMathsListSeparator'], '\\quad');
   assert.equal(
     rtqKatexMacros['\\rtqMathsSymbolTrianglePendingReview'],
     '\\triangle',

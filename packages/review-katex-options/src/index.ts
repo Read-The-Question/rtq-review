@@ -48,6 +48,10 @@ export const RTQ_SPACING_MACROS = {
   "\\rtqMathsSpaceTwoEm": "\\qquad",
 } as const;
 
+export const RTQ_LIST_SEPARATOR_MACRO = "\\rtqMathsListSeparator" as const;
+
+export const RTQ_LIST_SEPARATOR_EXPANSION = "\\quad" as const;
+
 export const RTQ_PENDING_SIZE_SWITCHES = {
   "\\rtqMathsSizeSevenPendingReview": "\\large",
   "\\rtqMathsSizeEightPendingReview": "\\Large",
@@ -138,6 +142,7 @@ export function getRtqReviewKatexOptions<
       [RTQ_TIME_SEPARATOR_MACRO]: RTQ_TIME_SEPARATOR_EXPANSION,
       [RTQ_RATIO_SEPARATOR_MACRO]: RTQ_RATIO_SEPARATOR_EXPANSION,
       ...RTQ_SPACING_MACROS,
+      [RTQ_LIST_SEPARATOR_MACRO]: RTQ_LIST_SEPARATOR_EXPANSION,
       ...RTQ_TIME_MERIDIEM_MACROS,
       ...RTQ_PENDING_SIZE_SWITCHES,
       ...RTQ_BOXED_VALUE_MACROS,

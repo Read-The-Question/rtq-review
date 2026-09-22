@@ -89,6 +89,7 @@ const rtqKatexMacros = {
   "\\rtqMathsTimeMeridiem": "\\ \\text{#1}",
   "\\rtqMathsTimeAm": "\\rtqMathsTimeMeridiem{am}",
   "\\rtqMathsTimePm": "\\rtqMathsTimeMeridiem{pm}",
+  "\\rtqMathsListSeparator": "\\quad",
   "\\rtqMathsSizeSevenPendingReview": "\\large",
   "\\rtqMathsSizeEightPendingReview": "\\Large",
   "\\rtqMathsSizeNinePendingReview": "\\LARGE",

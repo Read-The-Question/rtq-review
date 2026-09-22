@@ -38,18 +38,35 @@ export type {
   ReviewOutcomeResolutionResponse,
 } from "./review-outcome-resolution.ts";
 export type {
+  ReviewImageMetadataReader,
+  ReviewImageMetadataRepository,
+} from "./review-image-metadata.ts";
+export type {
   ReviewOutcomeReader,
   ReviewOutcomeRepository,
 } from "./review-outcomes.ts";
 export {
+  resolveReviewSyncRequest,
+  resolveReviewSyncRequestJson,
+  REVIEW_SYNC_RESOLUTION_SCHEMA_VERSION,
+} from "./review-sync-resolution.ts";
+export type {
+  ReviewSyncResolutionReaders,
+  ReviewSyncResolutionResponse,
+} from "./review-sync-resolution.ts";
+export {
   getReviewStore,
   openReviewCommentReader,
+  openReviewImageMetadataReader,
   openReviewOutcomeReader,
+  openReviewSyncReader,
   openReviewStore,
 } from "./review-store.ts";
 export type {
   OpenReviewCommentReader,
+  OpenReviewImageMetadataReader,
   OpenReviewStoreOptions,
+  OpenReviewSyncReader,
   ReviewStore,
 } from "./review-store.ts";
 export type {
@@ -60,11 +77,15 @@ export type {
   ImageReviewType,
   LocalReviewComment,
   ReviewCommentTarget,
+  ReviewImageMetadataTarget,
+  ReviewImageSide,
   ReviewOutcome,
   ReviewOutcomeTarget,
   ReviewSide,
   ReviewTargetIdentity,
+  SetReviewImageMetadata,
   SetReviewOutcome,
+  StoredReviewImageMetadata,
   StoredReviewOutcome,
 } from "./types.ts";
 export {

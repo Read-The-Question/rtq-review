@@ -44,7 +44,6 @@ function outcome(
 ): StoredReviewOutcome {
   return {
     createdAt: '2026-09-19T10:00:00.000Z',
-    imageMetadata: null,
     outcome: 'PRCR',
     ragState: 'rag_wf_ng2',
     reviewer: 'up',

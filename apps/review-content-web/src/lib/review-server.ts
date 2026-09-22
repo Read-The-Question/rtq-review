@@ -3,6 +3,7 @@ import {
   isImageReviewSide,
   isImageReviewType,
   type ImageReviewMetadata,
+  type ReviewImageSide,
 } from '@rtq/review-store/types';
 
 import {
@@ -42,9 +43,14 @@ export type ReviewMutationRequest = Readonly<{
 
 export type ReviewOutcomeRequest = ReviewMutationRequest &
   Readonly<{
-    imageMetadata?: ImageReviewMetadata;
     outcome: ReviewOutcomeSelection;
   }>;
+
+export type ReviewImageMetadataRequest = Readonly<{
+  imageMetadata: ImageReviewMetadata;
+  reviewer: string;
+  target: ReviewTargetDescriptor & Readonly<{ side: ReviewImageSide }>;
+}>;
 
 export type ReviewCommentRequest = Readonly<{
   comment: string;
@@ -153,14 +159,33 @@ export function parseReviewOutcomeRequest(
   if (outcome !== null && !isReviewOutcome(outcome)) {
     throw new ReviewRequestError('Review request is not supported.');
   }
+  return {
+    ...mutation,
+    outcome,
+  };
+}
+
+export function parseReviewImageMetadataRequest(
+  value: unknown,
+): ReviewImageMetadataRequest {
+  const body = record(value);
+  const mutation = parseReviewMutationRequest(body);
+  if (!isImageReviewSide(mutation.target.side)) {
+    throw new ReviewRequestError(
+      'Image metadata is accepted only for image review targets.',
+    );
+  }
   const imageMetadata = parseImageReviewMetadata(
     body.imageMetadata,
     mutation.target.side,
   );
+  if (!imageMetadata) {
+    throw new ReviewRequestError('Image metadata is required.');
+  }
   return {
     ...mutation,
-    ...(imageMetadata ? { imageMetadata } : {}),
-    outcome,
+    imageMetadata,
+    target: { ...mutation.target, side: mutation.target.side },
   };
 }
 

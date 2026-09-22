@@ -245,21 +245,17 @@ test('the sticky toolbar exposes both tracks in one selected review context', as
   assert.match(component, />Ignore decorative source image</);
   assert.match(
     component,
-    /Saved with the current or next image review[\s\S]*action/,
+    /Saved immediately for the current image RAG[\s\S]*state/,
   );
   assert.match(component, /displayedImageReviewMetadata/);
   assert.match(
     component,
-    /JSON\.stringify\(\{ imageMetadata, outcome, reviewer, target \}\)/,
+    /JSON\.stringify\(\{ imageMetadata, reviewer, target \}\)/,
   );
   assert.match(css, /\.image-metadata-controls\s*{/);
-  assert.match(component, /pendingOutcomeSelections/);
-  assert.match(
-    component,
-    /while \(pendingRequestKeys\.current\.has\(`\$\{key\}:outcome`\)\)/,
-  );
   assert.match(component, /imageMetadataSaveChains/);
-  assert.match(component, /sameImageMetadata/);
+  assert.match(component, /fetch\('\/api\/review\/image-metadata'/);
+  assert.match(component, /keepalive: true/);
 });
 
 test('the sticky View popover dismisses after selection, outside click, and Escape', async () => {

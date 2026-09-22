@@ -361,7 +361,6 @@ test("outcomes replace within one identity and state without consumption flags",
   );
   assert.deepEqual(Object.keys(replacement).sort(), [
     "createdAt",
-    "imageMetadata",
     "outcome",
     "ragState",
     "reviewer",
@@ -376,7 +375,7 @@ test("outcomes replace within one identity and state without consumption flags",
   store.close();
 });
 
-test("image outcomes persist structured type and decorative decisions", () => {
+test("image metadata persists independently for an exact RAG state", () => {
   const store = openReviewStore({ databasePath: ":memory:" });
   const target = {
     ragState: "rag_wf_ng2",
@@ -384,52 +383,70 @@ test("image outcomes persist structured type and decorative decisions", () => {
     uuid: "uuid-image",
   };
 
-  const bothTypes = store.outcomes.set({
+  const bothTypes = store.imageMetadata.set({
     ...target,
-    imageMetadata: {
+    ignored: ["decorative"],
+    reviewer: "up",
+    types: ["generated", "screenshot"],
+  });
+  assert.deepEqual(
+    { ignored: bothTypes.ignored, types: bothTypes.types },
+    {
       ignored: ["decorative"],
       types: ["generated", "screenshot"],
     },
-    outcome: "PRCR",
-    reviewer: "up",
-  });
-  assert.deepEqual(bothTypes.imageMetadata, {
-    ignored: ["decorative"],
-    types: ["generated", "screenshot"],
-  });
+  );
 
-  const noImage = store.outcomes.set({
+  const noImage = store.imageMetadata.set({
     ...target,
-    imageMetadata: { ignored: [], types: [] },
-    outcome: "PRG",
-    reviewer: "up",
-  });
-  assert.deepEqual(noImage.imageMetadata, { ignored: [], types: [] });
-  assert.deepEqual(store.outcomes.resolve([target])[0]?.imageMetadata, {
     ignored: [],
+    reviewer: "up",
     types: [],
   });
+  assert.deepEqual(
+    { ignored: noImage.ignored, types: noImage.types },
+    {
+      ignored: [],
+      types: [],
+    },
+  );
+  assert.deepEqual(store.imageMetadata.resolve([target])[0], noImage);
+  assert.deepEqual(store.imageMetadata.get(target), noImage);
 
   assert.throws(
     () =>
-      store.outcomes.set({
+      store.imageMetadata.set({
         ...target,
-        imageMetadata: { ignored: [], types: ["generated", "generated"] },
-        outcome: "PRG",
+        ignored: [],
         reviewer: "up",
+        types: ["generated", "generated"],
       }),
     ReviewStoreValidationError,
   );
   assert.throws(
     () =>
-      store.outcomes.set({
+      store.imageMetadata.set({
         ...target,
-        imageMetadata: { ignored: ["decorative"], types: [] },
-        outcome: "PRG",
+        ignored: ["decorative"],
         reviewer: "up",
-        side: "question",
+        side: "question" as "question-image",
+        types: [],
       }),
     ReviewStoreValidationError,
+  );
+  assert.deepEqual(
+    store.imageMetadata.listAll().map(({ ignored, ragState, types }) => ({
+      ignored,
+      ragState,
+      types,
+    })),
+    [
+      {
+        ignored: [],
+        ragState: "rag_wf_ng2",
+        types: [],
+      },
+    ],
   );
   store.close();
 });

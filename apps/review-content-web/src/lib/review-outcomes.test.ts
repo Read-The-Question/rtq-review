@@ -4,7 +4,9 @@ import test from 'node:test';
 import type { ReviewPaper } from '@rtq/review-paper-model';
 import {
   ReviewDatabaseError,
+  type ReviewImageMetadataRepository,
   type ReviewOutcomeRepository,
+  type StoredReviewImageMetadata,
   type StoredReviewOutcome,
 } from '@rtq/review-store/server';
 
@@ -34,7 +36,6 @@ function storedOutcome(
 ): StoredReviewOutcome {
   return {
     createdAt: '2026-09-09T12:00:00.000Z',
-    imageMetadata: input.imageMetadata ?? null,
     outcome: input.outcome,
     ragState: input.target.ragState,
     reviewer: input.reviewer,
@@ -70,7 +71,6 @@ function repository() {
     set(input) {
       calls.set += 1;
       const stored = storedOutcome({
-        ...(input.imageMetadata ? { imageMetadata: input.imageMetadata } : {}),
         outcome: input.outcome as NonNullable<ReviewOutcomeRequest['outcome']>,
         reviewer: input.reviewer,
         target: {
@@ -85,6 +85,38 @@ function repository() {
     },
   };
   return { calls, records, repository: value };
+}
+
+function imageMetadataRepository() {
+  const records = new Map<string, StoredReviewImageMetadata>();
+  let resolveCalls = 0;
+  const key = (value: { ragState: string; side: string; uuid: string }) =>
+    JSON.stringify([value.uuid, value.side, value.ragState]);
+  const repository: ReviewImageMetadataRepository = {
+    get(input) {
+      return records.get(key(input));
+    },
+    listAll() {
+      return [...records.values()];
+    },
+    resolve(inputs) {
+      resolveCalls += 1;
+      return inputs.flatMap((input) => {
+        const stored = records.get(key(input));
+        return stored ? [stored] : [];
+      });
+    },
+    set(input) {
+      const stored: StoredReviewImageMetadata = {
+        ...input,
+        createdAt: '2026-09-09T12:00:00.000Z',
+        updatedAt: '2026-09-09T12:00:00.000Z',
+      };
+      records.set(key(input), stored);
+      return stored;
+    },
+  };
+  return { records, repository, resolveCalls: () => resolveCalls };
 }
 
 test('selects one explicit outcome destination and defaults to database', () => {
@@ -192,6 +224,7 @@ test('Google Sheets mode forwards exclusively and does not access the repository
 
 test('reload resolves only current question and answer state in database mode', () => {
   const store = repository();
+  const metadataStore = imageMetadataRepository();
   store.repository.set({
     outcome: 'PRG',
     ragState: target.ragState,
@@ -200,14 +233,18 @@ test('reload resolves only current question and answer state in database mode', 
     uuid: target.uuid,
   });
   store.repository.set({
-    imageMetadata: {
-      ignored: ['decorative'],
-      types: ['generated', 'screenshot'],
-    },
     outcome: 'PRCC',
     ragState: 'rag_wf_ng2',
     reviewer: 'up',
     side: 'answer-image',
+    uuid: target.uuid,
+  });
+  metadataStore.repository.set({
+    ignored: ['decorative'],
+    ragState: 'rag_wf_ng2',
+    reviewer: 'up',
+    side: 'answer-image',
+    types: ['generated', 'screenshot'],
     uuid: target.uuid,
   });
   store.repository.set({
@@ -243,6 +280,7 @@ test('reload resolves only current question and answer state in database mode', 
   } as unknown as ReviewPaper;
 
   const loaded = loadReviewOutcomesForPaper(paper, 'database', {
+    imageMetadataRepository: metadataStore.repository,
     repository: store.repository,
   });
   assert.equal(loaded.error, undefined);
@@ -259,14 +297,21 @@ test('reload resolves only current question and answer state in database mode', 
   assert.equal(store.calls.resolve, 1);
 
   const sheets = loadReviewOutcomesForPaper(paper, 'google-sheets', {
+    imageMetadataRepository: metadataStore.repository,
     repository: store.repository,
   });
   assert.deepEqual(sheets, {
     destination: 'google-sheets',
-    imageMetadata: {},
+    imageMetadata: {
+      [`${target.uuid}:answer-image`]: {
+        ignored: ['decorative'],
+        types: ['generated', 'screenshot'],
+      },
+    },
     outcomes: {},
   });
   assert.equal(store.calls.resolve, 1);
+  assert.equal(metadataStore.resolveCalls(), 2);
 });
 
 test('database failures are safe and do not fall back to Google Sheets', async () => {

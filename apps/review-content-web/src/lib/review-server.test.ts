@@ -7,6 +7,7 @@ import {
   assertReviewCommentTargetCurrent,
   assertReviewTargetCurrent,
   parseGlobalReviewFindingRequest,
+  parseReviewImageMetadataRequest,
   parseProcessGlobalReviewFindingRequest,
   parseReviewCommentRequest,
   parseReviewOutcomeRequest,
@@ -520,9 +521,8 @@ test('accepts every API outcome and rejects malformed mutation input', () => {
     types: ['generated', 'screenshot'] as const,
   };
   assert.deepEqual(
-    parseReviewOutcomeRequest({
+    parseReviewImageMetadataRequest({
       imageMetadata,
-      outcome: 'PRG',
       reviewer: 'up',
       target: { ...target, side: 'question-image' },
     }).imageMetadata,
@@ -535,9 +535,8 @@ test('accepts every API outcome and rejects malformed mutation input', () => {
   ]) {
     assert.throws(
       () =>
-        parseReviewOutcomeRequest({
+        parseReviewImageMetadataRequest({
           imageMetadata: invalidImageMetadata,
-          outcome: 'PRG',
           reviewer: 'up',
           target: { ...target, side: 'question-image' },
         }),
@@ -546,9 +545,8 @@ test('accepts every API outcome and rejects malformed mutation input', () => {
   }
   assert.throws(
     () =>
-      parseReviewOutcomeRequest({
+      parseReviewImageMetadataRequest({
         imageMetadata,
-        outcome: 'PRG',
         reviewer: 'up',
         target,
       }),
@@ -774,10 +772,6 @@ test('maps question and answer outcomes and forwards only API-required fields', 
   );
   await forwardReviewOutcome(
     {
-      imageMetadata: {
-        ignored: ['decorative'],
-        types: ['generated', 'screenshot'],
-      },
       outcome: 'PRCR',
       reviewer: 'wf',
       target: { ...target, side: 'question-image' },
@@ -812,10 +806,6 @@ test('maps question and answer outcomes and forwards only API-required fields', 
   });
   assert.deepEqual(requests.at(-2), {
     body: {
-      imageMetadata: {
-        ignored: ['decorative'],
-        types: ['generated', 'screenshot'],
-      },
       rag: 'PRCR',
       reviewer: 'wf',
       sheet: 'NG3',

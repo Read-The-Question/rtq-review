@@ -50,6 +50,13 @@
       "when": 1789717232319,
       "tag": "0006_busy_nicolaos",
       "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "6",
+      "when": 1790056029504,
+      "tag": "0007_chemical_vengeance",
+      "breakpoints": true
     }
   ]
 }

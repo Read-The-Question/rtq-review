@@ -18,6 +18,12 @@ import {
   type ReviewCommentRepository,
 } from "./review-comments.ts";
 import {
+  createReviewImageMetadataReader,
+  createReviewImageMetadataRepository,
+  type ReviewImageMetadataReader,
+  type ReviewImageMetadataRepository,
+} from "./review-image-metadata.ts";
+import {
   createReviewOutcomeRepository,
   createReviewOutcomeReader,
   type ReviewOutcomeReader,
@@ -31,6 +37,7 @@ export type ReviewStore = Readonly<{
   close: () => void;
   comments: ReviewCommentRepository;
   findings: GlobalReviewFindingRepository;
+  imageMetadata: ReviewImageMetadataRepository;
   outcomes: ReviewOutcomeRepository;
 }>;
 
@@ -53,6 +60,13 @@ export type OpenReviewCommentReader = ReviewCommentReader &
 
 export type OpenReviewOutcomeReader = ReviewOutcomeReader &
   Readonly<{ close: () => void }>;
+export type OpenReviewImageMetadataReader = ReviewImageMetadataReader &
+  Readonly<{ close: () => void }>;
+export type OpenReviewSyncReader = Readonly<{
+  close: () => void;
+  imageMetadata: ReviewImageMetadataReader;
+  outcomes: ReviewOutcomeReader;
+}>;
 
 export const REVIEW_DATABASE_PATH = path.join(
   REVIEW_WORKSPACE_ROOT,
@@ -67,7 +81,7 @@ export const REVIEW_MIGRATIONS_FOLDER = path.join(
   "drizzle",
 );
 
-const REVIEW_STORE_RUNTIME_VERSION = 4;
+const REVIEW_STORE_RUNTIME_VERSION = 5;
 
 export function openReviewStore(
   options: OpenReviewStoreOptions = {},
@@ -90,6 +104,7 @@ export function openReviewStore(
       close: () => connection.close(),
       comments: createReviewCommentRepository(db, now),
       findings: createGlobalReviewFindingRepository(db, now),
+      imageMetadata: createReviewImageMetadataRepository(db, now, connection),
       outcomes: createReviewOutcomeRepository(db, now, connection),
     };
   } catch (error) {
@@ -98,8 +113,37 @@ export function openReviewStore(
     } catch {
       // The recoverable error below is sufficient for callers.
     }
+
     throw new ReviewDatabaseError(
       "The review store is unavailable. Check the rtq-review database directory and migration files, then retry.",
+      { cause: error },
+    );
+  }
+}
+
+export function openReviewImageMetadataReader(
+  options: OpenReviewOutcomeReaderOptions = {},
+): OpenReviewImageMetadataReader {
+  const databasePath = options.databasePath ?? REVIEW_DATABASE_PATH;
+  let sqlite: Database.Database | undefined;
+  try {
+    sqlite = new Database(databasePath, {
+      fileMustExist: true,
+      readonly: true,
+    });
+    const connection = sqlite;
+    return {
+      close: () => connection.close(),
+      ...createReviewImageMetadataReader(connection),
+    };
+  } catch (error) {
+    try {
+      sqlite?.close();
+    } catch {
+      // The recoverable error below is sufficient for callers.
+    }
+    throw new ReviewDatabaseError(
+      "The image metadata reader is unavailable. Check that the tracked rtq-review database exists and its migrations are current.",
       { cause: error },
     );
   }
@@ -126,8 +170,38 @@ export function openReviewOutcomeReader(
     } catch {
       // The recoverable error below is sufficient for callers.
     }
+
     throw new ReviewDatabaseError(
       "The review outcome reader is unavailable. Check that the tracked rtq-review database exists and its migrations are current.",
+      { cause: error },
+    );
+  }
+}
+
+export function openReviewSyncReader(
+  options: OpenReviewOutcomeReaderOptions = {},
+): OpenReviewSyncReader {
+  const databasePath = options.databasePath ?? REVIEW_DATABASE_PATH;
+  let sqlite: Database.Database | undefined;
+  try {
+    sqlite = new Database(databasePath, {
+      fileMustExist: true,
+      readonly: true,
+    });
+    const connection = sqlite;
+    return {
+      close: () => connection.close(),
+      imageMetadata: createReviewImageMetadataReader(connection),
+      outcomes: createReviewOutcomeReader(connection),
+    };
+  } catch (error) {
+    try {
+      sqlite?.close();
+    } catch {
+      // The recoverable error below is sufficient for callers.
+    }
+    throw new ReviewDatabaseError(
+      "The review sync reader is unavailable. Check that the tracked rtq-review database exists and its migrations are current.",
       { cause: error },
     );
   }

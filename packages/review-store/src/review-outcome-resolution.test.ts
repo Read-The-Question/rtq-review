@@ -132,21 +132,16 @@ test("reflects replacement and reset semantics without changing stored rows", ()
   store.close();
 });
 
-test("returns the latest structured metadata for an exact image outcome", () => {
+test("returns the latest outcome for an exact image state", () => {
   const store = openReviewStore({ databasePath: ":memory:" });
   const selected = target("uuid-image", "question-image", "rag_wf_ng2");
   store.outcomes.set({
     ...selected,
-    imageMetadata: { ignored: [], types: ["generated"] },
     outcome: "PRCR",
     reviewer: "first",
   });
   store.outcomes.set({
     ...selected,
-    imageMetadata: {
-      ignored: ["decorative"],
-      types: ["generated", "screenshot"],
-    },
     outcome: "PRG",
     reviewer: "second",
   });
@@ -157,10 +152,6 @@ test("returns the latest structured metadata for an exact image outcome", () => 
   );
 
   assert.equal(response.matches.length, 1);
-  assert.deepEqual(response.matches[0]?.imageMetadata, {
-    ignored: ["decorative"],
-    types: ["generated", "screenshot"],
-  });
   assert.equal(response.matches[0]?.outcome, "PRG");
   assert.equal(response.matches[0]?.reviewer, "second");
   store.close();

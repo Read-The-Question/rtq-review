@@ -18,10 +18,10 @@ still applies to the current canonical state and, if it does, updates TOML.
 | ---------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
 | Current question, answer, and image state            | `rtq-content/packages/papers`        | Complete papers under `papers/toml`                                                                                       |
 | RAG vocabulary and transition policy                 | `rtq-content/packages/papers`        | `docs/architecture/rag-states.md`, `scripts/papers/lib/reader/rag_reader.rb`, and `scripts/papers/lib/rag_review_sync.rb` |
-| Review comments and database outcomes                | `rtq-review/packages/review-store`   | `database/review-content.sqlite` through `@rtq/review-store/server`                                                       |
+| Review comments, outcomes, and image metadata        | `rtq-review/packages/review-store`   | `database/review-content.sqlite` through `@rtq/review-store/server`                                                       |
 | Reviewer interaction and live-target validation      | `rtq-review/apps/review-content-web` | The current canonical paper read from the active `rtq-content` checkout                                                   |
 | Comment resolution across repositories               | `rtq-review/packages/review-store`   | The versioned `review-comments:resolve` standard-input/standard-output contract                                           |
-| Outcome resolution across repositories               | `rtq-review/packages/review-store`   | The versioned `review-outcomes:resolve` standard-input/standard-output contract                                           |
+| Sync resolution across repositories                  | `rtq-review/packages/review-store`   | The versioned `review-sync:resolve` standard-input/standard-output contract                                               |
 | TOML inventory, transition calculation, and mutation | `rtq-content/packages/papers`        | `scripts/papers/lib/database_review_sync.rb` and the shared RAG transition engine                                         |
 
 Review Content Web never owns or edits canonical content state. Review Store
@@ -41,7 +41,7 @@ Reviewer opens a canonical question
 Operator runs the database-outcome sync in rtq-content
   -> sync inventories every top-level UUID and all four review targets
   -> Not Applicable image targets are excluded from outcome resolution
-  -> review-store resolves only exact UUID + side + state matches
+  -> review-store resolves separate exact-state outcome and image-metadata matches
   -> rtq-content applies the current transition policy
   -> dry-run reports, or apply edits, canonical content and companion review fields
   -> stored review outcomes remain unchanged
@@ -66,14 +66,12 @@ ordinary review controls, pending-review requests, lookups, rows, and
 transitions. A PRG review advances it directly to NG3. Image panels expose the
 controlled image metadata and let the reviewer select `generated` and
 `screenshot` together when both apply. A separate decorative option maps to
-`ignored = ["decorative"]`. The structured `types` and `ignored` arrays are
-stored atomically with the exact state-scoped image review outcome; an explicit
-pair of empty arrays records that the reviewed target has no included image.
-Metadata selected before the first outcome is submitted with that action.
-Metadata changed after an outcome already exists re-submits the same outcome
-and upserts the same UUID, image side, and RAG-state row. Client writes for one
-target are serialized, so a rapid sequence of selections is applied in order
-and the latest selection is the durable value.
+`ignored = ["decorative"]`. The structured `types` and `ignored` arrays are stored independently for the
+exact UUID, image side, and image RAG state. An explicit pair of empty arrays
+records that the target has no included image; absence of a matching row means
+canonical arrays remain unchanged. Each checkbox change saves immediately,
+without requiring or replacing an outcome. Client writes for one target are
+serialized, so the latest selection is durable across refreshes.
 The shared readers retain `rag_wf_notapplicable` only for historical
 compatibility, and canonical content must not author it.
 
@@ -127,8 +125,6 @@ one state-scoped target:
 | `side`               | One of the four content or image review sides                        |
 | `rag_state`          | Canonical state in which the review occurred                         |
 | `outcome`            | Review decision such as `PRG`                                        |
-| `image_types_json`   | Latest controlled image types for an image side, or `null`           |
-| `image_ignored_json` | Latest controlled ignored-image reasons for an image side, or `null` |
 | `reviewer`           | Reviewer identity supplied by the application                        |
 | `created_at`         | Time this state-scoped decision was first stored                     |
 | `updated_at`         | Time the outcome or image metadata was last replaced                 |
@@ -140,6 +136,10 @@ delete comments.
 
 The row deliberately does not store a paper path, a mirror of current
 canonical state, a calculated next state, or an applied/consumed flag.
+
+`review_image_metadata` separately stores `image_types_json` and
+`image_ignored_json` for `rtq_uuid + image side + rag_state`, with the same
+audit fields. Outcome reset and replacement never delete or rewrite metadata.
 
 ### 4. Leave canonical TOML unchanged until sync
 
@@ -197,13 +197,13 @@ It sends all current targets to this command in the sibling `rtq-review`
 workspace:
 
 ```sh
-pnpm --silent review-outcomes:resolve
+pnpm --silent review-sync:resolve
 ```
 
 The versioned JSON request contains only UUID, side, and current RAG state. The
-resolver performs one indexed batch lookup and returns only exact matches. It
-does not return the growing comment history or irrelevant outcomes from other
-states, and it performs no transition or write.
+resolver opens SQLite once and returns separate `outcomes` and `imageMetadata`
+arrays containing only exact matches. It does not return comment history or
+irrelevant rows from other states, and it performs no transition or write.
 
 ### 6. Calculate and apply the transition in `rtq-content`
 
@@ -229,13 +229,11 @@ Dry-run is the default. Apply mode uses the line-preserving TOML updater. `PRG`,
 its companion review outcome to `PRNS`.
 `PRCR` and `PRCC` do not change content RAG; they are retained in the companion
 review field. Reset is represented by the absence of an exact database outcome,
-so the sync returns a retained companion signal to `PRNS`. The database path
-also copies the latest non-null `imageMetadata.types` and
-`imageMetadata.ignored` arrays from an exact image outcome into the matching
-canonical image fields. This metadata is part of the same dry-run/apply plan as
-the image RAG transition. A later metadata-only upsert is still applied when
-the RAG and companion review fields already match. Historical image rows with
-`null` metadata preserve the canonical arrays rather than clearing them. The
+so the sync returns a retained companion signal to `PRNS`. The database path also copies `types` and `ignored` from an exact-state
+`review_image_metadata` row into the matching canonical image fields,
+independently of any outcome. Empty arrays explicitly clear the canonical
+arrays; no exact-state metadata row preserves them. Metadata and an image RAG
+transition can still be applied in the same dry-run/apply plan. The
 database path never changes companion TOML comment fields, derived TOML,
 generated Markdown, PDFs, assets, Google Sheets, comments, or the review
 database.

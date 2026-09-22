@@ -1,8 +1,8 @@
 # `@rtq/review-store`
 
-Server-only persistence for review comments, review outcomes, and product-wide
-review findings. Runtime code must use the high-level `comments`, `outcomes`,
-and `findings` repositories exported from
+Server-only persistence for review comments, review outcomes, state-scoped
+image metadata, and product-wide review findings. Runtime code must use the
+high-level `comments`, `outcomes`, `imageMetadata`, and `findings` repositories exported from
 `@rtq/review-store/server`; schema, SQLite, migration, and database-path modules
 are package internals. The package deliberately has no default export path, so
 runtime consumers must opt into the explicit server entry point.
@@ -111,3 +111,21 @@ No match is represented by an empty `matches` array. Results are ordered by
 UUID, side, and RAG state. Errors go to standard error with a non-zero exit
 code. The resolver does not inspect canonical files, calculate transitions,
 write TOML, call Google Sheets, or modify the review database.
+
+## Resolve outcomes and image metadata for content sync
+
+Image classification is stored separately in `review_image_metadata`, keyed by
+UUID, image side, and exact image RAG state. Empty arrays explicitly clear
+canonical classification; no exact-state row means canonical arrays remain
+unchanged.
+
+Cross-repository synchronization resolves outcomes and image metadata through
+one read-only process:
+
+```sh
+pnpm --silent review-sync:resolve
+```
+
+The command accepts the same versioned targets request and returns separate
+`outcomes` and `imageMetadata` arrays. This allows metadata to apply without an
+outcome while retaining one SQLite connection and Node process.

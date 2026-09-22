@@ -271,12 +271,10 @@ type ReviewRuntimeState = Readonly<{
   submitOutcome: (
     target: ReviewTargetDescriptor,
     outcome: ReviewOutcomeSelection,
-    imageMetadata?: ImageReviewMetadata,
   ) => Promise<string>;
   updateImageMetadata: (
     target: ReviewTargetDescriptor,
     imageMetadata: ImageReviewMetadata,
-    outcome: ReviewOutcomeSelection | undefined,
   ) => void;
 }>;
 
@@ -417,19 +415,6 @@ function imageReviewSide(
     : undefined;
 }
 
-function sameImageMetadata(
-  left: ImageReviewMetadata | undefined,
-  right: ImageReviewMetadata,
-): boolean {
-  return Boolean(
-    left &&
-    left.types.length === right.types.length &&
-    left.types.every((value, index) => value === right.types[index]) &&
-    left.ignored.length === right.ignored.length &&
-    left.ignored.every((value, index) => value === right.ignored[index]),
-  );
-}
-
 function ImageMetadataControls({
   disabled,
   metadata,
@@ -488,8 +473,8 @@ function ImageMetadataControls({
         </label>
       </div>
       <small>
-        Choose all that apply. Saved with the current or next image review
-        action.
+        Choose all that apply. Saved immediately for the current image RAG
+        state.
       </small>
     </fieldset>
   );
@@ -563,11 +548,7 @@ function ReviewScope({
     if (!target || outcomeDisabledReason || outcomePending) return;
     setStatus({ kind: 'idle', message: '' });
     try {
-      const message = await runtime.submitOutcome(
-        target,
-        outcome,
-        outcome === null ? undefined : imageMetadata,
-      );
+      const message = await runtime.submitOutcome(target, outcome);
       setStatus({ kind: 'success', message });
     } catch (error) {
       setStatus({
@@ -677,7 +658,7 @@ function ReviewScope({
           metadata={imageMetadata}
           onChange={(next) => {
             if (target) {
-              runtime.updateImageMetadata(target, next, displayedOutcome);
+              runtime.updateImageMetadata(target, next);
             }
           }}
         />
@@ -2332,9 +2313,6 @@ export function ReviewSurface({
   const globalFindingSubmissionId = useRef<string | undefined>(undefined);
   const toolbarRef = useRef<HTMLElement>(null);
   const pendingRequestKeys = useRef(new Set<string>());
-  const pendingOutcomeSelections = useRef(
-    new Map<string, ReviewOutcomeSelection>(),
-  );
   const imageMetadataSaveChains = useRef(new Map<string, Promise<void>>());
   const sourceFreshnessPending = useRef(false);
   const selection = useMemo(
@@ -2608,74 +2586,40 @@ export function ReviewSurface({
   }, []);
 
   const submitOutcome = useCallback(
-    (
-      target: ReviewTargetDescriptor,
-      outcome: ReviewOutcomeSelection,
-      imageMetadata?: ImageReviewMetadata,
-    ) => {
+    (target: ReviewTargetDescriptor, outcome: ReviewOutcomeSelection) => {
       const key = reviewTargetKey(target);
-      pendingOutcomeSelections.current.set(key, outcome);
-      const request = withPending(`${key}:outcome`, async () => {
+      return withPending(`${key}:outcome`, async () => {
         const response = await fetch('/api/review/outcome', {
-          body: JSON.stringify({ imageMetadata, outcome, reviewer, target }),
+          body: JSON.stringify({ outcome, reviewer, target }),
           headers: { 'Content-Type': 'application/json' },
           method: 'POST',
         });
         const { message } = await responseMessage(response);
         setOutcomeOverrides((current) => ({ ...current, [key]: outcome }));
-        setImageMetadataOverrides((current) => {
-          if (outcome !== null && imageMetadata) {
-            if (
-              Object.hasOwn(current, key) &&
-              !sameImageMetadata(current[key], imageMetadata)
-            ) {
-              return current;
-            }
-            return { ...current, [key]: imageMetadata };
-          }
-          if (outcome !== null || !Object.hasOwn(current, key)) return current;
-          const next = { ...current };
-          delete next[key];
-          return next;
-        });
         return message;
-      });
-      return request.finally(() => {
-        if (pendingOutcomeSelections.current.get(key) === outcome) {
-          pendingOutcomeSelections.current.delete(key);
-        }
       });
     },
     [responseMessage, reviewer, withPending],
   );
 
   const updateImageMetadata = useCallback(
-    (
-      target: ReviewTargetDescriptor,
-      imageMetadata: ImageReviewMetadata,
-      outcome: ReviewOutcomeSelection | undefined,
-    ) => {
+    (target: ReviewTargetDescriptor, imageMetadata: ImageReviewMetadata) => {
       const key = reviewTargetKey(target);
       setImageMetadataOverrides((current) => ({
         ...current,
         [key]: imageMetadata,
       }));
-      const effectiveOutcome =
-        outcome ?? pendingOutcomeSelections.current.get(key);
-      if (!effectiveOutcome) return;
-
       const previous = imageMetadataSaveChains.current.get(key);
       const save = (previous ?? Promise.resolve())
         .catch(() => undefined)
         .then(async () => {
-          while (pendingRequestKeys.current.has(`${key}:outcome`)) {
-            await new Promise<void>((resolve) => setTimeout(resolve, 25));
-          }
-          const message = await submitOutcome(
-            target,
-            effectiveOutcome,
-            imageMetadata,
-          );
+          const response = await fetch('/api/review/image-metadata', {
+            body: JSON.stringify({ imageMetadata, reviewer, target }),
+            headers: { 'Content-Type': 'application/json' },
+            keepalive: true,
+            method: 'POST',
+          });
+          const { message } = await responseMessage(response);
           setKeyboardStatus({
             kind: 'success',
             message: `${reviewSideLabel(target.side)} metadata: ${message}`,
@@ -2697,7 +2641,7 @@ export function ReviewSurface({
         });
       imageMetadataSaveChains.current.set(key, save);
     },
-    [submitOutcome],
+    [responseMessage, reviewer],
   );
 
   const appendComment = useCallback(
@@ -3116,11 +3060,7 @@ export function ReviewSurface({
     }
     setKeyboardStatus({ kind: 'idle', message: '' });
     try {
-      const message = await submitOutcome(
-        target,
-        outcome,
-        outcome === null ? undefined : toolbarImageMetadata(side),
-      );
+      const message = await submitOutcome(target, outcome);
       const label = reviewSideLabel(side);
       setKeyboardStatus({ kind: 'success', message: `${label}: ${message}` });
     } catch (error) {
@@ -3688,7 +3628,7 @@ export function ReviewSurface({
               onImageMetadataChange={(metadata) => {
                 const target = toolbarOutcomeTarget(side);
                 if (target) {
-                  updateImageMetadata(target, metadata, toolbarOutcome(side));
+                  updateImageMetadata(target, metadata);
                 }
               }}
               onOutcome={(outcome) => void submitToolbarOutcome(side, outcome)}

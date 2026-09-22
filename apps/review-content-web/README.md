@@ -138,6 +138,10 @@ or page size starts again from the first result.
 - The **Review target** selector persists the chosen Question or Answer side in
   local browser storage, so quick-review actions keep the same target after a
   refresh.
+- Image `generated`, `screenshot`, and decorative-ignore selections save
+  immediately to the review database for the image track's exact current RAG
+  state. They do not require or modify an image review outcome; rapid changes
+  for one target are serialized and refresh-safe.
 - Authored `<PaperSmall>...</PaperSmall>` supplementary text renders as a
   semantic native `small` element at a restrained relative size, including
   inline maths, without acquiring footnote behaviour.

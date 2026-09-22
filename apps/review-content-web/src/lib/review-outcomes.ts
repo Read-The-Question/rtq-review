@@ -5,6 +5,7 @@ import {
   ReviewDatabaseError,
   ReviewStoreValidationError,
   type ReviewOutcomeRepository,
+  type ReviewImageMetadataRepository,
 } from '@rtq/review-store/server';
 
 import type { ReviewOutcomeRequest } from './review-server.ts';
@@ -61,7 +62,6 @@ export async function forwardReviewOutcome(
   try {
     response = await fetcher(`${options.baseUrl.replace(/\/$/, '')}/${path}`, {
       body: JSON.stringify({
-        ...(input.imageMetadata ? { imageMetadata: input.imageMetadata } : {}),
         rag: input.outcome ?? '',
         reviewer: input.reviewer,
         sheet: input.target.sheet,
@@ -115,7 +115,6 @@ export function persistReviewOutcome(
       };
     }
     repository.set({
-      ...(input.imageMetadata ? { imageMetadata: input.imageMetadata } : {}),
       outcome: input.outcome,
       ragState: input.target.ragState,
       reviewer: input.reviewer,
@@ -187,6 +186,7 @@ export function reviewOutcomeTargetsForPaper(paper: ReviewPaper) {
 }
 
 type LoadReviewOutcomeOptions = Readonly<{
+  imageMetadataRepository?: ReviewImageMetadataRepository;
   repository?: ReviewOutcomeRepository;
 }>;
 
@@ -195,11 +195,11 @@ export function loadReviewOutcomesForPaper(
   destination: ReviewOutcomeDestination,
   options: LoadReviewOutcomeOptions = {},
 ): ReviewOutcomeLoad {
-  if (destination === 'google-sheets') {
-    return { destination, imageMetadata: {}, outcomes: {} };
-  }
   try {
-    const repository = options.repository ?? getReviewStore().outcomes;
+    const store = getReviewStore();
+    const repository = options.repository ?? store.outcomes;
+    const imageMetadataRepository =
+      options.imageMetadataRepository ?? store.imageMetadata;
     const targets = reviewOutcomeTargetsForPaper(paper);
     const requested = new Set(
       targets.map((target) =>
@@ -208,7 +208,9 @@ export function loadReviewOutcomesForPaper(
     );
     const outcomes: Record<string, ReviewOutcomeSelection> = {};
     const imageMetadata: Record<string, ImageReviewMetadata> = {};
-    for (const stored of repository.resolve(targets)) {
+    const storedOutcomes =
+      destination === 'database' ? repository.resolve(targets) : [];
+    for (const stored of storedOutcomes) {
       const identity = JSON.stringify([
         stored.uuid,
         stored.side,
@@ -219,9 +221,25 @@ export function loadReviewOutcomesForPaper(
       }
       const key = reviewTargetKey(stored);
       outcomes[key] = stored.outcome;
-      if (stored.imageMetadata) {
-        imageMetadata[key] = stored.imageMetadata;
+    }
+    const imageTargets = targets.flatMap((target) =>
+      target.side === 'answer-image' || target.side === 'question-image'
+        ? [{ ...target, side: target.side }]
+        : [],
+    );
+    for (const stored of imageMetadataRepository.resolve(imageTargets)) {
+      const identity = JSON.stringify([
+        stored.uuid,
+        stored.side,
+        stored.ragState,
+      ]);
+      if (!requested.has(identity)) {
+        throw new Error('The review database returned invalid image metadata.');
       }
+      imageMetadata[reviewTargetKey(stored)] = {
+        ignored: stored.ignored,
+        types: stored.types,
+      };
     }
     return { destination, imageMetadata, outcomes };
   } catch {

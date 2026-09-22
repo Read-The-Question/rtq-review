@@ -258,6 +258,22 @@ their `updatedAt` is at or before the cutoff. Current rows are retained
 regardless of age, recent stale rows remain available as a recovery window, and
 comments are never pruned.
 
+The five-day recovery window remains the default. After an operator has
+verified recent state changes, the content workspace also exposes an explicit
+all-stale override:
+
+```sh
+pnpm papers:review-data:prune:all
+pnpm papers:review-data:prune:all:apply
+```
+
+The first command previews the complete stale set. The second uses the command
+start time as the cutoff, so every row that is already stale is eligible while
+current identities and comments remain untouched. Preview rows show their
+stored state, current canonical state, paper, last update time, and stale
+reason. The content-side runner rejects a prune response containing an exact
+current UUID + side + state identity rather than reporting or deleting it.
+
 ## Replay and failure behaviour
 
 The design does not need an “applied” database flag:

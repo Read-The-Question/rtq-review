@@ -220,7 +220,7 @@ test("renders the semantic list separator as one em", () => {
   );
 });
 
-test("renders source-faithful and authored meridiem macros", () => {
+test("renders source-variant and canonical meridiem macros", () => {
   assert.doesNotThrow(() =>
     katex.renderToString(
       "9 \\rtqMathsTimeSeparator 25 \\rtqMathsTimeMeridiem{a.m.}",

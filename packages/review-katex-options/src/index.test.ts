@@ -16,11 +16,15 @@ import {
   RTQ_EQUATION_NUMBER_CLASS,
   RTQ_EQUATION_NUMBER_EXPANSION,
   RTQ_EQUATION_NUMBER_MACRO,
+  RTQ_ELLIPSIS_OPERATOR_PLACEHOLDER_EXPANSION,
+  RTQ_ELLIPSIS_OPERATOR_PLACEHOLDER_MACRO,
   RTQ_EMPTY_VALUE_MACROS,
   RTQ_PENDING_SIZE_SWITCHES,
   RTQ_QUESTION_MARK_PLACEHOLDER_MACROS,
   RTQ_RATIO_SEPARATOR_EXPANSION,
   RTQ_RATIO_SEPARATOR_MACRO,
+  RTQ_SEQUENCE_ELLIPSIS_EXPANSION,
+  RTQ_SEQUENCE_ELLIPSIS_MACRO,
   RTQ_LIST_SEPARATOR_EXPANSION,
   RTQ_LIST_SEPARATOR_MACRO,
   RTQ_SPACING_MACROS,
@@ -146,6 +150,22 @@ test("matches the canonical rtq-content shared macro contracts", () => {
       name,
     );
   }
+  assert.deepEqual(
+    contract.macros.find(
+      ({ name }) => name === RTQ_ELLIPSIS_OPERATOR_PLACEHOLDER_MACRO,
+    ),
+    {
+      expansion: RTQ_ELLIPSIS_OPERATOR_PLACEHOLDER_EXPANSION,
+      name: RTQ_ELLIPSIS_OPERATOR_PLACEHOLDER_MACRO,
+    },
+  );
+  assert.deepEqual(
+    contract.macros.find(({ name }) => name === RTQ_SEQUENCE_ELLIPSIS_MACRO),
+    {
+      expansion: RTQ_SEQUENCE_ELLIPSIS_EXPANSION,
+      name: RTQ_SEQUENCE_ELLIPSIS_MACRO,
+    },
+  );
   assert.equal(options.macros["\\existingReviewerMacro"], "x_{#1}");
 });
 
@@ -161,6 +181,38 @@ test("renders question-mark placeholders with their contracted math roles", () =
       normalize(katex.renderToString(expansion, options)),
     );
   }
+});
+
+test("renders the ellipsis operator placeholder with binary spacing", () => {
+  const normalize = (html: string) =>
+    html.replace(/<annotation[^>]*>[\s\S]*?<\/annotation>/g, "<annotation/>");
+  const rendered = katex.renderToString(
+    `a${RTQ_ELLIPSIS_OPERATOR_PLACEHOLDER_MACRO} a`,
+    options,
+  );
+
+  assert.equal(
+    normalize(rendered),
+    normalize(
+      katex.renderToString(
+        `a${RTQ_ELLIPSIS_OPERATOR_PLACEHOLDER_EXPANSION}a`,
+        options,
+      ),
+    ),
+  );
+  assert.match(rendered, /class="mbin/);
+});
+
+test("renders the semantic sequence ellipsis as ordinary ldot notation", () => {
+  const normalize = (html: string) =>
+    html.replace(/<annotation[^>]*>[\s\S]*?<\/annotation>/g, "<annotation/>");
+
+  assert.equal(
+    normalize(
+      katex.renderToString(`1,${RTQ_SEQUENCE_ELLIPSIS_MACRO}`, options),
+    ),
+    normalize(katex.renderToString("1,\\ldots", options)),
+  );
 });
 
 test("renders the table no-value marker as an explicit text em dash", () => {

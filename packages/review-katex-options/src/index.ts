@@ -23,6 +23,17 @@ export const RTQ_QUESTION_MARK_PLACEHOLDER_MACROS = {
   "\\rtqMathsQuestionMarkOperatorPlaceholder": "\\mathbin{?}",
 } as const;
 
+export const RTQ_ELLIPSIS_OPERATOR_PLACEHOLDER_MACRO =
+  "\\rtqMathsEllipsisOperatorPlaceholder" as const;
+
+export const RTQ_ELLIPSIS_OPERATOR_PLACEHOLDER_EXPANSION =
+  "\\mathbin{\\ldots}" as const;
+
+export const RTQ_SEQUENCE_ELLIPSIS_MACRO =
+  "\\rtqMathsSequenceEllipsis" as const;
+
+export const RTQ_SEQUENCE_ELLIPSIS_EXPANSION = "\\ldots" as const;
+
 export const RTQ_TABLE_NO_VALUE_MACRO = "\\rtqMathsTableNoValue" as const;
 
 export const RTQ_TABLE_NO_VALUE_EXPANSION = "\\text{\\textemdash}" as const;
@@ -138,6 +149,9 @@ export function getRtqReviewKatexOptions<
         RTQ_COLUMNAR_ARITHMETIC_STYLE_EXPANSION,
       [RTQ_COLUMNAR_DECIMAL_POINT_MACRO]: RTQ_COLUMNAR_DECIMAL_POINT_EXPANSION,
       ...RTQ_QUESTION_MARK_PLACEHOLDER_MACROS,
+      [RTQ_ELLIPSIS_OPERATOR_PLACEHOLDER_MACRO]:
+        RTQ_ELLIPSIS_OPERATOR_PLACEHOLDER_EXPANSION,
+      [RTQ_SEQUENCE_ELLIPSIS_MACRO]: RTQ_SEQUENCE_ELLIPSIS_EXPANSION,
       [RTQ_TABLE_NO_VALUE_MACRO]: RTQ_TABLE_NO_VALUE_EXPANSION,
       [RTQ_TIME_SEPARATOR_MACRO]: RTQ_TIME_SEPARATOR_EXPANSION,
       [RTQ_RATIO_SEPARATOR_MACRO]: RTQ_RATIO_SEPARATOR_EXPANSION,

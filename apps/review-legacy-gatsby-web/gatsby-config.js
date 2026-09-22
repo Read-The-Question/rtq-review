@@ -84,6 +84,8 @@ const rtqKatexMacros = {
   "\\rtqMathsColumnarDecimalPoint": "\\mathrlap{\\mkern5mu .}",
   "\\rtqMathsQuestionMarkPlaceholder": "\\mathord{?}",
   "\\rtqMathsQuestionMarkOperatorPlaceholder": "\\mathbin{?}",
+  "\\rtqMathsEllipsisOperatorPlaceholder": "\\mathbin{\\ldots}",
+  "\\rtqMathsSequenceEllipsis": "\\ldots",
   "\\rtqMathsTimeSeparator": "\\mathord{:}",
   "\\rtqMathsRatioSeparator": "\\ratio",
   "\\rtqMathsTimeMeridiem": "\\ \\text{#1}",

@@ -21,8 +21,8 @@ export type ReviewSyncResolutionResponse = Readonly<{
 }>;
 
 export type ReviewSyncResolutionReaders = Readonly<{
-  imageMetadata: ReviewImageMetadataReader;
-  outcomes: ReviewOutcomeReader;
+  imageMetadata: Pick<ReviewImageMetadataReader, "resolve">;
+  outcomes: Pick<ReviewOutcomeReader, "resolve">;
 }>;
 
 export function resolveReviewSyncRequest(

@@ -15,8 +15,10 @@
     "format:check": "prettier --check .",
     "format:fix": "prettier --write .",
     "outcomes:resolve": "node --no-warnings --experimental-strip-types src/resolve-review-outcomes-cli.ts",
+    "sync:candidates": "node --no-warnings --experimental-strip-types src/resolve-review-sync-candidates-cli.ts",
+    "sync:prune": "node --no-warnings --experimental-strip-types src/prune-review-sync-cli.ts",
     "sync:resolve": "node --no-warnings --experimental-strip-types src/resolve-review-sync-cli.ts",
-    "test": "node --no-warnings --test --experimental-strip-types src/review-store.test.ts src/review-comment-resolution.test.ts src/review-outcome-resolution.test.ts src/review-sync-resolution.test.ts",
+    "test": "node --no-warnings --test --experimental-strip-types src/review-store.test.ts src/review-comment-resolution.test.ts src/review-outcome-resolution.test.ts src/review-sync-resolution.test.ts src/review-sync-maintenance.test.ts",
     "types": "tsc --noEmit"
   },
   "dependencies": {

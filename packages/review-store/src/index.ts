@@ -46,6 +46,26 @@ export type {
   ReviewOutcomeRepository,
 } from "./review-outcomes.ts";
 export {
+  listReviewSyncCandidates,
+  listReviewSyncCandidatesJson,
+  REVIEW_SYNC_CANDIDATE_SCHEMA_VERSION,
+} from "./review-sync-candidates.ts";
+export type {
+  ReviewSyncCandidateReaders,
+  ReviewSyncCandidateResponse,
+} from "./review-sync-candidates.ts";
+export type {
+  PruneReviewSyncData,
+  PruneReviewSyncResult,
+  ReviewSyncMaintenance,
+} from "./review-sync-maintenance.ts";
+export {
+  pruneReviewSyncRequest,
+  pruneReviewSyncRequestJson,
+  REVIEW_SYNC_PRUNE_SCHEMA_VERSION,
+} from "./review-sync-pruning.ts";
+export type { ReviewSyncPruneResponse } from "./review-sync-pruning.ts";
+export {
   resolveReviewSyncRequest,
   resolveReviewSyncRequestJson,
   REVIEW_SYNC_RESOLUTION_SCHEMA_VERSION,

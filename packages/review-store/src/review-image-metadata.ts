@@ -24,6 +24,7 @@ export type ReviewImageMetadataRepository = Readonly<{
     target: ReviewImageMetadataTarget,
   ) => StoredReviewImageMetadata | undefined;
   listAll: () => readonly StoredReviewImageMetadata[];
+  listCandidates: () => readonly StoredReviewImageMetadata[];
   resolve: (
     targets: readonly ReviewImageMetadataTarget[],
   ) => readonly StoredReviewImageMetadata[];
@@ -32,7 +33,7 @@ export type ReviewImageMetadataRepository = Readonly<{
 
 export type ReviewImageMetadataReader = Pick<
   ReviewImageMetadataRepository,
-  "resolve"
+  "listCandidates" | "resolve"
 >;
 
 type MetadataRecord = Readonly<{
@@ -171,6 +172,20 @@ const RESOLVE_IMAGE_METADATA_SQL = `
   order by metadata.rtq_uuid, metadata.side, metadata.rag_state
 `;
 
+const LIST_IMAGE_METADATA_CANDIDATES_SQL = `
+  select
+    rtq_uuid as uuid,
+    side as side,
+    rag_state as ragState,
+    image_types_json as imageTypesJson,
+    image_ignored_json as imageIgnoredJson,
+    reviewer as reviewer,
+    created_at as createdAt,
+    updated_at as updatedAt
+  from review_image_metadata
+  order by rtq_uuid, side, rag_state
+`;
+
 function uniqueTargets(
   targets: readonly ReviewImageMetadataTarget[],
 ): readonly ReviewImageMetadataTarget[] {
@@ -189,7 +204,21 @@ export function createReviewImageMetadataReader(
   sqlite: Database.Database,
 ): ReviewImageMetadataReader {
   const statement = sqlite.prepare(RESOLVE_IMAGE_METADATA_SQL);
+  const candidateStatement = sqlite.prepare(LIST_IMAGE_METADATA_CANDIDATES_SQL);
   return {
+    listCandidates() {
+      try {
+        return (
+          candidateStatement.all() as (typeof reviewImageMetadata.$inferSelect)[]
+        ).map(toMetadata);
+      } catch (error) {
+        if (error instanceof ReviewStoreDataError) throw error;
+        throw new ReviewDatabaseError(
+          "Image metadata candidates could not be loaded.",
+          { cause: error },
+        );
+      }
+    },
     resolve(targets) {
       if (targets.length === 0) return [];
       const requested = uniqueTargets(targets);
@@ -253,6 +282,7 @@ export function createReviewImageMetadataRepository(
         );
       }
     },
+    listCandidates: reader.listCandidates,
     resolve: reader.resolve,
     set(input) {
       validateInput(input);

@@ -29,6 +29,10 @@ import {
   type ReviewOutcomeReader,
   type ReviewOutcomeRepository,
 } from "./review-outcomes.ts";
+import {
+  createReviewSyncMaintenance,
+  type ReviewSyncMaintenance,
+} from "./review-sync-maintenance.ts";
 import * as schema from "./schema.ts";
 
 export type ReviewStoreDatabase = ReturnType<typeof drizzle<typeof schema>>;
@@ -38,6 +42,7 @@ export type ReviewStore = Readonly<{
   comments: ReviewCommentRepository;
   findings: GlobalReviewFindingRepository;
   imageMetadata: ReviewImageMetadataRepository;
+  maintenance: ReviewSyncMaintenance;
   outcomes: ReviewOutcomeRepository;
 }>;
 
@@ -81,7 +86,7 @@ export const REVIEW_MIGRATIONS_FOLDER = path.join(
   "drizzle",
 );
 
-const REVIEW_STORE_RUNTIME_VERSION = 5;
+const REVIEW_STORE_RUNTIME_VERSION = 6;
 
 export function openReviewStore(
   options: OpenReviewStoreOptions = {},
@@ -99,13 +104,24 @@ export function openReviewStore(
     const connection = sqlite;
     const db = drizzle(connection, { schema });
     migrate(db, { migrationsFolder });
+    const imageMetadata = createReviewImageMetadataRepository(
+      db,
+      now,
+      connection,
+    );
+    const outcomes = createReviewOutcomeRepository(db, now, connection);
 
     return {
       close: () => connection.close(),
       comments: createReviewCommentRepository(db, now),
       findings: createGlobalReviewFindingRepository(db, now),
-      imageMetadata: createReviewImageMetadataRepository(db, now, connection),
-      outcomes: createReviewOutcomeRepository(db, now, connection),
+      imageMetadata,
+      maintenance: createReviewSyncMaintenance(
+        connection,
+        outcomes,
+        imageMetadata,
+      ),
+      outcomes,
     };
   } catch (error) {
     try {

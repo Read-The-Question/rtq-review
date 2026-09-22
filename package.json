@@ -15,6 +15,8 @@
     "database:migrate": "pnpm --filter @rtq/review-store database:migrate",
     "review-comments:resolve": "pnpm --silent --filter @rtq/review-store comments:resolve",
     "review-outcomes:resolve": "pnpm --silent --filter @rtq/review-store outcomes:resolve",
+    "review-sync:candidates": "pnpm --silent --filter @rtq/review-store sync:candidates",
+    "review-sync:prune": "pnpm --silent --filter @rtq/review-store sync:prune",
     "review-sync:resolve": "pnpm --silent --filter @rtq/review-store sync:resolve",
     "review-content-web:check": "pnpm --filter rtq-review-content-web check",
     "review-content-web:dev": "pnpm --filter rtq-review-content-web dev --port 3001",

@@ -21,7 +21,7 @@ still applies to the current canonical state and, if it does, updates TOML.
 | Review comments, outcomes, and image metadata        | `rtq-review/packages/review-store`   | `database/review-content.sqlite` through `@rtq/review-store/server`                                                       |
 | Reviewer interaction and live-target validation      | `rtq-review/apps/review-content-web` | The current canonical paper read from the active `rtq-content` checkout                                                   |
 | Comment resolution across repositories               | `rtq-review/packages/review-store`   | The versioned `review-comments:resolve` standard-input/standard-output contract                                           |
-| Sync resolution across repositories                  | `rtq-review/packages/review-store`   | The versioned `review-sync:resolve` standard-input/standard-output contract                                               |
+| Candidate listing and pruning across repositories    | `rtq-review/packages/review-store`   | The versioned `review-sync:candidates` and `review-sync:prune` standard-input/standard-output contracts                    |
 | TOML inventory, transition calculation, and mutation | `rtq-content/packages/papers`        | `scripts/papers/lib/database_review_sync.rb` and the shared RAG transition engine                                         |
 
 Review Content Web never owns or edits canonical content state. Review Store
@@ -41,9 +41,11 @@ Reviewer opens a canonical question
 Operator runs the database-outcome sync in rtq-content
   -> sync inventories every top-level UUID and all four review targets
   -> Not Applicable image targets are excluded from outcome resolution
-  -> review-store resolves separate exact-state outcome and image-metadata matches
+  -> review-store lists transition-outcome and image-metadata candidates
+  -> rtq-content performs one UUID text scan and parses only matching files
+  -> stale candidates are ignored by exact UUID + side + state comparison
   -> rtq-content applies the current transition policy
-  -> dry-run reports, or apply edits, canonical content and companion review fields
+  -> dry-run reports, or apply edits, canonical content/image state and metadata
   -> stored review outcomes remain unchanged
 ```
 
@@ -187,23 +189,25 @@ compact Filters control and active-filter count; it moves focus to the normal
 non-sticky filter panel, which offers a return control to the question the
 reviewer was inspecting.
 
-### 5. Resolve only currently applicable outcomes
+### 5. List candidates before parsing canonical TOML
 
-From `rtq-content/packages/papers`, the database sync first parses every
-complete canonical paper. It validates unique top-level UUIDs and recognised
-states for all four review targets before asking Review Store for anything.
-
-It sends all current targets to this command in the sibling `rtq-review`
-workspace:
+The frequent database sync first asks Review Store for the small set of rows
+that can affect canonical TOML:
 
 ```sh
-pnpm --silent review-sync:resolve
+pnpm --silent review-sync:candidates
 ```
 
-The versioned JSON request contains only UUID, side, and current RAG state. The
-resolver opens SQLite once and returns separate `outcomes` and `imageMetadata`
-arrays containing only exact matches. It does not return comment history or
-irrelevant rows from other states, and it performs no transition or write.
+The read-only command opens SQLite once. `outcomes` contains only transition
+triggers (`PRG`, `PRBD`, and `PRCS`); `imageMetadata` contains state-scoped
+classification rows. `PRCR`, `PRCC`, and `PRNS` are database-only review
+signals and are not canonical-application candidates.
+
+`rtq-content` deduplicates candidate UUIDs, performs one lightweight text scan
+over canonical TOML UUID assignments, and parses only files containing those
+UUIDs. It then retains only exact UUID + side + current-state matches. Missing,
+removed, and recent stale candidates are inert without forcing a complete TOML
+parse.
 
 ### 6. Calculate and apply the transition in `rtq-content`
 
@@ -225,18 +229,34 @@ pnpm papers:review-outcomes:sync:apply
 ```
 
 Dry-run is the default. Apply mode uses the line-preserving TOML updater. `PRG`,
-`PRBD`, and `PRCS` update the matching content or image state field and reset
-its companion review outcome to `PRNS`.
-`PRCR` and `PRCC` do not change content RAG; they are retained in the companion
-review field. Reset is represented by the absence of an exact database outcome,
-so the sync returns a retained companion signal to `PRNS`. The database path also copies `types` and `ignored` from an exact-state
+`PRBD`, and `PRCS` update only the matching content or image state field. The
+database-backed path no longer reads or writes legacy companion TOML review
+outcome or comment fields. `PRCR`, `PRCC`, Reset, and other UI-only changes
+remain in Review Store. The database path also copies `types` and `ignored` from an exact-state
 `review_image_metadata` row into the matching canonical image fields,
 independently of any outcome. Empty arrays explicitly clear the canonical
 arrays; no exact-state metadata row preserves them. Metadata and an image RAG
 transition can still be applied in the same dry-run/apply plan. The
-database path never changes companion TOML comment fields, derived TOML,
+database path never changes companion TOML review fields, derived TOML,
 generated Markdown, PDFs, assets, Google Sheets, comments, or the review
 database.
+
+### 7. Prune stale review data occasionally
+
+Pruning is a separate maintenance operation because it deliberately performs a
+complete canonical inventory:
+
+```sh
+pnpm papers:review-data:prune
+pnpm papers:review-data:prune:apply
+```
+
+The dry-run/apply command sends every current UUID + side + state identity and
+a five-day cutoff to `review-sync:prune`. Review Store transactionally removes
+outcomes and image metadata only when their identity is no longer current and
+their `updatedAt` is at or before the cutoff. Current rows are retained
+regardless of age, recent stale rows remain available as a recovery window, and
+comments are never pruned.
 
 ## Replay and failure behaviour
 
@@ -249,15 +269,15 @@ The design does not need an “applied” database flag:
 - If a TOML edit remains, that side is now at its successor state. The earlier
   outcome no longer matches, so another sync does nothing unless a separate
   outcome exists for the successor state.
-- Clearing a retained PRCR or PRCC row causes the next sync to reset only the
-  matching companion TOML review field; comment history remains untouched.
+- Replacing or clearing `PRCR` or `PRCC` changes Review Store and the review UI
+  only; the database-backed sync does not project those signals into TOML.
 - A single sync calculates at most one transition for the state it observed;
   it does not cascade through outcomes stored for several future states.
-- Image metadata comes from the same exact UUID, image side, and current-state
-  outcome as the transition; a stale outcome cannot update current arrays.
-- Inventory, resolver, contract, or transition errors fail the run rather than
-  silently skipping questionable data. The complete plan is built before apply
-  mode edits any file.
+- Image metadata resolves independently by exact UUID, image side, and current
+  state; stale metadata cannot update current arrays.
+- Candidate contract, duplicate candidate UUID, selected-file inventory, or
+  transition errors fail the run rather than silently applying questionable
+  data. The complete plan is built before apply mode edits any file.
 
 For example, a question at `rag_wf_ng2` with a `PRG` stored for
 `rag_wf_ng2` advances according to the current transition engine. On the next
@@ -311,15 +331,10 @@ not already recorded.
 
 ## Current verification
 
-The implementation has focused tests for state and side isolation, replacement
-and Reset, stale review submissions, exclusive destination selection,
-current-state resolution, replay after canonical reset, and one-stage-per-sync
-behaviour.
-
-On 10 September 2026, the live canonical dry-run completed successfully across
-12,548 question/answer targets. The database contained no outcome rows and no
-exact matching outcomes, so it proposed zero transitions and zero field
-changes.
+The implementation has focused tests for candidate file selection, state and
+side isolation, stale and missing candidates, replay after canonical reset,
+metadata-only changes, one-stage-per-sync behaviour, and transactional pruning
+with current, recent-stale, and old-stale rows.
 
 ## Known gaps and future refinements
 

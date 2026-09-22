@@ -61,6 +61,11 @@ function repository() {
     listAll() {
       return [...records.values()];
     },
+    listTransitionCandidates() {
+      return [...records.values()].filter((record) =>
+        ['PRG', 'PRBD', 'PRCS'].includes(record.outcome),
+      );
+    },
     resolve(inputs) {
       calls.resolve += 1;
       return inputs.flatMap((input) => {
@@ -97,6 +102,9 @@ function imageMetadataRepository() {
       return records.get(key(input));
     },
     listAll() {
+      return [...records.values()];
+    },
+    listCandidates() {
       return [...records.values()];
     },
     resolve(inputs) {

@@ -112,20 +112,32 @@ UUID, side, and RAG state. Errors go to standard error with a non-zero exit
 code. The resolver does not inspect canonical files, calculate transitions,
 write TOML, call Google Sheets, or modify the review database.
 
-## Resolve outcomes and image metadata for content sync
+## List outcomes and image metadata for content sync
 
 Image classification is stored separately in `review_image_metadata`, keyed by
 UUID, image side, and exact image RAG state. Empty arrays explicitly clear
 canonical classification; no exact-state row means canonical arrays remain
 unchanged.
 
-Cross-repository synchronization resolves outcomes and image metadata through
-one read-only process:
+Frequent cross-repository synchronization lists actionable rows before reading
+canonical TOML:
 
 ```sh
-pnpm --silent review-sync:resolve
+pnpm --silent review-sync:candidates
 ```
 
-The command accepts the same versioned targets request and returns separate
-`outcomes` and `imageMetadata` arrays. This allows metadata to apply without an
-outcome while retaining one SQLite connection and Node process.
+The versioned command returns separate `outcomes` and `imageMetadata` arrays
+through one read-only SQLite connection. Outcomes contain only `PRG`, `PRBD`,
+and `PRCS`; image metadata remains independent from outcomes.
+
+Occasional pruning accepts all current UUID + side + RAG identities, a cutoff,
+and an explicit apply flag:
+
+```sh
+pnpm --silent review-sync:prune
+```
+
+It reports or transactionally deletes stale outcomes and image metadata at or
+before the cutoff. Exact current rows and comments are never deleted. The
+existing `review-sync:resolve` exact-target command remains available for
+compatibility.

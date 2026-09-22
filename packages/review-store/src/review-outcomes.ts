@@ -26,13 +26,17 @@ export type ReviewOutcomeRepository = Readonly<{
   clear: (target: ReviewOutcomeTarget) => boolean;
   get: (target: ReviewOutcomeTarget) => StoredReviewOutcome | undefined;
   listAll: () => readonly StoredReviewOutcome[];
+  listTransitionCandidates: () => readonly StoredReviewOutcome[];
   resolve: (
     targets: readonly ReviewOutcomeTarget[],
   ) => readonly StoredReviewOutcome[];
   set: (input: SetReviewOutcome) => StoredReviewOutcome;
 }>;
 
-export type ReviewOutcomeReader = Pick<ReviewOutcomeRepository, "resolve">;
+export type ReviewOutcomeReader = Pick<
+  ReviewOutcomeRepository,
+  "listTransitionCandidates" | "resolve"
+>;
 
 function requireValue(field: string, value: string): void {
   if (!value.trim()) throw new ReviewStoreValidationError(field);
@@ -173,6 +177,7 @@ export function createReviewOutcomeRepository(
         });
       }
     },
+    listTransitionCandidates: reader.listTransitionCandidates,
     resolve: reader.resolve,
     set(input) {
       validateTarget(input);
@@ -259,6 +264,20 @@ const RESOLVE_OUTCOMES_SQL = `
   order by outcome.rtq_uuid, outcome.side, outcome.rag_state
 `;
 
+const LIST_TRANSITION_CANDIDATES_SQL = `
+  select
+    rtq_uuid as uuid,
+    side as side,
+    rag_state as ragState,
+    outcome as outcome,
+    reviewer as reviewer,
+    created_at as createdAt,
+    updated_at as updatedAt
+  from review_outcomes
+  where outcome in ('PRG', 'PRBD', 'PRCS')
+  order by rtq_uuid, side, rag_state
+`;
+
 function uniqueTargets(
   targets: readonly ReviewOutcomeTarget[],
 ): readonly ReviewOutcomeTarget[] {
@@ -277,7 +296,19 @@ export function createReviewOutcomeReader(
   sqlite: Database.Database,
 ): ReviewOutcomeReader {
   const statement = sqlite.prepare(RESOLVE_OUTCOMES_SQL);
+  const candidateStatement = sqlite.prepare(LIST_TRANSITION_CANDIDATES_SQL);
   return {
+    listTransitionCandidates() {
+      try {
+        return (candidateStatement.all() as OutcomeRecord[]).map(toOutcome);
+      } catch (error) {
+        if (error instanceof ReviewStoreDataError) throw error;
+        throw new ReviewDatabaseError(
+          "Review outcome candidates could not be loaded.",
+          { cause: error },
+        );
+      }
+    },
     resolve(targets) {
       if (targets.length === 0) return [];
       const requested = uniqueTargets(targets);

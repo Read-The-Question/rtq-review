@@ -38,6 +38,7 @@ import type {
   DisplayReviewPaper,
   DisplayWorkingSegment,
 } from '@/lib/display-model';
+import type { PaperPdf } from '@/lib/paper-pdf';
 import {
   DEFAULT_REVIEW_PREFERENCES,
   EARLIER_REVIEW_PREFERENCES_KEY,
@@ -2256,17 +2257,46 @@ function CorpusPageNavigation({
   );
 }
 
+function PaperPdfPane({
+  onHide,
+  pdf,
+}: {
+  onHide: () => void;
+  pdf: Extract<PaperPdf, { state: 'available' }>;
+}) {
+  return (
+    <aside className="paper-pdf-pane" aria-label="Original paper PDF">
+      <header>
+        <div>
+          <span>Original paper</span>
+          <strong title={pdf.fileName}>{pdf.fileName}</strong>
+        </div>
+        <button onClick={onHide} type="button">
+          Hide PDF
+        </button>
+      </header>
+      <iframe
+        loading="lazy"
+        src={`${pdf.url}#view=FitH`}
+        title={`Original paper PDF: ${pdf.fileName}`}
+      />
+    </aside>
+  );
+}
+
 export function ReviewSurface({
   commentLoad,
   corpus,
   outcomeLoad,
   paper,
+  pdf,
   reviewer,
 }: {
   commentLoad: ReviewCommentLoad;
   corpus?: CorpusReviewSurfaceConfig;
   outcomeLoad: ReviewOutcomeLoad;
   paper: DisplayReviewPaper;
+  pdf?: PaperPdf;
   reviewer: string;
 }) {
   const pathname = usePathname();
@@ -2323,6 +2353,8 @@ export function ReviewSurface({
   const contentScope = normalizeContentSearchScope(
     searchParams.get('content-scope'),
   );
+  const visiblePdf =
+    pdf?.state === 'available' && preferences.showPdf ? pdf : undefined;
   const contentSearch = useMemo<ContentSearchQuery | undefined>(
     () =>
       contentPattern
@@ -3315,7 +3347,10 @@ export function ReviewSurface({
   });
 
   return (
-    <main className="paper-shell" id="paper-top">
+    <main
+      className={`paper-shell${visiblePdf ? ' paper-shell--with-pdf' : ''}`}
+      id="paper-top"
+    >
       <SiteHeader compact outcomeDestination={outcomeLoad.destination} />
       <header className="paper-hero">
         <div className="paper-breadcrumb">
@@ -3569,6 +3604,17 @@ export function ReviewSurface({
                   label="Workings & answers"
                   onChange={(value) => updatePreference('showSolutions', value)}
                 />
+                {pdf?.state === 'available' ? (
+                  <PreferenceToggle
+                    checked={preferences.showPdf}
+                    label="Original PDF"
+                    onChange={(value) => updatePreference('showPdf', value)}
+                  />
+                ) : pdf?.state === 'unavailable' ? (
+                  <span className="pdf-unavailable-note" role="status">
+                    Original PDF unavailable
+                  </span>
+                ) : null}
                 <PreferenceToggle
                   checked={preferences.showTags}
                   label="Tags"
@@ -3734,6 +3780,12 @@ export function ReviewSurface({
         <a href="#paper-top">Back to top ↑</a>
         <span>TOML and canonical assets are never mutated by this app.</span>
       </footer>
+      {visiblePdf ? (
+        <PaperPdfPane
+          onHide={() => updatePreference('showPdf', false)}
+          pdf={visiblePdf}
+        />
+      ) : null}
       {commentDialog ? (
         <div
           className="keyboard-comment-backdrop"

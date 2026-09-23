@@ -11,6 +11,7 @@ import {
 } from '@/lib/review-api-config';
 import { loadReviewCommentsForPaper } from '@/lib/review-comments';
 import { loadReviewOutcomesForPaper } from '@/lib/review-outcomes';
+import { resolvePaperPdf } from '@/lib/paper-pdf-reader';
 
 export const dynamic = 'force-dynamic';
 export const runtime = 'nodejs';
@@ -42,6 +43,7 @@ export default async function PaperPage({
     paper,
     reviewOutcomeDestination(),
   );
+  const pdf = resolvePaperPdf(paper.source);
   return (
     <Suspense fallback={<div className="route-loading">Preparing review…</div>}>
       <ReviewSurface
@@ -49,6 +51,7 @@ export default async function PaperPage({
         key={`${paper.source.collection.id}:${paper.source.relativePath}:${paper.source.version}`}
         outcomeLoad={outcomeLoad}
         paper={displayPaper}
+        pdf={await pdf}
         reviewer={reviewContentReviewer}
       />
     </Suspense>

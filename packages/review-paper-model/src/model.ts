@@ -42,6 +42,7 @@ export type PaperCollection = Readonly<{
   id: PaperCollectionId;
   label: string;
   readOnly: true;
+  supportsOriginalPdf: boolean;
 }>;
 
 export type PaperSourceProvenance = Readonly<{

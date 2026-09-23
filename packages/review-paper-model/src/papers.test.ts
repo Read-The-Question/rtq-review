@@ -387,8 +387,15 @@ test('discovers only supported existing collections in stable order', async () =
       true,
     );
     assert.equal(collections[0].generated, false);
+    assert.equal(collections[0].supportsOriginalPdf, true);
     assert.equal(collections[1].generated, true);
     assert.equal(collections[1].label, 'All Topic Papers');
+    assert.equal(collections[1].supportsOriginalPdf, false);
+    assert.equal(
+      collections.find((collection) => collection.id === 'focusToml')
+        ?.supportsOriginalPdf,
+      true,
+    );
     assert.equal(collections.at(-1)?.exemplarLevel, 11);
   } finally {
     rmSync(root, { force: true, recursive: true });

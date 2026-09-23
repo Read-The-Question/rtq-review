@@ -279,7 +279,7 @@ test('the sticky View popover dismisses after selection, outside click, and Esca
   assert.doesNotMatch(viewMenu, /label="Raw source"/);
   assert.match(
     component,
-    /onChange=\{\(event\) => dismissReviewPopover\(event\.currentTarget\)\}/,
+    /onChange=\{\(event\) =>\s*dismissReviewPopover\(event\.currentTarget\)\s*\}/,
   );
   assert.match(
     component,
@@ -289,6 +289,37 @@ test('the sticky View popover dismisses after selection, outside click, and Esca
   assert.match(
     component,
     /event\.key === 'Escape'[\s\S]*details\.removeAttribute\('open'\)/,
+  );
+});
+
+test('complete papers expose a persisted, independently scrolling PDF pane', async () => {
+  const [component, css] = await Promise.all([
+    fs.readFile(componentUrl, 'utf8'),
+    fs.readFile(cssUrl, 'utf8'),
+  ]);
+
+  assert.match(component, /function PaperPdfPane/);
+  assert.match(component, /label="Original PDF"/);
+  assert.match(component, /updatePreference\('showPdf', value\)/);
+  assert.match(component, /aria-label="Original paper PDF"/);
+  assert.match(component, /src=\{`\$\{pdf\.url\}#view=FitH`\}/);
+  assert.match(
+    component,
+    /onHide=\{\(\) => updatePreference\('showPdf', false\)\}/,
+  );
+  assert.match(component, /Original PDF unavailable/);
+  assert.match(
+    css,
+    /\.paper-shell--with-pdf\s*{[^}]*--pdf-pane-width:\s*clamp\(48rem,[^;}]*112rem\)[^}]*width:\s*min\(112rem,[^;}]*var\(--pdf-pane-width\)/s,
+  );
+  assert.doesNotMatch(component, /paper-body--with-pdf/);
+  assert.match(
+    css,
+    /\.paper-pdf-pane\s*{[^}]*position:\s*fixed;[^}]*width:\s*var\(--pdf-pane-width\)/s,
+  );
+  assert.match(
+    css,
+    /\.paper-pdf-pane iframe\s*{[^}]*height:\s*100%;[^}]*width:\s*100%/s,
   );
 });
 

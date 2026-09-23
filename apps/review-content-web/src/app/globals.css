@@ -730,6 +730,17 @@ a.paper-row:hover {
   margin: 0 auto;
 }
 
+.paper-shell--with-pdf {
+  --pdf-pane-width: clamp(48rem, calc(100vw - 117rem), 112rem);
+
+  margin-left: clamp(1rem, 1.5vw, 2rem);
+  margin-right: 0;
+  max-width: 112rem;
+  padding-left: 0;
+  padding-right: 0;
+  width: min(112rem, calc(100vw - var(--pdf-pane-width) - 5rem));
+}
+
 .paper-hero {
   border-bottom: 1px solid var(--rule-strong);
   padding: 1.75rem 0 1.5rem;
@@ -1711,6 +1722,14 @@ a.paper-row:hover {
   z-index: 30;
 }
 
+.pdf-unavailable-note {
+  border-top: 1px solid var(--rule);
+  color: var(--muted);
+  font-size: 0.875rem;
+  font-weight: 750;
+  padding-top: 0.8rem;
+}
+
 .global-finding-button {
   background: var(--ink);
   color: var(--paper-bright);
@@ -2109,6 +2128,80 @@ a.paper-row:hover {
   display: grid;
   gap: clamp(2rem, 5vw, 5rem);
   grid-template-columns: minmax(12rem, 17rem) minmax(0, 1fr);
+}
+
+.paper-pdf-pane {
+  background: var(--paper-deep);
+  border: 1px solid var(--rule-strong);
+  bottom: 1rem;
+  display: grid;
+  grid-template-rows: auto minmax(0, 1fr);
+  height: auto;
+  min-height: 34rem;
+  overflow: hidden;
+  position: fixed;
+  right: clamp(1rem, 1.5vw, 2rem);
+  top: 1rem;
+  width: var(--pdf-pane-width);
+  z-index: 40;
+}
+
+.paper-pdf-pane > header {
+  align-items: center;
+  background: var(--ink);
+  color: var(--paper-bright);
+  display: flex;
+  gap: 1rem;
+  justify-content: space-between;
+  min-width: 0;
+  padding: 0.65rem 0.75rem 0.7rem 1rem;
+}
+
+.paper-pdf-pane > header div {
+  display: grid;
+  gap: 0.15rem;
+  min-width: 0;
+}
+
+.paper-pdf-pane > header span {
+  color: var(--paper);
+  font-size: 0.875rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.paper-pdf-pane > header strong {
+  font-family: 'SFMono-Regular', Consolas, monospace;
+  font-size: 0.875rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.paper-pdf-pane > header button {
+  background: transparent;
+  border: 1px solid rgb(255 255 255 / 52%);
+  color: var(--paper-bright);
+  cursor: pointer;
+  flex: none;
+  font-size: 0.875rem;
+  font-weight: 800;
+  padding: 0.45rem 0.6rem;
+  text-transform: uppercase;
+}
+
+.paper-pdf-pane > header button:hover,
+.paper-pdf-pane > header button:focus-visible {
+  background: var(--paper-bright);
+  color: var(--ink);
+}
+
+.paper-pdf-pane iframe {
+  background: #585858;
+  border: 0;
+  height: 100%;
+  width: 100%;
 }
 
 .question-index {
@@ -3966,6 +4059,24 @@ a.paper-row:hover {
 .route-message p {
   color: var(--muted);
   line-height: 1.6;
+}
+
+@media (max-width: 2000px) {
+  .paper-shell--with-pdf {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 112rem;
+    padding-left: clamp(1rem, 3vw, 3rem);
+    padding-right: clamp(1rem, 3vw, 3rem);
+    width: auto;
+  }
+
+  .paper-shell--with-pdf > .paper-pdf-pane {
+    box-shadow: 0 1rem 3rem rgb(24 29 32 / 28%);
+    max-width: calc(100vw - 2rem);
+    right: 1rem;
+    width: 48rem;
+  }
 }
 
 @media (max-width: 1050px) {

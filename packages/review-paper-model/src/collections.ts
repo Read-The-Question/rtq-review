@@ -99,6 +99,7 @@ export function paperCollectionForId(value: string): PaperCollection {
       id: value,
       label: `Exemplars Level ${exemplarLevel}`,
       readOnly: true,
+      supportsOriginalPdf: false,
     };
   }
 
@@ -110,6 +111,7 @@ export function paperCollectionForId(value: string): PaperCollection {
     generated: value !== 'toml',
     id: value,
     readOnly: true,
+    supportsOriginalPdf: value === 'toml' || value === 'focusToml',
   };
 }
 

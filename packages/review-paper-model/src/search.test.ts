@@ -86,6 +86,7 @@ function paper(): ReviewPaper {
         id: 'toml',
         label: 'Papers',
         readOnly: true,
+        supportsOriginalPdf: true,
       },
       fileName: 'paper.toml',
       focusGroups: [],

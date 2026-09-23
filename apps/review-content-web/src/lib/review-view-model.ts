@@ -1,17 +1,17 @@
 import type { ReviewFilterSelection } from '@rtq/review-paper-model/client';
 import type { ReviewSide } from '@rtq/review-store/types';
 
-export const REVIEW_PREFERENCES_KEY = 'rtq.review-content.preferences.v5';
+export const REVIEW_PREFERENCES_KEY = 'rtq.review-content.preferences.v6';
 export const REVIEW_FILTER_DISCLOSURE_KEY =
   'rtq.review-content.filter-disclosure.v1';
 export const PREVIOUS_REVIEW_PREFERENCES_KEY =
-  'rtq.review-content.preferences.v4';
+  'rtq.review-content.preferences.v5';
 export const LEGACY_REVIEW_PREFERENCES_KEY =
-  'rtq.review-content.preferences.v3';
+  'rtq.review-content.preferences.v4';
 export const EARLIER_REVIEW_PREFERENCES_KEY =
-  'rtq.review-content.preferences.v2';
+  'rtq.review-content.preferences.v3';
 export const INITIAL_REVIEW_PREFERENCES_KEY =
-  'rtq.review-content.preferences.v1';
+  'rtq.review-content.preferences.v2';
 
 export type ReviewControlMode = 'advanced' | 'simple';
 export type ReviewContext = 'answer' | 'question';
@@ -22,6 +22,7 @@ export type ReviewPreferences = Readonly<{
   reviewSide: VisibleReviewSide;
   showFeedback: boolean;
   showInlineReview: boolean;
+  showPdf: boolean;
   showRaw: boolean;
   showSolutions: boolean;
   showStatusBackground: boolean;
@@ -33,6 +34,7 @@ export const DEFAULT_REVIEW_PREFERENCES: ReviewPreferences = {
   reviewSide: 'answer',
   showFeedback: true,
   showInlineReview: true,
+  showPdf: true,
   showRaw: false,
   showSolutions: true,
   showStatusBackground: false,
@@ -185,6 +187,7 @@ export function parseReviewPreferences(
         oldReviewPreference ??
         DEFAULT_REVIEW_PREFERENCES.showInlineReview,
     ),
+    showPdf: preference('showPdf', DEFAULT_REVIEW_PREFERENCES.showPdf),
     showRaw: preference('showRaw', DEFAULT_REVIEW_PREFERENCES.showRaw),
     showSolutions: preference(
       'showSolutions',

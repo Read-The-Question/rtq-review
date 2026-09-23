@@ -24,23 +24,23 @@ import {
   visibleReviewSides,
 } from './review-view-model.ts';
 
-test('display preference storage is versioned for review status treatments', () => {
-  assert.equal(REVIEW_PREFERENCES_KEY, 'rtq.review-content.preferences.v5');
+test('display preference storage is versioned for the original PDF pane', () => {
+  assert.equal(REVIEW_PREFERENCES_KEY, 'rtq.review-content.preferences.v6');
   assert.equal(
     PREVIOUS_REVIEW_PREFERENCES_KEY,
-    'rtq.review-content.preferences.v4',
+    'rtq.review-content.preferences.v5',
   );
   assert.equal(
     LEGACY_REVIEW_PREFERENCES_KEY,
-    'rtq.review-content.preferences.v3',
+    'rtq.review-content.preferences.v4',
   );
   assert.equal(
     EARLIER_REVIEW_PREFERENCES_KEY,
-    'rtq.review-content.preferences.v2',
+    'rtq.review-content.preferences.v3',
   );
   assert.equal(
     INITIAL_REVIEW_PREFERENCES_KEY,
-    'rtq.review-content.preferences.v1',
+    'rtq.review-content.preferences.v2',
   );
 });
 
@@ -66,6 +66,7 @@ test('preferences survive partial and malformed local values', () => {
     ...DEFAULT_REVIEW_PREFERENCES,
     showRaw: true,
   });
+  assert.equal(parseReviewPreferences('{"showPdf":false}').showPdf, false);
 });
 
 test('preferences migrate independent side settings into one active review side', () => {

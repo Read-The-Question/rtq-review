@@ -95,6 +95,7 @@ function paperWith(questions: readonly ReviewPaperNode[]): ReviewPaper {
         id: 'toml',
         label: 'Papers',
         readOnly: true,
+        supportsOriginalPdf: true,
       },
       fileName: 'paper.toml',
       focusGroups: [],

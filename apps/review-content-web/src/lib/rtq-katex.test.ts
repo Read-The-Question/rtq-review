@@ -9,11 +9,15 @@ test('registers all prefixed RTQ macros including one-to-one symbol wrappers', (
   assert.equal(
     Object.keys(rtqKatexMacros).filter((name) => name.startsWith('\\rtqMaths'))
       .length,
-    75,
+    84,
   );
   assert.equal(
     rtqKatexMacros['\\rtqMathsEllipsisOperatorPlaceholder'],
-    '\\mathbin{\\ldots}',
+    '\\rtqMathsEllipsisEmptyBinaryOperatorPendingReview',
+  );
+  assert.equal(
+    rtqKatexMacros['\\rtqMathsEllipsisEmptyValueFraction'],
+    '\\rtqMathsBoxedEmptyValueFraction',
   );
   assert.equal(rtqKatexMacros['\\rtqMathsSequenceEllipsis'], '\\ldots');
   assert.equal(rtqKatexMacros['\\rtqMathsListSeparator'], '\\quad');
@@ -87,7 +91,7 @@ test('renders the columnar decimal point', () => {
 
 test('renders the boxed-value grammar', () => {
   const html = katex.renderToString(
-    String.raw`\rtqMathsBoxedEmptyValueZeroDigitsWidePendingReview\rtqMathsBoxedEmptyValueFraction\rtqMathsEmptyValueFraction\rtqMathsBoxedValue{7}\rtqMathsBoxedCorrectValue{8}`,
+    String.raw`\rtqMathsBoxedEmptyValueZeroDigitsWidePendingReview\rtqMathsBoxedEmptyValueFraction\rtqMathsEllipsisEmptyValueOneDigitWide\rtqMathsEllipsisEmptyValueTwoDigitsWide\rtqMathsEllipsisEmptyValueThreeDigitsWide\rtqMathsEllipsisEmptyValueFourDigitsWide\rtqMathsEllipsisEmptyValueFraction\rtqMathsEllipsisEmptyBinaryOperatorMatching{\times}\rtqMathsEllipsisEmptyRelationMatching{=}\rtqMathsEllipsisEmptyBinaryOperatorPendingReview\rtqMathsEllipsisEmptyRelationPendingReview\rtqMathsEllipsisOperatorPlaceholder\rtqMathsEmptyValueFraction\rtqMathsBoxedValue{7}\rtqMathsBoxedCorrectValue{8}`,
     rtqKatexOptions,
   );
 

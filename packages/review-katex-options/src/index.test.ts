@@ -16,7 +16,7 @@ import {
   RTQ_EQUATION_NUMBER_CLASS,
   RTQ_EQUATION_NUMBER_EXPANSION,
   RTQ_EQUATION_NUMBER_MACRO,
-  RTQ_ELLIPSIS_OPERATOR_PLACEHOLDER_EXPANSION,
+  RTQ_ELLIPSIS_EMPTY_MACROS,
   RTQ_ELLIPSIS_OPERATOR_PLACEHOLDER_MACRO,
   RTQ_EMPTY_VALUE_MACROS,
   RTQ_PENDING_SIZE_SWITCHES,
@@ -150,15 +150,12 @@ test("matches the canonical rtq-content shared macro contracts", () => {
       name,
     );
   }
-  assert.deepEqual(
-    contract.macros.find(
-      ({ name }) => name === RTQ_ELLIPSIS_OPERATOR_PLACEHOLDER_MACRO,
-    ),
-    {
-      expansion: RTQ_ELLIPSIS_OPERATOR_PLACEHOLDER_EXPANSION,
-      name: RTQ_ELLIPSIS_OPERATOR_PLACEHOLDER_MACRO,
-    },
-  );
+  for (const [name, expansion] of Object.entries(RTQ_ELLIPSIS_EMPTY_MACROS)) {
+    assert.deepEqual(
+      contract.macros.find((macro) => macro.name === name),
+      { expansion, name },
+    );
+  }
   assert.deepEqual(
     contract.macros.find(({ name }) => name === RTQ_SEQUENCE_ELLIPSIS_MACRO),
     {
@@ -183,24 +180,59 @@ test("renders question-mark placeholders with their contracted math roles", () =
   }
 });
 
-test("renders the ellipsis operator placeholder with binary spacing", () => {
+test("renders ellipsis empty slots through their boxed delegates", () => {
   const normalize = (html: string) =>
     html.replace(/<annotation[^>]*>[\s\S]*?<\/annotation>/g, "<annotation/>");
-  const rendered = katex.renderToString(
-    `a${RTQ_ELLIPSIS_OPERATOR_PLACEHOLDER_MACRO} a`,
-    options,
-  );
+  const cases = [
+    [
+      String.raw`\rtqMathsEllipsisEmptyValueOneDigitWide`,
+      String.raw`\rtqMathsBoxedEmptyValueOneDigitWide`,
+    ],
+    [
+      String.raw`\rtqMathsEllipsisEmptyValueTwoDigitsWide`,
+      String.raw`\rtqMathsBoxedEmptyValueTwoDigitsWide`,
+    ],
+    [
+      String.raw`\rtqMathsEllipsisEmptyValueThreeDigitsWide`,
+      String.raw`\rtqMathsBoxedEmptyValueThreeDigitsWide`,
+    ],
+    [
+      String.raw`\rtqMathsEllipsisEmptyValueFourDigitsWide`,
+      String.raw`\rtqMathsBoxedEmptyValueFourDigitsWide`,
+    ],
+    [
+      String.raw`\rtqMathsEllipsisEmptyValueFraction`,
+      String.raw`\rtqMathsBoxedEmptyValueFraction`,
+    ],
+    [
+      String.raw`a\rtqMathsEllipsisEmptyBinaryOperatorMatching{\times}a`,
+      String.raw`a\rtqMathsBoxedEmptyBinaryOperatorMatching{\times}a`,
+    ],
+    [
+      String.raw`a\rtqMathsEllipsisEmptyRelationMatching{=}a`,
+      String.raw`a\rtqMathsBoxedEmptyRelationMatching{=}a`,
+    ],
+    [
+      String.raw`a\rtqMathsEllipsisEmptyBinaryOperatorPendingReview a`,
+      String.raw`a\rtqMathsBoxedEmptyBinaryOperatorPendingReview a`,
+    ],
+    [
+      String.raw`a\rtqMathsEllipsisEmptyRelationPendingReview a`,
+      String.raw`a\rtqMathsBoxedEmptyRelationPendingReview a`,
+    ],
+    [
+      `a${RTQ_ELLIPSIS_OPERATOR_PLACEHOLDER_MACRO} a`,
+      String.raw`a\rtqMathsEllipsisEmptyBinaryOperatorPendingReview a`,
+    ],
+  ] as const;
 
-  assert.equal(
-    normalize(rendered),
-    normalize(
-      katex.renderToString(
-        `a${RTQ_ELLIPSIS_OPERATOR_PLACEHOLDER_EXPANSION}a`,
-        options,
-      ),
-    ),
-  );
-  assert.match(rendered, /class="mbin/);
+  for (const [macro, delegate] of cases) {
+    assert.equal(
+      normalize(katex.renderToString(macro, options)),
+      normalize(katex.renderToString(delegate, options)),
+      macro,
+    );
+  }
 });
 
 test("renders the semantic sequence ellipsis as ordinary ldot notation", () => {

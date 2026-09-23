@@ -122,6 +122,16 @@ test("registers and renders the complete prefixed RTQ vocabulary", () => {
     "\\rtqMathsColumnarArithmeticStyle",
     "\\rtqMathsColumnarDecimalPoint",
     "\\rtqMathsCorrectValue",
+    "\\rtqMathsEllipsisEmptyBinaryOperatorMatching",
+    "\\rtqMathsEllipsisEmptyBinaryOperatorPendingReview",
+    "\\rtqMathsEllipsisEmptyRelationMatching",
+    "\\rtqMathsEllipsisEmptyRelationPendingReview",
+    "\\rtqMathsEllipsisEmptyValueFourDigitsWide",
+    "\\rtqMathsEllipsisEmptyValueFraction",
+    "\\rtqMathsEllipsisEmptyValueOneDigitWide",
+    "\\rtqMathsEllipsisEmptyValueThreeDigitsWide",
+    "\\rtqMathsEllipsisEmptyValueTwoDigitsWide",
+    "\\rtqMathsEllipsisOperatorPlaceholder",
     "\\rtqMathsEmptyValueFourDigitsWide",
     "\\rtqMathsEmptyValueFraction",
     "\\rtqMathsEmptyValueOneDigitWide",
@@ -130,10 +140,12 @@ test("registers and renders the complete prefixed RTQ vocabulary", () => {
     "\\rtqMathsEmptyValueTwoDigitsWide",
     "\\rtqMathsEquationNumber",
     "\\rtqMathsIncorrectValue",
+    "\\rtqMathsListSeparator",
     "\\rtqMathsMultiplyCarryOver",
     "\\rtqMathsQuestionMarkOperatorPlaceholder",
     "\\rtqMathsQuestionMarkPlaceholder",
     "\\rtqMathsRatioSeparator",
+    "\\rtqMathsSequenceEllipsis",
     "\\rtqMathsSequenceStep",
     "\\rtqMathsSequenceStepBare",
     "\\rtqMathsSizeEightPendingReview",
@@ -179,7 +191,7 @@ test("registers and renders the complete prefixed RTQ vocabulary", () => {
   );
   assert.equal(options.macros["\\rtqMathsSymbolBoxDot"], "\\boxdot");
   const html = katex.renderToString(
-    String.raw`\rtqMathsBoxedEmptyValueZeroDigitsWidePendingReview\rtqMathsBoxedEmptyValueFraction\rtqMathsBoxedEmptyBinaryOperatorPendingReview\rtqMathsBoxedEmptyBinaryOperatorMatching{+}\rtqMathsBoxedEmptyRelationPendingReview\rtqMathsBoxedEmptyRelationMatching{=}\rtqMathsEmptyValueFraction\rtqMathsBoxedCorrectValue{7}\rtqMathsBoxedCorrectBinaryOperator{+}\rtqMathsBoxedCorrectRelation{=}\rtqMathsEquationNumber{2}`,
+    String.raw`\rtqMathsBoxedEmptyValueZeroDigitsWidePendingReview\rtqMathsBoxedEmptyValueFraction\rtqMathsBoxedEmptyBinaryOperatorPendingReview\rtqMathsBoxedEmptyBinaryOperatorMatching{+}\rtqMathsBoxedEmptyRelationPendingReview\rtqMathsBoxedEmptyRelationMatching{=}\rtqMathsEllipsisEmptyValueOneDigitWide\rtqMathsEllipsisEmptyValueTwoDigitsWide\rtqMathsEllipsisEmptyValueThreeDigitsWide\rtqMathsEllipsisEmptyValueFourDigitsWide\rtqMathsEllipsisEmptyValueFraction\rtqMathsEllipsisEmptyBinaryOperatorMatching{\times}\rtqMathsEllipsisEmptyRelationMatching{=}\rtqMathsEllipsisEmptyBinaryOperatorPendingReview\rtqMathsEllipsisEmptyRelationPendingReview\rtqMathsEllipsisOperatorPlaceholder\rtqMathsEmptyValueFraction\rtqMathsBoxedCorrectValue{7}\rtqMathsBoxedCorrectBinaryOperator{+}\rtqMathsBoxedCorrectRelation{=}\rtqMathsEquationNumber{2}`,
     options,
   );
   assert.doesNotMatch(html, /katex-error/);

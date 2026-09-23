@@ -69,6 +69,24 @@ const rtqKatexMacros = {
     "\\mathrel{\\boxed{\\rtqMathsCorrectValue{#1}}}",
   "\\rtqMathsBoxedCorrectRelationOneDigitPaddingEachSide":
     "\\mathrel{\\boxed{\\phantom{0}\\rtqMathsCorrectValue{#1}\\phantom{0}}}",
+  "\\rtqMathsEllipsisEmptyValueOneDigitWide":
+    "\\rtqMathsBoxedEmptyValueOneDigitWide",
+  "\\rtqMathsEllipsisEmptyValueTwoDigitsWide":
+    "\\rtqMathsBoxedEmptyValueTwoDigitsWide",
+  "\\rtqMathsEllipsisEmptyValueThreeDigitsWide":
+    "\\rtqMathsBoxedEmptyValueThreeDigitsWide",
+  "\\rtqMathsEllipsisEmptyValueFourDigitsWide":
+    "\\rtqMathsBoxedEmptyValueFourDigitsWide",
+  "\\rtqMathsEllipsisEmptyValueFraction":
+    "\\rtqMathsBoxedEmptyValueFraction",
+  "\\rtqMathsEllipsisEmptyBinaryOperatorMatching":
+    "\\rtqMathsBoxedEmptyBinaryOperatorMatching{#1}",
+  "\\rtqMathsEllipsisEmptyRelationMatching":
+    "\\rtqMathsBoxedEmptyRelationMatching{#1}",
+  "\\rtqMathsEllipsisEmptyBinaryOperatorPendingReview":
+    "\\rtqMathsBoxedEmptyBinaryOperatorPendingReview",
+  "\\rtqMathsEllipsisEmptyRelationPendingReview":
+    "\\rtqMathsBoxedEmptyRelationPendingReview",
   "\\rtqMathsEmptyValueOneDigitWide": "\\phantom{0}",
   "\\rtqMathsEmptyValueTwoDigitsWide": "\\phantom{00}",
   "\\rtqMathsEmptyValueThreeDigitsWide": "\\phantom{000}",
@@ -84,7 +102,8 @@ const rtqKatexMacros = {
   "\\rtqMathsColumnarDecimalPoint": "\\mathrlap{\\mkern5mu .}",
   "\\rtqMathsQuestionMarkPlaceholder": "\\mathord{?}",
   "\\rtqMathsQuestionMarkOperatorPlaceholder": "\\mathbin{?}",
-  "\\rtqMathsEllipsisOperatorPlaceholder": "\\mathbin{\\ldots}",
+  "\\rtqMathsEllipsisOperatorPlaceholder":
+    "\\rtqMathsEllipsisEmptyBinaryOperatorPendingReview",
   "\\rtqMathsSequenceEllipsis": "\\ldots",
   "\\rtqMathsTimeSeparator": "\\mathord{:}",
   "\\rtqMathsRatioSeparator": "\\ratio",

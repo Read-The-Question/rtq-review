@@ -17,7 +17,6 @@ import {
   RTQ_EQUATION_NUMBER_EXPANSION,
   RTQ_EQUATION_NUMBER_MACRO,
   RTQ_ELLIPSIS_EMPTY_MACROS,
-  RTQ_ELLIPSIS_OPERATOR_PLACEHOLDER_MACRO,
   RTQ_EMPTY_VALUE_MACROS,
   RTQ_PENDING_SIZE_SWITCHES,
   RTQ_QUESTION_MARK_PLACEHOLDER_MACROS,
@@ -220,10 +219,6 @@ test("renders ellipsis empty slots through their boxed delegates", () => {
       String.raw`a\rtqMathsEllipsisEmptyRelationPendingReview a`,
       String.raw`a\rtqMathsBoxedEmptyRelationPendingReview a`,
     ],
-    [
-      `a${RTQ_ELLIPSIS_OPERATOR_PLACEHOLDER_MACRO} a`,
-      String.raw`a\rtqMathsEllipsisEmptyBinaryOperatorPendingReview a`,
-    ],
   ] as const;
 
   for (const [macro, delegate] of cases) {
@@ -377,6 +372,18 @@ test("renders boxed operator placeholders with their semantic atom classes", () 
       "\\mathrel{\\boxed{\\phantom{=}}}",
       "mrel",
     ],
+    ["\\rtqMathsBoxedBinaryOperator{+}", "\\mathbin{\\boxed{+}}", "mbin"],
+    [
+      "\\rtqMathsBoxedBinaryOperatorOneDigitPaddingEachSide{+}",
+      "\\mathbin{\\boxed{\\phantom{0}+\\phantom{0}}}",
+      "mbin",
+    ],
+    ["\\rtqMathsBoxedRelation{=}", "\\mathrel{\\boxed{=}}", "mrel"],
+    [
+      "\\rtqMathsBoxedRelationOneDigitPaddingEachSide{=}",
+      "\\mathrel{\\boxed{\\phantom{0}=\\phantom{0}}}",
+      "mrel",
+    ],
     [
       "\\rtqMathsBoxedCorrectBinaryOperator{+}",
       "\\mathbin{\\boxed{\\textcolor{green}{+}}}",
@@ -404,6 +411,19 @@ test("renders boxed operator placeholders with their semantic atom classes", () 
       normalize(katex.renderToString(`2${expansion}3`, options)),
     );
     assert.match(rendered, new RegExp(`class="${expectedClass}`));
+  }
+
+  for (const source of [
+    "\\rtqMathsBoxedBinaryOperator{+}",
+    "\\rtqMathsBoxedBinaryOperatorOneDigitPaddingEachSide{+}",
+    "\\rtqMathsBoxedRelation{=}",
+    "\\rtqMathsBoxedRelationOneDigitPaddingEachSide{=}",
+  ]) {
+    assert.doesNotMatch(
+      katex.renderToString(source, options),
+      /color:green/,
+      source,
+    );
   }
 });
 

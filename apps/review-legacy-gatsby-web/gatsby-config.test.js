@@ -99,6 +99,8 @@ test("registers and renders the complete prefixed RTQ vocabulary", () => {
   const options = { ...getRtqKatexOptions(), throwOnError: true };
   const expected = [
     "\\rtqMathsAddCarryOver",
+    "\\rtqMathsBoxedBinaryOperator",
+    "\\rtqMathsBoxedBinaryOperatorOneDigitPaddingEachSide",
     "\\rtqMathsBoxedCorrectBinaryOperator",
     "\\rtqMathsBoxedCorrectBinaryOperatorOneDigitPaddingEachSide",
     "\\rtqMathsBoxedCorrectRelation",
@@ -116,6 +118,8 @@ test("registers and renders the complete prefixed RTQ vocabulary", () => {
     "\\rtqMathsBoxedEmptyValueThreeDigitsWide",
     "\\rtqMathsBoxedEmptyValueTwoDigitsWide",
     "\\rtqMathsBoxedEmptyValueZeroDigitsWidePendingReview",
+    "\\rtqMathsBoxedRelation",
+    "\\rtqMathsBoxedRelationOneDigitPaddingEachSide",
     "\\rtqMathsBoxedValue",
     "\\rtqMathsBoxedValueFractionPaddingEachSide",
     "\\rtqMathsBoxedValueOneDigitPaddingEachSide",
@@ -131,7 +135,6 @@ test("registers and renders the complete prefixed RTQ vocabulary", () => {
     "\\rtqMathsEllipsisEmptyValueOneDigitWide",
     "\\rtqMathsEllipsisEmptyValueThreeDigitsWide",
     "\\rtqMathsEllipsisEmptyValueTwoDigitsWide",
-    "\\rtqMathsEllipsisOperatorPlaceholder",
     "\\rtqMathsEmptyValueFourDigitsWide",
     "\\rtqMathsEmptyValueFraction",
     "\\rtqMathsEmptyValueOneDigitWide",
@@ -191,7 +194,7 @@ test("registers and renders the complete prefixed RTQ vocabulary", () => {
   );
   assert.equal(options.macros["\\rtqMathsSymbolBoxDot"], "\\boxdot");
   const html = katex.renderToString(
-    String.raw`\rtqMathsBoxedEmptyValueZeroDigitsWidePendingReview\rtqMathsBoxedEmptyValueFraction\rtqMathsBoxedEmptyBinaryOperatorPendingReview\rtqMathsBoxedEmptyBinaryOperatorMatching{+}\rtqMathsBoxedEmptyRelationPendingReview\rtqMathsBoxedEmptyRelationMatching{=}\rtqMathsEllipsisEmptyValueOneDigitWide\rtqMathsEllipsisEmptyValueTwoDigitsWide\rtqMathsEllipsisEmptyValueThreeDigitsWide\rtqMathsEllipsisEmptyValueFourDigitsWide\rtqMathsEllipsisEmptyValueFraction\rtqMathsEllipsisEmptyBinaryOperatorMatching{\times}\rtqMathsEllipsisEmptyRelationMatching{=}\rtqMathsEllipsisEmptyBinaryOperatorPendingReview\rtqMathsEllipsisEmptyRelationPendingReview\rtqMathsEllipsisOperatorPlaceholder\rtqMathsEmptyValueFraction\rtqMathsBoxedCorrectValue{7}\rtqMathsBoxedCorrectBinaryOperator{+}\rtqMathsBoxedCorrectRelation{=}\rtqMathsEquationNumber{2}`,
+    String.raw`\rtqMathsBoxedEmptyValueZeroDigitsWidePendingReview\rtqMathsBoxedEmptyValueFraction\rtqMathsBoxedEmptyBinaryOperatorPendingReview\rtqMathsBoxedEmptyBinaryOperatorMatching{+}\rtqMathsBoxedEmptyRelationPendingReview\rtqMathsBoxedEmptyRelationMatching{=}\rtqMathsBoxedBinaryOperator{+}\rtqMathsBoxedBinaryOperatorOneDigitPaddingEachSide{\times}\rtqMathsBoxedRelation{=}\rtqMathsBoxedRelationOneDigitPaddingEachSide{<}\rtqMathsEllipsisEmptyValueOneDigitWide\rtqMathsEllipsisEmptyValueTwoDigitsWide\rtqMathsEllipsisEmptyValueThreeDigitsWide\rtqMathsEllipsisEmptyValueFourDigitsWide\rtqMathsEllipsisEmptyValueFraction\rtqMathsEllipsisEmptyBinaryOperatorMatching{\times}\rtqMathsEllipsisEmptyRelationMatching{=}\rtqMathsEllipsisEmptyBinaryOperatorPendingReview\rtqMathsEllipsisEmptyRelationPendingReview\rtqMathsEmptyValueFraction\rtqMathsBoxedCorrectValue{7}\rtqMathsBoxedCorrectBinaryOperator{+}\rtqMathsBoxedCorrectRelation{=}\rtqMathsEquationNumber{2}`,
     options,
   );
   assert.doesNotMatch(html, /katex-error/);

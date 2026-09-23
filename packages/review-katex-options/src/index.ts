@@ -23,12 +23,6 @@ export const RTQ_QUESTION_MARK_PLACEHOLDER_MACROS = {
   "\\rtqMathsQuestionMarkOperatorPlaceholder": "\\mathbin{?}",
 } as const;
 
-export const RTQ_ELLIPSIS_OPERATOR_PLACEHOLDER_MACRO =
-  "\\rtqMathsEllipsisOperatorPlaceholder" as const;
-
-export const RTQ_ELLIPSIS_OPERATOR_PLACEHOLDER_EXPANSION =
-  "\\rtqMathsEllipsisEmptyBinaryOperatorPendingReview" as const;
-
 export const RTQ_ELLIPSIS_EMPTY_MACROS = {
   "\\rtqMathsEllipsisEmptyValueOneDigitWide":
     "\\rtqMathsBoxedEmptyValueOneDigitWide",
@@ -47,8 +41,6 @@ export const RTQ_ELLIPSIS_EMPTY_MACROS = {
     "\\rtqMathsBoxedEmptyBinaryOperatorPendingReview",
   "\\rtqMathsEllipsisEmptyRelationPendingReview":
     "\\rtqMathsBoxedEmptyRelationPendingReview",
-  [RTQ_ELLIPSIS_OPERATOR_PLACEHOLDER_MACRO]:
-    RTQ_ELLIPSIS_OPERATOR_PLACEHOLDER_EXPANSION,
 } as const;
 
 export const RTQ_SEQUENCE_ELLIPSIS_MACRO =
@@ -118,6 +110,12 @@ export const RTQ_BOXED_VALUE_MACROS = {
     "\\rtqMathsBoxedEmptyBinaryOperatorMatching{+}",
   "\\rtqMathsBoxedEmptyRelationPendingReview":
     "\\rtqMathsBoxedEmptyRelationMatching{=}",
+  "\\rtqMathsBoxedBinaryOperator": "\\mathbin{\\boxed{#1}}",
+  "\\rtqMathsBoxedBinaryOperatorOneDigitPaddingEachSide":
+    "\\mathbin{\\boxed{\\phantom{0}#1\\phantom{0}}}",
+  "\\rtqMathsBoxedRelation": "\\mathrel{\\boxed{#1}}",
+  "\\rtqMathsBoxedRelationOneDigitPaddingEachSide":
+    "\\mathrel{\\boxed{\\phantom{0}#1\\phantom{0}}}",
   "\\rtqMathsBoxedCorrectBinaryOperator":
     "\\mathbin{\\boxed{\\rtqMathsCorrectValue{#1}}}",
   "\\rtqMathsBoxedCorrectBinaryOperatorOneDigitPaddingEachSide":

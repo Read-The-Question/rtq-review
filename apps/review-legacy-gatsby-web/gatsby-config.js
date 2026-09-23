@@ -61,6 +61,12 @@ const rtqKatexMacros = {
     "\\rtqMathsBoxedEmptyBinaryOperatorMatching{+}",
   "\\rtqMathsBoxedEmptyRelationPendingReview":
     "\\rtqMathsBoxedEmptyRelationMatching{=}",
+  "\\rtqMathsBoxedBinaryOperator": "\\mathbin{\\boxed{#1}}",
+  "\\rtqMathsBoxedBinaryOperatorOneDigitPaddingEachSide":
+    "\\mathbin{\\boxed{\\phantom{0}#1\\phantom{0}}}",
+  "\\rtqMathsBoxedRelation": "\\mathrel{\\boxed{#1}}",
+  "\\rtqMathsBoxedRelationOneDigitPaddingEachSide":
+    "\\mathrel{\\boxed{\\phantom{0}#1\\phantom{0}}}",
   "\\rtqMathsBoxedCorrectBinaryOperator":
     "\\mathbin{\\boxed{\\rtqMathsCorrectValue{#1}}}",
   "\\rtqMathsBoxedCorrectBinaryOperatorOneDigitPaddingEachSide":
@@ -102,8 +108,6 @@ const rtqKatexMacros = {
   "\\rtqMathsColumnarDecimalPoint": "\\mathrlap{\\mkern5mu .}",
   "\\rtqMathsQuestionMarkPlaceholder": "\\mathord{?}",
   "\\rtqMathsQuestionMarkOperatorPlaceholder": "\\mathbin{?}",
-  "\\rtqMathsEllipsisOperatorPlaceholder":
-    "\\rtqMathsEllipsisEmptyBinaryOperatorPendingReview",
   "\\rtqMathsSequenceEllipsis": "\\ldots",
   "\\rtqMathsTimeSeparator": "\\mathord{:}",
   "\\rtqMathsRatioSeparator": "\\ratio",

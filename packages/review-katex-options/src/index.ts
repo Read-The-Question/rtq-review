@@ -37,8 +37,8 @@ export const RTQ_ELLIPSIS_EMPTY_MACROS = {
     "\\rtqMathsBoxedEmptyBinaryOperatorMatching{#1}",
   "\\rtqMathsEllipsisEmptyRelationMatching":
     "\\rtqMathsBoxedEmptyRelationMatching{#1}",
-  "\\rtqMathsEllipsisEmptyBinaryOperatorPendingReview":
-    "\\rtqMathsBoxedEmptyBinaryOperatorPendingReview",
+  "\\rtqMathsEllipsisEmptyBinaryOperatorUnknown":
+    "\\rtqMathsBoxedEmptyBinaryOperatorUnknown",
   "\\rtqMathsEllipsisEmptyRelationPendingReview":
     "\\rtqMathsBoxedEmptyRelationPendingReview",
 } as const;
@@ -106,7 +106,7 @@ export const RTQ_BOXED_VALUE_MACROS = {
   "\\rtqMathsBoxedEmptyBinaryOperatorMatching":
     "\\mathbin{\\boxed{\\phantom{#1}}}",
   "\\rtqMathsBoxedEmptyRelationMatching": "\\mathrel{\\boxed{\\phantom{#1}}}",
-  "\\rtqMathsBoxedEmptyBinaryOperatorPendingReview":
+  "\\rtqMathsBoxedEmptyBinaryOperatorUnknown":
     "\\rtqMathsBoxedEmptyBinaryOperatorMatching{+}",
   "\\rtqMathsBoxedEmptyRelationPendingReview":
     "\\rtqMathsBoxedEmptyRelationMatching{=}",

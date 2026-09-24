@@ -58,7 +58,7 @@ const rtqKatexMacros = {
     "\\mathbin{\\boxed{\\phantom{#1}}}",
   "\\rtqMathsBoxedEmptyRelationMatching":
     "\\mathrel{\\boxed{\\phantom{#1}}}",
-  "\\rtqMathsBoxedEmptyBinaryOperatorPendingReview":
+  "\\rtqMathsBoxedEmptyBinaryOperatorUnknown":
     "\\rtqMathsBoxedEmptyBinaryOperatorMatching{+}",
   "\\rtqMathsBoxedEmptyRelationPendingReview":
     "\\rtqMathsBoxedEmptyRelationMatching{=}",
@@ -110,8 +110,8 @@ const rtqKatexMacros = {
     "\\rtqMathsBoxedEmptyBinaryOperatorMatching{#1}",
   "\\rtqMathsEllipsisEmptyRelationMatching":
     "\\rtqMathsBoxedEmptyRelationMatching{#1}",
-  "\\rtqMathsEllipsisEmptyBinaryOperatorPendingReview":
-    "\\rtqMathsBoxedEmptyBinaryOperatorPendingReview",
+  "\\rtqMathsEllipsisEmptyBinaryOperatorUnknown":
+    "\\rtqMathsBoxedEmptyBinaryOperatorUnknown",
   "\\rtqMathsEllipsisEmptyRelationPendingReview":
     "\\rtqMathsBoxedEmptyRelationPendingReview",
   "\\rtqMathsEmptyValueOneDigitWide": "\\phantom{0}",

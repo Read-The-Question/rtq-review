@@ -9,6 +9,8 @@ const rtqKatexMacros = {
   "\\rtqMathsSymbolBlackHeartSuit": "\\heartsuit",
   "\\rtqMathsSymbolBlackTriangle": "\\blacktriangle",
   "\\rtqMathsSymbolBlackSquare": "\\blacksquare",
+  "\\rtqMathsSymbolBlackCircle": "\\mathord{\\Large\\bullet}",
+  "\\rtqMathsSymbolBlackLozenge": "\\blacklozenge",
   "\\rtqMathsSymbolHeartsPendingReview": "\\hearts",
   "\\rtqMathsSymbolHeartSuitPendingReview": "\\heartsuit",
   "\\rtqMathsSymbolSpadeSuitPendingReview": "\\spadesuit",
@@ -18,7 +20,6 @@ const rtqKatexMacros = {
   "\\rtqMathsSymbolBigTriangleUpPendingReview": "\\bigtriangleup",
   "\\rtqMathsSymbolBlackTrianglePendingReview": "\\blacktriangle",
   "\\rtqMathsSymbolBigStarPendingReview": "\\bigstar",
-  "\\rtqMathsSymbolBlackLozengePendingReview": "\\blacklozenge",
   "\\rtqMathsSymbolCheckmarkPendingReview": "\\checkmark",
   // RTQ content macros are real KaTeX macros, so they only apply inside math
   // blocks. Keep non-math scaffolding placeholders in the Rukian pipeline.

@@ -126,6 +126,26 @@ export const RTQ_BOXED_VALUE_MACROS = {
     "\\mathrel{\\boxed{\\phantom{0}\\rtqMathsCorrectValue{#1}\\phantom{0}}}",
 } as const;
 
+export const RTQ_UNDERLINE_VALUE_MACROS = {
+  "\\rtqMathsUnderlineEmptyValueShort": "\\underline{\\phantom{0000}}",
+  "\\rtqMathsUnderlineEmptyValueMedium": "\\underline{\\phantom{00000000}}",
+  "\\rtqMathsUnderlineEmptyValueLong": "\\underline{\\phantom{000000000000}}",
+  "\\rtqMathsUnderlineValue": "\\underline{#1}",
+  "\\rtqMathsUnderlineValueShortPaddingEachSide":
+    "\\underline{\\phantom{00}#1\\phantom{00}}",
+  "\\rtqMathsUnderlineValueMediumPaddingEachSide":
+    "\\underline{\\phantom{0000}#1\\phantom{0000}}",
+  "\\rtqMathsUnderlineValueLongPaddingEachSide":
+    "\\underline{\\phantom{000000}#1\\phantom{000000}}",
+  "\\rtqMathsUnderlineCorrectValue": "\\underline{\\rtqMathsCorrectValue{#1}}",
+  "\\rtqMathsUnderlineCorrectValueShortPaddingEachSide":
+    "\\underline{\\phantom{00}\\rtqMathsCorrectValue{#1}\\phantom{00}}",
+  "\\rtqMathsUnderlineCorrectValueMediumPaddingEachSide":
+    "\\underline{\\phantom{0000}\\rtqMathsCorrectValue{#1}\\phantom{0000}}",
+  "\\rtqMathsUnderlineCorrectValueLongPaddingEachSide":
+    "\\underline{\\phantom{000000}\\rtqMathsCorrectValue{#1}\\phantom{000000}}",
+} as const;
+
 export const RTQ_EMPTY_VALUE_MACROS = {
   "\\rtqMathsEmptyValueOneDigitWide": "\\phantom{0}",
   "\\rtqMathsEmptyValueTwoDigitsWide": "\\phantom{00}",
@@ -179,6 +199,7 @@ export function getRtqReviewKatexOptions<
       ...RTQ_TIME_MERIDIEM_MACROS,
       ...RTQ_PENDING_SIZE_SWITCHES,
       ...RTQ_BOXED_VALUE_MACROS,
+      ...RTQ_UNDERLINE_VALUE_MACROS,
       ...RTQ_EMPTY_VALUE_MACROS,
     },
     strict: reviewKatexStrictness,

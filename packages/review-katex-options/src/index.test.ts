@@ -32,6 +32,7 @@ import {
   RTQ_TIME_SEPARATOR_EXPANSION,
   RTQ_TIME_SEPARATOR_MACRO,
   RTQ_TIME_MERIDIEM_MACROS,
+  RTQ_UNDERLINE_VALUE_MACROS,
   RTQ_WORKING_STEP_CLASS,
 } from "./index.ts";
 
@@ -133,6 +134,12 @@ test("matches the canonical rtq-content shared macro contracts", () => {
       contract.macros.some((macro) => macro.name === name),
       true,
       name,
+    );
+  }
+  for (const [name, expansion] of Object.entries(RTQ_UNDERLINE_VALUE_MACROS)) {
+    assert.deepEqual(
+      contract.macros.find((macro) => macro.name === name),
+      { expansion, name },
     );
   }
   for (const name of Object.keys(RTQ_EMPTY_VALUE_MACROS)) {
@@ -424,6 +431,30 @@ test("renders boxed operator placeholders with their semantic atom classes", () 
       /color:green/,
       source,
     );
+  }
+});
+
+test("renders every underline-value geometry with the correct semantics", () => {
+  const normalize = (html: string) =>
+    html.replace(/<annotation[^>]*>[\s\S]*?<\/annotation>/g, "<annotation/>");
+
+  for (const [macro, expansion] of Object.entries(RTQ_UNDERLINE_VALUE_MACROS)) {
+    const source = macro.includes("Empty") ? macro : `${macro}{7}`;
+    const direct = macro.includes("Empty")
+      ? expansion
+      : expansion.replace("#1", "7");
+    const rendered = katex.renderToString(source, options);
+
+    assert.equal(
+      normalize(rendered),
+      normalize(katex.renderToString(direct, options)),
+      macro,
+    );
+    if (macro.includes("CorrectValue")) {
+      assert.match(rendered, /color:green/, macro);
+    } else {
+      assert.doesNotMatch(rendered, /color:green/, macro);
+    }
   }
 });
 

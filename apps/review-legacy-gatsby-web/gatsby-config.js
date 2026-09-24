@@ -75,6 +75,26 @@ const rtqKatexMacros = {
     "\\mathrel{\\boxed{\\rtqMathsCorrectValue{#1}}}",
   "\\rtqMathsBoxedCorrectRelationOneDigitPaddingEachSide":
     "\\mathrel{\\boxed{\\phantom{0}\\rtqMathsCorrectValue{#1}\\phantom{0}}}",
+  "\\rtqMathsUnderlineEmptyValueShort": "\\underline{\\phantom{0000}}",
+  "\\rtqMathsUnderlineEmptyValueMedium":
+    "\\underline{\\phantom{00000000}}",
+  "\\rtqMathsUnderlineEmptyValueLong":
+    "\\underline{\\phantom{000000000000}}",
+  "\\rtqMathsUnderlineValue": "\\underline{#1}",
+  "\\rtqMathsUnderlineValueShortPaddingEachSide":
+    "\\underline{\\phantom{00}#1\\phantom{00}}",
+  "\\rtqMathsUnderlineValueMediumPaddingEachSide":
+    "\\underline{\\phantom{0000}#1\\phantom{0000}}",
+  "\\rtqMathsUnderlineValueLongPaddingEachSide":
+    "\\underline{\\phantom{000000}#1\\phantom{000000}}",
+  "\\rtqMathsUnderlineCorrectValue":
+    "\\underline{\\rtqMathsCorrectValue{#1}}",
+  "\\rtqMathsUnderlineCorrectValueShortPaddingEachSide":
+    "\\underline{\\phantom{00}\\rtqMathsCorrectValue{#1}\\phantom{00}}",
+  "\\rtqMathsUnderlineCorrectValueMediumPaddingEachSide":
+    "\\underline{\\phantom{0000}\\rtqMathsCorrectValue{#1}\\phantom{0000}}",
+  "\\rtqMathsUnderlineCorrectValueLongPaddingEachSide":
+    "\\underline{\\phantom{000000}\\rtqMathsCorrectValue{#1}\\phantom{000000}}",
   "\\rtqMathsEllipsisEmptyValueOneDigitWide":
     "\\rtqMathsBoxedEmptyValueOneDigitWide",
   "\\rtqMathsEllipsisEmptyValueTwoDigitsWide":

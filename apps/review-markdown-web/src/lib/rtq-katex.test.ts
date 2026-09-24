@@ -8,7 +8,7 @@ test('registers all prefixed RTQ macros including one-to-one symbol wrappers', (
   assert.equal(
     Object.keys(rtqKatexMacros).filter(name => name.startsWith('\\rtqMaths'))
       .length,
-    100,
+    102,
   );
   assert.equal(
     rtqKatexMacros['\\rtqMathsUnderlineEmptyValueLong'],
@@ -35,7 +35,10 @@ test('registers all prefixed RTQ macros including one-to-one symbol wrappers', (
   assert.equal(rtqKatexMacros['\\rtqMathsSymbolEuro'], '\\text{€}');
   assert.equal(rtqKatexMacros['\\rtqMathsSymbolAsterisk'], '\\ast');
   assert.equal(rtqKatexMacros['\\rtqMathsSymbolBoxDot'], '\\boxdot');
-  assert.equal(rtqKatexMacros['\\rtqMathsSymbolBlackHeartSuit'], '\\heartsuit');
+  assert.equal(
+    rtqKatexMacros['\\rtqMathsSymbolBlackHeartSuit'],
+    '\\text{\\char"2665}',
+  );
   assert.equal(
     rtqKatexMacros['\\rtqMathsSymbolBlackTriangle'],
     '\\blacktriangle',
@@ -49,6 +52,11 @@ test('registers all prefixed RTQ macros including one-to-one symbol wrappers', (
     rtqKatexMacros['\\rtqMathsSymbolBlackLozenge'],
     '\\blacklozenge',
   );
+  assert.equal(
+    rtqKatexMacros['\\rtqMathsSymbolBlackSmilingFace'],
+    '\\text{\\char"263B}',
+  );
+  assert.equal(rtqKatexMacros['\\rtqMathsSymbolBlackClubSuit'], '\\clubsuit');
   assert.equal(rtqKatexMacros['\\rtqMathsSymbolPound'], '\\pounds');
   assert.equal(rtqKatexMacros['\\rtqMathsSymbolDegree'], undefined);
 });
@@ -63,13 +71,15 @@ test('renders the pound wrapper through Markdown', async () => {
   assert.match(html, /£/);
 });
 
-test('renders the approved black-circle and black-lozenge wrappers through Markdown', async () => {
+test('renders the approved black symbol wrappers through Markdown', async () => {
   const html = await renderMarkdownToHtml(
-    String.raw`$\rtqMathsSymbolBlackCircle + \rtqMathsSymbolBlackLozenge$`,
+    String.raw`$\rtqMathsSymbolBlackCircle + \rtqMathsSymbolBlackLozenge + \rtqMathsSymbolBlackHeartSuit + \rtqMathsSymbolBlackSmilingFace + \rtqMathsSymbolBlackClubSuit$`,
     rtqKatexMacros,
   );
 
   assert.doesNotMatch(html, /katex-error/);
+  assert.match(html, /♥/);
+  assert.match(html, /☻/);
 });
 
 test('renders question-mark placeholders with ordinary and operator spacing', async () => {

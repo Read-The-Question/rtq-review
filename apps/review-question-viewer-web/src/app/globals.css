@@ -903,6 +903,28 @@ button {
   width: 100%;
 }
 
+.paper-image-pending {
+  box-sizing: border-box;
+  display: inline-block;
+  border: 1px dashed currentColor;
+  border-radius: 0.25rem;
+  padding: 0.5rem 0.75rem;
+  opacity: 0.7;
+  font-style: italic;
+}
+
+.paper-image-pending[data-align='center'] {
+  margin-inline: auto;
+  display: block;
+  width: fit-content;
+}
+
+.paper-image-pending[data-align='end'] {
+  margin-inline-start: auto;
+  display: block;
+  width: fit-content;
+}
+
 .paper-image-layout[data-indent='sm'],
 .paper-long-division-alignment[data-indent='sm'] {
   padding-inline-start: 0.75rem;

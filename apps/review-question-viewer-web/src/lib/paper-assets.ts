@@ -629,6 +629,27 @@ function prepareLongDivision(
   };
 }
 
+function paperImagePendingMarkup(
+  componentKey: string,
+  assetScope: PaperImageAssetScope,
+) {
+  const attrs = parseComponentAttributes(componentKey);
+  const indent = normalizePaperContentIndent(attrs.indent, 'PaperImage');
+  const align = normalizePaperImageAlign(attrs.align);
+  const label =
+    assetScope === 'working'
+      ? 'Working image not yet added.'
+      : 'Answer image not yet added.';
+
+  return `<div class="paper-image-layout" data-indent="${indent}"><span role="img" aria-label="${escapeHtmlAttribute(
+    label,
+  )}" data-slot="paper-image-pending" data-asset-scope="${escapeHtmlAttribute(
+    assetScope,
+  )}" data-align="${escapeHtmlAttribute(
+    align,
+  )}" data-indent="${indent}" class="paper-image-pending">${escapeHtmlAttribute(label)}</span></div>`;
+}
+
 function paperImageMarkup(
   componentKey: string,
   relativePath: string,
@@ -718,7 +739,7 @@ function replacePaperImages(
       );
     }
     if (!match.startsWith('<PaperImage') && expectedScope !== 'question') {
-      throw new Error(`${match} is only supported in question content.`);
+      return paperImagePendingMarkup(match, expectedScope);
     }
     const resolution = paperImageAssetRelativePath(
       context,

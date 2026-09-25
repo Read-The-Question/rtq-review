@@ -1,6 +1,14 @@
 import { getRtqReviewKatexOptions } from '@rtq/review-katex-options';
 
 const reviewerKatexMacros: Record<string, string> = {
+  '\\rtqMathsNumberTowerCellMatching':
+    '\\boxed{\\vphantom{\\dfrac{0}{0}}\\phantom{#2}\\mathclap{#1}\\phantom{#2}}',
+  '\\rtqMathsNumberTowerCellTwoDigitsWide':
+    '\\rtqMathsNumberTowerCellMatching{#1}{0}',
+  '\\rtqMathsNumberTowerCellFourDigitsWide':
+    '\\rtqMathsNumberTowerCellMatching{#1}{00}',
+  '\\rtqMathsNumberTowerStyle': '\\def\\arraystretch{2.5}',
+  '\\rtqMathsNumberTowerCellSeparator': '\\enspace',
   '\\rtqMathsBespokeSymbolFourPanePictogramFull':
     '\\mathord{\\begin{matrix}\\square\\square\\\\\\square\\square\\end{matrix}}',
   '\\rtqMathsBespokeSymbolFourPanePictogramQuarter':

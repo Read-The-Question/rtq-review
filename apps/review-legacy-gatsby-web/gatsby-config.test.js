@@ -154,6 +154,11 @@ test("registers and renders the complete prefixed RTQ vocabulary", () => {
     "\\rtqMathsIncorrectValue",
     "\\rtqMathsListSeparator",
     "\\rtqMathsMultiplyCarryOver",
+    "\\rtqMathsNumberTowerCellFourDigitsWide",
+    "\\rtqMathsNumberTowerCellMatching",
+    "\\rtqMathsNumberTowerCellSeparator",
+    "\\rtqMathsNumberTowerCellTwoDigitsWide",
+    "\\rtqMathsNumberTowerStyle",
     "\\rtqMathsQuestionMarkOperatorPlaceholder",
     "\\rtqMathsQuestionMarkPlaceholder",
     "\\rtqMathsRatioSeparator",
@@ -250,8 +255,20 @@ test("registers and renders the complete prefixed RTQ vocabulary", () => {
     "\\text{\\char\"2B21}",
   );
   assert.equal(options.macros["\\rtqMathsSymbolWhiteSquare"], "\\square");
+  assert.equal(
+    options.macros["\\rtqMathsNumberTowerCellFourDigitsWide"],
+    "\\rtqMathsNumberTowerCellMatching{#1}{00}",
+  );
+  assert.equal(
+    options.macros["\\rtqMathsNumberTowerCellSeparator"],
+    "\\enspace",
+  );
+  assert.equal(
+    options.macros["\\rtqMathsNumberTowerStyle"],
+    "\\def\\arraystretch{2.5}",
+  );
   const html = katex.renderToString(
-    String.raw`\rtqMathsBoxedEmptyValueZeroDigitsWidePendingReview\rtqMathsBoxedEmptyValueFraction\rtqMathsBoxedEmptyBinaryOperatorUnknown\rtqMathsBoxedEmptyBinaryOperatorMatching{+}\rtqMathsBoxedEmptyRelationPendingReview\rtqMathsBoxedEmptyRelationMatching{=}\rtqMathsBoxedBinaryOperator{+}\rtqMathsBoxedBinaryOperatorOneDigitPaddingEachSide{\times}\rtqMathsBoxedRelation{=}\rtqMathsBoxedRelationOneDigitPaddingEachSide{<}\rtqMathsUnderlineEmptyValueShort\rtqMathsUnderlineEmptyValueMedium\rtqMathsUnderlineEmptyValueLong\rtqMathsUnderlineValue{7}\rtqMathsUnderlineValueShortPaddingEachSide{7}\rtqMathsUnderlineValueMediumPaddingEachSide{7}\rtqMathsUnderlineValueLongPaddingEachSide{7}\rtqMathsUnderlineCorrectValue{7}\rtqMathsUnderlineCorrectValueShortPaddingEachSide{7}\rtqMathsUnderlineCorrectValueMediumPaddingEachSide{7}\rtqMathsUnderlineCorrectValueLongPaddingEachSide{7}\rtqMathsEllipsisEmptyValueOneDigitWide\rtqMathsEllipsisEmptyValueTwoDigitsWide\rtqMathsEllipsisEmptyValueThreeDigitsWide\rtqMathsEllipsisEmptyValueFourDigitsWide\rtqMathsEllipsisEmptyValueFraction\rtqMathsEllipsisEmptyBinaryOperatorMatching{\times}\rtqMathsEllipsisEmptyRelationMatching{=}\rtqMathsEllipsisEmptyBinaryOperatorUnknown\rtqMathsEllipsisEmptyRelationPendingReview\rtqMathsEmptyValueFraction\rtqMathsBoxedCorrectValue{7}\rtqMathsBoxedCorrectBinaryOperator{+}\rtqMathsBoxedCorrectRelation{=}\rtqMathsEquationNumber{2}\rtqMathsSymbolBlackHeartSuit\rtqMathsSymbolWhiteSquare\rtqMathsSymbolBlackSmilingFace\rtqMathsSymbolBlackClubSuit\rtqMathsBespokeSymbolFourPanePictogramFull\rtqMathsBespokeSymbolFourPanePictogramQuarter\rtqMathsBespokeSymbolFourPanePictogramHalf\rtqMathsBespokeSymbolFourPanePictogramThreeQuarters\rtqMathsBespokeSymbolOutlinedDiamond\rtqMathsBespokeSymbolSunWithRays\rtqMathsBespokeSymbolOutlinedCircle\rtqMathsBespokeSymbolOutlinedTriangle\rtqMathsBespokeSymbolOutlinedHexagon`,
+    String.raw`\rtqMathsBoxedEmptyValueZeroDigitsWidePendingReview\rtqMathsBoxedEmptyValueFraction\rtqMathsBoxedEmptyBinaryOperatorUnknown\rtqMathsBoxedEmptyBinaryOperatorMatching{+}\rtqMathsBoxedEmptyRelationPendingReview\rtqMathsBoxedEmptyRelationMatching{=}\rtqMathsBoxedBinaryOperator{+}\rtqMathsBoxedBinaryOperatorOneDigitPaddingEachSide{\times}\rtqMathsBoxedRelation{=}\rtqMathsBoxedRelationOneDigitPaddingEachSide{<}\rtqMathsUnderlineEmptyValueShort\rtqMathsUnderlineEmptyValueMedium\rtqMathsUnderlineEmptyValueLong\rtqMathsUnderlineValue{7}\rtqMathsUnderlineValueShortPaddingEachSide{7}\rtqMathsUnderlineValueMediumPaddingEachSide{7}\rtqMathsUnderlineValueLongPaddingEachSide{7}\rtqMathsUnderlineCorrectValue{7}\rtqMathsUnderlineCorrectValueShortPaddingEachSide{7}\rtqMathsUnderlineCorrectValueMediumPaddingEachSide{7}\rtqMathsUnderlineCorrectValueLongPaddingEachSide{7}\rtqMathsEllipsisEmptyValueOneDigitWide\rtqMathsEllipsisEmptyValueTwoDigitsWide\rtqMathsEllipsisEmptyValueThreeDigitsWide\rtqMathsEllipsisEmptyValueFourDigitsWide\rtqMathsEllipsisEmptyValueFraction\rtqMathsEllipsisEmptyBinaryOperatorMatching{\times}\rtqMathsEllipsisEmptyRelationMatching{=}\rtqMathsEllipsisEmptyBinaryOperatorUnknown\rtqMathsEllipsisEmptyRelationPendingReview\rtqMathsEmptyValueFraction\rtqMathsBoxedCorrectValue{7}\rtqMathsBoxedCorrectBinaryOperator{+}\rtqMathsBoxedCorrectRelation{=}\rtqMathsEquationNumber{2}\rtqMathsSymbolBlackHeartSuit\rtqMathsSymbolWhiteSquare\rtqMathsSymbolBlackSmilingFace\rtqMathsSymbolBlackClubSuit\rtqMathsBespokeSymbolFourPanePictogramFull\rtqMathsBespokeSymbolFourPanePictogramQuarter\rtqMathsBespokeSymbolFourPanePictogramHalf\rtqMathsBespokeSymbolFourPanePictogramThreeQuarters\rtqMathsBespokeSymbolOutlinedDiamond\rtqMathsBespokeSymbolSunWithRays\rtqMathsBespokeSymbolOutlinedCircle\rtqMathsBespokeSymbolOutlinedTriangle\rtqMathsBespokeSymbolOutlinedHexagon\rtqMathsNumberTowerStyle\begin{array}{c}\rtqMathsNumberTowerCellTwoDigitsWide{7}\\\rtqMathsNumberTowerCellFourDigitsWide{34}\rtqMathsNumberTowerCellSeparator\rtqMathsNumberTowerCellFourDigitsWide{}\end{array}`,
     options,
   );
   assert.doesNotMatch(html, /katex-error/);

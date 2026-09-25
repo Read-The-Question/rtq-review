@@ -9,7 +9,7 @@ test('registers all prefixed RTQ macros including one-to-one symbol wrappers', (
   assert.equal(
     Object.keys(rtqKatexMacros).filter(name => name.startsWith('\\rtqMaths'))
       .length,
-    109,
+    112,
   );
   assert.equal(
     rtqKatexMacros['\\rtqMathsUnderlineEmptyValueLong'],
@@ -67,6 +67,18 @@ test('registers all prefixed RTQ macros including one-to-one symbol wrappers', (
     rtqKatexMacros['\\rtqMathsBespokeSymbolSunWithRays'],
     '\\text{\\char"263C}',
   );
+  assert.equal(
+    rtqKatexMacros['\\rtqMathsBespokeSymbolOutlinedCircle'],
+    '\\bigcirc',
+  );
+  assert.equal(
+    rtqKatexMacros['\\rtqMathsBespokeSymbolOutlinedTriangle'],
+    '\\bigtriangleup',
+  );
+  assert.equal(
+    rtqKatexMacros['\\rtqMathsBespokeSymbolOutlinedHexagon'],
+    '\\text{\\char"2B21}',
+  );
   assert.equal(rtqKatexMacros['\\rtqMathsSymbolPound'], '\\pounds');
   assert.equal(rtqKatexMacros['\\rtqMathsSymbolDegree'], undefined);
 });
@@ -95,7 +107,7 @@ test('renders the approved symbol wrappers', () => {
 
 test('renders the approved bespoke symbols', () => {
   const html = katex.renderToString(
-    String.raw`\rtqMathsBespokeSymbolFourPanePictogramFull + \rtqMathsBespokeSymbolFourPanePictogramQuarter + \rtqMathsBespokeSymbolFourPanePictogramHalf + \rtqMathsBespokeSymbolFourPanePictogramThreeQuarters + \rtqMathsBespokeSymbolOutlinedDiamond + \rtqMathsBespokeSymbolSunWithRays`,
+    String.raw`\rtqMathsBespokeSymbolFourPanePictogramFull + \rtqMathsBespokeSymbolFourPanePictogramQuarter + \rtqMathsBespokeSymbolFourPanePictogramHalf + \rtqMathsBespokeSymbolFourPanePictogramThreeQuarters + \rtqMathsBespokeSymbolOutlinedDiamond + \rtqMathsBespokeSymbolSunWithRays + \rtqMathsBespokeSymbolOutlinedCircle + \rtqMathsBespokeSymbolOutlinedTriangle + \rtqMathsBespokeSymbolOutlinedHexagon`,
     { ...rtqKatexOptions, throwOnError: true },
   );
 
@@ -103,6 +115,7 @@ test('renders the approved bespoke symbols', () => {
   assert.match(html, /□/);
   assert.match(html, /◊/);
   assert.match(html, /☼/);
+  assert.match(html, /⬡/);
 });
 
 test('renders question-mark placeholders with ordinary and operator spacing', () => {

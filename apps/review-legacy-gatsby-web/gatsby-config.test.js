@@ -103,7 +103,10 @@ test("registers and renders the complete prefixed RTQ vocabulary", () => {
     "\\rtqMathsBespokeSymbolFourPanePictogramHalf",
     "\\rtqMathsBespokeSymbolFourPanePictogramQuarter",
     "\\rtqMathsBespokeSymbolFourPanePictogramThreeQuarters",
+    "\\rtqMathsBespokeSymbolOutlinedCircle",
     "\\rtqMathsBespokeSymbolOutlinedDiamond",
+    "\\rtqMathsBespokeSymbolOutlinedHexagon",
+    "\\rtqMathsBespokeSymbolOutlinedTriangle",
     "\\rtqMathsBespokeSymbolSunWithRays",
     "\\rtqMathsBoxedBinaryOperator",
     "\\rtqMathsBoxedBinaryOperatorOneDigitPaddingEachSide",
@@ -234,9 +237,21 @@ test("registers and renders the complete prefixed RTQ vocabulary", () => {
     options.macros["\\rtqMathsBespokeSymbolSunWithRays"],
     "\\text{\\char\"263C}",
   );
+  assert.equal(
+    options.macros["\\rtqMathsBespokeSymbolOutlinedCircle"],
+    "\\bigcirc",
+  );
+  assert.equal(
+    options.macros["\\rtqMathsBespokeSymbolOutlinedTriangle"],
+    "\\bigtriangleup",
+  );
+  assert.equal(
+    options.macros["\\rtqMathsBespokeSymbolOutlinedHexagon"],
+    "\\text{\\char\"2B21}",
+  );
   assert.equal(options.macros["\\rtqMathsSymbolWhiteSquare"], "\\square");
   const html = katex.renderToString(
-    String.raw`\rtqMathsBoxedEmptyValueZeroDigitsWidePendingReview\rtqMathsBoxedEmptyValueFraction\rtqMathsBoxedEmptyBinaryOperatorUnknown\rtqMathsBoxedEmptyBinaryOperatorMatching{+}\rtqMathsBoxedEmptyRelationPendingReview\rtqMathsBoxedEmptyRelationMatching{=}\rtqMathsBoxedBinaryOperator{+}\rtqMathsBoxedBinaryOperatorOneDigitPaddingEachSide{\times}\rtqMathsBoxedRelation{=}\rtqMathsBoxedRelationOneDigitPaddingEachSide{<}\rtqMathsUnderlineEmptyValueShort\rtqMathsUnderlineEmptyValueMedium\rtqMathsUnderlineEmptyValueLong\rtqMathsUnderlineValue{7}\rtqMathsUnderlineValueShortPaddingEachSide{7}\rtqMathsUnderlineValueMediumPaddingEachSide{7}\rtqMathsUnderlineValueLongPaddingEachSide{7}\rtqMathsUnderlineCorrectValue{7}\rtqMathsUnderlineCorrectValueShortPaddingEachSide{7}\rtqMathsUnderlineCorrectValueMediumPaddingEachSide{7}\rtqMathsUnderlineCorrectValueLongPaddingEachSide{7}\rtqMathsEllipsisEmptyValueOneDigitWide\rtqMathsEllipsisEmptyValueTwoDigitsWide\rtqMathsEllipsisEmptyValueThreeDigitsWide\rtqMathsEllipsisEmptyValueFourDigitsWide\rtqMathsEllipsisEmptyValueFraction\rtqMathsEllipsisEmptyBinaryOperatorMatching{\times}\rtqMathsEllipsisEmptyRelationMatching{=}\rtqMathsEllipsisEmptyBinaryOperatorUnknown\rtqMathsEllipsisEmptyRelationPendingReview\rtqMathsEmptyValueFraction\rtqMathsBoxedCorrectValue{7}\rtqMathsBoxedCorrectBinaryOperator{+}\rtqMathsBoxedCorrectRelation{=}\rtqMathsEquationNumber{2}\rtqMathsSymbolBlackHeartSuit\rtqMathsSymbolWhiteSquare\rtqMathsSymbolBlackSmilingFace\rtqMathsSymbolBlackClubSuit\rtqMathsBespokeSymbolFourPanePictogramFull\rtqMathsBespokeSymbolFourPanePictogramQuarter\rtqMathsBespokeSymbolFourPanePictogramHalf\rtqMathsBespokeSymbolFourPanePictogramThreeQuarters\rtqMathsBespokeSymbolOutlinedDiamond\rtqMathsBespokeSymbolSunWithRays`,
+    String.raw`\rtqMathsBoxedEmptyValueZeroDigitsWidePendingReview\rtqMathsBoxedEmptyValueFraction\rtqMathsBoxedEmptyBinaryOperatorUnknown\rtqMathsBoxedEmptyBinaryOperatorMatching{+}\rtqMathsBoxedEmptyRelationPendingReview\rtqMathsBoxedEmptyRelationMatching{=}\rtqMathsBoxedBinaryOperator{+}\rtqMathsBoxedBinaryOperatorOneDigitPaddingEachSide{\times}\rtqMathsBoxedRelation{=}\rtqMathsBoxedRelationOneDigitPaddingEachSide{<}\rtqMathsUnderlineEmptyValueShort\rtqMathsUnderlineEmptyValueMedium\rtqMathsUnderlineEmptyValueLong\rtqMathsUnderlineValue{7}\rtqMathsUnderlineValueShortPaddingEachSide{7}\rtqMathsUnderlineValueMediumPaddingEachSide{7}\rtqMathsUnderlineValueLongPaddingEachSide{7}\rtqMathsUnderlineCorrectValue{7}\rtqMathsUnderlineCorrectValueShortPaddingEachSide{7}\rtqMathsUnderlineCorrectValueMediumPaddingEachSide{7}\rtqMathsUnderlineCorrectValueLongPaddingEachSide{7}\rtqMathsEllipsisEmptyValueOneDigitWide\rtqMathsEllipsisEmptyValueTwoDigitsWide\rtqMathsEllipsisEmptyValueThreeDigitsWide\rtqMathsEllipsisEmptyValueFourDigitsWide\rtqMathsEllipsisEmptyValueFraction\rtqMathsEllipsisEmptyBinaryOperatorMatching{\times}\rtqMathsEllipsisEmptyRelationMatching{=}\rtqMathsEllipsisEmptyBinaryOperatorUnknown\rtqMathsEllipsisEmptyRelationPendingReview\rtqMathsEmptyValueFraction\rtqMathsBoxedCorrectValue{7}\rtqMathsBoxedCorrectBinaryOperator{+}\rtqMathsBoxedCorrectRelation{=}\rtqMathsEquationNumber{2}\rtqMathsSymbolBlackHeartSuit\rtqMathsSymbolWhiteSquare\rtqMathsSymbolBlackSmilingFace\rtqMathsSymbolBlackClubSuit\rtqMathsBespokeSymbolFourPanePictogramFull\rtqMathsBespokeSymbolFourPanePictogramQuarter\rtqMathsBespokeSymbolFourPanePictogramHalf\rtqMathsBespokeSymbolFourPanePictogramThreeQuarters\rtqMathsBespokeSymbolOutlinedDiamond\rtqMathsBespokeSymbolSunWithRays\rtqMathsBespokeSymbolOutlinedCircle\rtqMathsBespokeSymbolOutlinedTriangle\rtqMathsBespokeSymbolOutlinedHexagon`,
     options,
   );
   assert.doesNotMatch(html, /katex-error/);
@@ -245,5 +260,6 @@ test("registers and renders the complete prefixed RTQ vocabulary", () => {
   assert.match(html, /☻/);
   assert.match(html, /◊/);
   assert.match(html, /☼/);
+  assert.match(html, /⬡/);
   assert.match(html, /rtq-maths-equation-number/);
 });

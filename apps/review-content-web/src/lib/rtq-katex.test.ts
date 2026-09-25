@@ -9,7 +9,7 @@ test('registers all prefixed RTQ macros including one-to-one symbol wrappers', (
   assert.equal(
     Object.keys(rtqKatexMacros).filter((name) => name.startsWith('\\rtqMaths'))
       .length,
-    103,
+    107,
   );
   assert.equal(
     rtqKatexMacros['\\rtqMathsUnderlineEmptyValueLong'],
@@ -83,6 +83,16 @@ test('renders the approved symbol wrappers', () => {
   assert.match(html, /♥/);
   assert.match(html, /□/);
   assert.match(html, /☻/);
+});
+
+test('renders the bespoke four-pane pictogram variants', () => {
+  const html = katex.renderToString(
+    String.raw`\rtqMathsBespokeSymbolFourPanePictogramFull + \rtqMathsBespokeSymbolFourPanePictogramQuarter + \rtqMathsBespokeSymbolFourPanePictogramHalf + \rtqMathsBespokeSymbolFourPanePictogramThreeQuarters`,
+    { ...rtqKatexOptions, throwOnError: true },
+  );
+
+  assert.doesNotMatch(html, /katex-error/);
+  assert.match(html, /□/);
 });
 
 test('renders question-mark placeholders with ordinary and operator spacing', () => {

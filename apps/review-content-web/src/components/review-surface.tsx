@@ -44,6 +44,7 @@ import {
   EARLIER_REVIEW_PREFERENCES_KEY,
   INITIAL_REVIEW_PREFERENCES_KEY,
   LEGACY_REVIEW_PREFERENCES_KEY,
+  OLDEST_REVIEW_PREFERENCES_KEY,
   PREVIOUS_REVIEW_PREFERENCES_KEY,
   REVIEW_FILTER_DISCLOSURE_KEY,
   REVIEW_PREFERENCES_KEY,
@@ -1236,6 +1237,11 @@ function QuestionNode({
 }) {
   const exactMatch = matchingNodeIds.has(node.id);
   const statusRails = reviewStatusRails(node, reviewSides, reviewRuntime);
+  const visibleStatusRails = statusRails.filter(({ side }) =>
+    side.endsWith('-image')
+      ? preferences.showImageStatusInfo
+      : preferences.showQuestionStatusInfo,
+  );
   const contentStatus = statusRails.find(
     ({ side }) => side === preferences.reviewSide,
   );
@@ -1248,12 +1254,14 @@ function QuestionNode({
     <article
       className={`question-node question-node--depth-${node.depth}${
         exactMatch ? '' : ' question-node--context'
-      }${statusRails.length > 0 ? ' question-node--with-status-rails' : ''}${
-        statusRails.some(({ side }) => side.startsWith('question'))
+      }${
+        visibleStatusRails.length > 0 ? ' question-node--with-status-rails' : ''
+      }${
+        visibleStatusRails.some(({ side }) => side.startsWith('question'))
           ? ' question-node--with-question-status'
           : ''
       }${
-        statusRails.some(({ side }) => side.startsWith('answer'))
+        visibleStatusRails.some(({ side }) => side.startsWith('answer'))
           ? ' question-node--with-answer-status'
           : ''
       }${
@@ -1303,9 +1311,9 @@ function QuestionNode({
           </Link>
         </header>
       ) : null}
-      {statusRails.length > 0 ? (
+      {visibleStatusRails.length > 0 ? (
         <div className="question-status-rails" aria-hidden="true">
-          {statusRails.map(({ side, tone }) => (
+          {visibleStatusRails.map(({ side, tone }) => (
             <span
               className={`question-status-rail question-status-rail--${side} question-status-rail--${tone}`}
               key={side}
@@ -1321,11 +1329,11 @@ function QuestionNode({
             <span>{node.kind.replaceAll('-', ' ')}</span>
             <h3>{node.label}</h3>
           </div>
-          {node.depth === 0 ? (
+          {node.depth === 0 && preferences.showQuestionStatusInfo ? (
             <QuestionReviewActivity
               node={node}
               runtime={reviewRuntime}
-              statusRails={statusRails}
+              statusRails={visibleStatusRails}
             />
           ) : null}
         </div>
@@ -1346,7 +1354,8 @@ function QuestionNode({
           preferences={preferences}
         />
       </div>
-      {preferences.reviewSide === 'question' ? (
+      {preferences.reviewSide === 'question' &&
+      preferences.showImageStatusInfo ? (
         <ImageReviewStatusBlock
           node={node}
           runtime={reviewRuntime}
@@ -1366,7 +1375,8 @@ function QuestionNode({
           />
         ))}
       <SolutionContent node={node} preferences={preferences} />
-      {preferences.reviewSide === 'answer' ? (
+      {preferences.reviewSide === 'answer' &&
+      preferences.showImageStatusInfo ? (
         <ImageReviewStatusBlock
           node={node}
           runtime={reviewRuntime}
@@ -1520,6 +1530,7 @@ function ReviewSideSelector({
 
 function ReviewLane({
   commentDisabledReason,
+  controlMode,
   disabledReason,
   displayPreferences,
   feedbackEnabled,
@@ -1536,6 +1547,7 @@ function ReviewLane({
   side,
 }: {
   commentDisabledReason?: string;
+  controlMode: ReviewControlMode;
   disabledReason?: string;
   displayPreferences: boolean;
   feedbackEnabled: boolean;
@@ -1610,19 +1622,21 @@ function ReviewLane({
         >
           Comment
         </button>
-        {SECONDARY_REVIEW_OPTIONS.map((option) => (
-          <button
-            aria-pressed={outcome === option.outcome}
-            className={`review-lane-action review-lane-action--${option.tone}`}
-            disabled={actionDisabled}
-            key={option.outcome}
-            onClick={() => onOutcome(option.outcome)}
-            title={disabledReason}
-            type="button"
-          >
-            {option.actionLabel}
-          </button>
-        ))}
+        {controlMode === 'advanced'
+          ? SECONDARY_REVIEW_OPTIONS.map((option) => (
+              <button
+                aria-pressed={outcome === option.outcome}
+                className={`review-lane-action review-lane-action--${option.tone}`}
+                disabled={actionDisabled}
+                key={option.outcome}
+                onClick={() => onOutcome(option.outcome)}
+                title={disabledReason}
+                type="button"
+              >
+                {option.actionLabel}
+              </button>
+            ))
+          : null}
         <button
           aria-pressed={!outcome}
           className="review-lane-action review-lane-action--reset"
@@ -2762,6 +2776,7 @@ export function ReviewSurface({
           localStorage.getItem(LEGACY_REVIEW_PREFERENCES_KEY),
           localStorage.getItem(EARLIER_REVIEW_PREFERENCES_KEY),
           localStorage.getItem(INITIAL_REVIEW_PREFERENCES_KEY),
+          localStorage.getItem(OLDEST_REVIEW_PREFERENCES_KEY),
         );
         if (!stored) {
           localStorage.setItem(REVIEW_PREFERENCES_KEY, JSON.stringify(next));
@@ -3628,8 +3643,22 @@ export function ReviewSurface({
                   }
                 />
                 <PreferenceToggle
+                  checked={preferences.showQuestionStatusInfo}
+                  label="Question status info"
+                  onChange={(value) =>
+                    updatePreference('showQuestionStatusInfo', value)
+                  }
+                />
+                <PreferenceToggle
+                  checked={preferences.showImageStatusInfo}
+                  label="Image status info"
+                  onChange={(value) =>
+                    updatePreference('showImageStatusInfo', value)
+                  }
+                />
+                <PreferenceToggle
                   checked={preferences.reviewControlMode === 'simple'}
-                  label="Simple inline actions"
+                  label="Simple review actions"
                   onChange={(value) =>
                     updatePreference(
                       'reviewControlMode',
@@ -3663,6 +3692,7 @@ export function ReviewSurface({
           {reviewSidesForContext(preferences.reviewSide).map((side, index) => (
             <ReviewLane
               commentDisabledReason={commentDisabledReason(side)}
+              controlMode={preferences.reviewControlMode}
               disabledReason={outcomeDisabledReason(toolbarOutcomeTarget(side))}
               displayPreferences={index === 0}
               feedbackEnabled={preferences.showFeedback}

@@ -79,7 +79,7 @@ test('maps canonical request values to the agreed reviewer-facing labels', () =>
   );
   assert.deepEqual(
     SIMPLE_REVIEW_OUTCOME_OPTIONS.map(({ outcome }) => outcome),
-    ['PRG', 'PRCR'],
+    ['PRG', 'PRCR', 'PRCC'],
   );
   assert.deepEqual(
     ['PRNS', ...REVIEW_OUTCOMES].map((outcome) => [

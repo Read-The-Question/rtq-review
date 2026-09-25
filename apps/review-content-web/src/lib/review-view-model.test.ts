@@ -6,6 +6,7 @@ import {
   EARLIER_REVIEW_PREFERENCES_KEY,
   INITIAL_REVIEW_PREFERENCES_KEY,
   LEGACY_REVIEW_PREFERENCES_KEY,
+  OLDEST_REVIEW_PREFERENCES_KEY,
   PREVIOUS_REVIEW_PREFERENCES_KEY,
   REVIEW_FILTER_DISCLOSURE_KEY,
   REVIEW_PREFERENCES_KEY,
@@ -24,22 +25,26 @@ import {
   visibleReviewSides,
 } from './review-view-model.ts';
 
-test('display preference storage is versioned for the original PDF pane', () => {
-  assert.equal(REVIEW_PREFERENCES_KEY, 'rtq.review-content.preferences.v6');
+test('display preference storage is versioned for status chrome controls', () => {
+  assert.equal(REVIEW_PREFERENCES_KEY, 'rtq.review-content.preferences.v7');
   assert.equal(
     PREVIOUS_REVIEW_PREFERENCES_KEY,
-    'rtq.review-content.preferences.v5',
+    'rtq.review-content.preferences.v6',
   );
   assert.equal(
     LEGACY_REVIEW_PREFERENCES_KEY,
-    'rtq.review-content.preferences.v4',
+    'rtq.review-content.preferences.v5',
   );
   assert.equal(
     EARLIER_REVIEW_PREFERENCES_KEY,
-    'rtq.review-content.preferences.v3',
+    'rtq.review-content.preferences.v4',
   );
   assert.equal(
     INITIAL_REVIEW_PREFERENCES_KEY,
+    'rtq.review-content.preferences.v3',
+  );
+  assert.equal(
+    OLDEST_REVIEW_PREFERENCES_KEY,
     'rtq.review-content.preferences.v2',
   );
 });
@@ -67,6 +72,22 @@ test('preferences survive partial and malformed local values', () => {
     showRaw: true,
   });
   assert.equal(parseReviewPreferences('{"showPdf":false}').showPdf, false);
+  assert.equal(
+    parseReviewPreferences('{"showQuestionStatusInfo":false}')
+      .showQuestionStatusInfo,
+    false,
+  );
+  assert.equal(
+    parseReviewPreferences('{"showImageStatusInfo":false}').showImageStatusInfo,
+    false,
+  );
+  assert.equal(
+    parseReviewPreferences(
+      null,
+      '{"showQuestionStatusInfo":false,"showImageStatusInfo":false}',
+    ).showQuestionStatusInfo,
+    false,
+  );
 });
 
 test('preferences migrate independent side settings into one active review side', () => {

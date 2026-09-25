@@ -43,7 +43,9 @@ test('display preferences separate the active side from inline visibility', asyn
   assert.match(component, /inlineEnabled=\{preferences\.showInlineReview\}/);
   assert.match(component, /feedbackEnabled=\{preferences\.showFeedback\}/);
   assert.match(component, /label="Status background"/);
-  assert.match(component, /label="Simple inline actions"/);
+  assert.match(component, /label="Question status info"/);
+  assert.match(component, /label="Image status info"/);
+  assert.match(component, /label="Simple review actions"/);
   assert.match(component, /label="Inline review panel"/);
   assert.match(component, /label="Previous feedback"/);
   assert.doesNotMatch(component, /showQuestionReview|showAnswerReview/);
@@ -59,6 +61,10 @@ test('review requests use descriptive canonical actions in both modes', async ()
 
   assert.match(component, /controlMode === 'simple'/);
   assert.match(component, /SIMPLE_REVIEW_OUTCOME_OPTIONS\.map/);
+  assert.match(
+    component,
+    /controlMode === 'advanced'[\s\S]*SECONDARY_REVIEW_OPTIONS\.map/,
+  );
   assert.match(component, /REVIEW_OUTCOME_OPTIONS\.map/);
   assert.match(component, /option\.actionLabel/);
   assert.match(component, /submitOutcome\(null\)/);
@@ -134,6 +140,17 @@ test('top-level questions expose current outcomes and feedback as scan badges', 
   assert.match(component, /question-status-rail--\$\{side\}/);
   assert.match(component, /reviewSideShortLabel\(side\)/);
   assert.match(component, /function ImageReviewStatusBlock/);
+  assert.match(component, /preferences\.showQuestionStatusInfo/);
+  assert.match(component, /preferences\.showImageStatusInfo/);
+  assert.match(
+    component,
+    /side\.endsWith\('-image'\)[\s\S]*preferences\.showImageStatusInfo[\s\S]*preferences\.showQuestionStatusInfo/,
+  );
+  assert.match(
+    component,
+    /updatePreference\('showQuestionStatusInfo', value\)/,
+  );
+  assert.match(component, /updatePreference\('showImageStatusInfo', value\)/);
   assert.match(
     component,
     /question-node--status-background-\$\{contentStatusTone\}/,
@@ -234,6 +251,7 @@ test('the sticky toolbar exposes both tracks in one selected review context', as
   assert.equal(component.match(/<ReviewLane/g)?.length, 1);
   assert.match(component, /PRIMARY_REVIEW_OPTIONS\.map/);
   assert.match(component, /SECONDARY_REVIEW_OPTIONS\.map/);
+  assert.match(component, /controlMode=\{preferences\.reviewControlMode\}/);
   assert.match(component, /onClick=\{\(\) => onOutcome\(option\.outcome\)\}/);
   assert.match(component, /onClick=\{\(\) => onOutcome\(null\)\}/);
   assert.doesNotMatch(component, /<summary>More<\/summary>/);

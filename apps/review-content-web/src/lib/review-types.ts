@@ -73,7 +73,7 @@ export const REVIEW_OUTCOME_OPTIONS = [
 }[];
 
 export const SIMPLE_REVIEW_OUTCOME_OPTIONS = REVIEW_OUTCOME_OPTIONS.filter(
-  ({ outcome }) => outcome === 'PRG' || outcome === 'PRCR',
+  ({ outcome }) => outcome !== 'PRBD' && outcome !== 'PRCS',
 );
 
 export type ReviewOutcomeSelection = ReviewOutcome | null;

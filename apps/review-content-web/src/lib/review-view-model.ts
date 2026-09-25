@@ -1,16 +1,18 @@
 import type { ReviewFilterSelection } from '@rtq/review-paper-model/client';
 import type { ReviewSide } from '@rtq/review-store/types';
 
-export const REVIEW_PREFERENCES_KEY = 'rtq.review-content.preferences.v6';
+export const REVIEW_PREFERENCES_KEY = 'rtq.review-content.preferences.v7';
 export const REVIEW_FILTER_DISCLOSURE_KEY =
   'rtq.review-content.filter-disclosure.v1';
 export const PREVIOUS_REVIEW_PREFERENCES_KEY =
-  'rtq.review-content.preferences.v5';
+  'rtq.review-content.preferences.v6';
 export const LEGACY_REVIEW_PREFERENCES_KEY =
-  'rtq.review-content.preferences.v4';
+  'rtq.review-content.preferences.v5';
 export const EARLIER_REVIEW_PREFERENCES_KEY =
-  'rtq.review-content.preferences.v3';
+  'rtq.review-content.preferences.v4';
 export const INITIAL_REVIEW_PREFERENCES_KEY =
+  'rtq.review-content.preferences.v3';
+export const OLDEST_REVIEW_PREFERENCES_KEY =
   'rtq.review-content.preferences.v2';
 
 export type ReviewControlMode = 'advanced' | 'simple';
@@ -21,8 +23,10 @@ export type ReviewPreferences = Readonly<{
   reviewControlMode: ReviewControlMode;
   reviewSide: VisibleReviewSide;
   showFeedback: boolean;
+  showImageStatusInfo: boolean;
   showInlineReview: boolean;
   showPdf: boolean;
+  showQuestionStatusInfo: boolean;
   showRaw: boolean;
   showSolutions: boolean;
   showStatusBackground: boolean;
@@ -33,8 +37,10 @@ export const DEFAULT_REVIEW_PREFERENCES: ReviewPreferences = {
   reviewControlMode: 'simple',
   reviewSide: 'answer',
   showFeedback: true,
+  showImageStatusInfo: true,
   showInlineReview: true,
   showPdf: true,
+  showQuestionStatusInfo: true,
   showRaw: false,
   showSolutions: true,
   showStatusBackground: false,
@@ -76,13 +82,15 @@ export function parseReviewPreferences(
   legacyValue: string | null = null,
   earlierValue: string | null = null,
   initialValue: string | null = null,
+  oldestValue: string | null = null,
 ): ReviewPreferences {
   const parsed = parsePreferenceRecord(value);
   const previous = parsePreferenceRecord(previousValue);
   const legacy = parsePreferenceRecord(legacyValue);
   const earlier = parsePreferenceRecord(earlierValue);
   const initial = parsePreferenceRecord(initialValue);
-  const records = [parsed, previous, legacy, earlier, initial];
+  const oldest = parsePreferenceRecord(oldestValue);
+  const records = [parsed, previous, legacy, earlier, initial, oldest];
   const oldReviewPreference =
     typeof parsed?.showReview === 'boolean'
       ? parsed.showReview
@@ -94,7 +102,9 @@ export function parseReviewPreferences(
             ? earlier.showReview
             : typeof initial?.showReview === 'boolean'
               ? initial.showReview
-              : undefined;
+              : typeof oldest?.showReview === 'boolean'
+                ? oldest.showReview
+                : undefined;
 
   function preference(
     key: keyof ReviewPreferences,
@@ -105,11 +115,13 @@ export function parseReviewPreferences(
     const legacyPreference = legacy?.[key];
     const earlierPreference = earlier?.[key];
     const initialPreference = initial?.[key];
+    const oldestPreference = oldest?.[key];
     if (typeof currentPreference === 'boolean') return currentPreference;
     if (typeof previousPreference === 'boolean') return previousPreference;
     if (typeof legacyPreference === 'boolean') return legacyPreference;
     if (typeof earlierPreference === 'boolean') return earlierPreference;
     if (typeof initialPreference === 'boolean') return initialPreference;
+    if (typeof oldestPreference === 'boolean') return oldestPreference;
     return fallback;
   }
 
@@ -181,6 +193,10 @@ export function parseReviewPreferences(
       legacySidePreference(reviewSide, 'Feedback') ??
         DEFAULT_REVIEW_PREFERENCES.showFeedback,
     ),
+    showImageStatusInfo: preference(
+      'showImageStatusInfo',
+      DEFAULT_REVIEW_PREFERENCES.showImageStatusInfo,
+    ),
     showInlineReview: preference(
       'showInlineReview',
       legacySidePreference(reviewSide, 'Review') ??
@@ -188,6 +204,10 @@ export function parseReviewPreferences(
         DEFAULT_REVIEW_PREFERENCES.showInlineReview,
     ),
     showPdf: preference('showPdf', DEFAULT_REVIEW_PREFERENCES.showPdf),
+    showQuestionStatusInfo: preference(
+      'showQuestionStatusInfo',
+      DEFAULT_REVIEW_PREFERENCES.showQuestionStatusInfo,
+    ),
     showRaw: preference('showRaw', DEFAULT_REVIEW_PREFERENCES.showRaw),
     showSolutions: preference(
       'showSolutions',

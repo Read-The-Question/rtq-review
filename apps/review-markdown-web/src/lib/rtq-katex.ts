@@ -1,6 +1,14 @@
 import { getRtqReviewKatexOptions } from '@rtq/review-katex-options';
 
 const reviewerKatexMacros: Record<string, string> = {
+  '\\rtqMathsBespokeSymbolFourPanePictogramFull':
+    '\\mathord{\\begin{smallmatrix}\\square\\square\\\\\\square\\square\\end{smallmatrix}}',
+  '\\rtqMathsBespokeSymbolFourPanePictogramQuarter':
+    '\\mathord{\\begin{smallmatrix}\\square\\phantom{\\square}\\\\\\phantom{\\square}\\phantom{\\square}\\end{smallmatrix}}',
+  '\\rtqMathsBespokeSymbolFourPanePictogramHalf':
+    '\\mathord{\\begin{smallmatrix}\\square\\phantom{\\square}\\\\\\square\\phantom{\\square}\\end{smallmatrix}}',
+  '\\rtqMathsBespokeSymbolFourPanePictogramThreeQuarters':
+    '\\mathord{\\begin{smallmatrix}\\square\\square\\\\\\square\\phantom{\\square}\\end{smallmatrix}}',
   '\\rtqMathsSymbolDollar': '\\text{\\textdollar}',
   '\\rtqMathsSymbolPound': '\\pounds',
   '\\rtqMathsSymbolEuro': '\\text{€}',

@@ -10,6 +10,8 @@ const rtqKatexMacros = {
     "\\mathord{\\begin{matrix}\\square\\phantom{\\square}\\\\\\square\\phantom{\\square}\\end{matrix}}",
   "\\rtqMathsBespokeSymbolFourPanePictogramThreeQuarters":
     "\\mathord{\\begin{matrix}\\square\\square\\\\\\square\\phantom{\\square}\\end{matrix}}",
+  "\\rtqMathsBespokeSymbolOutlinedDiamond": "\\lozenge",
+  "\\rtqMathsBespokeSymbolSunWithRays": "\\text{\\char\"263C}",
   "\\rtqMathsSymbolDollar": "\\text{\\textdollar}",
   "\\rtqMathsSymbolEuro": "\\text{€}",
   "\\rtqMathsSymbolAsterisk": "\\ast",

@@ -9,6 +9,7 @@ const reviewerKatexMacros: Record<string, string> = {
   '\\rtqMathsSymbolBlackHeartSuit': '\\text{\\char"2665}',
   '\\rtqMathsSymbolBlackTriangle': '\\blacktriangle',
   '\\rtqMathsSymbolBlackSquare': '\\blacksquare',
+  '\\rtqMathsSymbolWhiteSquare': '\\square',
   '\\rtqMathsSymbolBlackCircle': '\\mathord{\\Large\\bullet}',
   '\\rtqMathsSymbolBlackLozenge': '\\blacklozenge',
   '\\rtqMathsSymbolBlackSmilingFace': '\\text{\\char"263B}',

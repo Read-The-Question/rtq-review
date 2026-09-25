@@ -8,7 +8,7 @@ test('registers all prefixed RTQ macros including one-to-one symbol wrappers', (
   assert.equal(
     Object.keys(rtqKatexMacros).filter(name => name.startsWith('\\rtqMaths'))
       .length,
-    102,
+    103,
   );
   assert.equal(
     rtqKatexMacros['\\rtqMathsUnderlineEmptyValueLong'],
@@ -44,6 +44,7 @@ test('registers all prefixed RTQ macros including one-to-one symbol wrappers', (
     '\\blacktriangle',
   );
   assert.equal(rtqKatexMacros['\\rtqMathsSymbolBlackSquare'], '\\blacksquare');
+  assert.equal(rtqKatexMacros['\\rtqMathsSymbolWhiteSquare'], '\\square');
   assert.equal(
     rtqKatexMacros['\\rtqMathsSymbolBlackCircle'],
     '\\mathord{\\Large\\bullet}',
@@ -71,14 +72,15 @@ test('renders the pound wrapper through Markdown', async () => {
   assert.match(html, /£/);
 });
 
-test('renders the approved black symbol wrappers through Markdown', async () => {
+test('renders the approved symbol wrappers through Markdown', async () => {
   const html = await renderMarkdownToHtml(
-    String.raw`$\rtqMathsSymbolBlackCircle + \rtqMathsSymbolBlackLozenge + \rtqMathsSymbolBlackHeartSuit + \rtqMathsSymbolBlackSmilingFace + \rtqMathsSymbolBlackClubSuit$`,
+    String.raw`$\rtqMathsSymbolBlackCircle + \rtqMathsSymbolBlackLozenge + \rtqMathsSymbolBlackHeartSuit + \rtqMathsSymbolWhiteSquare + \rtqMathsSymbolBlackSmilingFace + \rtqMathsSymbolBlackClubSuit$`,
     rtqKatexMacros,
   );
 
   assert.doesNotMatch(html, /katex-error/);
   assert.match(html, /♥/);
+  assert.match(html, /□/);
   assert.match(html, /☻/);
 });
 

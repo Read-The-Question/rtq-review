@@ -2,14 +2,26 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 const rtqKatexMacros = {
-  "\\rtqMathsNumberTowerCellMatching":
+  "\\rtqMathsBoxedCellMatching":
     "\\boxed{\\vphantom{\\dfrac{0}{0}}\\phantom{#2}\\mathclap{#1}\\phantom{#2}}",
+  "\\rtqMathsBoxedCellTwoDigitsWide":
+    "\\rtqMathsBoxedCellMatching{#1}{0}",
+  "\\rtqMathsBoxedCellFourDigitsWide":
+    "\\rtqMathsBoxedCellMatching{#1}{00}",
+  "\\rtqMathsBoxedCellTwoDigitsWideSpacer":
+    "\\phantom{\\rtqMathsBoxedCellTwoDigitsWide{}}",
+  "\\rtqMathsBoxedCellFourDigitsWideSpacer":
+    "\\phantom{\\rtqMathsBoxedCellFourDigitsWide{}}",
+  "\\rtqMathsBoxedCellArrayStyle": "\\def\\arraystretch{2.5}",
+  "\\rtqMathsBoxedCellSeparator": "\\enspace",
+  "\\rtqMathsNumberTowerCellMatching":
+    "\\rtqMathsBoxedCellMatching{#1}{#2}",
   "\\rtqMathsNumberTowerCellTwoDigitsWide":
-    "\\rtqMathsNumberTowerCellMatching{#1}{0}",
+    "\\rtqMathsBoxedCellTwoDigitsWide{#1}",
   "\\rtqMathsNumberTowerCellFourDigitsWide":
-    "\\rtqMathsNumberTowerCellMatching{#1}{00}",
-  "\\rtqMathsNumberTowerStyle": "\\def\\arraystretch{2.5}",
-  "\\rtqMathsNumberTowerCellSeparator": "\\enspace",
+    "\\rtqMathsBoxedCellFourDigitsWide{#1}",
+  "\\rtqMathsNumberTowerStyle": "\\rtqMathsBoxedCellArrayStyle",
+  "\\rtqMathsNumberTowerCellSeparator": "\\rtqMathsBoxedCellSeparator",
   "\\rtqMathsBespokeSymbolFourPanePictogramFull":
     "\\mathord{\\begin{matrix}\\square\\square\\\\\\square\\square\\end{matrix}}",
   "\\rtqMathsBespokeSymbolFourPanePictogramQuarter":

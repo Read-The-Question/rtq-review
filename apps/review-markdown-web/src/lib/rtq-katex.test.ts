@@ -8,7 +8,7 @@ test('registers all prefixed RTQ macros including one-to-one symbol wrappers', (
   assert.equal(
     Object.keys(rtqKatexMacros).filter(name => name.startsWith('\\rtqMaths'))
       .length,
-    119,
+    126,
   );
   assert.equal(
     rtqKatexMacros['\\rtqMathsUnderlineEmptyValueLong'],
@@ -26,16 +26,29 @@ test('registers all prefixed RTQ macros including one-to-one symbol wrappers', (
   );
   assert.equal(rtqKatexMacros['\\rtqMathsSpaceOneSixthEm'], '\\,');
   assert.equal(
+    rtqKatexMacros['\\rtqMathsBoxedCellTwoDigitsWideSpacer'],
+    '\\phantom{\\rtqMathsBoxedCellTwoDigitsWide{}}',
+  );
+  assert.equal(
+    rtqKatexMacros['\\rtqMathsBoxedCellFourDigitsWideSpacer'],
+    '\\phantom{\\rtqMathsBoxedCellFourDigitsWide{}}',
+  );
+  assert.equal(
+    rtqKatexMacros['\\rtqMathsBoxedCellArrayStyle'],
+    '\\def\\arraystretch{2.5}',
+  );
+  assert.equal(rtqKatexMacros['\\rtqMathsBoxedCellSeparator'], '\\enspace');
+  assert.equal(
     rtqKatexMacros['\\rtqMathsNumberTowerCellFourDigitsWide'],
-    '\\rtqMathsNumberTowerCellMatching{#1}{00}',
+    '\\rtqMathsBoxedCellFourDigitsWide{#1}',
   );
   assert.equal(
     rtqKatexMacros['\\rtqMathsNumberTowerCellSeparator'],
-    '\\enspace',
+    '\\rtqMathsBoxedCellSeparator',
   );
   assert.equal(
     rtqKatexMacros['\\rtqMathsNumberTowerStyle'],
-    '\\def\\arraystretch{2.5}',
+    '\\rtqMathsBoxedCellArrayStyle',
   );
   assert.equal(
     rtqKatexMacros['\\rtqMathsSymbolTrianglePendingReview'],
@@ -111,13 +124,15 @@ test('renders the pound wrapper through Markdown', async () => {
 
 test('renders fixed-geometry number towers through Markdown', async () => {
   const html = await renderMarkdownToHtml(
-    String.raw`$\rtqMathsNumberTowerStyle\begin{array}{c}\rtqMathsNumberTowerCellTwoDigitsWide{7}\\\rtqMathsNumberTowerCellFourDigitsWide{34}\rtqMathsNumberTowerCellSeparator\rtqMathsNumberTowerCellFourDigitsWide{}\end{array}$`,
+    String.raw`$\rtqMathsNumberTowerStyle\begin{array}{c}\rtqMathsNumberTowerCellTwoDigitsWide{7}\\\rtqMathsNumberTowerCellFourDigitsWide{34}\rtqMathsNumberTowerCellSeparator\rtqMathsNumberTowerCellFourDigitsWide{}\end{array}\quad\rtqMathsBoxedCellArrayStyle\begin{array}{l}\rtqMathsBoxedCellFourDigitsWide{}\\\rtqMathsBoxedCellFourDigitsWide{}\\\rtqMathsBoxedCellFourDigitsWide{1}\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWide{\rtqMathsSymbolAsterisk}\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWide{4}\\\rtqMathsBoxedCellFourDigitsWideSpacer\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideSpacer\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWide{}\\\rtqMathsBoxedCellFourDigitsWideSpacer\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideSpacer\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWide{2}\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWide{}\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWide{}\end{array}$`,
     rtqKatexMacros,
   );
 
   assert.doesNotMatch(html, /katex-error/);
   assert.match(html, />7</);
   assert.match(html, />34</);
+  assert.match(html, />1</);
+  assert.match(html, />2</);
 });
 
 test('renders the approved symbol wrappers through Markdown', async () => {

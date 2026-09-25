@@ -154,6 +154,8 @@ const rtqKatexMacros = {
   "\\rtqMathsQuestionMarkPlaceholder": "\\mathord{?}",
   "\\rtqMathsQuestionMarkOperatorPlaceholder": "\\mathbin{?}",
   "\\rtqMathsSequenceEllipsis": "\\ldots",
+  "\\rtqMathsDigitGroupSeparator": "\\rtqMathsSpaceOneSixthEm",
+  "\\rtqMathsSpaceOneSixthEm": "\\,",
   "\\rtqMathsTimeSeparator": "\\mathord{:}",
   "\\rtqMathsRatioSeparator": "\\ratio",
   "\\rtqMathsTimeMeridiem": "\\ \\text{#1}",

@@ -8,7 +8,7 @@ test('registers all prefixed RTQ macros including one-to-one symbol wrappers', (
   assert.equal(
     Object.keys(rtqKatexMacros).filter(name => name.startsWith('\\rtqMaths'))
       .length,
-    117,
+    119,
   );
   assert.equal(
     rtqKatexMacros['\\rtqMathsUnderlineEmptyValueLong'],
@@ -20,6 +20,11 @@ test('registers all prefixed RTQ macros including one-to-one symbol wrappers', (
   );
   assert.equal(rtqKatexMacros['\\rtqMathsSequenceEllipsis'], '\\ldots');
   assert.equal(rtqKatexMacros['\\rtqMathsListSeparator'], '\\quad');
+  assert.equal(
+    rtqKatexMacros['\\rtqMathsDigitGroupSeparator'],
+    '\\rtqMathsSpaceOneSixthEm',
+  );
+  assert.equal(rtqKatexMacros['\\rtqMathsSpaceOneSixthEm'], '\\,');
   assert.equal(
     rtqKatexMacros['\\rtqMathsNumberTowerCellFourDigitsWide'],
     '\\rtqMathsNumberTowerCellMatching{#1}{00}',

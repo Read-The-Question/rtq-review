@@ -70,6 +70,10 @@ test("renders question-mark placeholders with their contracted math roles", () =
   const cases = [
     ["\\rtqMathsQuestionMarkPlaceholder", "\\mathord{?}"],
     ["\\rtqMathsQuestionMarkOperatorPlaceholder", "\\mathbin{?}"],
+    [
+      "\\rtqMathsDigitGroupSeparator",
+      "\\rtqMathsSpaceOneSixthEm",
+    ],
     ["\\rtqMathsTimeSeparator", "\\mathord{:}"],
     ["\\rtqMathsRatioSeparator", "\\ratio"],
     ["\\rtqMathsTimeMeridiem{a.m.}", "\\ \\text{a.m.}"],
@@ -135,6 +139,7 @@ test("registers and renders the complete prefixed RTQ vocabulary", () => {
     "\\rtqMathsColumnarArithmeticStyle",
     "\\rtqMathsColumnarDecimalPoint",
     "\\rtqMathsCorrectValue",
+    "\\rtqMathsDigitGroupSeparator",
     "\\rtqMathsEllipsisEmptyBinaryOperatorMatching",
     "\\rtqMathsEllipsisEmptyBinaryOperatorUnknown",
     "\\rtqMathsEllipsisEmptyRelationMatching",
@@ -171,6 +176,7 @@ test("registers and renders the complete prefixed RTQ vocabulary", () => {
     "\\rtqMathsSizeSevenPendingReview",
     "\\rtqMathsSizeTenPendingReview",
     "\\rtqMathsSolvedOrder",
+    "\\rtqMathsSpaceOneSixthEm",
     "\\rtqMathsSubtractBorrow",
     "\\rtqMathsSymbolAsterisk",
     "\\rtqMathsSymbolBigStarPendingReview",

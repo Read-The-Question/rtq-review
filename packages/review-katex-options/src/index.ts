@@ -52,6 +52,12 @@ export const RTQ_TABLE_NO_VALUE_MACRO = "\\rtqMathsTableNoValue" as const;
 
 export const RTQ_TABLE_NO_VALUE_EXPANSION = "\\text{\\textemdash}" as const;
 
+export const RTQ_DIGIT_GROUP_SEPARATOR_MACRO =
+  "\\rtqMathsDigitGroupSeparator" as const;
+
+export const RTQ_DIGIT_GROUP_SEPARATOR_EXPANSION =
+  "\\rtqMathsSpaceOneSixthEm" as const;
+
 export const RTQ_TIME_SEPARATOR_MACRO = "\\rtqMathsTimeSeparator" as const;
 
 export const RTQ_TIME_SEPARATOR_EXPANSION = "\\mathord{:}" as const;
@@ -67,6 +73,7 @@ export const RTQ_TIME_MERIDIEM_MACROS = {
 } as const;
 
 export const RTQ_SPACING_MACROS = {
+  "\\rtqMathsSpaceOneSixthEm": "\\,",
   "\\rtqMathsSpaceQuarterEm": "\\ ",
   "\\rtqMathsSpaceHalfEm": "\\enspace",
   "\\rtqMathsSpaceOneEm": "\\quad",
@@ -192,6 +199,8 @@ export function getRtqReviewKatexOptions<
       ...RTQ_ELLIPSIS_EMPTY_MACROS,
       [RTQ_SEQUENCE_ELLIPSIS_MACRO]: RTQ_SEQUENCE_ELLIPSIS_EXPANSION,
       [RTQ_TABLE_NO_VALUE_MACRO]: RTQ_TABLE_NO_VALUE_EXPANSION,
+      [RTQ_DIGIT_GROUP_SEPARATOR_MACRO]:
+        RTQ_DIGIT_GROUP_SEPARATOR_EXPANSION,
       [RTQ_TIME_SEPARATOR_MACRO]: RTQ_TIME_SEPARATOR_EXPANSION,
       [RTQ_RATIO_SEPARATOR_MACRO]: RTQ_RATIO_SEPARATOR_EXPANSION,
       ...RTQ_SPACING_MACROS,

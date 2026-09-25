@@ -13,6 +13,8 @@ import {
   RTQ_COLUMNAR_ARITHMETIC_STYLE_MACRO,
   RTQ_COLUMNAR_DECIMAL_POINT_EXPANSION,
   RTQ_COLUMNAR_DECIMAL_POINT_MACRO,
+  RTQ_DIGIT_GROUP_SEPARATOR_EXPANSION,
+  RTQ_DIGIT_GROUP_SEPARATOR_MACRO,
   RTQ_EQUATION_NUMBER_CLASS,
   RTQ_EQUATION_NUMBER_EXPANSION,
   RTQ_EQUATION_NUMBER_MACRO,
@@ -72,6 +74,9 @@ test("matches the canonical rtq-content shared macro contracts", () => {
   const timeSeparator = contract.macros.find(
     ({ name }) => name === RTQ_TIME_SEPARATOR_MACRO,
   );
+  const digitGroupSeparator = contract.macros.find(
+    ({ name }) => name === RTQ_DIGIT_GROUP_SEPARATOR_MACRO,
+  );
   const tableNoValue = contract.macros.find(
     ({ name }) => name === RTQ_TABLE_NO_VALUE_MACRO,
   );
@@ -100,6 +105,10 @@ test("matches the canonical rtq-content shared macro contracts", () => {
   assert.deepEqual(timeSeparator, {
     expansion: RTQ_TIME_SEPARATOR_EXPANSION,
     name: RTQ_TIME_SEPARATOR_MACRO,
+  });
+  assert.deepEqual(digitGroupSeparator, {
+    expansion: RTQ_DIGIT_GROUP_SEPARATOR_EXPANSION,
+    name: RTQ_DIGIT_GROUP_SEPARATOR_MACRO,
   });
   assert.deepEqual(tableNoValue, {
     expansion: RTQ_TABLE_NO_VALUE_EXPANSION,
@@ -319,6 +328,18 @@ test("renders source-variant and canonical meridiem macros", () => {
       options,
     ),
   );
+});
+
+test("renders digit-group separators as thin spaces", () => {
+  const normalize = (html: string) =>
+    html.replace(/<annotation[^>]*>[\s\S]*?<\/annotation>/g, "<annotation/>");
+  const macro = katex.renderToString(
+    String.raw`987\rtqMathsDigitGroupSeparator654`,
+    options,
+  );
+  const direct = katex.renderToString(String.raw`987\,654`, options);
+
+  assert.equal(normalize(macro), normalize(direct));
 });
 
 test("preserves every enlarged size through its pending-review switch", () => {

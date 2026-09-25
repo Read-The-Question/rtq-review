@@ -3,13 +3,13 @@
  */
 const rtqKatexMacros = {
   "\\rtqMathsBespokeSymbolFourPanePictogramFull":
-    "\\mathord{\\begin{smallmatrix}\\square\\square\\\\\\square\\square\\end{smallmatrix}}",
+    "\\mathord{\\begin{matrix}\\square\\square\\\\\\square\\square\\end{matrix}}",
   "\\rtqMathsBespokeSymbolFourPanePictogramQuarter":
-    "\\mathord{\\begin{smallmatrix}\\square\\phantom{\\square}\\\\\\phantom{\\square}\\phantom{\\square}\\end{smallmatrix}}",
+    "\\mathord{\\begin{matrix}\\square\\phantom{\\square}\\\\\\phantom{\\square}\\phantom{\\square}\\end{matrix}}",
   "\\rtqMathsBespokeSymbolFourPanePictogramHalf":
-    "\\mathord{\\begin{smallmatrix}\\square\\phantom{\\square}\\\\\\square\\phantom{\\square}\\end{smallmatrix}}",
+    "\\mathord{\\begin{matrix}\\square\\phantom{\\square}\\\\\\square\\phantom{\\square}\\end{matrix}}",
   "\\rtqMathsBespokeSymbolFourPanePictogramThreeQuarters":
-    "\\mathord{\\begin{smallmatrix}\\square\\square\\\\\\square\\phantom{\\square}\\end{smallmatrix}}",
+    "\\mathord{\\begin{matrix}\\square\\square\\\\\\square\\phantom{\\square}\\end{matrix}}",
   "\\rtqMathsSymbolDollar": "\\text{\\textdollar}",
   "\\rtqMathsSymbolEuro": "\\text{€}",
   "\\rtqMathsSymbolAsterisk": "\\ast",

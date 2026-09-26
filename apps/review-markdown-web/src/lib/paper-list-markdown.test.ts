@@ -58,6 +58,24 @@ test('renders PaperAuthorNote in generated review Markdown', async () => {
   assert.doesNotMatch(html, /PaperAuthorNote/);
 });
 
+test('renders PaperSymbol groups in generated review Markdown', async () => {
+  const html = await renderMarkdownToHtml(
+    [
+      '| Country | Symbols |',
+      '| :--- | :--- |',
+      '| Italy | <PaperSymbolGroup gap="md"><PaperSymbol name="computer" size="lg" /><PaperSymbol name="computer" variant="half" size="lg" /></PaperSymbolGroup> |',
+    ].join('\n'),
+    {},
+  );
+
+  assert.match(html, /data-paper-symbol-group=""/);
+  assert.match(html, /column-gap:8px/);
+  assert.equal(html.match(/data-paper-symbol=""/g)?.length, 2);
+  assert.match(html, /data-paper-symbol-variant="half"/);
+  assert.equal(html.match(/<svg/g)?.length, 2);
+  assert.doesNotMatch(html, /PaperSymbol/);
+});
+
 test('keeps semantic defaults in CSS without depth-derived marker overrides', async () => {
   const css = await fs.readFile(
     new URL('../app/globals.css', import.meta.url),

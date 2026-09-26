@@ -2,7 +2,10 @@ import { createHash } from 'node:crypto';
 import { existsSync, readFileSync } from 'node:fs';
 import path from 'node:path';
 
-import { validatePaperListMarkdown } from '@rtq/review-paper-markdown/validate';
+import {
+  validatePaperListMarkdown,
+  validatePaperSymbolMarkdown,
+} from '@rtq/review-paper-markdown/validate';
 
 import {
   PAPER_IMAGE_EXTENSIONS,
@@ -821,6 +824,7 @@ export function enrichRtqMarkdown(
   }
 
   validatePaperListMarkdown(text);
+  validatePaperSymbolMarkdown(text);
   const withWorkingSections = replaceWorkingSections(text);
   const assetScope = options?.scopeType ?? 'question';
   if (assetScope !== 'question' && options?.scopeIndex === undefined) {

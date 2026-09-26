@@ -8,6 +8,7 @@ import {
   hasActivePaperTable,
   remarkPaperList,
   remarkPaperListMdx,
+  remarkPaperSymbol,
   remarkPaperTable,
 } from "./index.ts";
 
@@ -31,5 +32,17 @@ export function validatePaperTableMarkdown(markdown: string): void {
     .use(remarkMath)
     .use(remarkPaperListMdx)
     .use(remarkPaperTable);
+  processor.runSync(processor.parse(markdown));
+}
+
+export function validatePaperSymbolMarkdown(markdown: string): void {
+  if (!/<\/?PaperSymbol(?:Group)?\b/.test(markdown)) return;
+
+  const processor = unified()
+    .use(remarkParse)
+    .use(remarkGfm)
+    .use(remarkMath)
+    .use(remarkPaperListMdx)
+    .use(remarkPaperSymbol);
   processor.runSync(processor.parse(markdown));
 }

@@ -78,8 +78,10 @@ test('integrates through the viewer preparation, raw, and API error boundaries',
   ]);
 
   assert.match(assets, /validatePaperListMarkdown\(text\)/);
+  assert.match(assets, /validatePaperSymbolMarkdown\(text\)/);
   assert.match(component, /remarkPaperListMdx/);
   assert.match(component, /remarkPaperList/);
+  assert.match(component, /remarkPaperSymbol/);
   assert.match(css, /\.rtq-markdown ul\s*{[^}]*list-style-type:\s*disc/s);
   assert.match(css, /\.rtq-markdown ol\s*{[^}]*list-style-type:\s*decimal/s);
   assert.match(data, /rawQuestion = asString\(rawNode\.question\)/);

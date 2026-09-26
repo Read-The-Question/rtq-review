@@ -107,6 +107,7 @@ test('uses the shared contract at the central read-only Tag Web boundaries', asy
 
   assert.match(assets, /validatePaperListMarkdown\(text\)/);
   assert.match(assets, /toPaperListCompatibilityMarkdown\(text\)/);
+  assert.match(assets, /toPaperSymbolCompatibilityMarkdown\(withPaperLists\)/);
   assert.doesNotMatch(component, /remarkPaperListMdx/);
   assert.match(component, /remarkPaperList/);
   assert.match(css, /\.rtq-markdown ul\s*{[^}]*list-style-type:\s*disc/s);

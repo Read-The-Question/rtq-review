@@ -4,6 +4,7 @@ import {
   remarkPaperAuthorNote,
   remarkPaperList,
   remarkPaperListMdx,
+  remarkPaperSymbol,
 } from '@rtq/review-paper-markdown';
 import ReactMarkdown from 'react-markdown';
 import rehypeKatex from 'rehype-katex';
@@ -32,6 +33,7 @@ export function RtqMarkdown({ markdown }: RtqMarkdownProps) {
           remarkPaperListMdx,
           remarkPaperAuthorNote,
           remarkPaperList,
+          remarkPaperSymbol,
         ]}>
         {markdown}
       </ReactMarkdown>

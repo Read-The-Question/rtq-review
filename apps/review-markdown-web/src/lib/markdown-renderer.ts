@@ -2,6 +2,7 @@ import { getRtqReviewKatexOptions } from '@rtq/review-katex-options';
 import {
   remarkPaperAuthorNote,
   remarkPaperList,
+  toPaperSymbolCompatibilityMarkdown,
 } from '@rtq/review-paper-markdown';
 import rehypeKatex from 'rehype-katex';
 import rehypeRaw from 'rehype-raw';
@@ -16,6 +17,7 @@ export async function renderMarkdownToHtml(
   markdown: string,
   macros: Record<string, string>,
 ) {
+  const preparedMarkdown = toPaperSymbolCompatibilityMarkdown(markdown);
   const file = await unified()
     .use(remarkParse)
     .use(remarkGfm)
@@ -26,7 +28,7 @@ export async function renderMarkdownToHtml(
     .use(rehypeRaw)
     .use(rehypeKatex as never, getRtqReviewKatexOptions(macros) as never)
     .use(rehypeStringify, { allowDangerousHtml: true })
-    .process(markdown);
+    .process(preparedMarkdown);
 
   return String(file);
 }

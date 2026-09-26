@@ -567,12 +567,17 @@ test('review Markdown uses the shared Paper component contracts', async () => {
   assert.match(markdown, /remarkPaperListMdx/);
   assert.match(markdown, /remarkPaperList/);
   assert.match(markdown, /remarkPaperSmall/);
+  assert.match(markdown, /remarkPaperSymbol/);
   assert.match(markdown, /remarkPaperTable/);
   assert.match(markdown, /rehypePaperTable/);
   assert.match(preparation, /preparePaperTableMarkdown/);
   assert.match(
     preparation,
     /const paperLists = preparePaperListMarkdown\(tables\.markdown\)/,
+  );
+  assert.match(
+    preparation,
+    /validatePaperSymbolMarkdown\(paperLists\.markdown\)/,
   );
   assert.match(preparation, /rendered: normalizeWorkingSections\(prepared/);
   assert.match(

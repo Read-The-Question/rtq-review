@@ -2,10 +2,13 @@ import assert from 'node:assert/strict';
 import test from 'node:test';
 
 import {
+  rehypePaperTable,
   remarkPaperAuthorNote,
   remarkPaperList,
   remarkPaperListMdx,
   remarkPaperSmall,
+  remarkPaperSymbol,
+  remarkPaperTable,
 } from '@rtq/review-paper-markdown';
 import { createElement } from 'react';
 import { renderToStaticMarkup } from 'react-dom/server';
@@ -134,6 +137,30 @@ test('renders PaperSmall with inline maths through the Review Content stack', ()
   );
   assert.match(html, /class="katex"/);
   assert.doesNotMatch(html, /PaperSmall/);
+});
+
+test('renders PaperSymbol through the Review Content ReactMarkdown stack', () => {
+  const html = renderToStaticMarkup(
+    createElement(
+      ReactMarkdown,
+      {
+        rehypePlugins: [rehypePaperTable],
+        remarkPlugins: [
+          remarkGfm,
+          remarkPaperListMdx,
+          remarkPaperTable,
+          remarkPaperSymbol,
+        ],
+      },
+      '<PaperTable columnHeaders="none" rowHeaders="first-column">\n\n| Italy | <PaperSymbolGroup gap="md"><PaperSymbol name="computer" size="lg" /><PaperSymbol name="computer" variant="half" size="lg" /></PaperSymbolGroup> |\n| --- | --- |\n\n</PaperTable>',
+    ),
+  );
+
+  assert.match(html, /<th scope="row">Italy<\/th>/);
+  assert.match(html, /data-paper-symbol-group=""/);
+  assert.equal(html.match(/data-paper-symbol=""/g)?.length, 2);
+  assert.equal(html.match(/<svg/g)?.length, 2);
+  assert.doesNotMatch(html, /PaperSymbol/);
 });
 
 test('renders PaperAuthorNote as labelled internal content with KaTeX', () => {

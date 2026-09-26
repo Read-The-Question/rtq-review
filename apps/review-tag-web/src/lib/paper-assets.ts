@@ -2,8 +2,13 @@ import { createHash } from 'node:crypto';
 import { existsSync, readFileSync } from 'node:fs';
 import path from 'node:path';
 
-import { toPaperListCompatibilityMarkdown } from '@rtq/review-paper-markdown';
-import { validatePaperListMarkdown } from '@rtq/review-paper-markdown/validate';
+import {
+  toPaperListCompatibilityMarkdown,
+  toPaperSymbolCompatibilityMarkdown,
+} from '@rtq/review-paper-markdown';
+import {
+  validatePaperListMarkdown,
+} from '@rtq/review-paper-markdown/validate';
 
 import {
   PAPER_IMAGE_EXTENSIONS,
@@ -819,7 +824,8 @@ export function enrichRtqMarkdown(
 
   validatePaperListMarkdown(text);
   const withPaperLists = toPaperListCompatibilityMarkdown(text);
-  const withPaperTables = normalizePaperTableMarkdown(withPaperLists);
+  const withPaperSymbols = toPaperSymbolCompatibilityMarkdown(withPaperLists);
+  const withPaperTables = normalizePaperTableMarkdown(withPaperSymbols);
   const withWorkingSections = replaceWorkingSections(withPaperTables);
   const assetScope = options?.scopeType ?? 'question';
   if (assetScope !== 'question' && options?.scopeIndex === undefined) {

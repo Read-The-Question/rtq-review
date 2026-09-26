@@ -9,6 +9,7 @@ import type {
   ReviewContentField,
   ReviewPaper,
 } from '@rtq/review-paper-model';
+import { validatePaperSymbolMarkdown } from '@rtq/review-paper-markdown/validate';
 
 import type {
   DisplayContentField,
@@ -234,6 +235,7 @@ function prepareField(
       field.expanded.replace(MDX_COMMENT, ''),
     );
     const paperLists = preparePaperListMarkdown(tables.markdown);
+    validatePaperSymbolMarkdown(paperLists.markdown);
     const images = paperLists.markdown.replace(IMAGE, (component) =>
       paperImageMarkdown(component, field.context, imageIndex++),
     );

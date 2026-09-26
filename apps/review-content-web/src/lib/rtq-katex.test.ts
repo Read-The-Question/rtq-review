@@ -9,7 +9,7 @@ test('registers all prefixed RTQ macros including one-to-one symbol wrappers', (
   assert.equal(
     Object.keys(rtqKatexMacros).filter((name) => name.startsWith('\\rtqMaths'))
       .length,
-    126,
+    124,
   );
   assert.equal(
     rtqKatexMacros['\\rtqMathsUnderlineEmptyValueLong'],
@@ -27,29 +27,41 @@ test('registers all prefixed RTQ macros including one-to-one symbol wrappers', (
   );
   assert.equal(rtqKatexMacros['\\rtqMathsSpaceOneSixthEm'], '\\,');
   assert.equal(
-    rtqKatexMacros['\\rtqMathsBoxedCellTwoDigitsWideSpacer'],
-    '\\phantom{\\rtqMathsBoxedCellTwoDigitsWide{}}',
+    rtqKatexMacros['\\rtqMathsBoxedCellMatching'],
+    '\\boxed{\\vphantom{#3}\\phantom{#2}\\mathclap{#1}\\phantom{#2}}',
   );
   assert.equal(
-    rtqKatexMacros['\\rtqMathsBoxedCellFourDigitsWideSpacer'],
-    '\\phantom{\\rtqMathsBoxedCellFourDigitsWide{}}',
+    rtqKatexMacros['\\rtqMathsBoxedCellTwoDigitsWideOneDigitHigh'],
+    '\\rtqMathsBoxedCellMatching{#1}{0}{0}',
   );
   assert.equal(
-    rtqKatexMacros['\\rtqMathsBoxedCellArrayStyle'],
+    rtqKatexMacros['\\rtqMathsBoxedCellFourDigitsWideFractionHigh'],
+    '\\rtqMathsBoxedCellMatching{#1}{00}{\\dfrac{0}{0}}',
+  );
+  assert.equal(
+    rtqKatexMacros['\\rtqMathsBoxedCellFourDigitsWideFractionHighSpacer'],
+    '\\phantom{\\rtqMathsBoxedCellFourDigitsWideFractionHigh{}}',
+  );
+  assert.equal(
+    rtqKatexMacros['\\rtqMathsBoxedCellArrayOneDigitHighStyle'],
+    '\\def\\arraystretch{1.5}',
+  );
+  assert.equal(
+    rtqKatexMacros['\\rtqMathsBoxedCellArrayFractionHighStyle'],
     '\\def\\arraystretch{2.5}',
   );
   assert.equal(rtqKatexMacros['\\rtqMathsBoxedCellSeparator'], '\\enspace');
-  assert.equal(
-    rtqKatexMacros['\\rtqMathsNumberTowerCellFourDigitsWide'],
-    '\\rtqMathsBoxedCellFourDigitsWide{#1}',
-  );
   assert.equal(
     rtqKatexMacros['\\rtqMathsNumberTowerCellSeparator'],
     '\\rtqMathsBoxedCellSeparator',
   );
   assert.equal(
-    rtqKatexMacros['\\rtqMathsNumberTowerStyle'],
-    '\\rtqMathsBoxedCellArrayStyle',
+    rtqKatexMacros['\\rtqMathsNumberTowerOneDigitHighStyle'],
+    '\\rtqMathsBoxedCellArrayOneDigitHighStyle',
+  );
+  assert.equal(
+    rtqKatexMacros['\\rtqMathsNumberTowerFractionHighStyle'],
+    '\\rtqMathsBoxedCellArrayFractionHighStyle',
   );
   assert.equal(
     rtqKatexMacros['\\rtqMathsSymbolTrianglePendingReview'],
@@ -123,9 +135,9 @@ test('renders the pound wrapper', () => {
   assert.match(html, /£/);
 });
 
-test('renders fixed-geometry number towers with shared spacing controls', () => {
+test('renders explicit boxed-cell width and height combinations', () => {
   const html = katex.renderToString(
-    String.raw`\rtqMathsNumberTowerStyle\begin{array}{c}\rtqMathsNumberTowerCellTwoDigitsWide{7}\\\rtqMathsNumberTowerCellFourDigitsWide{34}\rtqMathsNumberTowerCellSeparator\rtqMathsNumberTowerCellFourDigitsWide{}\end{array}\quad\rtqMathsBoxedCellArrayStyle\begin{array}{l}\rtqMathsBoxedCellFourDigitsWide{}\\\rtqMathsBoxedCellFourDigitsWide{}\\\rtqMathsBoxedCellFourDigitsWide{1}\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWide{\rtqMathsSymbolAsterisk}\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWide{4}\\\rtqMathsBoxedCellFourDigitsWideSpacer\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideSpacer\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWide{}\\\rtqMathsBoxedCellFourDigitsWideSpacer\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideSpacer\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWide{2}\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWide{}\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWide{}\end{array}`,
+    String.raw`\rtqMathsNumberTowerOneDigitHighStyle\begin{array}{c}\rtqMathsBoxedCellTwoDigitsWideOneDigitHigh{7}\\\rtqMathsBoxedCellTwoDigitsWideOneDigitHigh{34}\rtqMathsNumberTowerCellSeparator\rtqMathsBoxedCellTwoDigitsWideOneDigitHigh{}\end{array}\quad\rtqMathsBoxedCellArrayFractionHighStyle\begin{array}{l}\rtqMathsBoxedCellFourDigitsWideFractionHigh{}\\\rtqMathsBoxedCellFourDigitsWideFractionHigh{}\\\rtqMathsBoxedCellFourDigitsWideFractionHigh{1}\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideFractionHigh{\rtqMathsSymbolAsterisk}\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideFractionHigh{4}\\\rtqMathsBoxedCellFourDigitsWideFractionHighSpacer\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideFractionHighSpacer\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideFractionHigh{}\\\rtqMathsBoxedCellFourDigitsWideFractionHighSpacer\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideFractionHighSpacer\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideFractionHigh{2}\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideFractionHigh{}\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideFractionHigh{}\end{array}`,
     { ...rtqKatexOptions, throwOnError: true },
   );
 

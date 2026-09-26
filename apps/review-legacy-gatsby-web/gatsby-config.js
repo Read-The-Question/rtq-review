@@ -3,24 +3,20 @@
  */
 const rtqKatexMacros = {
   "\\rtqMathsBoxedCellMatching":
-    "\\boxed{\\vphantom{\\dfrac{0}{0}}\\phantom{#2}\\mathclap{#1}\\phantom{#2}}",
-  "\\rtqMathsBoxedCellTwoDigitsWide":
-    "\\rtqMathsBoxedCellMatching{#1}{0}",
-  "\\rtqMathsBoxedCellFourDigitsWide":
-    "\\rtqMathsBoxedCellMatching{#1}{00}",
-  "\\rtqMathsBoxedCellTwoDigitsWideSpacer":
-    "\\phantom{\\rtqMathsBoxedCellTwoDigitsWide{}}",
-  "\\rtqMathsBoxedCellFourDigitsWideSpacer":
-    "\\phantom{\\rtqMathsBoxedCellFourDigitsWide{}}",
-  "\\rtqMathsBoxedCellArrayStyle": "\\def\\arraystretch{2.5}",
+    "\\boxed{\\vphantom{#3}\\phantom{#2}\\mathclap{#1}\\phantom{#2}}",
+  "\\rtqMathsBoxedCellTwoDigitsWideOneDigitHigh":
+    "\\rtqMathsBoxedCellMatching{#1}{0}{0}",
+  "\\rtqMathsBoxedCellFourDigitsWideFractionHigh":
+    "\\rtqMathsBoxedCellMatching{#1}{00}{\\dfrac{0}{0}}",
+  "\\rtqMathsBoxedCellFourDigitsWideFractionHighSpacer":
+    "\\phantom{\\rtqMathsBoxedCellFourDigitsWideFractionHigh{}}",
+  "\\rtqMathsBoxedCellArrayOneDigitHighStyle": "\\def\\arraystretch{1.5}",
+  "\\rtqMathsBoxedCellArrayFractionHighStyle": "\\def\\arraystretch{2.5}",
   "\\rtqMathsBoxedCellSeparator": "\\enspace",
-  "\\rtqMathsNumberTowerCellMatching":
-    "\\rtqMathsBoxedCellMatching{#1}{#2}",
-  "\\rtqMathsNumberTowerCellTwoDigitsWide":
-    "\\rtqMathsBoxedCellTwoDigitsWide{#1}",
-  "\\rtqMathsNumberTowerCellFourDigitsWide":
-    "\\rtqMathsBoxedCellFourDigitsWide{#1}",
-  "\\rtqMathsNumberTowerStyle": "\\rtqMathsBoxedCellArrayStyle",
+  "\\rtqMathsNumberTowerOneDigitHighStyle":
+    "\\rtqMathsBoxedCellArrayOneDigitHighStyle",
+  "\\rtqMathsNumberTowerFractionHighStyle":
+    "\\rtqMathsBoxedCellArrayFractionHighStyle",
   "\\rtqMathsNumberTowerCellSeparator": "\\rtqMathsBoxedCellSeparator",
   "\\rtqMathsBespokeSymbolFourPanePictogramFull":
     "\\mathord{\\begin{matrix}\\square\\square\\\\\\square\\square\\end{matrix}}",

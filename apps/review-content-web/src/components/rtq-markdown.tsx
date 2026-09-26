@@ -6,6 +6,7 @@ import {
   remarkPaperList,
   remarkPaperListMdx,
   remarkPaperSmall,
+  remarkPaperStructuredTable,
   remarkPaperSymbol,
   remarkPaperTable,
 } from '@rtq/review-paper-markdown';
@@ -41,6 +42,7 @@ export function RtqMarkdown({ markdown }: { markdown: string }) {
           remarkPaperListMdx,
           remarkPaperAuthorNote,
           remarkPaperTable,
+          remarkPaperStructuredTable,
           remarkPaperList,
           remarkPaperSmall,
           remarkPaperSymbol,

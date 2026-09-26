@@ -13,6 +13,9 @@ import {
   RTQ_COLUMNAR_ARITHMETIC_STYLE_MACRO,
   RTQ_COLUMNAR_DECIMAL_POINT_EXPANSION,
   RTQ_COLUMNAR_DECIMAL_POINT_MACRO,
+  RTQ_CELL_LABEL_NUMBER_CLASS,
+  RTQ_CELL_LABEL_NUMBER_EXPANSION,
+  RTQ_CELL_LABEL_NUMBER_MACRO,
   RTQ_DIGIT_GROUP_SEPARATOR_EXPANSION,
   RTQ_DIGIT_GROUP_SEPARATOR_MACRO,
   RTQ_EQUATION_NUMBER_CLASS,
@@ -65,6 +68,9 @@ test("matches the canonical rtq-content shared macro contracts", () => {
   const equationNumber = contract.macros.find(
     ({ name }) => name === RTQ_EQUATION_NUMBER_MACRO,
   );
+  const cellLabelNumber = contract.macros.find(
+    ({ name }) => name === RTQ_CELL_LABEL_NUMBER_MACRO,
+  );
   const columnarArithmeticStyle = contract.macros.find(
     ({ name }) => name === RTQ_COLUMNAR_ARITHMETIC_STYLE_MACRO,
   );
@@ -93,6 +99,11 @@ test("matches the canonical rtq-content shared macro contracts", () => {
     expansion: RTQ_EQUATION_NUMBER_EXPANSION,
     name: RTQ_EQUATION_NUMBER_MACRO,
     semanticClass: RTQ_EQUATION_NUMBER_CLASS,
+  });
+  assert.deepEqual(cellLabelNumber, {
+    expansion: RTQ_CELL_LABEL_NUMBER_EXPANSION,
+    name: RTQ_CELL_LABEL_NUMBER_MACRO,
+    semanticClass: RTQ_CELL_LABEL_NUMBER_CLASS,
   });
   assert.deepEqual(columnarArithmeticStyle, {
     expansion: RTQ_COLUMNAR_ARITHMETIC_STYLE_EXPANSION,
@@ -549,8 +560,26 @@ test("renders equation numbers consistently in display and inline maths", () => 
   }
 });
 
+test("renders cell label numbers without changing their inherited size", () => {
+  const html = katex.renderToString(
+    String.raw`\rtqMathsCellLabelNumber{7}`,
+    options,
+  );
+  const text = html.replace(/<[^>]+>/g, "");
+
+  assert.match(html, new RegExp(`class="[^"]*${RTQ_CELL_LABEL_NUMBER_CLASS}`));
+  assert.ok(text.includes("7"));
+  assert.doesNotMatch(text, /\(7\)/);
+  assert.doesNotMatch(html, /class="[^"]*size[1-9]/);
+  assert.doesNotMatch(html, /(?:color:|#[\da-f]{3,8})/i);
+});
+
 test("trusts only canonical semantic classes", () => {
-  for (const className of [RTQ_EQUATION_NUMBER_CLASS, RTQ_WORKING_STEP_CLASS]) {
+  for (const className of [
+    RTQ_CELL_LABEL_NUMBER_CLASS,
+    RTQ_EQUATION_NUMBER_CLASS,
+    RTQ_WORKING_STEP_CLASS,
+  ]) {
     assert.equal(
       options.trust({ class: className, command: "\\htmlClass" }),
       true,

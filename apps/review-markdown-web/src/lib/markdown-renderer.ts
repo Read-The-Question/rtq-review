@@ -1,7 +1,13 @@
 import { getRtqReviewKatexOptions } from '@rtq/review-katex-options';
 import {
+  rehypePaperTable,
   remarkPaperAuthorNote,
   remarkPaperList,
+  remarkPaperListMdx,
+  remarkPaperNativeMdx,
+  remarkPaperStructuredTable,
+  remarkPaperTable,
+  toPaperMdxCompatibilityMarkdown,
   toPaperSymbolCompatibilityMarkdown,
 } from '@rtq/review-paper-markdown';
 import rehypeKatex from 'rehype-katex';
@@ -17,15 +23,22 @@ export async function renderMarkdownToHtml(
   markdown: string,
   macros: Record<string, string>,
 ) {
-  const preparedMarkdown = toPaperSymbolCompatibilityMarkdown(markdown);
+  const preparedMarkdown = toPaperMdxCompatibilityMarkdown(
+    toPaperSymbolCompatibilityMarkdown(markdown),
+  );
   const file = await unified()
     .use(remarkParse)
     .use(remarkGfm)
     .use(remarkMath)
+    .use(remarkPaperListMdx)
     .use(remarkPaperAuthorNote)
+    .use(remarkPaperTable)
+    .use(remarkPaperStructuredTable)
     .use(remarkPaperList)
+    .use(remarkPaperNativeMdx)
     .use(remarkRehype, { allowDangerousHtml: true })
     .use(rehypeRaw)
+    .use(rehypePaperTable)
     .use(rehypeKatex as never, getRtqReviewKatexOptions(macros) as never)
     .use(rehypeStringify, { allowDangerousHtml: true })
     .process(preparedMarkdown);

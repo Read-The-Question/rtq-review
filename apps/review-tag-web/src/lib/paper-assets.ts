@@ -4,11 +4,10 @@ import path from 'node:path';
 
 import {
   toPaperListCompatibilityMarkdown,
+  toPaperMdxCompatibilityMarkdown,
   toPaperSymbolCompatibilityMarkdown,
 } from '@rtq/review-paper-markdown';
-import {
-  validatePaperListMarkdown,
-} from '@rtq/review-paper-markdown/validate';
+import { validatePaperListMarkdown } from '@rtq/review-paper-markdown/validate';
 
 import {
   PAPER_IMAGE_EXTENSIONS,
@@ -826,7 +825,8 @@ export function enrichRtqMarkdown(
   const withPaperLists = toPaperListCompatibilityMarkdown(text);
   const withPaperSymbols = toPaperSymbolCompatibilityMarkdown(withPaperLists);
   const withPaperTables = normalizePaperTableMarkdown(withPaperSymbols);
-  const withWorkingSections = replaceWorkingSections(withPaperTables);
+  const withMdxCompatibility = toPaperMdxCompatibilityMarkdown(withPaperTables);
+  const withWorkingSections = replaceWorkingSections(withMdxCompatibility);
   const assetScope = options?.scopeType ?? 'question';
   if (assetScope !== 'question' && options?.scopeIndex === undefined) {
     throw new Error(`${assetScope} image resolution requires scopeIndex.`);

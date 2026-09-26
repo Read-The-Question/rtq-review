@@ -3,17 +3,26 @@ import fs from 'node:fs/promises';
 import test from 'node:test';
 
 import {
+  rehypePaperTable,
   remarkPaperAuthorNote,
   remarkPaperList,
+  remarkPaperListMdx,
+  remarkPaperNativeMdx,
+  remarkPaperStructuredTable,
+  remarkPaperTable,
   toPaperListCompatibilityMarkdown,
+  toPaperMdxCompatibilityMarkdown,
 } from '@rtq/review-paper-markdown';
 import { validatePaperListMarkdown } from '@rtq/review-paper-markdown/validate';
 import { createElement } from 'react';
 import { renderToStaticMarkup } from 'react-dom/server';
 import ReactMarkdown from 'react-markdown';
+import rehypeKatex from 'rehype-katex';
 import rehypeRaw from 'rehype-raw';
 import remarkGfm from 'remark-gfm';
 import remarkMath from 'remark-math';
+
+import { rtqKatexOptions } from './rtq-katex.ts';
 
 const sourceRoot = new URL('..', import.meta.url);
 
@@ -22,15 +31,23 @@ function render(markdown: string) {
     createElement(
       ReactMarkdown,
       {
-        rehypePlugins: [rehypeRaw],
+        rehypePlugins: [
+          rehypePaperTable,
+          rehypeRaw,
+          [rehypeKatex, rtqKatexOptions],
+        ],
         remarkPlugins: [
           remarkGfm,
           remarkMath,
+          remarkPaperListMdx,
           remarkPaperAuthorNote,
+          remarkPaperTable,
+          remarkPaperStructuredTable,
           remarkPaperList,
+          remarkPaperNativeMdx,
         ],
       },
-      markdown,
+      toPaperMdxCompatibilityMarkdown(markdown),
     ),
   );
 }
@@ -52,6 +69,32 @@ test('renders validated PaperList markers with isolated list semantics', () => {
   assert.match(html, /<ol start="3" style="list-style-type:upper-alpha">/);
   assert.match(html, /<ul>\s*<li>Native nested list<\/li>\s*<\/ul>/);
   assert.doesNotMatch(html, /PaperList|listStyleType/);
+});
+
+test('renders a complete structured table for tag review', () => {
+  const html = render(
+    [
+      '<PaperViewStructuredTable aria-label="Crossnumber" cellAlign="center" density="roomy" grid="framed">',
+      '  <PaperViewTableCaption>Number grid</PaperViewTableCaption>',
+      '  <PaperViewTableHead><PaperViewTableRow><PaperViewTableHeaderCell scope="col">Column</PaperViewTableHeaderCell></PaperViewTableRow></PaperViewTableHead>',
+      '  <PaperViewTableBody><PaperViewTableRow>',
+      '    <PaperViewTableCell tone="muted" />',
+      '    <PaperViewTableCell><PaperViewTableCellLabel>$\\rtqMathsCellLabelNumber{1}$</PaperViewTableCellLabel>$49$</PaperViewTableCell>',
+      '  </PaperViewTableRow></PaperViewTableBody>',
+      '</PaperViewStructuredTable>',
+    ].join('\n'),
+  );
+
+  assert.match(html, /class="rtq-paper-table"/);
+  assert.match(html, /data-cell-align="center"/);
+  assert.match(html, /data-density="roomy"/);
+  assert.match(html, /data-grid="framed"/);
+  assert.match(html, /<caption>Number grid<\/caption>/);
+  assert.match(html, /<th scope="col">Column<\/th>/);
+  assert.match(html, /<td data-tone="muted"><\/td>/);
+  assert.match(html, /data-paper-table-cell-label=""/);
+  assert.match(html, /class="katex"/);
+  assert.match(html, /rtq-maths-cell-label-number/);
 });
 
 test('renders prepared PaperTable separators and multiline LongDivision SVG markup', () => {
@@ -108,10 +151,14 @@ test('uses the shared contract at the central read-only Tag Web boundaries', asy
   assert.match(assets, /validatePaperListMarkdown\(text\)/);
   assert.match(assets, /toPaperListCompatibilityMarkdown\(text\)/);
   assert.match(assets, /toPaperSymbolCompatibilityMarkdown\(withPaperLists\)/);
-  assert.doesNotMatch(component, /remarkPaperListMdx/);
+  assert.match(assets, /toPaperMdxCompatibilityMarkdown\(withPaperTables\)/);
+  assert.match(component, /remarkPaperListMdx/);
+  assert.match(component, /remarkPaperStructuredTable/);
+  assert.match(component, /rehypePaperTable/);
   assert.match(component, /remarkPaperList/);
   assert.match(css, /\.rtq-markdown ul\s*{[^}]*list-style-type:\s*disc/s);
   assert.match(css, /\.rtq-markdown ol\s*{[^}]*list-style-type:\s*decimal/s);
+  assert.match(css, /@import '@rtq\/review-paper-markdown\/paper-table\.css'/);
   assert.doesNotMatch(css, /\.rtq-markdown ul ul\s*{[^}]*lower-alpha/s);
   assert.match(data, /children: await buildSubquestionNodes/);
   assert.match(data, /formulas: await Promise\.all/);

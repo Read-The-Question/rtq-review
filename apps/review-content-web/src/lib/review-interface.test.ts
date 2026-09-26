@@ -569,7 +569,9 @@ test('review Markdown uses the shared Paper component contracts', async () => {
   assert.match(markdown, /remarkPaperSmall/);
   assert.match(markdown, /remarkPaperSymbol/);
   assert.match(markdown, /remarkPaperTable/);
+  assert.match(markdown, /remarkPaperStructuredTable/);
   assert.match(markdown, /rehypePaperTable/);
+  assert.match(css, /@import '@rtq\/review-paper-markdown\/paper-table\.css'/);
   assert.match(preparation, /preparePaperTableMarkdown/);
   assert.match(
     preparation,

@@ -460,19 +460,41 @@ function resolvedDataValue<Name extends PaperTablePropName>(
     : PAPER_TABLE_DEFAULTS[name];
 }
 
+function directDataValue(table: AstNode, name: PaperTablePropName): unknown {
+  const propertyName = name.replace(
+    /[A-Z]/g,
+    (letter) => `-${letter.toLowerCase()}`,
+  );
+  const value = getDataProperty(table, propertyName);
+  return value ?? PAPER_TABLE_DEFAULTS[name];
+}
+
 function prepareHastTable(table: AstNode): AstNode {
   const configured = hasDataProperty(table, "paper-table");
-  const config = Object.fromEntries(
+  const structured = hasDataProperty(table, "paper-structured-table");
+  const gfmConfig = Object.fromEntries(
     PAPER_TABLE_PROP_NAMES.map((name) => [
       name,
       resolvedDataValue(table, name),
     ]),
   ) as PaperTableConfig;
+  const renderConfig = structured
+    ? Object.fromEntries(
+        PAPER_TABLE_PROP_NAMES.map((name) => [
+          name,
+          directDataValue(table, name),
+        ]),
+      )
+    : gfmConfig;
   const cellAlignAuthored = hasDataProperty(table, "cell-align-authored");
 
-  if (configured) {
-    applyColumnHeaderSemantics(table, config.columnHeaders, config.blankCorner);
-    applyRowHeaderSemantics(table, config.rowHeaders);
+  if (configured && !structured) {
+    applyColumnHeaderSemantics(
+      table,
+      gfmConfig.columnHeaders,
+      gfmConfig.blankCorner,
+    );
+    applyRowHeaderSemantics(table, gfmConfig.rowHeaders);
   }
 
   for (const name of [
@@ -486,6 +508,7 @@ function prepareHastTable(table: AstNode): AstNode {
     "grid",
     "indent",
     "paper-table",
+    "paper-structured-table",
     "row-headers",
     "width",
   ]) {
@@ -496,16 +519,16 @@ function prepareHastTable(table: AstNode): AstNode {
     children: [table],
     properties: {
       className: ["rtq-paper-table"],
-      dataAlign: config.align,
-      dataBlankCorner: config.blankCorner,
-      dataCellAlign: config.cellAlign,
+      dataAlign: renderConfig.align,
+      dataBlankCorner: renderConfig.blankCorner,
+      dataCellAlign: renderConfig.cellAlign,
       ...(cellAlignAuthored ? { dataCellAlignAuthored: "" } : {}),
-      dataDensity: config.density,
-      dataFirstColumnStartPadding: config.firstColumnStartPadding,
-      dataGrid: config.grid,
-      dataIndent: config.indent,
-      ...(configured ? { dataPaperTable: "" } : {}),
-      dataWidth: config.width,
+      dataDensity: renderConfig.density,
+      dataFirstColumnStartPadding: renderConfig.firstColumnStartPadding,
+      dataGrid: renderConfig.grid,
+      dataIndent: renderConfig.indent,
+      ...(configured || structured ? { dataPaperTable: "" } : {}),
+      dataWidth: renderConfig.width,
     },
     tagName: "div",
     type: "element",

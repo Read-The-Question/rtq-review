@@ -5,6 +5,7 @@
   "type": "module",
   "exports": {
     ".": "./src/index.ts",
+    "./paper-table.css": "./src/paper-table.css",
     "./validate": "./src/validate.ts"
   },
   "scripts": {

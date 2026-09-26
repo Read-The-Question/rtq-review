@@ -18,6 +18,10 @@ export const PAPER_LIST_STYLE_TYPES = [
 export type PaperListStyleType = (typeof PAPER_LIST_STYLE_TYPES)[number];
 
 type MdxElement = Extract<RootContent, { type: "mdxJsxFlowElement" }>;
+type MdxCompatibilityElement = Extract<
+  RootContent,
+  { type: "mdxJsxFlowElement" | "mdxJsxTextElement" }
+>;
 
 type PaperListData = Data &
   Readonly<{
@@ -251,6 +255,17 @@ function configureNativeList(list: List, authoredStyle: unknown): List {
 
 function compatibilityListStyleType(node: RootContent): unknown | undefined {
   if (
+    (node.type === "mdxJsxFlowElement" || node.type === "mdxJsxTextElement") &&
+    node.name === "PaperListCompatibility"
+  ) {
+    const marker = node as MdxCompatibilityElement;
+    return marker.attributes?.find(
+      (attribute) =>
+        attribute.type === "mdxJsxAttribute" &&
+        attribute.name === "listStyleType",
+    )?.value;
+  }
+  if (
     node.type !== "html" ||
     !node.value.includes(PAPER_LIST_COMPATIBILITY_KEY)
   ) {
@@ -304,5 +319,6 @@ export { remarkMdx as remarkPaperListMdx };
 
 export * from "./paper-author-note.ts";
 export * from "./paper-small.ts";
+export * from "./paper-structured-table.ts";
 export * from "./paper-symbol.ts";
 export * from "./paper-table.ts";

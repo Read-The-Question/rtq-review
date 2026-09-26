@@ -64,3 +64,56 @@ both authored and raw GFM tables in the same defaulted presentation boundary.
 Run `validatePaperTableMarkdown` from `@rtq/review-paper-markdown/validate` at
 the server preparation boundary so invalid TOML becomes a reviewer-facing
 issue before client rendering.
+
+## PaperViewStructuredTable
+
+`PaperViewStructuredTable` is the direct-composition alternative for tables that
+GFM cannot express. It supports `PaperViewTableCaption`, `PaperViewTableHead`,
+`PaperViewTableBody`, `PaperViewTableRow`, `PaperViewTableHeaderCell`, `PaperViewTableCell`,
+and `PaperViewTableCellLabel`.
+
+`remarkPaperStructuredTable` lowers these components to native `table`,
+`caption`, `thead`, `tbody`, `tr`, `th`, `td`, and `span` elements. It does not
+validate child order, row lengths, column counts, or presentation values. That
+is an intentional difference from the validated `PaperTable` GFM path.
+
+The structured root supports `align`, `cellAlign`, `density`,
+`firstColumnStartPadding`, `grid`, `indent`, and `width`.
+`PaperViewTableCell` supports `tone="default|muted"`.
+`PaperViewTableCellLabel` preserves ordinary Markdown/MDX children, including
+maths and empty-value geometry handled by the application's KaTeX plugins. It
+provides the default subordinate label size without imposing a semantic colour.
+Use `\rtqMathsCellLabelNumber{number}` for a muted numeric cell label.
+
+Both table paths pass through `rehypePaperTable`, which adds one
+`.rtq-paper-table` presentation wrapper. Applications import the shared
+essential presentation contract. It also gives adjacent table wrappers the
+same default relationship spacing used by production paper rich text:
+
+```css
+@import "@rtq/review-paper-markdown/paper-table.css";
+```
+
+Register `remarkPaperListMdx` before the paper component transforms so MDX
+elements exist in the syntax tree:
+
+```ts
+remarkPlugins: [
+  remarkGfm,
+  remarkMath,
+  remarkPaperListMdx,
+  remarkPaperTable,
+  remarkPaperStructuredTable,
+];
+
+rehypePlugins: [rehypePaperTable, rehypeKatex];
+```
+
+Legacy renderers that also contain generated HTML compatibility markup use
+`toPaperMdxCompatibilityMarkdown` before parsing and `remarkPaperNativeMdx`
+after the paper transforms. These adapters preserve package-owned comment
+metadata and lowercase native elements; they are not part of the
+structured-table validation contract.
+
+The canonical author-facing syntax and examples live in
+`rtq-content/packages/papers/docs/architecture/paper-table-authoring.md`.

@@ -1,10 +1,15 @@
 export const RTQ_EQUATION_NUMBER_CLASS = "rtq-maths-equation-number" as const;
+export const RTQ_CELL_LABEL_NUMBER_CLASS =
+  "rtq-maths-cell-label-number" as const;
 export const RTQ_WORKING_STEP_CLASS = "rtq-maths-working-step" as const;
 
 export const RTQ_EQUATION_NUMBER_MACRO = "\\rtqMathsEquationNumber" as const;
+export const RTQ_CELL_LABEL_NUMBER_MACRO = "\\rtqMathsCellLabelNumber" as const;
 
 export const RTQ_EQUATION_NUMBER_EXPANSION =
   "\\htmlClass{rtq-maths-equation-number}{\\footnotesize{(#1)}}" as const;
+export const RTQ_CELL_LABEL_NUMBER_EXPANSION =
+  "\\htmlClass{rtq-maths-cell-label-number}{#1}" as const;
 
 export const RTQ_COLUMNAR_ARITHMETIC_STYLE_MACRO =
   "\\rtqMathsColumnarArithmeticStyle" as const;
@@ -169,6 +174,7 @@ type KatexTrustContext = Readonly<{
 }>;
 
 const RTQ_TRUSTED_SEMANTIC_CLASSES = new Set<string>([
+  RTQ_CELL_LABEL_NUMBER_CLASS,
   RTQ_EQUATION_NUMBER_CLASS,
   RTQ_WORKING_STEP_CLASS,
 ]);
@@ -191,6 +197,7 @@ export function getRtqReviewKatexOptions<
   return {
     macros: {
       ...reviewerMacros,
+      [RTQ_CELL_LABEL_NUMBER_MACRO]: RTQ_CELL_LABEL_NUMBER_EXPANSION,
       [RTQ_EQUATION_NUMBER_MACRO]: RTQ_EQUATION_NUMBER_EXPANSION,
       [RTQ_COLUMNAR_ARITHMETIC_STYLE_MACRO]:
         RTQ_COLUMNAR_ARITHMETIC_STYLE_EXPANSION,
@@ -199,8 +206,7 @@ export function getRtqReviewKatexOptions<
       ...RTQ_ELLIPSIS_EMPTY_MACROS,
       [RTQ_SEQUENCE_ELLIPSIS_MACRO]: RTQ_SEQUENCE_ELLIPSIS_EXPANSION,
       [RTQ_TABLE_NO_VALUE_MACRO]: RTQ_TABLE_NO_VALUE_EXPANSION,
-      [RTQ_DIGIT_GROUP_SEPARATOR_MACRO]:
-        RTQ_DIGIT_GROUP_SEPARATOR_EXPANSION,
+      [RTQ_DIGIT_GROUP_SEPARATOR_MACRO]: RTQ_DIGIT_GROUP_SEPARATOR_EXPANSION,
       [RTQ_TIME_SEPARATOR_MACRO]: RTQ_TIME_SEPARATOR_EXPANSION,
       [RTQ_RATIO_SEPARATOR_MACRO]: RTQ_RATIO_SEPARATOR_EXPANSION,
       ...RTQ_SPACING_MACROS,

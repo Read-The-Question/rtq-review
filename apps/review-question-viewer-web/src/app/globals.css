@@ -1,4 +1,5 @@
 @import 'tailwindcss';
+@import '@rtq/review-paper-markdown/paper-table.css';
 @import 'katex/dist/katex.min.css';
 
 :root {

@@ -1,0 +1,208 @@
+.rtq-paper-table {
+  --rtq-paper-table-rule-anchor: var(
+    --line-strong,
+    var(--rule-strong, currentColor)
+  );
+  --rtq-paper-table-rule-header: var(
+    --line-strong,
+    var(--rule-strong, currentColor)
+  );
+  --rtq-paper-table-rule-row: var(--line, var(--rule, currentColor));
+  --rtq-paper-table-rule-column: var(--line, var(--rule, currentColor));
+  --rtq-paper-table-muted-surface: color-mix(
+    in srgb,
+    currentColor 8%,
+    transparent
+  );
+
+  max-width: 100%;
+  overflow-x: auto;
+  width: 100%;
+}
+
+.rtq-paper-table + .rtq-paper-table {
+  margin-block-start: var(--rtq-paper-rich-text-table-space, 1.75rem);
+}
+
+.rtq-maths-cell-label-number,
+.rtq-maths-equation-number {
+  color: var(--muted, currentColor);
+}
+
+.rtq-paper-table.rtq-paper-table table {
+  border-collapse: collapse;
+  color: inherit;
+  display: table;
+  font-variant-numeric: tabular-nums;
+  line-height: 1.3125rem;
+  table-layout: auto;
+}
+
+.rtq-paper-table[data-width="fit"] table {
+  width: auto;
+}
+
+.rtq-paper-table[data-width="full"] table {
+  width: 100%;
+}
+
+.rtq-paper-table[data-align="start"] table {
+  margin-inline: 0 auto;
+}
+
+.rtq-paper-table[data-align="center"] table {
+  margin-inline: auto;
+}
+
+.rtq-paper-table[data-align="end"] table {
+  margin-inline: auto 0;
+}
+
+.rtq-paper-table.rtq-paper-table :where(th, td) {
+  border: 0;
+  padding-block: 0.5rem;
+  padding-inline: 1rem;
+  position: relative;
+  text-align: center;
+}
+
+.rtq-paper-table thead th {
+  font-weight: 650;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+.rtq-paper-table tbody :where(th, td) {
+  vertical-align: top;
+}
+
+.rtq-paper-table tbody th[scope="row"] {
+  font-weight: 650;
+  text-align: start;
+}
+
+.rtq-paper-table[data-cell-align-authored][data-cell-align="center"]
+  :where(th, td) {
+  text-align: center;
+}
+
+.rtq-paper-table[data-cell-align-authored][data-cell-align="left"]
+  :where(th, td) {
+  text-align: left;
+}
+
+.rtq-paper-table[data-cell-align-authored][data-cell-align="right"]
+  :where(th, td) {
+  text-align: right;
+}
+
+.rtq-paper-table[data-density="compact"] table {
+  font-size: 0.8125rem;
+  line-height: 1.25rem;
+}
+
+.rtq-paper-table[data-density="compact"] :where(th, td) {
+  padding-block: 0.25rem;
+  padding-inline: 0.75rem;
+}
+
+.rtq-paper-table[data-density="roomy"] table {
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+
+.rtq-paper-table[data-density="roomy"] :where(th, td) {
+  padding-block: 0.75rem;
+  padding-inline: 1.25rem;
+}
+
+.rtq-paper-table[data-first-column-start-padding="none"]
+  tr
+  > :where(th, td):first-child {
+  padding-inline-start: 0;
+}
+
+.rtq-paper-table [data-tone="muted"] {
+  background: var(--rtq-paper-table-muted-surface);
+}
+
+.rtq-paper-table [data-paper-table-cell-label] {
+  font-size: 0.75rem;
+  inset-block-start: 0.25rem;
+  inset-inline-start: 0.25rem;
+  line-height: 1;
+  position: absolute;
+}
+
+.rtq-paper-table:is(
+    [data-grid="rows"],
+    [data-grid="horizontal"],
+    [data-grid="interior"],
+    [data-grid="framed"]
+  )
+  thead
+  > tr
+  > th {
+  border-block-end: 1px solid var(--rtq-paper-table-rule-header);
+}
+
+.rtq-paper-table:is(
+    [data-grid="rows"],
+    [data-grid="horizontal"],
+    [data-grid="interior"],
+    [data-grid="framed"]
+  )
+  tbody
+  > tr:not(:last-child)
+  > :where(th, td) {
+  border-block-end: 1px solid var(--rtq-paper-table-rule-row);
+}
+
+.rtq-paper-table:is(
+    [data-grid="horizontal"],
+    [data-grid="interior"],
+    [data-grid="framed"]
+  )
+  table {
+  border-block: 1.5px solid var(--rtq-paper-table-rule-anchor);
+}
+
+.rtq-paper-table:is(
+    [data-grid="vertical"],
+    [data-grid="interior"],
+    [data-grid="framed"]
+  )
+  tr
+  > :where(th, td):not(:last-child) {
+  border-inline-end: 1px solid var(--rtq-paper-table-rule-column);
+}
+
+.rtq-paper-table[data-grid="framed"] table {
+  border-inline: 1px solid var(--rtq-paper-table-rule-anchor);
+}
+
+.rtq-paper-table[data-blank-corner="open"]
+  thead
+  > tr:first-child
+  > th:first-child {
+  border-block-end: 0;
+  border-inline-end: 0;
+}
+
+.rtq-paper-table[data-indent="sm"] {
+  padding-inline-start: 0.75rem;
+}
+
+.rtq-paper-table[data-indent="md"] {
+  padding-inline-start: 1rem;
+}
+
+@media (min-width: 40rem) {
+  .rtq-paper-table[data-indent="sm"] {
+    padding-inline-start: 1rem;
+  }
+
+  .rtq-paper-table[data-indent="md"] {
+    padding-inline-start: 2rem;
+  }
+}

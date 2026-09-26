@@ -5,6 +5,7 @@ import test from 'node:test';
 import {
   rehypePaperTable,
   remarkPaperListMdx,
+  remarkPaperStructuredTable,
   remarkPaperTable,
 } from '@rtq/review-paper-markdown';
 import { createElement } from 'react';
@@ -28,6 +29,7 @@ function render(markdown: string): string {
           remarkMath,
           remarkPaperListMdx,
           remarkPaperTable,
+          remarkPaperStructuredTable,
         ],
       },
       markdown,
@@ -95,6 +97,36 @@ test('renders raw GFM tables with the RTQ web defaults', () => {
   assert.match(html, /data-grid="horizontal"/);
   assert.match(html, /data-width="fit"/);
   assert.doesNotMatch(html, /data-paper-table/);
+});
+
+test('renders a complete structured table with review presentation metadata', () => {
+  const html = render(
+    [
+      '<PaperViewStructuredTable aria-label="Crossnumber" cellAlign="center" density="roomy" grid="framed">',
+      '  <PaperViewTableCaption>Number grid</PaperViewTableCaption>',
+      '  <PaperViewTableHead><PaperViewTableRow><PaperViewTableHeaderCell scope="col">Column</PaperViewTableHeaderCell></PaperViewTableRow></PaperViewTableHead>',
+      '  <PaperViewTableBody>',
+      '    <PaperViewTableRow>',
+      '      <PaperViewTableCell tone="muted" />',
+      '      <PaperViewTableCell><PaperViewTableCellLabel>$\\rtqMathsCellLabelNumber{1}$</PaperViewTableCellLabel>$49$</PaperViewTableCell>',
+      '    </PaperViewTableRow>',
+      '  </PaperViewTableBody>',
+      '</PaperViewStructuredTable>',
+    ].join('\n'),
+  );
+
+  assert.match(html, /class="rtq-paper-table"/);
+  assert.match(html, /data-cell-align="center"/);
+  assert.match(html, /data-density="roomy"/);
+  assert.match(html, /data-grid="framed"/);
+  assert.match(html, /<caption>Number grid<\/caption>/);
+  assert.match(html, /<thead>/);
+  assert.match(html, /<tbody>/);
+  assert.match(html, /<th scope="col">Column<\/th>/);
+  assert.match(html, /<td data-tone="muted"><\/td>/);
+  assert.match(html, /data-paper-table-cell-label=""/);
+  assert.match(html, /class="katex"/);
+  assert.match(html, /rtq-maths-cell-label-number/);
 });
 
 test('carries the RTQ web layout topology for every grid family', () => {

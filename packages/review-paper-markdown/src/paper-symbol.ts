@@ -165,7 +165,7 @@ function computerSvg(size: PaperSymbolSize): NativeNode {
     "svg",
     {
       "aria-hidden": "true",
-      fill: "none",
+      fill: "currentColor",
       focusable: "false",
       height: sizePx,
       preserveAspectRatio: "xMinYMid meet",
@@ -176,6 +176,7 @@ function computerSvg(size: PaperSymbolSize): NativeNode {
     },
     [
       nativeNode("rect", {
+        fill: "currentColor",
         height: 14,
         rx: 2,
         stroke: "currentColor",
@@ -269,8 +270,8 @@ function paperSymbolHtml(attributesSource: string): string {
 
   return [
     `<span aria-label="${label}" data-paper-symbol="" data-paper-symbol-name="${name}" data-paper-symbol-size="${size}" data-paper-symbol-variant="${variant}" role="img" style="display:inline-flex;flex:none;overflow:hidden;vertical-align:middle;line-height:1;height:${sizePx}px;width:${visibleWidth}px">`,
-    `<svg aria-hidden="true" fill="none" focusable="false" height="${sizePx}" preserveAspectRatio="xMinYMid meet" style="display:block;max-width:none;flex:none" viewBox="0 0 24 24" width="${sizePx}" xmlns="http://www.w3.org/2000/svg">`,
-    '<rect height="14" rx="2" stroke="currentColor" stroke-width="1.5" width="20" x="2" y="3"></rect>',
+    `<svg aria-hidden="true" fill="currentColor" focusable="false" height="${sizePx}" preserveAspectRatio="xMinYMid meet" style="display:block;max-width:none;flex:none" viewBox="0 0 24 24" width="${sizePx}" xmlns="http://www.w3.org/2000/svg">`,
+    '<rect fill="currentColor" height="14" rx="2" stroke="currentColor" stroke-width="1.5" width="20" x="2" y="3"></rect>',
     '<path d="M8 21h8" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
     '<path d="M12 17v4" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
     "</svg></span>",

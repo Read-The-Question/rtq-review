@@ -43,8 +43,8 @@ test("renders atomic symbols and explicit groups inside table cells", async () =
   assert.match(html, /data-paper-symbol-variant="half"/);
   assert.match(html, /height:28px;width:14px/);
   assert.equal(html.match(/<svg/g)?.length, 2);
-  assert.match(html, /<svg[^>]*fill="none"/);
-  assert.doesNotMatch(html, /<rect[^>]*fill="currentColor"/);
+  assert.match(html, /<svg[^>]*fill="currentColor"/);
+  assert.match(html, /<rect[^>]*fill="currentColor"/);
   assert.doesNotMatch(html, /PaperSymbol/);
 });
 
@@ -107,7 +107,7 @@ test("converts symbols for non-MDX renderers without changing fenced examples", 
   assert.match(compatible, /data-paper-symbol-group-gap="md"/);
   assert.match(compatible, /data-paper-symbol-variant="four-fifths"/);
   assert.equal(compatible.match(/<svg/g)?.length, 2);
-  assert.match(compatible, /<svg[^>]*fill="none"/);
+  assert.match(compatible, /<svg[^>]*fill="currentColor"/);
   assert.match(
     compatible,
     /```mdx\n<PaperSymbol name="computer" variant="half" \/>\n```/,

@@ -492,7 +492,7 @@ html[data-rtq-controls-visible='false'] .rtq-document p.review_status {
   padding: 0.35rem 0.55rem;
 }
 
-.rtq-document .katex * {
+.rtq-document .katex {
   color: blue;
 }
 

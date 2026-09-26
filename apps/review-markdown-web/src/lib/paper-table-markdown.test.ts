@@ -49,4 +49,6 @@ test('loads the shared paper-table presentation contract', async () => {
   );
 
   assert.match(css, /@import '@rtq\/review-paper-markdown\/paper-table\.css'/);
+  assert.match(css, /\.rtq-document \.katex\s*\{[^}]*color:\s*blue/s);
+  assert.doesNotMatch(css, /\.rtq-document \.katex \*/);
 });

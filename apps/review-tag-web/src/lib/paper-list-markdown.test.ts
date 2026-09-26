@@ -159,6 +159,8 @@ test('uses the shared contract at the central read-only Tag Web boundaries', asy
   assert.match(css, /\.rtq-markdown ul\s*{[^}]*list-style-type:\s*disc/s);
   assert.match(css, /\.rtq-markdown ol\s*{[^}]*list-style-type:\s*decimal/s);
   assert.match(css, /@import '@rtq\/review-paper-markdown\/paper-table\.css'/);
+  assert.match(css, /\.rtq-markdown \.katex\s*\{[^}]*color:\s*blue/s);
+  assert.doesNotMatch(css, /\.rtq-markdown \.katex \*/);
   assert.doesNotMatch(css, /\.rtq-markdown ul ul\s*{[^}]*lower-alpha/s);
   assert.match(data, /children: await buildSubquestionNodes/);
   assert.match(data, /formulas: await Promise\.all/);

@@ -1220,7 +1220,7 @@ kbd {
   max-width: 100%;
 }
 
-.rtq-markdown .katex * {
+.rtq-markdown .katex {
   color: blue;
 }
 

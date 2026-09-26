@@ -986,7 +986,7 @@ button {
   color: var(--maths-working-remainder);
 }
 
-.rtq-markdown .katex * {
+.rtq-markdown .katex {
   color: blue;
 }
 

@@ -122,6 +122,8 @@ test('integrates through the viewer preparation, raw, and API error boundaries',
   assert.match(css, /\.rtq-markdown ul\s*{[^}]*list-style-type:\s*disc/s);
   assert.match(css, /\.rtq-markdown ol\s*{[^}]*list-style-type:\s*decimal/s);
   assert.match(css, /@import '@rtq\/review-paper-markdown\/paper-table\.css'/);
+  assert.match(css, /\.rtq-markdown \.katex\s*\{[^}]*color:\s*blue/s);
+  assert.doesNotMatch(css, /\.rtq-markdown \.katex \*/);
   assert.match(data, /rawQuestion = asString\(rawNode\.question\)/);
   assert.match(data, /raw:\s*{[\s\S]*answers: rawAnswers/);
   assert.match(data, /formulas: renderedWorkings\.flatMap/);

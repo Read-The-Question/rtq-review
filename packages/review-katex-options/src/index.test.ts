@@ -252,8 +252,8 @@ test("renders ellipsis empty slots through their boxed delegates", () => {
       String.raw`a\rtqMathsBinaryOperatorBoxedEmptyUnknown a`,
     ],
     [
-      String.raw`a\rtqMathsRelationEllipsisEmptyPendingReview a`,
-      String.raw`a\rtqMathsRelationBoxedEmptyPendingReview a`,
+      String.raw`a\rtqMathsRelationEllipsisEmptyUnknown a`,
+      String.raw`a\rtqMathsRelationBoxedEmptyUnknown a`,
     ],
   ] as const;
 
@@ -416,7 +416,7 @@ test("renders boxed operator placeholders with their semantic atom classes", () 
       "mbin",
     ],
     [
-      "\\rtqMathsRelationBoxedEmptyPendingReview",
+      "\\rtqMathsRelationBoxedEmptyUnknown",
       "\\mathrel{\\boxed{\\phantom{=}}}",
       "mrel",
     ],

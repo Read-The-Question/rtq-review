@@ -51,8 +51,8 @@ export const RTQ_ELLIPSIS_EMPTY_MACROS = {
     "\\rtqMathsRelationBoxedEmptyMatching{#1}",
   "\\rtqMathsBinaryOperatorEllipsisEmptyUnknown":
     "\\rtqMathsBinaryOperatorBoxedEmptyUnknown",
-  "\\rtqMathsRelationEllipsisEmptyPendingReview":
-    "\\rtqMathsRelationBoxedEmptyPendingReview",
+  "\\rtqMathsRelationEllipsisEmptyUnknown":
+    "\\rtqMathsRelationBoxedEmptyUnknown",
 } as const;
 
 export const RTQ_SEQUENCE_ELLIPSIS_MACRO =
@@ -127,7 +127,7 @@ export const RTQ_BOXED_VALUE_MACROS = {
   "\\rtqMathsRelationBoxedEmptyMatching": "\\mathrel{\\boxed{\\phantom{#1}}}",
   "\\rtqMathsBinaryOperatorBoxedEmptyUnknown":
     "\\rtqMathsBinaryOperatorBoxedEmptyMatching{+}",
-  "\\rtqMathsRelationBoxedEmptyPendingReview":
+  "\\rtqMathsRelationBoxedEmptyUnknown":
     "\\rtqMathsRelationBoxedEmptyMatching{=}",
   "\\rtqMathsBinaryOperatorBoxed": "\\mathbin{\\boxed{#1}}",
   "\\rtqMathsBinaryOperatorBoxedOneDigitPaddingEachSide":

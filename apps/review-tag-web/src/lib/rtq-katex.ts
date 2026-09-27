@@ -42,6 +42,10 @@ const reviewerKatexMacros: Record<string, string> = {
   '\\rtqMathsSymbolBlackLozenge': '\\blacklozenge',
   '\\rtqMathsSymbolBlackSmilingFace': '\\text{\\char"263B}',
   '\\rtqMathsSymbolBlackClubSuit': '\\clubsuit',
+  '\\rtqMathsBinaryOperatorAsterisk': '\\mathbin{\\rtqMathsSymbolAsterisk}',
+  '\\rtqMathsBinaryOperatorBoxDot': '\\mathbin{\\rtqMathsSymbolBoxDot}',
+  '\\rtqMathsBinaryOperatorBlackSquare':
+    '\\mathbin{\\rtqMathsSymbolBlackSquare}',
   '\\rtqMathsSymbolHeartsPendingReview': '\\hearts',
   '\\rtqMathsSymbolHeartSuitPendingReview': '\\heartsuit',
   '\\rtqMathsSymbolSpadeSuitPendingReview': '\\spadesuit',

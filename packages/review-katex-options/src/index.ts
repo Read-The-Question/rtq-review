@@ -25,7 +25,14 @@ export const RTQ_COLUMNAR_DECIMAL_POINT_EXPANSION =
 
 export const RTQ_QUESTION_MARK_PLACEHOLDER_MACROS = {
   "\\rtqMathsQuestionMarkPlaceholder": "\\mathord{?}",
-  "\\rtqMathsQuestionMarkOperatorPlaceholder": "\\mathbin{?}",
+  "\\rtqMathsBinaryOperatorQuestionMarkPlaceholder": "\\mathbin{?}",
+} as const;
+
+export const RTQ_BINARY_OPERATOR_SYMBOL_MACROS = {
+  "\\rtqMathsBinaryOperatorAsterisk": "\\mathbin{\\rtqMathsSymbolAsterisk}",
+  "\\rtqMathsBinaryOperatorBoxDot": "\\mathbin{\\rtqMathsSymbolBoxDot}",
+  "\\rtqMathsBinaryOperatorBlackSquare":
+    "\\mathbin{\\rtqMathsSymbolBlackSquare}",
 } as const;
 
 export const RTQ_ELLIPSIS_EMPTY_MACROS = {
@@ -38,14 +45,14 @@ export const RTQ_ELLIPSIS_EMPTY_MACROS = {
   "\\rtqMathsEllipsisEmptyValueFourDigitsWide":
     "\\rtqMathsBoxedEmptyValueFourDigitsWide",
   "\\rtqMathsEllipsisEmptyValueFraction": "\\rtqMathsBoxedEmptyValueFraction",
-  "\\rtqMathsEllipsisEmptyBinaryOperatorMatching":
-    "\\rtqMathsBoxedEmptyBinaryOperatorMatching{#1}",
-  "\\rtqMathsEllipsisEmptyRelationMatching":
-    "\\rtqMathsBoxedEmptyRelationMatching{#1}",
-  "\\rtqMathsEllipsisEmptyBinaryOperatorUnknown":
-    "\\rtqMathsBoxedEmptyBinaryOperatorUnknown",
-  "\\rtqMathsEllipsisEmptyRelationPendingReview":
-    "\\rtqMathsBoxedEmptyRelationPendingReview",
+  "\\rtqMathsBinaryOperatorEllipsisEmptyMatching":
+    "\\rtqMathsBinaryOperatorBoxedEmptyMatching{#1}",
+  "\\rtqMathsRelationEllipsisEmptyMatching":
+    "\\rtqMathsRelationBoxedEmptyMatching{#1}",
+  "\\rtqMathsBinaryOperatorEllipsisEmptyUnknown":
+    "\\rtqMathsBinaryOperatorBoxedEmptyUnknown",
+  "\\rtqMathsRelationEllipsisEmptyPendingReview":
+    "\\rtqMathsRelationBoxedEmptyPendingReview",
 } as const;
 
 export const RTQ_SEQUENCE_ELLIPSIS_MACRO =
@@ -115,26 +122,26 @@ export const RTQ_BOXED_VALUE_MACROS = {
   "\\rtqMathsBoxedEmptyValueThreeDigitsWide": "\\boxed{\\phantom{000}}",
   "\\rtqMathsBoxedEmptyValueFourDigitsWide": "\\boxed{\\phantom{0000}}",
   "\\rtqMathsBoxedEmptyValueFraction": "\\boxed{\\phantom{\\dfrac{0}{0}}}",
-  "\\rtqMathsBoxedEmptyBinaryOperatorMatching":
+  "\\rtqMathsBinaryOperatorBoxedEmptyMatching":
     "\\mathbin{\\boxed{\\phantom{#1}}}",
-  "\\rtqMathsBoxedEmptyRelationMatching": "\\mathrel{\\boxed{\\phantom{#1}}}",
-  "\\rtqMathsBoxedEmptyBinaryOperatorUnknown":
-    "\\rtqMathsBoxedEmptyBinaryOperatorMatching{+}",
-  "\\rtqMathsBoxedEmptyRelationPendingReview":
-    "\\rtqMathsBoxedEmptyRelationMatching{=}",
-  "\\rtqMathsBoxedBinaryOperator": "\\mathbin{\\boxed{#1}}",
-  "\\rtqMathsBoxedBinaryOperatorOneDigitPaddingEachSide":
+  "\\rtqMathsRelationBoxedEmptyMatching": "\\mathrel{\\boxed{\\phantom{#1}}}",
+  "\\rtqMathsBinaryOperatorBoxedEmptyUnknown":
+    "\\rtqMathsBinaryOperatorBoxedEmptyMatching{+}",
+  "\\rtqMathsRelationBoxedEmptyPendingReview":
+    "\\rtqMathsRelationBoxedEmptyMatching{=}",
+  "\\rtqMathsBinaryOperatorBoxed": "\\mathbin{\\boxed{#1}}",
+  "\\rtqMathsBinaryOperatorBoxedOneDigitPaddingEachSide":
     "\\mathbin{\\boxed{\\phantom{0}#1\\phantom{0}}}",
-  "\\rtqMathsBoxedRelation": "\\mathrel{\\boxed{#1}}",
-  "\\rtqMathsBoxedRelationOneDigitPaddingEachSide":
+  "\\rtqMathsRelationBoxed": "\\mathrel{\\boxed{#1}}",
+  "\\rtqMathsRelationBoxedOneDigitPaddingEachSide":
     "\\mathrel{\\boxed{\\phantom{0}#1\\phantom{0}}}",
-  "\\rtqMathsBoxedCorrectBinaryOperator":
+  "\\rtqMathsBinaryOperatorBoxedCorrect":
     "\\mathbin{\\boxed{\\rtqMathsCorrectValue{#1}}}",
-  "\\rtqMathsBoxedCorrectBinaryOperatorOneDigitPaddingEachSide":
+  "\\rtqMathsBinaryOperatorBoxedCorrectOneDigitPaddingEachSide":
     "\\mathbin{\\boxed{\\phantom{0}\\rtqMathsCorrectValue{#1}\\phantom{0}}}",
-  "\\rtqMathsBoxedCorrectRelation":
+  "\\rtqMathsRelationBoxedCorrect":
     "\\mathrel{\\boxed{\\rtqMathsCorrectValue{#1}}}",
-  "\\rtqMathsBoxedCorrectRelationOneDigitPaddingEachSide":
+  "\\rtqMathsRelationBoxedCorrectOneDigitPaddingEachSide":
     "\\mathrel{\\boxed{\\phantom{0}\\rtqMathsCorrectValue{#1}\\phantom{0}}}",
 } as const;
 
@@ -203,6 +210,7 @@ export function getRtqReviewKatexOptions<
         RTQ_COLUMNAR_ARITHMETIC_STYLE_EXPANSION,
       [RTQ_COLUMNAR_DECIMAL_POINT_MACRO]: RTQ_COLUMNAR_DECIMAL_POINT_EXPANSION,
       ...RTQ_QUESTION_MARK_PLACEHOLDER_MACROS,
+      ...RTQ_BINARY_OPERATOR_SYMBOL_MACROS,
       ...RTQ_ELLIPSIS_EMPTY_MACROS,
       [RTQ_SEQUENCE_ELLIPSIS_MACRO]: RTQ_SEQUENCE_ELLIPSIS_EXPANSION,
       [RTQ_TABLE_NO_VALUE_MACRO]: RTQ_TABLE_NO_VALUE_EXPANSION,

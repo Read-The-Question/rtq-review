@@ -69,7 +69,7 @@ test("renders question-mark placeholders with their contracted math roles", () =
     html.replace(/<annotation[^>]*>[\s\S]*?<\/annotation>/g, "<annotation/>");
   const cases = [
     ["\\rtqMathsQuestionMarkPlaceholder", "\\mathord{?}"],
-    ["\\rtqMathsQuestionMarkOperatorPlaceholder", "\\mathbin{?}"],
+    ["\\rtqMathsBinaryOperatorQuestionMarkPlaceholder", "\\mathbin{?}"],
     [
       "\\rtqMathsDigitGroupSeparator",
       "\\rtqMathsSpaceOneSixthEm",
@@ -102,6 +102,9 @@ test("renders sequence steps through the semantic working-step class", () => {
 test("registers and renders the complete prefixed RTQ vocabulary", () => {
   const options = { ...getRtqKatexOptions(), throwOnError: true };
   const expected = [
+    "\\rtqMathsBinaryOperatorAsterisk",
+    "\\rtqMathsBinaryOperatorBlackSquare",
+    "\\rtqMathsBinaryOperatorBoxDot",
     "\\rtqMathsAddCarryOver",
     "\\rtqMathsBespokeSymbolFourPanePictogramFull",
     "\\rtqMathsBespokeSymbolFourPanePictogramHalf",
@@ -112,8 +115,8 @@ test("registers and renders the complete prefixed RTQ vocabulary", () => {
     "\\rtqMathsBespokeSymbolOutlinedHexagon",
     "\\rtqMathsBespokeSymbolOutlinedTriangle",
     "\\rtqMathsBespokeSymbolSunWithRays",
-    "\\rtqMathsBoxedBinaryOperator",
-    "\\rtqMathsBoxedBinaryOperatorOneDigitPaddingEachSide",
+    "\\rtqMathsBinaryOperatorBoxed",
+    "\\rtqMathsBinaryOperatorBoxedOneDigitPaddingEachSide",
     "\\rtqMathsBoxedCellArrayFractionHighStyle",
     "\\rtqMathsBoxedCellArrayLayout",
     "\\rtqMathsBoxedCellArrayOneDigitHighStyle",
@@ -122,25 +125,25 @@ test("registers and renders the complete prefixed RTQ vocabulary", () => {
     "\\rtqMathsBoxedCellMatching",
     "\\rtqMathsBoxedCellSeparator",
     "\\rtqMathsBoxedCellTwoDigitsWideOneDigitHigh",
-    "\\rtqMathsBoxedCorrectBinaryOperator",
-    "\\rtqMathsBoxedCorrectBinaryOperatorOneDigitPaddingEachSide",
-    "\\rtqMathsBoxedCorrectRelation",
-    "\\rtqMathsBoxedCorrectRelationOneDigitPaddingEachSide",
+    "\\rtqMathsBinaryOperatorBoxedCorrect",
+    "\\rtqMathsBinaryOperatorBoxedCorrectOneDigitPaddingEachSide",
+    "\\rtqMathsRelationBoxedCorrect",
+    "\\rtqMathsRelationBoxedCorrectOneDigitPaddingEachSide",
     "\\rtqMathsBoxedCorrectValue",
     "\\rtqMathsBoxedCorrectValueFractionPaddingEachSide",
     "\\rtqMathsBoxedCorrectValueOneDigitPaddingEachSide",
-    "\\rtqMathsBoxedEmptyBinaryOperatorMatching",
-    "\\rtqMathsBoxedEmptyBinaryOperatorUnknown",
-    "\\rtqMathsBoxedEmptyRelationMatching",
-    "\\rtqMathsBoxedEmptyRelationPendingReview",
+    "\\rtqMathsBinaryOperatorBoxedEmptyMatching",
+    "\\rtqMathsBinaryOperatorBoxedEmptyUnknown",
+    "\\rtqMathsRelationBoxedEmptyMatching",
+    "\\rtqMathsRelationBoxedEmptyPendingReview",
     "\\rtqMathsBoxedEmptyValueFourDigitsWide",
     "\\rtqMathsBoxedEmptyValueFraction",
     "\\rtqMathsBoxedEmptyValueOneDigitWide",
     "\\rtqMathsBoxedEmptyValueThreeDigitsWide",
     "\\rtqMathsBoxedEmptyValueTwoDigitsWide",
     "\\rtqMathsBoxedEmptyValueZeroDigitsWidePendingReview",
-    "\\rtqMathsBoxedRelation",
-    "\\rtqMathsBoxedRelationOneDigitPaddingEachSide",
+    "\\rtqMathsRelationBoxed",
+    "\\rtqMathsRelationBoxedOneDigitPaddingEachSide",
     "\\rtqMathsBoxedValue",
     "\\rtqMathsBoxedValueFractionPaddingEachSide",
     "\\rtqMathsBoxedValueOneDigitPaddingEachSide",
@@ -148,10 +151,10 @@ test("registers and renders the complete prefixed RTQ vocabulary", () => {
     "\\rtqMathsColumnarDecimalPoint",
     "\\rtqMathsCorrectValue",
     "\\rtqMathsDigitGroupSeparator",
-    "\\rtqMathsEllipsisEmptyBinaryOperatorMatching",
-    "\\rtqMathsEllipsisEmptyBinaryOperatorUnknown",
-    "\\rtqMathsEllipsisEmptyRelationMatching",
-    "\\rtqMathsEllipsisEmptyRelationPendingReview",
+    "\\rtqMathsBinaryOperatorEllipsisEmptyMatching",
+    "\\rtqMathsBinaryOperatorEllipsisEmptyUnknown",
+    "\\rtqMathsRelationEllipsisEmptyMatching",
+    "\\rtqMathsRelationEllipsisEmptyPendingReview",
     "\\rtqMathsEllipsisEmptyValueFourDigitsWide",
     "\\rtqMathsEllipsisEmptyValueFraction",
     "\\rtqMathsEllipsisEmptyValueOneDigitWide",
@@ -167,7 +170,7 @@ test("registers and renders the complete prefixed RTQ vocabulary", () => {
     "\\rtqMathsIncorrectValue",
     "\\rtqMathsListSeparator",
     "\\rtqMathsMultiplyCarryOver",
-    "\\rtqMathsQuestionMarkOperatorPlaceholder",
+    "\\rtqMathsBinaryOperatorQuestionMarkPlaceholder",
     "\\rtqMathsQuestionMarkPlaceholder",
     "\\rtqMathsRatioSeparator",
     "\\rtqMathsSequenceEllipsis",
@@ -219,7 +222,7 @@ test("registers and renders the complete prefixed RTQ vocabulary", () => {
     "\\rtqMathsUnderlineValueLongPaddingEachSide",
     "\\rtqMathsUnderlineValueMediumPaddingEachSide",
     "\\rtqMathsUnderlineValueShortPaddingEachSide",
-  ];
+  ].sort();
 
   assert.deepEqual(
     Object.keys(options.macros)
@@ -295,7 +298,7 @@ test("registers and renders the complete prefixed RTQ vocabulary", () => {
   );
   assert.equal(options.macros["\\rtqMathsBoxedCellSeparator"], "\\enspace");
   const html = katex.renderToString(
-    String.raw`\rtqMathsBoxedEmptyValueZeroDigitsWidePendingReview\rtqMathsBoxedEmptyValueFraction\rtqMathsBoxedEmptyBinaryOperatorUnknown\rtqMathsBoxedEmptyBinaryOperatorMatching{+}\rtqMathsBoxedEmptyRelationPendingReview\rtqMathsBoxedEmptyRelationMatching{=}\rtqMathsBoxedBinaryOperator{+}\rtqMathsBoxedBinaryOperatorOneDigitPaddingEachSide{\times}\rtqMathsBoxedRelation{=}\rtqMathsBoxedRelationOneDigitPaddingEachSide{<}\rtqMathsUnderlineEmptyValueShort\rtqMathsUnderlineEmptyValueMedium\rtqMathsUnderlineEmptyValueLong\rtqMathsUnderlineValue{7}\rtqMathsUnderlineValueShortPaddingEachSide{7}\rtqMathsUnderlineValueMediumPaddingEachSide{7}\rtqMathsUnderlineValueLongPaddingEachSide{7}\rtqMathsUnderlineCorrectValue{7}\rtqMathsUnderlineCorrectValueShortPaddingEachSide{7}\rtqMathsUnderlineCorrectValueMediumPaddingEachSide{7}\rtqMathsUnderlineCorrectValueLongPaddingEachSide{7}\rtqMathsEllipsisEmptyValueOneDigitWide\rtqMathsEllipsisEmptyValueTwoDigitsWide\rtqMathsEllipsisEmptyValueThreeDigitsWide\rtqMathsEllipsisEmptyValueFourDigitsWide\rtqMathsEllipsisEmptyValueFraction\rtqMathsEllipsisEmptyBinaryOperatorMatching{\times}\rtqMathsEllipsisEmptyRelationMatching{=}\rtqMathsEllipsisEmptyBinaryOperatorUnknown\rtqMathsEllipsisEmptyRelationPendingReview\rtqMathsEmptyValueFraction\rtqMathsBoxedCorrectValue{7}\rtqMathsBoxedCorrectBinaryOperator{+}\rtqMathsBoxedCorrectRelation{=}\rtqMathsEquationNumber{2}\rtqMathsSymbolBlackHeartSuit\rtqMathsSymbolWhiteSquare\rtqMathsSymbolBlackSmilingFace\rtqMathsSymbolBlackClubSuit\rtqMathsBespokeSymbolFourPanePictogramFull\rtqMathsBespokeSymbolFourPanePictogramQuarter\rtqMathsBespokeSymbolFourPanePictogramHalf\rtqMathsBespokeSymbolFourPanePictogramThreeQuarters\rtqMathsBespokeSymbolOutlinedDiamond\rtqMathsBespokeSymbolSunWithRays\rtqMathsBespokeSymbolOutlinedCircle\rtqMathsBespokeSymbolOutlinedTriangle\rtqMathsBespokeSymbolOutlinedHexagon\rtqMathsBoxedCellArrayOneDigitHighStyle\begin{array}{c}\rtqMathsBoxedCellTwoDigitsWideOneDigitHigh{7}\\\rtqMathsBoxedCellTwoDigitsWideOneDigitHigh{34}\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellTwoDigitsWideOneDigitHigh{}\end{array}\quad\rtqMathsBoxedCellArrayFractionHighStyle\begin{array}{l}\rtqMathsBoxedCellFourDigitsWideFractionHigh{}\\\rtqMathsBoxedCellFourDigitsWideFractionHigh{}\\\rtqMathsBoxedCellFourDigitsWideFractionHigh{1}\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideFractionHigh{\rtqMathsSymbolAsterisk}\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideFractionHigh{4}\\\rtqMathsBoxedCellFourDigitsWideFractionHighSpacer\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideFractionHighSpacer\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideFractionHigh{}\\\rtqMathsBoxedCellFourDigitsWideFractionHighSpacer\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideFractionHighSpacer\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideFractionHigh{2}\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideFractionHigh{}\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideFractionHigh{}\end{array}`,
+    String.raw`\rtqMathsBoxedEmptyValueZeroDigitsWidePendingReview\rtqMathsBoxedEmptyValueFraction\rtqMathsBinaryOperatorBoxedEmptyUnknown\rtqMathsBinaryOperatorBoxedEmptyMatching{+}\rtqMathsRelationBoxedEmptyPendingReview\rtqMathsRelationBoxedEmptyMatching{=}\rtqMathsBinaryOperatorBoxed{+}\rtqMathsBinaryOperatorBoxedOneDigitPaddingEachSide{\times}\rtqMathsRelationBoxed{=}\rtqMathsRelationBoxedOneDigitPaddingEachSide{<}\rtqMathsUnderlineEmptyValueShort\rtqMathsUnderlineEmptyValueMedium\rtqMathsUnderlineEmptyValueLong\rtqMathsUnderlineValue{7}\rtqMathsUnderlineValueShortPaddingEachSide{7}\rtqMathsUnderlineValueMediumPaddingEachSide{7}\rtqMathsUnderlineValueLongPaddingEachSide{7}\rtqMathsUnderlineCorrectValue{7}\rtqMathsUnderlineCorrectValueShortPaddingEachSide{7}\rtqMathsUnderlineCorrectValueMediumPaddingEachSide{7}\rtqMathsUnderlineCorrectValueLongPaddingEachSide{7}\rtqMathsEllipsisEmptyValueOneDigitWide\rtqMathsEllipsisEmptyValueTwoDigitsWide\rtqMathsEllipsisEmptyValueThreeDigitsWide\rtqMathsEllipsisEmptyValueFourDigitsWide\rtqMathsEllipsisEmptyValueFraction\rtqMathsBinaryOperatorEllipsisEmptyMatching{\times}\rtqMathsRelationEllipsisEmptyMatching{=}\rtqMathsBinaryOperatorEllipsisEmptyUnknown\rtqMathsRelationEllipsisEmptyPendingReview\rtqMathsEmptyValueFraction\rtqMathsBoxedCorrectValue{7}\rtqMathsBinaryOperatorBoxedCorrect{+}\rtqMathsRelationBoxedCorrect{=}\rtqMathsEquationNumber{2}\rtqMathsSymbolBlackHeartSuit\rtqMathsSymbolWhiteSquare\rtqMathsSymbolBlackSmilingFace\rtqMathsSymbolBlackClubSuit\rtqMathsBespokeSymbolFourPanePictogramFull\rtqMathsBespokeSymbolFourPanePictogramQuarter\rtqMathsBespokeSymbolFourPanePictogramHalf\rtqMathsBespokeSymbolFourPanePictogramThreeQuarters\rtqMathsBespokeSymbolOutlinedDiamond\rtqMathsBespokeSymbolSunWithRays\rtqMathsBespokeSymbolOutlinedCircle\rtqMathsBespokeSymbolOutlinedTriangle\rtqMathsBespokeSymbolOutlinedHexagon\rtqMathsBoxedCellArrayOneDigitHighStyle\begin{array}{c}\rtqMathsBoxedCellTwoDigitsWideOneDigitHigh{7}\\\rtqMathsBoxedCellTwoDigitsWideOneDigitHigh{34}\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellTwoDigitsWideOneDigitHigh{}\end{array}\quad\rtqMathsBoxedCellArrayFractionHighStyle\begin{array}{l}\rtqMathsBoxedCellFourDigitsWideFractionHigh{}\\\rtqMathsBoxedCellFourDigitsWideFractionHigh{}\\\rtqMathsBoxedCellFourDigitsWideFractionHigh{1}\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideFractionHigh{\rtqMathsSymbolAsterisk}\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideFractionHigh{4}\\\rtqMathsBoxedCellFourDigitsWideFractionHighSpacer\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideFractionHighSpacer\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideFractionHigh{}\\\rtqMathsBoxedCellFourDigitsWideFractionHighSpacer\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideFractionHighSpacer\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideFractionHigh{2}\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideFractionHigh{}\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideFractionHigh{}\end{array}`,
     options,
   );
   assert.doesNotMatch(html, /katex-error/);

@@ -8,6 +8,7 @@ import katex from "katex";
 
 import {
   getRtqReviewKatexOptions,
+  RTQ_BINARY_OPERATOR_SYMBOL_MACROS,
   RTQ_BOXED_VALUE_MACROS,
   RTQ_COLUMNAR_ARITHMETIC_STYLE_EXPANSION,
   RTQ_COLUMNAR_ARITHMETIC_STYLE_MACRO,
@@ -176,6 +177,14 @@ test("matches the canonical rtq-content shared macro contracts", () => {
       name,
     );
   }
+  for (const [name, expansion] of Object.entries(
+    RTQ_BINARY_OPERATOR_SYMBOL_MACROS,
+  )) {
+    assert.deepEqual(
+      contract.macros.find((macro) => macro.name === name),
+      { expansion, name },
+    );
+  }
   for (const [name, expansion] of Object.entries(RTQ_ELLIPSIS_EMPTY_MACROS)) {
     assert.deepEqual(
       contract.macros.find((macro) => macro.name === name),
@@ -231,20 +240,20 @@ test("renders ellipsis empty slots through their boxed delegates", () => {
       String.raw`\rtqMathsBoxedEmptyValueFraction`,
     ],
     [
-      String.raw`a\rtqMathsEllipsisEmptyBinaryOperatorMatching{\times}a`,
-      String.raw`a\rtqMathsBoxedEmptyBinaryOperatorMatching{\times}a`,
+      String.raw`a\rtqMathsBinaryOperatorEllipsisEmptyMatching{\times}a`,
+      String.raw`a\rtqMathsBinaryOperatorBoxedEmptyMatching{\times}a`,
     ],
     [
-      String.raw`a\rtqMathsEllipsisEmptyRelationMatching{=}a`,
-      String.raw`a\rtqMathsBoxedEmptyRelationMatching{=}a`,
+      String.raw`a\rtqMathsRelationEllipsisEmptyMatching{=}a`,
+      String.raw`a\rtqMathsRelationBoxedEmptyMatching{=}a`,
     ],
     [
-      String.raw`a\rtqMathsEllipsisEmptyBinaryOperatorUnknown a`,
-      String.raw`a\rtqMathsBoxedEmptyBinaryOperatorUnknown a`,
+      String.raw`a\rtqMathsBinaryOperatorEllipsisEmptyUnknown a`,
+      String.raw`a\rtqMathsBinaryOperatorBoxedEmptyUnknown a`,
     ],
     [
-      String.raw`a\rtqMathsEllipsisEmptyRelationPendingReview a`,
-      String.raw`a\rtqMathsBoxedEmptyRelationPendingReview a`,
+      String.raw`a\rtqMathsRelationEllipsisEmptyPendingReview a`,
+      String.raw`a\rtqMathsRelationBoxedEmptyPendingReview a`,
     ],
   ] as const;
 
@@ -392,54 +401,54 @@ test("renders boxed operator placeholders with their semantic atom classes", () 
 
   for (const [macro, expansion, expectedClass] of [
     [
-      "\\rtqMathsBoxedEmptyBinaryOperatorMatching{+}",
+      "\\rtqMathsBinaryOperatorBoxedEmptyMatching{+}",
       "\\mathbin{\\boxed{\\phantom{+}}}",
       "mbin",
     ],
     [
-      "\\rtqMathsBoxedEmptyRelationMatching{=}",
+      "\\rtqMathsRelationBoxedEmptyMatching{=}",
       "\\mathrel{\\boxed{\\phantom{=}}}",
       "mrel",
     ],
     [
-      "\\rtqMathsBoxedEmptyBinaryOperatorUnknown",
+      "\\rtqMathsBinaryOperatorBoxedEmptyUnknown",
       "\\mathbin{\\boxed{\\phantom{+}}}",
       "mbin",
     ],
     [
-      "\\rtqMathsBoxedEmptyRelationPendingReview",
+      "\\rtqMathsRelationBoxedEmptyPendingReview",
       "\\mathrel{\\boxed{\\phantom{=}}}",
       "mrel",
     ],
-    ["\\rtqMathsBoxedBinaryOperator{+}", "\\mathbin{\\boxed{+}}", "mbin"],
+    ["\\rtqMathsBinaryOperatorBoxed{+}", "\\mathbin{\\boxed{+}}", "mbin"],
     [
-      "\\rtqMathsBoxedBinaryOperatorOneDigitPaddingEachSide{+}",
+      "\\rtqMathsBinaryOperatorBoxedOneDigitPaddingEachSide{+}",
       "\\mathbin{\\boxed{\\phantom{0}+\\phantom{0}}}",
       "mbin",
     ],
-    ["\\rtqMathsBoxedRelation{=}", "\\mathrel{\\boxed{=}}", "mrel"],
+    ["\\rtqMathsRelationBoxed{=}", "\\mathrel{\\boxed{=}}", "mrel"],
     [
-      "\\rtqMathsBoxedRelationOneDigitPaddingEachSide{=}",
+      "\\rtqMathsRelationBoxedOneDigitPaddingEachSide{=}",
       "\\mathrel{\\boxed{\\phantom{0}=\\phantom{0}}}",
       "mrel",
     ],
     [
-      "\\rtqMathsBoxedCorrectBinaryOperator{+}",
+      "\\rtqMathsBinaryOperatorBoxedCorrect{+}",
       "\\mathbin{\\boxed{\\textcolor{green}{+}}}",
       "mbin",
     ],
     [
-      "\\rtqMathsBoxedCorrectBinaryOperatorOneDigitPaddingEachSide{+}",
+      "\\rtqMathsBinaryOperatorBoxedCorrectOneDigitPaddingEachSide{+}",
       "\\mathbin{\\boxed{\\phantom{0}\\textcolor{green}{+}\\phantom{0}}}",
       "mbin",
     ],
     [
-      "\\rtqMathsBoxedCorrectRelation{=}",
+      "\\rtqMathsRelationBoxedCorrect{=}",
       "\\mathrel{\\boxed{\\textcolor{green}{=}}}",
       "mrel",
     ],
     [
-      "\\rtqMathsBoxedCorrectRelationOneDigitPaddingEachSide{=}",
+      "\\rtqMathsRelationBoxedCorrectOneDigitPaddingEachSide{=}",
       "\\mathrel{\\boxed{\\phantom{0}\\textcolor{green}{=}\\phantom{0}}}",
       "mrel",
     ],
@@ -453,10 +462,10 @@ test("renders boxed operator placeholders with their semantic atom classes", () 
   }
 
   for (const source of [
-    "\\rtqMathsBoxedBinaryOperator{+}",
-    "\\rtqMathsBoxedBinaryOperatorOneDigitPaddingEachSide{+}",
-    "\\rtqMathsBoxedRelation{=}",
-    "\\rtqMathsBoxedRelationOneDigitPaddingEachSide{=}",
+    "\\rtqMathsBinaryOperatorBoxed{+}",
+    "\\rtqMathsBinaryOperatorBoxedOneDigitPaddingEachSide{+}",
+    "\\rtqMathsRelationBoxed{=}",
+    "\\rtqMathsRelationBoxedOneDigitPaddingEachSide{=}",
   ]) {
     assert.doesNotMatch(
       katex.renderToString(source, options),

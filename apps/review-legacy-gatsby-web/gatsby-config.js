@@ -10,14 +10,13 @@ const rtqKatexMacros = {
     "\\rtqMathsBoxedCellMatching{#1}{00}{\\dfrac{0}{0}}",
   "\\rtqMathsBoxedCellFourDigitsWideFractionHighSpacer":
     "\\phantom{\\rtqMathsBoxedCellFourDigitsWideFractionHigh{}}",
-  "\\rtqMathsBoxedCellArrayOneDigitHighStyle": "\\def\\arraystretch{1.5}",
-  "\\rtqMathsBoxedCellArrayFractionHighStyle": "\\def\\arraystretch{2.5}",
+  "\\rtqMathsBoxedCellArrayLayout":
+    "\\def\\arraystretch{#1}\\def\\rtqMathsBoxedCellSeparator{#2}",
+  "\\rtqMathsBoxedCellArrayOneDigitHighStyle":
+    "\\rtqMathsBoxedCellArrayLayout{1.5}{\\rtqMathsSpaceOneSixthEm}",
+  "\\rtqMathsBoxedCellArrayFractionHighStyle":
+    "\\rtqMathsBoxedCellArrayLayout{2.2}{\\rtqMathsSpaceOneSixthEm}",
   "\\rtqMathsBoxedCellSeparator": "\\enspace",
-  "\\rtqMathsNumberTowerOneDigitHighStyle":
-    "\\rtqMathsBoxedCellArrayOneDigitHighStyle",
-  "\\rtqMathsNumberTowerFractionHighStyle":
-    "\\rtqMathsBoxedCellArrayFractionHighStyle",
-  "\\rtqMathsNumberTowerCellSeparator": "\\rtqMathsBoxedCellSeparator",
   "\\rtqMathsBespokeSymbolFourPanePictogramFull":
     "\\mathord{\\begin{matrix}\\square\\square\\\\\\square\\square\\end{matrix}}",
   "\\rtqMathsBespokeSymbolFourPanePictogramQuarter":
@@ -164,6 +163,7 @@ const rtqKatexMacros = {
   "\\rtqMathsSequenceEllipsis": "\\ldots",
   "\\rtqMathsDigitGroupSeparator": "\\rtqMathsSpaceOneSixthEm",
   "\\rtqMathsSpaceOneSixthEm": "\\,",
+  "\\rtqMathsSpaceHalfEm": "\\enspace",
   "\\rtqMathsTimeSeparator": "\\mathord{:}",
   "\\rtqMathsRatioSeparator": "\\ratio",
   "\\rtqMathsTimeMeridiem": "\\ \\text{#1}",

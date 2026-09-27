@@ -8,7 +8,7 @@ test('registers all prefixed RTQ macros including one-to-one symbol wrappers', (
   assert.equal(
     Object.keys(rtqKatexMacros).filter(name => name.startsWith('\\rtqMaths'))
       .length,
-    124,
+    123,
   );
   assert.equal(
     rtqKatexMacros['\\rtqMathsUnderlineEmptyValueLong'],
@@ -42,26 +42,18 @@ test('registers all prefixed RTQ macros including one-to-one symbol wrappers', (
     '\\phantom{\\rtqMathsBoxedCellFourDigitsWideFractionHigh{}}',
   );
   assert.equal(
+    rtqKatexMacros['\\rtqMathsBoxedCellArrayLayout'],
+    '\\def\\arraystretch{#1}\\def\\rtqMathsBoxedCellSeparator{#2}',
+  );
+  assert.equal(
     rtqKatexMacros['\\rtqMathsBoxedCellArrayOneDigitHighStyle'],
-    '\\def\\arraystretch{1.5}',
+    '\\rtqMathsBoxedCellArrayLayout{1.5}{\\rtqMathsSpaceOneSixthEm}',
   );
   assert.equal(
     rtqKatexMacros['\\rtqMathsBoxedCellArrayFractionHighStyle'],
-    '\\def\\arraystretch{2.5}',
+    '\\rtqMathsBoxedCellArrayLayout{2.2}{\\rtqMathsSpaceOneSixthEm}',
   );
   assert.equal(rtqKatexMacros['\\rtqMathsBoxedCellSeparator'], '\\enspace');
-  assert.equal(
-    rtqKatexMacros['\\rtqMathsNumberTowerCellSeparator'],
-    '\\rtqMathsBoxedCellSeparator',
-  );
-  assert.equal(
-    rtqKatexMacros['\\rtqMathsNumberTowerOneDigitHighStyle'],
-    '\\rtqMathsBoxedCellArrayOneDigitHighStyle',
-  );
-  assert.equal(
-    rtqKatexMacros['\\rtqMathsNumberTowerFractionHighStyle'],
-    '\\rtqMathsBoxedCellArrayFractionHighStyle',
-  );
   assert.equal(
     rtqKatexMacros['\\rtqMathsSymbolTrianglePendingReview'],
     '\\triangle',
@@ -136,7 +128,7 @@ test('renders the pound wrapper through Markdown', async () => {
 
 test('renders fixed-geometry number towers through Markdown', async () => {
   const html = await renderMarkdownToHtml(
-    String.raw`$\rtqMathsNumberTowerOneDigitHighStyle\begin{array}{c}\rtqMathsBoxedCellTwoDigitsWideOneDigitHigh{7}\\\rtqMathsBoxedCellTwoDigitsWideOneDigitHigh{34}\rtqMathsNumberTowerCellSeparator\rtqMathsBoxedCellTwoDigitsWideOneDigitHigh{}\end{array}\quad\rtqMathsBoxedCellArrayFractionHighStyle\begin{array}{l}\rtqMathsBoxedCellFourDigitsWideFractionHigh{}\\\rtqMathsBoxedCellFourDigitsWideFractionHigh{}\\\rtqMathsBoxedCellFourDigitsWideFractionHigh{1}\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideFractionHigh{\rtqMathsSymbolAsterisk}\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideFractionHigh{4}\\\rtqMathsBoxedCellFourDigitsWideFractionHighSpacer\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideFractionHighSpacer\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideFractionHigh{}\\\rtqMathsBoxedCellFourDigitsWideFractionHighSpacer\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideFractionHighSpacer\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideFractionHigh{2}\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideFractionHigh{}\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideFractionHigh{}\end{array}$`,
+    String.raw`$\rtqMathsBoxedCellArrayOneDigitHighStyle\begin{array}{c}\rtqMathsBoxedCellTwoDigitsWideOneDigitHigh{7}\\\rtqMathsBoxedCellTwoDigitsWideOneDigitHigh{34}\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellTwoDigitsWideOneDigitHigh{}\end{array}\quad\rtqMathsBoxedCellArrayFractionHighStyle\begin{array}{l}\rtqMathsBoxedCellFourDigitsWideFractionHigh{}\\\rtqMathsBoxedCellFourDigitsWideFractionHigh{}\\\rtqMathsBoxedCellFourDigitsWideFractionHigh{1}\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideFractionHigh{\rtqMathsSymbolAsterisk}\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideFractionHigh{4}\\\rtqMathsBoxedCellFourDigitsWideFractionHighSpacer\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideFractionHighSpacer\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideFractionHigh{}\\\rtqMathsBoxedCellFourDigitsWideFractionHighSpacer\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideFractionHighSpacer\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideFractionHigh{2}\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideFractionHigh{}\rtqMathsBoxedCellSeparator\rtqMathsBoxedCellFourDigitsWideFractionHigh{}\end{array}$`,
     rtqKatexMacros,
   );
 

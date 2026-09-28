@@ -159,6 +159,18 @@
 }
 
 .rtq-paper-table:is(
+    [data-grid="rows"],
+    [data-grid="horizontal"],
+    [data-grid="interior"],
+    [data-grid="framed"]
+  )
+  tbody:not(:last-of-type)
+  > tr:last-child
+  > :where(th, td) {
+  border-block-end: 1.5px solid var(--rtq-paper-table-rule-anchor);
+}
+
+.rtq-paper-table:is(
     [data-grid="horizontal"],
     [data-grid="interior"],
     [data-grid="framed"]

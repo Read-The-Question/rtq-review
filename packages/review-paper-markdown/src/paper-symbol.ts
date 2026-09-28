@@ -157,7 +157,7 @@ function nativeNode(
 function computerSvg(size: PaperSymbolSize): NativeNode {
   const sizePx = SIZE_PX[size];
   const pathProperties = {
-    fill: "none",
+    fill: "currentColor",
     stroke: "currentColor",
     strokeLinecap: "round",
     strokeLinejoin: "round",
@@ -249,7 +249,7 @@ function lorrySvg(size: PaperSymbolSize): NativeNode {
 function woodlouseSvg(size: PaperSymbolSize): NativeNode {
   const sizePx = SIZE_PX[size];
   const pathProperties = {
-    fill: "none",
+    fill: "currentColor",
     stroke: "currentColor",
     strokeLinecap: "round",
     strokeLinejoin: "round",
@@ -260,7 +260,7 @@ function woodlouseSvg(size: PaperSymbolSize): NativeNode {
     "svg",
     {
       "aria-hidden": "true",
-      fill: "none",
+      fill: "currentColor",
       focusable: "false",
       height: sizePx,
       preserveAspectRatio: "xMinYMid meet",
@@ -326,17 +326,17 @@ function symbolSvgHtml(name: PaperSymbolName): readonly string[] {
   }
   if (name === "woodlouse") {
     return [
-      '<path d="M12 20v-9" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
-      '<path d="M14 7a4 4 0 0 1 4 4v3a6 6 0 0 1-12 0v-3a4 4 0 0 1 4-4z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
-      '<path d="M14.12 3.88 16 2" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
-      '<path d="M21 21a4 4 0 0 0-3.81-4" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
-      '<path d="M21 5a4 4 0 0 1-3.55 3.97" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
-      '<path d="M22 13h-4" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
-      '<path d="M3 21a4 4 0 0 1 3.81-4" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
-      '<path d="M3 5a4 4 0 0 0 3.55 3.97" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
-      '<path d="M6 13H2" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
-      '<path d="m8 2 1.88 1.88" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
-      '<path d="M9 7.13V6a3 3 0 1 1 6 0v1.13" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
+      '<path d="M12 20v-9" fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
+      '<path d="M14 7a4 4 0 0 1 4 4v3a6 6 0 0 1-12 0v-3a4 4 0 0 1 4-4z" fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
+      '<path d="M14.12 3.88 16 2" fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
+      '<path d="M21 21a4 4 0 0 0-3.81-4" fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
+      '<path d="M21 5a4 4 0 0 1-3.55 3.97" fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
+      '<path d="M22 13h-4" fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
+      '<path d="M3 21a4 4 0 0 1 3.81-4" fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
+      '<path d="M3 5a4 4 0 0 0 3.55 3.97" fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
+      '<path d="M6 13H2" fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
+      '<path d="m8 2 1.88 1.88" fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
+      '<path d="M9 7.13V6a3 3 0 1 1 6 0v1.13" fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
     ];
   }
 
@@ -423,7 +423,7 @@ function paperSymbolHtml(attributesSource: string): string {
   const sizePx = SIZE_PX[size];
   const visibleWidth = Math.round(sizePx * VARIANT_RATIO[variant] * 100) / 100;
   const label = `${VARIANT_LABEL[variant]} ${name} pictogram symbol`;
-  const fill = name === "computer" ? "currentColor" : "none";
+  const fill = name === "lorry" ? "none" : "currentColor";
 
   return [
     `<span aria-label="${label}" data-paper-symbol="" data-paper-symbol-name="${name}" data-paper-symbol-size="${size}" data-paper-symbol-variant="${variant}" role="img" style="display:inline-flex;flex:none;overflow:hidden;vertical-align:middle;line-height:1;height:${sizePx}px;width:${visibleWidth}px">`,

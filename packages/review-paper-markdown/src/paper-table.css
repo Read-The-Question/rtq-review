@@ -25,7 +25,8 @@
 }
 
 .rtq-maths-cell-label-number,
-.rtq-maths-equation-number {
+.rtq-maths-equation-number,
+.rtq-maths-working-annotation {
   color: var(--muted, currentColor);
 }
 

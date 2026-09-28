@@ -40,6 +40,9 @@ import {
   RTQ_TIME_SEPARATOR_MACRO,
   RTQ_TIME_MERIDIEM_MACROS,
   RTQ_UNDERLINE_VALUE_MACROS,
+  RTQ_WORKING_ANNOTATION_CLASS,
+  RTQ_WORKING_ANNOTATION_EXPANSION,
+  RTQ_WORKING_ANNOTATION_MACRO,
   RTQ_WORKING_STEP_CLASS,
 } from "./index.ts";
 
@@ -74,6 +77,9 @@ test("matches the canonical rtq-content shared macro contracts", () => {
   const cellLabelNumber = contract.macros.find(
     ({ name }) => name === RTQ_CELL_LABEL_NUMBER_MACRO,
   );
+  const workingAnnotation = contract.macros.find(
+    ({ name }) => name === RTQ_WORKING_ANNOTATION_MACRO,
+  );
   const columnarArithmeticStyle = contract.macros.find(
     ({ name }) => name === RTQ_COLUMNAR_ARITHMETIC_STYLE_MACRO,
   );
@@ -107,6 +113,11 @@ test("matches the canonical rtq-content shared macro contracts", () => {
     expansion: RTQ_CELL_LABEL_NUMBER_EXPANSION,
     name: RTQ_CELL_LABEL_NUMBER_MACRO,
     semanticClass: RTQ_CELL_LABEL_NUMBER_CLASS,
+  });
+  assert.deepEqual(workingAnnotation, {
+    expansion: RTQ_WORKING_ANNOTATION_EXPANSION,
+    name: RTQ_WORKING_ANNOTATION_MACRO,
+    semanticClass: RTQ_WORKING_ANNOTATION_CLASS,
   });
   assert.deepEqual(columnarArithmeticStyle, {
     expansion: RTQ_COLUMNAR_ARITHMETIC_STYLE_EXPANSION,
@@ -593,6 +604,20 @@ test("renders equation numbers consistently in display and inline maths", () => 
   }
 });
 
+test("renders working annotations without adding punctuation", () => {
+  const html = katex.renderToString(
+    String.raw`\rtqMathsWorkingAnnotation{\text{2 steps}}`,
+    options,
+  );
+  const text = html.replace(/<[^>]+>/g, "");
+
+  assert.match(html, new RegExp(`class="[^"]*${RTQ_WORKING_ANNOTATION_CLASS}`));
+  assert.match(html, /class="[^"]*size4/);
+  assert.ok(text.includes("2 steps"));
+  assert.doesNotMatch(text, /\(2 steps\)/);
+  assert.doesNotMatch(html, /(?:color:|#[\da-f]{3,8})/i);
+});
+
 test("renders cell label numbers without changing their inherited size", () => {
   const html = katex.renderToString(
     String.raw`\rtqMathsCellLabelNumber{7}`,
@@ -611,6 +636,7 @@ test("trusts only canonical semantic classes", () => {
   for (const className of [
     RTQ_CELL_LABEL_NUMBER_CLASS,
     RTQ_EQUATION_NUMBER_CLASS,
+    RTQ_WORKING_ANNOTATION_CLASS,
     RTQ_WORKING_STEP_CLASS,
   ]) {
     assert.equal(

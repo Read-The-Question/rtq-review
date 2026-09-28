@@ -78,7 +78,7 @@ test("does not validate direct structure or presentation values", async () => {
   assert.match(html, /<table><td data-tone="custom">Value<\/td><\/table>/);
 });
 
-test("shares adjacent-table rhythm and muted cell-label colour", () => {
+test("shares adjacent-table rhythm and muted annotation colours", () => {
   const css = readFileSync(
     new URL("./paper-table.css", import.meta.url),
     "utf8",
@@ -90,6 +90,6 @@ test("shares adjacent-table rhythm and muted cell-label colour", () => {
   );
   assert.match(
     css,
-    /\.rtq-maths-cell-label-number,[\s\S]*\.rtq-maths-equation-number\s*\{[^}]*color: var\(--muted, currentColor\);/s,
+    /\.rtq-maths-cell-label-number,[\s\S]*\.rtq-maths-equation-number,[\s\S]*\.rtq-maths-working-annotation\s*\{[^}]*color: var\(--muted, currentColor\);/s,
   );
 });

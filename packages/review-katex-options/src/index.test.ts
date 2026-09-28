@@ -28,6 +28,7 @@ import {
   RTQ_QUESTION_MARK_PLACEHOLDER_MACROS,
   RTQ_RATIO_SEPARATOR_EXPANSION,
   RTQ_RATIO_SEPARATOR_MACRO,
+  RTQ_ROLE_NEUTRAL_SYMBOL_MACROS,
   RTQ_SEQUENCE_ELLIPSIS_EXPANSION,
   RTQ_SEQUENCE_ELLIPSIS_MACRO,
   RTQ_LIST_SEPARATOR_EXPANSION,
@@ -47,6 +48,7 @@ type MacroContract = Readonly<{
     expansion: string;
     name: string;
     semanticClass?: string;
+    symbolReviewStatus?: "approved" | "pending-review";
   }>[];
 }>;
 
@@ -185,6 +187,14 @@ test("matches the canonical rtq-content shared macro contracts", () => {
       { expansion, name },
     );
   }
+  for (const [name, expansion] of Object.entries(
+    RTQ_ROLE_NEUTRAL_SYMBOL_MACROS,
+  )) {
+    assert.deepEqual(
+      contract.macros.find((macro) => macro.name === name),
+      { expansion, name, symbolReviewStatus: "approved" },
+    );
+  }
   for (const [name, expansion] of Object.entries(RTQ_ELLIPSIS_EMPTY_MACROS)) {
     assert.deepEqual(
       contract.macros.find((macro) => macro.name === name),
@@ -207,6 +217,20 @@ test("renders question-mark placeholders with their contracted math roles", () =
 
   for (const [macro, expansion] of Object.entries(
     RTQ_QUESTION_MARK_PLACEHOLDER_MACROS,
+  )) {
+    assert.equal(
+      normalize(katex.renderToString(macro, options)),
+      normalize(katex.renderToString(expansion, options)),
+    );
+  }
+});
+
+test("renders role-neutral symbol wrappers", () => {
+  const normalize = (html: string) =>
+    html.replace(/<annotation[^>]*>[\s\S]*?<\/annotation>/g, "<annotation/>");
+
+  for (const [macro, expansion] of Object.entries(
+    RTQ_ROLE_NEUTRAL_SYMBOL_MACROS,
   )) {
     assert.equal(
       normalize(katex.renderToString(macro, options)),

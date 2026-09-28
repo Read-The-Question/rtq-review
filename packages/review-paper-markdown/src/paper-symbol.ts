@@ -1,9 +1,9 @@
 import type { Data, Parent, Root, RootContent } from "mdast";
 import type { Plugin } from "unified";
 
-export const PAPER_SYMBOL_NAMES = ["computer"] as const;
+export const PAPER_SYMBOL_NAMES = ["computer", "lorry"] as const;
 export const PAPER_SYMBOL_VARIANTS = ["full", "half", "four-fifths"] as const;
-export const PAPER_SYMBOL_SIZES = ["sm", "md", "lg"] as const;
+export const PAPER_SYMBOL_SIZES = ["sm", "md", "lg", "xl"] as const;
 export const PAPER_SYMBOL_GROUP_GAPS = ["sm", "md", "lg"] as const;
 
 export type PaperSymbolName = (typeof PAPER_SYMBOL_NAMES)[number];
@@ -13,6 +13,7 @@ export type PaperSymbolGroupGap = (typeof PAPER_SYMBOL_GROUP_GAPS)[number];
 
 const SYMBOL_PROPS = ["name", "size", "variant"] as const;
 const GROUP_PROPS = ["gap"] as const;
+const SPACE_PROPS = ["size"] as const;
 const DEFAULT_VARIANT = "full" satisfies PaperSymbolVariant;
 const DEFAULT_SIZE = "md" satisfies PaperSymbolSize;
 const DEFAULT_GAP = "md" satisfies PaperSymbolGroupGap;
@@ -21,6 +22,7 @@ const SIZE_PX = {
   sm: 16,
   md: 20,
   lg: 28,
+  xl: 48,
 } as const satisfies Record<PaperSymbolSize, number>;
 
 const VARIANT_RATIO = {
@@ -42,11 +44,12 @@ const GROUP_GAP_PX = {
 } as const satisfies Record<PaperSymbolGroupGap, number>;
 
 const MARKDOWN_FENCE = /^ {0,3}(`{3,}|~{3,})/;
-const PAPER_SYMBOL_TOKEN = /<\/?PaperSymbol(?:Group)?\b/;
+const PAPER_SYMBOL_TOKEN = /<\/?PaperSymbol(?:Group|Space)?\b/;
 const PAPER_SYMBOL_GROUP =
   /<PaperSymbolGroup\b(?<attributes>[^>]*)>(?<children>[\s\S]*?)<\/PaperSymbolGroup>/g;
+const PAPER_SYMBOL_SPACE = /<PaperSymbolSpace\b(?<attributes>[^>]*)\/>/g;
 const PAPER_SYMBOL = /<PaperSymbol\b(?<attributes>[^>]*)\/>/g;
-const PAPER_SYMBOL_REMAINDER = /<\/?PaperSymbol(?:Group)?\b/;
+const PAPER_SYMBOL_REMAINDER = /<\/?PaperSymbol(?:Group|Space)?\b/;
 const STATIC_ATTRIBUTE = /\s+([A-Za-z][A-Za-z0-9_-]*)\s*=\s*(["'])(.*?)\2/y;
 
 type MarkdownFence = Readonly<{ character: "`" | "~"; length: number }>;
@@ -191,6 +194,80 @@ function computerSvg(size: PaperSymbolSize): NativeNode {
   );
 }
 
+function lorrySvg(size: PaperSymbolSize): NativeNode {
+  const sizePx = SIZE_PX[size];
+  const shapeProperties = {
+    fill: "none",
+    stroke: "currentColor",
+    strokeLinecap: "round",
+    strokeLinejoin: "round",
+    strokeWidth: 1.5,
+  };
+
+  return nativeNode(
+    "svg",
+    {
+      "aria-hidden": "true",
+      fill: "none",
+      focusable: "false",
+      height: sizePx,
+      preserveAspectRatio: "xMinYMid meet",
+      style: "display:block;max-width:none;flex:none",
+      viewBox: "0 0 24 24",
+      width: sizePx,
+      xmlns: "http://www.w3.org/2000/svg",
+    },
+    [
+      nativeNode("path", {
+        ...shapeProperties,
+        d: "M14 18V6a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v11a1 1 0 0 0 1 1h2",
+      }),
+      nativeNode("path", {
+        ...shapeProperties,
+        d: "M15 18H9",
+      }),
+      nativeNode("path", {
+        ...shapeProperties,
+        d: "M19 18h2a1 1 0 0 0 1-1v-3.65a1 1 0 0 0-.22-.624l-3.48-4.35A1 1 0 0 0 17.52 8H14",
+      }),
+      nativeNode("circle", {
+        ...shapeProperties,
+        cx: 17,
+        cy: 18,
+        r: 2,
+      }),
+      nativeNode("circle", {
+        ...shapeProperties,
+        cx: 7,
+        cy: 18,
+        r: 2,
+      }),
+    ],
+  );
+}
+
+function symbolSvg(name: PaperSymbolName, size: PaperSymbolSize): NativeNode {
+  return name === "lorry" ? lorrySvg(size) : computerSvg(size);
+}
+
+function symbolSvgHtml(name: PaperSymbolName): readonly string[] {
+  if (name === "lorry") {
+    return [
+      '<path d="M14 18V6a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v11a1 1 0 0 0 1 1h2" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
+      '<path d="M15 18H9" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
+      '<path d="M19 18h2a1 1 0 0 0 1-1v-3.65a1 1 0 0 0-.22-.624l-3.48-4.35A1 1 0 0 0 17.52 8H14" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
+      '<circle cx="17" cy="18" fill="none" r="2" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></circle>',
+      '<circle cx="7" cy="18" fill="none" r="2" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></circle>',
+    ];
+  }
+
+  return [
+    '<rect fill="currentColor" height="14" rx="2" stroke="currentColor" stroke-width="1.5" width="20" x="2" y="3"></rect>',
+    '<path d="M8 21h8" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
+    '<path d="M12 17v4" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
+  ];
+}
+
 function attributesFromSource(
   source: string,
   componentName: string,
@@ -271,11 +348,28 @@ function paperSymbolHtml(attributesSource: string): string {
   return [
     `<span aria-label="${label}" data-paper-symbol="" data-paper-symbol-name="${name}" data-paper-symbol-size="${size}" data-paper-symbol-variant="${variant}" role="img" style="display:inline-flex;flex:none;overflow:hidden;vertical-align:middle;line-height:1;height:${sizePx}px;width:${visibleWidth}px">`,
     `<svg aria-hidden="true" fill="currentColor" focusable="false" height="${sizePx}" preserveAspectRatio="xMinYMid meet" style="display:block;max-width:none;flex:none" viewBox="0 0 24 24" width="${sizePx}" xmlns="http://www.w3.org/2000/svg">`,
-    '<rect fill="currentColor" height="14" rx="2" stroke="currentColor" stroke-width="1.5" width="20" x="2" y="3"></rect>',
-    '<path d="M8 21h8" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
-    '<path d="M12 17v4" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
+    ...symbolSvgHtml(name),
     "</svg></span>",
   ].join("");
+}
+
+function paperSymbolSpaceHtml(attributesSource: string): string {
+  const attributes = attributesFromSource(
+    attributesSource,
+    "PaperSymbolSpace",
+    SPACE_PROPS,
+  );
+  if (
+    attributes.size !== undefined &&
+    !isOneOf(PAPER_SYMBOL_SIZES, attributes.size)
+  ) {
+    throw new Error(
+      `PaperSymbolSpace prop "size" received ${JSON.stringify(attributes.size)}; allowed values: ${PAPER_SYMBOL_SIZES.join(", ")}.`,
+    );
+  }
+  const size = attributes.size ?? DEFAULT_SIZE;
+  const sizePx = SIZE_PX[size];
+  return `<span aria-hidden="true" data-paper-symbol-space="" data-paper-symbol-space-size="${size}" style="display:inline-block;flex:none;vertical-align:middle;height:${sizePx}px;width:${sizePx}px"></span>`;
 }
 
 function replacePaperSymbolChunk(chunk: string): string {
@@ -320,7 +414,12 @@ function replacePaperSymbolChunk(chunk: string): string {
     },
   );
 
-  const rendered = withGroups.replace(
+  const withSpaces = withGroups.replace(
+    PAPER_SYMBOL_SPACE,
+    (_match, _attributes, _offset, _source, groups) =>
+      paperSymbolSpaceHtml(groups.attributes),
+  );
+  const rendered = withSpaces.replace(
     PAPER_SYMBOL,
     (_match, _attributes, _offset, _source, groups) =>
       paperSymbolHtml(groups.attributes),
@@ -394,8 +493,34 @@ function paperSymbolNode(node: MdxElement): NativeNode {
       role: "img",
       style: `display:inline-flex;flex:none;overflow:hidden;vertical-align:middle;line-height:1;height:${sizePx}px;width:${visibleWidth}px`,
     },
-    [computerSvg(size)],
+    [symbolSvg(name, size)],
   );
+}
+
+function paperSymbolSpaceNode(node: MdxElement): NativeNode {
+  const attributes = staticAttributes(node, "PaperSymbolSpace", SPACE_PROPS);
+  if (
+    attributes.size !== undefined &&
+    !isOneOf(PAPER_SYMBOL_SIZES, attributes.size)
+  ) {
+    throw new Error(
+      `PaperSymbolSpace prop "size" received ${JSON.stringify(attributes.size)}; allowed values: ${PAPER_SYMBOL_SIZES.join(", ")}.`,
+    );
+  }
+  if (node.children.some((child) => !isWhitespace(child))) {
+    throw new Error(
+      "PaperSymbolSpace must be empty and authored as a self-closing component.",
+    );
+  }
+
+  const size = attributes.size ?? DEFAULT_SIZE;
+  const sizePx = SIZE_PX[size];
+  return nativeNode("span", {
+    "aria-hidden": "true",
+    dataPaperSymbolSpace: "",
+    dataPaperSymbolSpaceSize: size,
+    style: `display:inline-block;flex:none;vertical-align:middle;height:${sizePx}px;width:${sizePx}px`,
+  });
 }
 
 function paperSymbolGroupNode(node: MdxElement): NativeNode {
@@ -441,6 +566,10 @@ function transformChildren(parent: Root | Parent): void {
     const child = parent.children[index] as RootContent;
     if (isMdxElement(child, "PaperSymbol")) {
       parent.children[index] = paperSymbolNode(child) as unknown as RootContent;
+    } else if (isMdxElement(child, "PaperSymbolSpace")) {
+      parent.children[index] = paperSymbolSpaceNode(
+        child,
+      ) as unknown as RootContent;
     } else if (isMdxElement(child, "PaperSymbolGroup")) {
       parent.children[index] = paperSymbolGroupNode(
         child,

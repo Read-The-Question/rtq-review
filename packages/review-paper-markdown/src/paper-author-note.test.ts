@@ -57,6 +57,27 @@ for (const mdx of [true, false]) {
   });
 }
 
+for (const mdx of [true, false]) {
+  test(`renders a typed ${mdx ? "MDX" : "raw Markdown"} author note`, async () => {
+    const html = await render(
+      [
+        '<PaperAuthorNote type="rtq.paperauthornote.deviation-from-original">',
+        "",
+        "Deviation context.",
+        "",
+        "</PaperAuthorNote>",
+      ].join("\n"),
+      mdx,
+    );
+
+    assert.match(
+      html,
+      /data-paper-author-note-type="rtq\.paperauthornote\.deviation-from-original"/,
+    );
+    assert.doesNotMatch(html, /<\/?PaperAuthorNote/);
+  });
+}
+
 test("leaves fenced PaperAuthorNote examples literal", async () => {
   const html = await render(
     "```mdx\n<PaperAuthorNote>\n\nExample\n\n</PaperAuthorNote>\n```",
@@ -70,6 +91,14 @@ test("leaves fenced PaperAuthorNote examples literal", async () => {
 test("rejects unsupported author note shapes", async () => {
   for (const [source, mdx] of [
     ['<PaperAuthorNote kind="warning">\n\nText\n\n</PaperAuthorNote>', true],
+    [
+      '<PaperAuthorNote type="rtq.paperauthornote.unknown">\n\nText\n\n</PaperAuthorNote>',
+      true,
+    ],
+    [
+      '<PaperAuthorNote type="rtq.paperauthornote.unknown">\n\nText\n\n</PaperAuthorNote>',
+      false,
+    ],
     ["<PaperAuthorNote></PaperAuthorNote>", true],
     ["<PaperAuthorNote>\n\n</PaperAuthorNote>", false],
     ["Before <PaperAuthorNote>inline</PaperAuthorNote>", false],

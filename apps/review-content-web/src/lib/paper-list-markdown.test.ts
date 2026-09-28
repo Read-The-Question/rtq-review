@@ -176,11 +176,15 @@ test('renders PaperAuthorNote as labelled internal content with KaTeX', () => {
           remarkPaperAuthorNote,
         ],
       },
-      '<PaperAuthorNote>\n\nCheck **every** $x^2$ variant.\n\n</PaperAuthorNote>',
+      '<PaperAuthorNote type="rtq.paperauthornote.deviation-from-original">\n\nCheck **every** $x^2$ variant.\n\n</PaperAuthorNote>',
     ),
   );
 
   assert.match(html, /<aside[^>]*class="paper-author-note"/);
+  assert.match(
+    html,
+    /data-paper-author-note-type="rtq\.paperauthornote\.deviation-from-original"/,
+  );
   assert.match(html, /Paper author note · internal only/);
   assert.match(html, /<strong>every<\/strong>/);
   assert.match(html, /class="katex"/);

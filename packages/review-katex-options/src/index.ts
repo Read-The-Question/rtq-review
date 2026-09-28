@@ -35,6 +35,10 @@ export const RTQ_BINARY_OPERATOR_SYMBOL_MACROS = {
     "\\mathbin{\\rtqMathsSymbolBlackSquare}",
 } as const;
 
+export const RTQ_ROLE_NEUTRAL_SYMBOL_MACROS = {
+  "\\rtqMathsSymbolRightArrow": "\\rightarrow",
+} as const;
+
 export const RTQ_ELLIPSIS_EMPTY_MACROS = {
   "\\rtqMathsEllipsisEmptyValueOneDigitWide":
     "\\rtqMathsBoxedEmptyValueOneDigitWide",
@@ -210,6 +214,7 @@ export function getRtqReviewKatexOptions<
         RTQ_COLUMNAR_ARITHMETIC_STYLE_EXPANSION,
       [RTQ_COLUMNAR_DECIMAL_POINT_MACRO]: RTQ_COLUMNAR_DECIMAL_POINT_EXPANSION,
       ...RTQ_QUESTION_MARK_PLACEHOLDER_MACROS,
+      ...RTQ_ROLE_NEUTRAL_SYMBOL_MACROS,
       ...RTQ_BINARY_OPERATOR_SYMBOL_MACROS,
       ...RTQ_ELLIPSIS_EMPTY_MACROS,
       [RTQ_SEQUENCE_ELLIPSIS_MACRO]: RTQ_SEQUENCE_ELLIPSIS_EXPANSION,

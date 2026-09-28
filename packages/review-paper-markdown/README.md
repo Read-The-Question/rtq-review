@@ -5,12 +5,21 @@ applications. It does not import application UI or content repositories.
 
 ## PaperAuthorNote
 
-`PaperAuthorNote` is a children-only, internal authoring wrapper. The shared
-transform renders it as a semantic, visibly labelled note in review surfaces
-while preserving Markdown, GFM tables and lists, KaTeX source, and supported
-paper components inside it. The wrapper accepts no attributes, must be a
-standalone non-empty block, and cannot be nested. Fenced examples remain
+`PaperAuthorNote` is an internal authoring wrapper. The shared transform
+renders it as a semantic, visibly labelled note in review surfaces while
+preserving Markdown, GFM tables and lists, KaTeX source, and supported paper
+components inside it. The optional literal `type` prop accepts only the
+documented `rtq.paperauthornote.*` identifiers and is emitted as
+`data-paper-author-note-type`. No other props are supported. The wrapper must
+be a standalone non-empty block and cannot be nested. Fenced examples remain
 literal.
+
+## PaperSymbol
+
+`PaperSymbol`, `PaperSymbolGroup`, and `PaperSymbolSpace` share the
+content-owned symbol contract. `PaperSymbolSpace` renders an aria-hidden,
+symbol-sized layout box for intentionally empty pictogram cells; it draws no
+symbol and contributes no accessible content.
 
 ## PaperList
 

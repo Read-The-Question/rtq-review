@@ -57,11 +57,39 @@ test("uses the documented symbol defaults", async () => {
   assert.match(html, /One full computer pictogram symbol/);
 });
 
+test("renders full and half lorry symbols", async () => {
+  const html = await render(
+    '<PaperSymbolGroup gap="md"><PaperSymbol name="lorry" size="xl" /><PaperSymbol name="lorry" variant="half" size="xl" /></PaperSymbolGroup>',
+  );
+
+  assert.equal(html.match(/data-paper-symbol-name="lorry"/g)?.length, 2);
+  assert.match(html, /One full lorry pictogram symbol/);
+  assert.match(html, /One half of a lorry pictogram symbol/);
+  assert.match(html, /height:48px;width:24px/);
+  assert.match(html, /<path[^>]*d="M14 18V6a2 2 0 0 0-2-2H4/);
+  assert.match(html, /<path[^>]*fill="none"/);
+});
+
+test("reserves an accessibility-hidden symbol space", async () => {
+  const html = await render('<PaperSymbolSpace size="xl" />');
+
+  assert.match(html, /aria-hidden="true"/);
+  assert.match(html, /data-paper-symbol-space=""/);
+  assert.match(html, /data-paper-symbol-space-size="xl"/);
+  assert.match(html, /height:48px;width:48px/);
+  assert.doesNotMatch(html, /PaperSymbolSpace/);
+});
+
 test("rejects invalid symbols, props, expressions, and group children", async () => {
   const cases = [
     ['<PaperSymbol name="screen" />', 'prop "name"'],
     ['<PaperSymbol name="computer" variant="quarter" />', 'prop "variant"'],
-    ['<PaperSymbol name="computer" size="xl" />', 'prop "size"'],
+    ['<PaperSymbol name="computer" size="xxl" />', 'prop "size"'],
+    ['<PaperSymbolSpace size="xxl" />', 'PaperSymbolSpace prop "size"'],
+    [
+      '<PaperSymbolSpace name="lorry" />',
+      'PaperSymbolSpace prop "name" is unsupported',
+    ],
     [
       '<PaperSymbol name="computer" title="Monitor" />',
       'prop "title" is unsupported',

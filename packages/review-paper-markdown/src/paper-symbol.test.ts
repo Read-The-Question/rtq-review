@@ -70,6 +70,19 @@ test("renders full and half lorry symbols", async () => {
   assert.match(html, /<path[^>]*fill="none"/);
 });
 
+test("renders full and half outline woodlouse symbols", async () => {
+  const html = await render(
+    '<PaperSymbolGroup gap="sm"><PaperSymbol name="woodlouse" size="xl" /><PaperSymbol name="woodlouse" variant="half" size="xl" /></PaperSymbolGroup>',
+  );
+
+  assert.equal(html.match(/data-paper-symbol-name="woodlouse"/g)?.length, 2);
+  assert.match(html, /One full woodlouse pictogram symbol/);
+  assert.match(html, /One half of a woodlouse pictogram symbol/);
+  assert.match(html, /height:48px;width:24px/);
+  assert.match(html, /<svg[^>]*fill="none"/);
+  assert.match(html, /<path[^>]*fill="none"[^>]*d="M12 20v-9"/);
+});
+
 test("reserves an accessibility-hidden symbol space", async () => {
   const html = await render('<PaperSymbolSpace size="xl" />');
 

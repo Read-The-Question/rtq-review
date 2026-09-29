@@ -1,7 +1,18 @@
 import type { Data, Parent, Root, RootContent } from "mdast";
 import type { Plugin } from "unified";
 
-export const PAPER_SYMBOL_NAMES = ["computer", "lorry", "woodlouse"] as const;
+export const PAPER_SYMBOL_NAMES = [
+  "computer",
+  "lorry",
+  "woodlouse",
+  "square",
+  "circle",
+  "triangle",
+  "hexagon",
+  "diamond",
+  "sun",
+  "club-suit",
+] as const;
 export const PAPER_SYMBOL_VARIANTS = ["full", "half", "four-fifths"] as const;
 export const PAPER_SYMBOL_SIZES = ["sm", "md", "lg", "xl"] as const;
 export const PAPER_SYMBOL_GROUP_GAPS = ["sm", "md", "lg"] as const;
@@ -303,18 +314,216 @@ function woodlouseSvg(size: PaperSymbolSize): NativeNode {
   );
 }
 
+function clubSuitSvg(size: PaperSymbolSize): NativeNode {
+  const sizePx = SIZE_PX[size];
+  const pathProperties = {
+    fill: "currentColor",
+    stroke: "currentColor",
+    strokeLinecap: "round",
+    strokeLinejoin: "round",
+    strokeWidth: 1.5,
+  };
+
+  return nativeNode(
+    "svg",
+    {
+      "aria-hidden": "true",
+      fill: "currentColor",
+      focusable: "false",
+      height: sizePx,
+      preserveAspectRatio: "xMinYMid meet",
+      style: "display:block;max-width:none;flex:none",
+      viewBox: "0 0 24 24",
+      width: sizePx,
+      xmlns: "http://www.w3.org/2000/svg",
+    },
+    [
+      nativeNode("path", {
+        ...pathProperties,
+        d: "M17.28 9.05a5.5 5.5 0 1 0-10.56 0A5.5 5.5 0 1 0 12 17.66a5.5 5.5 0 1 0 5.28-8.6Z",
+      }),
+      nativeNode("path", {
+        ...pathProperties,
+        d: "M12 17.66L12 22",
+      }),
+    ],
+  );
+}
+
+type GeometricSymbolName = Extract<
+  PaperSymbolName,
+  "circle" | "diamond" | "hexagon" | "square" | "sun" | "triangle"
+>;
+
+function geometricSvg(
+  name: GeometricSymbolName,
+  size: PaperSymbolSize,
+): NativeNode {
+  const sizePx = SIZE_PX[size];
+  const shapeProperties = {
+    fill: "none",
+    stroke: "currentColor",
+    strokeLinecap: "round",
+    strokeLinejoin: "round",
+    strokeWidth: 1.5,
+  };
+  let shapes: NativeNode[];
+
+  switch (name) {
+    case "square":
+      shapes = [
+        nativeNode("rect", {
+          ...shapeProperties,
+          height: 18,
+          rx: 2,
+          width: 18,
+          x: 3,
+          y: 3,
+        }),
+      ];
+      break;
+    case "circle":
+      shapes = [
+        nativeNode("circle", {
+          ...shapeProperties,
+          cx: 12,
+          cy: 12,
+          r: 10,
+        }),
+      ];
+      break;
+    case "triangle":
+      shapes = [
+        nativeNode("path", {
+          ...shapeProperties,
+          d: "M13.73 4a2 2 0 0 0-3.46 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z",
+        }),
+      ];
+      break;
+    case "hexagon":
+      shapes = [
+        nativeNode("path", {
+          ...shapeProperties,
+          d: "M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z",
+        }),
+      ];
+      break;
+    case "diamond":
+      shapes = [
+        nativeNode("path", {
+          ...shapeProperties,
+          d: "M2.7 10.3a2.41 2.41 0 0 0 0 3.41l7.59 7.59a2.41 2.41 0 0 0 3.41 0l7.59-7.59a2.41 2.41 0 0 0 0-3.41l-7.59-7.59a2.41 2.41 0 0 0-3.41 0Z",
+        }),
+      ];
+      break;
+    case "sun":
+      shapes = [
+        nativeNode("circle", {
+          ...shapeProperties,
+          cx: 12,
+          cy: 12,
+          r: 4,
+        }),
+        ...[
+          "M12 2v2",
+          "M12 20v2",
+          "m4.93 4.93 1.41 1.41",
+          "m17.66 17.66 1.41 1.41",
+          "M2 12h2",
+          "M20 12h2",
+          "m6.34 17.66-1.41 1.41",
+          "m19.07 4.93-1.41 1.41",
+        ].map((d) => nativeNode("path", { ...shapeProperties, d })),
+      ];
+      break;
+  }
+
+  return nativeNode(
+    "svg",
+    {
+      "aria-hidden": "true",
+      fill: "none",
+      focusable: "false",
+      height: sizePx,
+      preserveAspectRatio: "xMinYMid meet",
+      style: "display:block;max-width:none;flex:none",
+      viewBox: "0 0 24 24",
+      width: sizePx,
+      xmlns: "http://www.w3.org/2000/svg",
+    },
+    shapes,
+  );
+}
+
 function symbolSvg(name: PaperSymbolName, size: PaperSymbolSize): NativeNode {
   switch (name) {
     case "lorry":
       return lorrySvg(size);
     case "woodlouse":
       return woodlouseSvg(size);
+    case "club-suit":
+      return clubSuitSvg(size);
+    case "square":
+    case "circle":
+    case "triangle":
+    case "hexagon":
+    case "diamond":
+    case "sun":
+      return geometricSvg(name, size);
     default:
       return computerSvg(size);
   }
 }
 
 function symbolSvgHtml(name: PaperSymbolName): readonly string[] {
+  if (name === "square") {
+    return [
+      '<rect fill="none" height="18" rx="2" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" width="18" x="3" y="3"></rect>',
+    ];
+  }
+  if (name === "circle") {
+    return [
+      '<circle cx="12" cy="12" fill="none" r="10" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></circle>',
+    ];
+  }
+  if (name === "triangle") {
+    return [
+      '<path d="M13.73 4a2 2 0 0 0-3.46 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
+    ];
+  }
+  if (name === "hexagon") {
+    return [
+      '<path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
+    ];
+  }
+  if (name === "diamond") {
+    return [
+      '<path d="M2.7 10.3a2.41 2.41 0 0 0 0 3.41l7.59 7.59a2.41 2.41 0 0 0 3.41 0l7.59-7.59a2.41 2.41 0 0 0 0-3.41l-7.59-7.59a2.41 2.41 0 0 0-3.41 0Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
+    ];
+  }
+  if (name === "sun") {
+    const shapeAttributes =
+      'fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"';
+    return [
+      `<circle cx="12" cy="12" r="4" ${shapeAttributes}></circle>`,
+      ...[
+        "M12 2v2",
+        "M12 20v2",
+        "m4.93 4.93 1.41 1.41",
+        "m17.66 17.66 1.41 1.41",
+        "M2 12h2",
+        "M20 12h2",
+        "m6.34 17.66-1.41 1.41",
+        "m19.07 4.93-1.41 1.41",
+      ].map((d) => `<path d="${d}" ${shapeAttributes}></path>`),
+    ];
+  }
+  if (name === "club-suit") {
+    return [
+      '<path d="M17.28 9.05a5.5 5.5 0 1 0-10.56 0A5.5 5.5 0 1 0 12 17.66a5.5 5.5 0 1 0 5.28-8.6Z" fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
+      '<path d="M12 17.66L12 22" fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
+    ];
+  }
   if (name === "lorry") {
     return [
       '<path d="M14 18V6a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v11a1 1 0 0 0 1 1h2" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
@@ -423,7 +632,10 @@ function paperSymbolHtml(attributesSource: string): string {
   const sizePx = SIZE_PX[size];
   const visibleWidth = Math.round(sizePx * VARIANT_RATIO[variant] * 100) / 100;
   const label = `${VARIANT_LABEL[variant]} ${name} pictogram symbol`;
-  const fill = name === "lorry" ? "none" : "currentColor";
+  const fill =
+    name === "computer" || name === "woodlouse" || name === "club-suit"
+      ? "currentColor"
+      : "none";
 
   return [
     `<span aria-label="${label}" data-paper-symbol="" data-paper-symbol-name="${name}" data-paper-symbol-size="${size}" data-paper-symbol-variant="${variant}" role="img" style="display:inline-flex;flex:none;overflow:hidden;vertical-align:middle;line-height:1;height:${sizePx}px;width:${visibleWidth}px">`,

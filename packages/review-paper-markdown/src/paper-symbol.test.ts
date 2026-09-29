@@ -83,6 +83,58 @@ test("renders full and half filled woodlouse symbols", async () => {
   assert.match(html, /<path[^>]*fill="currentColor"[^>]*d="M12 20v-9"/);
 });
 
+test("renders the filled Lucide club suit", async () => {
+  const html = await render('<PaperSymbol name="club-suit" size="lg" />');
+
+  assert.match(html, /data-paper-symbol-name="club-suit"/);
+  assert.match(html, /One full club-suit pictogram symbol/);
+  assert.match(html, /<svg[^>]*fill="currentColor"/);
+  assert.match(html, /<path[^>]*d="M17\.28 9\.05a5\.5 5\.5/);
+});
+
+test("renders a club suit between adjacent inline maths spans", async () => {
+  const html = await render(
+    '$a + b$<PaperSymbol name="club-suit" size="md" />,$c + d$',
+  );
+
+  assert.match(html, /data-paper-symbol-name="club-suit"/);
+  assert.match(html, /data-paper-symbol-size="md"/);
+  assert.doesNotMatch(html, /PaperSymbol/);
+});
+
+test("renders the six geometric Lucide symbols as outlines", async () => {
+  const html = await render(
+    [
+      '<PaperSymbol name="square" size="lg" />',
+      '<PaperSymbol name="circle" size="lg" />',
+      '<PaperSymbol name="triangle" size="lg" />',
+      '<PaperSymbol name="hexagon" size="lg" />',
+      '<PaperSymbol name="diamond" size="lg" />',
+      '<PaperSymbol name="sun" size="lg" />',
+    ].join(" "),
+  );
+
+  for (const name of [
+    "square",
+    "circle",
+    "triangle",
+    "hexagon",
+    "diamond",
+    "sun",
+  ]) {
+    assert.match(html, new RegExp(`data-paper-symbol-name="${name}"`));
+    assert.match(html, new RegExp(`One full ${name} pictogram symbol`));
+  }
+  assert.equal(html.match(/<svg[^>]*fill="none"/g)?.length, 6);
+  assert.match(html, /<rect[^>]*height="18"[^>]*rx="2"/);
+  assert.match(html, /<circle[^>]*cx="12"[^>]*r="10"/);
+  assert.match(html, /<path[^>]*d="M13\.73 4a2 2/);
+  assert.match(html, /<path[^>]*d="M21 16V8a2 2/);
+  assert.match(html, /<path[^>]*d="M2\.7 10\.3a2\.41 2\.41/);
+  assert.match(html, /<circle[^>]*cx="12"[^>]*r="4"/);
+  assert.match(html, /<path[^>]*d="M12 2v2"/);
+});
+
 test("reserves an accessibility-hidden symbol space", async () => {
   const html = await render('<PaperSymbolSpace size="xl" />');
 

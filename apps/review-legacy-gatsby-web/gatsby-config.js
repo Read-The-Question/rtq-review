@@ -25,11 +25,6 @@ const rtqKatexMacros = {
     "\\mathord{\\begin{matrix}\\square\\phantom{\\square}\\\\\\square\\phantom{\\square}\\end{matrix}}",
   "\\rtqMathsBespokeSymbolFourPanePictogramThreeQuarters":
     "\\mathord{\\begin{matrix}\\square\\square\\\\\\square\\phantom{\\square}\\end{matrix}}",
-  "\\rtqMathsBespokeSymbolOutlinedDiamond": "\\lozenge",
-  "\\rtqMathsBespokeSymbolSunWithRays": "\\text{\\char\"263C}",
-  "\\rtqMathsBespokeSymbolOutlinedCircle": "\\bigcirc",
-  "\\rtqMathsBespokeSymbolOutlinedTriangle": "\\bigtriangleup",
-  "\\rtqMathsBespokeSymbolOutlinedHexagon": "\\text{\\char\"2B21}",
   "\\rtqMathsSymbolDollar": "\\text{\\textdollar}",
   "\\rtqMathsSymbolEuro": "\\text{€}",
   "\\rtqMathsSymbolAsterisk": "\\ast",
@@ -41,7 +36,6 @@ const rtqKatexMacros = {
   "\\rtqMathsSymbolBlackCircle": "\\mathord{\\Large\\bullet}",
   "\\rtqMathsSymbolBlackLozenge": "\\blacklozenge",
   "\\rtqMathsSymbolBlackSmilingFace": "\\text{\\char\"263B}",
-  "\\rtqMathsSymbolBlackClubSuit": "\\clubsuit",
   "\\rtqMathsBinaryOperatorAsterisk":
     "\\mathbin{\\rtqMathsSymbolAsterisk}",
   "\\rtqMathsBinaryOperatorBoxDot":

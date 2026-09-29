@@ -12,6 +12,9 @@ export const PAPER_SYMBOL_NAMES = [
   "diamond",
   "sun",
   "club-suit",
+  "smiling-face",
+  "black-triangle",
+  "black-heart",
 ] as const;
 export const PAPER_SYMBOL_VARIANTS = ["full", "half", "four-fifths"] as const;
 export const PAPER_SYMBOL_SIZES = ["sm", "md", "lg", "xl"] as const;
@@ -352,7 +355,13 @@ function clubSuitSvg(size: PaperSymbolSize): NativeNode {
 
 type GeometricSymbolName = Extract<
   PaperSymbolName,
-  "circle" | "diamond" | "hexagon" | "square" | "sun" | "triangle"
+  | "circle"
+  | "diamond"
+  | "hexagon"
+  | "smiling-face"
+  | "square"
+  | "sun"
+  | "triangle"
 >;
 
 function geometricSvg(
@@ -436,6 +445,34 @@ function geometricSvg(
         ].map((d) => nativeNode("path", { ...shapeProperties, d })),
       ];
       break;
+    case "smiling-face":
+      shapes = [
+        nativeNode("circle", {
+          ...shapeProperties,
+          cx: 12,
+          cy: 12,
+          r: 10,
+        }),
+        nativeNode("path", {
+          ...shapeProperties,
+          d: "M8 14s1.5 2 4 2 4-2 4-2",
+        }),
+        nativeNode("line", {
+          ...shapeProperties,
+          x1: 9,
+          x2: 9.01,
+          y1: 9,
+          y2: 9,
+        }),
+        nativeNode("line", {
+          ...shapeProperties,
+          x1: 15,
+          x2: 15.01,
+          y1: 9,
+          y2: 9,
+        }),
+      ];
+      break;
   }
 
   return nativeNode(
@@ -463,15 +500,55 @@ function symbolSvg(name: PaperSymbolName, size: PaperSymbolSize): NativeNode {
       return woodlouseSvg(size);
     case "club-suit":
       return clubSuitSvg(size);
+    case "black-triangle":
+    case "black-heart":
+      return filledShapeSvg(name, size);
     case "square":
     case "circle":
     case "triangle":
     case "hexagon":
     case "diamond":
     case "sun":
+    case "smiling-face":
       return geometricSvg(name, size);
     default:
       return computerSvg(size);
+  }
+
+  function filledShapeSvg(
+    name: Extract<PaperSymbolName, "black-heart" | "black-triangle">,
+    size: PaperSymbolSize,
+  ): NativeNode {
+    const sizePx = SIZE_PX[size];
+    const d =
+      name === "black-triangle"
+        ? "M13.73 4a2 2 0 0 0-3.46 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"
+        : "M2 9.5a5.5 5.5 0 0 1 9.591-3.676.56.56 0 0 0 .818 0A5.49 5.49 0 0 1 22 9.5c0 2.29-1.5 4-3 5.5l-5.492 5.313a2 2 0 0 1-3 .019L5 15c-1.5-1.5-3-3.2-3-5.5";
+
+    return nativeNode(
+      "svg",
+      {
+        "aria-hidden": "true",
+        fill: "currentColor",
+        focusable: "false",
+        height: sizePx,
+        preserveAspectRatio: "xMinYMid meet",
+        style: "display:block;max-width:none;flex:none",
+        viewBox: "0 0 24 24",
+        width: sizePx,
+        xmlns: "http://www.w3.org/2000/svg",
+      },
+      [
+        nativeNode("path", {
+          d,
+          fill: "currentColor",
+          stroke: "currentColor",
+          strokeLinecap: "round",
+          strokeLinejoin: "round",
+          strokeWidth: 1.5,
+        }),
+      ],
+    );
   }
 }
 
@@ -522,6 +599,26 @@ function symbolSvgHtml(name: PaperSymbolName): readonly string[] {
     return [
       '<path d="M17.28 9.05a5.5 5.5 0 1 0-10.56 0A5.5 5.5 0 1 0 12 17.66a5.5 5.5 0 1 0 5.28-8.6Z" fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
       '<path d="M12 17.66L12 22" fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
+    ];
+  }
+  if (name === "smiling-face") {
+    const shapeAttributes =
+      'fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"';
+    return [
+      `<circle cx="12" cy="12" r="10" ${shapeAttributes}></circle>`,
+      `<path d="M8 14s1.5 2 4 2 4-2 4-2" ${shapeAttributes}></path>`,
+      `<line x1="9" x2="9.01" y1="9" y2="9" ${shapeAttributes}></line>`,
+      `<line x1="15" x2="15.01" y1="9" y2="9" ${shapeAttributes}></line>`,
+    ];
+  }
+  if (name === "black-triangle") {
+    return [
+      '<path d="M13.73 4a2 2 0 0 0-3.46 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z" fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
+    ];
+  }
+  if (name === "black-heart") {
+    return [
+      '<path d="M2 9.5a5.5 5.5 0 0 1 9.591-3.676.56.56 0 0 0 .818 0A5.49 5.49 0 0 1 22 9.5c0 2.29-1.5 4-3 5.5l-5.492 5.313a2 2 0 0 1-3 .019L5 15c-1.5-1.5-3-3.2-3-5.5" fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
     ];
   }
   if (name === "lorry") {
@@ -633,7 +730,11 @@ function paperSymbolHtml(attributesSource: string): string {
   const visibleWidth = Math.round(sizePx * VARIANT_RATIO[variant] * 100) / 100;
   const label = `${VARIANT_LABEL[variant]} ${name} pictogram symbol`;
   const fill =
-    name === "computer" || name === "woodlouse" || name === "club-suit"
+    name === "computer" ||
+    name === "woodlouse" ||
+    name === "club-suit" ||
+    name === "black-triangle" ||
+    name === "black-heart"
       ? "currentColor"
       : "none";
 

@@ -35,7 +35,6 @@ const reviewerKatexMacros: Record<string, string> = {
   '\\rtqMathsSymbolWhiteSquare': '\\square',
   '\\rtqMathsSymbolBlackCircle': '\\mathord{\\Large\\bullet}',
   '\\rtqMathsSymbolBlackLozenge': '\\blacklozenge',
-  '\\rtqMathsSymbolBlackSmilingFace': '\\text{\\char"263B}',
   '\\rtqMathsBinaryOperatorAsterisk': '\\mathbin{\\rtqMathsSymbolAsterisk}',
   '\\rtqMathsBinaryOperatorBoxDot': '\\mathbin{\\rtqMathsSymbolBoxDot}',
   '\\rtqMathsBinaryOperatorBlackSquare':

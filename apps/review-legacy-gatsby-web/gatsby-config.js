@@ -35,7 +35,6 @@ const rtqKatexMacros = {
   "\\rtqMathsSymbolWhiteSquare": "\\square",
   "\\rtqMathsSymbolBlackCircle": "\\mathord{\\Large\\bullet}",
   "\\rtqMathsSymbolBlackLozenge": "\\blacklozenge",
-  "\\rtqMathsSymbolBlackSmilingFace": "\\text{\\char\"263B}",
   "\\rtqMathsBinaryOperatorAsterisk":
     "\\mathbin{\\rtqMathsSymbolAsterisk}",
   "\\rtqMathsBinaryOperatorBoxDot":

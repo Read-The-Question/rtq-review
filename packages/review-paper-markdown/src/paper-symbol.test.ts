@@ -92,6 +92,27 @@ test("renders the filled Lucide club suit", async () => {
   assert.match(html, /<path[^>]*d="M17\.28 9\.05a5\.5 5\.5/);
 });
 
+test("renders the outline Lucide smiling face", async () => {
+  const html = await render('<PaperSymbol name="smiling-face" size="md" />');
+
+  assert.match(html, /data-paper-symbol-name="smiling-face"/);
+  assert.match(html, /One full smiling-face pictogram symbol/);
+  assert.match(html, /<svg[^>]*fill="none"/);
+  assert.match(html, /<path[^>]*d="M8 14s1\.5 2 4 2 4-2 4-2"/);
+});
+
+test("renders the filled Lucide triangle and heart", async () => {
+  const html = await render(
+    '<PaperSymbol name="black-triangle" size="lg" /><PaperSymbol name="black-heart" size="lg" />',
+  );
+
+  assert.match(html, /data-paper-symbol-name="black-triangle"/);
+  assert.match(html, /data-paper-symbol-name="black-heart"/);
+  assert.equal(html.match(/<svg[^>]*fill="currentColor"/g)?.length, 2);
+  assert.match(html, /<path[^>]*d="M13\.73 4a2 2/);
+  assert.match(html, /<path[^>]*d="M2 9\.5a5\.5 5\.5/);
+});
+
 test("renders a club suit between adjacent inline maths spans", async () => {
   const html = await render(
     '$a + b$<PaperSymbol name="club-suit" size="md" />,$c + d$',

@@ -61,12 +61,6 @@ const reviewerKatexMacros: Record<string, string> = {
   '\\green': '\\textcolor{green}{#1}',
   '\\rtqMathsMultiplyCarryOver': '\\scriptstyle \\grayF{#1}',
   '\\red': '\\textcolor{red}{#1}',
-  '\\rtqMathsSequenceStep':
-    '\\htmlClass{rtq-maths-working-step}{\\footnotesize{(#1)}}',
-  '\\rtqMathsSequenceStepBare':
-    '\\htmlClass{rtq-maths-working-step}{\\footnotesize{#1}}',
-  '\\rtqMathsSolvedOrder':
-    '\\htmlClass{rtq-maths-working-step}{\\footnotesize{(#1)}}',
   '\\rtqMathsSubtractBorrow': '\\textstyle \\green',
 };
 

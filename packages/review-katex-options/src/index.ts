@@ -11,11 +11,21 @@ export const RTQ_WORKING_ANNOTATION_MACRO =
   "\\rtqMathsWorkingAnnotation" as const;
 
 export const RTQ_EQUATION_NUMBER_EXPANSION =
-  "\\htmlClass{rtq-maths-equation-number}{\\footnotesize{(#1)}}" as const;
+  "\\htmlClass{rtq-maths-equation-number}{\\rtqMathsSizeFour{(#1)}}" as const;
 export const RTQ_CELL_LABEL_NUMBER_EXPANSION =
   "\\htmlClass{rtq-maths-cell-label-number}{#1}" as const;
 export const RTQ_WORKING_ANNOTATION_EXPANSION =
-  "\\htmlClass{rtq-maths-working-annotation}{\\footnotesize{#1}}" as const;
+  "\\htmlClass{rtq-maths-working-annotation}{\\rtqMathsSizeFour{#1}}" as const;
+
+export const RTQ_WORKING_MARKER_MACROS = {
+  "\\rtqMathsSequenceStep":
+    "\\htmlClass{rtq-maths-working-step}{\\rtqMathsSizeFour{(#1)}}",
+  "\\rtqMathsSequenceStepBare":
+    "\\htmlClass{rtq-maths-working-step}{\\rtqMathsSizeFour{#1}}",
+  "\\rtqMathsSolvedOrder":
+    "\\htmlClass{rtq-maths-working-step}{\\rtqMathsSizeFour{(#1)}}",
+  [RTQ_WORKING_ANNOTATION_MACRO]: RTQ_WORKING_ANNOTATION_EXPANSION,
+} as const;
 
 export const RTQ_COLUMNAR_ARITHMETIC_STYLE_MACRO =
   "\\rtqMathsColumnarArithmeticStyle" as const;
@@ -106,12 +116,21 @@ export const RTQ_LIST_SEPARATOR_MACRO = "\\rtqMathsListSeparator" as const;
 
 export const RTQ_LIST_SEPARATOR_EXPANSION = "\\quad" as const;
 
+export const RTQ_SIZE_FOUR_MACRO = "\\rtqMathsSizeFour" as const;
+
+export const RTQ_SIZE_FOUR_EXPANSION = "\\footnotesize" as const;
+
 export const RTQ_PENDING_SIZE_SWITCHES = {
   "\\rtqMathsSizeSevenPendingReview": "\\large",
   "\\rtqMathsSizeEightPendingReview": "\\Large",
   "\\rtqMathsSizeNinePendingReview": "\\LARGE",
   "\\rtqMathsSizeTenPendingReview": "\\huge",
   "\\rtqMathsSizeElevenPendingReview": "\\Huge",
+} as const;
+
+export const RTQ_SIZE_SWITCHES = {
+  [RTQ_SIZE_FOUR_MACRO]: RTQ_SIZE_FOUR_EXPANSION,
+  ...RTQ_PENDING_SIZE_SWITCHES,
 } as const;
 
 export const RTQ_BOXED_VALUE_MACROS = {
@@ -181,8 +200,7 @@ export const RTQ_EMPTY_VALUE_MACROS = {
   "\\rtqMathsEmptyValueThreeDigitsWide": "\\phantom{000}",
   "\\rtqMathsEmptyValueFourDigitsWide": "\\phantom{0000}",
   "\\rtqMathsEmptyValueFraction": "\\phantom{\\dfrac{0}{0}}",
-  "\\rtqMathsEmptyValueSolvedOrder":
-    "\\phantom{\\htmlClass{rtq-maths-working-step}{\\footnotesize{(0)}}}",
+  "\\rtqMathsEmptyValueSolvedOrder": "\\phantom{\\rtqMathsSolvedOrder{0}}",
 } as const;
 
 type KatexTrustContext = Readonly<{
@@ -215,9 +233,9 @@ export function getRtqReviewKatexOptions<
   return {
     macros: {
       ...reviewerMacros,
+      ...RTQ_WORKING_MARKER_MACROS,
       [RTQ_CELL_LABEL_NUMBER_MACRO]: RTQ_CELL_LABEL_NUMBER_EXPANSION,
       [RTQ_EQUATION_NUMBER_MACRO]: RTQ_EQUATION_NUMBER_EXPANSION,
-      [RTQ_WORKING_ANNOTATION_MACRO]: RTQ_WORKING_ANNOTATION_EXPANSION,
       [RTQ_COLUMNAR_ARITHMETIC_STYLE_MACRO]:
         RTQ_COLUMNAR_ARITHMETIC_STYLE_EXPANSION,
       [RTQ_COLUMNAR_DECIMAL_POINT_MACRO]: RTQ_COLUMNAR_DECIMAL_POINT_EXPANSION,
@@ -233,7 +251,7 @@ export function getRtqReviewKatexOptions<
       ...RTQ_SPACING_MACROS,
       [RTQ_LIST_SEPARATOR_MACRO]: RTQ_LIST_SEPARATOR_EXPANSION,
       ...RTQ_TIME_MERIDIEM_MACROS,
-      ...RTQ_PENDING_SIZE_SWITCHES,
+      ...RTQ_SIZE_SWITCHES,
       ...RTQ_BOXED_VALUE_MACROS,
       ...RTQ_UNDERLINE_VALUE_MACROS,
       ...RTQ_EMPTY_VALUE_MACROS,

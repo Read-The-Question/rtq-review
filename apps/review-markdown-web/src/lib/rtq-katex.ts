@@ -59,13 +59,7 @@ const reviewerKatexMacros: Record<string, string> = {
   '\\rtqMathsAddCarryOver': '\\scriptstyle \\grayF',
   '\\rtqMathsMultiplyCarryOver': '\\scriptstyle \\grayF{#1}',
   '\\rtqMathsSubtractBorrow': '\\textstyle \\green',
-  '\\rtqMathsSequenceStep':
-    '\\htmlClass{rtq-maths-working-step}{\\footnotesize{(#1)}}',
-  '\\rtqMathsSequenceStepBare':
-    '\\htmlClass{rtq-maths-working-step}{\\footnotesize{#1}}',
   '\\rtqMathsIncorrectValue': '\\textcolor{red}{#1}',
-  '\\rtqMathsSolvedOrder':
-    '\\htmlClass{rtq-maths-working-step}{\\footnotesize{(#1)}}',
 };
 
 export const rtqKatexOptions = getRtqReviewKatexOptions(reviewerKatexMacros);

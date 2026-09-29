@@ -31,6 +31,9 @@ import {
   RTQ_ROLE_NEUTRAL_SYMBOL_MACROS,
   RTQ_SEQUENCE_ELLIPSIS_EXPANSION,
   RTQ_SEQUENCE_ELLIPSIS_MACRO,
+  RTQ_SIZE_FOUR_EXPANSION,
+  RTQ_SIZE_FOUR_MACRO,
+  RTQ_SIZE_SWITCHES,
   RTQ_LIST_SEPARATOR_EXPANSION,
   RTQ_LIST_SEPARATOR_MACRO,
   RTQ_SPACING_MACROS,
@@ -43,6 +46,7 @@ import {
   RTQ_WORKING_ANNOTATION_CLASS,
   RTQ_WORKING_ANNOTATION_EXPANSION,
   RTQ_WORKING_ANNOTATION_MACRO,
+  RTQ_WORKING_MARKER_MACROS,
   RTQ_WORKING_STEP_CLASS,
 } from "./index.ts";
 
@@ -79,6 +83,9 @@ test("matches the canonical rtq-content shared macro contracts", () => {
   );
   const workingAnnotation = contract.macros.find(
     ({ name }) => name === RTQ_WORKING_ANNOTATION_MACRO,
+  );
+  const sizeFour = contract.macros.find(
+    ({ name }) => name === RTQ_SIZE_FOUR_MACRO,
   );
   const columnarArithmeticStyle = contract.macros.find(
     ({ name }) => name === RTQ_COLUMNAR_ARITHMETIC_STYLE_MACRO,
@@ -119,6 +126,17 @@ test("matches the canonical rtq-content shared macro contracts", () => {
     name: RTQ_WORKING_ANNOTATION_MACRO,
     semanticClass: RTQ_WORKING_ANNOTATION_CLASS,
   });
+  assert.deepEqual(sizeFour, {
+    expansion: RTQ_SIZE_FOUR_EXPANSION,
+    name: RTQ_SIZE_FOUR_MACRO,
+  });
+  for (const [name, expansion] of Object.entries(RTQ_WORKING_MARKER_MACROS)) {
+    assert.equal(
+      contract.macros.find((macro) => macro.name === name)?.expansion,
+      expansion,
+      name,
+    );
+  }
   assert.deepEqual(columnarArithmeticStyle, {
     expansion: RTQ_COLUMNAR_ARITHMETIC_STYLE_EXPANSION,
     name: RTQ_COLUMNAR_ARITHMETIC_STYLE_MACRO,
@@ -163,6 +181,13 @@ test("matches the canonical rtq-content shared macro contracts", () => {
     );
   }
   assert.deepEqual(pendingSizeSwitches, RTQ_PENDING_SIZE_SWITCHES);
+  for (const [name, expansion] of Object.entries(RTQ_SIZE_SWITCHES)) {
+    assert.equal(
+      contract.macros.find((macro) => macro.name === name)?.expansion,
+      expansion,
+      name,
+    );
+  }
   for (const name of Object.keys(RTQ_BOXED_VALUE_MACROS)) {
     assert.equal(
       contract.macros.some((macro) => macro.name === name),
@@ -616,6 +641,41 @@ test("renders working annotations without adding punctuation", () => {
   assert.ok(text.includes("2 steps"));
   assert.doesNotMatch(text, /\(2 steps\)/);
   assert.doesNotMatch(html, /(?:color:|#[\da-f]{3,8})/i);
+});
+
+test("renders role-specific working markers through the shared subordinate size", () => {
+  const cases = [
+    {
+      source: String.raw`\rtqMathsSolvedOrder{1}`,
+      semanticClass: RTQ_WORKING_STEP_CLASS,
+      text: "(1)",
+    },
+    {
+      source: String.raw`\rtqMathsSequenceStep{+2}`,
+      semanticClass: RTQ_WORKING_STEP_CLASS,
+      text: "(+2)",
+    },
+    {
+      source: String.raw`\rtqMathsSequenceStepBare{+2}`,
+      semanticClass: RTQ_WORKING_STEP_CLASS,
+      text: "+2",
+    },
+    {
+      source: String.raw`\rtqMathsWorkingAnnotation{\text{note}}`,
+      semanticClass: RTQ_WORKING_ANNOTATION_CLASS,
+      text: "note",
+    },
+  ] as const;
+
+  for (const { semanticClass, source, text } of cases) {
+    const html = katex.renderToString(source, options);
+    const renderedText = html.replace(/<[^>]+>/g, "");
+
+    assert.match(html, new RegExp(`class="[^"]*${semanticClass}`));
+    assert.match(html, /class="[^"]*size4/);
+    assert.ok(renderedText.includes(text));
+    assert.doesNotMatch(html, /katex-error/);
+  }
 });
 
 test("renders cell label numbers without changing their inherited size", () => {

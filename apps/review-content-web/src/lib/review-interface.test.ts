@@ -643,14 +643,26 @@ test('the landing page uses a compact paper-first introduction', async () => {
 
   assert.match(home, /<PaperIndex[\s\S]*initialQuery=/);
   assert.match(paperIndex, /<h1>Choose a paper<\/h1>/);
+  assert.match(paperIndex, /listPaperCollections\(\)/);
+  assert.match(paperIndex, /availableCollections\.map/);
+  assert.match(paperIndex, /count:\s*0/);
   assert.doesNotMatch(paperIndex, /Change the lens/);
   assert.match(
     browser,
-    /href=\{collectionRoute\(collection\.id, query, contentSearch\)\}/,
+    /href=\{collectionRoute\(\s*collection\.id,\s*query,\s*contentSearch,?\s*\)\}/,
   );
   assert.match(browser, /Search raw content/);
   assert.match(browser, /\/api\/papers\/content-search/);
   assert.match(browser, /aria-current=/);
+  assert.match(browser, /label: 'Collections'/);
+  assert.match(browser, /label: 'Focus'/);
+  assert.match(browser, /label: 'Subsections'/);
+  assert.match(browser, /label: 'Exemplars'/);
+  assert.match(browser, /id: 'focus-papers', label: 'Papers'/);
+  assert.match(browser, /id: 'focus-corpus', label: 'Corpus'/);
+  assert.match(browser, /id: 'focus-rag', label: 'RAG'/);
+  assert.match(browser, /id: 'focus-review-rag'/);
+  assert.match(browser, /label: 'Review RAG'/);
   assert.match(browser, /window\.history\.replaceState/);
   assert.match(browser, /parameters\.set\('q', normalized\)/);
   assert.match(browser, /paper\.relativePath,\s*query,/);
@@ -663,6 +675,8 @@ test('the landing page uses a compact paper-first introduction', async () => {
     css,
     /\.collection-rail\s*{[^}]*background:\s*var\(--paper-deep\)/s,
   );
+  assert.match(css, /\.collection-group-title\s*{/);
+  assert.match(css, /\.collection-subgroup-title\s*{/);
 });
 
 test('the paper rail links to a read-only whole-file macro review', async () => {

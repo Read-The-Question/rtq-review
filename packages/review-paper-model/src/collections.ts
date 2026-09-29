@@ -45,6 +45,16 @@ const COLLECTION_COPY: Record<
     description: 'Focused corpus questions grouped by answer-image RAG',
     label: 'Focus Corpus Answer Image RAG',
   },
+  focusCorpusAnswerImageReviewRagToml: {
+    description:
+      'Focused PRCR and PRCC questions grouped by answer-image RAG and review outcome',
+    label: 'Focus Corpus Answer Image Review RAG',
+  },
+  focusCorpusAnswerReviewRagToml: {
+    description:
+      'Focused PRCR and PRCC questions grouped by answer RAG and review outcome',
+    label: 'Focus Corpus Answer Review RAG',
+  },
   focusCorpusPrimaryTopicAnswerRagToml: {
     description:
       'Focused corpus questions grouped by primary topic and answer RAG',
@@ -61,6 +71,16 @@ const COLLECTION_COPY: Record<
   focusCorpusQuestionImageRagToml: {
     description: 'Focused corpus questions grouped by question-image RAG',
     label: 'Focus Corpus Question Image RAG',
+  },
+  focusCorpusQuestionImageReviewRagToml: {
+    description:
+      'Focused PRCR and PRCC questions grouped by question-image RAG and review outcome',
+    label: 'Focus Corpus Question Image Review RAG',
+  },
+  focusCorpusQuestionReviewRagToml: {
+    description:
+      'Focused PRCR and PRCC questions grouped by question RAG and review outcome',
+    label: 'Focus Corpus Question Review RAG',
   },
   focusPaperAnswerRagToml: {
     description: 'Focused papers split independently by answer RAG',

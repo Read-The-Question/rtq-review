@@ -35,6 +35,88 @@ export type BrowserPaper = Readonly<{
 
 const PAGE_SIZE = 80;
 
+type CollectionNavigationSection = Readonly<{
+  id: 'collections' | 'exemplars' | 'focus' | 'subsections';
+  label: string;
+  subsections: readonly Readonly<{
+    collections: readonly BrowserCollection[];
+    id: string;
+    label?: string;
+  }>[];
+}>;
+
+function collectionNavigationSections(
+  collections: readonly BrowserCollection[],
+): readonly CollectionNavigationSection[] {
+  const canonicalCollections = collections.filter(
+    (collection) =>
+      !collection.id.startsWith('focus') &&
+      !collection.id.startsWith('exemplars') &&
+      collection.id !== 'paperAnswerRagToml',
+  );
+  const focusPapers = collections.filter(
+    (collection) => collection.id === 'focusPaperToml',
+  );
+  const focusCorpus = collections.filter(
+    (collection) => collection.id === 'focusCorpusPrimaryTopicToml',
+  );
+  const focusRag = collections.filter(
+    (collection) =>
+      collection.id.startsWith('focusCorpus') &&
+      collection.id.endsWith('RagToml') &&
+      !collection.id.endsWith('ReviewRagToml'),
+  );
+  const focusReviewRag = collections.filter(
+    (collection) =>
+      collection.id.startsWith('focusCorpus') &&
+      collection.id.endsWith('ReviewRagToml'),
+  );
+  const subsectionCollections = collections.filter(
+    (collection) =>
+      collection.id === 'paperAnswerRagToml' ||
+      collection.id === 'focusPaperAnswerRagToml',
+  );
+  const exemplars = collections.filter((collection) =>
+    collection.id.startsWith('exemplars'),
+  );
+
+  const sections: readonly CollectionNavigationSection[] = [
+    {
+      id: 'collections',
+      label: 'Collections',
+      subsections: [{ collections: canonicalCollections, id: 'collections' }],
+    },
+    {
+      id: 'focus',
+      label: 'Focus',
+      subsections: [
+        { collections: focusPapers, id: 'focus-papers', label: 'Papers' },
+        { collections: focusCorpus, id: 'focus-corpus', label: 'Corpus' },
+        { collections: focusRag, id: 'focus-rag', label: 'RAG' },
+        {
+          collections: focusReviewRag,
+          id: 'focus-review-rag',
+          label: 'Review RAG',
+        },
+      ],
+    },
+    {
+      id: 'subsections',
+      label: 'Subsections',
+      subsections: [{ collections: subsectionCollections, id: 'subsections' }],
+    },
+    {
+      id: 'exemplars',
+      label: 'Exemplars',
+      subsections: [{ collections: exemplars, id: 'exemplars' }],
+    },
+  ];
+
+  return sections.filter((section) =>
+    section.subsections.some((subsection) => subsection.collections.length > 0),
+  );
+}
+
 const contentScopeLabels: Readonly<Record<ContentSearchScope, string>> = {
   all: 'All content',
   answer: 'Answers',
@@ -123,6 +205,7 @@ export function FileBrowser({
   const active = collections.find(
     (collection) => collection.id === activeCollectionId,
   );
+  const navigationSections = collectionNavigationSections(collections);
 
   useEffect(() => {
     if (!contentSearch) return;
@@ -227,22 +310,46 @@ export function FileBrowser({
     <section className="browser" aria-labelledby="browser-title">
       <aside className="collection-rail" aria-label="Paper collections">
         <div className="rail-heading">
-          <p>Collections</p>
+          <p>Content</p>
           <span>{papers.length.toLocaleString()} files</span>
         </div>
-        <div className="collection-list">
-          {collections.map((collection) => (
-            <Link
-              aria-current={
-                collection.id === activeCollectionId ? 'page' : undefined
-              }
-              className="collection-button"
-              href={collectionRoute(collection.id, query, contentSearch)}
-              key={collection.id}
-            >
-              <span>{collection.label}</span>
-              <strong>{collection.count}</strong>
-            </Link>
+        <div className="collection-groups">
+          {navigationSections.map((section) => (
+            <section className="collection-group" key={section.id}>
+              <h2 className="collection-group-title">{section.label}</h2>
+              {section.subsections.map((subsection) =>
+                subsection.collections.length > 0 ? (
+                  <div className="collection-subgroup" key={subsection.id}>
+                    {subsection.label ? (
+                      <h3 className="collection-subgroup-title">
+                        {subsection.label}
+                      </h3>
+                    ) : null}
+                    <div className="collection-list">
+                      {subsection.collections.map((collection) => (
+                        <Link
+                          aria-current={
+                            collection.id === activeCollectionId
+                              ? 'page'
+                              : undefined
+                          }
+                          className="collection-button"
+                          href={collectionRoute(
+                            collection.id,
+                            query,
+                            contentSearch,
+                          )}
+                          key={collection.id}
+                        >
+                          <span>{collection.label}</span>
+                          <strong>{collection.count}</strong>
+                        </Link>
+                      ))}
+                    </div>
+                  </div>
+                ) : null,
+              )}
+            </section>
           ))}
         </div>
         <nav className="reference-list" aria-label="Corpus search">

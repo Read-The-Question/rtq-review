@@ -374,6 +374,30 @@ function parseCorpusRagStem(stem: string) {
   };
 }
 
+function parseCorpusReviewRagStem(stem: string) {
+  const match =
+    /^focus_corpus_(?:question|answer)(?:_image)?_review_rag_([^_]+)_([^_]+)_(\d+)$/i.exec(
+      stem,
+    );
+
+  if (!match) {
+    return null;
+  }
+
+  const contentStatus = formatRagStatus(match[1]);
+  const reviewStatus = match[2].toUpperCase();
+
+  return {
+    navMeta: `Corpus set ${match[3]}`,
+    navStatusKey: match[1].toLowerCase(),
+    navStatus: `${contentStatus} / ${reviewStatus}`,
+    navStatusTone: statusToneFor(contentStatus),
+    navTopicKey: null,
+    navTopicLabel: null,
+    navTitle: `${contentStatus} / ${reviewStatus}`,
+  };
+}
+
 function navigationCopyForFile(folderKey: FolderKey, stem: string) {
   switch (folderKey) {
     case 'toml':
@@ -393,6 +417,11 @@ function navigationCopyForFile(folderKey: FolderKey, stem: string) {
     case 'focusCorpusAnswerImageRagToml':
     case 'focusCorpusQuestionImageRagToml':
       return parseCorpusRagStem(stem);
+    case 'focusCorpusAnswerReviewRagToml':
+    case 'focusCorpusQuestionReviewRagToml':
+    case 'focusCorpusAnswerImageReviewRagToml':
+    case 'focusCorpusQuestionImageReviewRagToml':
+      return parseCorpusReviewRagStem(stem);
     case 'focusCorpusPrimaryTopicAnswerRagToml':
     case 'corpusPrimaryTopicAnswerRagToml':
       return parseRagTopicStem(stem);

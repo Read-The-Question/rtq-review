@@ -97,6 +97,24 @@ export const SOURCE_FOLDERS: Record<
     description: 'Focused corpus questions grouped by answer-image RAG',
     label: 'Focus Corpus Answer Image RAG',
   },
+  focusCorpusAnswerImageReviewRagToml: {
+    absolutePath: path.join(
+      SOURCE_PAPERS_ROOT,
+      'focusCorpusAnswerImageReviewRagToml',
+    ),
+    description:
+      'Focused PRCR and PRCC questions grouped by answer-image RAG and review outcome',
+    label: 'Focus Corpus Answer Image Review RAG',
+  },
+  focusCorpusAnswerReviewRagToml: {
+    absolutePath: path.join(
+      SOURCE_PAPERS_ROOT,
+      'focusCorpusAnswerReviewRagToml',
+    ),
+    description:
+      'Focused PRCR and PRCC questions grouped by answer RAG and review outcome',
+    label: 'Focus Corpus Answer Review RAG',
+  },
   focusCorpusPrimaryTopicAnswerRagToml: {
     absolutePath: path.join(
       SOURCE_PAPERS_ROOT,
@@ -123,6 +141,24 @@ export const SOURCE_FOLDERS: Record<
     ),
     description: 'Focused corpus questions grouped by question-image RAG',
     label: 'Focus Corpus Question Image RAG',
+  },
+  focusCorpusQuestionImageReviewRagToml: {
+    absolutePath: path.join(
+      SOURCE_PAPERS_ROOT,
+      'focusCorpusQuestionImageReviewRagToml',
+    ),
+    description:
+      'Focused PRCR and PRCC questions grouped by question-image RAG and review outcome',
+    label: 'Focus Corpus Question Image Review RAG',
+  },
+  focusCorpusQuestionReviewRagToml: {
+    absolutePath: path.join(
+      SOURCE_PAPERS_ROOT,
+      'focusCorpusQuestionReviewRagToml',
+    ),
+    description:
+      'Focused PRCR and PRCC questions grouped by question RAG and review outcome',
+    label: 'Focus Corpus Question Review RAG',
   },
   focusPaperAnswerRagToml: {
     absolutePath: path.join(SOURCE_PAPERS_ROOT, 'focusPaperAnswerRagToml'),

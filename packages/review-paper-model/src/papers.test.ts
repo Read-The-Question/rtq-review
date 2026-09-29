@@ -33,6 +33,10 @@ const registeredCollections = [
   'focusCorpusAnswerRagToml',
   'focusCorpusQuestionImageRagToml',
   'focusCorpusAnswerImageRagToml',
+  'focusCorpusQuestionReviewRagToml',
+  'focusCorpusAnswerReviewRagToml',
+  'focusCorpusQuestionImageReviewRagToml',
+  'focusCorpusAnswerImageReviewRagToml',
   'corpusPrimaryTopicAnswerRagToml',
   'focusCorpusPrimaryTopicAnswerRagToml',
 ] as const;
@@ -149,6 +153,45 @@ test('indexes focused question-image and answer-image RAG filenames', async () =
       [
         ['focusCorpusQuestionImageRagToml', 'NG3'],
         ['focusCorpusAnswerImageRagToml', 'NG4'],
+      ],
+    );
+  } finally {
+    rmSync(root, { force: true, recursive: true });
+  }
+});
+
+test('indexes focused review RAG filenames by content and review state', async () => {
+  const root = createContentWorkspace([
+    'toml',
+    'focusCorpusQuestionReviewRagToml',
+    'focusCorpusAnswerImageReviewRagToml',
+  ]);
+  writePaper(
+    root,
+    'focusCorpusQuestionReviewRagToml',
+    'focus_corpus_question_review_rag_ng3_prcr_1.toml',
+    simplePaper,
+  );
+  writePaper(
+    root,
+    'focusCorpusAnswerImageReviewRagToml',
+    'focus_corpus_answer_image_review_rag_ng2_prns_1.toml',
+    simplePaper,
+  );
+
+  try {
+    const sources = await listPaperSources({
+      environment: { RTQ_CONTENT_ROOT: root },
+    });
+    assert.deepEqual(
+      sources.flatMap((entry) =>
+        entry.state === 'ready'
+          ? [[entry.source.collection.id, entry.source.ragGrouping]]
+          : [],
+      ),
+      [
+        ['focusCorpusQuestionReviewRagToml', 'NG3 / PRCR'],
+        ['focusCorpusAnswerImageReviewRagToml', 'NG2 / PRNS'],
       ],
     );
   } finally {

@@ -228,6 +228,21 @@ function groupingFromStem(
   }
 
   if (
+    collectionId === 'focusCorpusQuestionReviewRagToml' ||
+    collectionId === 'focusCorpusAnswerReviewRagToml' ||
+    collectionId === 'focusCorpusQuestionImageReviewRagToml' ||
+    collectionId === 'focusCorpusAnswerImageReviewRagToml'
+  ) {
+    const match =
+      /^focus_corpus_(?:question|answer)(?:_image)?_review_rag_([^_]+)_([^_]+)_\d+$/i.exec(
+        stem,
+      );
+    return match
+      ? { ragGrouping: `${match[1].toUpperCase()} / ${match[2].toUpperCase()}` }
+      : {};
+  }
+
+  if (
     collectionId === 'corpusQuestionRagToml' ||
     collectionId === 'corpusAnswerRagToml' ||
     collectionId === 'focusCorpusQuestionRagToml' ||

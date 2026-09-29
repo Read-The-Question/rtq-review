@@ -11,6 +11,10 @@ export type EditableFolderKey =
   | 'focusCorpusAnswerRagToml'
   | 'focusCorpusQuestionImageRagToml'
   | 'focusCorpusAnswerImageRagToml'
+  | 'focusCorpusQuestionReviewRagToml'
+  | 'focusCorpusAnswerReviewRagToml'
+  | 'focusCorpusQuestionImageReviewRagToml'
+  | 'focusCorpusAnswerImageReviewRagToml'
   | 'corpusPrimaryTopicAnswerRagToml'
   | 'focusCorpusPrimaryTopicAnswerRagToml';
 export type ReadOnlyGeneratedFolderKey = 'corpusAllTopicsToml';

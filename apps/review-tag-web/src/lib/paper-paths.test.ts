@@ -69,3 +69,24 @@ test('registers focused image RAG folders as mergeable working collections', () 
     );
   }
 });
+
+test('registers focused review RAG folders as mergeable working collections', () => {
+  for (const folderKey of [
+    'focusCorpusQuestionReviewRagToml',
+    'focusCorpusAnswerReviewRagToml',
+    'focusCorpusQuestionImageReviewRagToml',
+    'focusCorpusAnswerImageReviewRagToml',
+  ] as const) {
+    assert.equal(paperPaths.isFolderKey(folderKey), true);
+    assert.equal(paperPaths.isEditableFolderKey(folderKey), true);
+    assert.equal(paperPaths.isReadOnlyFolder(folderKey), false);
+    assert.equal(
+      paperPaths.resolvePaperFilePath(folderKey, 'group_ng3_prns_1.toml'),
+      path.join(
+        paperPaths.SOURCE_PAPERS_ROOT,
+        folderKey,
+        'group_ng3_prns_1.toml',
+      ),
+    );
+  }
+});

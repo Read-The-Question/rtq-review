@@ -1,6 +1,8 @@
 import {
   getContentWorkspaceStatus,
+  listPaperCollections,
   listPaperSources,
+  type PaperCollection,
   type PaperSourceSummary,
 } from '@rtq/review-paper-model';
 
@@ -66,12 +68,16 @@ export async function PaperIndex({
 }) {
   const workspaceStatus = getContentWorkspaceStatus();
   const statusCopy = getWorkspaceStatusCopy(workspaceStatus);
+  let availableCollections: readonly PaperCollection[] = [];
   let sources: readonly PaperSourceSummary[] = [];
   let loadIssue: string | undefined;
 
   if (workspaceStatus.state === 'ready') {
     try {
-      sources = await listPaperSources();
+      [availableCollections, sources] = await Promise.all([
+        listPaperCollections(),
+        listPaperSources(),
+      ]);
     } catch (error) {
       loadIssue =
         error instanceof Error
@@ -81,7 +87,17 @@ export async function PaperIndex({
   }
 
   const papers = sources.map(browserPaper);
-  const collectionMap = new Map<string, BrowserCollection>();
+  const collectionMap = new Map<string, BrowserCollection>(
+    availableCollections.map((collection) => [
+      collection.id,
+      {
+        count: 0,
+        description: collection.description,
+        id: collection.id,
+        label: collection.label,
+      },
+    ]),
+  );
   for (const summary of sources) {
     const collection =
       summary.state === 'ready'

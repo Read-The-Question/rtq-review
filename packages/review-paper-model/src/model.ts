@@ -20,6 +20,10 @@ export const REVIEWABLE_COLLECTION_IDS = [
   'focusCorpusAnswerRagToml',
   'focusCorpusQuestionImageRagToml',
   'focusCorpusAnswerImageRagToml',
+  'focusCorpusQuestionReviewRagToml',
+  'focusCorpusAnswerReviewRagToml',
+  'focusCorpusQuestionImageReviewRagToml',
+  'focusCorpusAnswerImageReviewRagToml',
   'corpusPrimaryTopicAnswerRagToml',
   'focusCorpusPrimaryTopicAnswerRagToml',
 ] as const;

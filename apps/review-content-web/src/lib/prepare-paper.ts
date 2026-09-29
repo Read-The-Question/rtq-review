@@ -1,6 +1,6 @@
 import 'server-only';
 
-import { existsSync, readFileSync } from 'node:fs';
+import { existsSync, readFileSync, statSync } from 'node:fs';
 import path from 'node:path';
 
 import { resolveRtqContentPaths } from '@rtq/review-repository-paths';
@@ -29,9 +29,30 @@ const LONG_DIVISION = /<LongDivision\b[^\n>]*\/>/g;
 const ATTRIBUTE = /([A-Za-z][A-Za-z0-9_-]*)\s*=\s*["']([^"']*)["']/g;
 const IMAGE_EXTENSIONS = ['svg', 'png', 'jpg', 'jpeg'] as const;
 const MISSING_IMAGE = 'papers/missing/missing_image.svg';
+const MISSING_IMAGE_SIZE = { height: 120, width: 160 } as const;
 const MDX_COMMENT = /\{\/\*[\s\S]*?\*\/\}/g;
 
+// Layout vocabulary and defaults mirror rtq-web so review previews match production.
+const ALIGNS = ['start', 'center', 'end'] as const;
+const DISPLAY_SIZES = ['sm', 'md', 'lg', 'full'] as const;
+const INDENTS = ['none', 'sm', 'md'] as const;
+const DEFAULT_ALIGN = 'center';
+const DEFAULT_DISPLAY_SIZE = 'sm';
+const DEFAULT_INDENT = 'none';
+
+// Intrinsic pixel sizes are generated alongside the binaries by the content workspace.
+const DIMENSION_MANIFEST = 'paper-images.generated.json';
+
+// Unimplemented images are a placeholder in rtq-web, never a resolved asset.
+const TODO_IMAGE_MARKDOWN = '![Image is not implemented yet.](#rtq-todo-image)';
+
 type ImageScope = 'answer' | 'question' | 'working';
+type Dimensions = Readonly<{ height: number; width: number }>;
+type ImageLayout = Readonly<{
+  align: (typeof ALIGNS)[number];
+  displaySize: (typeof DISPLAY_SIZES)[number];
+  indent: (typeof INDENTS)[number];
+}>;
 
 function attributes(value: string): Record<string, string> {
   return Object.fromEntries(
@@ -50,11 +71,97 @@ function markdownTitle(value: string): string {
   return value.replace(/["\r\n]+/g, ' ').trim();
 }
 
-function assetUrl(relativePath: string): string {
-  return `/api/assets/${relativePath
+function assetUrl(
+  relativePath: string,
+  params: Readonly<Record<string, string>> = {},
+): string {
+  const query = new URLSearchParams(params).toString();
+  const encoded = relativePath
     .split('/')
     .map((segment) => encodeURIComponent(segment))
-    .join('/')}`;
+    .join('/');
+  return `/api/assets/${encoded}${query ? `?${query}` : ''}`;
+}
+
+function pickAttribute<T extends string>(
+  allowed: readonly T[],
+  value: string | undefined,
+  fallback: T,
+  attribute: string,
+): T {
+  if (value === undefined) return fallback;
+  if ((allowed as readonly string[]).includes(value)) return value as T;
+  throw new Error(
+    `Unsupported ${attribute}: ${value}. Expected ${allowed.join(', ')}.`,
+  );
+}
+
+function imageLayout(authored: Record<string, string>): ImageLayout {
+  return {
+    align: pickAttribute(ALIGNS, authored.align, DEFAULT_ALIGN, 'align'),
+    displaySize: pickAttribute(
+      DISPLAY_SIZES,
+      authored.displaySize,
+      DEFAULT_DISPLAY_SIZE,
+      'displaySize',
+    ),
+    indent: pickAttribute(INDENTS, authored.indent, DEFAULT_INDENT, 'indent'),
+  };
+}
+
+const dimensionCache = new Map<
+  string,
+  Readonly<{ entries: ReadonlyMap<string, Dimensions>; mtimeMs: number }>
+>();
+
+function dimensions(
+  paperRoot: string,
+  sourcePath: string,
+): Dimensions | undefined {
+  const manifestPath = path.join(paperRoot, DIMENSION_MANIFEST);
+  let mtimeMs: number;
+  try {
+    mtimeMs = statSync(manifestPath).mtimeMs;
+  } catch {
+    return undefined;
+  }
+
+  const cached = dimensionCache.get(paperRoot);
+  if (cached?.mtimeMs === mtimeMs) return cached.entries.get(sourcePath);
+
+  const entries = new Map<string, Dimensions>();
+  try {
+    const parsed = JSON.parse(readFileSync(manifestPath, 'utf8')) as {
+      assets?: Record<string, Record<string, unknown>>;
+    };
+    for (const [key, value] of Object.entries(parsed.assets ?? {})) {
+      const height = value?.intrinsicHeight;
+      const width = value?.intrinsicWidth;
+      if (typeof height === 'number' && typeof width === 'number') {
+        entries.set(key, { height, width });
+      }
+    }
+  } catch {
+    // Dimensions only remove layout shift; sizing still works without them.
+  }
+  dimensionCache.set(paperRoot, { entries, mtimeMs });
+  return entries.get(sourcePath);
+}
+
+function imageParams(
+  layout: ImageLayout,
+  size: Dimensions | undefined,
+): Record<string, string> {
+  const params: Record<string, string> = {
+    align: layout.align,
+    indent: layout.indent,
+    size: layout.displaySize,
+  };
+  if (size) {
+    params.h = String(size.height);
+    params.w = String(size.width);
+  }
+  return params;
 }
 
 function compactPrefix(context: ReviewAssetContext): string {
@@ -129,6 +236,7 @@ function paperImageMarkdown(
     );
   }
 
+  const layout = imageLayout(authored);
   const assetsRoot = resolveRtqContentPaths().assetsRoot;
   const paperRoot = path.join(assetsRoot, 'papers', context.paperStem);
   const location = ownerPath(context, scope, imageIndex);
@@ -139,15 +247,24 @@ function paperImageMarkdown(
     throw new Error(`Ambiguous PaperImage at ${location.sourceStem}.`);
   }
   if (matches.length === 0) {
-    return `![Missing paper image](${assetUrl(MISSING_IMAGE)})`;
+    const missing = assetUrl(
+      MISSING_IMAGE,
+      imageParams(layout, MISSING_IMAGE_SIZE),
+    );
+    return `![Missing paper image](${missing})`;
   }
 
+  const sourcePath = `${location.sourceStem}.${matches[0]}`;
   const metadata = imageMetadata(paperRoot, location.metadata);
-  const relativePath = `papers/${context.paperStem}/${location.sourceStem}.${matches[0]}`;
+  const relativePath = `papers/${context.paperStem}/${sourcePath}`;
   const title = metadata.description
     ? ` "${markdownTitle(metadata.description)}"`
     : '';
-  return `![${markdownText(metadata.alt)}](${assetUrl(relativePath)}${title})`;
+  const url = assetUrl(
+    relativePath,
+    imageParams(layout, dimensions(paperRoot, sourcePath)),
+  );
+  return `![${markdownText(metadata.alt)}](${url}${title})`;
 }
 
 function longDivisionPath(
@@ -178,16 +295,18 @@ function longDivisionMarkdown(
     authored.variant === 'bus' || authored.variant === 'long'
       ? [authored.variant]
       : ['long', 'bus'];
+  // Long division renders at its natural width in rtq-web, so it carries no display size.
+  const params: Record<string, string> = {
+    align: pickAttribute(ALIGNS, authored.align, DEFAULT_ALIGN, 'align'),
+    indent: pickAttribute(INDENTS, authored.indent, DEFAULT_INDENT, 'indent'),
+    kind: 'long-division',
+  };
   return requested
     .map((variant) => {
       const sourceStem = longDivisionPath(context, assetIndex, variant);
       const assetsRoot = resolveRtqContentPaths().assetsRoot;
-      const metadataPath = path.join(
-        assetsRoot,
-        'papers',
-        context.paperStem,
-        `${sourceStem}.json`,
-      );
+      const paperRoot = path.join(assetsRoot, 'papers', context.paperStem);
+      const metadataPath = path.join(paperRoot, `${sourceStem}.json`);
       let alt = `${authored.dividend ?? 'Number'} divided by ${authored.divisor ?? 'number'}, ${variant} method`;
       let description = '';
       try {
@@ -201,9 +320,15 @@ function longDivisionMarkdown(
       } catch {
         // The same-origin route supplies the standard missing-image fallback.
       }
-      const relativePath = `papers/${context.paperStem}/${sourceStem}.svg`;
+      const sourcePath = `${sourceStem}.svg`;
+      const relativePath = `papers/${context.paperStem}/${sourcePath}`;
       const title = description ? ` "${markdownTitle(description)}"` : '';
-      return `![${markdownText(alt)}](${assetUrl(relativePath)}${title})`;
+      const size = dimensions(paperRoot, sourcePath);
+      const url = assetUrl(relativePath, {
+        ...params,
+        ...(size ? { h: String(size.height), w: String(size.width) } : {}),
+      });
+      return `![${markdownText(alt)}](${url}${title})`;
     })
     .join('\n\n');
 }
@@ -237,7 +362,9 @@ function prepareField(
     const paperLists = preparePaperListMarkdown(tables.markdown);
     validatePaperSymbolMarkdown(paperLists.markdown);
     const images = paperLists.markdown.replace(IMAGE, (component) =>
-      paperImageMarkdown(component, field.context, imageIndex++),
+      component.startsWith('<')
+        ? paperImageMarkdown(component, field.context, imageIndex++)
+        : TODO_IMAGE_MARKDOWN,
     );
     const prepared = images.replace(LONG_DIVISION, (component) =>
       longDivisionMarkdown(component, field.context, divisionIndex++),

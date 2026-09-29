@@ -17,6 +17,56 @@ import remarkMath from 'remark-math';
 
 import { rtqKatexOptions } from '@/lib/rtq-katex';
 
+const TODO_IMAGE_SRC = '#rtq-todo-image';
+
+function positiveInteger(value: null | string): number | undefined {
+  const parsed = Number.parseInt(value ?? '', 10);
+  return Number.isFinite(parsed) && parsed > 0 ? parsed : undefined;
+}
+
+function PaperImage({
+  alt,
+  src,
+  title,
+}: Readonly<{ alt?: string; src?: string; title?: string }>) {
+  if (src === TODO_IMAGE_SRC) {
+    return (
+      <span className="rtq-placeholder" data-rtq-placeholder="todo-image">
+        {alt}
+      </span>
+    );
+  }
+
+  const queryIndex = src ? src.indexOf('?') : -1;
+  const params = new URLSearchParams(
+    src && queryIndex !== -1 ? src.slice(queryIndex + 1) : '',
+  );
+  const size = params.get('size');
+
+  return (
+    <span
+      className="rtq-paper-image"
+      data-align={params.get('align') ?? 'center'}
+      data-indent={params.get('indent') ?? 'none'}
+      data-kind={params.get('kind') ?? 'paper-image'}
+      {...(size ? { 'data-size': size } : {})}
+    >
+      {
+        // Canonical local assets have dynamic dimensions and are deliberately
+        // served by the narrow same-origin route rather than Next Image.
+        // eslint-disable-next-line @next/next/no-img-element
+        <img
+          alt={alt ?? ''}
+          height={positiveInteger(params.get('h'))}
+          src={src}
+          title={title}
+          width={positiveInteger(params.get('w'))}
+        />
+      }
+    </span>
+  );
+}
+
 export function RtqMarkdown({ markdown }: { markdown: string }) {
   if (!markdown.trim()) return null;
   return (
@@ -29,10 +79,11 @@ export function RtqMarkdown({ markdown }: { markdown: string }) {
             </a>
           ),
           img: ({ alt, src, title }) => (
-            // Canonical local assets have dynamic dimensions and are deliberately
-            // served by the narrow same-origin route rather than Next Image.
-            // eslint-disable-next-line @next/next/no-img-element
-            <img alt={alt ?? ''} src={src} title={title} />
+            <PaperImage
+              alt={alt}
+              src={typeof src === 'string' ? src : undefined}
+              title={title}
+            />
           ),
         }}
         rehypePlugins={[rehypePaperTable, [rehypeKatex, rtqKatexOptions]]}

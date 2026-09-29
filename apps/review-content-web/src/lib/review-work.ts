@@ -18,7 +18,7 @@ import { normalizeSourceRag } from './review-types.ts';
 import { paperRoute } from './review-view-model.ts';
 
 const REVIEW_SOURCE_COLLECTIONS = [
-  'topicToml',
+  'corpusPrimaryTopicToml',
   'toml',
 ] as const satisfies readonly PaperCollectionId[];
 
@@ -58,8 +58,8 @@ export type ReviewWorkGroup = Readonly<{
   lanes: readonly ReviewWorkLane[];
   source: ReviewWorkSource | null;
   sourceFiles: Readonly<{
+    corpusPrimaryTopicToml: readonly ReviewWorkSource[];
     toml: readonly ReviewWorkSource[];
-    topicToml: readonly ReviewWorkSource[];
   }>;
   uuid: string;
 }>;
@@ -109,7 +109,7 @@ function uniqueSorted(values: readonly (string | undefined)[]): string[] {
 
 function uniqueSources(
   occurrences: readonly ReviewWorkOccurrence[],
-  collectionId: 'toml' | 'topicToml',
+  collectionId: 'toml' | 'corpusPrimaryTopicToml',
 ): readonly ReviewWorkSource[] {
   const sources = new Map<string, ReviewWorkSource>();
   for (const occurrence of occurrences) {
@@ -182,8 +182,11 @@ export function buildReviewWorkGroups({
         lanes,
         source: matchingOccurrences[0] ?? null,
         sourceFiles: {
+          corpusPrimaryTopicToml: uniqueSources(
+            matchingOccurrences,
+            'corpusPrimaryTopicToml',
+          ),
           toml: uniqueSources(matchingOccurrences, 'toml'),
-          topicToml: uniqueSources(matchingOccurrences, 'topicToml'),
         },
         uuid,
       };

@@ -284,7 +284,8 @@ function parseCanonicalStem(stem: string) {
 }
 
 function parseTopicStem(stem: string) {
-  const match = /^topicpapers_(.+)_(\d+)$/i.exec(stem);
+  const match =
+    /^(?:focus_)?corpus_(?:all_topics|primary_topic)_(.+)_(\d+)$/i.exec(stem);
 
   if (!match) {
     return null;
@@ -302,7 +303,10 @@ function parseTopicStem(stem: string) {
 }
 
 function parseRagTopicStem(stem: string) {
-  const match = /^topicpapers_(.+)_rag_([^_]+)_(\d+)$/i.exec(stem);
+  const match =
+    /^(?:focus_)?corpus_primary_topic_(.+)_answer_rag_([^_]+)_(\d+)$/i.exec(
+      stem,
+    );
 
   if (!match) {
     return null;
@@ -321,8 +325,8 @@ function parseRagTopicStem(stem: string) {
   };
 }
 
-function parseRagStem(stem: string) {
-  const match = /^(.*)_rag_([^_]+)_(\d+)$/i.exec(stem);
+function parsePaperRagStem(stem: string) {
+  const match = /^(.*)_answer_rag_([^_]+)_(\d+)$/i.exec(stem);
 
   if (!match) {
     return null;
@@ -347,20 +351,50 @@ function parseRagStem(stem: string) {
   };
 }
 
+function parseCorpusRagStem(stem: string) {
+  const match =
+    /^(?:focus_)?corpus_(?:question|answer)(?:_image)?_rag_([^_]+)_(\d+)$/i.exec(
+      stem,
+    );
+
+  if (!match) {
+    return null;
+  }
+
+  const navStatus = formatRagStatus(match[1]);
+
+  return {
+    navMeta: `Corpus set ${match[2]}`,
+    navStatusKey: match[1].toLowerCase(),
+    navStatus,
+    navStatusTone: statusToneFor(navStatus),
+    navTopicKey: null,
+    navTopicLabel: null,
+    navTitle: navStatus,
+  };
+}
+
 function navigationCopyForFile(folderKey: FolderKey, stem: string) {
   switch (folderKey) {
     case 'toml':
-    case 'focusToml':
+    case 'focusPaperToml':
       return parseCanonicalStem(stem);
-    case 'allTopicsToml':
-    case 'focusTopicToml':
-    case 'topicToml':
+    case 'corpusAllTopicsToml':
+    case 'focusCorpusPrimaryTopicToml':
+    case 'corpusPrimaryTopicToml':
       return parseTopicStem(stem);
-    case 'focusRagToml':
-    case 'ragToml':
-      return parseRagStem(stem);
-    case 'focusRagTopicToml':
-    case 'ragTopicToml':
+    case 'focusPaperAnswerRagToml':
+    case 'paperAnswerRagToml':
+      return parsePaperRagStem(stem);
+    case 'corpusAnswerRagToml':
+    case 'corpusQuestionRagToml':
+    case 'focusCorpusAnswerRagToml':
+    case 'focusCorpusQuestionRagToml':
+    case 'focusCorpusAnswerImageRagToml':
+    case 'focusCorpusQuestionImageRagToml':
+      return parseCorpusRagStem(stem);
+    case 'focusCorpusPrimaryTopicAnswerRagToml':
+    case 'corpusPrimaryTopicAnswerRagToml':
       return parseRagTopicStem(stem);
   }
 }

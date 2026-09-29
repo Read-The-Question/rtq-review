@@ -1,13 +1,19 @@
 export type EditableFolderKey =
   | 'toml'
-  | 'focusToml'
-  | 'focusTopicToml'
-  | 'focusRagToml'
-  | 'focusRagTopicToml'
-  | 'topicToml'
-  | 'ragToml'
-  | 'ragTopicToml';
-export type ReadOnlyGeneratedFolderKey = 'allTopicsToml';
+  | 'focusPaperToml'
+  | 'paperAnswerRagToml'
+  | 'focusPaperAnswerRagToml'
+  | 'corpusPrimaryTopicToml'
+  | 'focusCorpusPrimaryTopicToml'
+  | 'corpusQuestionRagToml'
+  | 'corpusAnswerRagToml'
+  | 'focusCorpusQuestionRagToml'
+  | 'focusCorpusAnswerRagToml'
+  | 'focusCorpusQuestionImageRagToml'
+  | 'focusCorpusAnswerImageRagToml'
+  | 'corpusPrimaryTopicAnswerRagToml'
+  | 'focusCorpusPrimaryTopicAnswerRagToml';
+export type ReadOnlyGeneratedFolderKey = 'corpusAllTopicsToml';
 export type RegisteredFolderKey =
   EditableFolderKey | ReadOnlyGeneratedFolderKey;
 export type ExemplarFolderKey = `exemplarsLevel${number}Toml`;

@@ -35,19 +35,37 @@ test('contains paper reads and writes inside the selected TOML folder', () => {
 });
 
 test('recognizes generated all-topic papers but keeps them read-only', () => {
-  assert.equal(paperPaths.isFolderKey('allTopicsToml'), true);
-  assert.equal(paperPaths.isEditableFolderKey('allTopicsToml'), false);
-  assert.equal(paperPaths.isReadOnlyFolder('allTopicsToml'), true);
-  assert.equal(paperPaths.folderLabel('allTopicsToml'), 'All Topic Papers');
+  assert.equal(paperPaths.isFolderKey('corpusAllTopicsToml'), true);
+  assert.equal(paperPaths.isEditableFolderKey('corpusAllTopicsToml'), false);
+  assert.equal(paperPaths.isReadOnlyFolder('corpusAllTopicsToml'), true);
   assert.equal(
-    paperPaths.resolvePaperFilePath('allTopicsToml', 'math.number.toml'),
+    paperPaths.folderLabel('corpusAllTopicsToml'),
+    'Corpus All Topics',
+  );
+  assert.equal(
+    paperPaths.resolvePaperFilePath('corpusAllTopicsToml', 'math.number.toml'),
     path.join(
       paperPaths.SOURCE_PAPERS_ROOT,
-      'allTopicsToml',
+      'corpusAllTopicsToml',
       'math.number.toml',
     ),
   );
 
   assert.equal(paperPaths.isReadOnlyFolder('exemplarsLevel4Toml'), true);
   assert.equal(paperPaths.isReadOnlyFolder('toml'), false);
+});
+
+test('registers focused image RAG folders as mergeable working collections', () => {
+  for (const folderKey of [
+    'focusCorpusQuestionImageRagToml',
+    'focusCorpusAnswerImageRagToml',
+  ] as const) {
+    assert.equal(paperPaths.isFolderKey(folderKey), true);
+    assert.equal(paperPaths.isEditableFolderKey(folderKey), true);
+    assert.equal(paperPaths.isReadOnlyFolder(folderKey), false);
+    assert.equal(
+      paperPaths.resolvePaperFilePath(folderKey, 'group_ng3_1.toml'),
+      path.join(paperPaths.SOURCE_PAPERS_ROOT, folderKey, 'group_ng3_1.toml'),
+    );
+  }
 });

@@ -45,7 +45,7 @@ test('only complete-paper collections expose an original PDF', async () => {
   assert.equal(
     await resolvePaperPdf({
       ...source,
-      collection: paperCollectionForId('topicToml'),
+      collection: paperCollectionForId('corpusPrimaryTopicToml'),
       focusGroups: [],
       provenance: { kind: 'derived', sourcePaperStems: [stem] },
       questionCount: 1,

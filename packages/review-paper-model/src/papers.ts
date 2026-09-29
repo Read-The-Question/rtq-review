@@ -196,24 +196,49 @@ function groupingFromStem(
   collectionId: PaperCollectionId,
   stem: string,
 ): Readonly<{ ragGrouping?: string; topic?: string }> {
-  if (collectionId === 'focusRagTopicToml' || collectionId === 'ragTopicToml') {
-    const match = /^topicpapers_(.+)_rag_([^_]+)_\d+$/i.exec(stem);
+  if (
+    collectionId === 'corpusPrimaryTopicAnswerRagToml' ||
+    collectionId === 'focusCorpusPrimaryTopicAnswerRagToml'
+  ) {
+    const match =
+      /^(?:focus_)?corpus_primary_topic_(.+)_answer_rag_([^_]+)_\d+$/i.exec(
+        stem,
+      );
     return match
       ? { ragGrouping: match[2].toUpperCase(), topic: match[1] }
       : {};
   }
 
   if (
-    collectionId === 'allTopicsToml' ||
-    collectionId === 'focusTopicToml' ||
-    collectionId === 'topicToml'
+    collectionId === 'corpusAllTopicsToml' ||
+    collectionId === 'corpusPrimaryTopicToml' ||
+    collectionId === 'focusCorpusPrimaryTopicToml'
   ) {
-    const match = /^topicpapers_(.+)_\d+$/i.exec(stem);
+    const match =
+      /^(?:focus_)?corpus_(?:all_topics|primary_topic)_(.+)_\d+$/i.exec(stem);
     return match ? { topic: match[1] } : {};
   }
 
-  if (collectionId === 'focusRagToml' || collectionId === 'ragToml') {
-    const match = /_rag_([^_]+)_\d+$/i.exec(stem);
+  if (
+    collectionId === 'paperAnswerRagToml' ||
+    collectionId === 'focusPaperAnswerRagToml'
+  ) {
+    const match = /_answer_rag_([^_]+)_\d+$/i.exec(stem);
+    return match ? { ragGrouping: match[1].toUpperCase() } : {};
+  }
+
+  if (
+    collectionId === 'corpusQuestionRagToml' ||
+    collectionId === 'corpusAnswerRagToml' ||
+    collectionId === 'focusCorpusQuestionRagToml' ||
+    collectionId === 'focusCorpusAnswerRagToml' ||
+    collectionId === 'focusCorpusQuestionImageRagToml' ||
+    collectionId === 'focusCorpusAnswerImageRagToml'
+  ) {
+    const match =
+      /^(?:focus_)?corpus_(?:question|answer)(?:_image)?_rag_([^_]+)_\d+$/i.exec(
+        stem,
+      );
     return match ? { ragGrouping: match[1].toUpperCase() } : {};
   }
 

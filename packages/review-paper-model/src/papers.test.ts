@@ -21,14 +21,20 @@ import {
 
 const registeredCollections = [
   'toml',
-  'allTopicsToml',
-  'focusToml',
-  'focusTopicToml',
-  'focusRagToml',
-  'focusRagTopicToml',
-  'topicToml',
-  'ragToml',
-  'ragTopicToml',
+  'focusPaperToml',
+  'paperAnswerRagToml',
+  'focusPaperAnswerRagToml',
+  'corpusPrimaryTopicToml',
+  'focusCorpusPrimaryTopicToml',
+  'corpusAllTopicsToml',
+  'corpusQuestionRagToml',
+  'corpusAnswerRagToml',
+  'focusCorpusQuestionRagToml',
+  'focusCorpusAnswerRagToml',
+  'focusCorpusQuestionImageRagToml',
+  'focusCorpusAnswerImageRagToml',
+  'corpusPrimaryTopicAnswerRagToml',
+  'focusCorpusPrimaryTopicAnswerRagToml',
 ] as const;
 
 function createContentWorkspace(
@@ -94,13 +100,69 @@ rtq-tags = ["math.number"]
 question = '''Question'''
 `;
 
-test('collection content search scans current files without a retained index', async () => {
-  const root = createContentWorkspace(['toml', 'focusToml']);
+test('registers every explicit derived projection collection', async () => {
+  const root = createContentWorkspace();
+
   try {
-    writePaper(root, 'focusToml', 'one.toml', simplePaper);
+    const collections = await listPaperCollections({
+      environment: { RTQ_CONTENT_ROOT: root },
+    });
+
+    assert.deepEqual(
+      collections.map((collection) => collection.id),
+      registeredCollections,
+    );
+  } finally {
+    rmSync(root, { force: true, recursive: true });
+  }
+});
+
+test('indexes focused question-image and answer-image RAG filenames', async () => {
+  const root = createContentWorkspace([
+    'toml',
+    'focusCorpusQuestionImageRagToml',
+    'focusCorpusAnswerImageRagToml',
+  ]);
+  writePaper(
+    root,
+    'focusCorpusQuestionImageRagToml',
+    'focus_corpus_question_image_rag_ng3_1.toml',
+    simplePaper,
+  );
+  writePaper(
+    root,
+    'focusCorpusAnswerImageRagToml',
+    'focus_corpus_answer_image_rag_ng4_1.toml',
+    simplePaper,
+  );
+
+  try {
+    const sources = await listPaperSources({
+      environment: { RTQ_CONTENT_ROOT: root },
+    });
+    assert.deepEqual(
+      sources.flatMap((entry) =>
+        entry.state === 'ready'
+          ? [[entry.source.collection.id, entry.source.ragGrouping]]
+          : [],
+      ),
+      [
+        ['focusCorpusQuestionImageRagToml', 'NG3'],
+        ['focusCorpusAnswerImageRagToml', 'NG4'],
+      ],
+    );
+  } finally {
+    rmSync(root, { force: true, recursive: true });
+  }
+});
+
+test('collection content search scans current files without a retained index', async () => {
+  const root = createContentWorkspace(['toml', 'focusPaperToml']);
+  try {
+    writePaper(root, 'focusPaperToml', 'one.toml', simplePaper);
     writePaper(
       root,
-      'focusToml',
+      'focusPaperToml',
       'two.toml',
       simplePaper.replace(
         "question = '''Question'''",
@@ -110,7 +172,7 @@ test('collection content search scans current files without a retained index', a
     const options = { environment: { RTQ_CONTENT_ROOT: root } };
 
     const first = await searchPaperCollectionContent(
-      'focusToml',
+      'focusPaperToml',
       { pattern: 'Geometry', scope: 'question' },
       options,
     );
@@ -122,7 +184,7 @@ test('collection content search scans current files without a retained index', a
 
     writePaper(
       root,
-      'focusToml',
+      'focusPaperToml',
       'one.toml',
       simplePaper.replace(
         "question = '''Question'''",
@@ -130,7 +192,7 @@ test('collection content search scans current files without a retained index', a
       ),
     );
     const second = await searchPaperCollectionContent(
-      'focusToml',
+      'focusPaperToml',
       { pattern: 'Geometry', scope: 'question' },
       options,
     );
@@ -357,9 +419,9 @@ question = '''Deep'''
 test('discovers only supported existing collections in stable order', async () => {
   const root = createContentWorkspace([
     'toml',
-    'allTopicsToml',
-    'focusToml',
-    'topicToml',
+    'focusPaperToml',
+    'corpusPrimaryTopicToml',
+    'corpusAllTopicsToml',
     'exemplarsLevel11Toml',
     'exemplarsLevel3Toml',
     'questionNodeToml',
@@ -375,9 +437,9 @@ test('discovers only supported existing collections in stable order', async () =
       collections.map((collection) => collection.id),
       [
         'toml',
-        'allTopicsToml',
-        'focusToml',
-        'topicToml',
+        'focusPaperToml',
+        'corpusPrimaryTopicToml',
+        'corpusAllTopicsToml',
         'exemplarsLevel3Toml',
         'exemplarsLevel11Toml',
       ],
@@ -389,12 +451,12 @@ test('discovers only supported existing collections in stable order', async () =
     assert.equal(collections[0].generated, false);
     assert.equal(collections[0].supportsOriginalPdf, true);
     assert.equal(collections[1].generated, true);
-    assert.equal(collections[1].label, 'All Topic Papers');
-    assert.equal(collections[1].supportsOriginalPdf, false);
+    assert.equal(collections[1].label, 'Focus Papers');
+    assert.equal(collections[1].supportsOriginalPdf, true);
     assert.equal(
-      collections.find((collection) => collection.id === 'focusToml')
+      collections.find((collection) => collection.id === 'corpusAllTopicsToml')
         ?.supportsOriginalPdf,
-      true,
+      false,
     );
     assert.equal(collections.at(-1)?.exemplarLevel, 11);
   } finally {
@@ -405,11 +467,11 @@ test('discovers only supported existing collections in stable order', async () =
 test('indexes canonical, derived, and exemplar papers without admitting non-paper entries', async () => {
   const root = createContentWorkspace([
     'toml',
-    'allTopicsToml',
-    'topicToml',
+    'corpusAllTopicsToml',
+    'corpusPrimaryTopicToml',
     'exemplarsLevel3Toml',
-    'ragToml',
-    'ragTopicToml',
+    'paperAnswerRagToml',
+    'corpusPrimaryTopicAnswerRagToml',
   ]);
   writePaper(
     root,
@@ -419,14 +481,14 @@ test('indexes canonical, derived, and exemplar papers without admitting non-pape
   );
   writePaper(
     root,
-    'allTopicsToml',
-    'topicpapers_frame.columnar_1.toml',
+    'corpusAllTopicsToml',
+    'corpus_all_topics_frame.columnar_1.toml',
     simplePaper,
   );
   writePaper(
     root,
-    'topicToml',
-    'topicpapers_math.fraction_1.toml',
+    'corpusPrimaryTopicToml',
+    'corpus_primary_topic_math.fraction_1.toml',
     simplePaper,
   );
   writePaper(
@@ -437,11 +499,11 @@ test('indexes canonical, derived, and exemplar papers without admitting non-pape
   );
   writePaper(
     root,
-    'ragTopicToml',
-    'topicpapers_math.fraction_rag_ng3_1.toml',
+    'corpusPrimaryTopicAnswerRagToml',
+    'corpus_primary_topic_math.fraction_answer_rag_ng3_1.toml',
     simplePaper,
   );
-  writePaper(root, 'ragToml', 'broken.toml', '[meta\n');
+  writePaper(root, 'paperAnswerRagToml', 'broken.toml', '[meta\n');
   writePaper(root, 'toml', '.hidden.toml', simplePaper);
   writeFileSync(
     join(root, 'packages', 'papers', 'papers', 'toml', 'manifest.json'),
@@ -485,7 +547,8 @@ test('indexes canonical, derived, and exemplar papers without admitting non-pape
 
     const topic = sources.find(
       (entry) =>
-        entry.state === 'ready' && entry.source.collection.id === 'topicToml',
+        entry.state === 'ready' &&
+        entry.source.collection.id === 'corpusPrimaryTopicToml',
     );
     assert.ok(topic && topic.state === 'ready');
     assert.equal(topic.source.topic, 'math.fraction');
@@ -497,7 +560,7 @@ test('indexes canonical, derived, and exemplar papers without admitting non-pape
     const allTopic = sources.find(
       (entry) =>
         entry.state === 'ready' &&
-        entry.source.collection.id === 'allTopicsToml',
+        entry.source.collection.id === 'corpusAllTopicsToml',
     );
     assert.ok(allTopic && allTopic.state === 'ready');
     assert.equal(allTopic.source.topic, 'frame.columnar');
@@ -515,7 +578,7 @@ test('indexes canonical, derived, and exemplar papers without admitting non-pape
     const ragTopic = sources.find(
       (entry) =>
         entry.state === 'ready' &&
-        entry.source.collection.id === 'ragTopicToml',
+        entry.source.collection.id === 'corpusPrimaryTopicAnswerRagToml',
     );
     assert.ok(ragTopic && ragTopic.state === 'ready');
     assert.equal(ragTopic.source.topic, 'math.fraction');
@@ -523,7 +586,7 @@ test('indexes canonical, derived, and exemplar papers without admitting non-pape
 
     const invalid = sources.find((entry) => entry.state === 'invalid');
     assert.ok(invalid && invalid.state === 'invalid');
-    assert.equal(invalid.collection.id, 'ragToml');
+    assert.equal(invalid.collection.id, 'paperAnswerRagToml');
     assert.match(invalid.message, /could not be parsed/);
   } finally {
     rmSync(root, { force: true, recursive: true });
@@ -531,18 +594,18 @@ test('indexes canonical, derived, and exemplar papers without admitting non-pape
 });
 
 test('parses the complete nested read model and safe preparation inputs', async () => {
-  const root = createContentWorkspace(['toml', 'topicToml']);
+  const root = createContentWorkspace(['toml', 'corpusPrimaryTopicToml']);
   writePaper(
     root,
-    'topicToml',
-    'topicpapers_family.money_1.toml',
+    'corpusPrimaryTopicToml',
+    'corpus_primary_topic_family.money_1.toml',
     completePaper,
   );
 
   try {
     const paper = await readReviewPaper(
-      'topicToml',
-      'topicpapers_family.money_1.toml',
+      'corpusPrimaryTopicToml',
+      'corpus_primary_topic_family.money_1.toml',
       { environment: { RTQ_CONTENT_ROOT: root } },
     );
     const question = paper.sections[0].questions[0];
@@ -722,9 +785,18 @@ test('uses loose parsing only for recognized exemplar placeholders', async () =>
 });
 
 test('isolates missing, empty, malformed, and traversal cases', async () => {
-  const root = createContentWorkspace(['toml', 'focusToml', 'ragToml']);
+  const root = createContentWorkspace([
+    'toml',
+    'focusPaperToml',
+    'paperAnswerRagToml',
+  ]);
   writePaper(root, 'toml', 'valid.toml', simplePaper);
-  writePaper(root, 'ragToml', 'invalid.toml', 'title = "Not a paper"\n');
+  writePaper(
+    root,
+    'paperAnswerRagToml',
+    'invalid.toml',
+    'title = "Not a paper"\n',
+  );
 
   try {
     const sources = await listPaperSources({
@@ -741,7 +813,7 @@ test('isolates missing, empty, malformed, and traversal cases', async () => {
     );
 
     await assert.rejects(
-      readReviewPaper('focusToml', 'missing.toml', {
+      readReviewPaper('focusPaperToml', 'missing.toml', {
         environment: { RTQ_CONTENT_ROOT: root },
       }),
       /unavailable/,

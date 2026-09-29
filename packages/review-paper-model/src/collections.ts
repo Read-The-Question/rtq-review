@@ -17,41 +17,66 @@ const COLLECTION_COPY: Record<
   RegisteredPaperCollectionId,
   Readonly<{ description: string; label: string }>
 > = {
-  allTopicsToml: {
-    description: 'Papers grouped across every active tag',
-    label: 'All Topic Papers',
+  corpusAllTopicsToml: {
+    description: 'Corpus questions grouped across every active tag',
+    label: 'Corpus All Topics',
   },
-  focusRagToml: {
-    description: 'Focus-group RAG/status variants',
-    label: 'Focus RAG Papers',
+  corpusAnswerRagToml: {
+    description: 'Corpus questions grouped by answer RAG',
+    label: 'Corpus Answer RAG',
   },
-  focusRagTopicToml: {
-    description: 'Focus-group topic RAG/status variants',
-    label: 'Focus RAG Topic Papers',
+  corpusPrimaryTopicAnswerRagToml: {
+    description: 'Corpus questions grouped by primary topic and answer RAG',
+    label: 'Corpus Primary Topic Answer RAG',
   },
-  focusToml: {
-    description: 'Focus-group derived papers',
+  corpusPrimaryTopicToml: {
+    description: 'Corpus questions grouped by primary topic',
+    label: 'Corpus Primary Topic',
+  },
+  corpusQuestionRagToml: {
+    description: 'Corpus questions grouped by question RAG',
+    label: 'Corpus Question RAG',
+  },
+  focusCorpusAnswerRagToml: {
+    description: 'Focused corpus questions grouped by answer RAG',
+    label: 'Focus Corpus Answer RAG',
+  },
+  focusCorpusAnswerImageRagToml: {
+    description: 'Focused corpus questions grouped by answer-image RAG',
+    label: 'Focus Corpus Answer Image RAG',
+  },
+  focusCorpusPrimaryTopicAnswerRagToml: {
+    description:
+      'Focused corpus questions grouped by primary topic and answer RAG',
+    label: 'Focus Corpus Primary Topic Answer RAG',
+  },
+  focusCorpusPrimaryTopicToml: {
+    description: 'Focused corpus questions grouped by primary topic',
+    label: 'Focus Corpus Primary Topic',
+  },
+  focusCorpusQuestionRagToml: {
+    description: 'Focused corpus questions grouped by question RAG',
+    label: 'Focus Corpus Question RAG',
+  },
+  focusCorpusQuestionImageRagToml: {
+    description: 'Focused corpus questions grouped by question-image RAG',
+    label: 'Focus Corpus Question Image RAG',
+  },
+  focusPaperAnswerRagToml: {
+    description: 'Focused papers split independently by answer RAG',
+    label: 'Focus Paper Answer RAG',
+  },
+  focusPaperToml: {
+    description: 'Complete copies of focused papers',
     label: 'Focus Papers',
   },
-  focusTopicToml: {
-    description: 'Focus-group topic-derived papers',
-    label: 'Focus Topic Papers',
-  },
-  ragToml: {
-    description: 'Per-paper RAG/status variants',
-    label: 'RAG Papers',
-  },
-  ragTopicToml: {
-    description: 'Topic-grouped RAG/status variants',
-    label: 'RAG Topic Papers',
+  paperAnswerRagToml: {
+    description: 'Papers split independently by answer RAG',
+    label: 'Paper Answer RAG',
   },
   toml: {
     description: 'Canonical paper source-of-truth',
     label: 'Papers',
-  },
-  topicToml: {
-    description: 'Topic-grouped derived papers',
-    label: 'Topic Papers',
   },
 };
 
@@ -111,7 +136,7 @@ export function paperCollectionForId(value: string): PaperCollection {
     generated: value !== 'toml',
     id: value,
     readOnly: true,
-    supportsOriginalPdf: value === 'toml' || value === 'focusToml',
+    supportsOriginalPdf: value === 'toml' || value === 'focusPaperToml',
   };
 }
 

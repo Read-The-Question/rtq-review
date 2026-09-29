@@ -145,7 +145,7 @@ assert.deepEqual(await unsafeSourceVersion.json(), {
 });
 
 const derivedPaperPath =
-  '/papers/focusTopicToml/topicpapers_math.number.order_1.toml';
+  '/papers/focusCorpusPrimaryTopicToml/focus_corpus_primary_topic_math.number.order_1.toml';
 const derivedPaper = await read(derivedPaperPath);
 assert.match(
   derivedPaper.text,

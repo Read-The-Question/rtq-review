@@ -55,7 +55,7 @@ test('rejects malformed freshness payloads safely', () => {
 
 test('encodes the selected collection and full relative path', () => {
   assert.equal(
-    sourceVersionUrl('topicToml', 'nested/a paper.toml'),
-    '/api/papers/source-version?collection=topicToml&path=nested%2Fa+paper.toml',
+    sourceVersionUrl('corpusPrimaryTopicToml', 'nested/a paper.toml'),
+    '/api/papers/source-version?collection=corpusPrimaryTopicToml&path=nested%2Fa+paper.toml',
   );
 });

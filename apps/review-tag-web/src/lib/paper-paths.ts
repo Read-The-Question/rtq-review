@@ -56,50 +56,93 @@ export const SOURCE_FOLDERS: Record<
     label: string;
   }
 > = {
-  allTopicsToml: {
-    absolutePath: path.join(SOURCE_PAPERS_ROOT, 'allTopicsToml'),
-    description: 'Papers grouped across every active tag',
-    label: 'All Topic Papers',
+  corpusAllTopicsToml: {
+    absolutePath: path.join(SOURCE_PAPERS_ROOT, 'corpusAllTopicsToml'),
+    description: 'Corpus questions grouped across every active tag',
+    label: 'Corpus All Topics',
   },
-  focusToml: {
-    absolutePath: path.join(SOURCE_PAPERS_ROOT, 'focusToml'),
-    description: 'Focus-group derived papers',
+  corpusAnswerRagToml: {
+    absolutePath: path.join(SOURCE_PAPERS_ROOT, 'corpusAnswerRagToml'),
+    description: 'Corpus questions grouped by answer RAG',
+    label: 'Corpus Answer RAG',
+  },
+  corpusPrimaryTopicAnswerRagToml: {
+    absolutePath: path.join(
+      SOURCE_PAPERS_ROOT,
+      'corpusPrimaryTopicAnswerRagToml',
+    ),
+    description: 'Corpus questions grouped by primary topic and answer RAG',
+    label: 'Corpus Primary Topic Answer RAG',
+  },
+  corpusPrimaryTopicToml: {
+    absolutePath: path.join(SOURCE_PAPERS_ROOT, 'corpusPrimaryTopicToml'),
+    description: 'Corpus questions grouped by primary topic',
+    label: 'Corpus Primary Topic',
+  },
+  corpusQuestionRagToml: {
+    absolutePath: path.join(SOURCE_PAPERS_ROOT, 'corpusQuestionRagToml'),
+    description: 'Corpus questions grouped by question RAG',
+    label: 'Corpus Question RAG',
+  },
+  focusCorpusAnswerRagToml: {
+    absolutePath: path.join(SOURCE_PAPERS_ROOT, 'focusCorpusAnswerRagToml'),
+    description: 'Focused corpus questions grouped by answer RAG',
+    label: 'Focus Corpus Answer RAG',
+  },
+  focusCorpusAnswerImageRagToml: {
+    absolutePath: path.join(
+      SOURCE_PAPERS_ROOT,
+      'focusCorpusAnswerImageRagToml',
+    ),
+    description: 'Focused corpus questions grouped by answer-image RAG',
+    label: 'Focus Corpus Answer Image RAG',
+  },
+  focusCorpusPrimaryTopicAnswerRagToml: {
+    absolutePath: path.join(
+      SOURCE_PAPERS_ROOT,
+      'focusCorpusPrimaryTopicAnswerRagToml',
+    ),
+    description:
+      'Focused corpus questions grouped by primary topic and answer RAG',
+    label: 'Focus Corpus Primary Topic Answer RAG',
+  },
+  focusCorpusPrimaryTopicToml: {
+    absolutePath: path.join(SOURCE_PAPERS_ROOT, 'focusCorpusPrimaryTopicToml'),
+    description: 'Focused corpus questions grouped by primary topic',
+    label: 'Focus Corpus Primary Topic',
+  },
+  focusCorpusQuestionRagToml: {
+    absolutePath: path.join(SOURCE_PAPERS_ROOT, 'focusCorpusQuestionRagToml'),
+    description: 'Focused corpus questions grouped by question RAG',
+    label: 'Focus Corpus Question RAG',
+  },
+  focusCorpusQuestionImageRagToml: {
+    absolutePath: path.join(
+      SOURCE_PAPERS_ROOT,
+      'focusCorpusQuestionImageRagToml',
+    ),
+    description: 'Focused corpus questions grouped by question-image RAG',
+    label: 'Focus Corpus Question Image RAG',
+  },
+  focusPaperAnswerRagToml: {
+    absolutePath: path.join(SOURCE_PAPERS_ROOT, 'focusPaperAnswerRagToml'),
+    description: 'Focused papers split independently by answer RAG',
+    label: 'Focus Paper Answer RAG',
+  },
+  focusPaperToml: {
+    absolutePath: path.join(SOURCE_PAPERS_ROOT, 'focusPaperToml'),
+    description: 'Complete copies of focused papers',
     label: 'Focus Papers',
   },
-  focusTopicToml: {
-    absolutePath: path.join(SOURCE_PAPERS_ROOT, 'focusTopicToml'),
-    description: 'Focus-group topic-derived papers',
-    label: 'Focus Topic Papers',
-  },
-  focusRagToml: {
-    absolutePath: path.join(SOURCE_PAPERS_ROOT, 'focusRagToml'),
-    description: 'Focus-group RAG/status variants',
-    label: 'Focus RAG Papers',
-  },
-  focusRagTopicToml: {
-    absolutePath: path.join(SOURCE_PAPERS_ROOT, 'focusRagTopicToml'),
-    description: 'Focus-group topic RAG/status variants',
-    label: 'Focus RAG Topic Papers',
-  },
-  ragToml: {
-    absolutePath: path.join(SOURCE_PAPERS_ROOT, 'ragToml'),
-    description: 'Per-paper RAG/status variants',
-    label: 'RAG Papers',
-  },
-  ragTopicToml: {
-    absolutePath: path.join(SOURCE_PAPERS_ROOT, 'ragTopicToml'),
-    description: 'Topic-grouped RAG/status variants',
-    label: 'RAG Topic Papers',
+  paperAnswerRagToml: {
+    absolutePath: path.join(SOURCE_PAPERS_ROOT, 'paperAnswerRagToml'),
+    description: 'Papers split independently by answer RAG',
+    label: 'Paper Answer RAG',
   },
   toml: {
     absolutePath: path.join(SOURCE_PAPERS_ROOT, 'toml'),
     description: 'Canonical paper source-of-truth',
     label: 'Papers',
-  },
-  topicToml: {
-    absolutePath: path.join(SOURCE_PAPERS_ROOT, 'topicToml'),
-    description: 'Topic-grouped derived papers',
-    label: 'Topic Papers',
   },
 };
 

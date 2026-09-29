@@ -208,8 +208,8 @@ export function ChangeRequestInbox({
               <div className="review-work-files" aria-label="Source files">
                 <SourceFiles label="toml" sources={group.sourceFiles.toml} />
                 <SourceFiles
-                  label="topicToml"
-                  sources={group.sourceFiles.topicToml}
+                  label="corpusPrimaryTopicToml"
+                  sources={group.sourceFiles.corpusPrimaryTopicToml}
                 />
               </div>
               <div className="review-work-lanes">

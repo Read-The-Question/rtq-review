@@ -71,7 +71,7 @@ test('groups comments and PRCR outcomes by UUID and side', () => {
     groups[0]?.sourceFiles.toml.map((item) => item.relativePath),
     ['paper-a.toml'],
   );
-  assert.deepEqual(groups[0]?.sourceFiles.topicToml, []);
+  assert.deepEqual(groups[0]?.sourceFiles.corpusPrimaryTopicToml, []);
 });
 
 test('archives stored work only when its RAG state no longer matches', () => {
@@ -96,10 +96,10 @@ test('archives stored work only when its RAG state no longer matches', () => {
 test('uses any matching UUID occurrence as active while preferring canonical context', () => {
   const topicSource: ReviewWorkOccurrence = {
     ...source,
-    collectionId: 'topicToml',
+    collectionId: 'corpusPrimaryTopicToml',
     paperTitle: 'Division topic',
     relativePath: 'division.toml',
-    route: '/papers/topicToml/division.toml#s0.q0',
+    route: '/papers/corpusPrimaryTopicToml/division.toml#s0.q0',
   };
   const groups = buildReviewWorkGroups({
     comments: [comment],
@@ -112,12 +112,14 @@ test('uses any matching UUID occurrence as active while preferring canonical con
 
   assert.equal(groups[0]?.source?.collectionId, 'toml');
   assert.deepEqual(
-    groups[0]?.sourceFiles.topicToml.map((item) => item.relativePath),
+    groups[0]?.sourceFiles.corpusPrimaryTopicToml.map(
+      (item) => item.relativePath,
+    ),
     ['division.toml'],
   );
   assert.equal(
     groups[0]?.lanes[0]?.states[0]?.source?.collectionId,
-    'topicToml',
+    'corpusPrimaryTopicToml',
   );
   assert.equal(groups[0]?.lanes[0]?.states[0]?.lifecycle, 'active');
 });

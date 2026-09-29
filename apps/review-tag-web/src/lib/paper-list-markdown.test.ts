@@ -175,6 +175,6 @@ test('uses the shared contract at the central read-only Tag Web boundaries', asy
 
   assert.ok(editableFolders);
   assert.ok(visibleFolders);
-  assert.doesNotMatch(editableFolders, /allTopicsToml/);
-  assert.match(visibleFolders, /allTopicsToml/);
+  assert.doesNotMatch(editableFolders, /corpusAllTopicsToml/);
+  assert.match(visibleFolders, /corpusAllTopicsToml/);
 });

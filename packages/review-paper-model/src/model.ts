@@ -8,14 +8,20 @@ export const DIMENSIONAL_TAG_AXES = [
 
 export const REVIEWABLE_COLLECTION_IDS = [
   'toml',
-  'allTopicsToml',
-  'focusToml',
-  'focusTopicToml',
-  'focusRagToml',
-  'focusRagTopicToml',
-  'topicToml',
-  'ragToml',
-  'ragTopicToml',
+  'focusPaperToml',
+  'paperAnswerRagToml',
+  'focusPaperAnswerRagToml',
+  'corpusPrimaryTopicToml',
+  'focusCorpusPrimaryTopicToml',
+  'corpusAllTopicsToml',
+  'corpusQuestionRagToml',
+  'corpusAnswerRagToml',
+  'focusCorpusQuestionRagToml',
+  'focusCorpusAnswerRagToml',
+  'focusCorpusQuestionImageRagToml',
+  'focusCorpusAnswerImageRagToml',
+  'corpusPrimaryTopicAnswerRagToml',
+  'focusCorpusPrimaryTopicAnswerRagToml',
 ] as const;
 
 export type DimensionalTagAxis = (typeof DIMENSIONAL_TAG_AXES)[number];

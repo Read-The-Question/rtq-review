@@ -12,7 +12,7 @@ tag filters, independent question and answer content-RAG filters, rendered and
 raw content views, allowlisted canonical paper assets, Google Sheets outcome
 submission, local append-only review comments, and a separate product-wide
 finding inbox. A filter-aware left rail links directly to every visible
-question, subquestion, and sub-subquestion. The read-only `allTopicsToml`
+question, subquestion, and sub-subquestion. The read-only `corpusAllTopicsToml`
 collection exposes the complete one-way projection across every active tag.
 
 Authored `PaperList` wrappers render directly in question, answer, working,

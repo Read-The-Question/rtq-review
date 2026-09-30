@@ -9,6 +9,7 @@ import katex from "katex";
 import {
   getRtqReviewKatexOptions,
   RTQ_BINARY_OPERATOR_SYMBOL_MACROS,
+  RTQ_BINARY_OPERATOR_WORD_MACROS,
   RTQ_BOXED_VALUE_MACROS,
   RTQ_COLUMNAR_ARITHMETIC_STYLE_EXPANSION,
   RTQ_COLUMNAR_ARITHMETIC_STYLE_MACRO,
@@ -42,6 +43,7 @@ import {
   RTQ_TIME_SEPARATOR_EXPANSION,
   RTQ_TIME_SEPARATOR_MACRO,
   RTQ_TIME_MERIDIEM_MACROS,
+  RTQ_UNIT_MACROS,
   RTQ_UNDERLINE_VALUE_MACROS,
   RTQ_WORKING_ANNOTATION_CLASS,
   RTQ_WORKING_ANNOTATION_EXPANSION,
@@ -224,6 +226,20 @@ test("matches the canonical rtq-content shared macro contracts", () => {
     );
   }
   for (const [name, expansion] of Object.entries(
+    RTQ_BINARY_OPERATOR_WORD_MACROS,
+  )) {
+    assert.deepEqual(
+      contract.macros.find((macro) => macro.name === name),
+      { expansion, name },
+    );
+  }
+  for (const [name, expansion] of Object.entries(RTQ_UNIT_MACROS)) {
+    assert.deepEqual(
+      contract.macros.find((macro) => macro.name === name),
+      { expansion, name },
+    );
+  }
+  for (const [name, expansion] of Object.entries(
     RTQ_ROLE_NEUTRAL_SYMBOL_MACROS,
   )) {
     assert.deepEqual(
@@ -393,6 +409,22 @@ test("renders the semantic list separator as one em", () => {
     normalize(katex.renderToString(`1${RTQ_LIST_SEPARATOR_MACRO}2`, options)),
     normalize(katex.renderToString("1\\quad2", options)),
   );
+});
+
+test("renders standard and no-space mathematical unit suffixes", () => {
+  const standard = katex.renderToString(
+    String.raw`5 \rtqMathsUnit{kilometres}`,
+    options,
+  );
+  const pence = katex.renderToString(
+    String.raw`5 \rtqMathsUnitCurrencyPence`,
+    options,
+  );
+
+  assert.equal(standard.match(/class="mspace"/g)?.length, 1);
+  assert.match(standard, />kilometres</);
+  assert.equal(pence.match(/class="mspace"/g)?.length ?? 0, 0);
+  assert.match(pence, />p</);
 });
 
 test("renders source-variant and canonical meridiem macros", () => {

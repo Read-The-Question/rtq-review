@@ -365,11 +365,7 @@ function CommentList({
   comments: readonly LocalReviewComment[];
   current: boolean;
 }) {
-  if (comments.length === 0) {
-    return current ? (
-      <p className="comment-empty">No comments in this state.</p>
-    ) : null;
-  }
+  if (comments.length === 0) return null;
   return (
     <ol className={`comment-list${current ? '' : ' comment-list--history'}`}>
       {comments.map((comment) => (
@@ -791,12 +787,12 @@ function ReviewFeedback({
   const commentGroups = target
     ? partitionReviewComments(runtime.comments, target)
     : { current: [], history: [] };
-  const legacyComments = node.review[side]?.legacyComments;
-  const hasFeedback =
+  const legacyComments = node.review[side]?.legacyComments?.trim();
+  const hasVisibleFeedback =
     commentGroups.current.length > 0 ||
-    commentGroups.history.length > 0 ||
+    (runtime.showPreviousFeedback && commentGroups.history.length > 0) ||
     Boolean(legacyComments);
-  if (!hasFeedback) return null;
+  if (!hasVisibleFeedback) return null;
 
   return (
     <section

@@ -41,6 +41,9 @@ const rtqKatexMacros = {
     "\\mathbin{\\rtqMathsSymbolBoxDot}",
   "\\rtqMathsBinaryOperatorBlackSquare":
     "\\mathbin{\\rtqMathsSymbolBlackSquare}",
+  "\\rtqMathsBinaryOperatorOf": "\\mathbin{\\text{of}}",
+  "\\rtqMathsUnit": "\\rtqMathsSpaceQuarterEm \\text{#1}",
+  "\\rtqMathsUnitCurrencyPence": "\\text{p}",
   "\\rtqMathsSymbolHeartsPendingReview": "\\hearts",
   "\\rtqMathsSymbolHeartSuitPendingReview": "\\heartsuit",
   "\\rtqMathsSymbolSpadeSuitPendingReview": "\\spadesuit",

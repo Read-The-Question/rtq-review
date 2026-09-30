@@ -51,6 +51,10 @@ export const RTQ_BINARY_OPERATOR_SYMBOL_MACROS = {
     "\\mathbin{\\rtqMathsSymbolBlackSquare}",
 } as const;
 
+export const RTQ_BINARY_OPERATOR_WORD_MACROS = {
+  "\\rtqMathsBinaryOperatorOf": "\\mathbin{\\text{of}}",
+} as const;
+
 export const RTQ_ROLE_NEUTRAL_SYMBOL_MACROS = {
   "\\rtqMathsSymbolRightArrow": "\\rightarrow",
 } as const;
@@ -110,6 +114,11 @@ export const RTQ_SPACING_MACROS = {
   "\\rtqMathsSpaceHalfEm": "\\enspace",
   "\\rtqMathsSpaceOneEm": "\\quad",
   "\\rtqMathsSpaceTwoEm": "\\qquad",
+} as const;
+
+export const RTQ_UNIT_MACROS = {
+  "\\rtqMathsUnit": "\\rtqMathsSpaceQuarterEm \\text{#1}",
+  "\\rtqMathsUnitCurrencyPence": "\\text{p}",
 } as const;
 
 export const RTQ_LIST_SEPARATOR_MACRO = "\\rtqMathsListSeparator" as const;
@@ -242,6 +251,7 @@ export function getRtqReviewKatexOptions<
       ...RTQ_QUESTION_MARK_PLACEHOLDER_MACROS,
       ...RTQ_ROLE_NEUTRAL_SYMBOL_MACROS,
       ...RTQ_BINARY_OPERATOR_SYMBOL_MACROS,
+      ...RTQ_BINARY_OPERATOR_WORD_MACROS,
       ...RTQ_ELLIPSIS_EMPTY_MACROS,
       [RTQ_SEQUENCE_ELLIPSIS_MACRO]: RTQ_SEQUENCE_ELLIPSIS_EXPANSION,
       [RTQ_TABLE_NO_VALUE_MACRO]: RTQ_TABLE_NO_VALUE_EXPANSION,
@@ -249,6 +259,7 @@ export function getRtqReviewKatexOptions<
       [RTQ_TIME_SEPARATOR_MACRO]: RTQ_TIME_SEPARATOR_EXPANSION,
       [RTQ_RATIO_SEPARATOR_MACRO]: RTQ_RATIO_SEPARATOR_EXPANSION,
       ...RTQ_SPACING_MACROS,
+      ...RTQ_UNIT_MACROS,
       [RTQ_LIST_SEPARATOR_MACRO]: RTQ_LIST_SEPARATOR_EXPANSION,
       ...RTQ_TIME_MERIDIEM_MACROS,
       ...RTQ_SIZE_SWITCHES,

@@ -3707,12 +3707,6 @@ a.paper-row:hover {
   padding: 0.3rem 0.45rem;
 }
 
-.comment-empty {
-  color: var(--muted);
-  font-size: 0.9375rem;
-  margin: 0.8rem 0 0;
-}
-
 .comment-list {
   list-style: none;
   margin: 0.75rem 0 0;

@@ -436,7 +436,13 @@ test('feedback is independent from review panels and only renders when populated
   assert.match(reviewScope, /className="comment-form"/);
   assert.doesNotMatch(reviewScope, /feedback-region/);
   assert.match(component, /function ReviewFeedback/);
-  assert.match(component, /if \(!hasFeedback\) return null/);
+  assert.match(
+    component,
+    /runtime\.showPreviousFeedback && commentGroups\.history\.length > 0/,
+  );
+  assert.match(component, /legacyComments\?\.trim\(\)/);
+  assert.match(component, /if \(!hasVisibleFeedback\) return null/);
+  assert.doesNotMatch(component, /No comments in this state/);
   assert.match(
     component,
     /visibleFeedbackSides\(preferences\)[\s\S]*side\.startsWith\('question'\)/,

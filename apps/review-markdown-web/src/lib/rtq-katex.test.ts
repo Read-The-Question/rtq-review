@@ -8,7 +8,7 @@ test('registers all prefixed RTQ macros including one-to-one symbol wrappers', (
   assert.equal(
     Object.keys(rtqKatexMacros).filter(name => name.startsWith('\\rtqMaths'))
       .length,
-    122,
+    125,
   );
   assert.equal(
     rtqKatexMacros['\\rtqMathsUnderlineEmptyValueLong'],
@@ -89,6 +89,15 @@ test('registers all prefixed RTQ macros including one-to-one symbol wrappers', (
     '\\blacklozenge',
   );
   assert.equal(rtqKatexMacros['\\rtqMathsSymbolPound'], '\\pounds');
+  assert.equal(
+    rtqKatexMacros['\\rtqMathsUnit'],
+    '\\rtqMathsSpaceQuarterEm \\text{#1}',
+  );
+  assert.equal(rtqKatexMacros['\\rtqMathsUnitCurrencyPence'], '\\text{p}');
+  assert.equal(
+    rtqKatexMacros['\\rtqMathsBinaryOperatorOf'],
+    '\\mathbin{\\text{of}}',
+  );
   assert.equal(rtqKatexMacros['\\rtqMathsSymbolDegree'], undefined);
 });
 
@@ -126,14 +135,30 @@ test('renders the approved symbol wrappers through Markdown', async () => {
   assert.match(html, /□/);
 });
 
-test('renders role-specific symbols as binary operators through Markdown', async () => {
+test('renders role-specific symbols and words as binary operators through Markdown', async () => {
   const html = await renderMarkdownToHtml(
-    String.raw`$1 \rtqMathsBinaryOperatorAsterisk 2 \rtqMathsBinaryOperatorBoxDot 3 \rtqMathsBinaryOperatorBlackSquare 4$`,
+    String.raw`$1 \rtqMathsBinaryOperatorAsterisk 2 \rtqMathsBinaryOperatorBoxDot 3 \rtqMathsBinaryOperatorBlackSquare 4 \rtqMathsBinaryOperatorOf 5$`,
     rtqKatexMacros,
   );
 
   assert.doesNotMatch(html, /katex-error/);
-  assert.equal(html.match(/class="mbin/g)?.length, 3);
+  assert.equal(html.match(/class="mbin/g)?.length, 4);
+});
+
+test('renders standard and no-space mathematical unit suffixes through Markdown', async () => {
+  const standard = await renderMarkdownToHtml(
+    String.raw`$5 \rtqMathsUnit{kilometres}$`,
+    rtqKatexMacros,
+  );
+  const pence = await renderMarkdownToHtml(
+    String.raw`$5 \rtqMathsUnitCurrencyPence$`,
+    rtqKatexMacros,
+  );
+
+  assert.equal(standard.match(/class="mspace"/g)?.length, 1);
+  assert.match(standard, />kilometres</);
+  assert.doesNotMatch(pence, /class="mspace"/);
+  assert.match(pence, />p</);
 });
 
 test('renders the approved bespoke symbols through Markdown', async () => {

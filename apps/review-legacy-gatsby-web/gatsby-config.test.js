@@ -103,6 +103,9 @@ test("registers and renders the complete prefixed RTQ vocabulary", () => {
   const options = { ...getRtqKatexOptions(), throwOnError: true };
   const expected = [
     "\\rtqMathsBinaryOperatorAsterisk",
+    "\\rtqMathsBinaryOperatorOf",
+    "\\rtqMathsUnit",
+    "\\rtqMathsUnitCurrencyPence",
     "\\rtqMathsBinaryOperatorBlackSquare",
     "\\rtqMathsBinaryOperatorBoxDot",
     "\\rtqMathsAddCarryOver",

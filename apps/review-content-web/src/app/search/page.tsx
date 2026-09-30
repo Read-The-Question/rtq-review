@@ -25,6 +25,7 @@ export default async function CorpusSearchPage({
     'content-scope'?: string | string[];
     cursor?: string | string[];
     limit?: string | string[];
+    uuids?: string | string[];
   }>;
 }) {
   const parameters = await searchParams;
@@ -36,18 +37,20 @@ export default async function CorpusSearchPage({
     stringParameter(parameters['content-scope']),
   );
   const pattern = stringParameter(parameters.content).trim();
+  const uuidInput = stringParameter(parameters.uuids).trim();
   const cursor = stringParameter(parameters.cursor).trim() || undefined;
 
   return (
     <CorpusSearch
       cursor={cursor}
       initialResponse={
-        pattern ? undefined : emptyCanonicalQuestionCorpus(limit)
+        pattern || uuidInput ? undefined : emptyCanonicalQuestionCorpus(limit)
       }
-      key={`${pattern}:${scope}:${limit}:${cursor ?? ''}`}
+      key={`${pattern}:${scope}:${uuidInput}:${limit}:${cursor ?? ''}`}
       limit={limit}
       pattern={pattern}
       scope={scope}
+      uuidInput={uuidInput}
     />
   );
 }

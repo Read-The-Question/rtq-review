@@ -683,6 +683,33 @@ test('corpus search is bounded, URL-backed, and reuses the complete review surfa
   assert.match(route, /'Cache-Control': 'no-store'/);
 });
 
+test('corpus search has a distinct ordered multi-UUID mode', async () => {
+  const [component, page, route, reviewSurface] = await Promise.all([
+    fs.readFile(corpusSearchUrl, 'utf8'),
+    fs.readFile(corpusSearchPageUrl, 'utf8'),
+    fs.readFile(corpusSearchRouteUrl, 'utf8'),
+    fs.readFile(componentUrl, 'utf8'),
+  ]);
+
+  assert.match(page, /uuidInput=\{uuidInput\}/);
+  assert.match(page, /parameters\.uuids/);
+  assert.match(component, /function uuidSearchRoute/);
+  assert.match(component, /params\.set\('uuids', uuidInput\)/);
+  assert.match(component, /onUuidSearch: navigateToUuids/);
+  assert.match(component, /missingUuids: response\.missingUuids/);
+  assert.match(route, /searchCanonicalQuestionCorpusByUuids/);
+  assert.match(route, /Choose either content search or UUID search/);
+  assert.match(reviewSurface, /compileUuidSearch\(uuidDraft\)/);
+  assert.match(reviewSurface, /aria-label="Search method"/);
+  assert.match(reviewSurface, />\s*UUIDs\s*<\/button>/);
+  assert.match(reviewSurface, /className="uuid-search"/);
+  assert.match(reviewSurface, /missingUuids\.join\(', '\)/);
+  assert.match(
+    reviewSurface,
+    /corpus\?\.searchMode === 'content'[\s\S]*<CorpusPageNavigation/,
+  );
+});
+
 test('the landing page uses a compact paper-first introduction', async () => {
   const [home, paperIndex, browser, component, css] = await Promise.all([
     fs.readFile(homeUrl, 'utf8'),

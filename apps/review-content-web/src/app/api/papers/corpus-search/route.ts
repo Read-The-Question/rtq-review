@@ -5,7 +5,9 @@ import {
 
 import {
   emptyCanonicalQuestionCorpus,
+  emptyCanonicalQuestionUuidCorpus,
   searchCanonicalQuestionCorpus,
+  searchCanonicalQuestionCorpusByUuids,
 } from '@/lib/corpus-search';
 import { isCorpusSearchLimit } from '@/lib/corpus-search-types';
 
@@ -17,6 +19,7 @@ const responseHeaders = { 'Cache-Control': 'no-store' } as const;
 export async function GET(request: Request): Promise<Response> {
   const parameters = new URL(request.url).searchParams;
   const pattern = parameters.get('content')?.trim() ?? '';
+  const uuidInput = parameters.get('uuids')?.trim() ?? '';
   const scope = normalizeContentSearchScope(parameters.get('content-scope'));
   const requestedLimit = Number(parameters.get('limit') ?? '20');
   const cursor = parameters.get('cursor')?.trim() || undefined;
@@ -27,8 +30,20 @@ export async function GET(request: Request): Promise<Response> {
       { headers: responseHeaders, status: 400 },
     );
   }
+  if (pattern && uuidInput) {
+    return Response.json(
+      { error: 'Choose either content search or UUID search, not both.' },
+      { headers: responseHeaders, status: 400 },
+    );
+  }
 
   try {
+    if (uuidInput) {
+      return Response.json(
+        await searchCanonicalQuestionCorpusByUuids(uuidInput),
+        { headers: responseHeaders },
+      );
+    }
     if (!pattern) {
       return Response.json(emptyCanonicalQuestionCorpus(requestedLimit), {
         headers: responseHeaders,
@@ -46,7 +61,9 @@ export async function GET(request: Request): Promise<Response> {
     if (invalid) {
       return Response.json(
         {
-          ...emptyCanonicalQuestionCorpus(requestedLimit),
+          ...(uuidInput
+            ? emptyCanonicalQuestionUuidCorpus(uuidInput)
+            : emptyCanonicalQuestionCorpus(requestedLimit)),
           searchError: error.message,
         },
         { headers: responseHeaders },

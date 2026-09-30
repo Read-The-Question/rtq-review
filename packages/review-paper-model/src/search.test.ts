@@ -3,6 +3,7 @@ import test from 'node:test';
 
 import {
   compileContentSearch,
+  compileUuidSearch,
   contentSearchRanges,
   filterReviewPaper,
   parsedQuestionTreeContentMatchNodeIds,
@@ -10,6 +11,40 @@ import {
   type ReviewPaper,
   type ReviewPaperNode,
 } from './index.ts';
+
+test('UUID search accepts comma or whitespace separators and preserves first occurrence order', () => {
+  assert.deepEqual(
+    compileUuidSearch(
+      '6a4d3a4b-ed56-4425-a042-95e7b753adb3, AAAAAAAA-AAAA-4AAA-8AAA-AAAAAAAAAAAA\n6A4D3A4B-ED56-4425-A042-95E7B753ADB3',
+    ),
+    {
+      state: 'ready',
+      uuids: [
+        '6A4D3A4B-ED56-4425-A042-95E7B753ADB3',
+        'AAAAAAAA-AAAA-4AAA-8AAA-AAAAAAAAAAAA',
+      ],
+    },
+  );
+});
+
+test('UUID search rejects malformed and oversized lists', () => {
+  const invalid = compileUuidSearch('not-a-uuid');
+  assert.equal(invalid.state, 'invalid');
+  if (invalid.state === 'invalid')
+    assert.match(invalid.message, /invalid UUID/i);
+
+  const oversized = compileUuidSearch(
+    Array.from(
+      { length: 101 },
+      (_, index) =>
+        `${index.toString(16).padStart(8, '0')}-AAAA-4AAA-8AAA-AAAAAAAAAAAA`,
+    ).join(' '),
+  );
+  assert.equal(oversized.state, 'invalid');
+  if (oversized.state === 'invalid') {
+    assert.match(oversized.message, /no more than 100/i);
+  }
+});
 
 function field(
   raw: string,

@@ -268,6 +268,14 @@ export type CorpusQuestionContentSearchPage = Readonly<{
   startPosition: number;
 }>;
 
+export type CorpusQuestionUuidSearchResult = Readonly<{
+  invalidFileCount: number;
+  matches: readonly CorpusQuestionContentSearchMatch[];
+  missingUuids: readonly string[];
+  requestedUuids: readonly string[];
+  scannedFileCount: number;
+}>;
+
 export type DimensionalFilterSelection = Readonly<
   Record<DimensionalTagAxis, readonly string[]>
 >;

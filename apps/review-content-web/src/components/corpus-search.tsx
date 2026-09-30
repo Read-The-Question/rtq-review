@@ -18,9 +18,10 @@ type CorpusSearchProps = Readonly<{
   limit: CorpusSearchLimit;
   pattern: string;
   scope: ContentSearchScope;
+  uuidInput: string;
 }>;
 
-function searchRoute(
+function contentSearchRoute(
   currentQuery: string,
   pattern: string,
   scope: ContentSearchScope,
@@ -31,9 +32,19 @@ function searchRoute(
   params.set('content', pattern);
   params.set('content-scope', scope);
   params.set('limit', String(limit));
+  params.delete('uuids');
   params.delete('question');
   if (cursor) params.set('cursor', cursor);
   else params.delete('cursor');
+  return `/search?${params.toString()}`;
+}
+
+function uuidSearchRoute(currentQuery: string, uuidInput: string): string {
+  const params = new URLSearchParams(currentQuery);
+  params.set('uuids', uuidInput);
+  for (const key of ['content', 'content-scope', 'cursor', 'question']) {
+    params.delete(key);
+  }
   return `/search?${params.toString()}`;
 }
 
@@ -45,6 +56,7 @@ function clearedSearchRoute(currentQuery: string): string {
     'cursor',
     'limit',
     'question',
+    'uuids',
   ]) {
     params.delete(key);
   }
@@ -58,6 +70,7 @@ export function CorpusSearch({
   limit,
   pattern,
   scope,
+  uuidInput,
 }: CorpusSearchProps) {
   const router = useRouter();
   const currentQuery = useSearchParams().toString();
@@ -74,7 +87,7 @@ export function CorpusSearch({
     ) => {
       startTransition(() => {
         router.push(
-          searchRoute(
+          contentSearchRoute(
             currentQuery,
             search.pattern,
             search.scope,
@@ -86,16 +99,26 @@ export function CorpusSearch({
     },
     [currentQuery, router],
   );
+  const navigateToUuids = useCallback(
+    (nextUuidInput: string) => {
+      startTransition(() => {
+        router.push(uuidSearchRoute(currentQuery, nextUuidInput));
+      });
+    },
+    [currentQuery, router],
+  );
 
   useEffect(() => {
-    if (initialResponse && !pattern) return;
+    if (initialResponse && !pattern && !uuidInput) return;
     const controller = new AbortController();
-    const params = new URLSearchParams({
-      content: pattern,
-      'content-scope': scope,
-      limit: String(limit),
-    });
-    if (cursor) params.set('cursor', cursor);
+    const params = new URLSearchParams({ limit: String(limit) });
+    if (uuidInput) {
+      params.set('uuids', uuidInput);
+    } else {
+      params.set('content', pattern);
+      params.set('content-scope', scope);
+      if (cursor) params.set('cursor', cursor);
+    }
 
     void fetch(`/api/papers/corpus-search?${params.toString()}`, {
       cache: 'no-store',
@@ -118,7 +141,7 @@ export function CorpusSearch({
       });
 
     return () => controller.abort();
-  }, [cursor, initialResponse, limit, pattern, scope]);
+  }, [cursor, initialResponse, limit, pattern, scope, uuidInput]);
 
   if (response) {
     const search: ContentSearchQuery = { pattern, scope };
@@ -129,14 +152,20 @@ export function CorpusSearch({
           endPosition: response.endPosition,
           invalidFileCount: response.invalidFileCount,
           limit: response.limit,
+          missingUuids: response.missingUuids,
           nextCursor: response.nextCursor,
           onClearSearch: () => router.push(clearedSearchRoute(currentQuery)),
+          onContentSearch: (nextSearch, nextLimit) =>
+            navigate(nextSearch, nextLimit),
           onPage: (nextCursor) => navigate(search, response.limit, nextCursor),
-          onSearch: (nextSearch, nextLimit) => navigate(nextSearch, nextLimit),
+          onUuidSearch: navigateToUuids,
           previousCursor: response.previousCursor,
           scannedFileCount: response.scannedFileCount,
           searchError: response.searchError,
+          searchMode: response.searchMode,
           startPosition: response.startPosition,
+          uuidInput: response.uuidInput ?? uuidInput,
+          uuidRequestCount: response.uuidRequestCount,
         }}
         outcomeLoad={response.outcomeLoad}
         paper={response.paper}
@@ -149,7 +178,11 @@ export function CorpusSearch({
     <main className="paper-shell">
       <section className="paper-hero" aria-live="polite">
         <p className="eyebrow">Canonical question corpus</p>
-        <h1>{pattern ? 'Searching canonical papers…' : 'Loading search…'}</h1>
+        <h1>
+          {pattern || uuidInput
+            ? 'Searching canonical papers…'
+            : 'Loading search…'}
+        </h1>
         {error ? <p className="error-message">{error}</p> : null}
       </section>
     </main>

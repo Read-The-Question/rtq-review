@@ -33,6 +33,13 @@ export type ContentSearchCompilation =
   | Readonly<{ search: CompiledContentSearch; state: 'ready' }>
   | Readonly<{ message: string; state: 'invalid' }>;
 
+export type UuidSearchCompilation =
+  | Readonly<{ state: 'ready'; uuids: readonly string[] }>
+  | Readonly<{ message: string; state: 'invalid' }>;
+
+const UUID_PATTERN = /^[0-9a-f]{8}-(?:[0-9a-f]{4}-){3}[0-9a-f]{12}$/i;
+const UUID_SEARCH_LIMIT = 100;
+
 function isRecord(value: unknown): value is Record<string, unknown> {
   return Boolean(value) && typeof value === 'object' && !Array.isArray(value);
 }
@@ -102,6 +109,37 @@ export function compileContentSearch(
       state: 'invalid',
     };
   }
+}
+
+export function compileUuidSearch(value: string): UuidSearchCompilation {
+  const entries = value
+    .trim()
+    .split(/[\s,]+/u)
+    .filter(Boolean);
+  if (entries.length === 0) {
+    return {
+      message: 'Enter one or more UUIDs separated by spaces or commas.',
+      state: 'invalid',
+    };
+  }
+
+  const invalid = entries.filter((entry) => !UUID_PATTERN.test(entry));
+  if (invalid.length > 0) {
+    const preview = invalid.slice(0, 3).join(', ');
+    return {
+      message: `Invalid UUID${invalid.length === 1 ? '' : 's'}: ${preview}${invalid.length > 3 ? ', …' : ''}.`,
+      state: 'invalid',
+    };
+  }
+
+  const uuids = [...new Set(entries.map((entry) => entry.toUpperCase()))];
+  if (uuids.length > UUID_SEARCH_LIMIT) {
+    return {
+      message: `Enter no more than ${UUID_SEARCH_LIMIT} unique UUIDs.`,
+      state: 'invalid',
+    };
+  }
+  return { state: 'ready', uuids };
 }
 
 function fieldMatches(

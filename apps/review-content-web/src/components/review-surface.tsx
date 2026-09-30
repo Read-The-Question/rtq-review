@@ -18,6 +18,7 @@ import {
 import {
   DIMENSIONAL_TAG_AXES,
   compileContentSearch,
+  compileUuidSearch,
   contentSearchRanges,
   CONTENT_SEARCH_SCOPES,
   filterReviewPaper,
@@ -1897,21 +1898,32 @@ function PaperContentSearch({
   limit,
   onApply,
   onClear,
+  onUuidApply,
   search,
+  searchMode = 'content',
+  uuidInput = '',
+  missingUuids = [],
 }: {
   context: 'corpus' | 'paper';
   error?: string;
   limit?: 20 | 50 | 100;
   onApply: (search: ContentSearchQuery, limit?: 20 | 50 | 100) => void;
   onClear: () => void;
+  onUuidApply?: (input: string) => void;
   search?: ContentSearchQuery;
+  searchMode?: 'content' | 'uuid';
+  uuidInput?: string;
+  missingUuids?: readonly string[];
 }) {
+  const [mode, setMode] = useState<'content' | 'uuid'>(searchMode);
   const [pattern, setPattern] = useState(search?.pattern ?? '');
   const [scope, setScope] = useState<ContentSearchScope>(
     search?.scope ?? 'all',
   );
   const [resultLimit, setResultLimit] = useState<20 | 50 | 100>(limit ?? 20);
   const [draftError, setDraftError] = useState<string>();
+  const [uuidDraft, setUuidDraft] = useState(uuidInput);
+  const [uuidDraftError, setUuidDraftError] = useState<string>();
 
   function submit(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
@@ -1930,7 +1942,21 @@ function PaperContentSearch({
     );
   }
 
-  const displayedError = draftError ?? error;
+  function submitUuids(event: FormEvent<HTMLFormElement>) {
+    event.preventDefault();
+    const compiled = compileUuidSearch(uuidDraft);
+    if (compiled.state === 'invalid') {
+      setUuidDraftError(compiled.message);
+      return;
+    }
+    setUuidDraftError(undefined);
+    onUuidApply?.(compiled.uuids.join(','));
+  }
+
+  const displayedError =
+    mode === 'uuid'
+      ? (uuidDraftError ?? (searchMode === 'uuid' ? error : undefined))
+      : (draftError ?? (searchMode === 'content' ? error : undefined));
   const isCorpusSearch = context === 'corpus';
   return (
     <section
@@ -1938,72 +1964,127 @@ function PaperContentSearch({
       aria-labelledby="paper-content-search-title"
     >
       <div>
-        <p className="eyebrow">Raw source search</p>
+        <p className="eyebrow">
+          {isCorpusSearch && mode === 'uuid'
+            ? 'Canonical identifiers'
+            : 'Raw source search'}
+        </p>
         <strong id="paper-content-search-title">
-          {isCorpusSearch
-            ? 'Search every question'
-            : 'Search within this paper'}
+          {isCorpusSearch && mode === 'uuid'
+            ? 'Find questions by UUID'
+            : isCorpusSearch
+              ? 'Search every question'
+              : 'Search within this paper'}
         </strong>
         <span>
-          {isCorpusSearch
-            ? 'Search every canonical TOML question; nested matches retain their complete top-level question.'
-            : 'Filter this paper only; nested matches retain their complete top-level question.'}
+          {isCorpusSearch && mode === 'uuid'
+            ? 'Paste up to 100 UUIDs separated by commas, spaces, or new lines.'
+            : isCorpusSearch
+              ? 'Search every canonical TOML question; nested matches retain their complete top-level question.'
+              : 'Filter this paper only; nested matches retain their complete top-level question.'}
         </span>
       </div>
-      <form className="raw-content-search" onSubmit={submit}>
-        <label>
-          <span>Regular expression</span>
-          <input
-            aria-describedby={
-              displayedError ? 'paper-content-search-error' : undefined
-            }
-            onChange={(event) => setPattern(event.target.value)}
-            placeholder={String.raw`For example: \\rtqMaths`}
-            type="search"
-            value={pattern}
-          />
-        </label>
-        <label>
-          <span>Scope</span>
-          <select
-            onChange={(event) =>
-              setScope(normalizeContentSearchScope(event.target.value))
-            }
-            value={scope}
+      {isCorpusSearch ? (
+        <div
+          aria-label="Search method"
+          className="corpus-search-mode"
+          role="group"
+        >
+          <button
+            aria-pressed={mode === 'content'}
+            onClick={() => setMode('content')}
+            type="button"
           >
-            {CONTENT_SEARCH_SCOPES.map((value) => (
-              <option key={value} value={value}>
-                {contentScopeLabels[value]}
-              </option>
-            ))}
-          </select>
-        </label>
-        {limit ? (
+            Content
+          </button>
+          <button
+            aria-pressed={mode === 'uuid'}
+            onClick={() => setMode('uuid')}
+            type="button"
+          >
+            UUIDs
+          </button>
+        </div>
+      ) : null}
+      {mode === 'uuid' && isCorpusSearch ? (
+        <form className="uuid-search" onSubmit={submitUuids}>
           <label>
-            <span>Results</span>
+            <span>Question UUIDs</span>
+            <textarea
+              aria-describedby={
+                displayedError ? 'paper-content-search-error' : undefined
+              }
+              onChange={(event) => setUuidDraft(event.target.value)}
+              placeholder="6A4D3A4B-ED56-4425-A042-95E7B753ADB3, …"
+              rows={3}
+              value={uuidDraft}
+            />
+          </label>
+          <button disabled={!uuidDraft.trim()} type="submit">
+            Find UUIDs
+          </button>
+          {searchMode === 'uuid' && uuidInput ? (
+            <button onClick={onClear} type="button">
+              Clear
+            </button>
+          ) : null}
+        </form>
+      ) : (
+        <form className="raw-content-search" onSubmit={submit}>
+          <label>
+            <span>Regular expression</span>
+            <input
+              aria-describedby={
+                displayedError ? 'paper-content-search-error' : undefined
+              }
+              onChange={(event) => setPattern(event.target.value)}
+              placeholder={String.raw`For example: \\rtqMaths`}
+              type="search"
+              value={pattern}
+            />
+          </label>
+          <label>
+            <span>Scope</span>
             <select
               onChange={(event) =>
-                setResultLimit(Number(event.target.value) as 20 | 50 | 100)
+                setScope(normalizeContentSearchScope(event.target.value))
               }
-              value={resultLimit}
+              value={scope}
             >
-              {[20, 50, 100].map((value) => (
+              {CONTENT_SEARCH_SCOPES.map((value) => (
                 <option key={value} value={value}>
-                  {value}
+                  {contentScopeLabels[value]}
                 </option>
               ))}
             </select>
           </label>
-        ) : null}
-        <button disabled={!pattern.trim()} type="submit">
-          {isCorpusSearch ? 'Search corpus' : 'Apply to paper'}
-        </button>
-        {search ? (
-          <button onClick={onClear} type="button">
-            Clear
+          {limit ? (
+            <label>
+              <span>Results</span>
+              <select
+                onChange={(event) =>
+                  setResultLimit(Number(event.target.value) as 20 | 50 | 100)
+                }
+                value={resultLimit}
+              >
+                {[20, 50, 100].map((value) => (
+                  <option key={value} value={value}>
+                    {value}
+                  </option>
+                ))}
+              </select>
+            </label>
+          ) : null}
+          <button disabled={!pattern.trim()} type="submit">
+            {isCorpusSearch ? 'Search corpus' : 'Apply to paper'}
           </button>
-        ) : null}
-      </form>
+          {search ? (
+            <button onClick={onClear} type="button">
+              Clear
+            </button>
+          ) : null}
+        </form>
+      )}
       {displayedError ? (
         <p
           className="raw-content-search-error"
@@ -2011,6 +2092,15 @@ function PaperContentSearch({
           role="alert"
         >
           {displayedError}
+        </p>
+      ) : mode === 'uuid' && missingUuids.length > 0 ? (
+        <p className="uuid-search-missing" role="status">
+          <strong>{missingUuids.length} not found:</strong>{' '}
+          {missingUuids.join(', ')}
+        </p>
+      ) : mode === 'uuid' && searchMode === 'uuid' && uuidInput ? (
+        <p className="uuid-search-summary" role="status">
+          Every requested UUID was found.
         </p>
       ) : search ? (
         <code>
@@ -2239,14 +2329,19 @@ export type CorpusReviewSurfaceConfig = Readonly<{
   endPosition: number;
   invalidFileCount: number;
   limit: 20 | 50 | 100;
+  missingUuids: readonly string[];
   nextCursor?: string;
   onClearSearch: () => void;
+  onContentSearch: (search: ContentSearchQuery, limit: 20 | 50 | 100) => void;
   onPage: (cursor: string) => void;
-  onSearch: (search: ContentSearchQuery, limit: 20 | 50 | 100) => void;
+  onUuidSearch: (input: string) => void;
   previousCursor?: string;
   scannedFileCount: number;
   searchError?: string;
+  searchMode: 'content' | 'uuid';
   startPosition: number;
+  uuidInput: string;
+  uuidRequestCount: number;
 }>;
 
 function CorpusPageNavigation({
@@ -3027,7 +3122,7 @@ export function ReviewSurface({
     requestedLimit?: 20 | 50 | 100,
   ) {
     if (corpus) {
-      corpus.onSearch(search, requestedLimit ?? corpus.limit);
+      corpus.onContentSearch(search, requestedLimit ?? corpus.limit);
       return;
     }
     const current = new URLSearchParams(searchParams.toString());
@@ -3397,16 +3492,20 @@ export function ReviewSurface({
             )}
           </nav>
           <h1>
-            {corpus && corpus.startPosition > 0
-              ? `Results ${corpus.startPosition}–${corpus.endPosition}`
-              : corpus
-                ? 'Search every question'
-                : paper.title}
+            {corpus?.searchMode === 'uuid'
+              ? 'UUID results'
+              : corpus && corpus.startPosition > 0
+                ? `Results ${corpus.startPosition}–${corpus.endPosition}`
+                : corpus
+                  ? 'Search every question'
+                  : paper.title}
           </h1>
           <code>
-            {corpus && contentSearch
-              ? `/${contentSearch.pattern}/im · ${contentScopeLabels[contentSearch.scope]}`
-              : paper.source.fileName}
+            {corpus?.searchMode === 'uuid'
+              ? `${corpus.uuidRequestCount - corpus.missingUuids.length} found · ${corpus.missingUuids.length} missing`
+              : corpus && contentSearch
+                ? `/${contentSearch.pattern}/im · ${contentScopeLabels[contentSearch.scope]}`
+                : paper.source.fileName}
           </code>
           <dl className="paper-summary-metadata">
             <div>
@@ -3422,9 +3521,19 @@ export function ReviewSurface({
               </dd>
             </div>
             <div>
-              <dt>{corpus ? 'Page' : 'RAG'}</dt>
+              <dt>
+                {corpus?.searchMode === 'uuid'
+                  ? 'Requested'
+                  : corpus
+                    ? 'Page'
+                    : 'RAG'}
+              </dt>
               <dd>
-                {corpus ? corpus.limit : (paper.metadata.paperRag ?? '—')}
+                {corpus?.searchMode === 'uuid'
+                  ? corpus.uuidRequestCount
+                  : corpus
+                    ? corpus.limit
+                    : (paper.metadata.paperRag ?? '—')}
               </dd>
             </div>
             <div>
@@ -3465,11 +3574,15 @@ export function ReviewSurface({
         <PaperContentSearch
           context="corpus"
           error={corpus.searchError}
-          key={`${contentSearch?.pattern ?? ''}:${contentSearch?.scope ?? 'all'}:${corpus.limit}`}
+          key={`${corpus.searchMode}:${contentSearch?.pattern ?? ''}:${contentSearch?.scope ?? 'all'}:${corpus.uuidInput}:${corpus.limit}`}
           limit={corpus.limit}
+          missingUuids={corpus.missingUuids}
           onApply={applyContentSearch}
           onClear={clearContentSearch}
+          onUuidApply={corpus.onUuidSearch}
           search={contentSearch}
+          searchMode={corpus.searchMode}
+          uuidInput={corpus.uuidInput}
         />
       ) : null}
 
@@ -3779,20 +3892,29 @@ export function ReviewSurface({
         onNavigate={navigateTo}
         questionIds={result.matchingQuestionTreeIds}
       />
-      {corpus ? <CorpusPageNavigation corpus={corpus} /> : null}
+      {corpus?.searchMode === 'content' ? (
+        <CorpusPageNavigation corpus={corpus} />
+      ) : null}
 
       {result.matchingQuestionTreeCount === 0 ? (
         <section className="empty-results" aria-live="polite">
           <span>0 / {result.totalQuestionTreeCount}</span>
-          <h2>No question shares that exact lens.</h2>
+          <h2>
+            {corpus?.searchMode === 'uuid'
+              ? 'No requested UUIDs were found.'
+              : 'No question shares that exact lens.'}
+          </h2>
           <p>
-            Change the raw-content expression or clear one filter to widen the
-            paper again.
+            {corpus?.searchMode === 'uuid'
+              ? 'Check the UUIDs above or clear the search to start again.'
+              : 'Change the raw-content expression or clear one filter to widen the paper again.'}
           </p>
           <div className="empty-results-actions">
-            {contentSearch ? (
+            {contentSearch || corpus?.searchMode === 'uuid' ? (
               <button onClick={clearContentSearch} type="button">
-                Clear raw search
+                {corpus?.searchMode === 'uuid'
+                  ? 'Clear UUID search'
+                  : 'Clear raw search'}
               </button>
             ) : null}
             <button onClick={clearFilters} type="button">
@@ -3848,7 +3970,9 @@ export function ReviewSurface({
         onNavigate={navigateTo}
         questionIds={result.matchingQuestionTreeIds}
       />
-      {corpus ? <CorpusPageNavigation corpus={corpus} /> : null}
+      {corpus?.searchMode === 'content' ? (
+        <CorpusPageNavigation corpus={corpus} />
+      ) : null}
       <footer className="paper-footer" id="paper-bottom">
         <a href="#paper-top">Back to top ↑</a>
         <span>TOML and canonical assets are never mutated by this app.</span>

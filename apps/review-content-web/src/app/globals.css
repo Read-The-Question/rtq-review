@@ -669,6 +669,11 @@ p {
   gap: 0.2rem;
 }
 
+.paper-content-search > form,
+.corpus-search-mode {
+  grid-column: 2;
+}
+
 .paper-content-search > div > strong {
   font-family: Charter, 'Iowan Old Style', Georgia, serif;
   font-size: 1.1rem;
@@ -683,6 +688,101 @@ p {
 .paper-content-search > code,
 .paper-content-search > .raw-content-search-error {
   grid-column: 2;
+}
+
+.paper-content-search > .corpus-search-mode {
+  align-self: end;
+  display: flex;
+  gap: 0;
+}
+
+.corpus-search-mode button {
+  background: var(--paper-bright);
+  border: 1px solid var(--rule-strong);
+  color: var(--muted);
+  cursor: pointer;
+  font-size: 0.875rem;
+  font-weight: 800;
+  min-height: 2.4rem;
+  padding: 0.45rem 0.8rem;
+  text-transform: uppercase;
+}
+
+.corpus-search-mode button + button {
+  border-left: 0;
+}
+
+.corpus-search-mode button[aria-pressed='true'] {
+  background: var(--ink);
+  color: var(--paper-bright);
+}
+
+.uuid-search {
+  align-items: end;
+  display: grid;
+  gap: 0.6rem;
+  grid-template-columns: minmax(16rem, 1fr) auto auto;
+}
+
+.uuid-search label {
+  color: var(--muted);
+  display: grid;
+  font-family: 'SFMono-Regular', Consolas, monospace;
+  font-size: 0.875rem;
+  gap: 0.35rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.uuid-search textarea {
+  background: var(--paper-bright);
+  border: 1px solid var(--rule-strong);
+  border-radius: 0;
+  color: var(--ink);
+  font-family: 'SFMono-Regular', Consolas, monospace;
+  font-size: 0.875rem;
+  line-height: 1.45;
+  min-height: 5.2rem;
+  padding: 0.55rem 0.65rem;
+  resize: vertical;
+  text-transform: none;
+}
+
+.uuid-search button {
+  background: var(--ink);
+  border: 1px solid var(--ink);
+  color: var(--paper-bright);
+  cursor: pointer;
+  font-size: 0.875rem;
+  font-weight: 750;
+  min-height: 2.65rem;
+  padding: 0.55rem 0.75rem;
+  text-transform: uppercase;
+}
+
+.uuid-search button + button {
+  background: transparent;
+  color: var(--ink);
+}
+
+.uuid-search button:disabled {
+  cursor: default;
+  opacity: 0.4;
+}
+
+.uuid-search-missing,
+.uuid-search-summary {
+  grid-column: 2;
+  margin: 0;
+}
+
+.uuid-search-missing {
+  color: var(--signal-dark);
+}
+
+.uuid-search-summary {
+  color: var(--ready);
+  font-weight: 750;
 }
 
 .empty-index--searching {
@@ -4391,7 +4491,11 @@ a.paper-row:hover {
   }
 
   .paper-content-search > code,
-  .paper-content-search > .raw-content-search-error {
+  .paper-content-search > .raw-content-search-error,
+  .paper-content-search > form,
+  .corpus-search-mode,
+  .uuid-search-missing,
+  .uuid-search-summary {
     grid-column: 1;
   }
 

@@ -17,6 +17,7 @@ import {
   readReviewPaper,
   searchPaperCollectionContent,
   searchPaperQuestionTrees,
+  searchPaperQuestionTreesByUuids,
 } from './index.ts';
 
 const registeredCollections = [
@@ -294,6 +295,47 @@ test('corpus question search returns bounded stable pages', async () => {
       ),
       /cursor is invalid/i,
     );
+  } finally {
+    rmSync(root, { force: true, recursive: true });
+  }
+});
+
+test('corpus UUID search preserves requested order and reports missing values', async () => {
+  const firstUuid = 'AAAAAAAA-AAAA-4AAA-8AAA-AAAAAAAAAAAA';
+  const secondUuid = 'BBBBBBBB-BBBB-4BBB-8BBB-BBBBBBBBBBBB';
+  const missingUuid = 'CCCCCCCC-CCCC-4CCC-8CCC-CCCCCCCCCCCC';
+  const root = createContentWorkspace(['toml']);
+  try {
+    writePaper(
+      root,
+      'toml',
+      'one.toml',
+      simplePaper.replace('QUESTION-UUID', firstUuid),
+    );
+    writePaper(
+      root,
+      'toml',
+      'two.toml',
+      simplePaper.replace('QUESTION-UUID', secondUuid),
+    );
+
+    const result = await searchPaperQuestionTreesByUuids(
+      'toml',
+      `${secondUuid}, ${missingUuid}\n${firstUuid}`,
+      { environment: { RTQ_CONTENT_ROOT: root } },
+    );
+
+    assert.deepEqual(
+      result.matches.map((match) => match.relativePath),
+      ['two.toml', 'one.toml'],
+    );
+    assert.deepEqual(result.requestedUuids, [
+      secondUuid,
+      missingUuid,
+      firstUuid,
+    ]);
+    assert.deepEqual(result.missingUuids, [missingUuid]);
+    assert.equal(result.scannedFileCount, 2);
   } finally {
     rmSync(root, { force: true, recursive: true });
   }

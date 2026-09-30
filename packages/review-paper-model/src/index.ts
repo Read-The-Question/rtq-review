@@ -25,6 +25,7 @@ export {
 export { DIMENSIONAL_TAG_AXES, REVIEWABLE_COLLECTION_IDS } from './model.ts';
 export {
   compileContentSearch,
+  compileUuidSearch,
   contentSearchRanges,
   CONTENT_SEARCH_SCOPES,
   DEFAULT_CONTENT_SEARCH_SCOPE,
@@ -37,6 +38,7 @@ export type {
   CompiledContentSearch,
   ContentSearchCompilation,
   ContentSearchRange,
+  UuidSearchCompilation,
 } from './search.ts';
 export { readReviewMacros, REVIEW_MACROS_REPOSITORY_PATH } from './macros.ts';
 export type {
@@ -47,6 +49,7 @@ export type {
   ContentSearchScope,
   CorpusQuestionContentSearchMatch,
   CorpusQuestionContentSearchPage,
+  CorpusQuestionUuidSearchResult,
   DimensionalFilterSelection,
   DimensionalFilterResult,
   DimensionalFacet,
@@ -93,6 +96,7 @@ export {
   readReviewPaper,
   searchPaperCollectionContent,
   searchPaperQuestionTrees,
+  searchPaperQuestionTreesByUuids,
 } from './papers.ts';
 export { resolvePaperCollectionRoot, resolvePaperSourcePath } from './paths.ts';
 export { dimensionalTagAxis, resolveReviewPaperTags } from './tags.ts';

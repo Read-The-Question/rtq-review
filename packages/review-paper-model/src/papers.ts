@@ -15,6 +15,7 @@ import type {
   CollectionContentSearchResult,
   ContentSearchQuery,
   CorpusQuestionContentSearchPage,
+  CorpusQuestionUuidSearchResult,
   PaperCollection,
   PaperCollectionId,
   PaperSource,
@@ -45,6 +46,7 @@ import {
 import { resolveReviewPaperTags } from './tags.ts';
 import {
   compileContentSearch,
+  compileUuidSearch,
   parsedQuestionTreeContentMatchNodeIds,
   parsedQuestionTreeMatchesContentSearch,
 } from './search.ts';
@@ -728,6 +730,136 @@ export async function searchPaperQuestionTrees(
       : {}),
     scannedFileCount,
     startPosition,
+  };
+}
+
+type UuidQuestionLocation = Readonly<{
+  nodeId: string;
+  questionIndex: number;
+  relativePath: string;
+  sectionIndex: number;
+}>;
+
+function parsedQuestionTreeUuidLocations(
+  question: Record<string, unknown>,
+  requestedUuids: ReadonlySet<string>,
+  nodeId: string,
+  depth = 0,
+): readonly Readonly<{ nodeId: string; uuid: string }>[] {
+  const uuid = meaningfulString(question['rtq-uuid'])?.toUpperCase();
+  return [
+    ...(uuid && requestedUuids.has(uuid) ? [{ nodeId, uuid }] : []),
+    ...asRecords(question.subquestions).flatMap((child, index) =>
+      parsedQuestionTreeUuidLocations(
+        child,
+        requestedUuids,
+        `${nodeId}.${depth === 0 ? 'sq' : 'ssq'}${index}`,
+        depth + 1,
+      ),
+    ),
+  ];
+}
+
+export async function searchPaperQuestionTreesByUuids(
+  collectionId: PaperCollectionId,
+  input: string,
+  options: ResolveRtqContentOptions = {},
+): Promise<CorpusQuestionUuidSearchResult> {
+  const compiled = compileUuidSearch(input);
+  if (compiled.state === 'invalid') {
+    throw new PaperContentSearchError(compiled.message);
+  }
+
+  const requestedSet = new Set(compiled.uuids);
+  const locations = new Map<string, UuidQuestionLocation>();
+  const collection = paperCollectionForId(collectionId);
+  const root = resolvePaperCollectionRoot(collection.directory, options);
+  const entries = await readdir(root, { withFileTypes: true });
+  const fileNames = entries
+    .filter(
+      (entry) =>
+        entry.isFile() &&
+        !entry.name.startsWith('.') &&
+        !/^manifest(?:[._-]|$)/i.test(entry.name) &&
+        extname(entry.name).toLowerCase() === '.toml',
+    )
+    .map((entry) => entry.name)
+    .sort((left, right) =>
+      left.localeCompare(right, undefined, {
+        numeric: true,
+        sensitivity: 'base',
+      }),
+    );
+
+  let invalidFileCount = 0;
+  for (const relativePath of fileNames) {
+    try {
+      const sourcePath = resolvePaperSourcePath(
+        collection.directory,
+        relativePath,
+        options,
+      );
+      const parsed = parsePaperToml(
+        await readFile(sourcePath, 'utf8'),
+        collection.id,
+      );
+      parsed.sections.forEach((section, sectionIndex) => {
+        asRecords(section.questions).forEach((question, questionIndex) => {
+          parsedQuestionTreeUuidLocations(
+            question,
+            requestedSet,
+            `s${sectionIndex}.q${questionIndex}`,
+          ).forEach(({ nodeId, uuid }) => {
+            if (!locations.has(uuid)) {
+              locations.set(uuid, {
+                nodeId,
+                questionIndex,
+                relativePath,
+                sectionIndex,
+              });
+            }
+          });
+        });
+      });
+    } catch {
+      invalidFileCount += 1;
+    }
+  }
+
+  const grouped = new Map<
+    string,
+    {
+      matchingNodeIds: string[];
+      questionIndex: number;
+      relativePath: string;
+      sectionIndex: number;
+    }
+  >();
+  for (const uuid of compiled.uuids) {
+    const location = locations.get(uuid);
+    if (!location) continue;
+    const key = `${location.relativePath}\0${location.sectionIndex}\0${location.questionIndex}`;
+    const existing = grouped.get(key);
+    if (existing) {
+      if (!existing.matchingNodeIds.includes(location.nodeId)) {
+        existing.matchingNodeIds.push(location.nodeId);
+      }
+      continue;
+    }
+    grouped.set(key, {
+      matchingNodeIds: [location.nodeId],
+      questionIndex: location.questionIndex,
+      relativePath: location.relativePath,
+      sectionIndex: location.sectionIndex,
+    });
+  }
+
+  return {
+    invalidFileCount,
+    matches: [...grouped.values()],
+    missingUuids: compiled.uuids.filter((uuid) => !locations.has(uuid)),
+    requestedUuids: compiled.uuids,
+    scannedFileCount: fileNames.length,
   };
 }
 

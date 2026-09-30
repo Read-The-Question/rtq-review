@@ -18,6 +18,7 @@ export {
 export { DIMENSIONAL_TAG_AXES } from './model.ts';
 export {
   compileContentSearch,
+  compileUuidSearch,
   contentSearchRanges,
   CONTENT_SEARCH_SCOPES,
   DEFAULT_CONTENT_SEARCH_SCOPE,
@@ -29,6 +30,7 @@ export type {
   CompiledContentSearch,
   ContentSearchCompilation,
   ContentSearchRange,
+  UuidSearchCompilation,
 } from './search.ts';
 export type {
   CollectionContentSearchResult,

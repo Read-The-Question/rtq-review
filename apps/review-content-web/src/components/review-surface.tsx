@@ -62,8 +62,9 @@ import {
   visibleFeedbackSides,
   visibleReviewSides,
   type ReviewContext,
-  type ReviewPreferences,
   type ReviewControlMode,
+  type ReviewPanelMode,
+  type ReviewPreferences,
 } from '@/lib/review-view-model';
 import {
   REVIEW_OUTCOME_OPTIONS,
@@ -1271,7 +1272,7 @@ function QuestionNode({
       }`}
       id={`${idPrefix}question-${node.id}`}
     >
-      {corpusSource ? (
+      {corpusSource && preferences.showMetadata ? (
         <header className="corpus-result-source">
           <span className="corpus-result-number">
             {String(corpusSource.resultPosition).padStart(3, '0')}
@@ -1337,13 +1338,15 @@ function QuestionNode({
             />
           ) : null}
         </div>
-        <div className="question-identifiers">
-          {node.uuid ? <code>UUID {node.uuid}</code> : null}
-          <code>{node.sourceQuestionId}</code>
-          {node.originalSource?.paperStem ? (
-            <span>Source · {node.originalSource.paperStem}</span>
-          ) : null}
-        </div>
+        {preferences.showMetadata ? (
+          <div className="question-identifiers">
+            {node.uuid ? <code>UUID {node.uuid}</code> : null}
+            <code>{node.sourceQuestionId}</code>
+            {node.originalSource?.paperStem ? (
+              <span>Source · {node.originalSource.paperStem}</span>
+            ) : null}
+          </div>
+        ) : null}
       </header>
 
       {preferences.showTags ? <NodeTags node={node} /> : null}
@@ -1893,12 +1896,14 @@ function FilterPanel({
 }
 
 function PaperContentSearch({
+  context,
   error,
   limit,
   onApply,
   onClear,
   search,
 }: {
+  context: 'corpus' | 'paper';
   error?: string;
   limit?: 20 | 50 | 100;
   onApply: (search: ContentSearchQuery, limit?: 20 | 50 | 100) => void;
@@ -1930,15 +1935,24 @@ function PaperContentSearch({
   }
 
   const displayedError = draftError ?? error;
+  const isCorpusSearch = context === 'corpus';
   return (
     <section
       className="paper-content-search"
       aria-labelledby="paper-content-search-title"
     >
       <div>
-        <p className="eyebrow">Authored source</p>
-        <strong id="paper-content-search-title">Search raw content</strong>
-        <span>A nested match keeps its complete top-level question.</span>
+        <p className="eyebrow">Raw source search</p>
+        <strong id="paper-content-search-title">
+          {isCorpusSearch
+            ? 'Search every question'
+            : 'Search within this paper'}
+        </strong>
+        <span>
+          {isCorpusSearch
+            ? 'Search every canonical TOML question; nested matches retain their complete top-level question.'
+            : 'Filter this paper only; nested matches retain their complete top-level question.'}
+        </span>
       </div>
       <form className="raw-content-search" onSubmit={submit}>
         <label>
@@ -1986,7 +2000,7 @@ function PaperContentSearch({
           </label>
         ) : null}
         <button disabled={!pattern.trim()} type="submit">
-          {limit ? 'Search corpus' : 'Apply'}
+          {isCorpusSearch ? 'Search corpus' : 'Apply to paper'}
         </button>
         {search ? (
           <button onClick={onClear} type="button">
@@ -3367,51 +3381,44 @@ export function ReviewSurface({
       id="paper-top"
     >
       <SiteHeader compact outcomeDestination={outcomeLoad.destination} />
-      <header className="paper-hero">
-        <div className="paper-breadcrumb">
-          <Link href="/">Paper index</Link>
-          <span>/</span>
-          {corpus ? (
-            <Link href="/search">Corpus search</Link>
-          ) : (
-            <Link
-              href={collectionRoute(
-                paper.source.collection.id,
-                searchParams.get('q') ?? undefined,
-                contentSearch,
-              )}
-            >
-              {paper.source.collection.label}
-            </Link>
-          )}
-        </div>
-        <div className="paper-title-row">
-          <div>
-            <p className="eyebrow">
-              {corpus
-                ? 'Canonical question corpus'
-                : `${paper.source.provenance.kind} source`}
-            </p>
-            <h1>
-              {corpus && corpus.startPosition > 0
-                ? `Search results ${corpus.startPosition}–${corpus.endPosition}`
-                : corpus
-                  ? 'Search every question'
-                  : paper.title}
-            </h1>
-            <code>
-              {corpus && contentSearch
-                ? `/${contentSearch.pattern}/im · ${contentScopeLabels[contentSearch.scope]}`
-                : paper.source.fileName}
-            </code>
-          </div>
-          <dl className="paper-metadata">
+      {preferences.showMetadata ? (
+        <header className="paper-summary">
+          <nav className="paper-breadcrumb" aria-label="Paper location">
+            <Link href="/">Paper index</Link>
+            <span>/</span>
+            {corpus ? (
+              <Link href="/search">Corpus search</Link>
+            ) : (
+              <Link
+                href={collectionRoute(
+                  paper.source.collection.id,
+                  searchParams.get('q') ?? undefined,
+                  contentSearch,
+                )}
+              >
+                {paper.source.collection.label}
+              </Link>
+            )}
+          </nav>
+          <h1>
+            {corpus && corpus.startPosition > 0
+              ? `Results ${corpus.startPosition}–${corpus.endPosition}`
+              : corpus
+                ? 'Search every question'
+                : paper.title}
+          </h1>
+          <code>
+            {corpus && contentSearch
+              ? `/${contentSearch.pattern}/im · ${contentScopeLabels[contentSearch.scope]}`
+              : paper.source.fileName}
+          </code>
+          <dl className="paper-summary-metadata">
             <div>
               <dt>Questions</dt>
               <dd>{paper.source.questionCount}</dd>
             </div>
             <div>
-              <dt>{corpus ? 'Files scanned' : 'Year'}</dt>
+              <dt>{corpus ? 'Files' : 'Year'}</dt>
               <dd>
                 {corpus
                   ? corpus.scannedFileCount
@@ -3419,7 +3426,7 @@ export function ReviewSurface({
               </dd>
             </div>
             <div>
-              <dt>{corpus ? 'Page size' : 'Paper RAG'}</dt>
+              <dt>{corpus ? 'Page' : 'RAG'}</dt>
               <dd>
                 {corpus ? corpus.limit : (paper.metadata.paperRag ?? '—')}
               </dd>
@@ -3431,18 +3438,18 @@ export function ReviewSurface({
               </dd>
             </div>
           </dl>
-        </div>
-        {corpus ? null : (
-          <div className="paper-provenance">
-            {paper.metadata.paperId ? (
-              <code>ID {paper.metadata.paperId}</code>
-            ) : null}
-            {paper.metadata.schoolIds.map((school) => (
-              <code key={school}>School {school}</code>
-            ))}
-          </div>
-        )}
-      </header>
+          {corpus ? null : (
+            <div className="paper-provenance">
+              {paper.metadata.paperId ? (
+                <code>ID {paper.metadata.paperId}</code>
+              ) : null}
+              {paper.metadata.schoolIds.map((school) => (
+                <code key={school}>School {school}</code>
+              ))}
+            </div>
+          )}
+        </header>
+      ) : null}
 
       {!corpus || currentCursor ? (
         <SourceFreshnessBanner
@@ -3458,14 +3465,17 @@ export function ReviewSurface({
         />
       ) : null}
 
-      <PaperContentSearch
-        error={corpus?.searchError ?? result.contentSearchError}
-        key={`${contentSearch?.pattern ?? ''}:${contentSearch?.scope ?? 'all'}:${corpus?.limit ?? ''}`}
-        limit={corpus?.limit}
-        onApply={applyContentSearch}
-        onClear={clearContentSearch}
-        search={contentSearch}
-      />
+      {corpus ? (
+        <PaperContentSearch
+          context="corpus"
+          error={corpus.searchError}
+          key={`${contentSearch?.pattern ?? ''}:${contentSearch?.scope ?? 'all'}:${corpus.limit}`}
+          limit={corpus.limit}
+          onApply={applyContentSearch}
+          onClear={clearContentSearch}
+          search={contentSearch}
+        />
+      ) : null}
 
       <section
         className={`filter-disclosure${
@@ -3493,27 +3503,39 @@ export function ReviewSurface({
           <span>{filtersExpanded ? 'Collapse' : 'Expand'}</span>
         </button>
         {filtersExpanded ? (
-          <FilterPanel
-            facets={result.facets}
-            onClear={clearFilters}
-            onClearReviewOutcomes={clearReviewOutcomes}
-            onToggle={toggleFilter}
-            onToggleState={toggleStateFilter}
-            onReturnToQuestion={
-              filterReturnQuestionId ? returnToQuestion : undefined
-            }
-            reviewOutcomeError={outcomeLoad.error}
-            reviewOutcomeFacets={result.reviewOutcomeFacets}
-            reviewContext={preferences.reviewSide}
-            returnQuestionLabel={
-              filterReturnQuestionId
-                ? (displayNodeById.get(filterReturnQuestionId)?.label ??
-                  'question')
-                : undefined
-            }
-            selection={activeSelection}
-            stateFacets={result.stateFacets}
-          />
+          <>
+            {corpus ? null : (
+              <PaperContentSearch
+                context="paper"
+                error={result.contentSearchError}
+                key={`${contentSearch?.pattern ?? ''}:${contentSearch?.scope ?? 'all'}`}
+                onApply={applyContentSearch}
+                onClear={clearContentSearch}
+                search={contentSearch}
+              />
+            )}
+            <FilterPanel
+              facets={result.facets}
+              onClear={clearFilters}
+              onClearReviewOutcomes={clearReviewOutcomes}
+              onToggle={toggleFilter}
+              onToggleState={toggleStateFilter}
+              onReturnToQuestion={
+                filterReturnQuestionId ? returnToQuestion : undefined
+              }
+              reviewOutcomeError={outcomeLoad.error}
+              reviewOutcomeFacets={result.reviewOutcomeFacets}
+              reviewContext={preferences.reviewSide}
+              returnQuestionLabel={
+                filterReturnQuestionId
+                  ? (displayNodeById.get(filterReturnQuestionId)?.label ??
+                    'question')
+                  : undefined
+              }
+              selection={activeSelection}
+              stateFacets={result.stateFacets}
+            />
+          </>
         ) : null}
       </section>
 
@@ -3610,10 +3632,31 @@ export function ReviewSurface({
               onChange={(value) => updatePreference('showRaw', value)}
             />
             <details className="review-view-menu review-popover">
-              <summary>View</summary>
+              <summary>View options</summary>
               <div
                 onChange={(event) => dismissReviewPopover(event.currentTarget)}
               >
+                <PreferenceToggle
+                  checked={preferences.showMetadata}
+                  label="Metadata"
+                  onChange={(value) => updatePreference('showMetadata', value)}
+                />
+                <label className="view-option-select">
+                  <span>Review panels</span>
+                  <select
+                    onChange={(event) =>
+                      updatePreference(
+                        'reviewPanelMode',
+                        event.target.value as ReviewPanelMode,
+                      )
+                    }
+                    value={preferences.reviewPanelMode}
+                  >
+                    <option value="content">Content only</option>
+                    <option value="image">Image only</option>
+                    <option value="both">Both</option>
+                  </select>
+                </label>
                 <PreferenceToggle
                   checked={preferences.showSolutions}
                   label="Workings & answers"
@@ -3684,12 +3727,16 @@ export function ReviewSurface({
             Global finding
           </button>
         </div>
-        <div className={`review-lanes review-lanes--${preferences.reviewSide}`}>
+        <div
+          className={`review-lanes review-lanes--${preferences.reviewSide}${
+            enabledReviewSides.length === 1 ? ' review-lanes--single' : ''
+          }`}
+        >
           <ReviewSideSelector
             onChange={(side) => updatePreference('reviewSide', side)}
             side={preferences.reviewSide}
           />
-          {reviewSidesForContext(preferences.reviewSide).map((side, index) => (
+          {enabledReviewSides.map((side, index) => (
             <ReviewLane
               commentDisabledReason={commentDisabledReason(side)}
               controlMode={preferences.reviewControlMode}

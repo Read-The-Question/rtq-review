@@ -233,7 +233,7 @@ test('review filter disclosure restores and persists its expanded state', async 
   );
 });
 
-test('the sticky toolbar exposes both tracks in one selected review context', async () => {
+test('the sticky toolbar exposes selected tracks in one review context', async () => {
   const [component, css] = await Promise.all([
     fs.readFile(componentUrl, 'utf8'),
     fs.readFile(cssUrl, 'utf8'),
@@ -242,10 +242,7 @@ test('the sticky toolbar exposes both tracks in one selected review context', as
   assert.match(component, /function ReviewSideSelector/);
   assert.match(component, /REVIEW_CONTEXT_OPTIONS\.map/);
   assert.match(component, /updatePreference\('reviewSide', side\)/);
-  assert.match(
-    component,
-    /reviewSidesForContext\(preferences\.reviewSide\)\.map/,
-  );
+  assert.match(component, /enabledReviewSides\.map/);
   assert.match(component, /submitToolbarOutcome\(side, outcome\)/);
   assert.match(component, /openKeyboardComment\(side\)/);
   assert.equal(component.match(/<ReviewLane/g)?.length, 1);
@@ -516,6 +513,54 @@ test('the review console follows the exact visible node with explicit side targe
   assert.match(css, /\.keyboard-comment-backdrop\s*{[^}]*position:\s*fixed/s);
 });
 
+test('view options support minimal metadata and centered review panel modes', async () => {
+  const [component, css] = await Promise.all([
+    fs.readFile(componentUrl, 'utf8'),
+    fs.readFile(cssUrl, 'utf8'),
+  ]);
+
+  assert.match(component, /<summary>View options<\/summary>/);
+  assert.match(component, /checked=\{preferences\.showMetadata\}/);
+  assert.match(component, /label="Metadata"/);
+  assert.match(component, /value=\{preferences\.reviewPanelMode\}/);
+  assert.match(component, /<option value="content">Content only<\/option>/);
+  assert.match(component, /<option value="image">Image only<\/option>/);
+  assert.match(component, /<option value="both">Both<\/option>/);
+  assert.match(component, /enabledReviewSides\.map/);
+  assert.match(component, /review-lanes--single/);
+  assert.match(component, /preferences\.showMetadata \? \(/);
+  assert.match(component, /className="paper-summary"/);
+  assert.doesNotMatch(component, /className="paper-title-row"/);
+  assert.match(css, /\.review-lanes--single\s*{/);
+  assert.match(
+    css,
+    /\.review-lanes--single \.review-lane\s*{[^}]*justify-self:\s*center/s,
+  );
+  assert.match(css, /\.paper-summary\s*{[^}]*display:\s*flex/s);
+});
+
+test('raw source search keeps contextual scope with reduced paper and collection prominence', async () => {
+  const [component, browser] = await Promise.all([
+    fs.readFile(componentUrl, 'utf8'),
+    fs.readFile(browserUrl, 'utf8'),
+  ]);
+
+  assert.match(component, /context="corpus"/);
+  assert.match(component, /Search every question/);
+  assert.match(component, /context="paper"/);
+  assert.match(component, /Search within this paper/);
+  assert.match(
+    component,
+    /\{filtersExpanded \? \([\s\S]*context="paper"[\s\S]*<FilterPanel/,
+  );
+  assert.match(browser, /className="collection-content-search"/);
+  assert.match(browser, /Search questions in this collection/);
+  assert.match(
+    browser,
+    /open=\{contentSearch \|\| contentError \? true : undefined\}/,
+  );
+});
+
 test('global findings use one product-wide composer and stay out of paper state', async () => {
   const [component, route] = await Promise.all([
     fs.readFile(componentUrl, 'utf8'),
@@ -651,7 +696,7 @@ test('the landing page uses a compact paper-first introduction', async () => {
     browser,
     /href=\{collectionRoute\(\s*collection\.id,\s*query,\s*contentSearch,?\s*\)\}/,
   );
-  assert.match(browser, /Search raw content/);
+  assert.match(browser, /Search questions in this collection/);
   assert.match(browser, /\/api\/papers\/content-search/);
   assert.match(browser, /aria-current=/);
   assert.match(browser, /label: 'Collections'/);

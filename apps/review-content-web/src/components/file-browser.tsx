@@ -398,60 +398,71 @@ export function FileBrowser({
                 value={query}
               />
             </label>
-            <form
-              className="raw-content-search raw-content-search--collection"
-              onSubmit={applyContentSearch}
+            <details
+              className="collection-content-search"
+              open={contentSearch || contentError ? true : undefined}
             >
-              <label>
-                <span>Search raw content</span>
-                <input
-                  aria-describedby={
-                    contentError ? 'content-search-error' : undefined
-                  }
-                  onChange={(event) => setContentDraft(event.target.value)}
-                  placeholder="Regular expression…"
-                  type="search"
-                  value={contentDraft}
-                />
-              </label>
-              <label>
-                <span>Scope</span>
-                <select
-                  onChange={(event) =>
-                    setContentScopeDraft(
-                      normalizeContentSearchScope(event.target.value),
-                    )
-                  }
-                  value={contentScopeDraft}
+              <summary>
+                <span>Search questions in this collection</span>
+                {contentSearch ? <strong>Active</strong> : null}
+              </summary>
+              <div>
+                <form
+                  className="raw-content-search raw-content-search--collection"
+                  onSubmit={applyContentSearch}
                 >
-                  {CONTENT_SEARCH_SCOPES.map((scope) => (
-                    <option key={scope} value={scope}>
-                      {contentScopeLabels[scope]}
-                    </option>
-                  ))}
-                </select>
-              </label>
-              <button
-                disabled={!contentDraft.trim() || contentSearching}
-                type="submit"
-              >
-                {contentSearching ? 'Searching…' : 'Search'}
-              </button>
-              {contentSearch ? (
-                <button onClick={clearContentSearch} type="button">
-                  Clear
-                </button>
-              ) : null}
-            </form>
-            {contentError ? (
-              <p
-                className="raw-content-search-error"
-                id="content-search-error"
-                role="alert"
-              >
-                {contentError}
-              </p>
-            ) : null}
+                  <label>
+                    <span>Regular expression</span>
+                    <input
+                      aria-describedby={
+                        contentError ? 'content-search-error' : undefined
+                      }
+                      onChange={(event) => setContentDraft(event.target.value)}
+                      placeholder="Regular expression…"
+                      type="search"
+                      value={contentDraft}
+                    />
+                  </label>
+                  <label>
+                    <span>Scope</span>
+                    <select
+                      onChange={(event) =>
+                        setContentScopeDraft(
+                          normalizeContentSearchScope(event.target.value),
+                        )
+                      }
+                      value={contentScopeDraft}
+                    >
+                      {CONTENT_SEARCH_SCOPES.map((scope) => (
+                        <option key={scope} value={scope}>
+                          {contentScopeLabels[scope]}
+                        </option>
+                      ))}
+                    </select>
+                  </label>
+                  <button
+                    disabled={!contentDraft.trim() || contentSearching}
+                    type="submit"
+                  >
+                    {contentSearching ? 'Searching…' : 'Search'}
+                  </button>
+                  {contentSearch ? (
+                    <button onClick={clearContentSearch} type="button">
+                      Clear
+                    </button>
+                  ) : null}
+                </form>
+                {contentError ? (
+                  <p
+                    className="raw-content-search-error"
+                    id="content-search-error"
+                    role="alert"
+                  >
+                    {contentError}
+                  </p>
+                ) : null}
+              </div>
+            </details>
           </div>
         </div>
 

@@ -26,26 +26,26 @@ import {
 } from './review-view-model.ts';
 
 test('display preference storage is versioned for status chrome controls', () => {
-  assert.equal(REVIEW_PREFERENCES_KEY, 'rtq.review-content.preferences.v7');
+  assert.equal(REVIEW_PREFERENCES_KEY, 'rtq.review-content.preferences.v8');
   assert.equal(
     PREVIOUS_REVIEW_PREFERENCES_KEY,
-    'rtq.review-content.preferences.v6',
+    'rtq.review-content.preferences.v7',
   );
   assert.equal(
     LEGACY_REVIEW_PREFERENCES_KEY,
-    'rtq.review-content.preferences.v5',
+    'rtq.review-content.preferences.v6',
   );
   assert.equal(
     EARLIER_REVIEW_PREFERENCES_KEY,
-    'rtq.review-content.preferences.v4',
+    'rtq.review-content.preferences.v5',
   );
   assert.equal(
     INITIAL_REVIEW_PREFERENCES_KEY,
-    'rtq.review-content.preferences.v3',
+    'rtq.review-content.preferences.v4',
   );
   assert.equal(
     OLDEST_REVIEW_PREFERENCES_KEY,
-    'rtq.review-content.preferences.v2',
+    'rtq.review-content.preferences.v3',
   );
 });
 
@@ -80,6 +80,18 @@ test('preferences survive partial and malformed local values', () => {
   assert.equal(
     parseReviewPreferences('{"showImageStatusInfo":false}').showImageStatusInfo,
     false,
+  );
+  assert.equal(
+    parseReviewPreferences('{"showMetadata":false}').showMetadata,
+    false,
+  );
+  assert.equal(
+    parseReviewPreferences('{"reviewPanelMode":"content"}').reviewPanelMode,
+    'content',
+  );
+  assert.equal(
+    parseReviewPreferences('{"reviewPanelMode":"unsupported"}').reviewPanelMode,
+    'both',
   );
   assert.equal(
     parseReviewPreferences(
@@ -175,7 +187,7 @@ test('the former shared review target migrates into the active side', () => {
   );
 });
 
-test('inline review exposes the paired active context or stays hidden', () => {
+test('inline review exposes the selected tracks in the active context', () => {
   assert.deepEqual(visibleReviewSides(DEFAULT_REVIEW_PREFERENCES), [
     'answer',
     'answer-image',
@@ -184,8 +196,16 @@ test('inline review exposes the paired active context or stays hidden', () => {
     visibleReviewSides({
       ...DEFAULT_REVIEW_PREFERENCES,
       reviewSide: 'question',
+      reviewPanelMode: 'content',
     }),
-    ['question', 'question-image'],
+    ['question'],
+  );
+  assert.deepEqual(
+    visibleReviewSides({
+      ...DEFAULT_REVIEW_PREFERENCES,
+      reviewPanelMode: 'image',
+    }),
+    ['answer-image'],
   );
   assert.deepEqual(
     visibleReviewSides({
@@ -196,7 +216,7 @@ test('inline review exposes the paired active context or stays hidden', () => {
   );
 });
 
-test('feedback exposes the paired active context or stays hidden', () => {
+test('feedback exposes the selected tracks in the active context', () => {
   assert.deepEqual(visibleFeedbackSides(DEFAULT_REVIEW_PREFERENCES), [
     'answer',
     'answer-image',
@@ -205,8 +225,9 @@ test('feedback exposes the paired active context or stays hidden', () => {
     visibleFeedbackSides({
       ...DEFAULT_REVIEW_PREFERENCES,
       reviewSide: 'question',
+      reviewPanelMode: 'image',
     }),
-    ['question', 'question-image'],
+    ['question-image'],
   );
   assert.deepEqual(
     visibleFeedbackSides({
@@ -217,7 +238,7 @@ test('feedback exposes the paired active context or stays hidden', () => {
   );
 });
 
-test('sticky review always exposes both tracks in the active context', () => {
+test('sticky review exposes the selected tracks in the active context', () => {
   assert.deepEqual(activeReviewSides(DEFAULT_REVIEW_PREFERENCES), [
     'answer',
     'answer-image',
@@ -226,9 +247,17 @@ test('sticky review always exposes both tracks in the active context', () => {
     activeReviewSides({
       ...DEFAULT_REVIEW_PREFERENCES,
       reviewSide: 'question',
+      reviewPanelMode: 'content',
       showInlineReview: false,
     }),
-    ['question', 'question-image'],
+    ['question'],
+  );
+  assert.deepEqual(
+    activeReviewSides({
+      ...DEFAULT_REVIEW_PREFERENCES,
+      reviewPanelMode: 'image',
+    }),
+    ['answer-image'],
   );
   assert.deepEqual(reviewSidesForContext('answer'), ['answer', 'answer-image']);
   assert.deepEqual(reviewSidesForContext('question'), [

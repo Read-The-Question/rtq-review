@@ -1,30 +1,33 @@
 import type { ReviewFilterSelection } from '@rtq/review-paper-model/client';
 import type { ReviewSide } from '@rtq/review-store/types';
 
-export const REVIEW_PREFERENCES_KEY = 'rtq.review-content.preferences.v7';
+export const REVIEW_PREFERENCES_KEY = 'rtq.review-content.preferences.v8';
 export const REVIEW_FILTER_DISCLOSURE_KEY =
   'rtq.review-content.filter-disclosure.v1';
 export const PREVIOUS_REVIEW_PREFERENCES_KEY =
-  'rtq.review-content.preferences.v6';
+  'rtq.review-content.preferences.v7';
 export const LEGACY_REVIEW_PREFERENCES_KEY =
-  'rtq.review-content.preferences.v5';
+  'rtq.review-content.preferences.v6';
 export const EARLIER_REVIEW_PREFERENCES_KEY =
-  'rtq.review-content.preferences.v4';
+  'rtq.review-content.preferences.v5';
 export const INITIAL_REVIEW_PREFERENCES_KEY =
-  'rtq.review-content.preferences.v3';
+  'rtq.review-content.preferences.v4';
 export const OLDEST_REVIEW_PREFERENCES_KEY =
-  'rtq.review-content.preferences.v2';
+  'rtq.review-content.preferences.v3';
 
 export type ReviewControlMode = 'advanced' | 'simple';
 export type ReviewContext = 'answer' | 'question';
+export type ReviewPanelMode = 'both' | 'content' | 'image';
 export type VisibleReviewSide = ReviewContext;
 
 export type ReviewPreferences = Readonly<{
   reviewControlMode: ReviewControlMode;
+  reviewPanelMode: ReviewPanelMode;
   reviewSide: VisibleReviewSide;
   showFeedback: boolean;
   showImageStatusInfo: boolean;
   showInlineReview: boolean;
+  showMetadata: boolean;
   showPdf: boolean;
   showQuestionStatusInfo: boolean;
   showRaw: boolean;
@@ -35,10 +38,12 @@ export type ReviewPreferences = Readonly<{
 
 export const DEFAULT_REVIEW_PREFERENCES: ReviewPreferences = {
   reviewControlMode: 'simple',
+  reviewPanelMode: 'both',
   reviewSide: 'answer',
   showFeedback: true,
   showImageStatusInfo: true,
   showInlineReview: true,
+  showMetadata: true,
   showPdf: true,
   showQuestionStatusInfo: true,
   showRaw: false,
@@ -180,6 +185,13 @@ export function parseReviewPreferences(
     legacy?.reviewControlMode ??
     earlier?.reviewControlMode ??
     initial?.reviewControlMode;
+  const requestedPanelMode =
+    parsed?.reviewPanelMode ??
+    previous?.reviewPanelMode ??
+    legacy?.reviewPanelMode ??
+    earlier?.reviewPanelMode ??
+    initial?.reviewPanelMode ??
+    oldest?.reviewPanelMode;
   const reviewSide = legacySide();
 
   return {
@@ -187,6 +199,12 @@ export function parseReviewPreferences(
       requestedControlMode === 'advanced' || requestedControlMode === 'simple'
         ? requestedControlMode
         : DEFAULT_REVIEW_PREFERENCES.reviewControlMode,
+    reviewPanelMode:
+      requestedPanelMode === 'content' ||
+      requestedPanelMode === 'image' ||
+      requestedPanelMode === 'both'
+        ? requestedPanelMode
+        : DEFAULT_REVIEW_PREFERENCES.reviewPanelMode,
     reviewSide,
     showFeedback: preference(
       'showFeedback',
@@ -202,6 +220,10 @@ export function parseReviewPreferences(
       legacySidePreference(reviewSide, 'Review') ??
         oldReviewPreference ??
         DEFAULT_REVIEW_PREFERENCES.showInlineReview,
+    ),
+    showMetadata: preference(
+      'showMetadata',
+      DEFAULT_REVIEW_PREFERENCES.showMetadata,
     ),
     showPdf: preference('showPdf', DEFAULT_REVIEW_PREFERENCES.showPdf),
     showQuestionStatusInfo: preference(
@@ -232,22 +254,32 @@ export function reviewSidesForContext(
 export function visibleReviewSides(
   preferences: ReviewPreferences,
 ): readonly ReviewSide[] {
-  return preferences.showInlineReview
-    ? reviewSidesForContext(preferences.reviewSide)
-    : [];
+  return preferences.showInlineReview ? selectedReviewSides(preferences) : [];
 }
 
 export function visibleFeedbackSides(
   preferences: ReviewPreferences,
 ): readonly ReviewSide[] {
-  return preferences.showFeedback
-    ? reviewSidesForContext(preferences.reviewSide)
-    : [];
+  return preferences.showFeedback ? selectedReviewSides(preferences) : [];
 }
 
 export function activeReviewSides(
   preferences: ReviewPreferences,
 ): readonly ReviewSide[] {
+  return selectedReviewSides(preferences);
+}
+
+function selectedReviewSides(
+  preferences: ReviewPreferences,
+): readonly ReviewSide[] {
+  if (preferences.reviewPanelMode === 'content') {
+    return preferences.reviewSide === 'question' ? ['question'] : ['answer'];
+  }
+  if (preferences.reviewPanelMode === 'image') {
+    return preferences.reviewSide === 'question'
+      ? ['question-image']
+      : ['answer-image'];
+  }
   return reviewSidesForContext(preferences.reviewSide);
 }
 

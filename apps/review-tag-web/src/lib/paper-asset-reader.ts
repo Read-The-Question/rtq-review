@@ -228,12 +228,8 @@ function canonicalStemMatchesRoute(
 function validatePaperImageSubpath(segments: string[]) {
   const [scope, provenance, ...remaining] = segments;
 
-  if (scope === 'questions' && provenance && remaining.length === 0) {
-    return;
-  }
-
   if (
-    (scope === 'workings' || scope === 'answers') &&
+    (scope === 'questions' || scope === 'workings' || scope === 'answers') &&
     provenance === 'manual' &&
     remaining.length === 1
   ) {

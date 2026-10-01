@@ -47,6 +47,11 @@ JSON metadata and generated LongDivision sources remain non-public, with
 LongDivision prepared inline by the canonical asset-repository command. No
 paper assets are mirrored into this repository's `public/` tree.
 
+Manual images use `questions/manual/`, `workings/manual/`, or
+`answers/manual/`; sidecar and technical-manifest lookups use the same paths.
+Old flat question URLs are not served. `PaperImage` authoring and generated
+long-division paths are unchanged. Doctor is not a reviewer build/startup gate.
+
 The generated `corpusAllTopicsToml` collection and discovered
 `exemplarsLevel<Tier>Toml` collections can be browsed in Tag Review, but are
 read-only. Tag mutations remain available only for the canonical and existing

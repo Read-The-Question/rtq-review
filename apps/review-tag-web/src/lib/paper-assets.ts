@@ -395,7 +395,7 @@ function paperImageAssetRelativePath(
 ) {
   const ownerSegments =
     assetScope === 'question'
-      ? ['questions']
+      ? ['questions', 'manual']
       : [assetScope === 'working' ? 'workings' : 'answers', 'manual'];
   const scopeToken =
     assetScope === 'question'
@@ -489,7 +489,7 @@ function paperImageMetadata(
 ): PaperImageMetadata {
   const ownerSegments =
     assetScope === 'question'
-      ? ['questions']
+      ? ['questions', 'manual']
       : [assetScope === 'working' ? 'workings' : 'answers', 'manual'];
   const scopeToken =
     assetScope === 'question'

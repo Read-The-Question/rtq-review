@@ -40,5 +40,11 @@ Gatsby is intentionally the sole copy-based paper-asset review consumer. Run
 static mirror. The three maintained Next.js review applications instead serve
 canonical assets directly and are not targets of this command.
 
+The mirrored hierarchy preserves `questions/manual/`, `workings/manual/`,
+`answers/manual/`, and generated-family directories. Question sidecars stay
+private and are not copied. After the question-path migration, run the clean
+sync command and regenerate the selected review Markdown together so no page
+keeps an old flat question URL. No new doctor build gate is added here.
+
 From `rtq-content/packages/papers`, the application is derived from the whole
 `RTQ_REVIEW_ROOT`; its default is the sibling `../rtq-review` workspace.

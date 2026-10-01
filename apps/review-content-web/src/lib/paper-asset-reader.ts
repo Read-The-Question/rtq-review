@@ -60,9 +60,8 @@ function requestedSegments(relativePath: string): string[] {
 function allowedSubpath(segments: readonly string[]): boolean {
   const [scope, provenance, kind, file, ...rest] = segments;
   if (rest.length > 0) return false;
-  if (scope === 'questions' && provenance && !kind) return true;
   if (
-    (scope === 'workings' || scope === 'answers') &&
+    (scope === 'questions' || scope === 'workings' || scope === 'answers') &&
     provenance === 'manual' &&
     kind &&
     !file

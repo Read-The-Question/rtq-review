@@ -69,6 +69,13 @@ uses a stable route shaped as `/papers/<collection>/<source-relative-path>`.
 
 ## Live source behavior
 
+Manual `PaperImage` assets resolve through `questions/manual/`,
+`workings/manual/`, or `answers/manual/` beneath the canonical paper folder.
+The same paths select adjacent sidecars and technical-manifest entries. The
+asset route rejects old flat question URLs and does not expose sidecars.
+Existing generated long-division routes are unchanged. No doctor check is
+added to reviewer builds, startup, or requests.
+
 The index enumerates every supported collection on each request, so additions,
 removals, and renames appear after a page refresh. It keeps only paper summaries
 in a process-local cache and uses each file's filesystem fingerprint to reparse

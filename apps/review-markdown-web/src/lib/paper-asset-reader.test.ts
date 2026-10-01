@@ -35,7 +35,9 @@ async function createFixture() {
   const paperRoot = path.join(assetsRoot, 'papers', PAPER_STEM);
   const missingRoot = path.join(assetsRoot, 'papers', 'missing');
 
-  await fs.mkdir(path.join(paperRoot, 'questions'), { recursive: true });
+  await fs.mkdir(path.join(paperRoot, 'questions', 'manual'), {
+    recursive: true,
+  });
   await fs.mkdir(path.join(paperRoot, 'workings', 'manual'), {
     recursive: true,
   });
@@ -74,12 +76,12 @@ test('serves canonical PaperImage formats without a local public mirror', async 
   for (const [extension, contentType] of formats) {
     const fileName = `s01-q01-i00.${extension}`;
     await fs.writeFile(
-      path.join(fixture.paperRoot, 'questions', fileName),
+      path.join(fixture.paperRoot, 'questions', 'manual', fileName),
       `fixture-${extension}`,
     );
 
     const response = await createPaperAssetResponse(
-      `papers/alpha-school/2020/paper-1/questions/${fileName}`,
+      `papers/alpha-school/2020/paper-1/questions/manual/${fileName}`,
       { assetsRoot: fixture.assetsRoot },
     );
 
@@ -120,7 +122,7 @@ test('uses the canonical missing image for an absent file in a known paper', asy
   t.after(fixture.cleanup);
 
   const response = await createPaperAssetResponse(
-    'papers/alpha-school/2020/paper-1/questions/s01-q99-i00.png',
+    'papers/alpha-school/2020/paper-1/questions/manual/s01-q99-i00.png',
     { assetsRoot: fixture.assetsRoot },
   );
 
@@ -143,7 +145,7 @@ test('rejects ambiguous shortened paper routes', async t => {
   );
 
   const response = await createPaperAssetResponse(
-    'papers/alpha-school/2020/paper-1/questions/s01-q01-i00.png',
+    'papers/alpha-school/2020/paper-1/questions/manual/s01-q01-i00.png',
     { assetsRoot: fixture.assetsRoot },
   );
 
@@ -156,11 +158,11 @@ test('rejects multiple physical formats for one canonical PaperImage key', async
   t.after(fixture.cleanup);
 
   await fs.writeFile(
-    path.join(fixture.paperRoot, 'questions', 's01-q01-i00.png'),
+    path.join(fixture.paperRoot, 'questions', 'manual', 's01-q01-i00.png'),
     'png',
   );
   await fs.writeFile(
-    path.join(fixture.paperRoot, 'questions', 's01-q01-i00.svg'),
+    path.join(fixture.paperRoot, 'questions', 'manual', 's01-q01-i00.svg'),
     '<svg />',
   );
 
@@ -168,7 +170,7 @@ test('rejects multiple physical formats for one canonical PaperImage key', async
     () =>
       resolveCanonicalPaperImageExtension(
         PAPER_STEM,
-        'questions/s01-q01-i00',
+        'questions/manual/s01-q01-i00',
         fixture.assetsRoot,
       ),
     /Ambiguous PaperImage asset/,
@@ -180,7 +182,7 @@ test('rejects metadata, generated sources, traversal, and escaping symlinks', as
   t.after(fixture.cleanup);
 
   const metadataResponse = await createPaperAssetResponse(
-    'papers/alpha-school/2020/paper-1/questions/s01-q01-i00.json',
+    'papers/alpha-school/2020/paper-1/questions/manual/s01-q01-i00.json',
     { assetsRoot: fixture.assetsRoot },
   );
   assert.equal(metadataResponse.status, 415);
@@ -191,8 +193,20 @@ test('rejects metadata, generated sources, traversal, and escaping symlinks', as
   );
   assert.equal(generatedResponse.status, 404);
 
+  for (const subpath of [
+    'questions/s01-q01-i00.png',
+    'questions/generated/example-family/image.svg',
+    'questions/manual/nested/image.png',
+  ]) {
+    const response = await createPaperAssetResponse(
+      `papers/alpha-school/2020/paper-1/${subpath}`,
+      { assetsRoot: fixture.assetsRoot },
+    );
+    assert.equal(response.status, 404);
+  }
+
   const traversalResponse = await createPaperAssetResponse(
-    'papers/alpha-school/2020/paper-1/questions/%2e%2e',
+    'papers/alpha-school/2020/paper-1/questions/manual/%2e%2e',
     { assetsRoot: fixture.assetsRoot },
   );
   assert.equal(traversalResponse.status, 400);
@@ -201,13 +215,14 @@ test('rejects metadata, generated sources, traversal, and escaping symlinks', as
   const linkedPath = path.join(
     fixture.paperRoot,
     'questions',
+    'manual',
     's01-q01-i99.png',
   );
   await fs.writeFile(outsidePath, 'outside');
   await fs.symlink(outsidePath, linkedPath);
 
   const symlinkResponse = await createPaperAssetResponse(
-    'papers/alpha-school/2020/paper-1/questions/s01-q01-i99.png',
+    'papers/alpha-school/2020/paper-1/questions/manual/s01-q01-i99.png',
     { assetsRoot: fixture.assetsRoot },
   );
   assert.equal(symlinkResponse.status, 403);
@@ -223,7 +238,7 @@ test('rejects an invalid canonical repository identity', async t => {
   );
 
   const response = await createPaperAssetResponse(
-    'papers/alpha-school/2020/paper-1/questions/s01-q01-i00.png',
+    'papers/alpha-school/2020/paper-1/questions/manual/s01-q01-i00.png',
     { assetsRoot: fixture.assetsRoot },
   );
 

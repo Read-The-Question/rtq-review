@@ -185,7 +185,7 @@ function ownerPath(
 ): Readonly<{ metadata: string; sourceStem: string }> {
   const owner =
     scope === 'question'
-      ? 'questions'
+      ? 'questions/manual'
       : `${scope === 'working' ? 'workings' : 'answers'}/manual`;
   const scopeIndex =
     scope === 'working' ? context.workingIndex : context.answerIndex;

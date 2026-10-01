@@ -156,6 +156,30 @@ test("renders the six geometric Lucide symbols as outlines", async () => {
   assert.match(html, /<path[^>]*d="M12 2v2"/);
 });
 
+test("renders fixed-footprint four-pane variants with shared edges once", async () => {
+  const html = await render(
+    [
+      '<PaperSymbol name="four-pane-pictogram" variant="quarter" size="lg" />',
+      '<PaperSymbol name="four-pane-pictogram" variant="half" size="lg" />',
+      '<PaperSymbol name="four-pane-pictogram" variant="three-quarters" size="lg" />',
+      '<PaperSymbol name="four-pane-pictogram" variant="full" size="lg" />',
+    ].join(" "),
+  );
+
+  assert.match(html, /One quarter of a four-pane pictogram symbol/);
+  assert.match(html, /Three quarters of a four-pane pictogram symbol/);
+  assert.equal(html.match(/height:28px;width:28px/g)?.length, 4);
+  for (const path of [
+    "M3 3H12V12H3Z",
+    "M3 3H12V21H3Z M3 12H12",
+    "M3 3H21V12H12V21H3Z M12 3V12 M3 12H12",
+    "M3 3H21V21H3Z M12 3V21 M3 12H21",
+  ]) {
+    assert.ok(html.includes(`d="${path}"`), path);
+  }
+  assert.equal(html.match(/shape-rendering="geometricPrecision"/g)?.length, 4);
+});
+
 test("reserves an accessibility-hidden symbol space", async () => {
   const html = await render('<PaperSymbolSpace size="xl" />');
 
@@ -170,6 +194,10 @@ test("rejects invalid symbols, props, expressions, and group children", async ()
   const cases = [
     ['<PaperSymbol name="screen" />', 'prop "name"'],
     ['<PaperSymbol name="computer" variant="quarter" />', 'prop "variant"'],
+    [
+      '<PaperSymbol name="four-pane-pictogram" variant="four-fifths" />',
+      'prop "variant"',
+    ],
     ['<PaperSymbol name="computer" size="xxl" />', 'prop "size"'],
     ['<PaperSymbolSpace size="xxl" />', 'PaperSymbolSpace prop "size"'],
     [

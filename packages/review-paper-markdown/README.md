@@ -21,6 +21,11 @@ content-owned symbol contract. `PaperSymbolSpace` renders an aria-hidden,
 symbol-sized layout box for intentionally empty pictogram cells; it draws no
 symbol and contributes no accessible content.
 
+`four-pane-pictogram` is a custom inline SVG renderer rather than a Lucide
+icon. Its `quarter`, `half`, `three-quarters`, and `full` variants use a fixed
+two-by-two footprint and draw shared pane borders exactly once. Other symbols
+continue to support the clipped `full`, `half`, and `four-fifths` variants.
+
 ## PaperList
 
 `PaperList` wraps exactly one Markdown ordered or unordered list and accepts an

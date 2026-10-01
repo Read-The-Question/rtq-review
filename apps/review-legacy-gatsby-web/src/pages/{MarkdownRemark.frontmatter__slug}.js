@@ -2,6 +2,9 @@ import React from "react"
 import { graphql, withPrefix } from "gatsby"
 import { Helmet } from "react-helmet"
 import "../styles/styles.css"
+const {
+  renderFourPanePaperSymbols,
+} = require("../lib/paper-symbol-compatibility")
 
 const renderInternalAuthorNotes = html =>
   html
@@ -16,7 +19,7 @@ export default function Template({
 }) {
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark
-  const reviewHtml = renderInternalAuthorNotes(html)
+  const reviewHtml = renderFourPanePaperSymbols(renderInternalAuthorNotes(html))
   return (
     <div className="blog-post-container">
       <Helmet>

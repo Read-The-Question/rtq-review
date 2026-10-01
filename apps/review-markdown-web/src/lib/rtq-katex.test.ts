@@ -8,7 +8,7 @@ test('registers all prefixed RTQ macros including one-to-one symbol wrappers', (
   assert.equal(
     Object.keys(rtqKatexMacros).filter(name => name.startsWith('\\rtqMaths'))
       .length,
-    125,
+    121,
   );
   assert.equal(
     rtqKatexMacros['\\rtqMathsUnderlineEmptyValueLong'],
@@ -159,16 +159,6 @@ test('renders standard and no-space mathematical unit suffixes through Markdown'
   assert.match(standard, />kilometres</);
   assert.doesNotMatch(pence, /class="mspace"/);
   assert.match(pence, />p</);
-});
-
-test('renders the approved bespoke symbols through Markdown', async () => {
-  const html = await renderMarkdownToHtml(
-    String.raw`$\rtqMathsBespokeSymbolFourPanePictogramFull + \rtqMathsBespokeSymbolFourPanePictogramQuarter + \rtqMathsBespokeSymbolFourPanePictogramHalf + \rtqMathsBespokeSymbolFourPanePictogramThreeQuarters$`,
-    rtqKatexMacros,
-  );
-
-  assert.doesNotMatch(html, /katex-error/);
-  assert.match(html, /□/);
 });
 
 test('renders question-mark placeholders with ordinary and operator spacing', async () => {

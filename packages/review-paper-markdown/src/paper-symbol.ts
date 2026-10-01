@@ -15,8 +15,26 @@ export const PAPER_SYMBOL_NAMES = [
   "smiling-face",
   "black-triangle",
   "black-heart",
+  "four-pane-pictogram",
 ] as const;
-export const PAPER_SYMBOL_VARIANTS = ["full", "half", "four-fifths"] as const;
+export const PAPER_SYMBOL_VARIANTS = [
+  "full",
+  "quarter",
+  "half",
+  "three-quarters",
+  "four-fifths",
+] as const;
+export const PAPER_SYMBOL_FOUR_PANE_VARIANTS = [
+  "full",
+  "quarter",
+  "half",
+  "three-quarters",
+] as const;
+export const PAPER_SYMBOL_CLIPPED_VARIANTS = [
+  "full",
+  "half",
+  "four-fifths",
+] as const;
 export const PAPER_SYMBOL_SIZES = ["sm", "md", "lg", "xl"] as const;
 export const PAPER_SYMBOL_GROUP_GAPS = ["sm", "md", "lg"] as const;
 
@@ -39,17 +57,31 @@ const SIZE_PX = {
   xl: 48,
 } as const satisfies Record<PaperSymbolSize, number>;
 
-const VARIANT_RATIO = {
+const CLIPPED_VARIANT_RATIO = {
   full: 1,
   half: 0.5,
   "four-fifths": 0.8,
-} as const satisfies Record<PaperSymbolVariant, number>;
+} as const;
 
 const VARIANT_LABEL = {
   full: "One full",
+  quarter: "One quarter of a",
   half: "One half of a",
+  "three-quarters": "Three quarters of a",
   "four-fifths": "Four fifths of a",
 } as const satisfies Record<PaperSymbolVariant, string>;
+
+type FourPaneVariant = Extract<
+  PaperSymbolVariant,
+  "full" | "half" | "quarter" | "three-quarters"
+>;
+
+const FOUR_PANE_PATH = {
+  quarter: "M3 3H12V12H3Z",
+  half: "M3 3H12V21H3Z M3 12H12",
+  "three-quarters": "M3 3H21V12H12V21H3Z M12 3V12 M3 12H12",
+  full: "M3 3H21V21H3Z M12 3V21 M3 12H21",
+} as const satisfies Record<FourPaneVariant, string>;
 
 const GROUP_GAP_PX = {
   sm: 4,
@@ -94,6 +126,26 @@ function isOneOf<Value extends string>(
   return (
     typeof value === "string" && (values as readonly string[]).includes(value)
   );
+}
+
+function isPaperSymbolVariantForName(
+  name: PaperSymbolName,
+  variant: unknown,
+): variant is PaperSymbolVariant {
+  return isOneOf(
+    name === "four-pane-pictogram"
+      ? PAPER_SYMBOL_FOUR_PANE_VARIANTS
+      : PAPER_SYMBOL_CLIPPED_VARIANTS,
+    variant,
+  );
+}
+
+function paperSymbolVariantsForName(
+  name: PaperSymbolName,
+): readonly PaperSymbolVariant[] {
+  return name === "four-pane-pictogram"
+    ? PAPER_SYMBOL_FOUR_PANE_VARIANTS
+    : PAPER_SYMBOL_CLIPPED_VARIANTS;
 }
 
 function openingFence(value: string): MarkdownFence | undefined {
@@ -492,8 +544,47 @@ function geometricSvg(
   );
 }
 
-function symbolSvg(name: PaperSymbolName, size: PaperSymbolSize): NativeNode {
+function fourPaneSvg(
+  size: PaperSymbolSize,
+  variant: FourPaneVariant,
+): NativeNode {
+  const sizePx = SIZE_PX[size];
+
+  return nativeNode(
+    "svg",
+    {
+      "aria-hidden": "true",
+      fill: "none",
+      focusable: "false",
+      height: sizePx,
+      preserveAspectRatio: "xMinYMid meet",
+      style: "display:block;max-width:none;flex:none",
+      viewBox: "0 0 24 24",
+      width: sizePx,
+      xmlns: "http://www.w3.org/2000/svg",
+    },
+    [
+      nativeNode("path", {
+        d: FOUR_PANE_PATH[variant],
+        fill: "none",
+        shapeRendering: "geometricPrecision",
+        stroke: "currentColor",
+        strokeLinecap: "square",
+        strokeLinejoin: "miter",
+        strokeWidth: 1.5,
+      }),
+    ],
+  );
+}
+
+function symbolSvg(
+  name: PaperSymbolName,
+  size: PaperSymbolSize,
+  variant: PaperSymbolVariant,
+): NativeNode {
   switch (name) {
+    case "four-pane-pictogram":
+      return fourPaneSvg(size, variant as FourPaneVariant);
     case "lorry":
       return lorrySvg(size);
     case "woodlouse":
@@ -552,7 +643,15 @@ function symbolSvg(name: PaperSymbolName, size: PaperSymbolSize): NativeNode {
   }
 }
 
-function symbolSvgHtml(name: PaperSymbolName): readonly string[] {
+function symbolSvgHtml(
+  name: PaperSymbolName,
+  variant: PaperSymbolVariant,
+): readonly string[] {
+  if (name === "four-pane-pictogram") {
+    return [
+      `<path d="${FOUR_PANE_PATH[variant as FourPaneVariant]}" fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="square" stroke-linejoin="miter" stroke-width="1.5"></path>`,
+    ];
+  }
   if (name === "square") {
     return [
       '<rect fill="none" height="18" rx="2" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" width="18" x="3" y="3"></rect>',
@@ -700,10 +799,11 @@ function validateSymbolValues(attributes: Record<string, string>): {
   }
   if (
     attributes.variant !== undefined &&
-    !isOneOf(PAPER_SYMBOL_VARIANTS, attributes.variant)
+    (!isOneOf(PAPER_SYMBOL_VARIANTS, attributes.variant) ||
+      !isPaperSymbolVariantForName(attributes.name, attributes.variant))
   ) {
     throw new Error(
-      `PaperSymbol prop "variant" received ${JSON.stringify(attributes.variant)}; allowed values: ${PAPER_SYMBOL_VARIANTS.join(", ")}.`,
+      `PaperSymbol prop "variant" received ${JSON.stringify(attributes.variant)} for ${JSON.stringify(attributes.name)}; allowed values: ${paperSymbolVariantsForName(attributes.name).join(", ")}.`,
     );
   }
   if (
@@ -727,21 +827,31 @@ function paperSymbolHtml(attributesSource: string): string {
     attributesFromSource(attributesSource, "PaperSymbol", SYMBOL_PROPS),
   );
   const sizePx = SIZE_PX[size];
-  const visibleWidth = Math.round(sizePx * VARIANT_RATIO[variant] * 100) / 100;
-  const label = `${VARIANT_LABEL[variant]} ${name} pictogram symbol`;
+  const isFourPanePictogram = name === "four-pane-pictogram";
+  const visibleWidth = isFourPanePictogram
+    ? sizePx
+    : Math.round(
+        sizePx *
+          CLIPPED_VARIANT_RATIO[variant as keyof typeof CLIPPED_VARIANT_RATIO] *
+          100,
+      ) / 100;
+  const label = `${VARIANT_LABEL[variant]} ${
+    isFourPanePictogram ? "four-pane" : name
+  } pictogram symbol`;
   const fill =
-    name === "computer" ||
-    name === "woodlouse" ||
-    name === "club-suit" ||
-    name === "black-triangle" ||
-    name === "black-heart"
+    !isFourPanePictogram &&
+    (name === "computer" ||
+      name === "woodlouse" ||
+      name === "club-suit" ||
+      name === "black-triangle" ||
+      name === "black-heart")
       ? "currentColor"
       : "none";
 
   return [
     `<span aria-label="${label}" data-paper-symbol="" data-paper-symbol-name="${name}" data-paper-symbol-size="${size}" data-paper-symbol-variant="${variant}" role="img" style="display:inline-flex;flex:none;overflow:hidden;vertical-align:middle;line-height:1;height:${sizePx}px;width:${visibleWidth}px">`,
     `<svg aria-hidden="true" fill="${fill}" focusable="false" height="${sizePx}" preserveAspectRatio="xMinYMid meet" style="display:block;max-width:none;flex:none" viewBox="0 0 24 24" width="${sizePx}" xmlns="http://www.w3.org/2000/svg">`,
-    ...symbolSvgHtml(name),
+    ...symbolSvgHtml(name, variant),
     "</svg></span>",
   ].join("");
 }
@@ -873,12 +983,23 @@ function paperSymbolNode(node: MdxElement): NativeNode {
   }
 
   const sizePx = SIZE_PX[size];
-  const visibleWidth = Math.round(sizePx * VARIANT_RATIO[variant] * 100) / 100;
+  const visibleWidth =
+    name === "four-pane-pictogram"
+      ? sizePx
+      : Math.round(
+          sizePx *
+            CLIPPED_VARIANT_RATIO[
+              variant as keyof typeof CLIPPED_VARIANT_RATIO
+            ] *
+            100,
+        ) / 100;
 
   return nativeNode(
     "span",
     {
-      "aria-label": `${VARIANT_LABEL[variant]} ${name} pictogram symbol`,
+      "aria-label": `${VARIANT_LABEL[variant]} ${
+        name === "four-pane-pictogram" ? "four-pane" : name
+      } pictogram symbol`,
       dataPaperSymbol: "",
       dataPaperSymbolName: name,
       dataPaperSymbolSize: size,
@@ -886,7 +1007,7 @@ function paperSymbolNode(node: MdxElement): NativeNode {
       role: "img",
       style: `display:inline-flex;flex:none;overflow:hidden;vertical-align:middle;line-height:1;height:${sizePx}px;width:${visibleWidth}px`,
     },
-    [symbolSvg(name, size)],
+    [symbolSvg(name, size, variant)],
   );
 }
 

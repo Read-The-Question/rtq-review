@@ -76,6 +76,23 @@ asset route rejects old flat question URLs and does not expose sidecars.
 Existing generated long-division routes are unchanged. No doctor check is
 added to reviewer builds, startup, or requests.
 
+For manual `PaperImage` metadata, `alt: null` remains `pending`, `alt: ""`
+remains `reviewed-decorative`, and informative text remains
+`reviewed-informative` in the rendered image's `data-alt-review` attribute.
+These states do not add review controls or require completing placeholder
+sidecars. Descriptions use image-specific `aria-describedby` associations to
+hidden text rather than hover titles. Ordinary Markdown image titles and
+generated long-division rendering retain their existing behaviour.
+
+The reviewer deliberately tolerates missing images, missing or malformed
+sidecars, and missing or invalid technical-manifest entries using its existing
+fallbacks. A rendered preview is not evidence that assets pass production
+validation. Run `assets:doctor` in `rtq-content/packages/assets` for warnings,
+or `assets:doctor:strict` for the strict asset/metadata gate. Authoring
+validation remains a separate source/production-tooling responsibility; doctor
+does not necessarily cover every authoring rule. The reviewer does not
+duplicate those checks or provide an asset-diagnostics UI.
+
 The index enumerates every supported collection on each request, so additions,
 removals, and renames appear after a page refresh. It keeps only paper summaries
 in a process-local cache and uses each file's filesystem fingerprint to reparse

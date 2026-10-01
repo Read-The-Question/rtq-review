@@ -10,6 +10,7 @@ import {
   remarkPaperSymbol,
   remarkPaperTable,
 } from '@rtq/review-paper-markdown';
+import { useId } from 'react';
 import ReactMarkdown from 'react-markdown';
 import rehypeKatex from 'rehype-katex';
 import remarkGfm from 'remark-gfm';
@@ -29,6 +30,7 @@ function PaperImage({
   src,
   title,
 }: Readonly<{ alt?: string; src?: string; title?: string }>) {
+  const descriptionId = useId();
   if (src === TODO_IMAGE_SRC) {
     return (
       <span className="rtq-placeholder" data-rtq-placeholder="todo-image">
@@ -42,6 +44,8 @@ function PaperImage({
     src && queryIndex !== -1 ? src.slice(queryIndex + 1) : '',
   );
   const size = params.get('size');
+  const isPaperImage = params.get('kind') === 'paper-image';
+  const description = isPaperImage ? title : undefined;
 
   return (
     <span
@@ -57,12 +61,19 @@ function PaperImage({
         // eslint-disable-next-line @next/next/no-img-element
         <img
           alt={alt ?? ''}
+          aria-describedby={description ? descriptionId : undefined}
+          data-alt-review={isPaperImage ? params.get('altReview') : undefined}
           height={positiveInteger(params.get('h'))}
           src={src}
-          title={title}
+          title={isPaperImage ? undefined : title}
           width={positiveInteger(params.get('w'))}
         />
       }
+      {description ? (
+        <span hidden id={descriptionId}>
+          {description}
+        </span>
+      ) : null}
     </span>
   );
 }

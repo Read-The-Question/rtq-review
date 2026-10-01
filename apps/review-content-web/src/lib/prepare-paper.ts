@@ -205,13 +205,26 @@ function ownerPath(
 function imageMetadata(
   paperRoot: string,
   metadataPath: string,
-): Readonly<{ alt: string; description: string }> {
+): Readonly<{
+  alt: string | null;
+  altReview?: 'pending' | 'reviewed-decorative' | 'reviewed-informative';
+  description: string;
+}> {
   try {
     const parsed = JSON.parse(
       readFileSync(path.join(paperRoot, ...metadataPath.split('/')), 'utf8'),
     ) as Record<string, unknown>;
     return {
-      alt: typeof parsed.alt === 'string' ? parsed.alt : '',
+      alt:
+        parsed.alt === null || typeof parsed.alt === 'string' ? parsed.alt : '',
+      altReview:
+        parsed.alt === null
+          ? 'pending'
+          : parsed.alt === ''
+            ? 'reviewed-decorative'
+            : typeof parsed.alt === 'string' && parsed.alt.trim()
+              ? 'reviewed-informative'
+              : undefined,
       description:
         typeof parsed.description === 'string' ? parsed.description : '',
     };
@@ -257,14 +270,20 @@ function paperImageMarkdown(
   const sourcePath = `${location.sourceStem}.${matches[0]}`;
   const metadata = imageMetadata(paperRoot, location.metadata);
   const relativePath = `papers/${context.paperStem}/${sourcePath}`;
+  // Markdown's title slot transports the description; the renderer associates it
+  // with the image rather than emitting an HTML title.
   const title = metadata.description
-    ? ` "${markdownTitle(metadata.description)}"`
+    ? ` "${metadata.description
+        .replace(/[\\"]/g, '\\$&')
+        .replace(/[\r\n]+/g, ' ')
+        .trim()}"`
     : '';
-  const url = assetUrl(
-    relativePath,
-    imageParams(layout, dimensions(paperRoot, sourcePath)),
-  );
-  return `![${markdownText(metadata.alt)}](${url}${title})`;
+  const url = assetUrl(relativePath, {
+    ...imageParams(layout, dimensions(paperRoot, sourcePath)),
+    kind: 'paper-image',
+    ...(metadata.altReview ? { altReview: metadata.altReview } : {}),
+  });
+  return `![${markdownText(metadata.alt ?? '')}](${url}${title})`;
 }
 
 function longDivisionPath(

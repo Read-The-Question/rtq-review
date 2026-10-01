@@ -1,0 +1,358 @@
+import assert from 'node:assert/strict';
+import {
+  mkdirSync,
+  mkdtempSync,
+  readFileSync,
+  readdirSync,
+  rmSync,
+  writeFileSync,
+} from 'node:fs';
+import { tmpdir } from 'node:os';
+import path from 'node:path';
+import test, { type TestContext } from 'node:test';
+
+import type {
+  ReviewAssetContext,
+  ReviewContentField,
+  ReviewPaperNode,
+} from '@rtq/review-paper-model';
+import { createElement, Fragment } from 'react';
+import { renderToStaticMarkup } from 'react-dom/server';
+
+import '../../scripts/paper-image-test-loader.mjs';
+
+const { prepareReviewPaperNodeForDisplay } = await import('./prepare-paper.ts');
+const { RtqMarkdown } = await import('../components/rtq-markdown.tsx');
+
+function fixture(t: TestContext) {
+  const root = mkdtempSync(path.join(tmpdir(), 'rtq-paper-image-rendering-'));
+  const previousRoot = process.env.RTQ_CONTENT_ROOT;
+  process.env.RTQ_CONTENT_ROOT = root;
+  t.after(() => {
+    if (previousRoot === undefined) delete process.env.RTQ_CONTENT_ROOT;
+    else process.env.RTQ_CONTENT_ROOT = previousRoot;
+    rmSync(root, { recursive: true, force: true });
+  });
+
+  function write(relativePath: string, content: string) {
+    const destination = path.join(root, relativePath);
+    mkdirSync(path.dirname(destination), { recursive: true });
+    writeFileSync(destination, content);
+  }
+
+  write('package.json', '{"name":"@rtq/content-workspace"}');
+  write('pnpm-workspace.yaml', 'packages: []\n');
+  write('packages/papers/package.json', '{"name":"@rtq/papers"}');
+  write('packages/assets/package.json', '{"name":"@rtq/maths-assets"}');
+  mkdirSync(path.join(root, 'packages/papers/papers/toml'), {
+    recursive: true,
+  });
+  const paperRoot = 'packages/assets/assets/papers/example';
+  mkdirSync(path.join(root, paperRoot), { recursive: true });
+
+  const sourcePath = 'questions/manual/s01-q01-i00.png';
+  function asset(relativePath: string, content: string) {
+    write(`${paperRoot}/${relativePath}`, content);
+  }
+  function image(metadata: unknown, imagePath = sourcePath) {
+    asset(imagePath, 'fixture image bytes; preparation does not decode images');
+    asset(imagePath.replace(/\.png$/, '.json'), JSON.stringify(metadata));
+  }
+  function field(
+    markdown: string,
+    scope: ReviewAssetContext['scope'],
+  ): ReviewContentField {
+    return {
+      context: {
+        answerIndex: 0,
+        paperStem: 'example',
+        questionIndex: 0,
+        scope,
+        sectionIndex: 0,
+        workingIndex: 0,
+      },
+      expanded: markdown,
+      preparations: [],
+      raw: markdown,
+    };
+  }
+  function prepare(
+    markdown = '<PaperImage assetScope="question" />',
+    scope: ReviewAssetContext['scope'] = 'question',
+  ) {
+    const node: ReviewPaperNode = {
+      children: [],
+      content: {
+        answers: [
+          {
+            answer: field(scope === 'answer' ? markdown : '', 'answer'),
+            key: field('', 'answer'),
+            option: field('', 'answer'),
+          },
+        ],
+        question: field(scope === 'question' ? markdown : '', 'question'),
+        workings: [
+          {
+            formulas: [],
+            tips: [],
+            working: field(scope === 'working' ? markdown : '', 'working'),
+          },
+        ],
+      },
+      depth: 0,
+      effectiveTags: [],
+      explicitInherit: null,
+      explicitTags: [],
+      id: 's01-q01',
+      inheritedTags: [],
+      kind: 'question',
+      label: '1',
+      review: {
+        answer: { legacyComments: '' },
+        'answer-image': { legacyComments: '' },
+        question: { legacyComments: '' },
+        'question-image': { legacyComments: '' },
+      },
+    };
+    const prepared = prepareReviewPaperNodeForDisplay(node).content;
+    const result =
+      scope === 'question'
+        ? prepared.question
+        : scope === 'working'
+          ? prepared.workings[0].working
+          : prepared.answers[0].answer;
+    assert.equal(result.preparationIssue, undefined);
+    return result.rendered;
+  }
+  function snapshot() {
+    return readdirSync(root, { recursive: true, withFileTypes: true })
+      .filter((entry) => entry.isFile())
+      .map((entry) => {
+        const filePath = path.join(entry.parentPath, entry.name);
+        return [
+          path.relative(root, filePath),
+          readFileSync(filePath).toString('hex'),
+        ];
+      })
+      .sort(([left], [right]) => left.localeCompare(right));
+  }
+  return { asset, image, prepare, snapshot, sourcePath };
+}
+
+function metadata(alt: string | null, description: string | null = null) {
+  return {
+    alt,
+    assetScope: 'question',
+    description,
+    renderMode: 'external',
+    version: 1,
+  };
+}
+
+function render(markdown: string) {
+  return renderToStaticMarkup(createElement(RtqMarkdown, { markdown }));
+}
+
+function imageTags(html: string): string[] {
+  return html.match(/<img\b[^>]*>/g) ?? [];
+}
+
+for (const [alt, state] of [
+  [null, 'pending'],
+  ['', 'reviewed-decorative'],
+  ['A triangle', 'reviewed-informative'],
+] as const) {
+  test(`preserves ${state} through preparation and rendering`, (t) => {
+    const f = fixture(t);
+    f.image(metadata(alt));
+    f.asset(
+      'paper-images.generated.json',
+      JSON.stringify({
+        assets: {
+          [f.sourcePath]: { intrinsicHeight: 120, intrinsicWidth: 160 },
+        },
+      }),
+    );
+    const before = f.snapshot();
+    const markdown = f.prepare();
+    assert.ok(markdown.includes(`altReview=${state}`));
+    const html = render(markdown);
+    const [image] = imageTags(html);
+    assert.ok(image.includes(`alt="${alt ?? ''}"`));
+    assert.ok(image.includes(`data-alt-review="${state}"`));
+    assert.match(image, /width="160"/);
+    assert.match(image, /height="120"/);
+    assert.doesNotMatch(image, /aria-describedby|title=/);
+    assert.match(html, /data-align="center"/);
+    assert.match(html, /data-indent="none"/);
+    assert.match(html, /data-size="sm"/);
+    assert.deepEqual(f.snapshot(), before);
+  });
+}
+
+test('associates escaped descriptions with distinct images and repeated content', (t) => {
+  const f = fixture(t);
+  f.image(
+    metadata('Triangle', 'Sides "a" & "b"; <script>text</script>; C:\\shape'),
+  );
+  f.image(
+    metadata('Circle', 'A circular boundary.'),
+    'questions/manual/s01-q01-i01.png',
+  );
+  const markdown = f.prepare(
+    '<PaperImage assetScope="question" />\n\n<PaperImage assetScope="question" />',
+  );
+  const html = renderToStaticMarkup(
+    createElement(
+      Fragment,
+      null,
+      createElement(RtqMarkdown, { markdown }),
+      createElement(RtqMarkdown, { markdown }),
+    ),
+  );
+  const images = imageTags(html);
+  assert.equal(images.length, 4);
+  const ids = images.map((image) => {
+    assert.doesNotMatch(image, /\btitle=/);
+    const id = image.match(/aria-describedby="([^"]+)"/)?.[1];
+    assert.ok(id);
+    return id;
+  });
+  assert.equal(new Set(ids).size, 4);
+  for (const [index, id] of ids.entries()) {
+    const text =
+      index % 2 === 0
+        ? 'Sides &quot;a&quot; &amp; &quot;b&quot;; &lt;script&gt;text&lt;/script&gt;; C:\\shape'
+        : 'A circular boundary.';
+    assert.ok(html.includes(`<span hidden="" id="${id}">${text}</span>`));
+  }
+  assert.doesNotMatch(html, /<script>/);
+});
+
+for (const alt of [null, ''] as const) {
+  test(`retains descriptions with ${alt === null ? 'pending' : 'decorative'} alt`, (t) => {
+    const f = fixture(t);
+    f.image(metadata(alt, 'Description supplied by the source.'));
+    const html = render(f.prepare());
+    assert.match(imageTags(html)[0], /alt=""[^>]*aria-describedby=/);
+    assert.match(html, /Description supplied by the source\./);
+  });
+}
+
+for (const [label, raw] of [
+  ['missing', undefined],
+  ['unparseable', '{'],
+  ['null', 'null'],
+] as const) {
+  test(`keeps the ${label}-sidecar fallback without marking it reviewed`, (t) => {
+    const f = fixture(t);
+    f.asset(f.sourcePath, 'fixture');
+    if (raw !== undefined) f.asset(f.sourcePath.replace('.png', '.json'), raw);
+    const html = render(f.prepare());
+    assert.match(imageTags(html)[0], /alt="Paper image"/);
+    assert.doesNotMatch(html, /data-alt-review|aria-describedby/);
+  });
+}
+
+test('does not invent a review state for an invalid alt field', (t) => {
+  const f = fixture(t);
+  f.image({ ...metadata(null), alt: 42 });
+  const html = render(f.prepare());
+  assert.match(imageTags(html)[0], /alt=""/);
+  assert.doesNotMatch(html, /data-alt-review/);
+});
+
+test('retains the missing-binary and unimplemented-image fallbacks', (t) => {
+  const f = fixture(t);
+  const html = render(f.prepare('<PaperImage />\n\nTODOIMAGE'));
+  assert.match(imageTags(html)[0], /alt="Missing paper image"/);
+  assert.match(html, /\/api\/assets\/papers\/missing\/missing_image\.svg/);
+  assert.match(html, /width="160"/);
+  assert.match(html, /height="120"/);
+  assert.match(html, /data-rtq-placeholder="todo-image"/);
+  assert.doesNotMatch(html, /data-alt-review|aria-describedby/);
+});
+
+for (const [label, manifest] of [
+  ['missing', undefined],
+  ['unparseable', '{'],
+  ['missing-entry', '{"assets":{}}'],
+  [
+    'invalid-dimensions',
+    '{"assets":{"questions/manual/s01-q01-i00.png":{"intrinsicWidth":"bad"}}}',
+  ],
+] as const) {
+  test(`keeps rendering with a ${label} technical manifest`, (t) => {
+    const f = fixture(t);
+    f.image(metadata(null));
+    if (manifest !== undefined)
+      f.asset('paper-images.generated.json', manifest);
+    const image = imageTags(render(f.prepare()))[0];
+    assert.match(image, /data-alt-review="pending"/);
+    assert.doesNotMatch(image, /\bwidth=|\bheight=/);
+  });
+}
+
+test('retains scope inference, ignored attributes and tolerant sidecar fields', (t) => {
+  const f = fixture(t);
+  f.image({
+    ...metadata(null),
+    version: 99,
+    assetScope: 'answer',
+    renderMode: null,
+  });
+  const html = render(
+    f.prepare(
+      '<PaperImage unknown="ignored" displaySize="lg" align="end" indent="md" />',
+    ),
+  );
+  assert.match(html, /data-size="lg"/);
+  assert.match(html, /data-align="end"/);
+  assert.match(html, /data-indent="md"/);
+  assert.match(imageTags(html)[0], /data-alt-review="pending"/);
+});
+
+for (const scope of ['working', 'answer'] as const) {
+  test(`preserves the semantics in ${scope} content`, (t) => {
+    const f = fixture(t);
+    const owner = scope === 'working' ? 'workings' : 'answers';
+    const token = scope === 'working' ? 'w' : 'a';
+    f.image(
+      { ...metadata(null, 'A supporting diagram.'), assetScope: scope },
+      `${owner}/manual/s01-q01-${token}01-i00.png`,
+    );
+    const html = render(
+      f.prepare(`<PaperImage assetScope="${scope}" />`, scope),
+    );
+    assert.match(imageTags(html)[0], /data-alt-review="pending"/);
+    assert.match(imageTags(html)[0], /aria-describedby=/);
+    assert.match(html, /A supporting diagram\./);
+  });
+}
+
+test('leaves ordinary Markdown image titles and generated division rendering unchanged', (t) => {
+  const f = fixture(t);
+  const ordinary = imageTags(
+    render('![Ordinary](/example.png "Hover title")'),
+  )[0];
+  assert.match(ordinary, /title="Hover title"/);
+  assert.doesNotMatch(ordinary, /aria-describedby|data-alt-review/);
+
+  f.asset(
+    'workings/generated/long-division/s01-q01-w01-ld00-long.json',
+    JSON.stringify({
+      alt: 'Division result',
+      description: 'Division explanation',
+    }),
+  );
+  const html = render(
+    f.prepare(
+      '<LongDivision dividend="12" divisor="3" variant="long" />',
+      'working',
+    ),
+  );
+  assert.match(html, /data-kind="long-division"/);
+  assert.match(imageTags(html)[0], /alt="Division result"/);
+  assert.match(imageTags(html)[0], /title="Division explanation"/);
+  assert.doesNotMatch(html, /aria-describedby|data-alt-review/);
+});

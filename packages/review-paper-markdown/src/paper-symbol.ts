@@ -13,6 +13,7 @@ export const PAPER_SYMBOL_NAMES = [
   "sun",
   "club-suit",
   "smiling-face",
+  "black-smiling-face",
   "black-triangle",
   "black-heart",
   "four-pane-pictogram",
@@ -35,6 +36,7 @@ export const PAPER_SYMBOL_CLIPPED_VARIANTS = [
   "half",
   "four-fifths",
 ] as const;
+export const PAPER_SYMBOL_FULL_ONLY_VARIANTS = ["full"] as const;
 export const PAPER_SYMBOL_SIZES = ["sm", "md", "lg", "xl"] as const;
 export const PAPER_SYMBOL_GROUP_GAPS = ["sm", "md", "lg"] as const;
 
@@ -135,7 +137,9 @@ function isPaperSymbolVariantForName(
   return isOneOf(
     name === "four-pane-pictogram"
       ? PAPER_SYMBOL_FOUR_PANE_VARIANTS
-      : PAPER_SYMBOL_CLIPPED_VARIANTS,
+      : name === "black-smiling-face"
+        ? PAPER_SYMBOL_FULL_ONLY_VARIANTS
+        : PAPER_SYMBOL_CLIPPED_VARIANTS,
     variant,
   );
 }
@@ -145,7 +149,9 @@ function paperSymbolVariantsForName(
 ): readonly PaperSymbolVariant[] {
   return name === "four-pane-pictogram"
     ? PAPER_SYMBOL_FOUR_PANE_VARIANTS
-    : PAPER_SYMBOL_CLIPPED_VARIANTS;
+    : name === "black-smiling-face"
+      ? PAPER_SYMBOL_FULL_ONLY_VARIANTS
+      : PAPER_SYMBOL_CLIPPED_VARIANTS;
 }
 
 function openingFence(value: string): MarkdownFence | undefined {
@@ -577,6 +583,46 @@ function fourPaneSvg(
   );
 }
 
+// Geometry derived from Lucide's Smile icon. It is emitted manually so the
+// face can be filled while the eyes and mouth use the inverse surface colour.
+function blackSmilingFaceSvg(size: PaperSymbolSize): NativeNode {
+  const sizePx = SIZE_PX[size];
+  const inverse = "var(--background, #fff)";
+
+  return nativeNode(
+    "svg",
+    {
+      "aria-hidden": "true",
+      fill: "none",
+      focusable: "false",
+      height: sizePx,
+      preserveAspectRatio: "xMinYMid meet",
+      style: "display:block;max-width:none;flex:none",
+      viewBox: "0 0 24 24",
+      width: sizePx,
+      xmlns: "http://www.w3.org/2000/svg",
+    },
+    [
+      nativeNode("circle", {
+        cx: 12,
+        cy: 12,
+        fill: "currentColor",
+        r: 10,
+      }),
+      nativeNode("circle", { cx: 9, cy: 9, fill: inverse, r: 1 }),
+      nativeNode("circle", { cx: 15, cy: 9, fill: inverse, r: 1 }),
+      nativeNode("path", {
+        d: "M8 14s1.5 2 4 2 4-2 4-2",
+        fill: "none",
+        stroke: inverse,
+        strokeLinecap: "round",
+        strokeLinejoin: "round",
+        strokeWidth: 1.5,
+      }),
+    ],
+  );
+}
+
 function symbolSvg(
   name: PaperSymbolName,
   size: PaperSymbolSize,
@@ -585,6 +631,8 @@ function symbolSvg(
   switch (name) {
     case "four-pane-pictogram":
       return fourPaneSvg(size, variant as FourPaneVariant);
+    case "black-smiling-face":
+      return blackSmilingFaceSvg(size);
     case "lorry":
       return lorrySvg(size);
     case "woodlouse":
@@ -650,6 +698,16 @@ function symbolSvgHtml(
   if (name === "four-pane-pictogram") {
     return [
       `<path d="${FOUR_PANE_PATH[variant as FourPaneVariant]}" fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="square" stroke-linejoin="miter" stroke-width="1.5"></path>`,
+    ];
+  }
+  if (name === "black-smiling-face") {
+    // Keep this static HTML geometry aligned with blackSmilingFaceSvg above.
+    const inverse = "var(--background, #fff)";
+    return [
+      '<circle cx="12" cy="12" fill="currentColor" r="10"></circle>',
+      `<circle cx="9" cy="9" fill="${inverse}" r="1"></circle>`,
+      `<circle cx="15" cy="9" fill="${inverse}" r="1"></circle>`,
+      `<path d="M8 14s1.5 2 4 2 4-2 4-2" fill="none" stroke="${inverse}" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>`,
     ];
   }
   if (name === "square") {
@@ -835,9 +893,12 @@ function paperSymbolHtml(attributesSource: string): string {
           CLIPPED_VARIANT_RATIO[variant as keyof typeof CLIPPED_VARIANT_RATIO] *
           100,
       ) / 100;
-  const label = `${VARIANT_LABEL[variant]} ${
-    isFourPanePictogram ? "four-pane" : name
-  } pictogram symbol`;
+  const symbolLabel = isFourPanePictogram
+    ? "four-pane"
+    : name === "black-smiling-face"
+      ? "black smiling-face"
+      : name;
+  const label = `${VARIANT_LABEL[variant]} ${symbolLabel} pictogram symbol`;
   const fill =
     !isFourPanePictogram &&
     (name === "computer" ||
@@ -998,7 +1059,11 @@ function paperSymbolNode(node: MdxElement): NativeNode {
     "span",
     {
       "aria-label": `${VARIANT_LABEL[variant]} ${
-        name === "four-pane-pictogram" ? "four-pane" : name
+        name === "four-pane-pictogram"
+          ? "four-pane"
+          : name === "black-smiling-face"
+            ? "black smiling-face"
+            : name
       } pictogram symbol`,
       dataPaperSymbol: "",
       dataPaperSymbolName: name,

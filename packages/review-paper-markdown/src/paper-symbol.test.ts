@@ -101,6 +101,19 @@ test("renders the outline Lucide smiling face", async () => {
   assert.match(html, /<path[^>]*d="M8 14s1\.5 2 4 2 4-2 4-2"/);
 });
 
+test("renders a separate filled black smiling face with inverse details", async () => {
+  const html = await render(
+    '<PaperSymbol name="black-smiling-face" size="lg" />',
+  );
+
+  assert.match(html, /One full black smiling-face pictogram symbol/);
+  assert.match(html, /<circle[^>]*fill="currentColor"[^>]*r="10"/);
+  assert.match(
+    html,
+    /<path[^>]*d="M8 14s1\.5 2 4 2 4-2 4-2"[^>]*stroke="var\(--background, #fff\)"/,
+  );
+});
+
 test("renders the filled Lucide triangle and heart", async () => {
   const html = await render(
     '<PaperSymbol name="black-triangle" size="lg" /><PaperSymbol name="black-heart" size="lg" />',
@@ -196,6 +209,10 @@ test("rejects invalid symbols, props, expressions, and group children", async ()
     ['<PaperSymbol name="computer" variant="quarter" />', 'prop "variant"'],
     [
       '<PaperSymbol name="four-pane-pictogram" variant="four-fifths" />',
+      'prop "variant"',
+    ],
+    [
+      '<PaperSymbol name="black-smiling-face" variant="half" />',
       'prop "variant"',
     ],
     ['<PaperSymbol name="computer" size="xxl" />', 'prop "size"'],

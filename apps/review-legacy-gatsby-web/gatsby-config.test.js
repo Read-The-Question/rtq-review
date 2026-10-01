@@ -6,7 +6,7 @@ const katex = require("katex");
 
 const gatsbyConfig = require("./gatsby-config");
 const {
-  renderFourPanePaperSymbols,
+  renderCustomPaperSymbols,
 } = require("./src/lib/paper-symbol-compatibility");
 
 test("keeps PaperAuthorNote visible and explicitly internal in legacy review", () => {
@@ -80,7 +80,7 @@ test("isolates enlarged size wrappers from adjacent spacing", () => {
 });
 
 test("renders four-pane PaperSymbol markup in legacy review", () => {
-  const html = renderFourPanePaperSymbols(
+  const html = renderCustomPaperSymbols(
     '<PaperSymbol name="four-pane-pictogram" variant="three-quarters" size="lg" />',
   );
 
@@ -90,6 +90,17 @@ test("renders four-pane PaperSymbol markup in legacy review", () => {
     html,
     /d="M3 3H21V12H12V21H3Z M12 3V12 M3 12H12"/,
   );
+  assert.doesNotMatch(html, /<PaperSymbol/);
+});
+
+test("renders black smiling-face PaperSymbol markup in legacy review", () => {
+  const html = renderCustomPaperSymbols(
+    '<PaperSymbol name="black-smiling-face" size="lg" />',
+  );
+
+  assert.match(html, /One full black smiling-face pictogram symbol/);
+  assert.match(html, /<circle[^>]*fill="currentColor"[^>]*r="10"/);
+  assert.match(html, /stroke="var\(--background, #fff\)"/);
   assert.doesNotMatch(html, /<PaperSymbol/);
 });
 

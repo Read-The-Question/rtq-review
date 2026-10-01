@@ -25,6 +25,9 @@ symbol and contributes no accessible content.
 icon. Its `quarter`, `half`, `three-quarters`, and `full` variants use a fixed
 two-by-two footprint and draw shared pane borders exactly once. Other symbols
 continue to support the clipped `full`, `half`, and `four-fifths` variants.
+`black-smiling-face` is a separate full-only custom renderer with a filled
+current-colour face and background-colour eyes and smile; the existing
+Lucide-backed `smiling-face` remains an outline symbol.
 
 ## PaperList
 

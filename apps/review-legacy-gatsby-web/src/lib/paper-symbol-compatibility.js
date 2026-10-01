@@ -27,12 +27,27 @@ const fourPaneHtml = attributes => {
   return `<span aria-label="${VARIANT_LABEL[variant]} four-pane pictogram symbol" data-paper-symbol="" data-paper-symbol-name="four-pane-pictogram" data-paper-symbol-size="${size}" data-paper-symbol-variant="${variant}" role="img" style="display:inline-flex;flex:none;overflow:hidden;vertical-align:middle;line-height:1;height:${sizePx}px;width:${sizePx}px"><svg aria-hidden="true" fill="none" focusable="false" height="${sizePx}" preserveAspectRatio="xMinYMid meet" style="display:block;max-width:none;flex:none" viewBox="0 0 24 24" width="${sizePx}" xmlns="http://www.w3.org/2000/svg"><path d="${path}" fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="square" stroke-linejoin="miter" stroke-width="1.5"></path></svg></span>`
 }
 
-const renderFourPanePaperSymbols = html =>
+// Geometry derived from Lucide's Smile icon. The legacy renderer writes it
+// manually to support a filled face with inverse eyes and mouth.
+const blackSmilingFaceHtml = attributes => {
+  const size = readAttribute(attributes, "size") || "md"
+  const sizePx = SIZE_PX[size]
+  if (!sizePx) return null
+  const inverse = "var(--background, #fff)"
+
+  return `<span aria-label="One full black smiling-face pictogram symbol" data-paper-symbol="" data-paper-symbol-name="black-smiling-face" data-paper-symbol-size="${size}" data-paper-symbol-variant="full" role="img" style="display:inline-flex;flex:none;overflow:hidden;vertical-align:middle;line-height:1;height:${sizePx}px;width:${sizePx}px"><svg aria-hidden="true" fill="none" focusable="false" height="${sizePx}" preserveAspectRatio="xMinYMid meet" style="display:block;max-width:none;flex:none" viewBox="0 0 24 24" width="${sizePx}" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" fill="currentColor" r="10"></circle><circle cx="9" cy="9" fill="${inverse}" r="1"></circle><circle cx="15" cy="9" fill="${inverse}" r="1"></circle><path d="M8 14s1.5 2 4 2 4-2 4-2" fill="none" stroke="${inverse}" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path></svg></span>`
+}
+
+const renderCustomPaperSymbols = html =>
   html.replace(/<PaperSymbol\b([^>]*?)\/?>/gi, (source, attributes) => {
-    if (readAttribute(attributes, "name") !== "four-pane-pictogram") {
-      return source
+    switch (readAttribute(attributes, "name")) {
+      case "four-pane-pictogram":
+        return fourPaneHtml(attributes) || source
+      case "black-smiling-face":
+        return blackSmilingFaceHtml(attributes) || source
+      default:
+        return source
     }
-    return fourPaneHtml(attributes) || source
   })
 
-module.exports = { renderFourPanePaperSymbols }
+module.exports = { renderCustomPaperSymbols }

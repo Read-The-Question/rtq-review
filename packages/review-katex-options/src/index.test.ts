@@ -454,23 +454,27 @@ test("renders digit-group separators as thin spaces", () => {
   assert.equal(normalize(macro), normalize(direct));
 });
 
-test("preserves every enlarged size through its pending-review switch", () => {
+test("isolates every registered size wrapper from adjacent spacing", () => {
   const normalize = (html: string) =>
     html.replace(/<annotation[^>]*>[\s\S]*?<\/annotation>/g, "<annotation/>");
 
-  for (const [wrapper, source] of Object.entries(RTQ_PENDING_SIZE_SWITCHES)) {
-    for (const expression of [
-      `{${source} \\boxed{7}}`,
-      `\\boxed{${source} 7}`,
-      `\\boxed{\\phantom{${source} 7}}`,
-    ]) {
-      assert.equal(
-        normalize(
-          katex.renderToString(expression.replace(source, wrapper), options),
-        ),
-        normalize(katex.renderToString(expression, options)),
-      );
-    }
+  for (const [wrapper, expansion] of Object.entries(RTQ_SIZE_SWITCHES)) {
+    const source = expansion.match(/^\{(\\[A-Za-z]+) #1\}$/)?.[1];
+    assert.ok(source, wrapper);
+    const wrapped = `${wrapper}{1}\\rtqMathsSpaceOneEm${wrapper}{2}`;
+    const expected = `{${source} 1}\\quad{${source} 2}`;
+    const rendered = normalize(katex.renderToString(wrapped, options));
+
+    assert.equal(
+      rendered,
+      normalize(katex.renderToString(expected, options)),
+      wrapper,
+    );
+    assert.doesNotMatch(
+      rendered.match(/<span class="mspace[^"]*"/)?.[0] ?? "",
+      /sizing|size[0-9]/,
+      wrapper,
+    );
   }
 });
 

@@ -46,6 +46,36 @@ test("applies columnar arithmetic spacing only when requested", () => {
   assert.match(columnar, /height:3\.6em/);
 });
 
+test("isolates pending size wrappers from adjacent spacing", () => {
+  const options = { ...getRtqKatexOptions(), throwOnError: true };
+  const normalize = (html) =>
+    html.replace(/<annotation[^>]*>[\s\S]*?<\/annotation>/g, "<annotation/>");
+  const cases = [
+    ["\\rtqMathsSizeSevenPendingReview", "\\large"],
+    ["\\rtqMathsSizeEightPendingReview", "\\Large"],
+    ["\\rtqMathsSizeNinePendingReview", "\\LARGE"],
+    ["\\rtqMathsSizeTenPendingReview", "\\huge"],
+    ["\\rtqMathsSizeElevenPendingReview", "\\Huge"],
+  ];
+
+  for (const [wrapper, source] of cases) {
+    const wrapped = `${wrapper}{1}\\rtqMathsListSeparator${wrapper}{2}`;
+    const expected = `{${source} 1}\\quad{${source} 2}`;
+    const rendered = normalize(katex.renderToString(wrapped, options));
+
+    assert.equal(
+      rendered,
+      normalize(katex.renderToString(expected, options)),
+      wrapper,
+    );
+    assert.doesNotMatch(
+      rendered.match(/<span class="mspace[^"]*"/)?.[0] || "",
+      /sizing|size[0-9]/,
+      wrapper,
+    );
+  }
+});
+
 test("renders the columnar decimal point as the contracted zero-width overlap", () => {
   const options = { ...getRtqKatexOptions(), throwOnError: true };
   const normalize = (html) =>
@@ -70,10 +100,7 @@ test("renders question-mark placeholders with their contracted math roles", () =
   const cases = [
     ["\\rtqMathsQuestionMarkPlaceholder", "\\mathord{?}"],
     ["\\rtqMathsBinaryOperatorQuestionMarkPlaceholder", "\\mathbin{?}"],
-    [
-      "\\rtqMathsDigitGroupSeparator",
-      "\\rtqMathsSpaceOneSixthEm",
-    ],
+    ["\\rtqMathsDigitGroupSeparator", "\\rtqMathsSpaceOneSixthEm"],
     ["\\rtqMathsTimeSeparator", "\\mathord{:}"],
     ["\\rtqMathsRatioSeparator", "\\ratio"],
     ["\\rtqMathsTimeMeridiem{a.m.}", "\\ \\text{a.m.}"],
@@ -233,7 +260,7 @@ test("registers and renders the complete prefixed RTQ vocabulary", () => {
   assert.equal(options.macros["\\rtqMathsSymbolBoxDot"], "\\boxdot");
   assert.equal(
     options.macros["\\rtqMathsSymbolBlackHeartSuit"],
-    "\\text{\\char\"2665}",
+    '\\text{\\char"2665}',
   );
   assert.equal(options.macros["\\rtqMathsSymbolWhiteSquare"], "\\square");
   assert.equal(

@@ -127,14 +127,14 @@ export const RTQ_LIST_SEPARATOR_EXPANSION = "\\quad" as const;
 
 export const RTQ_SIZE_FOUR_MACRO = "\\rtqMathsSizeFour" as const;
 
-export const RTQ_SIZE_FOUR_EXPANSION = "\\footnotesize" as const;
+export const RTQ_SIZE_FOUR_EXPANSION = "{\\footnotesize #1}" as const;
 
 export const RTQ_PENDING_SIZE_SWITCHES = {
-  "\\rtqMathsSizeSevenPendingReview": "\\large",
-  "\\rtqMathsSizeEightPendingReview": "\\Large",
-  "\\rtqMathsSizeNinePendingReview": "\\LARGE",
-  "\\rtqMathsSizeTenPendingReview": "\\huge",
-  "\\rtqMathsSizeElevenPendingReview": "\\Huge",
+  "\\rtqMathsSizeSevenPendingReview": "{\\large #1}",
+  "\\rtqMathsSizeEightPendingReview": "{\\Large #1}",
+  "\\rtqMathsSizeNinePendingReview": "{\\LARGE #1}",
+  "\\rtqMathsSizeTenPendingReview": "{\\huge #1}",
+  "\\rtqMathsSizeElevenPendingReview": "{\\Huge #1}",
 } as const;
 
 export const RTQ_SIZE_SWITCHES = {

@@ -29,16 +29,14 @@ const rtqKatexMacros = {
   "\\rtqMathsSymbolEuro": "\\text{€}",
   "\\rtqMathsSymbolAsterisk": "\\ast",
   "\\rtqMathsSymbolBoxDot": "\\boxdot",
-  "\\rtqMathsSymbolBlackHeartSuit": "\\text{\\char\"2665}",
+  "\\rtqMathsSymbolBlackHeartSuit": '\\text{\\char"2665}',
   "\\rtqMathsSymbolBlackTriangle": "\\blacktriangle",
   "\\rtqMathsSymbolBlackSquare": "\\blacksquare",
   "\\rtqMathsSymbolWhiteSquare": "\\square",
   "\\rtqMathsSymbolBlackCircle": "\\mathord{\\Large\\bullet}",
   "\\rtqMathsSymbolBlackLozenge": "\\blacklozenge",
-  "\\rtqMathsBinaryOperatorAsterisk":
-    "\\mathbin{\\rtqMathsSymbolAsterisk}",
-  "\\rtqMathsBinaryOperatorBoxDot":
-    "\\mathbin{\\rtqMathsSymbolBoxDot}",
+  "\\rtqMathsBinaryOperatorAsterisk": "\\mathbin{\\rtqMathsSymbolAsterisk}",
+  "\\rtqMathsBinaryOperatorBoxDot": "\\mathbin{\\rtqMathsSymbolBoxDot}",
   "\\rtqMathsBinaryOperatorBlackSquare":
     "\\mathbin{\\rtqMathsSymbolBlackSquare}",
   "\\rtqMathsBinaryOperatorOf": "\\mathbin{\\text{of}}",
@@ -89,8 +87,7 @@ const rtqKatexMacros = {
   "\\rtqMathsBoxedEmptyValueFraction": "\\boxed{\\phantom{\\dfrac{0}{0}}}",
   "\\rtqMathsBinaryOperatorBoxedEmptyMatching":
     "\\mathbin{\\boxed{\\phantom{#1}}}",
-  "\\rtqMathsRelationBoxedEmptyMatching":
-    "\\mathrel{\\boxed{\\phantom{#1}}}",
+  "\\rtqMathsRelationBoxedEmptyMatching": "\\mathrel{\\boxed{\\phantom{#1}}}",
   "\\rtqMathsBinaryOperatorBoxedEmptyUnknown":
     "\\rtqMathsBinaryOperatorBoxedEmptyMatching{+}",
   "\\rtqMathsRelationBoxedEmptyUnknown":
@@ -110,10 +107,8 @@ const rtqKatexMacros = {
   "\\rtqMathsRelationBoxedCorrectOneDigitPaddingEachSide":
     "\\mathrel{\\boxed{\\phantom{0}\\rtqMathsCorrectValue{#1}\\phantom{0}}}",
   "\\rtqMathsUnderlineEmptyValueShort": "\\underline{\\phantom{0000}}",
-  "\\rtqMathsUnderlineEmptyValueMedium":
-    "\\underline{\\phantom{00000000}}",
-  "\\rtqMathsUnderlineEmptyValueLong":
-    "\\underline{\\phantom{000000000000}}",
+  "\\rtqMathsUnderlineEmptyValueMedium": "\\underline{\\phantom{00000000}}",
+  "\\rtqMathsUnderlineEmptyValueLong": "\\underline{\\phantom{000000000000}}",
   "\\rtqMathsUnderlineValue": "\\underline{#1}",
   "\\rtqMathsUnderlineValueShortPaddingEachSide":
     "\\underline{\\phantom{00}#1\\phantom{00}}",
@@ -121,8 +116,7 @@ const rtqKatexMacros = {
     "\\underline{\\phantom{0000}#1\\phantom{0000}}",
   "\\rtqMathsUnderlineValueLongPaddingEachSide":
     "\\underline{\\phantom{000000}#1\\phantom{000000}}",
-  "\\rtqMathsUnderlineCorrectValue":
-    "\\underline{\\rtqMathsCorrectValue{#1}}",
+  "\\rtqMathsUnderlineCorrectValue": "\\underline{\\rtqMathsCorrectValue{#1}}",
   "\\rtqMathsUnderlineCorrectValueShortPaddingEachSide":
     "\\underline{\\phantom{00}\\rtqMathsCorrectValue{#1}\\phantom{00}}",
   "\\rtqMathsUnderlineCorrectValueMediumPaddingEachSide":
@@ -137,8 +131,7 @@ const rtqKatexMacros = {
     "\\rtqMathsBoxedEmptyValueThreeDigitsWide",
   "\\rtqMathsEllipsisEmptyValueFourDigitsWide":
     "\\rtqMathsBoxedEmptyValueFourDigitsWide",
-  "\\rtqMathsEllipsisEmptyValueFraction":
-    "\\rtqMathsBoxedEmptyValueFraction",
+  "\\rtqMathsEllipsisEmptyValueFraction": "\\rtqMathsBoxedEmptyValueFraction",
   "\\rtqMathsBinaryOperatorEllipsisEmptyMatching":
     "\\rtqMathsBinaryOperatorBoxedEmptyMatching{#1}",
   "\\rtqMathsRelationEllipsisEmptyMatching":
@@ -172,11 +165,11 @@ const rtqKatexMacros = {
   "\\rtqMathsTimeAm": "\\rtqMathsTimeMeridiem{am}",
   "\\rtqMathsTimePm": "\\rtqMathsTimeMeridiem{pm}",
   "\\rtqMathsListSeparator": "\\quad",
-  "\\rtqMathsSizeSevenPendingReview": "\\large",
-  "\\rtqMathsSizeEightPendingReview": "\\Large",
-  "\\rtqMathsSizeNinePendingReview": "\\LARGE",
-  "\\rtqMathsSizeTenPendingReview": "\\huge",
-  "\\rtqMathsSizeElevenPendingReview": "\\Huge",
+  "\\rtqMathsSizeSevenPendingReview": "{\\large #1}",
+  "\\rtqMathsSizeEightPendingReview": "{\\Large #1}",
+  "\\rtqMathsSizeNinePendingReview": "{\\LARGE #1}",
+  "\\rtqMathsSizeTenPendingReview": "{\\huge #1}",
+  "\\rtqMathsSizeElevenPendingReview": "{\\Huge #1}",
 };
 
 const rtqKatexApprovedClasses = new Set([

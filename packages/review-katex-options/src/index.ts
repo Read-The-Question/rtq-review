@@ -129,17 +129,17 @@ export const RTQ_SIZE_FOUR_MACRO = "\\rtqMathsSizeFour" as const;
 
 export const RTQ_SIZE_FOUR_EXPANSION = "{\\footnotesize #1}" as const;
 
-export const RTQ_PENDING_SIZE_SWITCHES = {
-  "\\rtqMathsSizeSevenPendingReview": "{\\large #1}",
-  "\\rtqMathsSizeEightPendingReview": "{\\Large #1}",
-  "\\rtqMathsSizeNinePendingReview": "{\\LARGE #1}",
-  "\\rtqMathsSizeTenPendingReview": "{\\huge #1}",
-  "\\rtqMathsSizeElevenPendingReview": "{\\Huge #1}",
+export const RTQ_ENLARGED_SIZE_WRAPPERS = {
+  "\\rtqMathsSizeSeven": "{\\large #1}",
+  "\\rtqMathsSizeEight": "{\\Large #1}",
+  "\\rtqMathsSizeNine": "{\\LARGE #1}",
+  "\\rtqMathsSizeTen": "{\\huge #1}",
+  "\\rtqMathsSizeEleven": "{\\Huge #1}",
 } as const;
 
-export const RTQ_SIZE_SWITCHES = {
+export const RTQ_SIZE_WRAPPERS = {
   [RTQ_SIZE_FOUR_MACRO]: RTQ_SIZE_FOUR_EXPANSION,
-  ...RTQ_PENDING_SIZE_SWITCHES,
+  ...RTQ_ENLARGED_SIZE_WRAPPERS,
 } as const;
 
 export const RTQ_BOXED_VALUE_MACROS = {
@@ -262,7 +262,7 @@ export function getRtqReviewKatexOptions<
       ...RTQ_UNIT_MACROS,
       [RTQ_LIST_SEPARATOR_MACRO]: RTQ_LIST_SEPARATOR_EXPANSION,
       ...RTQ_TIME_MERIDIEM_MACROS,
-      ...RTQ_SIZE_SWITCHES,
+      ...RTQ_SIZE_WRAPPERS,
       ...RTQ_BOXED_VALUE_MACROS,
       ...RTQ_UNDERLINE_VALUE_MACROS,
       ...RTQ_EMPTY_VALUE_MACROS,

@@ -165,11 +165,11 @@ const rtqKatexMacros = {
   "\\rtqMathsTimeAm": "\\rtqMathsTimeMeridiem{am}",
   "\\rtqMathsTimePm": "\\rtqMathsTimeMeridiem{pm}",
   "\\rtqMathsListSeparator": "\\quad",
-  "\\rtqMathsSizeSevenPendingReview": "{\\large #1}",
-  "\\rtqMathsSizeEightPendingReview": "{\\Large #1}",
-  "\\rtqMathsSizeNinePendingReview": "{\\LARGE #1}",
-  "\\rtqMathsSizeTenPendingReview": "{\\huge #1}",
-  "\\rtqMathsSizeElevenPendingReview": "{\\Huge #1}",
+  "\\rtqMathsSizeSeven": "{\\large #1}",
+  "\\rtqMathsSizeEight": "{\\Large #1}",
+  "\\rtqMathsSizeNine": "{\\LARGE #1}",
+  "\\rtqMathsSizeTen": "{\\huge #1}",
+  "\\rtqMathsSizeEleven": "{\\Huge #1}",
 };
 
 const rtqKatexApprovedClasses = new Set([

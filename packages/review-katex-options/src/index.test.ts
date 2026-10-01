@@ -25,7 +25,7 @@ import {
   RTQ_EQUATION_NUMBER_MACRO,
   RTQ_ELLIPSIS_EMPTY_MACROS,
   RTQ_EMPTY_VALUE_MACROS,
-  RTQ_PENDING_SIZE_SWITCHES,
+  RTQ_ENLARGED_SIZE_WRAPPERS,
   RTQ_QUESTION_MARK_PLACEHOLDER_MACROS,
   RTQ_RATIO_SEPARATOR_EXPANSION,
   RTQ_RATIO_SEPARATOR_MACRO,
@@ -34,7 +34,7 @@ import {
   RTQ_SEQUENCE_ELLIPSIS_MACRO,
   RTQ_SIZE_FOUR_EXPANSION,
   RTQ_SIZE_FOUR_MACRO,
-  RTQ_SIZE_SWITCHES,
+  RTQ_SIZE_WRAPPERS,
   RTQ_LIST_SEPARATOR_EXPANSION,
   RTQ_LIST_SEPARATOR_MACRO,
   RTQ_SPACING_MACROS,
@@ -107,9 +107,9 @@ test("matches the canonical rtq-content shared macro contracts", () => {
   const ratioSeparator = contract.macros.find(
     ({ name }) => name === RTQ_RATIO_SEPARATOR_MACRO,
   );
-  const pendingSizeSwitches = Object.fromEntries(
+  const enlargedSizeWrappers = Object.fromEntries(
     contract.macros
-      .filter(({ name }) => name in RTQ_PENDING_SIZE_SWITCHES)
+      .filter(({ name }) => name in RTQ_ENLARGED_SIZE_WRAPPERS)
       .map(({ expansion, name }) => [name, expansion]),
   );
 
@@ -182,8 +182,8 @@ test("matches the canonical rtq-content shared macro contracts", () => {
       { expansion, name },
     );
   }
-  assert.deepEqual(pendingSizeSwitches, RTQ_PENDING_SIZE_SWITCHES);
-  for (const [name, expansion] of Object.entries(RTQ_SIZE_SWITCHES)) {
+  assert.deepEqual(enlargedSizeWrappers, RTQ_ENLARGED_SIZE_WRAPPERS);
+  for (const [name, expansion] of Object.entries(RTQ_SIZE_WRAPPERS)) {
     assert.equal(
       contract.macros.find((macro) => macro.name === name)?.expansion,
       expansion,
@@ -458,7 +458,7 @@ test("isolates every registered size wrapper from adjacent spacing", () => {
   const normalize = (html: string) =>
     html.replace(/<annotation[^>]*>[\s\S]*?<\/annotation>/g, "<annotation/>");
 
-  for (const [wrapper, expansion] of Object.entries(RTQ_SIZE_SWITCHES)) {
+  for (const [wrapper, expansion] of Object.entries(RTQ_SIZE_WRAPPERS)) {
     const source = expansion.match(/^\{(\\[A-Za-z]+) #1\}$/)?.[1];
     assert.ok(source, wrapper);
     const wrapped = `${wrapper}{1}\\rtqMathsSpaceOneEm${wrapper}{2}`;

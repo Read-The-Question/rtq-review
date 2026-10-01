@@ -46,16 +46,16 @@ test("applies columnar arithmetic spacing only when requested", () => {
   assert.match(columnar, /height:3\.6em/);
 });
 
-test("isolates pending size wrappers from adjacent spacing", () => {
+test("isolates enlarged size wrappers from adjacent spacing", () => {
   const options = { ...getRtqKatexOptions(), throwOnError: true };
   const normalize = (html) =>
     html.replace(/<annotation[^>]*>[\s\S]*?<\/annotation>/g, "<annotation/>");
   const cases = [
-    ["\\rtqMathsSizeSevenPendingReview", "\\large"],
-    ["\\rtqMathsSizeEightPendingReview", "\\Large"],
-    ["\\rtqMathsSizeNinePendingReview", "\\LARGE"],
-    ["\\rtqMathsSizeTenPendingReview", "\\huge"],
-    ["\\rtqMathsSizeElevenPendingReview", "\\Huge"],
+    ["\\rtqMathsSizeSeven", "\\large"],
+    ["\\rtqMathsSizeEight", "\\Large"],
+    ["\\rtqMathsSizeNine", "\\LARGE"],
+    ["\\rtqMathsSizeTen", "\\huge"],
+    ["\\rtqMathsSizeEleven", "\\Huge"],
   ];
 
   for (const [wrapper, source] of cases) {
@@ -201,11 +201,11 @@ test("registers and renders the complete prefixed RTQ vocabulary", () => {
     "\\rtqMathsSequenceEllipsis",
     "\\rtqMathsSequenceStep",
     "\\rtqMathsSequenceStepBare",
-    "\\rtqMathsSizeEightPendingReview",
-    "\\rtqMathsSizeElevenPendingReview",
-    "\\rtqMathsSizeNinePendingReview",
-    "\\rtqMathsSizeSevenPendingReview",
-    "\\rtqMathsSizeTenPendingReview",
+    "\\rtqMathsSizeEight",
+    "\\rtqMathsSizeEleven",
+    "\\rtqMathsSizeNine",
+    "\\rtqMathsSizeSeven",
+    "\\rtqMathsSizeTen",
     "\\rtqMathsSolvedOrder",
     "\\rtqMathsSpaceHalfEm",
     "\\rtqMathsSpaceOneSixthEm",

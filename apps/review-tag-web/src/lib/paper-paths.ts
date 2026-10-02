@@ -66,6 +66,21 @@ export const SOURCE_FOLDERS: Record<
     description: 'Corpus questions grouped by answer RAG',
     label: 'Corpus Answer RAG',
   },
+  corpusAnswerImageReviewRagToml: {
+    absolutePath: path.join(
+      SOURCE_PAPERS_ROOT,
+      'corpusAnswerImageReviewRagToml',
+    ),
+    description:
+      'Corpus PRCR and PRCC questions grouped by answer-image RAG and review outcome',
+    label: 'Corpus Answer Image Review RAG',
+  },
+  corpusAnswerReviewRagToml: {
+    absolutePath: path.join(SOURCE_PAPERS_ROOT, 'corpusAnswerReviewRagToml'),
+    description:
+      'Corpus PRCR and PRCC questions grouped by answer RAG and review outcome',
+    label: 'Corpus Answer Review RAG',
+  },
   corpusPrimaryTopicAnswerRagToml: {
     absolutePath: path.join(
       SOURCE_PAPERS_ROOT,
@@ -83,6 +98,21 @@ export const SOURCE_FOLDERS: Record<
     absolutePath: path.join(SOURCE_PAPERS_ROOT, 'corpusQuestionRagToml'),
     description: 'Corpus questions grouped by question RAG',
     label: 'Corpus Question RAG',
+  },
+  corpusQuestionImageReviewRagToml: {
+    absolutePath: path.join(
+      SOURCE_PAPERS_ROOT,
+      'corpusQuestionImageReviewRagToml',
+    ),
+    description:
+      'Corpus PRCR and PRCC questions grouped by question-image RAG and review outcome',
+    label: 'Corpus Question Image Review RAG',
+  },
+  corpusQuestionReviewRagToml: {
+    absolutePath: path.join(SOURCE_PAPERS_ROOT, 'corpusQuestionReviewRagToml'),
+    description:
+      'Corpus PRCR and PRCC questions grouped by question RAG and review outcome',
+    label: 'Corpus Question Review RAG',
   },
   focusCorpusAnswerRagToml: {
     absolutePath: path.join(SOURCE_PAPERS_ROOT, 'focusCorpusAnswerRagToml'),

@@ -10,7 +10,6 @@ import {
 import {
   getReviewStore,
   type LocalReviewComment,
-  type StoredReviewOutcome,
 } from '@rtq/review-store/server';
 import { REVIEW_SIDES, type ReviewSide } from '@rtq/review-store/types';
 
@@ -41,7 +40,6 @@ export type ReviewWorkOccurrence = ReviewWorkSource &
   }>;
 
 export type ReviewWorkStateGroup = Readonly<{
-  changeRequest: StoredReviewOutcome | null;
   comments: readonly LocalReviewComment[];
   currentRagStates: readonly string[];
   lifecycle: ReviewWorkLifecycle;
@@ -123,19 +121,11 @@ function uniqueSources(
 export function buildReviewWorkGroups({
   comments,
   occurrences,
-  outcomes,
 }: Readonly<{
   comments: readonly LocalReviewComment[];
   occurrences: readonly ReviewWorkOccurrence[];
-  outcomes: readonly StoredReviewOutcome[];
 }>): readonly ReviewWorkGroup[] {
-  const actionableOutcomes = outcomes.filter(
-    (outcome) => outcome.outcome === 'PRCR',
-  );
-  const uuids = new Set([
-    ...comments.map((comment) => comment.uuid),
-    ...actionableOutcomes.map((outcome) => outcome.uuid),
-  ]);
+  const uuids = new Set(comments.map((comment) => comment.uuid));
 
   return [...uuids]
     .map((uuid): ReviewWorkGroup => {
@@ -146,13 +136,9 @@ export function buildReviewWorkGroups({
         const sideComments = comments.filter(
           (comment) => comment.uuid === uuid && comment.side === side,
         );
-        const sideOutcomes = actionableOutcomes.filter(
-          (outcome) => outcome.uuid === uuid && outcome.side === side,
+        const ragStates = uniqueSorted(
+          sideComments.map((comment) => comment.ragState),
         );
-        const ragStates = uniqueSorted([
-          ...sideComments.map((comment) => comment.ragState),
-          ...sideOutcomes.map((outcome) => outcome.ragState),
-        ]);
         if (ragStates.length === 0) return [];
 
         const currentRagStates = uniqueSorted(
@@ -163,9 +149,6 @@ export function buildReviewWorkGroups({
             (occurrence) => occurrence.states[side] === ragState,
           );
           return {
-            changeRequest:
-              sideOutcomes.find((outcome) => outcome.ragState === ragState) ??
-              null,
             comments: sideComments.filter(
               (comment) => comment.ragState === ragState,
             ),
@@ -295,13 +278,7 @@ export async function loadReviewWorkGroups(): Promise<
 > {
   const store = getReviewStore();
   const comments = store.comments.listAll();
-  const outcomes = store.outcomes
-    .listAll()
-    .filter((outcome) => outcome.outcome === 'PRCR');
-  const targetUuids = new Set([
-    ...comments.map((comment) => comment.uuid),
-    ...outcomes.map((outcome) => outcome.uuid),
-  ]);
+  const targetUuids = new Set(comments.map((comment) => comment.uuid));
   const occurrences = await loadOccurrences(targetUuids);
-  return buildReviewWorkGroups({ comments, occurrences, outcomes });
+  return buildReviewWorkGroups({ comments, occurrences });
 }

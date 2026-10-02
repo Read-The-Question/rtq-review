@@ -5253,33 +5253,15 @@ a.paper-row:hover {
   margin-top: 0.55rem;
 }
 
-.review-entry--request {
-  background: var(--review-change-requested-tint);
-  border-left-color: var(--review-change-requested-border);
-}
-
 .review-entry p {
   margin-bottom: 0.3rem;
   white-space: pre-wrap;
 }
 
-.review-entry > span,
-.review-entry > div + p {
+.review-entry > span {
   color: var(--faint);
   font-size: 0.875rem;
   margin-bottom: 0;
-}
-
-.review-entry > div {
-  align-items: baseline;
-  display: flex;
-  gap: 0.65rem;
-}
-
-.review-entry > div span {
-  color: var(--gold);
-  font-family: 'SFMono-Regular', Consolas, monospace;
-  font-size: 0.875rem;
 }
 
 @media (max-width: 900px) {

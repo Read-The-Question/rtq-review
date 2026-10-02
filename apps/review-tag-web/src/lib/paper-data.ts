@@ -376,7 +376,7 @@ function parseCorpusRagStem(stem: string) {
 
 function parseCorpusReviewRagStem(stem: string) {
   const match =
-    /^focus_corpus_(?:question|answer)(?:_image)?_review_rag_([^_]+)_([^_]+)_(\d+)$/i.exec(
+    /^(?:focus_)?corpus_(?:question|answer)(?:_image)?_review_rag_([^_]+)_([^_]+)_(\d+)$/i.exec(
       stem,
     );
 
@@ -421,6 +421,10 @@ function navigationCopyForFile(folderKey: FolderKey, stem: string) {
     case 'focusCorpusQuestionReviewRagToml':
     case 'focusCorpusAnswerImageReviewRagToml':
     case 'focusCorpusQuestionImageReviewRagToml':
+    case 'corpusAnswerReviewRagToml':
+    case 'corpusQuestionReviewRagToml':
+    case 'corpusAnswerImageReviewRagToml':
+    case 'corpusQuestionImageReviewRagToml':
       return parseCorpusReviewRagStem(stem);
     case 'focusCorpusPrimaryTopicAnswerRagToml':
     case 'corpusPrimaryTopicAnswerRagToml':

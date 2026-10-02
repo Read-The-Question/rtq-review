@@ -3,7 +3,7 @@
 import Link from 'next/link';
 import { useMemo, useSyncExternalStore } from 'react';
 
-import type { ReviewSide } from '@rtq/review-store/types';
+import { REVIEW_SIDES, type ReviewSide } from '@rtq/review-store/types';
 
 import type {
   ReviewWorkGroup,
@@ -12,10 +12,11 @@ import type {
 } from '@/lib/review-work';
 import { reviewStateLabel } from '@/lib/review-view-model';
 
-type ReviewWorkScope = 'all' | 'answer' | 'question';
-
-const SCOPE_KEY = 'rtq.review-content.change-requests-scope.v1';
+const LEGACY_SCOPE_KEY = 'rtq.review-content.change-requests-scope.v1';
+const SIDE_SELECTION_KEY =
+  'rtq.review-content.change-requests-side-selection.v2';
 const LIFECYCLE_KEY = 'rtq.review-content.change-requests-lifecycle.v1';
+const ALL_SIDES = REVIEW_SIDES.join(',');
 
 function subscribeToPreference(key: string, onStoreChange: () => void) {
   window.addEventListener('storage', onStoreChange);
@@ -26,17 +27,27 @@ function subscribeToPreference(key: string, onStoreChange: () => void) {
   };
 }
 
-function subscribeToScope(onStoreChange: () => void) {
-  return subscribeToPreference(SCOPE_KEY, onStoreChange);
+function subscribeToSideSelection(onStoreChange: () => void) {
+  return subscribeToPreference(SIDE_SELECTION_KEY, onStoreChange);
 }
 
 function subscribeToLifecycle(onStoreChange: () => void) {
   return subscribeToPreference(LIFECYCLE_KEY, onStoreChange);
 }
 
-function storedScope(): ReviewWorkScope {
-  const value = window.localStorage.getItem(SCOPE_KEY);
-  return value === 'question' || value === 'answer' ? value : 'all';
+function storedSideSelection(): string {
+  const stored = window.localStorage.getItem(SIDE_SELECTION_KEY);
+  if (stored !== null) {
+    if (stored === '') return '';
+    const selected = new Set(stored.split(','));
+    const normalized = REVIEW_SIDES.filter((side) => selected.has(side));
+    return normalized.length > 0 ? normalized.join(',') : ALL_SIDES;
+  }
+
+  const legacyScope = window.localStorage.getItem(LEGACY_SCOPE_KEY);
+  if (legacyScope === 'question') return 'question,question-image';
+  if (legacyScope === 'answer') return 'answer,answer-image';
+  return ALL_SIDES;
 }
 
 function storedLifecycle(): ReviewWorkLifecycle {
@@ -52,10 +63,6 @@ const SIDE_LABELS: Readonly<Record<ReviewSide, string>> = {
   'question-image': 'Question image',
 };
 
-function sideMatchesScope(side: ReviewSide, scope: ReviewWorkScope) {
-  return scope === 'all' || side.startsWith(scope);
-}
-
 function reviewDate(value: string) {
   return new Intl.DateTimeFormat('en-GB', {
     dateStyle: 'medium',
@@ -64,7 +71,7 @@ function reviewDate(value: string) {
 }
 
 function itemCount(state: ReviewWorkStateGroup) {
-  return state.comments.length + (state.changeRequest ? 1 : 0);
+  return state.comments.length;
 }
 
 function SourceFiles({
@@ -97,10 +104,10 @@ export function ChangeRequestInbox({
 }: {
   groups: readonly ReviewWorkGroup[];
 }) {
-  const scope = useSyncExternalStore<ReviewWorkScope>(
-    subscribeToScope,
-    storedScope,
-    () => 'all',
+  const sideSelection = useSyncExternalStore<string>(
+    subscribeToSideSelection,
+    storedSideSelection,
+    () => ALL_SIDES,
   );
   const lifecycle = useSyncExternalStore<ReviewWorkLifecycle>(
     subscribeToLifecycle,
@@ -108,22 +115,34 @@ export function ChangeRequestInbox({
     () => 'active',
   );
 
+  const selectedSides = useMemo(
+    () =>
+      new Set(
+        sideSelection
+          .split(',')
+          .filter((side): side is ReviewSide =>
+            (REVIEW_SIDES as readonly string[]).includes(side),
+          ),
+      ),
+    [sideSelection],
+  );
+
   const counts = useMemo(() => {
     const result = { active: 0, archived: 0 };
     for (const group of groups) {
       for (const lane of group.lanes) {
-        if (!sideMatchesScope(lane.side, scope)) continue;
+        if (!selectedSides.has(lane.side)) continue;
         for (const state of lane.states) {
           result[state.lifecycle] += itemCount(state);
         }
       }
     }
     return result;
-  }, [groups, scope]);
+  }, [groups, selectedSides]);
 
   const visibleGroups = groups.flatMap((group): readonly ReviewWorkGroup[] => {
     const lanes = group.lanes.flatMap((lane) => {
-      if (!sideMatchesScope(lane.side, scope)) return [];
+      if (!selectedSides.has(lane.side)) return [];
       const states = lane.states.filter(
         (state) => state.lifecycle === lifecycle,
       );
@@ -132,9 +151,18 @@ export function ChangeRequestInbox({
     return lanes.length > 0 ? [{ ...group, lanes }] : [];
   });
 
-  function selectScope(nextScope: ReviewWorkScope) {
-    window.localStorage.setItem(SCOPE_KEY, nextScope);
-    window.dispatchEvent(new Event(SCOPE_KEY));
+  function toggleSide(side: ReviewSide) {
+    const nextSelection = new Set(selectedSides);
+    if (nextSelection.has(side)) {
+      nextSelection.delete(side);
+    } else {
+      nextSelection.add(side);
+    }
+    const stored = REVIEW_SIDES.filter((value) =>
+      nextSelection.has(value),
+    ).join(',');
+    window.localStorage.setItem(SIDE_SELECTION_KEY, stored);
+    window.dispatchEvent(new Event(SIDE_SELECTION_KEY));
   }
 
   function selectLifecycle(nextLifecycle: ReviewWorkLifecycle) {
@@ -150,19 +178,19 @@ export function ChangeRequestInbox({
           <h2 id="change-list-title">Change requests & comments</h2>
         </div>
         <div className="inbox-filter-row">
-          <div className="inbox-segmented" aria-label="Review target">
-            {(['all', 'question', 'answer'] as const).map((value) => (
+          <div
+            className="inbox-segmented"
+            role="group"
+            aria-label="Review targets"
+          >
+            {REVIEW_SIDES.map((side) => (
               <button
-                aria-pressed={scope === value}
-                key={value}
-                onClick={() => selectScope(value)}
+                aria-pressed={selectedSides.has(side)}
+                key={side}
+                onClick={() => toggleSide(side)}
                 type="button"
               >
-                {value === 'all'
-                  ? 'All'
-                  : value === 'question'
-                    ? 'Question + image'
-                    : 'Answer + image'}
+                {SIDE_LABELS[side]}
               </button>
             ))}
           </div>
@@ -183,13 +211,13 @@ export function ChangeRequestInbox({
       </div>
 
       <p className="inbox-rule-note">
-        Active items match the question’s current RAG state. When the source
-        state advances, the stored review work moves to Archived automatically.
+        Active comments match the question’s current RAG state. When the source
+        state advances, those comments move to Archived automatically.
       </p>
 
       {visibleGroups.length === 0 ? (
         <div className="inbox-empty">
-          <strong>No {lifecycle} review work matches this view.</strong>
+          <strong>No {lifecycle} comments match this view.</strong>
           <p>Try another target filter or lifecycle.</p>
         </div>
       ) : (
@@ -238,18 +266,6 @@ export function ChangeRequestInbox({
                                   .join(', ')
                               : 'source not found'}
                           </p>
-                        ) : null}
-                        {state.changeRequest ? (
-                          <article className="review-entry review-entry--request">
-                            <div>
-                              <strong>Change requested</strong>
-                              <span>PRCR</span>
-                            </div>
-                            <p>
-                              Recorded by {state.changeRequest.reviewer} ·{' '}
-                              {reviewDate(state.changeRequest.updatedAt)}
-                            </p>
-                          </article>
                         ) : null}
                         {state.comments.map((comment) => (
                           <article className="review-entry" key={comment.id}>

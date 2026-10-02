@@ -70,8 +70,12 @@ test('registers focused image RAG folders as mergeable working collections', () 
   }
 });
 
-test('registers focused review RAG folders as mergeable working collections', () => {
+test('registers corpus review RAG folders as mergeable working collections', () => {
   for (const folderKey of [
+    'corpusQuestionReviewRagToml',
+    'corpusAnswerReviewRagToml',
+    'corpusQuestionImageReviewRagToml',
+    'corpusAnswerImageReviewRagToml',
     'focusCorpusQuestionReviewRagToml',
     'focusCorpusAnswerReviewRagToml',
     'focusCorpusQuestionImageReviewRagToml',

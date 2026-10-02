@@ -25,6 +25,16 @@ const COLLECTION_COPY: Record<
     description: 'Corpus questions grouped by answer RAG',
     label: 'Corpus Answer RAG',
   },
+  corpusAnswerImageReviewRagToml: {
+    description:
+      'Corpus PRCR and PRCC questions grouped by answer-image RAG and review outcome',
+    label: 'Corpus Answer Image Review RAG',
+  },
+  corpusAnswerReviewRagToml: {
+    description:
+      'Corpus PRCR and PRCC questions grouped by answer RAG and review outcome',
+    label: 'Corpus Answer Review RAG',
+  },
   corpusPrimaryTopicAnswerRagToml: {
     description: 'Corpus questions grouped by primary topic and answer RAG',
     label: 'Corpus Primary Topic Answer RAG',
@@ -36,6 +46,16 @@ const COLLECTION_COPY: Record<
   corpusQuestionRagToml: {
     description: 'Corpus questions grouped by question RAG',
     label: 'Corpus Question RAG',
+  },
+  corpusQuestionImageReviewRagToml: {
+    description:
+      'Corpus PRCR and PRCC questions grouped by question-image RAG and review outcome',
+    label: 'Corpus Question Image Review RAG',
+  },
+  corpusQuestionReviewRagToml: {
+    description:
+      'Corpus PRCR and PRCC questions grouped by question RAG and review outcome',
+    label: 'Corpus Question Review RAG',
   },
   focusCorpusAnswerRagToml: {
     description: 'Focused corpus questions grouped by answer RAG',

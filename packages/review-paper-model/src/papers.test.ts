@@ -30,6 +30,10 @@ const registeredCollections = [
   'corpusAllTopicsToml',
   'corpusQuestionRagToml',
   'corpusAnswerRagToml',
+  'corpusQuestionReviewRagToml',
+  'corpusAnswerReviewRagToml',
+  'corpusQuestionImageReviewRagToml',
+  'corpusAnswerImageReviewRagToml',
   'focusCorpusQuestionRagToml',
   'focusCorpusAnswerRagToml',
   'focusCorpusQuestionImageRagToml',
@@ -161,12 +165,26 @@ test('indexes focused question-image and answer-image RAG filenames', async () =
   }
 });
 
-test('indexes focused review RAG filenames by content and review state', async () => {
+test('indexes corpus and focused review RAG filenames by content and review state', async () => {
   const root = createContentWorkspace([
     'toml',
+    'corpusAnswerReviewRagToml',
+    'corpusQuestionImageReviewRagToml',
     'focusCorpusQuestionReviewRagToml',
     'focusCorpusAnswerImageReviewRagToml',
   ]);
+  writePaper(
+    root,
+    'corpusAnswerReviewRagToml',
+    'corpus_answer_review_rag_ng4_prcc_1.toml',
+    simplePaper,
+  );
+  writePaper(
+    root,
+    'corpusQuestionImageReviewRagToml',
+    'corpus_question_image_review_rag_ng5_prcr_1.toml',
+    simplePaper,
+  );
   writePaper(
     root,
     'focusCorpusQuestionReviewRagToml',
@@ -191,6 +209,8 @@ test('indexes focused review RAG filenames by content and review state', async (
           : [],
       ),
       [
+        ['corpusAnswerReviewRagToml', 'NG4 / PRCC'],
+        ['corpusQuestionImageReviewRagToml', 'NG5 / PRCR'],
         ['focusCorpusQuestionReviewRagToml', 'NG3 / PRCR'],
         ['focusCorpusAnswerImageReviewRagToml', 'NG2 / PRNS'],
       ],

@@ -11,6 +11,10 @@ const cssUrl = new URL('../app/globals.css', import.meta.url);
 const homeUrl = new URL('../app/page.tsx', import.meta.url);
 const paperIndexUrl = new URL('../components/paper-index.tsx', import.meta.url);
 const browserUrl = new URL('../components/file-browser.tsx', import.meta.url);
+const changeRequestInboxUrl = new URL(
+  '../components/change-request-inbox.tsx',
+  import.meta.url,
+);
 const macrosPageUrl = new URL('../app/macros/page.tsx', import.meta.url);
 const macrosListUrl = new URL(
   '../components/macro-review-list.tsx',
@@ -31,6 +35,20 @@ const corpusSearchRouteUrl = new URL(
   '../app/api/papers/corpus-search/route.ts',
   import.meta.url,
 );
+
+test('the change-request queue counts and renders comment records only', async () => {
+  const inbox = await fs.readFile(changeRequestInboxUrl, 'utf8');
+
+  assert.match(inbox, /return state\.comments\.length;/);
+  assert.match(inbox, /state\.comments\.map/);
+  assert.match(inbox, /REVIEW_SIDES\.map/);
+  assert.match(inbox, /aria-label="Review targets"/);
+  assert.match(inbox, /aria-pressed=\{selectedSides\.has\(side\)\}/);
+  assert.match(inbox, /SIDE_LABELS\[side\]/);
+  assert.doesNotMatch(inbox, /Question \+ image|Answer \+ image/);
+  assert.doesNotMatch(inbox, /state\.changeRequest/);
+  assert.doesNotMatch(inbox, /Change requested/);
+});
 
 test('display preferences separate the active side from inline visibility', async () => {
   const component = await fs.readFile(componentUrl, 'utf8');
@@ -739,6 +757,7 @@ test('the landing page uses a compact paper-first introduction', async () => {
   assert.match(browser, /id: 'focus-papers', label: 'Papers'/);
   assert.match(browser, /id: 'focus-corpus', label: 'Corpus'/);
   assert.match(browser, /id: 'focus-rag', label: 'RAG'/);
+  assert.match(browser, /id: 'corpus-review-rag'/);
   assert.match(browser, /id: 'focus-review-rag'/);
   assert.match(browser, /label: 'Review RAG'/);
   assert.match(browser, /window\.history\.replaceState/);

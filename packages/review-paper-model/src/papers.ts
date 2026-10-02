@@ -230,13 +230,17 @@ function groupingFromStem(
   }
 
   if (
+    collectionId === 'corpusQuestionReviewRagToml' ||
+    collectionId === 'corpusAnswerReviewRagToml' ||
+    collectionId === 'corpusQuestionImageReviewRagToml' ||
+    collectionId === 'corpusAnswerImageReviewRagToml' ||
     collectionId === 'focusCorpusQuestionReviewRagToml' ||
     collectionId === 'focusCorpusAnswerReviewRagToml' ||
     collectionId === 'focusCorpusQuestionImageReviewRagToml' ||
     collectionId === 'focusCorpusAnswerImageReviewRagToml'
   ) {
     const match =
-      /^focus_corpus_(?:question|answer)(?:_image)?_review_rag_([^_]+)_([^_]+)_\d+$/i.exec(
+      /^(?:focus_)?corpus_(?:question|answer)(?:_image)?_review_rag_([^_]+)_([^_]+)_\d+$/i.exec(
         stem,
       );
     return match

@@ -25,8 +25,8 @@ export default async function ChangeRequestsPage() {
           <p className="eyebrow">Review operations</p>
           <h1>Change requests & comments</h1>
           <p>
-            All actionable PRCR outcomes and review comments, grouped around the
-            question UUID they belong to.
+            Review comments grouped around the question UUID they belong to.
+            Each comment is one actionable item.
           </p>
         </div>
         <nav className="review-work-switcher" aria-label="Review work views">

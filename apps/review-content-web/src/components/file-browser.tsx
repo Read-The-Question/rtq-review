@@ -52,7 +52,13 @@ function collectionNavigationSections(
     (collection) =>
       !collection.id.startsWith('focus') &&
       !collection.id.startsWith('exemplars') &&
-      collection.id !== 'paperAnswerRagToml',
+      collection.id !== 'paperAnswerRagToml' &&
+      !collection.id.endsWith('ReviewRagToml'),
+  );
+  const corpusReviewRag = collections.filter(
+    (collection) =>
+      collection.id.startsWith('corpus') &&
+      collection.id.endsWith('ReviewRagToml'),
   );
   const focusPapers = collections.filter(
     (collection) => collection.id === 'focusPaperToml',
@@ -84,7 +90,14 @@ function collectionNavigationSections(
     {
       id: 'collections',
       label: 'Collections',
-      subsections: [{ collections: canonicalCollections, id: 'collections' }],
+      subsections: [
+        { collections: canonicalCollections, id: 'collections' },
+        {
+          collections: corpusReviewRag,
+          id: 'corpus-review-rag',
+          label: 'Review RAG',
+        },
+      ],
     },
     {
       id: 'focus',

@@ -38,6 +38,7 @@ const PAPER_IMAGE_AUTHORED_ATTRIBUTES = [
   'align',
   'assetScope',
   'displaySize',
+  'family',
   'indent',
   'kind',
 ] as const;
@@ -733,7 +734,7 @@ function replacePaperImages(
     );
     if (unknownAttribute) {
       throw new Error(
-        `PaperImage must not author ${unknownAttribute}; allowed authored attributes are assetScope, kind, displaySize, align, and indent.`,
+        `PaperImage must not author ${unknownAttribute}; allowed authored attributes are assetScope, kind, family, displaySize, align, and indent.`,
       );
     }
     if (match.startsWith('<PaperImage') && attrs.assetScope !== expectedScope) {

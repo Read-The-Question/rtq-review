@@ -7,6 +7,13 @@ application serves external PaperImage binaries directly from the canonical
 paper-asset mirror. Generated LongDivision markup is already embedded in the
 Markdown.
 
+The source `PaperImage` may carry optional `family="venn"` authoring metadata.
+The shared Ruby export accepts and drops it before producing review Markdown
+(also used by the legacy Gatsby path), so this app needs no rendering prop or
+tag validation. Regenerate review Markdown after a source edit; this does not
+require changing the image binary. See the assets-owned
+[image dimensional tag contract](https://github.com/Read-The-Question/rtq-content/blob/develop/packages/assets/docs/architecture/image-dimensional-tags.md).
+
 The review API defaults to `http://localhost:4567` and is available in this
 workspace at `../review-api`. `pnpm dev:remote` uses the configured RTQ review
 ngrok endpoint instead.

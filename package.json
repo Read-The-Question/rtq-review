@@ -7,7 +7,7 @@
     "node": "24.19.0"
   },
   "scripts": {
-    "docs-web:dev": "pnpm --filter rtq-docs-web dev --port 3005",
+    "docs-web:dev": "pnpm --filter rtq-docs-web dev --port 3004",
     "format:check": "pnpm --filter rtq-review-content-web format:check && pnpm --filter @rtq/review-paper-model format:check && pnpm --filter @rtq/review-paper-markdown format:check && pnpm --filter @rtq/review-katex-options format:check && pnpm --filter @rtq/review-store format:check",
     "lint:check": "pnpm --filter rtq-review-content-web lint:check",
     "repository-paths:test": "pnpm --filter @rtq/review-repository-paths test",

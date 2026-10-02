@@ -27,6 +27,9 @@ function preserveRawMarkup() {
 
 export default defineConfig({
   mdxOptions: {
+    rehypeCodeOptions: {
+      fallbackLanguage: "xml",
+    },
     rehypePlugins: (plugins) => [preserveRawMarkup, ...plugins],
   },
 });

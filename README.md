@@ -66,12 +66,12 @@ Run an application from the workspace root on its assigned port:
 pnpm review-content-web:dev          # http://localhost:3001
 pnpm review-tag-web:dev              # http://localhost:3002
 pnpm review-question-viewer-web:dev  # http://localhost:3003
-pnpm docs-web:dev                    # http://localhost:3005/docs
+pnpm docs-web:dev                    # http://localhost:3004/docs
 ```
 
 Port `3000` remains reserved for the main RTQ website. Review Content Web uses
 `3001`, Review Tag Web uses `3002`, Review Question Viewer uses `3003`, and
-Docs Web uses `3005`. See each application README for its content, asset, and
+Docs Web uses `3004`. See each application README for its content, asset, and
 runtime prerequisites.
 
 The same applications can be started from the workspace root:

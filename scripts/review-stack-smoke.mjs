@@ -9,7 +9,7 @@ const targets = [
   {
     label: "RTQ Docs Web",
     pattern: /RTQ Docs/,
-    url: process.env.RTQ_REVIEW_DOCS_URL ?? "http://127.0.0.1:3005/docs",
+    url: process.env.RTQ_REVIEW_DOCS_URL ?? "http://127.0.0.1:3004/docs",
   },
 ];
 

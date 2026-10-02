@@ -534,24 +534,6 @@ function ragStateFromRecordValue(
   };
 }
 
-function sheetCodeFromRag(value: string | null | undefined) {
-  if (!value?.trim()) {
-    return null;
-  }
-
-  const state = ragStateFromValue(value);
-
-  if (state === 'notstarted' || state === 'ns') {
-    return 'NS';
-  }
-
-  if (state === 'g0' || /^ng[0-8]$/.test(state)) {
-    return state.toUpperCase();
-  }
-
-  return null;
-}
-
 function ragStatesFromRecord(
   record: Record<string, unknown>,
   isRootNode: boolean,
@@ -603,7 +585,6 @@ function reviewMetadataFromRecord(
         'outcome',
         'Answer review',
       ),
-      sheet: sheetCodeFromRag(answerSourceRag?.rawValue),
       sourceRag: answerSourceRag,
     },
     answerImage: {
@@ -616,7 +597,6 @@ function reviewMetadataFromRecord(
         'outcome',
         'Answer image review',
       ),
-      sheet: sheetCodeFromRag(answerImageSourceRag?.rawValue),
       sourceRag: answerImageSourceRag,
     },
     question: {
@@ -626,7 +606,6 @@ function reviewMetadataFromRecord(
         'outcome',
         'Question review',
       ),
-      sheet: sheetCodeFromRag(questionSourceRag?.rawValue),
       sourceRag: questionSourceRag,
     },
     questionImage: {
@@ -639,7 +618,6 @@ function reviewMetadataFromRecord(
         'outcome',
         'Question image review',
       ),
-      sheet: sheetCodeFromRag(questionImageSourceRag?.rawValue),
       sourceRag: questionImageSourceRag,
     },
   };

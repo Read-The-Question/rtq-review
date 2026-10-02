@@ -1,7 +1,6 @@
 import assert from 'node:assert/strict';
 import test from 'node:test';
 
-import { forwardReviewOutcome } from './review-outcomes.ts';
 import { reviewCommentIdentitiesForPaper } from './review-comments.ts';
 import {
   assertReviewCommentTargetCurrent,
@@ -27,7 +26,6 @@ import {
   reviewCommentTargetForNode,
   reviewTargetForNode,
   runUniqueReviewRequest,
-  sheetCodeFromSourceRag,
   type ReviewTargetDescriptor,
 } from './review-types.ts';
 import type { ReviewPaper, ReviewPaperNode } from '@rtq/review-paper-model';
@@ -38,7 +36,6 @@ const target: ReviewTargetDescriptor = {
   questionId: 'paper:1:1',
   ragState: 'rag_wf_ng3',
   relativePath: 'paper.toml',
-  sheet: 'NG3',
   side: 'question',
   uuid: 'D8AE66C1-9AB8-4C7F-A023-1C17B53237CF',
 };
@@ -102,19 +99,12 @@ test('maps canonical request values to the agreed reviewer-facing labels', () =>
   assert.equal(reviewOutcomeTone('PRCS'), 'coming-soon');
 });
 
-test('normalizes source states and derives only supported sheet routes', () => {
+test('normalizes source states', () => {
   assert.equal(normalizeSourceRag('NG-4'), 'rag_wf_ng4');
   assert.equal(normalizeSourceRag('rag_wf_notstarted'), 'rag_wf_notstarted');
-  assert.equal(sheetCodeFromSourceRag('rag_wf_notstarted'), 'NS');
-  assert.equal(sheetCodeFromSourceRag('RAG_WF_G0'), 'G0');
-  assert.equal(sheetCodeFromSourceRag('rag_wf_ng0'), 'NG0');
-  assert.equal(sheetCodeFromSourceRag('rag_wf_ng8'), 'NG8');
-  assert.equal(sheetCodeFromSourceRag('rag_wf_blocked'), null);
-  assert.equal(sheetCodeFromSourceRag('rag_wf_g4'), null);
-  assert.equal(sheetCodeFromSourceRag('rag_wf_green'), null);
 });
 
-test('resolves destination-specific displayed outcomes from live overrides', () => {
+test('resolves displayed outcomes from live database overrides', () => {
   const node = {
     depth: 0,
     id: target.nodeId,
@@ -134,22 +124,15 @@ test('resolves destination-specific displayed outcomes from live overrides', () 
     relativePath: target.relativePath,
   };
 
+  assert.equal(displayedReviewOutcome(node, 'question', source, {}), undefined);
   assert.equal(
-    displayedReviewOutcome(node, 'question', source, 'database', {}),
-    undefined,
-  );
-  assert.equal(
-    displayedReviewOutcome(node, 'question', source, 'google-sheets', {}),
-    'PRCR',
-  );
-  assert.equal(
-    displayedReviewOutcome(node, 'question', source, 'database', {
+    displayedReviewOutcome(node, 'question', source, {
       [`${target.uuid}:question`]: 'PRG',
     }),
     'PRG',
   );
   assert.equal(
-    displayedReviewOutcome(node, 'question', source, 'database', {
+    displayedReviewOutcome(node, 'question', source, {
       [`${target.uuid}:question`]: null,
     }),
     null,
@@ -292,7 +275,6 @@ test('uses each nested node UUID and only inherits RAG from its top-level questi
   assert.equal(questionTarget?.ragState, 'rag_wf_ng3');
   assert.equal(answerTarget?.uuid, nested.uuid);
   assert.equal(answerTarget?.ragState, 'rag_wf_g0');
-  assert.equal(questionTarget?.sheet, null);
 });
 
 test('uses canonical source identity for virtual corpus result nodes', () => {
@@ -343,7 +325,6 @@ test('uses canonical source identity for virtual corpus result nodes', () => {
     questionId: null,
     ragState: 'rag_wf_ng3',
     relativePath: 'school/canonical-paper.toml',
-    sheet: 'NG3',
     side: 'question',
     uuid: topLevel.uuid,
   });
@@ -589,15 +570,6 @@ test('accepts every API outcome and rejects malformed mutation input', () => {
       parseReviewOutcomeRequest({
         outcome: 'PRG',
         reviewer: 'up',
-        target: { ...target, sheet: 'OTHER' },
-      }),
-    ReviewRequestError,
-  );
-  assert.throws(
-    () =>
-      parseReviewOutcomeRequest({
-        outcome: 'PRG',
-        reviewer: 'up',
         target: { ...target, uuid: 'not-a-uuid' },
       }),
     ReviewRequestError,
@@ -645,16 +617,6 @@ test('accepts every API outcome and rejects malformed mutation input', () => {
         reviewer: 'up',
         submissionId: 'submission-1',
         target: commentTarget,
-      }),
-    ReviewRequestError,
-  );
-  assert.throws(
-    () =>
-      parseReviewCommentRequest({
-        comment: 'Valid local feedback',
-        reviewer: 'up',
-        submissionId: 'submission-1',
-        target,
       }),
     ReviewRequestError,
   );
@@ -728,7 +690,6 @@ test('rejects stale or spoofed target identity and state snapshots', () => {
     { uuid: 'other-uuid' },
     { side: 'answer' as const },
     { ragState: 'rag_wf_ng4' },
-    { sheet: 'NG4' },
   ] as const) {
     assert.throws(
       () => assertReviewTargetCurrent({ ...target, ...changed }, target),
@@ -745,123 +706,4 @@ test('rejects stale or spoofed target identity and state snapshots', () => {
     (error: unknown) =>
       error instanceof ReviewRequestError && error.status === 409,
   );
-});
-
-test('maps question and answer outcomes and forwards only API-required fields', async () => {
-  const requests: Array<{ body: unknown; url: string }> = [];
-  const fetcher: typeof fetch = async (input, init) => {
-    requests.push({
-      body: JSON.parse(String(init?.body)),
-      url: String(input),
-    });
-    return Response.json({ status: 'success' });
-  };
-  for (const outcome of REVIEW_OUTCOMES) {
-    await forwardReviewOutcome(
-      { outcome, reviewer: 'up', target },
-      { baseUrl: 'http://review.test/', fetcher },
-    );
-  }
-  await forwardReviewOutcome(
-    {
-      outcome: 'PRCR',
-      reviewer: 'wf',
-      target: { ...target, side: 'answer' },
-    },
-    { baseUrl: 'http://review.test', fetcher },
-  );
-  await forwardReviewOutcome(
-    {
-      outcome: 'PRCR',
-      reviewer: 'wf',
-      target: { ...target, side: 'question-image' },
-    },
-    { baseUrl: 'http://review.test', fetcher },
-  );
-  const reset = await forwardReviewOutcome(
-    { outcome: null, reviewer: 'ap', target },
-    { baseUrl: 'http://review.test', fetcher },
-  );
-  assert.deepEqual(
-    requests.slice(0, REVIEW_OUTCOMES.length).map((request) => request.url),
-    REVIEW_OUTCOMES.map(() => 'http://review.test/questionrag'),
-  );
-  assert.deepEqual(
-    requests.slice(0, REVIEW_OUTCOMES.length).map((request) => request.body),
-    REVIEW_OUTCOMES.map((outcome) => ({
-      rag: outcome,
-      reviewer: 'up',
-      sheet: 'NG3',
-      uuid: 'D8AE66C1-9AB8-4C7F-A023-1C17B53237CF',
-    })),
-  );
-  assert.deepEqual(requests.at(-1), {
-    body: {
-      rag: '',
-      reviewer: 'ap',
-      sheet: 'NG3',
-      uuid: 'D8AE66C1-9AB8-4C7F-A023-1C17B53237CF',
-    },
-    url: 'http://review.test/questionrag',
-  });
-  assert.deepEqual(requests.at(-2), {
-    body: {
-      rag: 'PRCR',
-      reviewer: 'wf',
-      sheet: 'NG3',
-      uuid: 'D8AE66C1-9AB8-4C7F-A023-1C17B53237CF',
-    },
-    url: 'http://review.test/questionimagerag',
-  });
-  assert.deepEqual(requests.at(-3), {
-    body: {
-      rag: 'PRCR',
-      reviewer: 'wf',
-      sheet: 'NG3',
-      uuid: 'D8AE66C1-9AB8-4C7F-A023-1C17B53237CF',
-    },
-    url: 'http://review.test/rag',
-  });
-  assert.equal(reset.message, 'Review request reset in Google Sheets.');
-});
-
-test('returns safe upstream and connection failures', async () => {
-  const noRoute = await forwardReviewOutcome(
-    { outcome: 'PRG', reviewer: 'up', target: { ...target, sheet: null } },
-    {
-      baseUrl: 'http://review.test',
-      fetcher: async () => {
-        throw new Error('Fetcher must not run without sheet routing.');
-      },
-    },
-  );
-  assert.deepEqual(noRoute, {
-    message: 'No Google Sheets route is available.',
-    status: 409,
-  });
-  const upstream = await forwardReviewOutcome(
-    { outcome: 'PRG', reviewer: 'up', target },
-    {
-      baseUrl: 'http://review.test',
-      fetcher: async () =>
-        new Response('<html>secret error</html>', { status: 500 }),
-    },
-  );
-  assert.deepEqual(upstream, {
-    message: 'The review service rejected the outcome.',
-    status: 500,
-  });
-  const unavailable = await forwardReviewOutcome(
-    { outcome: 'PRG', reviewer: 'up', target },
-    {
-      baseUrl: 'http://review.test',
-      fetcher: async () => {
-        throw new Error('/private/path/credential');
-      },
-    },
-  );
-  assert.deepEqual(unavailable, {
-    message: 'The local review API could not be reached.',
-    status: 502,
-  });
 });

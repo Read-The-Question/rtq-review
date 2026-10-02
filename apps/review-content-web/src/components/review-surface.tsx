@@ -85,7 +85,6 @@ import {
   type LocalReviewComment,
   type ImageReviewMetadata,
   type ReviewCommentLoad,
-  type ReviewOutcomeDestination,
   type ReviewOutcomeLoad,
   type ReviewOutcomeSelection,
   type ReviewSide,
@@ -265,7 +264,6 @@ type ReviewRuntimeState = Readonly<{
   commentError?: string;
   comments: readonly LocalReviewComment[];
   imageMetadataOverrides: Readonly<Record<string, ImageReviewMetadata>>;
-  outcomeDestination: ReviewOutcomeDestination;
   outcomeError?: string;
   outcomeOverrides: Readonly<Record<string, ReviewOutcomeSelection>>;
   pendingKeys: ReadonlySet<string>;
@@ -346,7 +344,6 @@ function reviewStatusRails(
       node,
       side,
       runtime.source,
-      runtime.outcomeDestination,
       runtime.outcomeOverrides,
     );
     return [{ outcome, side, tone: reviewStatusTone(outcome) }];
@@ -511,7 +508,6 @@ function ReviewScope({
     node,
     side,
     runtime.source,
-    runtime.outcomeDestination,
     runtime.outcomeOverrides,
   );
   const selectedImageSide = imageReviewSide(side);
@@ -528,11 +524,7 @@ function ReviewScope({
     : undefined;
   const outcomeDisabledReason = !target
     ? targetUnavailableReason(node, topLevelQuestion, side)
-    : runtime.outcomeError
-      ? runtime.outcomeError
-      : runtime.outcomeDestination === 'google-sheets' && !target.sheet
-        ? `Source state ${reviewStateLabel(target.ragState)} has no Google Sheets route.`
-        : undefined;
+    : runtime.outcomeError;
   const commentDisabledReason = !target
     ? targetUnavailableReason(node, topLevelQuestion, side)
     : runtime.commentError;
@@ -640,13 +632,6 @@ function ReviewScope({
                     : 'No request'}
                 </dd>
               </div>
-              {controlMode === 'advanced' &&
-              runtime.outcomeDestination === 'google-sheets' ? (
-                <div>
-                  <dt>Sheet</dt>
-                  <dd>{target?.sheet ?? 'Unavailable'}</dd>
-                </div>
-              ) : null}
             </>
           ) : null}
         </dl>
@@ -1156,7 +1141,6 @@ function ImageReviewStatusBlock({
     node,
     side,
     runtime.source,
-    runtime.outcomeDestination,
     runtime.outcomeOverrides,
   );
   const state = node.review[side];
@@ -2508,7 +2492,6 @@ export function ReviewSurface({
                     question,
                     side,
                     source,
-                    outcomeLoad.destination,
                     outcomeOverrides,
                   ) ?? null)
                 : undefined;
@@ -2526,7 +2509,7 @@ export function ReviewSurface({
         ),
       ),
     };
-  }, [outcomeLoad.destination, outcomeLoad.error, outcomeOverrides, paper]);
+  }, [outcomeLoad.error, outcomeOverrides, paper]);
   const result = useMemo(
     () =>
       filterReviewPaper(
@@ -2593,9 +2576,6 @@ export function ReviewSurface({
       return 'The current question does not have a reviewable UUID and RAG state.';
     }
     if (outcomeLoad.error) return outcomeLoad.error;
-    if (outcomeLoad.destination === 'google-sheets' && !target.sheet) {
-      return `Source state ${reviewStateLabel(target.ragState)} has no Google Sheets route.`;
-    }
     return undefined;
   }
   function toolbarOutcomePending(side: ReviewSide): boolean {
@@ -2610,7 +2590,6 @@ export function ReviewSurface({
           currentCursor.topLevelQuestion,
           side,
           reviewSource,
-          outcomeLoad.destination,
           outcomeOverrides,
         )
       : undefined;
@@ -2837,7 +2816,6 @@ export function ReviewSurface({
       appendComment,
       commentError: commentLoad.error,
       comments,
-      outcomeDestination: outcomeLoad.destination,
       outcomeError: outcomeLoad.error,
       outcomeOverrides,
       imageMetadataOverrides,
@@ -2855,7 +2833,6 @@ export function ReviewSurface({
       appendComment,
       commentLoad.error,
       comments,
-      outcomeLoad.destination,
       outcomeLoad.error,
       outcomeOverrides,
       imageMetadataOverrides,
@@ -3471,7 +3448,7 @@ export function ReviewSurface({
       className={`paper-shell${visiblePdf ? ' paper-shell--with-pdf' : ''}`}
       id="paper-top"
     >
-      <SiteHeader compact outcomeDestination={outcomeLoad.destination} />
+      <SiteHeader compact showReviewStorage />
       {preferences.showMetadata ? (
         <header className="paper-summary">
           <nav className="paper-breadcrumb" aria-label="Paper location">

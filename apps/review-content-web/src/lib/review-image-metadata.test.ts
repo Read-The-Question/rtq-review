@@ -11,7 +11,6 @@ const target = {
   questionId: 'paper:1:1',
   ragState: 'rag_wf_ng2',
   relativePath: 'paper.toml',
-  sheet: 'NG2' as const,
   side: 'question-image' as const,
   uuid: 'D8AE66C1-9AB8-4C7F-A023-1C17B53237CF',
 };

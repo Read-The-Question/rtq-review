@@ -1,7 +1,3 @@
-import {
-  reviewApiBaseUrl,
-  reviewOutcomeDestination,
-} from '@/lib/review-api-config';
 import { submitReviewOutcome } from '@/lib/review-outcomes';
 import {
   parseReviewOutcomeRequest,
@@ -16,17 +12,13 @@ export async function POST(request: Request) {
   try {
     const input = parseReviewOutcomeRequest(await request.json());
     const target = await resolveVerifiedReviewTarget(input.target);
-    const destination = reviewOutcomeDestination();
-    const result = await submitReviewOutcome(
-      { ...input, target },
-      { baseUrl: reviewApiBaseUrl, destination },
-    );
+    const result = await submitReviewOutcome({ ...input, target });
     return Response.json(
       {
         message: result.message,
         outcome: input.outcome,
         side: target.side,
-        destination,
+        destination: 'database',
       },
       { status: result.status },
     );

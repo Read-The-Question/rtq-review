@@ -15,7 +15,6 @@ import {
 
 import {
   isReviewOutcome,
-  isReviewSheetCode,
   isReviewSide,
   normalizeSourceRag,
   reviewCommentTargetForNode,
@@ -113,25 +112,9 @@ export function parseReviewMutationRequest(
   if (!isReviewSide(side)) {
     throw new ReviewRequestError('Review side is not supported.');
   }
-  const sheetValue = target.sheet;
-  if (
-    sheetValue !== null &&
-    sheetValue !== undefined &&
-    typeof sheetValue !== 'string'
-  ) {
-    throw new ReviewRequestError('Sheet must be a string or null.');
-  }
   const uuid = requiredString(target.uuid, 'UUID');
   if (!/^[0-9a-f]{8}-(?:[0-9a-f]{4}-){3}[0-9a-f]{12}$/i.test(uuid)) {
     throw new ReviewRequestError('UUID has an invalid format.');
-  }
-  let sheet: ReviewTargetDescriptor['sheet'] = null;
-  if (typeof sheetValue === 'string') {
-    const candidate = requiredString(sheetValue, 'Sheet', 8).toUpperCase();
-    if (!isReviewSheetCode(candidate)) {
-      throw new ReviewRequestError('Sheet is not supported.');
-    }
-    sheet = candidate;
   }
   return {
     reviewer: validateReviewer(body.reviewer),
@@ -143,7 +126,6 @@ export function parseReviewMutationRequest(
         requiredString(target.ragState, 'Source RAG state'),
       ),
       relativePath: requiredString(target.relativePath, 'Paper path', 2048),
-      sheet,
       side,
       uuid,
     },
@@ -229,16 +211,7 @@ export function parseReviewCommentRequest(
   value: unknown,
 ): ReviewCommentRequest {
   const body = record(value);
-  const targetBody = record(body.target);
-  if ('sheet' in targetBody) {
-    throw new ReviewRequestError(
-      'Sheet routing is not accepted for local comments.',
-    );
-  }
-  const mutation = parseReviewMutationRequest({
-    ...body,
-    target: { ...targetBody, sheet: null },
-  });
+  const mutation = parseReviewMutationRequest(body);
   const comment = requiredString(body.comment, 'Comment', 10_000);
   return {
     comment,
@@ -315,8 +288,7 @@ export function assertReviewTargetCurrent(
     requested.questionId === current.questionId &&
     requested.uuid === current.uuid &&
     requested.side === current.side &&
-    requested.ragState === current.ragState &&
-    requested.sheet === current.sheet;
+    requested.ragState === current.ragState;
   if (!matches) {
     throw new ReviewRequestError(
       'The question identity or RAG state changed. Refresh the paper before submitting.',

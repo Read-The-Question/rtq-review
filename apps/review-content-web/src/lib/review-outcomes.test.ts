@@ -10,7 +10,6 @@ import {
   type StoredReviewOutcome,
 } from '@rtq/review-store/server';
 
-import { reviewOutcomeDestination } from './review-api-config.ts';
 import {
   loadReviewOutcomesForPaper,
   submitReviewOutcome,
@@ -24,7 +23,6 @@ const target = {
   questionId: 'paper:1:1',
   ragState: 'rag_wf_ng3',
   relativePath: 'paper.toml',
-  sheet: 'NG3' as const,
   side: 'question' as const,
   uuid: 'D8AE66C1-9AB8-4C7F-A023-1C17B53237CF',
 };
@@ -127,43 +125,22 @@ function imageMetadataRepository() {
   return { records, repository, resolveCalls: () => resolveCalls };
 }
 
-test('selects one explicit outcome destination and defaults to database', () => {
-  assert.equal(reviewOutcomeDestination(undefined), 'database');
-  assert.equal(reviewOutcomeDestination(' database '), 'database');
-  assert.equal(reviewOutcomeDestination('GOOGLE-SHEETS'), 'google-sheets');
-  assert.throws(() => reviewOutcomeDestination('both'), /must be/);
-});
-
-test('database mode handles every outcome and reset without an API request', async () => {
+test('database handles every outcome and reset', async () => {
   const store = repository();
-  let fetchCalls = 0;
   for (const outcome of REVIEW_OUTCOMES) {
     const result = await submitReviewOutcome(
       { outcome, reviewer: 'up', target },
-      {
-        baseUrl: 'http://review.test',
-        destination: 'database',
-        fetcher: async () => {
-          fetchCalls += 1;
-          throw new Error('Google Sheets must not run in database mode.');
-        },
-        repository: store.repository,
-      },
+      { repository: store.repository },
     );
     assert.equal(result.status, 200);
   }
-  assert.equal(fetchCalls, 0);
   await submitReviewOutcome(
     {
       outcome: 'PRCR',
       reviewer: 'wf',
       target: { ...target, side: 'answer' },
     },
-    {
-      baseUrl: 'http://review.test',
-      destination: 'database',
-      repository: store.repository,
-    },
+    { repository: store.repository },
   );
   await submitReviewOutcome(
     {
@@ -171,11 +148,7 @@ test('database mode handles every outcome and reset without an API request', asy
       reviewer: 'ap',
       target: { ...target, ragState: 'rag_wf_ng2' },
     },
-    {
-      baseUrl: 'http://review.test',
-      destination: 'database',
-      repository: store.repository,
-    },
+    { repository: store.repository },
   );
   assert.equal(store.calls.set, REVIEW_OUTCOMES.length + 2);
   assert.equal(store.records.size, 3);
@@ -191,11 +164,7 @@ test('database mode handles every outcome and reset without an API request', asy
 
   const reset = await submitReviewOutcome(
     { outcome: null, reviewer: 'up', target },
-    {
-      baseUrl: 'http://review.test',
-      destination: 'database',
-      repository: store.repository,
-    },
+    { repository: store.repository },
   );
   assert.equal(reset.status, 200);
   assert.equal(store.calls.clear, 1);
@@ -210,27 +179,7 @@ test('database mode handles every outcome and reset without an API request', asy
   );
 });
 
-test('Google Sheets mode forwards exclusively and does not access the repository', async () => {
-  const store = repository();
-  let fetchCalls = 0;
-  const result = await submitReviewOutcome(
-    { outcome: 'PRG', reviewer: 'up', target },
-    {
-      baseUrl: 'http://review.test',
-      destination: 'google-sheets',
-      fetcher: async () => {
-        fetchCalls += 1;
-        return Response.json({ status: 'success' });
-      },
-      repository: store.repository,
-    },
-  );
-  assert.equal(result.status, 200);
-  assert.equal(fetchCalls, 1);
-  assert.deepEqual(store.calls, { clear: 0, resolve: 0, set: 0 });
-});
-
-test('reload resolves only current question and answer state in database mode', () => {
+test('reload resolves only current question and answer state', () => {
   const store = repository();
   const metadataStore = imageMetadataRepository();
   store.repository.set({
@@ -287,7 +236,7 @@ test('reload resolves only current question and answer state in database mode', 
     },
   } as unknown as ReviewPaper;
 
-  const loaded = loadReviewOutcomesForPaper(paper, 'database', {
+  const loaded = loadReviewOutcomesForPaper(paper, {
     imageMetadataRepository: metadataStore.repository,
     repository: store.repository,
   });
@@ -304,25 +253,11 @@ test('reload resolves only current question and answer state in database mode', 
   });
   assert.equal(store.calls.resolve, 1);
 
-  const sheets = loadReviewOutcomesForPaper(paper, 'google-sheets', {
-    imageMetadataRepository: metadataStore.repository,
-    repository: store.repository,
-  });
-  assert.deepEqual(sheets, {
-    destination: 'google-sheets',
-    imageMetadata: {
-      [`${target.uuid}:answer-image`]: {
-        ignored: ['decorative'],
-        types: ['generated', 'screenshot'],
-      },
-    },
-    outcomes: {},
-  });
   assert.equal(store.calls.resolve, 1);
-  assert.equal(metadataStore.resolveCalls(), 2);
+  assert.equal(metadataStore.resolveCalls(), 1);
 });
 
-test('database failures are safe and do not fall back to Google Sheets', async () => {
+test('database failures return a safe error', async () => {
   const store = repository();
   const unavailable = {
     ...store.repository,
@@ -330,22 +265,12 @@ test('database failures are safe and do not fall back to Google Sheets', async (
       throw new ReviewDatabaseError('private database detail');
     },
   };
-  let fetchCalls = 0;
   const result = await submitReviewOutcome(
     { outcome: 'PRG', reviewer: 'up', target },
-    {
-      baseUrl: 'http://review.test',
-      destination: 'database',
-      fetcher: async () => {
-        fetchCalls += 1;
-        return Response.json({ status: 'success' });
-      },
-      repository: unavailable,
-    },
+    { repository: unavailable },
   );
   assert.deepEqual(result, {
     message: 'The review database is unavailable.',
     status: 503,
   });
-  assert.equal(fetchCalls, 0);
 });

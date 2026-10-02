@@ -7,11 +7,6 @@ const targets = [
     url: process.env.RTQ_REVIEW_CONTENT_URL ?? "http://127.0.0.1:3001/",
   },
   {
-    label: "Review Markdown Web",
-    pattern: /Read The Question/,
-    url: process.env.RTQ_REVIEW_MARKDOWN_URL ?? "http://127.0.0.1:3004/",
-  },
-  {
     label: "RTQ Docs Web",
     pattern: /RTQ Docs/,
     url: process.env.RTQ_REVIEW_DOCS_URL ?? "http://127.0.0.1:3005/docs",

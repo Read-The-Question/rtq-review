@@ -2,7 +2,6 @@
 
 import { useRouter } from 'next/navigation';
 import {
-  type FormEvent,
   useCallback,
   useEffect,
   useMemo,
@@ -18,7 +17,6 @@ import type {
   QuestionNode,
   QuestionPayload,
   RagState,
-  ReviewScopeMetadata,
   SessionsResponse,
   ViewerSessionSummary,
   ViewerTarget,
@@ -33,40 +31,11 @@ const DEFAULT_SESSION_ID = '1';
 const PRIMARY_SESSION_IDS = Array.from({ length: 10 }, (_, index) =>
   String(index + 1),
 );
-const REVIEWER = 'up';
-
-const REVIEW_RAGS = [
-  { className: 'rag_prcc', label: 'PRCC', value: 'PRCC' },
-  { className: 'rag_prcc', label: 'PRPCC', value: 'PRPCC' },
-  { className: 'rag_prg', label: 'PRG', value: 'PRG' },
-  { className: 'rag_prg2', label: 'PRG2', value: 'PRG2' },
-  { className: 'rag_prcr', label: 'PRCR', value: 'PRCR' },
-  { className: 'rag_prpcr', label: 'PRPCR', value: 'PRPCR' },
-  { className: 'rag_prcs', label: 'PRCS', value: 'PRCS' },
-  { className: 'rag_prrl', label: 'PRRL', value: 'PRRL' },
-  { className: 'rag_prr', label: 'PRR', value: 'PRR' },
-  { className: 'rag_pra', label: 'PRA', value: 'PRA' },
-  { className: 'rag_prbd', label: 'PRBD', value: 'PRBD' },
-  { className: 'rag_prct', label: 'PRCT', value: 'PRCT' },
-] as const;
-
 type LoadState =
   | { error: string; kind: 'error'; target: ViewerTarget | null }
   | { kind: 'loading' }
   | { kind: 'ready'; payload: QuestionPayload; sessionId: string }
   | { kind: 'waiting' };
-
-type ReviewEndpointAction = 'comments' | 'rag' | 'reset-answer-comments';
-
-type ReviewRequestStatus = {
-  kind: 'error' | 'initial' | 'loading' | 'success';
-  message: string;
-};
-
-type ReviewOverride = {
-  comments?: string;
-  reviewRag?: string;
-};
 
 function normalizeSessionId(sessionId: string | null | undefined) {
   return sessionId?.trim() || DEFAULT_SESSION_ID;
@@ -151,59 +120,6 @@ function tagDimensionClass(tag: string) {
   if (tag.startsWith('marker.')) return 'tag-chip--marker';
   if (tag.startsWith('reasoning.')) return 'tag-chip--reasoning';
   return 'tag-chip--legacy';
-}
-
-function reviewTone(value: string): RagState['tone'] {
-  const normalized = value.trim().toLowerCase();
-
-  if (normalized === 'pr' || normalized === 'pra') return 'review-pending';
-  if (normalized === 'prcs') return 'comingsoon';
-  if (normalized === 'prr') return 'review-danger';
-  if (normalized === 'prbd') return 'blocked';
-  if (normalized === 'prg' || normalized === 'prg2') return 'review-success';
-  if (normalized === 'prcr' || normalized === 'prpcr' || normalized === 'prrl')
-    return 'review-warning';
-  if (normalized === 'prcc' || normalized === 'prpcc') return 'review-success';
-  return 'unknown';
-}
-
-function reviewStateFromOverride(value: string, label: string): RagState {
-  return {
-    key: 'review-override',
-    label,
-    rawValue: value,
-    tone: reviewTone(value),
-    value,
-  };
-}
-
-async function submitReviewRequest(
-  action: ReviewEndpointAction,
-  body: Record<string, unknown>,
-) {
-  const response = await fetch(`/api/review/${action}`, {
-    body: JSON.stringify(body),
-    headers: {
-      'Content-Type': 'application/json',
-    },
-    method: 'POST',
-  });
-
-  if (response.ok) {
-    return;
-  }
-
-  const text = await response.text();
-  let reason = text;
-
-  try {
-    const json = JSON.parse(text) as { reason?: string };
-    reason = json.reason ?? text;
-  } catch {
-    reason = text;
-  }
-
-  throw new Error(reason || response.statusText);
 }
 
 function subscribeToPreferences(onStoreChange: () => void) {
@@ -372,258 +288,7 @@ function RagStates({ states }: { states: RagState[] }) {
   );
 }
 
-function ReviewScopePanel({
-  metadata,
-  onOverride,
-  override,
-  sessionId,
-  uuid,
-}: {
-  metadata: ReviewScopeMetadata;
-  onOverride: (scopeKey: string, override: ReviewOverride) => void;
-  override?: ReviewOverride;
-  sessionId: string;
-  uuid: string;
-}) {
-  const [comment, setComment] = useState('');
-  const [status, setStatus] = useState<ReviewRequestStatus>({
-    kind: 'initial',
-    message: 'Initial',
-  });
-  const statusTimeoutRef = useRef<number | null>(null);
-  const scopeKey = `${sessionId}:${uuid}:answer`;
-  const title = 'Answer review';
-  const reviewType = 'REVIEW_ANSWER';
-  const displayedReviewRag = override?.reviewRag
-    ? reviewStateFromOverride(override.reviewRag, title)
-    : metadata.reviewRag;
-  const displayedComments = override?.comments ?? metadata.comments;
-
-  const setTimedStatus = useCallback(
-    (nextStatus: ReviewRequestStatus, timeoutMs = 0) => {
-      if (statusTimeoutRef.current) {
-        window.clearTimeout(statusTimeoutRef.current);
-        statusTimeoutRef.current = null;
-      }
-
-      setStatus(nextStatus);
-
-      if (timeoutMs > 0) {
-        statusTimeoutRef.current = window.setTimeout(() => {
-          setStatus({ kind: 'initial', message: 'Initial' });
-          statusTimeoutRef.current = null;
-        }, timeoutMs);
-      }
-    },
-    [],
-  );
-
-  useEffect(() => {
-    return () => {
-      if (statusTimeoutRef.current) {
-        window.clearTimeout(statusTimeoutRef.current);
-      }
-    };
-  }, []);
-
-  const basePayload = useMemo(
-    () => ({
-      sheet: metadata.sheet,
-      uuid,
-    }),
-    [metadata.sheet, uuid],
-  );
-
-  const submitRag = useCallback(
-    async (rag: string) => {
-      if (!metadata.sheet) {
-        setTimedStatus(
-          { kind: 'error', message: 'Error: review sheet unavailable' },
-          3000,
-        );
-        return;
-      }
-
-      setTimedStatus({
-        kind: 'loading',
-        message: 'Submitting. Please wait ...',
-      });
-
-      try {
-        await submitReviewRequest('rag', {
-          ...basePayload,
-          rag,
-          reviewer: REVIEWER,
-        });
-        onOverride(scopeKey, { reviewRag: rag });
-        setTimedStatus({ kind: 'success', message: 'Success' }, 3000);
-      } catch (error) {
-        const message =
-          error instanceof Error ? error.message : 'Unknown error';
-        setTimedStatus({ kind: 'error', message: `Error: ${message}` }, 3000);
-      }
-    },
-    [basePayload, metadata.sheet, onOverride, scopeKey, setTimedStatus],
-  );
-
-  const submitComment = useCallback(
-    async (event: FormEvent<HTMLFormElement>) => {
-      event.preventDefault();
-
-      if (!metadata.sheet || !comment.trim()) {
-        setTimedStatus(
-          { kind: 'error', message: 'Error: comment or review sheet missing' },
-          3000,
-        );
-        return;
-      }
-
-      setTimedStatus({
-        kind: 'loading',
-        message: 'Submitting. Please wait ...',
-      });
-
-      try {
-        await submitReviewRequest('comments', {
-          ...basePayload,
-          comment: comment.trim(),
-          reviewer: REVIEWER,
-        });
-        onOverride(scopeKey, {
-          comments: [displayedComments, comment.trim()]
-            .filter(Boolean)
-            .join('\n\n'),
-        });
-        setComment('');
-        setTimedStatus({ kind: 'success', message: 'Success' }, 3000);
-      } catch (error) {
-        const message =
-          error instanceof Error ? error.message : 'Unknown error';
-        setTimedStatus({ kind: 'error', message: `Error: ${message}` }, 3000);
-      }
-    },
-    [
-      basePayload,
-      comment,
-      displayedComments,
-      metadata.sheet,
-      onOverride,
-      scopeKey,
-      setTimedStatus,
-    ],
-  );
-
-  const resetComments = useCallback(async () => {
-    if (!metadata.sheet) {
-      setTimedStatus(
-        { kind: 'error', message: 'Error: review sheet unavailable' },
-        3000,
-      );
-      return;
-    }
-
-    setTimedStatus({ kind: 'loading', message: 'Submitting. Please wait ...' });
-
-    try {
-      await submitReviewRequest('reset-answer-comments', basePayload);
-      onOverride(scopeKey, { comments: '' });
-      setTimedStatus({ kind: 'success', message: 'Success' }, 3000);
-    } catch (error) {
-      const message = error instanceof Error ? error.message : 'Unknown error';
-      setTimedStatus({ kind: 'error', message: `Error: ${message}` }, 3000);
-    }
-  }, [basePayload, metadata.sheet, onOverride, scopeKey, setTimedStatus]);
-
-  return (
-    <section className="review-scope" data-review-type={reviewType}>
-      <header className="review-scope__header">
-        <div>
-          <p className="review-scope__eyebrow">
-            {metadata.sheet ?? 'No sheet'}
-          </p>
-          <h4>{title}</h4>
-        </div>
-        <div className="review-scope__state">
-          <span>Source {metadata.sourceRag?.value ?? 'missing'}</span>
-          <strong>{displayedReviewRag?.value ?? 'PRNS'}</strong>
-        </div>
-      </header>
-
-      <div className="review-actions" aria-label={`${title} states`}>
-        {REVIEW_RAGS.map(rag => (
-          <button
-            className={`review-action ${rag.className}`}
-            data-rag={rag.value}
-            data-review-type={reviewType}
-            data-reviewer={REVIEWER}
-            data-sheet={metadata.sheet ?? undefined}
-            data-uuid={uuid}
-            disabled={!metadata.sheet || status.kind === 'loading'}
-            key={`answer-${rag.value}`}
-            onClick={() => void submitRag(rag.value)}
-            type="button">
-            {rag.label}
-          </button>
-        ))}
-        <button
-          className="review-action rag_prct"
-          data-review-type={reviewType}
-          data-sheet={metadata.sheet ?? undefined}
-          data-uuid={uuid}
-          disabled={!metadata.sheet || status.kind === 'loading'}
-          onClick={() => void resetComments()}
-          type="button">
-          Reset Comments
-        </button>
-      </div>
-
-      {displayedComments ? (
-        <div className="review-comments">
-          <pre>{displayedComments}</pre>
-        </div>
-      ) : null}
-
-      <form
-        className="review-form"
-        onSubmit={event => void submitComment(event)}>
-        <textarea
-          name="comment"
-          onChange={event => setComment(event.target.value)}
-          placeholder="Enter review comments ..."
-          required
-          rows={5}
-          value={comment}
-        />
-        <div className="review-form__actions">
-          <button
-            disabled={!metadata.sheet || status.kind === 'loading'}
-            type="submit">
-            Submit
-          </button>
-          <button onClick={() => setComment('')} type="button">
-            Reset
-          </button>
-        </div>
-      </form>
-
-      <p className={`review-status review-status--${status.kind}`}>
-        {status.message}
-      </p>
-    </section>
-  );
-}
-
-function ReviewPane({
-  node,
-  onOverride,
-  overrides,
-  sessionId,
-}: {
-  node: QuestionNode;
-  onOverride: (scopeKey: string, override: ReviewOverride) => void;
-  overrides: Record<string, ReviewOverride>;
-  sessionId: string;
-}) {
+function ReviewPane({ node }: { node: QuestionNode }) {
   if (!node.uuid || !node.review) {
     return null;
   }
@@ -632,21 +297,15 @@ function ReviewPane({
     <section className="review-pane">
       <header className="review-pane__header">
         <div>
-          <p className="review-pane__eyebrow">Review pane</p>
-          <h3>Answer Review</h3>
+          <p className="review-pane__eyebrow">Review metadata</p>
+          <h3>Current source state</h3>
         </div>
         <code>{node.uuid}</code>
       </header>
       <div className="review-pane__grid">
-        <ReviewScopePanel
-          metadata={node.review.answer}
-          onOverride={onOverride}
-          override={overrides[`${sessionId}:${node.uuid}:answer`]}
-          sessionId={sessionId}
-          uuid={node.uuid}
-        />
         {(
           [
+            ['Answer', node.review.answer],
             ['Question image', node.review.questionImage],
             ['Answer image', node.review.answerImage],
           ] as const
@@ -659,7 +318,7 @@ function ReviewPane({
             <section className="review-scope" key={label}>
               <header className="review-scope__header">
                 <div>
-                  <p className="review-scope__eyebrow">Image review</p>
+                  <p className="review-scope__eyebrow">Read only</p>
                   <h4>{label}</h4>
                 </div>
                 <div className="review-scope__state">
@@ -667,28 +326,37 @@ function ReviewPane({
                   <strong>{metadata.reviewRag?.value ?? 'PRNS'}</strong>
                 </div>
               </header>
-              <dl>
-                <div>
-                  <dt>Types</dt>
-                  <dd>
-                    {metadata.imageTypes?.length
-                      ? metadata.imageTypes.join(', ')
-                      : 'Unclassified at NG2 / none confirmed after NG2'}
-                  </dd>
+              {metadata.comments ? (
+                <div className="review-comments">
+                  <pre>{metadata.comments}</pre>
                 </div>
-                {metadata.imageNotes ? (
+              ) : null}
+              {metadata.imageTypes ||
+              metadata.imageNotes ||
+              metadata.imageIgnored ? (
+                <dl>
                   <div>
-                    <dt>Notes</dt>
-                    <dd>{metadata.imageNotes}</dd>
+                    <dt>Types</dt>
+                    <dd>
+                      {metadata.imageTypes?.length
+                        ? metadata.imageTypes.join(', ')
+                        : 'Unclassified at NG2 / none confirmed after NG2'}
+                    </dd>
                   </div>
-                ) : null}
-                {metadata.imageIgnored?.length ? (
-                  <div>
-                    <dt>Ignored</dt>
-                    <dd>{metadata.imageIgnored.join(', ')}</dd>
-                  </div>
-                ) : null}
-              </dl>
+                  {metadata.imageNotes ? (
+                    <div>
+                      <dt>Notes</dt>
+                      <dd>{metadata.imageNotes}</dd>
+                    </div>
+                  ) : null}
+                  {metadata.imageIgnored?.length ? (
+                    <div>
+                      <dt>Ignored</dt>
+                      <dd>{metadata.imageIgnored.join(', ')}</dd>
+                    </div>
+                  ) : null}
+                </dl>
+              ) : null}
             </section>
           ))}
       </div>
@@ -937,9 +605,6 @@ export function QuestionViewerApp({
     normalizeSessionId(initialSessionId),
   );
   const [sessions, setSessions] = useState<ViewerSessionSummary[]>([]);
-  const [reviewOverrides, setReviewOverrides] = useState<
-    Record<string, ReviewOverride>
-  >({});
   const [rawVisible, setRawVisible] = useStoredBoolean(DEBUG_STORAGE_KEY);
   const [hideEmpty, setHideEmpty] = useStoredBoolean(HIDE_EMPTY_STORAGE_KEY);
   const lastPostedUrlTargetRef = useRef<string | null>(null);
@@ -978,19 +643,6 @@ export function QuestionViewerApp({
       sessionId: result.sessionId,
     });
   }, [selectedSessionId]);
-
-  const handleReviewOverride = useCallback(
-    (scopeKey: string, override: ReviewOverride) => {
-      setReviewOverrides(current => ({
-        ...current,
-        [scopeKey]: {
-          ...current[scopeKey],
-          ...override,
-        },
-      }));
-    },
-    [],
-  );
 
   useEffect(() => {
     const urlSessionId = readUrlSessionId();
@@ -1149,12 +801,7 @@ export function QuestionViewerApp({
             node={currentPayload.question}
             rawVisible={rawVisible}
           />
-          <ReviewPane
-            node={currentPayload.question}
-            onOverride={handleReviewOverride}
-            overrides={reviewOverrides}
-            sessionId={selectedSessionId}
-          />
+          <ReviewPane node={currentPayload.question} />
         </>
       ) : null}
 

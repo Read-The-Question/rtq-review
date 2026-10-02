@@ -1,15 +1,14 @@
 # RTQ Review Content Web
 
 Internal Next.js application for reviewing RTQ paper content directly from the
-active `rtq-content` checkout. Unlike Review Markdown Web, this application does
-not consume generated Markdown. Paper content is always read-only; review
-outcomes use one configured database or Google Sheets destination while comments
-and product-wide findings use the shared review database.
+active `rtq-content` checkout. It does not consume generated Markdown. Paper
+content is always read-only; review outcomes, comments, and product-wide
+findings use the shared review database.
 
 The application currently provides collection and file browsing, full nested
 paper presentation, corpus-wide canonical question search, five-axis runtime
 tag filters, independent question and answer content-RAG filters, rendered and
-raw content views, allowlisted canonical paper assets, Google Sheets outcome
+raw content views, allowlisted canonical paper assets, database-backed outcome
 submission, local append-only review comments, and a separate product-wide
 finding inbox. A filter-aware left rail links directly to every visible
 question, subquestion, and sub-subquestion. The read-only `corpusAllTopicsToml`
@@ -40,15 +39,9 @@ recorded in the canonical
 - Node.js 24.19.0 and pnpm 10.15.1 from the workspace root
 - A sibling `../rtq-content` checkout, or `RTQ_CONTENT_ROOT` set to a complete
   `rtq-content` Git root
-- The local `review-api` service at `http://localhost:4567`, or
-  `RTQ_REVIEW_API_BASE_URL` set to its server-only URL, when the outcome
-  destination is `google-sheets`
 
-`RTQ_REVIEW_OUTCOME_DESTINATION` selects exactly one outcome writer. It accepts
-`database` (the default) or `google-sheets`. The application never dual-writes;
-set it to `google-sheets` to use the retained Review API path for compatibility
-or rollback testing. The paper-page masthead reports the active destination
-once; individual question review panels do not repeat it.
+The paper-page masthead reports that outcomes and comments use local SQLite;
+individual question review panels do not repeat it.
 
 `RTQ_REVIEWER` sets the short reviewer identity sent with outcomes and recorded
 with comments; it defaults to `ap` and accepts letters, numbers, dots,
@@ -112,7 +105,7 @@ the content checkout and return to the review tab to trigger the selected-file
 check. In production, the Node.js process must be able to see the same local
 checkout; each process maintains its own disposable index-summary cache.
 Dimensional and RAG filtering operates entirely on the already loaded paper in
-the browser and does not read TOML or contact Google Sheets.
+the browser and does not read TOML or contact an external state service.
 
 ## Corpus search
 
@@ -157,8 +150,8 @@ or page size starts again from the first result.
   **Make a change**, and **Reset**, or the complete descriptive request set.
   Detailed mode adds **Change Complete**, **Block it**, and **Coming
   Soon**. The interface never requires reviewers to interpret internal PR
-  codes. Reset clears only the state-scoped request in the configured
-  destination and never removes SQLite feedback.
+  codes. Reset clears only the state-scoped database request and never removes
+  feedback.
 - The **Review target** selector persists the chosen Question or Answer side in
   local browser storage, so quick-review actions keep the same target after a
   refresh.
@@ -192,21 +185,18 @@ or page size starts again from the first result.
 
 ## Review persistence
 
-Question and answer outcomes use the exclusive destination selected by
-`RTQ_REVIEW_OUTCOME_DESTINATION`. In the default `database` mode, they are
-stored by UUID, side, and current canonical RAG state in the shared review
-store; a reload displays only an exact current-state match. Reset clears only
-that match. In `google-sheets` mode, the existing local `review-api` forwarding,
-sheet routing, and TOML-backed display remain unchanged. Both modes retain the
-same live identity and content-state validation before writing.
+Question and answer outcomes are stored by UUID, side, and current canonical
+RAG state in the shared review store; a reload displays only an exact
+current-state match. Reset clears only that match. Live identity and
+content-state validation run before every write.
 
-Both destinations accept only the canonical actionable requests: `PRG`,
+The store accepts only the canonical actionable requests: `PRG`,
 `PRCR`, `PRCC`, `PRBD`, and `PRCS`. Retired aliases and outcomes are rejected at
 the application boundary. A missing request is the `PRNS` default; the UI
 represents that state through Reset rather than submitting `PRNS` as another
 transition trigger.
 
-Comments never call `review-api`. They are appended through Drizzle to
+Comments are appended through Drizzle to
 `<rtq-review>/database/review-content.sqlite`. Every question, subquestion, and
 sub-subquestion uses its own UUID and review side for feedback. Collection,
 paper path, and `rtq-question-id` are verified submission context but are not
@@ -249,8 +239,7 @@ pnpm --filter rtq-review-content-web test:browser
 
 ## Acceptance walkthrough
 
-Use mocked Review API responses for this walkthrough; do not submit a test
-outcome to the production Google Sheet.
+Use a disposable or development review database for this walkthrough.
 
 1. Open one canonical paper and one derived paper, and confirm their raw values
    and allowlisted paper assets come directly from the content checkout.
@@ -261,7 +250,7 @@ outcome to the production Google Sheet.
 3. Copy the filtered URL, refresh, and confirm the filter scope is restored.
    Use **Clear all**, then reopen the copied URL to prove clear and restore
    independently.
-4. Submit a mocked content or image outcome and confirm the success state is
+4. Submit a content or image outcome and confirm the success state is
    visible without changing the source TOML.
 5. Append feedback to a question or nested question, refresh, and confirm it
    remains attached to that exact UUID at the current top-level RAG state.

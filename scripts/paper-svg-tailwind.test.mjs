@@ -30,7 +30,6 @@ test("review compilers discover canonical SVG utilities through the configured c
   );
   const nextUtilitySvg = join(assets, "papers/paper/questions/manual/new.svg");
   const applications = [
-    "review-markdown-web",
     "review-tag-web",
     "review-question-viewer-web",
   ];

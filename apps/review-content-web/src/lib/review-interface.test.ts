@@ -356,19 +356,16 @@ test('complete papers expose a persisted, independently scrolling PDF pane', asy
   );
 });
 
-test('reports the active outcome destination once in the page header', async () => {
+test('reports SQLite review storage once in the page header', async () => {
   const [component, siteHeader] = await Promise.all([
     fs.readFile(componentUrl, 'utf8'),
     fs.readFile(siteHeaderUrl, 'utf8'),
   ]);
 
-  assert.match(
-    component,
-    /<SiteHeader compact outcomeDestination={outcomeLoad\.destination} \/>/,
-  );
+  assert.match(component, /<SiteHeader compact showReviewStorage \/>/);
   assert.doesNotMatch(component, /Outcomes → Sheets/);
   assert.match(siteHeader, /Outcomes & comments → local SQLite/);
-  assert.match(siteHeader, /Outcomes → Sheets · comments → local SQLite/);
+  assert.doesNotMatch(siteHeader, /Outcomes → Sheets/);
 });
 
 test('paper header omits source-paper filename badges', async () => {

@@ -16,10 +16,7 @@ import type {
   CorpusSearchResponse,
 } from './corpus-search-types';
 import { prepareReviewPaperForDisplay } from './prepare-paper';
-import {
-  reviewContentReviewer,
-  reviewOutcomeDestination,
-} from './review-api-config';
+import { reviewContentReviewer } from './review-config';
 import { loadReviewCommentsForPaper } from './review-comments';
 import { loadReviewOutcomesForPaper } from './review-outcomes';
 
@@ -90,7 +87,6 @@ function corpusResponse(
     uuidRequestCount?: number;
   }> = { mode: 'content' },
 ): CorpusSearchResponse {
-  const destination = reviewOutcomeDestination();
   return {
     commentLoad: loadReviewCommentsForPaper(paper),
     endPosition: page.endPosition,
@@ -98,7 +94,7 @@ function corpusResponse(
     limit: page.limit,
     missingUuids: search.missingUuids ?? [],
     ...(page.nextCursor ? { nextCursor: page.nextCursor } : {}),
-    outcomeLoad: loadReviewOutcomesForPaper(paper, destination),
+    outcomeLoad: loadReviewOutcomesForPaper(paper),
     paper: prepareReviewPaperForDisplay(paper),
     ...(page.previousCursor ? { previousCursor: page.previousCursor } : {}),
     reviewer: reviewContentReviewer,

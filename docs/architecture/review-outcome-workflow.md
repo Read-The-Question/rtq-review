@@ -35,7 +35,7 @@ Reviewer opens a canonical question
   -> Review Content Web reads its UUID and all four current RAG states
   -> reviewer submits an outcome for one side
   -> the server re-reads canonical TOML and rejects a stale target
-  -> exactly one configured destination stores the review decision
+  -> Review Store records the review decision in SQLite
   -> canonical TOML remains unchanged
 
 Operator runs the database-outcome sync in rtq-content
@@ -59,7 +59,7 @@ answer content, and answer images are independent review targets. Each target ha
 - a side: `question`, `question-image`, `answer`, or `answer-image`;
 - the current canonical RAG value for that side.
 
-In database mode, the page also requests stored outcomes for those exact
+The page also requests stored outcomes for those exact
 targets. An outcome recorded for the same UUID and side at an earlier state is
 not displayed as the current decision.
 
@@ -96,29 +96,16 @@ the other three canonical actions. Reset clears the request for the exact
 state-scoped target and returns it to the missing/`PRNS` default
 representation; `PRNS` is not submitted as another transition trigger.
 
-Review Content Web, Review Markdown Web, and Review API all reject retired
-outcomes at their request boundaries. The generated Markdown controls use the
-same five actionable values and provide Reset separately.
+Review Content Web rejects retired outcomes at its request boundary.
 
 Before writing anything, the server resolves the submitted paper and UUID from
 the active content checkout again. It compares the submitted side and RAG state
 with live canonical TOML. A page that became stale cannot record an outcome for
 the old state; the route rejects it and the reviewer must reload.
 
-### 3. Store the outcome in one destination
+### 3. Store the outcome in Review Store
 
-`RTQ_REVIEW_OUTCOME_DESTINATION` selects the writer:
-
-| Value           | Behaviour                                                                                                           |
-| --------------- | ------------------------------------------------------------------------------------------------------------------- |
-| `database`      | Store or clear the outcome through the shared Review Store package. This is the default.                            |
-| `google-sheets` | Forward the existing request to Review API and Google Sheets. This is the retained compatibility and rollback path. |
-
-The branches are exclusive. A request never writes to both destinations, and a
-database failure does not fall back to Google Sheets. An unsupported setting is
-a configuration error.
-
-In database mode, one `review_outcomes` row represents the latest decision for
+One `review_outcomes` row represents the latest decision for
 one state-scoped target:
 
 | Field                | Meaning                                                              |
@@ -238,7 +225,7 @@ independently of any outcome. Empty arrays explicitly clear the canonical
 arrays; no exact-state metadata row preserves them. Metadata and an image RAG
 transition can still be applied in the same dry-run/apply plan. The
 database path never changes companion TOML review fields, derived TOML,
-generated Markdown, PDFs, assets, Google Sheets, comments, or the review
+generated Markdown, PDFs, assets, comments, or the review
 database.
 
 ### 7. Prune stale review data occasionally

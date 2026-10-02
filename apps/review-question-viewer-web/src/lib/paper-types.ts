@@ -52,7 +52,6 @@ export type ReviewScopeMetadata = {
   imageNotes?: string;
   imageTypes?: string[];
   reviewRag: RagState | null;
-  sheet: string | null;
   sourceRag: RagState | null;
 };
 

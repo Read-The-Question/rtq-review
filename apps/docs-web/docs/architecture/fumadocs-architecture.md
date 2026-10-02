@@ -170,9 +170,9 @@ boundaries behind dynamic discovery that the compiler cannot verify.
 
 For another application in this workspace, the collection directory points to
 the owner root relative to `apps/docs-web`, for example
-`../review-markdown-web`. Only
+`../review-tag-web`. Only
 its root README and Markdown beneath its `docs/` folder are published. Files
-elsewhere in `apps/review-markdown-web` remain invisible.
+elsewhere in `apps/review-tag-web` remain invisible.
 
 ### Source in a sibling repository
 

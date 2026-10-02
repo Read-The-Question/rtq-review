@@ -14,84 +14,15 @@ import {
   reviewOutcomeLabel,
   reviewTargetForNode,
   reviewTargetKey,
-  type ReviewOutcomeDestination,
   type ReviewOutcomeLoad,
   type ReviewOutcomeSelection,
   type ImageReviewMetadata,
 } from './review-types.ts';
 
-type ForwardOutcomeOptions = Readonly<{
-  baseUrl: string;
-  fetcher?: typeof fetch;
-}>;
-
 export type SubmitOutcomeResult = Readonly<{
   message: string;
   status: number;
 }>;
-
-function safeUpstreamReason(text: string): string {
-  try {
-    const parsed = JSON.parse(text) as { reason?: unknown };
-    if (typeof parsed.reason === 'string' && parsed.reason.trim()) {
-      return parsed.reason.trim().slice(0, 300);
-    }
-  } catch {
-    // Fall through to a generic error so HTML and internals are not exposed.
-  }
-  return 'The review service rejected the outcome.';
-}
-
-export async function forwardReviewOutcome(
-  input: ReviewOutcomeRequest,
-  options: ForwardOutcomeOptions,
-): Promise<SubmitOutcomeResult> {
-  if (!input.target.sheet) {
-    return { message: 'No Google Sheets route is available.', status: 409 };
-  }
-  const fetcher = options.fetcher ?? fetch;
-  const path =
-    input.target.side === 'question'
-      ? 'questionrag'
-      : input.target.side === 'answer'
-        ? 'rag'
-        : input.target.side === 'question-image'
-          ? 'questionimagerag'
-          : 'answerimagerag';
-  let response: Response;
-  try {
-    response = await fetcher(`${options.baseUrl.replace(/\/$/, '')}/${path}`, {
-      body: JSON.stringify({
-        rag: input.outcome ?? '',
-        reviewer: input.reviewer,
-        sheet: input.target.sheet,
-        uuid: input.target.uuid,
-      }),
-      headers: { 'Content-Type': 'application/json' },
-      method: 'POST',
-    });
-  } catch {
-    return {
-      message: 'The local review API could not be reached.',
-      status: 502,
-    };
-  }
-  if (!response.ok) {
-    return {
-      message: safeUpstreamReason(await response.text()),
-      status: response.status,
-    };
-  }
-  return {
-    message:
-      input.outcome === null
-        ? 'Review request reset in Google Sheets.'
-        : input.outcome === 'PRG'
-          ? 'Approved and submitted to Google Sheets.'
-          : `${reviewOutcomeLabel(input.outcome)} submitted to Google Sheets.`,
-    status: response.status,
-  };
-}
 
 type DatabaseOutcomeOptions = Readonly<{
   repository?: ReviewOutcomeRepository;
@@ -142,24 +73,11 @@ export function persistReviewOutcome(
   }
 }
 
-type SubmitReviewOutcomeOptions = Readonly<{
-  baseUrl: string;
-  destination: ReviewOutcomeDestination;
-  fetcher?: typeof fetch;
-  repository?: ReviewOutcomeRepository;
-}>;
-
 export async function submitReviewOutcome(
   input: ReviewOutcomeRequest,
-  options: SubmitReviewOutcomeOptions,
+  options: DatabaseOutcomeOptions = {},
 ): Promise<SubmitOutcomeResult> {
-  if (options.destination === 'database') {
-    return persistReviewOutcome(input, { repository: options.repository });
-  }
-  return forwardReviewOutcome(input, {
-    baseUrl: options.baseUrl,
-    fetcher: options.fetcher,
-  });
+  return persistReviewOutcome(input, options);
 }
 
 export function reviewOutcomeTargetsForPaper(paper: ReviewPaper) {
@@ -192,7 +110,6 @@ type LoadReviewOutcomeOptions = Readonly<{
 
 export function loadReviewOutcomesForPaper(
   paper: ReviewPaper,
-  destination: ReviewOutcomeDestination,
   options: LoadReviewOutcomeOptions = {},
 ): ReviewOutcomeLoad {
   try {
@@ -208,8 +125,7 @@ export function loadReviewOutcomesForPaper(
     );
     const outcomes: Record<string, ReviewOutcomeSelection> = {};
     const imageMetadata: Record<string, ImageReviewMetadata> = {};
-    const storedOutcomes =
-      destination === 'database' ? repository.resolve(targets) : [];
+    const storedOutcomes = repository.resolve(targets);
     for (const stored of storedOutcomes) {
       const identity = JSON.stringify([
         stored.uuid,
@@ -241,10 +157,10 @@ export function loadReviewOutcomesForPaper(
         types: stored.types,
       };
     }
-    return { destination, imageMetadata, outcomes };
+    return { destination: 'database', imageMetadata, outcomes };
   } catch {
     return {
-      destination,
+      destination: 'database',
       error:
         'Review requests are unavailable. Check the rtq-review database directory and retry.',
       imageMetadata: {},

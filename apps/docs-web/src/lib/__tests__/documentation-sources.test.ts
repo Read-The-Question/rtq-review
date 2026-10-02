@@ -89,16 +89,6 @@ describe("documentation ownership registry", () => {
           ownerType: "app",
         },
         {
-          key: "rtq-review-review-api",
-          route: "rtq-review/apps/review-api",
-          ownerType: "app",
-        },
-        {
-          key: "rtq-review-review-legacy-gatsby-web",
-          route: "rtq-review/apps/review-legacy-gatsby-web",
-          ownerType: "app",
-        },
-        {
           key: "rtq-review-review-question-viewer-web",
           route: "rtq-review/apps/review-question-viewer-web",
           ownerType: "app",
@@ -106,11 +96,6 @@ describe("documentation ownership registry", () => {
         {
           key: "rtq-review-review-tag-web",
           route: "rtq-review/apps/review-tag-web",
-          ownerType: "app",
-        },
-        {
-          key: "rtq-review-review-markdown-web",
-          route: "rtq-review/apps/review-markdown-web",
           ownerType: "app",
         },
         {
@@ -160,17 +145,6 @@ describe("documentation ownership registry", () => {
         papers,
         "packages/papers/__dead-pool__/docs/free-papers/analysis/final.md",
       ),
-      false,
-    );
-
-    const reviewApi = getDocumentationSourceByKey("rtq-review-review-api");
-    assert.ok(reviewApi);
-    assert.equal(
-      isRepositoryDocumentationPath(reviewApi, "apps/review-api/commands.md"),
-      false,
-    );
-    assert.equal(
-      isRepositoryDocumentationPath(reviewApi, "apps/review-api/AGENTS.md"),
       false,
     );
   });
@@ -281,11 +255,8 @@ describe("documentation ownership registry", () => {
 
     assert.deepEqual(missing, [
       "rtq-content/docs",
-      "rtq-review/apps/review-api/docs",
-      "rtq-review/apps/review-legacy-gatsby-web/docs",
       "rtq-review/apps/review-question-viewer-web/docs",
       "rtq-review/apps/review-tag-web/docs",
-      "rtq-review/apps/review-markdown-web/docs",
       "rtq-review/packages/repository-paths/README.md",
       "rtq-review/packages/repository-paths/docs",
       "rtq-web/docs",

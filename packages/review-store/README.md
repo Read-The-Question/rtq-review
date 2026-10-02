@@ -110,7 +110,7 @@ exactly match a requested target:
 No match is represented by an empty `matches` array. Results are ordered by
 UUID, side, and RAG state. Errors go to standard error with a non-zero exit
 code. The resolver does not inspect canonical files, calculate transitions,
-write TOML, call Google Sheets, or modify the review database.
+write TOML, call external services, or modify the review database.
 
 ## List outcomes and image metadata for content sync
 

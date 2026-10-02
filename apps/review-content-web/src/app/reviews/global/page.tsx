@@ -2,7 +2,7 @@ import Link from 'next/link';
 
 import { GlobalFindingsInbox } from '@/components/global-findings-inbox';
 import { SiteHeader } from '@/components/site-header';
-import { reviewContentReviewer } from '@/lib/review-api-config';
+import { reviewContentReviewer } from '@/lib/review-config';
 import { listGlobalReviewFindings } from '@/lib/global-review-findings';
 
 export const dynamic = 'force-dynamic';

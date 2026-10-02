@@ -17,7 +17,6 @@ test('returns an appended comment immediately and maps store failures safely', a
     questionId: null,
     ragState: 'rag_wf_g0',
     relativePath: 'paper.toml',
-    sheet: 'G0',
     side: 'answer',
     uuid: 'D8AE66C1-9AB8-4C7F-A023-1C17B53237CF',
   };

@@ -92,22 +92,6 @@ const rtqReviewDocsWeb = defineDocs({
   },
   meta: { files: [], schema: metaSchema },
 });
-const rtqReviewApi = defineDocs({
-  dir: "../review-api",
-  docs: {
-    files: ["README.md", "docs/**/*.md"],
-    schema: documentationPageSchema,
-  },
-  meta: { files: [], schema: metaSchema },
-});
-const rtqReviewLegacyGatsbyWeb = defineDocs({
-  dir: "../review-legacy-gatsby-web",
-  docs: {
-    files: ["README.md", "docs/**/*.md"],
-    schema: documentationPageSchema,
-  },
-  meta: { files: [], schema: metaSchema },
-});
 const rtqReviewQuestionViewerWeb = defineDocs({
   dir: "../review-question-viewer-web",
   docs: {
@@ -118,14 +102,6 @@ const rtqReviewQuestionViewerWeb = defineDocs({
 });
 const rtqReviewTagWeb = defineDocs({
   dir: "../review-tag-web",
-  docs: {
-    files: ["README.md", "docs/**/*.md"],
-    schema: documentationPageSchema,
-  },
-  meta: { files: [], schema: metaSchema },
-});
-const rtqReviewMarkdownWeb = defineDocs({
-  dir: "../review-markdown-web",
   docs: {
     files: ["README.md", "docs/**/*.md"],
     schema: documentationPageSchema,
@@ -179,22 +155,12 @@ export const source = loader(
     "rtq-review-docs-web": rtqReviewDocsWeb.toFumadocsSource({
       baseDir: "rtq-review/apps/docs-web",
     }),
-    "rtq-review-review-api": rtqReviewApi.toFumadocsSource({
-      baseDir: "rtq-review/apps/review-api",
-    }),
-    "rtq-review-review-legacy-gatsby-web":
-      rtqReviewLegacyGatsbyWeb.toFumadocsSource({
-        baseDir: "rtq-review/apps/review-legacy-gatsby-web",
-      }),
     "rtq-review-review-question-viewer-web":
       rtqReviewQuestionViewerWeb.toFumadocsSource({
         baseDir: "rtq-review/apps/review-question-viewer-web",
       }),
     "rtq-review-review-tag-web": rtqReviewTagWeb.toFumadocsSource({
       baseDir: "rtq-review/apps/review-tag-web",
-    }),
-    "rtq-review-review-markdown-web": rtqReviewMarkdownWeb.toFumadocsSource({
-      baseDir: "rtq-review/apps/review-markdown-web",
     }),
     "rtq-review-repository-paths": rtqReviewRepositoryPaths.toFumadocsSource({
       baseDir: "rtq-review/packages/repository-paths",

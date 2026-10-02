@@ -5,10 +5,7 @@ import { notFound } from 'next/navigation';
 
 import { ReviewSurface } from '@/components/review-surface';
 import { prepareReviewPaperForDisplay } from '@/lib/prepare-paper';
-import {
-  reviewContentReviewer,
-  reviewOutcomeDestination,
-} from '@/lib/review-api-config';
+import { reviewContentReviewer } from '@/lib/review-config';
 import { loadReviewCommentsForPaper } from '@/lib/review-comments';
 import { loadReviewOutcomesForPaper } from '@/lib/review-outcomes';
 import { resolvePaperPdf } from '@/lib/paper-pdf-reader';
@@ -39,10 +36,7 @@ export default async function PaperPage({
 
   const displayPaper = prepareReviewPaperForDisplay(paper);
   const commentLoad = loadReviewCommentsForPaper(paper);
-  const outcomeLoad = loadReviewOutcomesForPaper(
-    paper,
-    reviewOutcomeDestination(),
-  );
+  const outcomeLoad = loadReviewOutcomesForPaper(paper);
   const pdf = resolvePaperPdf(paper.source);
   return (
     <Suspense fallback={<div className="route-loading">Preparing review…</div>}>

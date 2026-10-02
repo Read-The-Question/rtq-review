@@ -57,6 +57,13 @@ updated `@rtq/papers` Ruby workflow after updating both checkouts; old flat
 question URLs are not served. No doctor check is added to reviewer builds,
 startup, or requests.
 
+Inline division uses semantic Tailwind utilities. `globals.css` loads the
+shared SVG source configuration from `packages/repository-paths`, resolving
+the same `RTQ_CONTENT_ROOT` as rendering. Regenerate canonical division SVGs
+and review Markdown before starting/building the app after a class migration.
+The existing reviewer palette is unchanged. Run `pnpm paper-svg:styles:test`
+from the review workspace to check real compiler discovery across consumers.
+
 Generated Markdown carries each authored `PaperList` style in a hidden inert
 compatibility comment. Review Markdown Web consumes that metadata through the
 shared review Markdown contract, removes it from output, and renders the same

@@ -52,6 +52,13 @@ Manual images use `questions/manual/`, `workings/manual/`, or
 Old flat question URLs are not served. `PaperImage` authoring and generated
 long-division paths are unchanged. Doctor is not a reviewer build/startup gate.
 
+Inline division uses semantic Tailwind utilities. The shared source
+configuration in `packages/repository-paths` resolves SVGs through the same
+`RTQ_CONTENT_ROOT` as rendering; no class safelist is maintained. Regenerate
+canonical division assets before starting/building after a class migration.
+Existing reviewer colours are preserved. Run `pnpm paper-svg:styles:test`
+from the review workspace for compiler coverage.
+
 The generated `corpusAllTopicsToml` collection and discovered
 `exemplarsLevel<Tier>Toml` collections can be browsed in Tag Review, but are
 read-only. Tag mutations remain available only for the canonical and existing

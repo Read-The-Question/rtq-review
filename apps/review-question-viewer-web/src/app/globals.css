@@ -2,6 +2,8 @@
 @import '@rtq/review-paper-markdown/paper-table.css';
 @import 'katex/dist/katex.min.css';
 
+@config '../../../../packages/repository-paths/src/tailwind-svg-sources.ts';
+
 :root {
   --background: #ffffff;
   --foreground: #111827;
@@ -45,6 +47,9 @@
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
+  --color-foreground-strong: var(--long-division-working-rule);
+  --color-maths-working-carry: var(--maths-working-carry);
+  --color-maths-working-remainder: var(--maths-working-remainder);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 }
@@ -971,19 +976,6 @@ button {
   display: block;
   width: 100%;
   height: auto;
-}
-
-.paper-long-division-graphic [data-rtq-long-division-role='working-rule'] {
-  color: var(--long-division-working-rule);
-}
-
-.paper-long-division-graphic [data-rtq-long-division-role='carry'] {
-  color: var(--maths-working-carry);
-}
-
-.paper-long-division-graphic
-  [data-rtq-long-division-role='non-zero-remainder'] {
-  color: var(--maths-working-remainder);
 }
 
 .rtq-markdown .katex {

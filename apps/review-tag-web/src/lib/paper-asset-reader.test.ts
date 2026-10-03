@@ -12,7 +12,7 @@ const {
   createPaperAssetResponse,
   resolveConfiguredMathsAssetsRoot,
   resolveCanonicalPaperAsset,
-  resolveCanonicalPaperImageExtension,
+  resolveCanonicalPaperImageExtensions,
 } = paperAssetReader;
 
 const PAPER_STEM = 'alpha-school--11-plus--maths--2020--paper-1';
@@ -153,7 +153,7 @@ test('rejects ambiguous shortened paper routes', async t => {
   assert.match(await response.text(), /Ambiguous canonical paper asset route/);
 });
 
-test('rejects multiple physical formats for one canonical PaperImage key', async t => {
+test('resolves multiple physical formats in review order', async t => {
   const fixture = await createFixture();
   t.after(fixture.cleanup);
 
@@ -166,14 +166,13 @@ test('rejects multiple physical formats for one canonical PaperImage key', async
     '<svg />',
   );
 
-  assert.throws(
-    () =>
-      resolveCanonicalPaperImageExtension(
-        PAPER_STEM,
-        'questions/manual/s01-q01-i00',
-        fixture.assetsRoot,
-      ),
-    /Ambiguous PaperImage asset/,
+  assert.deepEqual(
+    resolveCanonicalPaperImageExtensions(
+      PAPER_STEM,
+      'questions/manual/s01-q01-i00',
+      fixture.assetsRoot,
+    ),
+    ['png', 'svg'],
   );
 });
 

@@ -7,7 +7,7 @@ import {
   resolveRtqContentPaths,
 } from '@rtq/review-repository-paths';
 
-export const PAPER_IMAGE_EXTENSIONS = ['svg', 'png', 'jpg', 'jpeg'] as const;
+export const PAPER_IMAGE_EXTENSIONS = ['png', 'jpg', 'jpeg', 'svg'] as const;
 
 const ALLOWED_CONTENT_TYPES = new Map([
   ['.jpeg', 'image/jpeg'],
@@ -47,25 +47,15 @@ export function resolveConfiguredMathsAssetsRoot(
   }).assetsRoot;
 }
 
-export function resolveCanonicalPaperImageExtension(
+export function resolveCanonicalPaperImageExtensions(
   paperStem: string,
   sourceRelativeStem: string,
   assetsRoot = resolveConfiguredMathsAssetsRoot(),
 ) {
   const paperRoot = path.join(assetsRoot, 'papers', paperStem);
-  const matchingExtensions = PAPER_IMAGE_EXTENSIONS.filter(extension =>
+  return PAPER_IMAGE_EXTENSIONS.filter(extension =>
     existsSync(path.join(paperRoot, `${sourceRelativeStem}.${extension}`)),
   );
-
-  if (matchingExtensions.length > 1) {
-    throw new Error(
-      `Ambiguous PaperImage asset for extension-free key ${paperStem}/${sourceRelativeStem}: ${matchingExtensions
-        .map(extension => `${sourceRelativeStem}.${extension}`)
-        .join(', ')}. Keep exactly one of .svg, .png, .jpg, or .jpeg.`,
-    );
-  }
-
-  return matchingExtensions[0];
 }
 
 function isWithinRoot(root: string, candidate: string) {

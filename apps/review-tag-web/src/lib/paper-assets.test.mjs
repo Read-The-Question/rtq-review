@@ -91,13 +91,22 @@ test('PaperImage family/type is rendering-neutral across scopes, nesting and for
           intrinsicWidth: 160,
         };
       }
+      const firstStem = `${owner}/manual/${prefix}${slot}-i00`;
+      const firstSvg = '<svg viewBox="0 0 320 240"></svg>';
+      write(`${paperRoot}/${firstStem}.svg`, firstSvg);
+      assets[`${firstStem}.svg`] = {
+        fingerprint: `sha256:${createHash('sha256').update(firstSvg).digest('hex')}`,
+        format: 'svg',
+        intrinsicHeight: 240,
+        intrinsicWidth: 320,
+      };
       write(
         `${paperRoot}/paper-images.generated.json`,
         JSON.stringify({ assets, version: 1 }),
       );
       const options =
         scope === 'question' ? undefined : { scopeType: scope, scopeIndex: 0 };
-      const source = `<PaperImage assetScope="${scope}" displaySize="lg" />\n\n<PaperImage assetScope="${scope}" />`;
+      const source = `<PaperImage assetScope="${scope}" displaySize="lg" />\n\nTODOIMAGE\n\n<PaperImage assetScope="${scope}" />\n\n%image%`;
       const baseline = enrichRtqMarkdown(source, context, options);
       for (const attributes of [
         'family="venn"',
@@ -120,9 +129,26 @@ test('PaperImage family/type is rendering-neutral across scopes, nesting and for
         );
         assert.equal(enrichRtqMarkdown(tagged, context, options), baseline);
       }
-      assert.equal((baseline.match(/<img /g) ?? []).length, 2);
+      assert.equal((baseline.match(/<img /g) ?? []).length, 3);
       assert.ok(baseline.includes(`${prefix}${slot}-i00.png`));
+      assert.ok(baseline.includes(`${prefix}${slot}-i00.svg`));
       assert.ok(baseline.includes(`${prefix}${slot}-i01.svg`));
+      assert.ok(
+        baseline.indexOf(`${prefix}${slot}-i00.png`) <
+          baseline.indexOf(`${prefix}${slot}-i00.svg`),
+      );
+      assert.match(
+        baseline,
+        /class="paper-image-group" data-has-svg="true" data-variant-count="2"/,
+      );
+      assert.match(baseline, /data-format="png" data-primary="true"/);
+      assert.match(baseline, /data-format="svg" data-primary="false"/);
+      assert.match(baseline, />PNG<\/span>/);
+      assert.match(baseline, />SVG<\/span>/);
+      assert.equal(
+        (baseline.match(/data-rtq-placeholder="todo-image"/g) ?? []).length,
+        2,
+      );
       assert.doesNotMatch(baseline, /(?:family|type)=|venn/);
       assert.throws(
         () =>
@@ -135,6 +161,9 @@ test('PaperImage family/type is rendering-neutral across scopes, nesting and for
       );
       rmSync(
         path.join(root, paperRoot, `${owner}/manual/${prefix}${slot}-i00.png`),
+      );
+      rmSync(
+        path.join(root, paperRoot, `${owner}/manual/${prefix}${slot}-i00.svg`),
       );
       const missingBaseline = enrichRtqMarkdown(source, context, options);
       assert.equal(

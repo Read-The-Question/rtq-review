@@ -16,6 +16,7 @@ import { NodeDocument } from '@/components/node-document';
 import { PaperPdfPane } from '@/components/paper-pdf-pane';
 import { Separator } from '@/components/ui/separator';
 import { isReadOnlyFolder } from '@/lib/paper-folder-metadata';
+import type { PaperImageMode } from '@/lib/paper-image-mode';
 import type { PaperPdf } from '@/lib/paper-pdf';
 import type {
   ImageTagCatalog,
@@ -34,6 +35,7 @@ type TagEditorAppProps = {
 
 const REVIEW_MODE_STORAGE_KEY = 'rtq-tag-web:review-mode:v1';
 const PDF_VISIBILITY_STORAGE_KEY = 'rtq-tag-web:show-original-pdf:v1';
+const PAPER_IMAGE_MODE_STORAGE_KEY = 'rtq-tag-web:paper-image-mode:v1';
 
 export function TagEditorApp({
   browseHref = '/',
@@ -44,6 +46,7 @@ export function TagEditorApp({
 }: TagEditorAppProps) {
   const [document, setDocument] = useState<PaperDocument>(initialDocument);
   const [mode, setMode] = useState<'image' | 'question'>('question');
+  const [paperImageMode, setPaperImageMode] = useState<PaperImageMode>('all');
   const [showPdf, setShowPdf] = useState(false);
   const [preferencesLoaded, setPreferencesLoaded] = useState(false);
   const isReadOnly = isReadOnlyFolder(document.folderKey);
@@ -65,7 +68,11 @@ export function TagEditorApp({
   useEffect(() => {
     const timeoutId = window.setTimeout(() => {
       const storedMode = window.localStorage.getItem(REVIEW_MODE_STORAGE_KEY);
+      const storedPaperImageMode = window.localStorage.getItem(
+        PAPER_IMAGE_MODE_STORAGE_KEY,
+      );
       setMode(storedMode === 'image' ? 'image' : 'question');
+      setPaperImageMode(storedPaperImageMode === 'svg' ? 'svg' : 'all');
       setShowPdf(
         pdf?.state === 'available' &&
           window.localStorage.getItem(PDF_VISIBILITY_STORAGE_KEY) === 'true',
@@ -81,8 +88,9 @@ export function TagEditorApp({
       return;
     }
     window.localStorage.setItem(REVIEW_MODE_STORAGE_KEY, mode);
+    window.localStorage.setItem(PAPER_IMAGE_MODE_STORAGE_KEY, paperImageMode);
     window.localStorage.setItem(PDF_VISIBILITY_STORAGE_KEY, String(showPdf));
-  }, [mode, preferencesLoaded, showPdf]);
+  }, [mode, paperImageMode, preferencesLoaded, showPdf]);
 
   useEffect(() => {
     if (saveState.tone !== 'success') {
@@ -215,7 +223,18 @@ export function TagEditorApp({
           </button>
         </div>
 
-        <div className="review-mode-pdf-control">
+        <div className="review-mode-view-controls">
+          <label className="image-version-control">
+            <span>Image versions</span>
+            <select
+              onChange={event =>
+                setPaperImageMode(event.target.value as PaperImageMode)
+              }
+              value={paperImageMode}>
+              <option value="all">All formats</option>
+              <option value="svg">SVG only</option>
+            </select>
+          </label>
           {pdf?.state === 'available' ? (
             <button
               aria-pressed={showPdf}
@@ -249,6 +268,7 @@ export function TagEditorApp({
             onDocumentChange={updateDocument}
             onDocumentRefresh={refreshDocument}
             onSaveStateChange={setSaveState}
+            paperImageMode={paperImageMode}
             readOnly={isReadOnly}
             tagCatalog={tagCatalog}
           />
@@ -259,6 +279,7 @@ export function TagEditorApp({
             onDocumentChange={updateDocument}
             onDocumentRefresh={refreshDocument}
             onSaveStateChange={setSaveState}
+            paperImageMode={paperImageMode}
             readOnly={isReadOnly}
           />
         )}

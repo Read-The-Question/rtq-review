@@ -41,6 +41,7 @@ test('prepares canonical LongDivision SVG through the maths-assets package comma
 
   assert.equal(typeof prepared.svgMarkup, 'string');
   assert.match(String(prepared.svgMarkup), /^<svg\b/);
+  assert.doesNotMatch(String(prepared.svgMarkup), />\s+</);
   assert.equal(typeof prepared.naturalWidth, 'number');
   assert.equal(typeof prepared.naturalHeight, 'number');
   assert.equal(typeof prepared.minimumReadableWidth, 'number');

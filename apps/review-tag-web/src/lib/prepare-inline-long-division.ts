@@ -25,5 +25,10 @@ export function prepareInlineLongDivisionSvg(
     );
   }
 
-  return JSON.parse(result.stdout) as Record<string, unknown>;
+  const prepared = JSON.parse(result.stdout) as Record<string, unknown>;
+  if (typeof prepared.svgMarkup === 'string') {
+    prepared.svgMarkup = prepared.svgMarkup.replace(/>\s+</g, '><');
+  }
+
+  return prepared;
 }

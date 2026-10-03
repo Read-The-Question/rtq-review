@@ -40,20 +40,23 @@ test('keeps surrounding paper content and marks each repeated image independentl
 });
 
 test('image review composes the question document and shared tag controls', async () => {
-  const [document, imageDocument, imageEditor, css] = await Promise.all([
-    fs.readFile(new URL('components/node-document.tsx', sourceRoot), 'utf8'),
-    fs.readFile(
-      new URL('components/image-tag-document.tsx', sourceRoot),
-      'utf8',
-    ),
-    fs.readFile(
-      new URL('components/image-tag-occurrence-editor.tsx', sourceRoot),
-      'utf8',
-    ),
-    fs.readFile(new URL('app/globals.css', sourceRoot), 'utf8'),
-  ]);
+  const [document, imageDocument, imageEditor, tagEditor, css] =
+    await Promise.all([
+      fs.readFile(new URL('components/node-document.tsx', sourceRoot), 'utf8'),
+      fs.readFile(
+        new URL('components/image-tag-document.tsx', sourceRoot),
+        'utf8',
+      ),
+      fs.readFile(
+        new URL('components/image-tag-occurrence-editor.tsx', sourceRoot),
+        'utf8',
+      ),
+      fs.readFile(new URL('components/tag-editor-app.tsx', sourceRoot), 'utf8'),
+      fs.readFile(new URL('app/globals.css', sourceRoot), 'utf8'),
+    ]);
 
   assert.match(imageDocument, /<ImageNodeDocument/);
+  assert.match(imageDocument, /paperImageMode=\{paperImageMode\}/);
   assert.match(document, /review\.kind === 'image'/);
   assert.match(document, /<ImageTagMarkdown/);
   assert.match(document, /review\.kind === 'question'/);
@@ -65,6 +68,15 @@ test('image review composes the question document and shared tag controls', asyn
   assert.match(document, /Parent tag inheritance off/);
   assert.doesNotMatch(document, /QuestionGlance|ImageGlance/);
   assert.match(css, /@rtq\/review-paper-browser\/paper-outline\.css/);
+  assert.match(css, /\.paper-images--svg/);
+  assert.match(tagEditor, /PAPER_IMAGE_MODE_STORAGE_KEY/);
+  assert.match(tagEditor, /<option value="all">All formats<\/option>/);
+  assert.match(tagEditor, /<option value="svg">SVG only<\/option>/);
+  assert.match(tagEditor, /paperImageMode=\{paperImageMode\}/);
+  assert.match(
+    css,
+    /\.paper-image-group\[data-has-svg='false'\][\s\S]*\.paper-image-variant:not\(\[data-primary='true'\]\)/,
+  );
   assert.match(imageEditor, /<TagGroup/);
   assert.match(imageEditor, /<TagPicker/);
   assert.match(

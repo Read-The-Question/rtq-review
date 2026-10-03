@@ -11,7 +11,7 @@ import { validatePaperListMarkdown } from '@rtq/review-paper-markdown/validate';
 
 import {
   PAPER_IMAGE_EXTENSIONS,
-  resolveCanonicalPaperImageExtension,
+  resolveCanonicalPaperImageExtensions,
 } from './paper-asset-reader.ts';
 import { EXTERNAL_ASSETS_ROOT } from './paper-paths.ts';
 import { normalizePaperTableMarkdown } from './paper-table-markdown.ts';
@@ -19,6 +19,8 @@ import { prepareInlineLongDivisionSvg } from './prepare-inline-long-division.ts'
 
 const API_ASSET_PREFIX = '/api/assets';
 const MISSING_IMAGE_RELATIVE_PATH = 'papers/missing/missing_image.svg';
+const TODO_IMAGE_MARKUP =
+  '<span class="paper-image-placeholder" data-rtq-placeholder="todo-image">Image is not implemented yet.</span>';
 const PAPER_IMAGE_REGEX = /(?:%image%|TODOIMAGE|<PaperImage\b[^\n>]*\/>)/g;
 const PAPER_IMAGE_PREPARATION_ATTRIBUTES = [
   'alt',
@@ -389,7 +391,7 @@ function normalizePaperContentIndent(
   );
 }
 
-function paperImageAssetRelativePath(
+function paperImageAssetRelativePaths(
   context: AssetContext,
   assetScope: PaperImageAssetScope,
   scopeIndex: number | undefined,
@@ -414,17 +416,17 @@ function paperImageAssetRelativePath(
     ...ownerSegments,
     `${compactAssetPrefix(context)}${scopeToken}-i${String(imageIndex).padStart(2, '0')}`,
   ].join('/');
-  const extension = resolveCanonicalPaperImageExtension(
+  const extensions = resolveCanonicalPaperImageExtensions(
     context.assetFileStem ?? context.fileStem,
     sourceRelativeStem,
     EXTERNAL_ASSETS_ROOT,
   );
 
-  return {
+  return (extensions.length ? extensions : [undefined]).map(extension => ({
     extension,
     relativePath: `${logicalPath}.${extension ?? 'png'}`,
     sourceRelativePath: `${sourceRelativeStem}.${extension ?? 'png'}`,
-  };
+  }));
 }
 
 export function paperImageAssetState(
@@ -433,12 +435,12 @@ export function paperImageAssetState(
   scopeIndex: number | undefined,
   imageIndex: number,
 ) {
-  return paperImageAssetRelativePath(
+  return paperImageAssetRelativePaths(
     context,
     assetScope,
     scopeIndex,
     imageIndex,
-  ).extension === undefined
+  )[0].extension === undefined
     ? ('missing' as const)
     : ('available' as const);
 }
@@ -667,12 +669,24 @@ function prepareLongDivision(
   };
 }
 
-function paperImageMarkup(
+function paperImageFormat(
+  extension: (typeof PAPER_IMAGE_EXTENSIONS)[number] | undefined,
+) {
+  if (extension === undefined) return 'Missing';
+  if (extension === 'png') return 'PNG';
+  if (extension === 'svg') return 'SVG';
+  return 'JPEG';
+}
+
+function paperImageVariantMarkup(
   componentKey: string,
   relativePath: string,
+  extension: (typeof PAPER_IMAGE_EXTENSIONS)[number] | undefined,
   assetScope: PaperImageAssetScope,
   metadata: PaperImageMetadata,
   technical: PaperImageTechnicalEntry,
+  primary: boolean,
+  showFormat: boolean,
 ) {
   const attrs = parseComponentAttributes(componentKey);
   const kind = attrs.kind ?? 'essential';
@@ -694,13 +708,47 @@ function paperImageMarkup(
     ? `<span id="${escapeHtmlAttribute(descriptionId)}" class="sr-only">${escapeHtmlAttribute(metadata.description)}</span>`
     : '';
 
-  return `<div class="paper-image-layout" data-indent="${indent}"><img src="${escapeHtmlAttribute(`${API_ASSET_PREFIX}/${relativePath}`)}" alt="${escapeHtmlAttribute(
+  const format = paperImageFormat(extension);
+  const formatLabel = showFormat
+    ? `<span class="paper-image-format">${format}</span>`
+    : '';
+
+  return `<div class="paper-image-variant" data-format="${extension ?? 'missing'}" data-primary="${primary}">${formatLabel}<div class="paper-image-layout" data-indent="${indent}"><img src="${escapeHtmlAttribute(`${API_ASSET_PREFIX}/${relativePath}`)}" alt="${escapeHtmlAttribute(
     alt,
   )}" width="${technical.intrinsicWidth}" height="${technical.intrinsicHeight}"${describedBy} data-slot="paper-image" data-alt-review="${reviewState}" data-kind="${escapeHtmlAttribute(
     kind,
   )}" data-asset-scope="${escapeHtmlAttribute(assetScope)}" data-display-size="${escapeHtmlAttribute(displaySize)}" data-align="${escapeHtmlAttribute(
     align,
-  )}" data-indent="${indent}" class="paper-image" style="${escapeHtmlAttribute(paperImageStyle(displaySize, align))}" /></div>${description}`;
+  )}" data-indent="${indent}" class="paper-image" style="${escapeHtmlAttribute(paperImageStyle(displaySize, align))}" /></div>${description}</div>`;
+}
+
+function paperImageMarkup(
+  componentKey: string,
+  variants: readonly {
+    extension: (typeof PAPER_IMAGE_EXTENSIONS)[number] | undefined;
+    relativePath: string;
+    technical: PaperImageTechnicalEntry;
+  }[],
+  assetScope: PaperImageAssetScope,
+  metadata: PaperImageMetadata,
+) {
+  const hasSvg = variants.some(variant => variant.extension === 'svg');
+  const showFormat = variants.length > 1;
+  const markup = variants
+    .map((variant, index) =>
+      paperImageVariantMarkup(
+        componentKey,
+        variant.relativePath,
+        variant.extension,
+        assetScope,
+        metadata,
+        variant.technical,
+        index === 0,
+        showFormat,
+      ),
+    )
+    .join('');
+  return `<div class="paper-image-group" data-has-svg="${hasSvg}" data-variant-count="${variants.length}">${markup}</div>`;
 }
 
 function longDivisionMarkup(
@@ -731,6 +779,9 @@ function replacePaperImages(
   let imageIndex = imageIndexOffset;
 
   return text.replace(PAPER_IMAGE_REGEX, match => {
+    if (!match.startsWith('<PaperImage')) {
+      return TODO_IMAGE_MARKUP;
+    }
     const attrs = parseComponentAttributes(match);
     const preparationAttribute = PAPER_IMAGE_PREPARATION_ATTRIBUTES.find(
       attribute => attrs[attribute] !== undefined,
@@ -751,15 +802,12 @@ function replacePaperImages(
         `PaperImage must not author ${unknownAttribute}; allowed authored attributes are assetScope, kind, family, displaySize, align, and indent.`,
       );
     }
-    if (match.startsWith('<PaperImage') && attrs.assetScope !== expectedScope) {
+    if (attrs.assetScope !== expectedScope) {
       throw new Error(
         `PaperImage requires assetScope="${expectedScope}" in ${expectedScope} content; received ${JSON.stringify(attrs.assetScope)}.`,
       );
     }
-    if (!match.startsWith('<PaperImage') && expectedScope !== 'question') {
-      throw new Error(`${match} is only supported in question content.`);
-    }
-    const resolution = paperImageAssetRelativePath(
+    const resolutions = paperImageAssetRelativePaths(
       context,
       expectedScope,
       scopeIndex,
@@ -770,20 +818,18 @@ function replacePaperImages(
       expectedScope,
       scopeIndex,
       imageIndex,
-      resolution.extension,
+      resolutions[0].extension,
     );
-    const technical = paperImageTechnicalEntry(
-      context,
-      resolution.sourceRelativePath,
-      resolution.extension,
-    );
-    const markup = paperImageMarkup(
-      match,
-      resolution.relativePath,
-      expectedScope,
-      metadata,
-      technical,
-    );
+    const variants = resolutions.map(resolution => ({
+      extension: resolution.extension,
+      relativePath: resolution.relativePath,
+      technical: paperImageTechnicalEntry(
+        context,
+        resolution.sourceRelativePath,
+        resolution.extension,
+      ),
+    }));
+    const markup = paperImageMarkup(match, variants, expectedScope, metadata);
     imageIndex += 1;
     return markup;
   });

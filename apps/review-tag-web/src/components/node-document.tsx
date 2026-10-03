@@ -15,6 +15,7 @@ import { RtqMarkdown } from '@/components/rtq-markdown';
 import { TagGroup, TagPicker } from '@/components/tag-review-controls';
 import { Button } from '@/components/ui/button';
 import { Switch } from '@/components/ui/switch';
+import type { PaperImageMode } from '@/lib/paper-image-mode';
 import type {
   FolderKey,
   ImageTagCatalog,
@@ -33,6 +34,7 @@ type NodeDocumentProps = {
     message: string;
     tone: 'error' | 'idle' | 'saving' | 'success';
   }) => void;
+  paperImageMode: PaperImageMode;
   readOnly: boolean;
   tagCatalog: TagCatalog;
 };
@@ -842,6 +844,7 @@ function ReviewNodeDocument({
   onDocumentChange,
   onDocumentRefresh,
   onSaveStateChange,
+  paperImageMode,
   readOnly,
   review,
 }: Omit<NodeDocumentProps, 'tagCatalog'> & { review: DocumentReview }) {
@@ -1003,7 +1006,9 @@ function ReviewNodeDocument({
   }, [detailStorageKey, detailVisibility, loadedDetailVisibilityKey]);
 
   return (
-    <div className="document-pane" ref={scrollContainerRef}>
+    <div
+      className={cn('document-pane', `paper-images--${paperImageMode}`)}
+      ref={scrollContainerRef}>
       <div className="document-pane__inner">
         {detailNodePaths.length ? (
           <div className="document-view-controls">

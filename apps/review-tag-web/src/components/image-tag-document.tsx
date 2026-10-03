@@ -3,6 +3,7 @@
 import { ImageIcon } from 'lucide-react';
 
 import { ImageNodeDocument } from '@/components/node-document';
+import type { PaperImageMode } from '@/lib/paper-image-mode';
 import type { ImageTagCatalog, PaperDocument } from '@/lib/paper-types';
 
 type SaveState = {
@@ -16,6 +17,7 @@ export function ImageTagDocument({
   onDocumentChange,
   onDocumentRefresh,
   onSaveStateChange,
+  paperImageMode,
   readOnly,
 }: {
   catalog: ImageTagCatalog;
@@ -23,6 +25,7 @@ export function ImageTagDocument({
   onDocumentChange: (document: PaperDocument) => void;
   onDocumentRefresh: () => Promise<PaperDocument>;
   onSaveStateChange: (state: SaveState) => void;
+  paperImageMode: PaperImageMode;
   readOnly: boolean;
 }) {
   if (document.imageOccurrences.length === 0) {
@@ -45,6 +48,7 @@ export function ImageTagDocument({
       onDocumentChange={onDocumentChange}
       onDocumentRefresh={onDocumentRefresh}
       onSaveStateChange={onSaveStateChange}
+      paperImageMode={paperImageMode}
       readOnly={readOnly}
     />
   );

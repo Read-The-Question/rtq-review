@@ -13,6 +13,9 @@ import { validatePaperSymbolMarkdown } from '@rtq/review-paper-markdown/validate
 
 import type {
   DisplayContentField,
+  DisplayPaperImage,
+  DisplayPaperImageTag,
+  DisplayPaperImageVariant,
   DisplayPaperNode,
   DisplayReviewPaper,
   DisplayWorkingSegment,
@@ -27,7 +30,8 @@ import {
 const IMAGE = /(?:%image%|TODOIMAGE|<PaperImage\b[^\n>]*\/>)/g;
 const LONG_DIVISION = /<LongDivision\b[^\n>]*\/>/g;
 const ATTRIBUTE = /([A-Za-z][A-Za-z0-9_-]*)\s*=\s*["']([^"']*)["']/g;
-const IMAGE_EXTENSIONS = ['svg', 'png', 'jpg', 'jpeg'] as const;
+const IMAGE_EXTENSIONS = ['png', 'jpg', 'jpeg', 'svg'] as const;
+const IMAGE_TAG_CATALOG = 'docs/architecture/image-dimensional-tags.json';
 const MISSING_IMAGE = 'papers/missing/missing_image.svg';
 const MISSING_IMAGE_SIZE = { height: 120, width: 160 } as const;
 const MDX_COMMENT = /\{\/\*[\s\S]*?\*\/\}/g;
@@ -47,11 +51,22 @@ const DIMENSION_MANIFEST = 'paper-images.generated.json';
 const TODO_IMAGE_MARKDOWN = '![Image is not implemented yet.](#rtq-todo-image)';
 
 type ImageScope = 'answer' | 'question' | 'working';
+type ImageExtension = (typeof IMAGE_EXTENSIONS)[number];
 type Dimensions = Readonly<{ height: number; width: number }>;
 type ImageLayout = Readonly<{
   align: (typeof ALIGNS)[number];
   displaySize: (typeof DISPLAY_SIZES)[number];
   indent: (typeof INDENTS)[number];
+}>;
+type ImageTagCatalogDimension = Readonly<{
+  attribute: string;
+  key: string;
+  label: string;
+  values: readonly Readonly<{
+    label: string;
+    requires: Readonly<Record<string, string>>;
+    value: string;
+  }>[];
 }>;
 
 function attributes(value: string): Record<string, string> {
@@ -113,6 +128,127 @@ const dimensionCache = new Map<
   string,
   Readonly<{ entries: ReadonlyMap<string, Dimensions>; mtimeMs: number }>
 >();
+
+let imageTagCatalogCache:
+  | Readonly<{
+      dimensions: readonly ImageTagCatalogDimension[];
+      mtimeMs: number;
+      path: string;
+    }>
+  | undefined;
+
+function imageTagCatalog(): readonly ImageTagCatalogDimension[] {
+  const catalogPath = path.join(
+    resolveRtqContentPaths().assetsPackageRoot,
+    IMAGE_TAG_CATALOG,
+  );
+  const mtimeMs = statSync(catalogPath).mtimeMs;
+  if (
+    imageTagCatalogCache?.path === catalogPath &&
+    imageTagCatalogCache.mtimeMs === mtimeMs
+  ) {
+    return imageTagCatalogCache.dimensions;
+  }
+
+  const parsed: unknown = JSON.parse(readFileSync(catalogPath, 'utf8'));
+  if (
+    !parsed ||
+    typeof parsed !== 'object' ||
+    Array.isArray(parsed) ||
+    (parsed as Record<string, unknown>).component !== 'PaperImage' ||
+    !Array.isArray((parsed as Record<string, unknown>).dimensions)
+  ) {
+    throw new Error('Invalid canonical PaperImage tag catalog.');
+  }
+
+  const dimensions = (
+    (parsed as Record<string, unknown>).dimensions as unknown[]
+  ).map<ImageTagCatalogDimension>((entry) => {
+    if (!entry || typeof entry !== 'object' || Array.isArray(entry)) {
+      throw new Error('Invalid PaperImage tag dimension.');
+    }
+    const dimension = entry as Record<string, unknown>;
+    if (
+      typeof dimension.attribute !== 'string' ||
+      typeof dimension.key !== 'string' ||
+      typeof dimension.label !== 'string' ||
+      !Array.isArray(dimension.values)
+    ) {
+      throw new Error('Invalid PaperImage tag dimension.');
+    }
+    return {
+      attribute: dimension.attribute,
+      key: dimension.key,
+      label: dimension.label,
+      values: dimension.values.map((candidate) => {
+        if (
+          !candidate ||
+          typeof candidate !== 'object' ||
+          Array.isArray(candidate)
+        ) {
+          throw new Error('Invalid PaperImage tag value.');
+        }
+        const value = candidate as Record<string, unknown>;
+        if (
+          typeof value.label !== 'string' ||
+          typeof value.value !== 'string' ||
+          !value.requires ||
+          typeof value.requires !== 'object' ||
+          Array.isArray(value.requires)
+        ) {
+          throw new Error('Invalid PaperImage tag value.');
+        }
+        const requires = Object.fromEntries(
+          Object.entries(value.requires).map(([key, requiredValue]) => {
+            if (typeof requiredValue !== 'string') {
+              throw new Error('Invalid PaperImage tag dependency.');
+            }
+            return [key, requiredValue];
+          }),
+        );
+        return {
+          label: value.label,
+          requires,
+          value: value.value,
+        };
+      }),
+    };
+  });
+
+  imageTagCatalogCache = { dimensions, mtimeMs, path: catalogPath };
+  return dimensions;
+}
+
+function imageTags(
+  authored: Readonly<Record<string, string>>,
+): readonly DisplayPaperImageTag[] {
+  const dimensions = imageTagCatalog();
+  return dimensions.flatMap((dimension) => {
+    const assigned = authored[dimension.attribute];
+    if (assigned === undefined) return [];
+    const value = dimension.values.find(
+      (candidate) => candidate.value === assigned,
+    );
+    const supported =
+      value !== undefined &&
+      Object.entries(value.requires).every(([key, requiredValue]) => {
+        const dependency = dimensions.find(
+          (candidate) => candidate.key === key,
+        );
+        return (
+          dependency !== undefined &&
+          authored[dependency.attribute] === requiredValue
+        );
+      });
+    return {
+      dimensionKey: dimension.key,
+      dimensionLabel: dimension.label,
+      supported,
+      value: assigned,
+      valueLabel: value?.label ?? assigned,
+    };
+  });
+}
 
 function dimensions(
   paperRoot: string,
@@ -233,11 +369,19 @@ function imageMetadata(
   }
 }
 
+function imageFormat(
+  extension: ImageExtension,
+): DisplayPaperImageVariant['format'] {
+  if (extension === 'png') return 'PNG';
+  if (extension === 'svg') return 'SVG';
+  return 'JPEG';
+}
+
 function paperImageMarkdown(
   component: string,
   context: ReviewAssetContext,
   imageIndex: number,
-): string {
+): Readonly<{ image: DisplayPaperImage; markdown: string }> {
   const authored = attributes(component);
   const scope = (authored.assetScope ?? context.scope) as ImageScope;
   if (!['question', 'working', 'answer'].includes(scope)) {
@@ -256,20 +400,46 @@ function paperImageMarkdown(
   const matches = IMAGE_EXTENSIONS.filter((extension) =>
     existsSync(path.join(paperRoot, `${location.sourceStem}.${extension}`)),
   );
-  if (matches.length > 1) {
-    throw new Error(`Ambiguous PaperImage at ${location.sourceStem}.`);
-  }
   if (matches.length === 0) {
-    const missing = assetUrl(
-      MISSING_IMAGE,
-      imageParams(layout, MISSING_IMAGE_SIZE),
-    );
-    return `![Missing paper image](${missing})`;
+    const missing = assetUrl(MISSING_IMAGE, {
+      ...imageParams(layout, MISSING_IMAGE_SIZE),
+      kind: 'paper-image',
+    });
+    return {
+      image: {
+        ...layout,
+        alt: 'Missing paper image',
+        description: '',
+        referenceSrc: missing,
+        tags: imageTags(authored),
+        variants: [
+          {
+            format: 'Missing',
+            ...MISSING_IMAGE_SIZE,
+            src: missing,
+          },
+        ],
+      },
+      markdown: `![Missing paper image](${missing})`,
+    };
   }
 
-  const sourcePath = `${location.sourceStem}.${matches[0]}`;
   const metadata = imageMetadata(paperRoot, location.metadata);
-  const relativePath = `papers/${context.paperStem}/${sourcePath}`;
+  const variants = matches.map<DisplayPaperImageVariant>((extension) => {
+    const sourcePath = `${location.sourceStem}.${extension}`;
+    const size = dimensions(paperRoot, sourcePath);
+    const relativePath = `papers/${context.paperStem}/${sourcePath}`;
+    return {
+      format: imageFormat(extension),
+      ...(size ?? {}),
+      src: assetUrl(relativePath, {
+        ...imageParams(layout, size),
+        kind: 'paper-image',
+        ...(metadata.altReview ? { altReview: metadata.altReview } : {}),
+      }),
+    };
+  });
+  const referenceSrc = variants[0].src;
   // Markdown's title slot transports the description; the renderer associates it
   // with the image rather than emitting an HTML title.
   const title = metadata.description
@@ -278,12 +448,18 @@ function paperImageMarkdown(
         .replace(/[\r\n]+/g, ' ')
         .trim()}"`
     : '';
-  const url = assetUrl(relativePath, {
-    ...imageParams(layout, dimensions(paperRoot, sourcePath)),
-    kind: 'paper-image',
-    ...(metadata.altReview ? { altReview: metadata.altReview } : {}),
-  });
-  return `![${markdownText(metadata.alt ?? '')}](${url}${title})`;
+  return {
+    image: {
+      ...layout,
+      alt: metadata.alt ?? '',
+      ...(metadata.altReview ? { altReview: metadata.altReview } : {}),
+      description: metadata.description,
+      referenceSrc,
+      tags: imageTags(authored),
+      variants,
+    },
+    markdown: `![${markdownText(metadata.alt ?? '')}](${referenceSrc}${title})`,
+  };
 }
 
 function longDivisionPath(
@@ -375,16 +551,22 @@ function prepareField(
   try {
     let imageIndex = 0;
     let divisionIndex = 0;
+    const paperImages: DisplayPaperImage[] = [];
     const tables = preparePaperTableMarkdown(
       field.expanded.replace(MDX_COMMENT, ''),
     );
     const paperLists = preparePaperListMarkdown(tables.markdown);
     validatePaperSymbolMarkdown(paperLists.markdown);
-    const images = paperLists.markdown.replace(IMAGE, (component) =>
-      component.startsWith('<')
-        ? paperImageMarkdown(component, field.context, imageIndex++)
-        : TODO_IMAGE_MARKDOWN,
-    );
+    const images = paperLists.markdown.replace(IMAGE, (component) => {
+      if (!component.startsWith('<')) return TODO_IMAGE_MARKDOWN;
+      const prepared = paperImageMarkdown(
+        component,
+        field.context,
+        imageIndex++,
+      );
+      paperImages.push(prepared.image);
+      return prepared.markdown;
+    });
     const prepared = images.replace(LONG_DIVISION, (component) =>
       longDivisionMarkdown(component, field.context, divisionIndex++),
     );
@@ -412,6 +594,7 @@ function prepareField(
               .join(' '),
           }
         : {}),
+      ...(paperImages.length ? { paperImages } : {}),
       rendered: normalizeWorkingSections(prepared, parsed),
       ...(workingSegments ? { workingSegments } : {}),
     };

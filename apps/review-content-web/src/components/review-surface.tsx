@@ -69,6 +69,7 @@ import {
   visibleReviewSides,
   type ReviewContext,
   type ReviewControlMode,
+  type PaperImageMode,
   type ReviewPanelMode,
   type ReviewPreferences,
 } from '@/lib/review-view-model';
@@ -170,6 +171,25 @@ function hasField(field: DisplayContentField): boolean {
   return Boolean(field.rendered.trim() || field.raw.trim());
 }
 
+function PaperMarkdown({
+  field,
+  markdown,
+  preferences,
+}: {
+  field: DisplayContentField;
+  markdown: string;
+  preferences: ReviewPreferences;
+}) {
+  return (
+    <RtqMarkdown
+      imageMode={preferences.paperImageMode}
+      markdown={markdown}
+      paperImages={field.paperImages}
+      showImageTags={preferences.showImageTags}
+    />
+  );
+}
+
 function ContentField({
   field,
   hideLabel = false,
@@ -187,7 +207,13 @@ function ContentField({
       className={`content-field${hideLabel ? ' content-field--unlabelled' : ''}`}
     >
       {hideLabel ? null : <div className="content-field-label">{label}</div>}
-      {field.rendered.trim() ? <RtqMarkdown markdown={field.rendered} /> : null}
+      {field.rendered.trim() ? (
+        <PaperMarkdown
+          field={field}
+          markdown={field.rendered}
+          preferences={preferences}
+        />
+      ) : null}
       <FieldSupportingInfo
         field={field}
         label={label}
@@ -892,11 +918,15 @@ function NodeTags({ node }: { node: DisplayPaperNode }) {
 }
 
 function WorkingStage({
+  field,
   first,
+  preferences,
   segment,
   terminal,
 }: {
+  field: DisplayContentField;
   first: boolean;
+  preferences: ReviewPreferences;
   segment: Extract<DisplayWorkingSegment, { kind: 'section' }>;
   terminal: boolean;
 }) {
@@ -922,7 +952,13 @@ function WorkingStage({
         </div>
       ) : null}
       <div className="working-stage-body">
-        {segment.rendered ? <RtqMarkdown markdown={segment.rendered} /> : null}
+        {segment.rendered ? (
+          <PaperMarkdown
+            field={field}
+            markdown={segment.rendered}
+            preferences={preferences}
+          />
+        ) : null}
       </div>
     </section>
   );
@@ -962,7 +998,11 @@ function WorkingBody({
           if (segment.kind === 'flat') {
             return segment.rendered ? (
               <div className="working-flat-segment" key={`flat-${index}`}>
-                <RtqMarkdown markdown={segment.rendered} />
+                <PaperMarkdown
+                  field={field}
+                  markdown={segment.rendered}
+                  preferences={preferences}
+                />
               </div>
             ) : null;
           }
@@ -970,8 +1010,10 @@ function WorkingBody({
           const currentStage = stageIndex++;
           return (
             <WorkingStage
+              field={field}
               first={currentStage === 0}
               key={`section-${index}`}
+              preferences={preferences}
               segment={segment}
               terminal={currentStage === visibleStageCount - 1}
             />
@@ -2102,25 +2144,41 @@ function PaperContentSearch({
 
 function reviewOutlineNode({
   contentMatchingNodeIds,
+  imageCountsByNodeId,
   matchingNodeIds,
   node,
+  showImageMarkers,
 }: {
   contentMatchingNodeIds: ReadonlySet<string>;
+  imageCountsByNodeId: ReadonlyMap<string, number>;
   matchingNodeIds: ReadonlySet<string>;
   node: ReviewPaperNode;
+  showImageMarkers: boolean;
 }): PaperOutlineNode {
   const exactMatch = matchingNodeIds.has(node.id);
   const contentMatch = contentMatchingNodeIds.has(node.id);
+  const imageCount = imageCountsByNodeId.get(node.id) ?? 0;
+  const badges: NonNullable<PaperOutlineNode['badges']>[number][] = [];
+  if (contentMatch) {
+    badges.push({ label: 'Raw content match', tone: 'search' });
+  }
+  if (showImageMarkers && imageCount > 0) {
+    badges.push({
+      label: `${imageCount} ${imageCount === 1 ? 'paper image' : 'paper images'} in question or working`,
+      text: 'IMG',
+      tone: 'accent',
+    });
+  }
 
   return {
-    badges: contentMatch
-      ? [{ label: 'Raw content match', tone: 'search' }]
-      : undefined,
+    badges: badges.length ? badges : undefined,
     children: node.children.map((child) =>
       reviewOutlineNode({
         contentMatchingNodeIds,
+        imageCountsByNodeId,
         matchingNodeIds,
         node: child,
+        showImageMarkers,
       }),
     ),
     description:
@@ -2139,21 +2197,51 @@ function reviewOutlineNode({
 
 function reviewOutlineSections({
   contentMatchingNodeIds,
+  imageCountsByNodeId,
   matchingNodeIds,
   sections,
+  showImageMarkers,
 }: {
   contentMatchingNodeIds: ReadonlySet<string>;
+  imageCountsByNodeId: ReadonlyMap<string, number>;
   matchingNodeIds: ReadonlySet<string>;
   sections: ReturnType<typeof filterReviewPaper>['matchingSections'];
+  showImageMarkers: boolean;
 }): PaperOutlineSection[] {
   return sections.map((section) => ({
     href: `#${section.id}`,
     id: section.id,
     label: section.label,
     nodes: section.questions.map((node) =>
-      reviewOutlineNode({ contentMatchingNodeIds, matchingNodeIds, node }),
+      reviewOutlineNode({
+        contentMatchingNodeIds,
+        imageCountsByNodeId,
+        matchingNodeIds,
+        node,
+        showImageMarkers,
+      }),
     ),
   }));
+}
+
+function paperImageCountsByNode(
+  paper: DisplayReviewPaper,
+): ReadonlyMap<string, number> {
+  const counts = new Map<string, number>();
+
+  function visit(node: DisplayPaperNode) {
+    const count =
+      (node.content.question.paperImages?.length ?? 0) +
+      node.content.workings.reduce(
+        (total, working) => total + (working.working.paperImages?.length ?? 0),
+        0,
+      );
+    if (count > 0) counts.set(node.id, count);
+    node.children.forEach(visit);
+  }
+
+  paper.sections.forEach((section) => section.questions.forEach(visit));
+  return counts;
 }
 
 function QuestionNavigation({
@@ -2582,14 +2670,26 @@ export function ReviewSurface({
     () => new Set(result.contentMatchingNodeIds),
     [result.contentMatchingNodeIds],
   );
+  const imageCountsByNodeId = useMemo(
+    () => paperImageCountsByNode(paper),
+    [paper],
+  );
   const outlineSections = useMemo(
     () =>
       reviewOutlineSections({
         contentMatchingNodeIds,
+        imageCountsByNodeId,
         matchingNodeIds,
         sections: result.matchingSections,
+        showImageMarkers: preferences.showImageMarkers,
       }),
-    [contentMatchingNodeIds, matchingNodeIds, result.matchingSections],
+    [
+      contentMatchingNodeIds,
+      imageCountsByNodeId,
+      matchingNodeIds,
+      preferences.showImageMarkers,
+      result.matchingSections,
+    ],
   );
   const selectedFilterCount =
     DIMENSIONAL_TAG_AXES.reduce(
@@ -3720,6 +3820,33 @@ export function ReviewSurface({
                   label="Tags"
                   onChange={(value) => updatePreference('showTags', value)}
                 />
+                <PreferenceToggle
+                  checked={preferences.showImageTags}
+                  label="Image tags"
+                  onChange={(value) => updatePreference('showImageTags', value)}
+                />
+                <PreferenceToggle
+                  checked={preferences.showImageMarkers}
+                  label="Image markers in navigation"
+                  onChange={(value) =>
+                    updatePreference('showImageMarkers', value)
+                  }
+                />
+                <label className="view-option-select">
+                  <span>Image versions</span>
+                  <select
+                    onChange={(event) =>
+                      updatePreference(
+                        'paperImageMode',
+                        event.target.value as PaperImageMode,
+                      )
+                    }
+                    value={preferences.paperImageMode}
+                  >
+                    <option value="all">All formats</option>
+                    <option value="svg">SVG only</option>
+                  </select>
+                </label>
                 <PreferenceToggle
                   checked={preferences.showStatusBackground}
                   label="Status background"

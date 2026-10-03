@@ -2864,6 +2864,98 @@ a.paper-row:hover {
   width: 100%;
 }
 
+.rtq-markdown .rtq-paper-image-tags {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: 0.65rem;
+}
+
+.rtq-markdown .rtq-paper-image-tags-label {
+  color: var(--ink-muted);
+  font-size: 0.875rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  margin-right: 0.1rem;
+  text-transform: uppercase;
+}
+
+.rtq-markdown .rtq-paper-image-tag,
+.rtq-markdown .rtq-paper-image-tags-empty {
+  align-items: center;
+  background: #e5ebdf;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  display: inline-flex;
+  font-size: 0.875rem;
+  gap: 0.3rem;
+  line-height: 1.2;
+  padding: 0.25rem 0.5rem;
+}
+
+.rtq-markdown .rtq-paper-image-tag[data-dimension='math'],
+.rtq-markdown .rtq-paper-image-tag[data-dimension='type'] {
+  background: #dce8ec;
+}
+
+.rtq-markdown .rtq-paper-image-tag[data-dimension='frame'] {
+  background: #ede2d5;
+}
+
+.rtq-markdown .rtq-paper-image-tag[data-dimension='marker'] {
+  background: #eee5c9;
+}
+
+.rtq-markdown .rtq-paper-image-tag[data-dimension='reasoning'] {
+  background: #e5deeb;
+}
+
+.rtq-markdown .rtq-paper-image-tag > span {
+  color: var(--ink-muted);
+}
+
+.rtq-markdown .rtq-paper-image-tag > strong {
+  font-weight: 700;
+}
+
+.rtq-markdown .rtq-paper-image-tag[data-supported='false'] {
+  border-color: var(--signal);
+  color: var(--signal-dark);
+}
+
+.rtq-markdown .rtq-paper-image-tag > em {
+  font-size: 0.875rem;
+  font-style: normal;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.rtq-markdown .rtq-paper-image-tags-empty {
+  color: var(--ink-muted);
+}
+
+.rtq-markdown .rtq-paper-image-variants,
+.rtq-markdown .rtq-paper-image-variant {
+  display: block;
+}
+
+.rtq-markdown .rtq-paper-image-variant + .rtq-paper-image-variant {
+  border-top: 1px solid var(--line);
+  margin-top: 1rem;
+  padding-top: 1rem;
+}
+
+.rtq-markdown .rtq-paper-image-format {
+  color: var(--ink-muted);
+  display: block;
+  font-size: 0.875rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  margin-bottom: 0.45rem;
+  text-transform: uppercase;
+}
+
 .rtq-markdown .rtq-paper-image[data-indent='sm'] {
   padding-inline-start: 0.75rem;
 }

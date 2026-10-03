@@ -19,6 +19,11 @@ import type {
 import { createElement, Fragment } from 'react';
 import { renderToStaticMarkup } from 'react-dom/server';
 
+import type {
+  DisplayContentField,
+  DisplayPaperImage,
+} from './display-model.ts';
+
 import '../../scripts/paper-image-test-loader.mjs';
 
 const { prepareReviewPaperNodeForDisplay } = await import('./prepare-paper.ts');
@@ -44,6 +49,43 @@ function fixture(t: TestContext) {
   write('pnpm-workspace.yaml', 'packages: []\n');
   write('packages/papers/package.json', '{"name":"@rtq/papers"}');
   write('packages/assets/package.json', '{"name":"@rtq/maths-assets"}');
+  write(
+    'packages/assets/docs/architecture/image-dimensional-tags.json',
+    JSON.stringify({
+      component: 'PaperImage',
+      dimensions: [
+        {
+          attribute: 'family',
+          key: 'family',
+          label: 'Family',
+          values: [
+            {
+              label: 'Venn diagram',
+              requires: {},
+              value: 'venn',
+            },
+            {
+              label: 'Geometry',
+              requires: {},
+              value: 'geometry',
+            },
+          ],
+        },
+        {
+          attribute: 'type',
+          key: 'type',
+          label: 'Type',
+          values: [
+            {
+              label: 'Triangle',
+              requires: { family: 'geometry' },
+              value: 'triangle',
+            },
+          ],
+        },
+      ],
+    }),
+  );
   mkdirSync(path.join(root, 'packages/papers/papers/toml'), {
     recursive: true,
   });
@@ -76,10 +118,10 @@ function fixture(t: TestContext) {
       raw: markdown,
     };
   }
-  function prepare(
+  function prepareDisplay(
     markdown = '<PaperImage assetScope="question" />',
     scope: ReviewAssetContext['scope'] = 'question',
-  ) {
+  ): DisplayContentField {
     const node: ReviewPaperNode = {
       children: [],
       content: {
@@ -122,7 +164,13 @@ function fixture(t: TestContext) {
           ? prepared.workings[0].working
           : prepared.answers[0].answer;
     assert.equal(result.preparationIssue, undefined);
-    return result.rendered;
+    return result;
+  }
+  function prepare(
+    markdown = '<PaperImage assetScope="question" />',
+    scope: ReviewAssetContext['scope'] = 'question',
+  ) {
+    return prepareDisplay(markdown, scope).rendered;
   }
   function snapshot() {
     return readdirSync(root, { recursive: true, withFileTypes: true })
@@ -136,7 +184,7 @@ function fixture(t: TestContext) {
       })
       .sort(([left], [right]) => left.localeCompare(right));
   }
-  return { asset, image, prepare, snapshot, sourcePath };
+  return { asset, image, prepare, prepareDisplay, snapshot, sourcePath };
 }
 
 function metadata(alt: string | null, description: string | null = null) {
@@ -149,8 +197,17 @@ function metadata(alt: string | null, description: string | null = null) {
   };
 }
 
-function render(markdown: string) {
-  return renderToStaticMarkup(createElement(RtqMarkdown, { markdown }));
+function render(
+  markdown: string,
+  options: Readonly<{
+    imageMode?: 'all' | 'svg';
+    paperImages?: readonly DisplayPaperImage[];
+    showImageTags?: boolean;
+  }> = {},
+) {
+  return renderToStaticMarkup(
+    createElement(RtqMarkdown, { markdown, ...options }),
+  );
 }
 
 function imageTags(html: string): string[] {
@@ -158,7 +215,7 @@ function imageTags(html: string): string[] {
 }
 
 for (const scope of ['question', 'working', 'answer'] as const) {
-  test(`ignores occurrence-local family/type in ${scope} preparation and rendering`, (t) => {
+  test(`renders occurrence-local image tags in ${scope} content`, (t) => {
     const f = fixture(t);
     const owner =
       scope === 'question'
@@ -174,45 +231,128 @@ for (const scope of ['question', 'working', 'answer'] as const) {
         `${owner}/manual/s01-q01${slot}-i${index}.png`,
       );
     }
-    const before = f.snapshot();
-    const source = `<PaperImage assetScope="${scope}" displaySize="lg" />\n\n<PaperImage assetScope="${scope}" />`;
-    const baseline = f.prepare(source, scope);
-    for (const attributes of [
-      'family="venn"',
-      'family="geometry" type="square"',
-      'family="geometry" type="rectangle"',
-      'family="geometry" type="triangle"',
-      'family="chart" type="pie"',
-      'family="chart" type="bar"',
-      'family="chart" type="coordinate-grid"',
-      'family="chart" type="triangle"',
-      'family="custom"',
-      'family="illustration"',
-      'family="" type=""',
-      'family="future-family" type="future-type"',
-      'type="triangle"',
-    ]) {
-      const tagged = f.prepare(
-        source.replaceAll('<PaperImage', `<PaperImage ${attributes}`),
-        scope,
-      );
-      assert.equal(tagged, baseline);
-      assert.equal(render(tagged), render(baseline));
-      assert.equal(imageTags(render(tagged)).length, 2);
-      assert.doesNotMatch(tagged, /(?:family|type)=|venn/);
-    }
-    assert.deepEqual(f.snapshot(), before);
+    const source = `<PaperImage assetScope="${scope}" family="geometry" type="triangle" displaySize="lg" />\n\n<PaperImage assetScope="${scope}" family="venn" />`;
+    const prepared = f.prepareDisplay(source, scope);
+    assert.deepEqual(
+      prepared.paperImages?.map((image) =>
+        image.tags.map((tag) => ({
+          dimension: tag.dimensionLabel,
+          supported: tag.supported,
+          value: tag.valueLabel,
+        })),
+      ),
+      [
+        [
+          { dimension: 'Family', supported: true, value: 'Geometry' },
+          { dimension: 'Type', supported: true, value: 'Triangle' },
+        ],
+        [{ dimension: 'Family', supported: true, value: 'Venn diagram' }],
+      ],
+    );
+    const html = render(prepared.rendered, {
+      paperImages: prepared.paperImages,
+    });
+    assert.equal(imageTags(html).length, 2);
+    assert.match(html, /Image tags/);
+    assert.match(html, /data-dimension="family"/);
+    assert.match(html, /data-dimension="type"/);
+    assert.match(html, /Family/);
+    assert.match(html, /Geometry/);
+    assert.match(html, /Triangle/);
+    assert.match(html, /Venn diagram/);
+    assert.doesNotMatch(
+      render(prepared.rendered, {
+        paperImages: prepared.paperImages,
+        showImageTags: false,
+      }),
+      /Image tags|Geometry|Triangle|Venn diagram/,
+    );
   });
 }
 
-test('family/type does not change the existing missing-binary fallback', (t) => {
+test('shows image tags with the existing missing-binary fallback', (t) => {
   const f = fixture(t);
-  assert.equal(
-    f.prepare(
-      '<PaperImage assetScope="question" family="geometry" type="triangle" />',
-    ),
-    f.prepare('<PaperImage assetScope="question" />'),
+  const prepared = f.prepareDisplay(
+    '<PaperImage assetScope="question" family="geometry" type="triangle" />',
   );
+  const html = render(prepared.rendered, {
+    paperImages: prepared.paperImages,
+  });
+  assert.match(html, /Missing paper image/);
+  assert.match(html, /Geometry/);
+  assert.match(html, /Triangle/);
+});
+
+test('renders matching active formats in PNG, JPEG, SVG order', (t) => {
+  const f = fixture(t);
+  f.image(metadata('A geometric diagram.', 'Compare each active format.'));
+  f.asset(f.sourcePath.replace(/\.png$/, '.jpeg'), 'fixture jpeg image bytes');
+  f.asset(f.sourcePath.replace(/\.png$/, '.svg'), '<svg />');
+  f.asset(
+    'paper-images.generated.json',
+    JSON.stringify({
+      assets: {
+        [f.sourcePath]: { intrinsicHeight: 120, intrinsicWidth: 160 },
+        [f.sourcePath.replace(/\.png$/, '.jpeg')]: {
+          intrinsicHeight: 240,
+          intrinsicWidth: 320,
+        },
+        [f.sourcePath.replace(/\.png$/, '.svg')]: {
+          intrinsicHeight: 360,
+          intrinsicWidth: 480,
+        },
+      },
+    }),
+  );
+  const prepared = f.prepareDisplay(
+    '<PaperImage assetScope="question" family="geometry" type="triangle" />',
+  );
+  assert.deepEqual(
+    prepared.paperImages?.[0].variants.map((variant) => ({
+      format: variant.format,
+      height: variant.height,
+      width: variant.width,
+    })),
+    [
+      { format: 'PNG', height: 120, width: 160 },
+      { format: 'JPEG', height: 240, width: 320 },
+      { format: 'SVG', height: 360, width: 480 },
+    ],
+  );
+
+  const all = render(prepared.rendered, {
+    imageMode: 'all',
+    paperImages: prepared.paperImages,
+  });
+  const allImages = imageTags(all);
+  assert.equal(allImages.length, 3);
+  assert.match(allImages[0], /i00\.png/);
+  assert.match(allImages[1], /i00\.jpeg/);
+  assert.match(allImages[2], /i00\.svg/);
+  assert.match(all, /PNG/);
+  assert.match(all, /JPEG/);
+  assert.match(all, /SVG/);
+  assert.match(all, /Compare each active format\./);
+
+  const svgOnly = render(prepared.rendered, {
+    imageMode: 'svg',
+    paperImages: prepared.paperImages,
+  });
+  assert.equal(imageTags(svgOnly).length, 1);
+  assert.match(imageTags(svgOnly)[0], /i00\.svg/);
+});
+
+test('SVG-only mode falls back to the first active raster format', (t) => {
+  const f = fixture(t);
+  f.image(metadata('A raster diagram.'));
+  f.asset(f.sourcePath.replace(/\.png$/, '.jpg'), 'fixture jpeg image bytes');
+  const prepared = f.prepareDisplay();
+  const html = render(prepared.rendered, {
+    imageMode: 'svg',
+    paperImages: prepared.paperImages,
+  });
+  assert.equal(imageTags(html).length, 1);
+  assert.match(imageTags(html)[0], /i00\.png/);
 });
 
 for (const [alt, state] of [

@@ -6,30 +6,34 @@ import {
 import type { ReviewFilterSelection } from '@rtq/review-paper-model/client';
 import type { ReviewSide } from '@rtq/review-store/types';
 
-export const REVIEW_PREFERENCES_KEY = 'rtq.review-content.preferences.v8';
+export const REVIEW_PREFERENCES_KEY = 'rtq.review-content.preferences.v10';
 export const REVIEW_FILTER_DISCLOSURE_KEY =
   'rtq.review-content.filter-disclosure.v1';
 export const PREVIOUS_REVIEW_PREFERENCES_KEY =
-  'rtq.review-content.preferences.v7';
+  'rtq.review-content.preferences.v9';
 export const LEGACY_REVIEW_PREFERENCES_KEY =
-  'rtq.review-content.preferences.v6';
+  'rtq.review-content.preferences.v8';
 export const EARLIER_REVIEW_PREFERENCES_KEY =
-  'rtq.review-content.preferences.v5';
+  'rtq.review-content.preferences.v7';
 export const INITIAL_REVIEW_PREFERENCES_KEY =
-  'rtq.review-content.preferences.v4';
+  'rtq.review-content.preferences.v6';
 export const OLDEST_REVIEW_PREFERENCES_KEY =
-  'rtq.review-content.preferences.v3';
+  'rtq.review-content.preferences.v5';
 
+export type PaperImageMode = 'all' | 'svg';
 export type ReviewControlMode = 'advanced' | 'simple';
 export type ReviewContext = 'answer' | 'question';
 export type ReviewPanelMode = 'both' | 'content' | 'image';
 export type VisibleReviewSide = ReviewContext;
 
 export type ReviewPreferences = Readonly<{
+  paperImageMode: PaperImageMode;
   reviewControlMode: ReviewControlMode;
   reviewPanelMode: ReviewPanelMode;
   reviewSide: VisibleReviewSide;
   showFeedback: boolean;
+  showImageMarkers: boolean;
+  showImageTags: boolean;
   showImageStatusInfo: boolean;
   showInlineReview: boolean;
   showMetadata: boolean;
@@ -42,10 +46,13 @@ export type ReviewPreferences = Readonly<{
 }>;
 
 export const DEFAULT_REVIEW_PREFERENCES: ReviewPreferences = {
+  paperImageMode: 'all',
   reviewControlMode: 'simple',
   reviewPanelMode: 'both',
   reviewSide: 'answer',
   showFeedback: true,
+  showImageMarkers: true,
+  showImageTags: true,
   showImageStatusInfo: true,
   showInlineReview: true,
   showMetadata: true,
@@ -197,9 +204,20 @@ export function parseReviewPreferences(
     earlier?.reviewPanelMode ??
     initial?.reviewPanelMode ??
     oldest?.reviewPanelMode;
+  const requestedPaperImageMode =
+    parsed?.paperImageMode ??
+    previous?.paperImageMode ??
+    legacy?.paperImageMode ??
+    earlier?.paperImageMode ??
+    initial?.paperImageMode ??
+    oldest?.paperImageMode;
   const reviewSide = legacySide();
 
   return {
+    paperImageMode:
+      requestedPaperImageMode === 'all' || requestedPaperImageMode === 'svg'
+        ? requestedPaperImageMode
+        : DEFAULT_REVIEW_PREFERENCES.paperImageMode,
     reviewControlMode:
       requestedControlMode === 'advanced' || requestedControlMode === 'simple'
         ? requestedControlMode
@@ -215,6 +233,14 @@ export function parseReviewPreferences(
       'showFeedback',
       legacySidePreference(reviewSide, 'Feedback') ??
         DEFAULT_REVIEW_PREFERENCES.showFeedback,
+    ),
+    showImageMarkers: preference(
+      'showImageMarkers',
+      DEFAULT_REVIEW_PREFERENCES.showImageMarkers,
+    ),
+    showImageTags: preference(
+      'showImageTags',
+      DEFAULT_REVIEW_PREFERENCES.showImageTags,
     ),
     showImageStatusInfo: preference(
       'showImageStatusInfo',

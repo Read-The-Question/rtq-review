@@ -188,6 +188,9 @@ test('top-level questions expose current outcomes and feedback as scan badges', 
     /updatePreference\('showQuestionStatusInfo', value\)/,
   );
   assert.match(component, /updatePreference\('showImageStatusInfo', value\)/);
+  assert.match(component, /updatePreference\('showImageTags', value\)/);
+  assert.match(component, /updatePreference\('showImageMarkers', value\)/);
+  assert.match(component, /updatePreference\([\s\S]*'paperImageMode'/);
   assert.match(
     component,
     /question-node--status-background-\$\{contentStatusTone\}/,
@@ -567,6 +570,11 @@ test('view options support minimal metadata and centered review panel modes', as
   assert.match(component, /<summary>View options<\/summary>/);
   assert.match(component, /checked=\{preferences\.showMetadata\}/);
   assert.match(component, /label="Metadata"/);
+  assert.match(component, /label="Image tags"/);
+  assert.match(component, /label="Image markers in navigation"/);
+  assert.match(component, /value=\{preferences\.paperImageMode\}/);
+  assert.match(component, /<option value="all">All formats<\/option>/);
+  assert.match(component, /<option value="svg">SVG only<\/option>/);
   assert.match(component, /value=\{preferences\.reviewPanelMode\}/);
   assert.match(component, /<option value="content">Content only<\/option>/);
   assert.match(component, /<option value="image">Image only<\/option>/);
@@ -582,6 +590,16 @@ test('view options support minimal metadata and centered review panel modes', as
     /\.review-lanes--single \.review-lane\s*{[^}]*justify-self:\s*center/s,
   );
   assert.match(css, /\.paper-summary\s*{[^}]*display:\s*flex/s);
+  assert.match(
+    component,
+    /function paperImageCountsByNode[\s\S]*node\.content\.question\.paperImages[\s\S]*working\.working\.paperImages/,
+  );
+  assert.match(component, /text:\s*'IMG'/);
+  assert.match(component, /showImageMarkers:\s*preferences\.showImageMarkers/);
+  assert.match(
+    css,
+    /\.rtq-paper-image-tag\[data-dimension='type'\]\s*{[^}]*background:\s*#dce8ec/s,
+  );
 });
 
 test('raw source search keeps contextual scope with reduced paper and collection prominence', async () => {

@@ -26,26 +26,26 @@ import {
 } from './review-view-model.ts';
 
 test('display preference storage is versioned for status chrome controls', () => {
-  assert.equal(REVIEW_PREFERENCES_KEY, 'rtq.review-content.preferences.v8');
+  assert.equal(REVIEW_PREFERENCES_KEY, 'rtq.review-content.preferences.v10');
   assert.equal(
     PREVIOUS_REVIEW_PREFERENCES_KEY,
-    'rtq.review-content.preferences.v7',
+    'rtq.review-content.preferences.v9',
   );
   assert.equal(
     LEGACY_REVIEW_PREFERENCES_KEY,
-    'rtq.review-content.preferences.v6',
+    'rtq.review-content.preferences.v8',
   );
   assert.equal(
     EARLIER_REVIEW_PREFERENCES_KEY,
-    'rtq.review-content.preferences.v5',
+    'rtq.review-content.preferences.v7',
   );
   assert.equal(
     INITIAL_REVIEW_PREFERENCES_KEY,
-    'rtq.review-content.preferences.v4',
+    'rtq.review-content.preferences.v6',
   );
   assert.equal(
     OLDEST_REVIEW_PREFERENCES_KEY,
-    'rtq.review-content.preferences.v3',
+    'rtq.review-content.preferences.v5',
   );
 });
 
@@ -73,6 +73,22 @@ test('preferences survive partial and malformed local values', () => {
   });
   assert.equal(parseReviewPreferences('{"showPdf":false}').showPdf, false);
   assert.equal(
+    parseReviewPreferences('{"showImageTags":false}').showImageTags,
+    false,
+  );
+  assert.equal(
+    parseReviewPreferences('{"showImageMarkers":false}').showImageMarkers,
+    false,
+  );
+  assert.equal(
+    parseReviewPreferences('{"paperImageMode":"svg"}').paperImageMode,
+    'svg',
+  );
+  assert.equal(
+    parseReviewPreferences('{"paperImageMode":"unsupported"}').paperImageMode,
+    'all',
+  );
+  assert.equal(
     parseReviewPreferences('{"showQuestionStatusInfo":false}')
       .showQuestionStatusInfo,
     false,
@@ -96,8 +112,22 @@ test('preferences survive partial and malformed local values', () => {
   assert.equal(
     parseReviewPreferences(
       null,
-      '{"showQuestionStatusInfo":false,"showImageStatusInfo":false}',
-    ).showQuestionStatusInfo,
+      '{"showQuestionStatusInfo":false,"showImageStatusInfo":false,"showImageTags":false,"showImageMarkers":false,"paperImageMode":"svg"}',
+    ).paperImageMode,
+    'svg',
+  );
+  assert.equal(
+    parseReviewPreferences(
+      null,
+      '{"showQuestionStatusInfo":false,"showImageStatusInfo":false,"showImageTags":false,"showImageMarkers":false,"paperImageMode":"svg"}',
+    ).showImageTags,
+    false,
+  );
+  assert.equal(
+    parseReviewPreferences(
+      null,
+      '{"showQuestionStatusInfo":false,"showImageStatusInfo":false,"showImageTags":false,"showImageMarkers":false,"paperImageMode":"svg"}',
+    ).showImageMarkers,
     false,
   );
 });

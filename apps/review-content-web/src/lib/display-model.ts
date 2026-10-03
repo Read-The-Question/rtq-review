@@ -8,6 +8,33 @@ import type {
 
 import type { WorkingSectionPhase } from './working-sections';
 
+export type DisplayPaperImageTag = Readonly<{
+  dimensionKey: string;
+  dimensionLabel: string;
+  supported: boolean;
+  value: string;
+  valueLabel: string;
+}>;
+
+export type DisplayPaperImageVariant = Readonly<{
+  format: 'JPEG' | 'Missing' | 'PNG' | 'SVG';
+  height?: number;
+  src: string;
+  width?: number;
+}>;
+
+export type DisplayPaperImage = Readonly<{
+  align: 'center' | 'end' | 'start';
+  alt: string;
+  altReview?: 'pending' | 'reviewed-decorative' | 'reviewed-informative';
+  description: string;
+  displaySize: 'full' | 'lg' | 'md' | 'sm';
+  indent: 'md' | 'none' | 'sm';
+  referenceSrc: string;
+  tags: readonly DisplayPaperImageTag[];
+  variants: readonly DisplayPaperImageVariant[];
+}>;
+
 export type DisplayWorkingSegment = Readonly<
   | {
       kind: 'flat';
@@ -24,6 +51,7 @@ export type DisplayWorkingSegment = Readonly<
 
 export type DisplayContentField = ReviewContentField &
   Readonly<{
+    paperImages?: readonly DisplayPaperImage[];
     preparationIssue?: string;
     rendered: string;
     workingSegments?: readonly DisplayWorkingSegment[];

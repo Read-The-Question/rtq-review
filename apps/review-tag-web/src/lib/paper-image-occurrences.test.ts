@@ -45,6 +45,28 @@ test('discovers nested and repeated question and working PaperImage occurrences'
       occurrence => !occurrence.previewMarkdown.includes('LongDivision'),
     ),
   );
+
+  for (const node of document.nodesFlat) {
+    for (const occurrence of node.imageOccurrences) {
+      if (occurrence.field.kind === 'question') {
+        assert.equal(occurrence.contextMarkdown, node.content.question);
+        continue;
+      }
+
+      const values =
+        occurrence.field.kind === 'working'
+          ? node.content.workings
+          : node.content.answers;
+      const indexes =
+        occurrence.field.kind === 'working'
+          ? node.content.workingIndexes
+          : node.content.answerIndexes;
+      const contentIndex = indexes.indexOf(occurrence.field.index);
+
+      assert.notEqual(contentIndex, -1);
+      assert.equal(occurrence.contextMarkdown, values[contentIndex]);
+    }
+  }
 });
 
 test('discovers answer PaperImage components while excluding legacy and generated image forms', () => {

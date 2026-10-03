@@ -28,13 +28,49 @@ const catalog: ImageTagCatalog = {
           description: 'A Venn diagram.',
           guide: { path: null, status: 'missing' },
           label: 'Venn diagram',
+          lastUpdated: '2026-10-03',
+          requires: {},
           status: 'supported',
           value: 'venn',
+        },
+        {
+          description: 'A geometric diagram.',
+          guide: {
+            path: 'docs/image-style-guides/family.geometry.md',
+            status: 'placeholder',
+          },
+          label: 'Geometry',
+          lastUpdated: '2026-10-03',
+          requires: {},
+          status: 'supported',
+          value: 'geometry',
+        },
+      ],
+    },
+    {
+      attribute: 'type',
+      cardinality: 'zero-or-one',
+      inheritance: 'none',
+      key: 'type',
+      label: 'Type',
+      omission: 'unclassified',
+      values: [
+        {
+          description: 'A triangle.',
+          guide: {
+            path: 'docs/image-style-guides/type.triangle.md',
+            status: 'placeholder',
+          },
+          label: 'Triangle',
+          lastUpdated: '2026-10-03',
+          requires: { family: 'geometry' },
+          status: 'supported',
+          value: 'triangle',
         },
       ],
     },
   ],
-  version: 1,
+  version: 2,
 };
 
 const source = `title = "Fixture"
@@ -229,5 +265,41 @@ test('rejects reordered, mismatched, malformed, and unsupported mutations', () =
     (error: unknown) =>
       error instanceof ImageTagMutationError &&
       /Unsupported image tag dimension shape/.test(error.message),
+  );
+});
+
+test('rejects mutations that violate catalog value dependencies', () => {
+  assert.throws(
+    () => mutate({ dimensionKey: 'type', value: 'triangle' }),
+    /type="triangle" requires family="geometry"/,
+  );
+
+  const geometrySource = source.replace('family="venn"', 'family="geometry"');
+  const tagged = applyImageTagMutationToRaw(
+    geometrySource,
+    {
+      dimensionKey: 'type',
+      field: { kind: 'question' },
+      nodeUuid: 'ROOT',
+      occurrenceIndex: 0,
+      value: 'triangle',
+    },
+    catalog,
+  );
+  assert.match(tagged, /family="geometry" type="triangle"/);
+  assert.throws(
+    () =>
+      applyImageTagMutationToRaw(
+        tagged,
+        {
+          dimensionKey: 'family',
+          field: { kind: 'question' },
+          nodeUuid: 'ROOT',
+          occurrenceIndex: 0,
+          value: 'venn',
+        },
+        catalog,
+      ),
+    /type="triangle" requires family="geometry"/,
   );
 });

@@ -95,6 +95,8 @@ for (const expected of [
 }
 assert.match(paper.text, /api\/assets\/papers/);
 assert.match(paper.text, /aria-label="Filtered question navigation"/);
+assert.match(paper.text, /class="paper-outline"/);
+assert.match(paper.text, /aria-current="location"/);
 assert.match(paper.text, /aria-expanded="false"/);
 assert.doesNotMatch(paper.text, /Keyboard review target/);
 assert.match(paper.text, /href="#question-s0\.q4\.sq0"/);

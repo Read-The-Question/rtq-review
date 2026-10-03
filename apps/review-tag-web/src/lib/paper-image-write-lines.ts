@@ -1,5 +1,6 @@
 import crypto from 'node:crypto';
 
+import { validateImageTagAssignments } from './image-tag-catalog.ts';
 import {
   findPaperImageComponents,
   updatePaperImageAttribute,
@@ -181,6 +182,17 @@ export function applyImageTagMutationToRaw(
   const component = components[input.occurrenceIndex];
   if (!component) {
     fail('The selected PaperImage occurrence no longer exists.');
+  }
+  const nextAttributes = { ...component.attributes };
+  if (input.value === null) {
+    delete nextAttributes[dimension.attribute];
+  } else {
+    nextAttributes[dimension.attribute] = input.value;
+  }
+  try {
+    validateImageTagAssignments(catalog, nextAttributes);
+  } catch (error) {
+    fail(error instanceof Error ? error.message : String(error));
   }
   const updatedComponent = updatePaperImageAttribute(
     component,

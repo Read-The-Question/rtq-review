@@ -22,13 +22,15 @@ export type TagCatalog = Record<TagDimension, string[]>;
 
 export type ImageTagGuide = {
   path: string | null;
-  status: 'available' | 'missing';
+  status: 'available' | 'missing' | 'placeholder';
 };
 
 export type ImageTagCatalogValue = {
   description: string;
   guide: ImageTagGuide;
   label: string;
+  lastUpdated: string;
+  requires: Record<string, string>;
   status: 'supported';
   value: string;
 };
@@ -50,7 +52,7 @@ export type ImageTagCatalog = {
   };
   component: 'PaperImage';
   dimensions: ImageTagCatalogDimension[];
-  version: 1;
+  version: 2;
 };
 
 export type PaperImageScope = 'answer' | 'question' | 'working';
@@ -74,10 +76,12 @@ export type ImageTagOccurrence = {
 };
 
 export type PaperNodeContent = {
+  answerIndexes: number[];
   answers: string[];
   formulas: string[];
   question: string;
   tips: string[];
+  workingIndexes: number[];
   workings: string[];
 };
 

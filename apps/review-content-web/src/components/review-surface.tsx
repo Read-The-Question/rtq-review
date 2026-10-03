@@ -32,6 +32,11 @@ import {
   type ReviewFilterSelection,
   type ReviewPaperNode,
 } from '@rtq/review-paper-model/client';
+import {
+  PaperOutline,
+  type PaperOutlineNode,
+  type PaperOutlineSection,
+} from '@rtq/review-paper-browser/paper-outline';
 
 import type {
   DisplayContentField,
@@ -2095,118 +2100,60 @@ function PaperContentSearch({
   );
 }
 
-function QuestionIndexNode({
+function reviewOutlineNode({
   contentMatchingNodeIds,
-  currentNodeId,
   matchingNodeIds,
   node,
 }: {
   contentMatchingNodeIds: ReadonlySet<string>;
-  currentNodeId: string | undefined;
   matchingNodeIds: ReadonlySet<string>;
   node: ReviewPaperNode;
-}) {
+}): PaperOutlineNode {
   const exactMatch = matchingNodeIds.has(node.id);
   const contentMatch = contentMatchingNodeIds.has(node.id);
-  const current = currentNodeId === node.id;
-  return (
-    <li
-      className={`question-index-item question-index-item--depth-${node.depth}`}
-    >
-      <a
-        aria-current={current ? 'true' : undefined}
-        className={`${exactMatch ? 'question-index-link--match' : ''}${
-          current ? ' question-index-link--current' : ''
-        }`}
-        href={`#question-${node.id}`}
-      >
-        <span>
-          {node.reviewSource && node.depth === 0
-            ? `${node.reviewSource.resultPosition} · ${node.reviewSource.paperTitle}`
-            : node.label}
-          {node.reviewSource && node.depth === 0 ? (
-            <small>
-              {node.reviewSource.sectionLabel} · {node.label}
-            </small>
-          ) : null}
-        </span>
-        {contentMatch ? (
-          <span
-            aria-label="Raw content match"
-            className="question-index-search-marker"
-            title="Raw content match"
-          />
-        ) : !exactMatch ? (
-          <small>context</small>
-        ) : null}
-      </a>
-      {node.children.length > 0 ? (
-        <ol>
-          {node.children.map((child) => (
-            <QuestionIndexNode
-              contentMatchingNodeIds={contentMatchingNodeIds}
-              currentNodeId={currentNodeId}
-              key={child.id}
-              matchingNodeIds={matchingNodeIds}
-              node={child}
-            />
-          ))}
-        </ol>
-      ) : null}
-    </li>
-  );
+
+  return {
+    badges: contentMatch
+      ? [{ label: 'Raw content match', tone: 'search' }]
+      : undefined,
+    children: node.children.map((child) =>
+      reviewOutlineNode({
+        contentMatchingNodeIds,
+        matchingNodeIds,
+        node: child,
+      }),
+    ),
+    description:
+      node.reviewSource && node.depth === 0
+        ? `${node.reviewSource.sectionLabel} · ${node.label}`
+        : undefined,
+    href: `#question-${node.id}`,
+    id: node.id,
+    label:
+      node.reviewSource && node.depth === 0
+        ? `${node.reviewSource.resultPosition} · ${node.reviewSource.paperTitle}`
+        : node.label,
+    state: exactMatch ? 'match' : 'context',
+  };
 }
 
-function PaperQuestionIndex({
+function reviewOutlineSections({
   contentMatchingNodeIds,
-  currentNodeId,
   matchingNodeIds,
   sections,
 }: {
   contentMatchingNodeIds: ReadonlySet<string>;
-  currentNodeId: string | undefined;
   matchingNodeIds: ReadonlySet<string>;
   sections: ReturnType<typeof filterReviewPaper>['matchingSections'];
-}) {
-  const indexRef = useRef<HTMLElement>(null);
-
-  useEffect(() => {
-    const frame = requestAnimationFrame(() => {
-      indexRef.current
-        ?.querySelector<HTMLElement>('[aria-current="true"]')
-        ?.scrollIntoView({ block: 'nearest' });
-    });
-    return () => cancelAnimationFrame(frame);
-  }, [currentNodeId]);
-
-  return (
-    <aside
-      className="question-index"
-      aria-label="Filtered question navigation"
-      ref={indexRef}
-    >
-      <span>Questions</span>
-      {sections.map((section) => (
-        <section className="question-index-section" key={section.id}>
-          <a className="question-index-section-link" href={`#${section.id}`}>
-            <span>{section.label}</span>
-            <strong>{section.questions.length}</strong>
-          </a>
-          <ol>
-            {section.questions.map((question) => (
-              <QuestionIndexNode
-                contentMatchingNodeIds={contentMatchingNodeIds}
-                currentNodeId={currentNodeId}
-                key={question.id}
-                matchingNodeIds={matchingNodeIds}
-                node={question}
-              />
-            ))}
-          </ol>
-        </section>
-      ))}
-    </aside>
-  );
+}): PaperOutlineSection[] {
+  return sections.map((section) => ({
+    href: `#${section.id}`,
+    id: section.id,
+    label: section.label,
+    nodes: section.questions.map((node) =>
+      reviewOutlineNode({ contentMatchingNodeIds, matchingNodeIds, node }),
+    ),
+  }));
 }
 
 function QuestionNavigation({
@@ -2634,6 +2581,15 @@ export function ReviewSurface({
   const contentMatchingNodeIds = useMemo(
     () => new Set(result.contentMatchingNodeIds),
     [result.contentMatchingNodeIds],
+  );
+  const outlineSections = useMemo(
+    () =>
+      reviewOutlineSections({
+        contentMatchingNodeIds,
+        matchingNodeIds,
+        sections: result.matchingSections,
+      }),
+    [contentMatchingNodeIds, matchingNodeIds, result.matchingSections],
   );
   const selectedFilterCount =
     DIMENSIONAL_TAG_AXES.reduce(
@@ -3902,11 +3858,10 @@ export function ReviewSurface({
       ) : (
         <ContentSearchContext.Provider value={compiledContentSearch}>
           <div className="paper-body">
-            <PaperQuestionIndex
-              contentMatchingNodeIds={contentMatchingNodeIds}
-              currentNodeId={currentCursor?.node.id}
-              matchingNodeIds={matchingNodeIds}
-              sections={result.matchingSections}
+            <PaperOutline
+              activeId={currentCursor?.node.id}
+              ariaLabel="Filtered question navigation"
+              sections={outlineSections}
             />
             <div className="paper-sections">
               {result.matchingSections.map((section) => (

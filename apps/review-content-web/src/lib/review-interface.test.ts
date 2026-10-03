@@ -22,6 +22,14 @@ const browserCssUrl = new URL(
   '../../../../packages/review-paper-browser/src/styles.css',
   import.meta.url,
 );
+const paperOutlineUrl = new URL(
+  '../../../../packages/review-paper-browser/src/paper-outline.tsx',
+  import.meta.url,
+);
+const paperOutlineCssUrl = new URL(
+  '../../../../packages/review-paper-browser/src/paper-outline.css',
+  import.meta.url,
+);
 const changeRequestInboxUrl = new URL(
   '../components/change-request-inbox.tsx',
   import.meta.url,
@@ -387,26 +395,26 @@ test('paper header omits source-paper filename badges', async () => {
 });
 
 test('the filtered paper rail links every visible question hierarchy level', async () => {
-  const [component, css] = await Promise.all([
+  const [component, css, outline, outlineCss] = await Promise.all([
     fs.readFile(componentUrl, 'utf8'),
     fs.readFile(cssUrl, 'utf8'),
+    fs.readFile(paperOutlineUrl, 'utf8'),
+    fs.readFile(paperOutlineCssUrl, 'utf8'),
   ]);
 
-  assert.match(component, /function QuestionIndexNode/);
-  assert.match(component, /href=\{`#question-\$\{node\.id\}`\}/);
+  assert.match(component, /function reviewOutlineNode/);
+  assert.match(component, /href: `#question-\$\{node\.id\}`/);
   assert.match(component, /node\.children\.map/);
-  assert.match(component, /aria-current=\{current \? 'true' : undefined\}/);
-  assert.match(component, /currentNodeId=\{currentCursor\?\.node\.id\}/);
-  assert.match(
-    component,
-    /querySelector<HTMLElement>\('\[aria-current="true"\]'\)/,
-  );
-  assert.match(component, /sections=\{result\.matchingSections\}/);
-  assert.match(component, /aria-label="Filtered question navigation"/);
-  assert.match(
-    css,
-    /\.question-index\s*{[^}]*position:\s*sticky;[^}]*top:\s*var\(--review-toolbar-offset, 6rem\)/s,
-  );
+  assert.match(component, /<PaperOutline/);
+  assert.match(component, /activeId=\{currentCursor\?\.node\.id\}/);
+  assert.match(outline, /aria-current=\{current \? 'location' : undefined\}/);
+  assert.match(outline, /querySelector<HTMLElement>\(/);
+  assert.match(outline, /outline\.scrollTo/);
+  assert.doesNotMatch(outline, /scrollIntoView/);
+  assert.match(component, /sections: result\.matchingSections/);
+  assert.match(component, /ariaLabel="Filtered question navigation"/);
+  assert.match(css, /@rtq\/review-paper-browser\/paper-outline\.css/);
+  assert.match(outlineCss, /\.paper-outline\s*{[^}]*position:\s*sticky/s);
   assert.match(
     css,
     /\.paper-section\s*{[^}]*scroll-margin-top:\s*calc\(var\(--review-toolbar-offset, 16rem\) \+ 2rem\)/s,
@@ -415,28 +423,33 @@ test('the filtered paper rail links every visible question hierarchy level', asy
     css,
     /\.question-node\s*{[^}]*scroll-margin-top:\s*calc\(var\(--review-toolbar-offset, 16rem\) \+ 2rem\)/s,
   );
-  assert.match(css, /\.question-index-link--current\s*{/);
+  assert.match(
+    outlineCss,
+    /\.paper-outline__link\[aria-current='location'\]\s*{/,
+  );
 });
 
 test('raw content search highlights source ranges and exact navigation nodes', async () => {
-  const [component, css] = await Promise.all([
+  const [component, css, outline, outlineCss] = await Promise.all([
     fs.readFile(componentUrl, 'utf8'),
     fs.readFile(cssUrl, 'utf8'),
+    fs.readFile(paperOutlineUrl, 'utf8'),
+    fs.readFile(paperOutlineCssUrl, 'utf8'),
   ]);
 
   assert.match(component, /contentSearchRanges\(/);
   assert.match(component, /className="raw-search-match"/);
   assert.match(component, /result\.contentMatchingNodeIds/);
   assert.match(component, /contentMatchingNodeIds\.has\(node\.id\)/);
-  assert.match(component, /className="question-index-search-marker"/);
-  assert.match(component, /aria-label="Raw content match"/);
-  assert.match(component, /title="Raw content match"/);
+  assert.match(component, /label: 'Raw content match'/);
+  assert.match(component, /tone: 'search'/);
+  assert.match(outline, /aria-label=\{badge\.label\}/);
+  assert.match(outline, /title=\{badge\.label\}/);
   assert.match(css, /\.raw-search-match\s*{[^}]*background:\s*#ffe45e/s);
   assert.match(
-    css,
-    /\.question-index-search-marker\s*{[^}]*border-radius:\s*50%/s,
+    outlineCss,
+    /\.paper-outline__badge:empty\s*{[^}]*border:\s*2px solid #9a4600/s,
   );
-  assert.doesNotMatch(css, /\.question-index-link--search-match/);
 });
 
 test('previous feedback is controlled globally without repeated hidden-history prompts', async () => {

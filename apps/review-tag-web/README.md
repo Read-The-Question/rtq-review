@@ -64,17 +64,27 @@ long-division paths are unchanged. Doctor is not a reviewer build/startup gate.
 
 Question Tags and Image Tags are separate review modes. Image Tags discovers
 authored `PaperImage` components in question, working, and answer fields and
-shows each occurrence with its resolved image, rendered field context, owning
-node UUID, and catalog-driven controls. Writes revalidate the source version,
-resolve exactly one node by `rtq-uuid`, and update only the selected component
-prop; positional question coordinates remain an asset-resolution detail.
+uses the same paper hierarchy, question body, working, answer, and navigation
+as Question Tags. Each authored image stays inline at its exact content
+position and gains the same current/edit/final tag-panel pattern immediately
+below it. Multiple images in one field are independently editable. Writes
+revalidate the source version, resolve exactly one node by `rtq-uuid`, and
+update only the selected component prop; positional question coordinates
+remain an asset-resolution detail.
+
+Both review modes use the same continuous selected-paper outline as Review
+Content Web. The rail follows the active nested node; Question Tags shows
+inheritance exceptions, while Image Tags marks direct image counts and missing
+assets and retains ancestor nodes as context.
 
 The vocabulary and drawing-guide contract are read from the canonical
 [`image-dimensional-tags.json`](https://github.com/Read-The-Question/rtq-content/blob/develop/packages/assets/docs/architecture/image-dimensional-tags.json)
 catalog owned by `@rtq/maths-assets`. The initial editor supports optional
-`family="venn"`; omission is unclassified and image tags never inherit from
-question tags or neighbouring images. Image tags remain rendering-neutral and
-do not change asset URLs, sidecars, manifests, accessibility data, or artwork.
+catalog-defined `family` and `type` values, filters dependent choices using the
+catalog's `requires` metadata, and validates the complete assignment before a
+write. Omission is unclassified and image tags never inherit from question tags
+or neighbouring images. Image tags remain rendering-neutral and do not change
+asset URLs, sidecars, manifests, accessibility data, or artwork.
 
 Canonical and full focus papers also expose an optional, persistent Original
 PDF pane in either review mode. The same-origin PDF route contains reads under

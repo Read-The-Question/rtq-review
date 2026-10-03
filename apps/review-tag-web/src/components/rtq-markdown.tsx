@@ -9,7 +9,7 @@ import {
   remarkPaperStructuredTable,
   remarkPaperTable,
 } from '@rtq/review-paper-markdown';
-import ReactMarkdown from 'react-markdown';
+import ReactMarkdown, { type Components } from 'react-markdown';
 import rehypeKatex from 'rehype-katex';
 import rehypeRaw from 'rehype-raw';
 import remarkGfm from 'remark-gfm';
@@ -20,10 +20,15 @@ import { cn } from '@/lib/utils';
 
 type RtqMarkdownProps = {
   className?: string;
+  components?: Components;
   markdown: string;
 };
 
-export function RtqMarkdown({ className, markdown }: RtqMarkdownProps) {
+export function RtqMarkdown({
+  className,
+  components,
+  markdown,
+}: RtqMarkdownProps) {
   if (!markdown.trim()) {
     return null;
   }
@@ -31,6 +36,7 @@ export function RtqMarkdown({ className, markdown }: RtqMarkdownProps) {
   return (
     <div className={cn('rtq-markdown', className)}>
       <ReactMarkdown
+        components={components}
         rehypePlugins={[
           rehypePaperTable,
           rehypeRaw,

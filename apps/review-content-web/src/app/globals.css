@@ -1,4 +1,5 @@
 @import '@rtq/review-paper-markdown/paper-table.css';
+@import '@rtq/review-paper-browser/paper-outline.css';
 
 :root {
   --paper: #f5f6f7;
@@ -144,7 +145,7 @@ p {
 .content-field-label,
 .question-label > span,
 .review-panel-heading,
-.question-index > span,
+.paper-outline__heading,
 .paper-section > header > span,
 .entry-number {
   font-family: 'SFMono-Regular', Consolas, monospace;
@@ -2428,111 +2429,6 @@ a.paper-row:hover {
   width: 100%;
 }
 
-.question-index {
-  display: grid;
-  gap: 0.45rem;
-  max-height: calc(100vh - var(--review-toolbar-offset, 6rem) - 1rem);
-  overflow-y: auto;
-  overscroll-behavior: contain;
-  padding-right: 0.55rem;
-  position: sticky;
-  top: var(--review-toolbar-offset, 6rem);
-}
-
-.question-index > span {
-  color: var(--signal);
-  margin-bottom: 0.25rem;
-}
-
-.question-index a {
-  color: var(--muted);
-  text-decoration: none;
-}
-
-.question-index-section {
-  border-top: 1px solid var(--rule);
-  padding-top: 0.55rem;
-}
-
-.question-index-section-link {
-  align-items: center;
-  display: flex;
-  font-size: 0.875rem;
-  font-weight: 750;
-  gap: 0.5rem;
-  justify-content: space-between;
-  padding: 0.2rem 0 0.45rem;
-}
-
-.question-index ol {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-.question-index-item > ol {
-  border-left: 1px solid var(--rule);
-  margin-left: 0.35rem;
-  padding-left: 0.65rem;
-}
-
-.question-index-item > a {
-  align-items: baseline;
-  display: flex;
-  font-size: 0.875rem;
-  gap: 0.4rem;
-  justify-content: space-between;
-  line-height: 1.35;
-  padding: 0.3rem 0;
-}
-
-.question-index-item > a small {
-  color: var(--faint);
-  font-family: 'SFMono-Regular', Consolas, monospace;
-  font-size: 0.875rem;
-}
-
-.question-index-link--match {
-  color: var(--ink) !important;
-  font-weight: 750;
-}
-
-.question-index-search-marker {
-  align-self: center;
-  background: #ffe45e;
-  border: 2px solid #9a4600;
-  border-radius: 50%;
-  box-shadow: 0 0 0 2px var(--paper-bright);
-  flex: 0 0 auto;
-  height: 0.7rem;
-  width: 0.7rem;
-}
-
-.question-index-link--current {
-  background: var(--ink);
-  box-shadow: inset 4px 0 var(--signal);
-  color: var(--paper-bright) !important;
-  font-weight: 800;
-  margin: 0.12rem 0;
-  padding-left: 0.65rem !important;
-  padding-right: 0.45rem !important;
-}
-
-.question-index-link--current small {
-  color: var(--paper-bright) !important;
-  opacity: 0.72;
-}
-
-.question-index a:hover,
-.question-index a:focus-visible {
-  color: var(--signal);
-}
-
-.question-index strong {
-  font-family: 'SFMono-Regular', Consolas, monospace;
-  font-size: 0.875rem;
-}
-
 .paper-sections {
   display: grid;
   gap: 5rem;
@@ -4555,11 +4451,6 @@ a.paper-row:hover {
   .state-facet,
   .state-filter-intro {
     grid-column: auto;
-  }
-
-  .question-index {
-    max-height: 20rem;
-    position: static;
   }
 
   .solution-grid {

@@ -341,10 +341,16 @@ async function buildNodeContent(
 
   return {
     content: {
+      answerIndexes: answers.flatMap((answer, index) =>
+        answer.markdown ? [index] : [],
+      ),
       answers: answers.map(answer => answer.markdown).filter(Boolean),
       formulas: workings.flatMap(entry => entry.formulas),
       question: question.markdown,
       tips: workings.flatMap(entry => entry.tips),
+      workingIndexes: workings.flatMap((entry, index) =>
+        entry.working ? [index] : [],
+      ),
       workings: workings.map(entry => entry.working).filter(Boolean),
     },
     imageOccurrences: [

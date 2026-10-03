@@ -7,13 +7,15 @@
     "./browser": "./src/browser.tsx",
     "./frame": "./src/frame.tsx",
     "./model": "./src/model.ts",
+    "./paper-outline": "./src/paper-outline.tsx",
+    "./paper-outline.css": "./src/paper-outline.css",
     "./server": "./src/server.ts",
     "./styles.css": "./src/styles.css"
   },
   "scripts": {
     "format:check": "prettier --check .",
     "format:fix": "prettier --write .",
-    "test": "node --no-warnings --test --experimental-strip-types src/model.test.ts",
+    "test": "node --no-warnings --test --experimental-strip-types src/model.test.ts src/paper-outline.test.ts",
     "types": "tsc --noEmit"
   },
   "dependencies": {

@@ -36,6 +36,8 @@ const paper = await read(paperPath);
 assert.match(paper.text, /Question tags/);
 assert.match(paper.text, /Image tags/);
 assert.match(paper.text, /Show original PDF/);
+assert.match(paper.text, /class="paper-outline/);
+assert.match(paper.text, /aria-current="location"/);
 
 const legacy = await fetch(
   `${baseUrl}/files/focusPaperToml/${stem}?q=bancrofts`,

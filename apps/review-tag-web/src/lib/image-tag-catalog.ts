@@ -11,6 +11,7 @@ import type {
 type JsonRecord = Record<string, unknown>;
 
 const IDENTIFIER_PATTERN = /^[a-z][a-z0-9-]*$/;
+const DATE_PATTERN = /^\d{4}-\d{2}-\d{2}$/;
 const SUPPORTED_SCOPES = new Set<PaperImageScope>([
   'question',
   'working',
@@ -82,6 +83,19 @@ function unique(value: string, seen: Set<string>, context: string) {
   seen.add(value);
 }
 
+function date(value: unknown, context: string) {
+  const parsed = text(value, context);
+  const timestamp = Date.parse(parsed);
+  if (
+    !DATE_PATTERN.test(parsed) ||
+    !Number.isFinite(timestamp) ||
+    new Date(timestamp).toISOString().slice(0, 10) !== parsed
+  ) {
+    fail(`${context} must be a valid YYYY-MM-DD date.`);
+  }
+  return parsed;
+}
+
 function parseValue(
   input: unknown,
   dimensionKey: string,
@@ -92,7 +106,15 @@ function parseValue(
   const value = record(input, context);
   exactKeys(
     value,
-    ['value', 'label', 'description', 'status', 'guide'],
+    [
+      'value',
+      'label',
+      'description',
+      'status',
+      'lastUpdated',
+      'requires',
+      'guide',
+    ],
     context,
   );
   const valueKey = identifier(value.value, `${context}.value`);
@@ -103,13 +125,22 @@ function parseValue(
     if (guide.path !== null) {
       fail(`${context}.guide.path must be null when its guide is missing.`);
     }
-  } else if (guide.status === 'available') {
+  } else if (guide.status === 'available' || guide.status === 'placeholder') {
     text(guide.path, `${context}.guide.path`);
   } else {
     fail(`${context}.guide.status is unsupported.`);
   }
   if (value.status !== 'supported') {
     fail(`${context}.status must be "supported".`);
+  }
+  const requiresRecord = record(value.requires, `${context}.requires`);
+  const requires: Record<string, string> = {};
+  for (const [key, requiredValue] of Object.entries(requiresRecord)) {
+    const parsedKey = identifier(key, `${context}.requires key`);
+    requires[parsedKey] = identifier(
+      requiredValue,
+      `${context}.requires.${parsedKey}`,
+    );
   }
   return {
     description: text(value.description, `${context}.description`),
@@ -118,6 +149,8 @@ function parseValue(
       status: guide.status,
     },
     label: text(value.label, `${context}.label`),
+    lastUpdated: date(value.lastUpdated, `${context}.lastUpdated`),
+    requires,
     status: 'supported',
     value: valueKey,
   };
@@ -179,7 +212,7 @@ export function validateImageTagCatalog(input: unknown): ImageTagCatalog {
     ['version', 'component', 'assignment', 'dimensions'],
     'catalog',
   );
-  if (catalog.version !== 1) {
+  if (catalog.version !== 2) {
     fail(
       `Unsupported image dimensional-tag catalog version: ${String(catalog.version)}.`,
     );
@@ -221,6 +254,24 @@ export function validateImageTagCatalog(input: unknown): ImageTagCatalog {
     (dimension, index) =>
       parseDimension(dimension, dimensionKeys, attributes, index),
   );
+  const earlierDimensions = new Map<string, ImageTagCatalogDimension>();
+  for (const dimension of dimensions) {
+    for (const value of dimension.values) {
+      for (const [key, requiredValue] of Object.entries(value.requires)) {
+        const dependency = earlierDimensions.get(key);
+        if (
+          !dependency?.values.some(
+            candidate => candidate.value === requiredValue,
+          )
+        ) {
+          fail(
+            `${dimension.key}=${value.value} requires ${key}=${requiredValue}, which must be a supported value of an earlier dimension.`,
+          );
+        }
+      }
+    }
+    earlierDimensions.set(dimension.key, dimension);
+  }
   return {
     assignment: {
       scopes: [...parsedScopes],
@@ -228,8 +279,37 @@ export function validateImageTagCatalog(input: unknown): ImageTagCatalog {
     },
     component: 'PaperImage',
     dimensions,
-    version: 1,
+    version: 2,
   };
+}
+
+export function validateImageTagAssignments(
+  catalog: ImageTagCatalog,
+  attributes: Readonly<Record<string, string>>,
+  context = 'PaperImage',
+) {
+  for (const dimension of catalog.dimensions) {
+    const assigned = attributes[dimension.attribute];
+    if (assigned === undefined) continue;
+    const value = dimension.values.find(
+      candidate => candidate.value === assigned,
+    );
+    if (!value) {
+      fail(
+        `${context} has unsupported ${dimension.attribute}=${JSON.stringify(assigned)}; expected one of ${dimension.values.map(candidate => candidate.value).join(', ')}.`,
+      );
+    }
+    for (const [key, requiredValue] of Object.entries(value.requires)) {
+      const dependency = catalog.dimensions.find(
+        candidate => candidate.key === key,
+      );
+      if (!dependency || attributes[dependency.attribute] !== requiredValue) {
+        fail(
+          `${context} ${dimension.attribute}=${JSON.stringify(assigned)} requires ${key}=${JSON.stringify(requiredValue)}.`,
+        );
+      }
+    }
+  }
 }
 
 export async function getImageTagCatalog(

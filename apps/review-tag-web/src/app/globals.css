@@ -2,7 +2,7 @@
 @import '@rtq/review-paper-markdown/paper-table.css';
 @import '@rtq/review-paper-browser/paper-outline.css';
 
-@config '../../../../packages/repository-paths/src/tailwind-svg-sources.ts';
+@config '@rtq/review-repository-paths/tailwind-svg-sources';
 
 :root {
   --background: #ffffff;

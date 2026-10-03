@@ -4,7 +4,8 @@
   "private": true,
   "type": "module",
   "exports": {
-    ".": "./src/index.ts"
+    ".": "./src/index.ts",
+    "./tailwind-svg-sources": "./src/tailwind-svg-sources.ts"
   },
   "scripts": {
     "test": "node --no-warnings --test --experimental-strip-types src/index.test.ts"

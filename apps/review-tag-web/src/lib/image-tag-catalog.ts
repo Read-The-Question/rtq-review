@@ -133,8 +133,8 @@ function parseValue(
   } else {
     fail(`${context}.guide.status is unsupported.`);
   }
-  if (value.status !== 'supported') {
-    fail(`${context}.status must be "supported".`);
+  if (value.status !== 'approved' && value.status !== 'pending-approval') {
+    fail(`${context}.status must be "approved" or "pending-approval".`);
   }
   const requiresRecord = record(value.requires, `${context}.requires`);
   const requires: Record<string, string> = {};
@@ -154,7 +154,7 @@ function parseValue(
     label: text(value.label, `${context}.label`),
     lastUpdated: date(value.lastUpdated, `${context}.lastUpdated`),
     requires,
-    status: 'supported',
+    status: value.status,
     value: valueKey,
   };
 }
@@ -215,7 +215,7 @@ export function validateImageTagCatalog(input: unknown): ImageTagCatalog {
     ['version', 'component', 'assignment', 'dimensions'],
     'catalog',
   );
-  if (catalog.version !== 2) {
+  if (catalog.version !== 3) {
     fail(
       `Unsupported image dimensional-tag catalog version: ${String(catalog.version)}.`,
     );
@@ -282,7 +282,7 @@ export function validateImageTagCatalog(input: unknown): ImageTagCatalog {
     },
     component: 'PaperImage',
     dimensions,
-    version: 2,
+    version: 3,
   };
 }
 

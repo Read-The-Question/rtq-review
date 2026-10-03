@@ -36,9 +36,48 @@ test('placeholder status and last-updated metadata are visible without implying 
   const before = structuredClone(attributes);
   const guidance = imageTagGuidance(catalog, dimension, attributes);
   assert.equal(guidance.label, 'Guide placeholder');
+  assert.equal(guidance.approvalLabel, 'Vocabulary: approved');
   assert.equal(guidance.lastUpdated, value.lastUpdated);
   assert.match(guidance.message!, /Complete and approve.*before drawing/);
   assert.deepEqual(attributes, before);
+});
+
+test('pending vocabulary remains selectable and visible independently of guide readiness', async () => {
+  const catalog = await getImageTagCatalog();
+  const [family, type] = catalog.dimensions;
+  assert.ok(
+    compatibleImageTagValues(catalog, family, {}).some(
+      value => value.value === 'scale',
+    ),
+  );
+  assert.ok(
+    compatibleImageTagValues(catalog, type, { family: 'scale' }).some(
+      value => value.value === 'clock',
+    ),
+  );
+  const attributes = { family: 'scale', type: 'clock' };
+  const value = type.values.find(value => value.value === 'clock')!;
+  const before = structuredClone(attributes);
+  let guidance = imageTagGuidance(catalog, type, attributes);
+  assert.equal(guidance.approvalLabel, 'Vocabulary: pending approval');
+  assert.equal(guidance.label, 'Guide placeholder');
+  assert.match(guidance.message!, /approve this vocabulary before drawing/);
+  value.guide.status = 'available';
+  guidance = imageTagGuidance(catalog, type, attributes);
+  assert.equal(guidance.approvalLabel, 'Vocabulary: pending approval');
+  assert.equal(guidance.label, 'Guide available');
+  assert.match(guidance.message!, /drawing-tool support still needs checking/);
+  value.status = 'approved';
+  assert.equal(
+    imageTagGuidance(catalog, type, attributes).approvalLabel,
+    'Vocabulary: approved',
+  );
+  assert.deepEqual(attributes, before);
+  assert.equal(imageTagGuidance(catalog, type, {}).approvalLabel, null);
+  assert.equal(
+    imageTagGuidance(catalog, type, { type: 'unknown' }).approvalLabel,
+    null,
+  );
 });
 
 test('missing and available guidance remain distinct from renderer support', async () => {

@@ -79,14 +79,18 @@ assets and retains ancestor nodes as context.
 
 The vocabulary and drawing-guide contract are read from the canonical
 [`image-dimensional-tags.json`](https://github.com/Read-The-Question/rtq-content/blob/develop/packages/assets/docs/architecture/image-dimensional-tags.json)
-version-2 catalog owned by `@rtq/maths-assets`. The editor supports optional
+version-3 catalog owned by `@rtq/maths-assets`. The editor supports optional
 catalog-defined `family` and `type` values, filters dependent choices using the
 catalog's `requires` metadata, and validates the complete assignment before a
 write. Omission is unclassified and image tags never inherit from question tags
 or neighbouring images. Image tags remain rendering-neutral and do not change
 asset URLs, sidecars, manifests, accessibility data, or artwork.
 
-The editor displays each selected value's guide status and last-updated date.
+The editor displays each selected value's vocabulary approval (`approved` or
+`pending-approval`), independent guide status and last-updated date. Both approval
+states remain selectable, subject to the same prerequisites. Vocabulary approval
+does not approve this image or its tag assignment, and does not modify review
+outcomes. Pending vocabulary needs agreement before executable drawing.
 Missing and placeholder guidance must be established/completed and approved
 before drawing; even an available guide does not establish renderer support.
 Unsupported or incompatible selections remain visible for explicit correction.

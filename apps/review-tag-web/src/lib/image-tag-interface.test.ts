@@ -73,6 +73,8 @@ test('image review composes the question document and shared tag controls', asyn
   );
   assert.match(imageEditor, /dateTime=\{guidance\.lastUpdated\}/);
   assert.match(imageEditor, /guidance\.message/);
+  assert.match(imageEditor, /guidance\.approvalLabel/);
+  assert.match(imageEditor, /Vocabulary approval is separate/);
   assert.match(imageEditor, /Dependent tags are never removed automatically/);
   assert.match(imageEditor, />Final tags</);
   assert.doesNotMatch(imageEditor, /<select/);

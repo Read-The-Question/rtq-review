@@ -37,12 +37,18 @@ export function imageTagGuidance(
 ) {
   const current = attributes[dimension.attribute];
   if (current === undefined) {
-    return { label: 'Unclassified', lastUpdated: null, message: null };
+    return {
+      label: 'Unclassified',
+      approvalLabel: null,
+      lastUpdated: null,
+      message: null,
+    };
   }
   const value = dimension.values.find(option => option.value === current);
   if (!value) {
     return {
       label: 'Unsupported value',
+      approvalLabel: null,
       lastUpdated: null,
       message: `Choose a supported value or remove ${dimension.label.toLowerCase()} explicitly.`,
     };
@@ -73,9 +79,17 @@ export function imageTagGuidance(
   }[value.guide.status];
   return {
     label: applicable ? guide.label : `Incompatible selection - ${guide.label}`,
+    approvalLabel:
+      value.status === 'approved'
+        ? 'Vocabulary: approved'
+        : 'Vocabulary: pending approval',
     lastUpdated: value.lastUpdated,
-    message: applicable
-      ? guide.message
-      : `Requires ${requirements}. Remove or change incompatible tags explicitly. ${guide.message}`,
+    message:
+      (value.status === 'pending-approval'
+        ? 'Registered for review; approve this vocabulary before drawing. '
+        : '') +
+      (applicable
+        ? guide.message
+        : `Requires ${requirements}. Remove or change incompatible tags explicitly. ${guide.message}`),
   };
 }

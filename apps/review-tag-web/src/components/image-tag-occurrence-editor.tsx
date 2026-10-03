@@ -197,6 +197,9 @@ function ImageTagPanel({
                 return (
                   <div className="tag-editor-matrix__label" key={dimension.key}>
                     <span>{dimension.label}</span>
+                    {guidance.approvalLabel ? (
+                      <small>{guidance.approvalLabel}</small>
+                    ) : null}
                     <small>{guidance.label}</small>
                     {guidance.lastUpdated ? (
                       <small>
@@ -280,6 +283,10 @@ function ImageTagPanel({
         <div className="inline-editor__section">
           <div className="inline-editor__section-title">Final tags</div>
           <TagGroup emptyLabel="Unclassified" tags={finalTags} />
+          <p className="inline-editor__subtitle">
+            Vocabulary approval is separate from review of this image and its
+            tag assignments. Registered pending values remain selectable.
+          </p>
         </div>
         {!readOnly ? (
           <p className="inline-editor__subtitle">

@@ -31,7 +31,7 @@ const catalog: ImageTagCatalog = {
           label: 'Venn diagram',
           lastUpdated: '2026-10-03',
           requires: {},
-          status: 'supported',
+          status: 'approved',
           value: 'venn',
         },
         {
@@ -43,7 +43,7 @@ const catalog: ImageTagCatalog = {
           label: 'Geometry',
           lastUpdated: '2026-10-03',
           requires: {},
-          status: 'supported',
+          status: 'approved',
           value: 'geometry',
         },
       ],
@@ -65,13 +65,13 @@ const catalog: ImageTagCatalog = {
           label: 'Triangle',
           lastUpdated: '2026-10-03',
           requires: { family: 'geometry' },
-          status: 'supported',
+          status: 'approved',
           value: 'triangle',
         },
       ],
     },
   ],
-  version: 2,
+  version: 3,
 };
 
 const source = `title = "Fixture"

@@ -11,7 +11,7 @@ import {
 test('loads the canonical image catalog for schema-driven controls', async () => {
   const catalog = await getImageTagCatalog();
 
-  assert.equal(catalog.version, 2);
+  assert.equal(catalog.version, 3);
   assert.equal(catalog.component, 'PaperImage');
   assert.deepEqual(
     new Set(catalog.assignment.scopes),
@@ -23,7 +23,15 @@ test('loads the canonical image catalog for schema-driven controls', async () =>
   );
   assert.deepEqual(
     catalog.dimensions[0]?.values.map(value => value.value),
-    ['venn', 'illustration', 'geometry', 'chart', 'custom'],
+    [
+      'venn',
+      'illustration',
+      'geometry',
+      'chart',
+      'custom',
+      'scale',
+      'schematic',
+    ],
   );
   assert.deepEqual(catalog.dimensions[1]?.values[2], {
     description:
@@ -35,9 +43,33 @@ test('loads the canonical image catalog for schema-driven controls', async () =>
     label: 'Triangle',
     lastUpdated: '2026-10-03',
     requires: { family: 'geometry' },
-    status: 'supported',
+    status: 'approved',
     value: 'triangle',
   });
+});
+
+test('accepts pending vocabulary but rejects missing or invalid approval states', async () => {
+  const catalog = await getImageTagCatalog();
+  const values = catalog.dimensions.flatMap(dimension => dimension.values);
+  assert.equal(
+    values.filter(value => value.status === 'pending-approval').length,
+    20,
+  );
+  assert.equal(values.filter(value => value.status === 'approved').length, 11);
+  assert.doesNotThrow(() =>
+    validateImageTagAssignments(catalog, { family: 'scale', type: 'clock' }),
+  );
+  for (const status of [undefined, 'supported', 'pending', 'available']) {
+    const broken = structuredClone(catalog);
+    Object.assign(broken.dimensions[0].values[0], { status });
+    assert.throws(() => validateImageTagCatalog(broken), /status must be/);
+  }
+  for (const version of [2, 4]) {
+    assert.throws(
+      () => validateImageTagCatalog({ ...catalog, version }),
+      /Unsupported.*version/,
+    );
+  }
 });
 
 test('rejects unsupported catalog versions instead of guessing a vocabulary', () => {

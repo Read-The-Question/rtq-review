@@ -29,7 +29,7 @@ import { cn, formatOriginalQuestionSource } from '@/lib/utils';
 type NodeDocumentProps = {
   document: PaperDocument;
   onDocumentChange: (document: PaperDocument) => void;
-  onDocumentRefresh: () => Promise<PaperDocument>;
+  onDocumentRefresh: (source?: PaperDocument) => Promise<PaperDocument>;
   onSaveStateChange: (state: {
     message: string;
     tone: 'error' | 'idle' | 'saving' | 'success';
@@ -122,6 +122,24 @@ function nodeIdentifier(node: PaperNode) {
   return null;
 }
 
+function mutationDocumentForNode(
+  document: PaperDocument,
+  node: PaperNode,
+): PaperDocument {
+  if (!node.source) {
+    return document;
+  }
+
+  return {
+    ...document,
+    fileName: node.source.fileName,
+    folderKey: node.source.folderKey,
+    relativePath: node.source.relativePath,
+    title: node.source.paperTitle,
+    versionHash: node.source.versionHash,
+  };
+}
+
 function dimensionalGroups(tags: string[]) {
   return {
     family: tags.find(tag => tag.startsWith('family.')) ?? null,
@@ -152,7 +170,7 @@ function NodeContentBlock({
   label: string;
   node: PaperNode;
   onDocumentChange: (document: PaperDocument) => void;
-  onDocumentRefresh: () => Promise<PaperDocument>;
+  onDocumentRefresh: (source?: PaperDocument) => Promise<PaperDocument>;
   onSaveStateChange: NodeDocumentProps['onSaveStateChange'];
   readOnly: boolean;
   review: DocumentReview;
@@ -224,7 +242,7 @@ function WorkingAnswersSection({
   isExpanded: boolean;
   node: PaperNode;
   onDocumentChange: (document: PaperDocument) => void;
-  onDocumentRefresh: () => Promise<PaperDocument>;
+  onDocumentRefresh: (source?: PaperDocument) => Promise<PaperDocument>;
   onSaveStateChange: NodeDocumentProps['onSaveStateChange'];
   onToggle: () => void;
   readOnly: boolean;
@@ -299,7 +317,7 @@ function InlineNodeEditor({
   document: PaperDocument;
   node: PaperNode;
   onDocumentChange: (document: PaperDocument) => void;
-  onDocumentRefresh: () => Promise<PaperDocument>;
+  onDocumentRefresh: (source?: PaperDocument) => Promise<PaperDocument>;
   onSaveStateChange: (state: {
     message: string;
     tone: 'error' | 'idle' | 'saving' | 'success';
@@ -326,7 +344,7 @@ function InlineNodeEditor({
           explicitInherit: nextInherit,
           explicitTags: nextTags,
           folderKey: document.folderKey as FolderKey,
-          nodePath: node.path,
+          nodePath: node.source?.nodePath ?? node.path,
           relativePath: document.relativePath,
           versionHash: document.versionHash,
         });
@@ -340,7 +358,7 @@ function InlineNodeEditor({
 
         if (message === STALE_FILE_MESSAGE) {
           try {
-            await onDocumentRefresh();
+            await onDocumentRefresh(document);
             onSaveStateChange({
               message:
                 'File changed outside editor. Updated from disk; try again.',
@@ -697,7 +715,7 @@ function NodeCard({
   node: PaperNode;
   onDetailVisibilityChange: (nodePath: string, isExpanded: boolean) => void;
   onDocumentChange: (document: PaperDocument) => void;
-  onDocumentRefresh: () => Promise<PaperDocument>;
+  onDocumentRefresh: (source?: PaperDocument) => Promise<PaperDocument>;
   onSaveStateChange: (state: {
     message: string;
     tone: 'error' | 'idle' | 'saving' | 'success';
@@ -710,6 +728,8 @@ function NodeCard({
 }) {
   const isDetailExpanded = detailVisibility[node.path] ?? true;
   const identifier = nodeIdentifier(node);
+  const mutationDocument = mutationDocumentForNode(document, node);
+  const refreshMutationDocument = () => onDocumentRefresh(mutationDocument);
 
   return (
     <article
@@ -731,6 +751,11 @@ function NodeCard({
                 Original: {formatOriginalQuestionSource(node.originalSource)}
               </span>
             ) : null}
+            {node.source ? (
+              <span className="node-card__identifier">
+                Source: {node.source.relativePath}
+              </span>
+            ) : null}
           </span>
         </div>
       </div>
@@ -747,12 +772,12 @@ function NodeCard({
 
       <div className="node-card__body">
         <NodeContentBlock
-          document={document}
+          document={mutationDocument}
           imageFields={[{ kind: 'question' }]}
           label="Question"
           node={node}
           onDocumentChange={onDocumentChange}
-          onDocumentRefresh={onDocumentRefresh}
+          onDocumentRefresh={refreshMutationDocument}
           onSaveStateChange={onSaveStateChange}
           readOnly={readOnly}
           review={review}
@@ -760,32 +785,32 @@ function NodeCard({
         />
         {review.kind === 'question' ? (
           <InlineNodeEditor
-            document={document}
+            document={mutationDocument}
             node={node}
             onDocumentChange={onDocumentChange}
-            onDocumentRefresh={onDocumentRefresh}
+            onDocumentRefresh={refreshMutationDocument}
             onSaveStateChange={onSaveStateChange}
             readOnly={readOnly}
             tagCatalog={review.tagCatalog}
           />
         ) : null}
         <NodeContentBlock
-          document={document}
+          document={mutationDocument}
           label="Formulas"
           node={node}
           onDocumentChange={onDocumentChange}
-          onDocumentRefresh={onDocumentRefresh}
+          onDocumentRefresh={refreshMutationDocument}
           onSaveStateChange={onSaveStateChange}
           readOnly={readOnly}
           review={review}
           values={node.content.formulas}
         />
         <NodeContentBlock
-          document={document}
+          document={mutationDocument}
           label="Tips"
           node={node}
           onDocumentChange={onDocumentChange}
-          onDocumentRefresh={onDocumentRefresh}
+          onDocumentRefresh={refreshMutationDocument}
           onSaveStateChange={onSaveStateChange}
           readOnly={readOnly}
           review={review}
@@ -794,11 +819,11 @@ function NodeCard({
         <WorkingAnswersSection
           answerIndexes={node.content.answerIndexes}
           answers={node.content.answers}
-          document={document}
+          document={mutationDocument}
           isExpanded={isDetailExpanded}
           node={node}
           onDocumentChange={onDocumentChange}
-          onDocumentRefresh={onDocumentRefresh}
+          onDocumentRefresh={refreshMutationDocument}
           onSaveStateChange={onSaveStateChange}
           onToggle={() =>
             onDetailVisibilityChange(node.path, !isDetailExpanded)
@@ -1006,10 +1031,12 @@ function ReviewNodeDocument({
   }, [detailStorageKey, detailVisibility, loadedDetailVisibilityKey]);
 
   return (
-    <div
-      className={cn('document-pane', `paper-images--${paperImageMode}`)}
-      ref={scrollContainerRef}>
-      <div className="document-pane__inner">
+    <div className={cn('document-pane', `paper-images--${paperImageMode}`)}>
+      <div
+        className={cn(
+          'document-pane__inner',
+          detailNodePaths.length && 'document-pane__inner--with-controls',
+        )}>
         {detailNodePaths.length ? (
           <div className="document-view-controls">
             <Button
@@ -1033,7 +1060,7 @@ function ReviewNodeDocument({
             onNavigate={navigateToNode}
             sections={outlineSections}
           />
-          <div className="document-content">
+          <div className="document-content" ref={scrollContainerRef}>
             {document.sections.map(section => (
               <section
                 className="document-section"

@@ -29,6 +29,7 @@ import {
   type DimensionalTagAxis,
   type ContentSearchQuery,
   type ContentSearchScope,
+  type PaperCollectionId,
   type ReviewFilterSelection,
   type ReviewPaperNode,
 } from '@rtq/review-paper-model/client';
@@ -1924,6 +1925,8 @@ function FilterPanel({
 }
 
 function PaperContentSearch({
+  collectionId,
+  collections = [],
   context,
   error,
   limit,
@@ -1935,12 +1938,23 @@ function PaperContentSearch({
   uuidInput = '',
   missingUuids = [],
 }: {
+  collectionId?: PaperCollectionId;
+  collections?: ReadonlyArray<
+    Readonly<{
+      id: PaperCollectionId;
+      label: string;
+    }>
+  >;
   context: 'corpus' | 'paper';
   error?: string;
   limit?: 20 | 50 | 100;
-  onApply: (search: ContentSearchQuery, limit?: 20 | 50 | 100) => void;
+  onApply: (
+    search: ContentSearchQuery,
+    limit?: 20 | 50 | 100,
+    collectionId?: PaperCollectionId,
+  ) => void;
   onClear: () => void;
-  onUuidApply?: (input: string) => void;
+  onUuidApply?: (input: string, collectionId: PaperCollectionId) => void;
   search?: ContentSearchQuery;
   searchMode?: 'content' | 'uuid';
   uuidInput?: string;
@@ -1955,6 +1969,9 @@ function PaperContentSearch({
   const [draftError, setDraftError] = useState<string>();
   const [uuidDraft, setUuidDraft] = useState(uuidInput);
   const [uuidDraftError, setUuidDraftError] = useState<string>();
+  const [selectedCollectionId, setSelectedCollectionId] = useState(
+    collectionId ?? 'toml',
+  );
 
   function submit(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
@@ -1970,6 +1987,7 @@ function PaperContentSearch({
         scope: compiled.search.scope,
       },
       resultLimit,
+      selectedCollectionId,
     );
   }
 
@@ -1981,7 +1999,7 @@ function PaperContentSearch({
       return;
     }
     setUuidDraftError(undefined);
-    onUuidApply?.(compiled.uuids.join(','));
+    onUuidApply?.(compiled.uuids.join(','), selectedCollectionId);
   }
 
   const displayedError =
@@ -1989,6 +2007,9 @@ function PaperContentSearch({
       ? (uuidDraftError ?? (searchMode === 'uuid' ? error : undefined))
       : (draftError ?? (searchMode === 'content' ? error : undefined));
   const isCorpusSearch = context === 'corpus';
+  const selectedCollectionLabel =
+    collections.find((collection) => collection.id === selectedCollectionId)
+      ?.label ?? selectedCollectionId;
   return (
     <section
       className="paper-content-search"
@@ -1997,7 +2018,7 @@ function PaperContentSearch({
       <div>
         <p className="eyebrow">
           {isCorpusSearch && mode === 'uuid'
-            ? 'Canonical identifiers'
+            ? 'Question identifiers'
             : 'Raw source search'}
         </p>
         <strong id="paper-content-search-title">
@@ -2011,7 +2032,7 @@ function PaperContentSearch({
           {isCorpusSearch && mode === 'uuid'
             ? 'Paste up to 100 UUIDs separated by commas, spaces, or new lines.'
             : isCorpusSearch
-              ? 'Search every canonical TOML question; nested matches retain their complete top-level question.'
+              ? `Search every question in ${selectedCollectionLabel}; nested matches retain their complete top-level question.`
               : 'Filter this paper only; nested matches retain their complete top-level question.'}
         </span>
       </div>
@@ -2036,6 +2057,25 @@ function PaperContentSearch({
             UUIDs
           </button>
         </div>
+      ) : null}
+      {isCorpusSearch && collectionId ? (
+        <label className="corpus-search-collection">
+          <span>Collection</span>
+          <select
+            onChange={(event) =>
+              setSelectedCollectionId(
+                event.currentTarget.value as PaperCollectionId,
+              )
+            }
+            value={selectedCollectionId}
+          >
+            {collections.map((collection) => (
+              <option key={collection.id} value={collection.id}>
+                {collection.label}
+              </option>
+            ))}
+          </select>
+        </label>
       ) : null}
       {mode === 'uuid' && isCorpusSearch ? (
         <form className="uuid-search" onSubmit={submitUuids}>
@@ -2345,15 +2385,26 @@ function SourceFreshnessBanner({
 }
 
 export type CorpusReviewSurfaceConfig = Readonly<{
+  collectionId: PaperCollectionId;
+  collections: ReadonlyArray<
+    Readonly<{
+      id: PaperCollectionId;
+      label: string;
+    }>
+  >;
   endPosition: number;
   invalidFileCount: number;
   limit: 20 | 50 | 100;
   missingUuids: readonly string[];
   nextCursor?: string;
   onClearSearch: () => void;
-  onContentSearch: (search: ContentSearchQuery, limit: 20 | 50 | 100) => void;
+  onContentSearch: (
+    search: ContentSearchQuery,
+    limit: 20 | 50 | 100,
+    collectionId: PaperCollectionId,
+  ) => void;
   onPage: (cursor: string) => void;
-  onUuidSearch: (input: string) => void;
+  onUuidSearch: (input: string, collectionId: PaperCollectionId) => void;
   previousCursor?: string;
   scannedFileCount: number;
   searchError?: string;
@@ -3153,9 +3204,14 @@ export function ReviewSurface({
   function applyContentSearch(
     search: ContentSearchQuery,
     requestedLimit?: 20 | 50 | 100,
+    requestedCollectionId?: PaperCollectionId,
   ) {
     if (corpus) {
-      corpus.onContentSearch(search, requestedLimit ?? corpus.limit);
+      corpus.onContentSearch(
+        search,
+        requestedLimit ?? corpus.limit,
+        requestedCollectionId ?? corpus.collectionId,
+      );
       return;
     }
     const current = new URLSearchParams(searchParams.toString());
@@ -3605,9 +3661,11 @@ export function ReviewSurface({
 
       {corpus ? (
         <PaperContentSearch
+          collectionId={corpus.collectionId}
+          collections={corpus.collections}
           context="corpus"
           error={corpus.searchError}
-          key={`${corpus.searchMode}:${contentSearch?.pattern ?? ''}:${contentSearch?.scope ?? 'all'}:${corpus.uuidInput}:${corpus.limit}`}
+          key={`${corpus.collectionId}:${corpus.searchMode}:${contentSearch?.pattern ?? ''}:${contentSearch?.scope ?? 'all'}:${corpus.uuidInput}:${corpus.limit}`}
           limit={corpus.limit}
           missingUuids={corpus.missingUuids}
           onApply={applyContentSearch}

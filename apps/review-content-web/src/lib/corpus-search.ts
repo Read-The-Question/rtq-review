@@ -7,6 +7,7 @@ import {
   searchPaperQuestionTreesByUuids,
   type ContentSearchQuery,
   type CorpusQuestionContentSearchMatch,
+  type PaperCollectionId,
   type ReviewPaper,
   type ReviewPaperNode,
 } from '@rtq/review-paper-model';
@@ -49,6 +50,7 @@ function corpusNode(
 }
 
 function corpusPaper(
+  collectionId: PaperCollectionId,
   questions: readonly ReviewPaperNode[],
   label: string,
 ): ReviewPaper {
@@ -56,7 +58,7 @@ function corpusPaper(
     metadata: { focusGroups: [], schoolIds: [] },
     sections: [{ id: 'corpus-results', label, questions }],
     source: {
-      collection: paperCollectionForId('toml'),
+      collection: paperCollectionForId(collectionId),
       fileName: 'corpus-search',
       focusGroups: [],
       provenance: { kind: 'canonical', sourcePaperStems: [] },
@@ -89,6 +91,7 @@ function corpusResponse(
 ): CorpusSearchResponse {
   return {
     commentLoad: loadReviewCommentsForPaper(paper),
+    collectionId: paper.source.collection.id,
     endPosition: page.endPosition,
     invalidFileCount: page.invalidFileCount,
     limit: page.limit,
@@ -107,6 +110,7 @@ function corpusResponse(
 }
 
 async function loadCorpusQuestions(
+  collectionId: PaperCollectionId,
   matches: readonly CorpusQuestionContentSearchMatch[],
   startPosition: number,
 ): Promise<readonly ReviewPaperNode[]> {
@@ -114,7 +118,7 @@ async function loadCorpusQuestions(
   const papers = new Map(
     await Promise.all(
       paths.map(async (relativePath) => {
-        const paper = await readReviewPaper('toml', relativePath);
+        const paper = await readReviewPaper(collectionId, relativePath);
         return [relativePath, paper] as const;
       }),
     ),
@@ -140,9 +144,10 @@ async function loadCorpusQuestions(
 }
 
 export function emptyCanonicalQuestionCorpus(
+  collectionId: PaperCollectionId,
   limit: CorpusSearchLimit,
 ): CorpusSearchResponse {
-  return corpusResponse(corpusPaper([], 'Search results'), {
+  return corpusResponse(corpusPaper(collectionId, [], 'Search results'), {
     endPosition: 0,
     invalidFileCount: 0,
     limit,
@@ -152,10 +157,11 @@ export function emptyCanonicalQuestionCorpus(
 }
 
 export function emptyCanonicalQuestionUuidCorpus(
+  collectionId: PaperCollectionId,
   input: string,
 ): CorpusSearchResponse {
   return corpusResponse(
-    corpusPaper([], 'UUID results'),
+    corpusPaper(collectionId, [], 'UUID results'),
     {
       endPosition: 0,
       invalidFileCount: 0,
@@ -168,15 +174,21 @@ export function emptyCanonicalQuestionUuidCorpus(
 }
 
 export async function searchCanonicalQuestionCorpus(
+  collectionId: PaperCollectionId,
   query: ContentSearchQuery,
   options: Readonly<{
     cursor?: string;
     limit: CorpusSearchLimit;
   }>,
 ): Promise<CorpusSearchResponse> {
-  const page = await searchPaperQuestionTrees('toml', query, options);
-  const questions = await loadCorpusQuestions(page.matches, page.startPosition);
+  const page = await searchPaperQuestionTrees(collectionId, query, options);
+  const questions = await loadCorpusQuestions(
+    collectionId,
+    page.matches,
+    page.startPosition,
+  );
   const paper = corpusPaper(
+    collectionId,
     questions,
     page.matches.length > 0
       ? `Results ${page.startPosition}–${page.endPosition}`
@@ -194,11 +206,12 @@ export async function searchCanonicalQuestionCorpus(
 }
 
 export async function searchCanonicalQuestionCorpusByUuids(
+  collectionId: PaperCollectionId,
   input: string,
 ): Promise<CorpusSearchResponse> {
-  const result = await searchPaperQuestionTreesByUuids('toml', input);
-  const questions = await loadCorpusQuestions(result.matches, 1);
-  const paper = corpusPaper(questions, 'UUID results');
+  const result = await searchPaperQuestionTreesByUuids(collectionId, input);
+  const questions = await loadCorpusQuestions(collectionId, result.matches, 1);
+  const paper = corpusPaper(collectionId, questions, 'UUID results');
   return corpusResponse(
     paper,
     {

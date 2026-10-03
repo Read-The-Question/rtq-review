@@ -5,10 +5,17 @@ import {
   FileText,
   ImageIcon,
   PanelRight,
+  Search,
   Sparkles,
 } from 'lucide-react';
 import Link from 'next/link';
-import { useCallback, useEffect, useRef, useState } from 'react';
+import {
+  type ReactNode,
+  useCallback,
+  useEffect,
+  useRef,
+  useState,
+} from 'react';
 
 import { refreshPaperDocumentAction } from '@/app/actions';
 import { ImageTagDocument } from '@/components/image-tag-document';
@@ -23,6 +30,7 @@ import type {
   PaperDocument,
   TagCatalog,
 } from '@/lib/paper-types';
+import { mergeTagCorpusSourceDocument } from '@/lib/tag-corpus-document';
 import { formatCount } from '@/lib/utils';
 
 type TagEditorAppProps = {
@@ -30,6 +38,7 @@ type TagEditorAppProps = {
   imageTagCatalog: ImageTagCatalog;
   initialDocument: PaperDocument;
   pdf?: PaperPdf;
+  searchPanel?: ReactNode;
   tagCatalog: TagCatalog;
 };
 
@@ -42,6 +51,7 @@ export function TagEditorApp({
   imageTagCatalog,
   initialDocument,
   pdf,
+  searchPanel,
   tagCatalog,
 }: TagEditorAppProps) {
   const [document, setDocument] = useState<PaperDocument>(initialDocument);
@@ -49,6 +59,7 @@ export function TagEditorApp({
   const [paperImageMode, setPaperImageMode] = useState<PaperImageMode>('all');
   const [showPdf, setShowPdf] = useState(false);
   const [preferencesLoaded, setPreferencesLoaded] = useState(false);
+  const isCorpus = document.corpus?.kind === 'search';
   const isReadOnly = isReadOnlyFolder(document.folderKey);
   const [saveState, setSaveState] = useState<{
     message: string;
@@ -57,8 +68,13 @@ export function TagEditorApp({
   const latestDocumentRef = useRef(document);
 
   const updateDocument = useCallback((nextDocument: PaperDocument) => {
-    latestDocumentRef.current = nextDocument;
-    setDocument(nextDocument);
+    setDocument(currentDocument => {
+      const resolvedDocument = currentDocument.corpus
+        ? mergeTagCorpusSourceDocument(currentDocument, nextDocument)
+        : nextDocument;
+      latestDocumentRef.current = resolvedDocument;
+      return resolvedDocument;
+    });
   }, []);
 
   useEffect(() => {
@@ -105,8 +121,8 @@ export function TagEditorApp({
   }, [saveState]);
 
   const refreshDocument = useCallback(
-    async (options?: { notify?: boolean }) => {
-      const baseDocument = latestDocumentRef.current;
+    async (options?: { notify?: boolean; source?: PaperDocument }) => {
+      const baseDocument = options?.source ?? latestDocumentRef.current;
       const refreshResult = await refreshPaperDocumentAction({
         folderKey: baseDocument.folderKey,
         relativePath: baseDocument.relativePath,
@@ -134,6 +150,10 @@ export function TagEditorApp({
   );
 
   useEffect(() => {
+    if (isCorpus) {
+      return;
+    }
+
     const poll = () => {
       if (
         saveState.tone === 'saving' ||
@@ -150,43 +170,75 @@ export function TagEditorApp({
     const intervalId = window.setInterval(poll, 2500);
 
     return () => window.clearInterval(intervalId);
-  }, [refreshDocument, saveState.tone]);
+  }, [isCorpus, refreshDocument, saveState.tone]);
 
   return (
-    <main className="editor-shell">
+    <main
+      className={
+        searchPanel ? 'editor-shell editor-shell--with-search' : 'editor-shell'
+      }>
       <header className="editor-topbar">
         <div className="editor-topbar__left">
           <Link className="editor-back-link" href={browseHref}>
             <ArrowLeft className="h-4 w-4" />
-            Back to files
+            Back to papers
           </Link>
           <div>
             <p className="tag-main__eyebrow">{document.folderKey}</p>
             <h1>{document.title}</h1>
             <p className="tag-main__subtitle">
               {formatCount(document.questionCount, 'top-level question')} across{' '}
-              {formatCount(document.sections.length, 'section')}
+              {formatCount(
+                document.sections.length,
+                isCorpus ? 'source paper' : 'section',
+              )}
             </p>
           </div>
         </div>
 
-        <div
-          className={`status-chip status-chip--${isReadOnly ? 'idle' : saveState.tone}`}>
-          <Sparkles className="h-4 w-4" />
-          {isReadOnly ? 'Read-only' : saveState.message}
+        <div className="editor-topbar__right">
+          {!isCorpus ? (
+            <Link className="editor-back-link" href="/search">
+              <Search className="h-4 w-4" />
+              Search all questions
+            </Link>
+          ) : null}
+          <div
+            className={`status-chip status-chip--${isReadOnly ? 'idle' : saveState.tone}`}>
+            <Sparkles className="h-4 w-4" />
+            {isReadOnly ? 'Read-only' : saveState.message}
+          </div>
         </div>
       </header>
 
+      {searchPanel}
+
       <section className="tag-main__meta">
-        <span>
-          <strong>Source file:</strong> {document.relativePath}
-        </span>
-        <span>
-          <strong>School:</strong> {document.meta.schoolId ?? 'unknown'}
-        </span>
-        <span>
-          <strong>Paper ID:</strong> {document.meta.paperId ?? 'missing'}
-        </span>
+        {isCorpus ? (
+          <>
+            <span>
+              <strong>Collection:</strong> {document.folderKey}
+            </span>
+            <span>
+              <strong>Source papers:</strong> {document.sections.length}
+            </span>
+            <span>
+              <strong>Mode:</strong> combined editable results
+            </span>
+          </>
+        ) : (
+          <>
+            <span>
+              <strong>Source file:</strong> {document.relativePath}
+            </span>
+            <span>
+              <strong>School:</strong> {document.meta.schoolId ?? 'unknown'}
+            </span>
+            <span>
+              <strong>Paper ID:</strong> {document.meta.paperId ?? 'missing'}
+            </span>
+          </>
+        )}
       </section>
 
       <section className="review-mode-bar" aria-label="Tag review controls">
@@ -266,7 +318,7 @@ export function TagEditorApp({
           <NodeDocument
             document={document}
             onDocumentChange={updateDocument}
-            onDocumentRefresh={refreshDocument}
+            onDocumentRefresh={source => refreshDocument({ source })}
             onSaveStateChange={setSaveState}
             paperImageMode={paperImageMode}
             readOnly={isReadOnly}
@@ -277,7 +329,7 @@ export function TagEditorApp({
             catalog={imageTagCatalog}
             document={document}
             onDocumentChange={updateDocument}
-            onDocumentRefresh={refreshDocument}
+            onDocumentRefresh={source => refreshDocument({ source })}
             onSaveStateChange={setSaveState}
             paperImageMode={paperImageMode}
             readOnly={isReadOnly}

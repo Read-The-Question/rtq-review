@@ -36,9 +36,56 @@ test('tag review uses the shared browser and diverges only at its editor surface
   assert.doesNotMatch(paperPage, /<PaperBrowser/);
   assert.match(editor, /<NodeDocument/);
   assert.match(editor, /<ImageTagDocument/);
+  assert.match(editor, /Search all questions/);
+  assert.match(index, /secondaryNavigation=\{<TagReviewNavigation \/>}/);
+  assert.match(index, /href="\/search"/);
   assert.doesNotMatch(editor, /FileCommandPalette/);
   assert.match(legacyPage, /permanentRedirect/);
   assert.match(legacyPage, /paperBrowserPaperHref/);
+});
+
+test('tag review exposes one compact collection-aware regex and UUID search', async () => {
+  const [page, form, search, corpusDocument, editor, document, css] =
+    await Promise.all([
+      fs.readFile(new URL('app/search/page.tsx', sourceRoot), 'utf8'),
+      fs.readFile(
+        new URL('components/tag-corpus-search-form.tsx', sourceRoot),
+        'utf8',
+      ),
+      fs.readFile(new URL('lib/tag-corpus-search.ts', sourceRoot), 'utf8'),
+      fs.readFile(new URL('lib/tag-corpus-document.ts', sourceRoot), 'utf8'),
+      fs.readFile(new URL('components/tag-editor-app.tsx', sourceRoot), 'utf8'),
+      fs.readFile(new URL('components/node-document.tsx', sourceRoot), 'utf8'),
+      fs.readFile(new URL('app/globals.css', sourceRoot), 'utf8'),
+    ]);
+
+  assert.match(page, /'focusPaperToml'/);
+  assert.match(page, /<TagCorpusSearchForm/);
+  assert.match(page, /<TagEditorApp/);
+  assert.match(page, /searchPanel=\{searchPanel\}/);
+  assert.doesNotMatch(page, /Open in Tag Review/);
+  assert.equal(form.match(/<form/g)?.length, 1);
+  assert.match(form, /aria-label="Search method"/);
+  assert.match(form, /aria-pressed=\{mode === 'content'\}/);
+  assert.match(form, /aria-pressed=\{mode === 'uuid'\}/);
+  assert.match(form, /name="collection"/);
+  assert.match(form, /name="content"/);
+  assert.match(form, /name="content-scope"/);
+  assert.match(form, /name="uuids"/);
+  assert.match(page, /PaperContentSearchError/);
+  assert.match(search, /searchPaperQuestionTrees\(/);
+  assert.match(search, /searchPaperQuestionTreesByUuids\(/);
+  assert.match(search, /buildTagCorpusDocument/);
+  assert.match(corpusDocument, /mergeTagCorpusSourceDocument/);
+  assert.match(corpusDocument, /path: `\$\{prefix\}\.\$\{node\.path\}`/);
+  assert.match(editor, /mergeTagCorpusSourceDocument/);
+  assert.match(document, /<PaperOutline/);
+  assert.match(document, /node\.source\?\.nodePath \?\? node\.path/);
+  assert.match(css, /--tag-search-action:\s*#275f72/);
+  assert.match(
+    css,
+    /\.tag-corpus-search \.tag-corpus-search__actions > button\s*{[^}]*background:\s*var\(--tag-search-action\)[^}]*color:\s*#fff/s,
+  );
 });
 
 test('the superseded tag browser implementation is absent', async () => {
@@ -55,4 +102,22 @@ test('the superseded tag browser implementation is absent', async () => {
     'utf8',
   );
   assert.doesNotMatch(data, /listPaperFiles|navigationCopyForFile/);
+});
+
+test('the document outline and question list own bounded scroll areas', async () => {
+  const [document, css] = await Promise.all([
+    fs.readFile(new URL('components/node-document.tsx', sourceRoot), 'utf8'),
+    fs.readFile(new URL('app/globals.css', sourceRoot), 'utf8'),
+  ]);
+
+  assert.match(
+    document,
+    /className="document-content" ref=\{scrollContainerRef\}/,
+  );
+  assert.match(css, /\.document-pane\s*{[^}]*overflow:\s*hidden/s);
+  assert.match(
+    css,
+    /\.document-layout > \.paper-outline\s*{[^}]*max-height:\s*none[^}]*position:\s*static/s,
+  );
+  assert.match(css, /\.document-content\s*{[^}]*overflow-y:\s*auto/s);
 });

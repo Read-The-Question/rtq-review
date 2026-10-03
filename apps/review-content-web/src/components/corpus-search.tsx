@@ -3,6 +3,7 @@
 import type {
   ContentSearchQuery,
   ContentSearchScope,
+  PaperCollectionId,
 } from '@rtq/review-paper-model/client';
 import { useRouter, useSearchParams } from 'next/navigation';
 import { startTransition, useCallback, useEffect, useState } from 'react';
@@ -13,6 +14,13 @@ import type {
 } from '../lib/corpus-search-types';
 
 type CorpusSearchProps = Readonly<{
+  collectionId: PaperCollectionId;
+  collections: ReadonlyArray<
+    Readonly<{
+      id: PaperCollectionId;
+      label: string;
+    }>
+  >;
   cursor?: string;
   initialResponse?: CorpusSearchResponse;
   limit: CorpusSearchLimit;
@@ -26,9 +34,11 @@ function contentSearchRoute(
   pattern: string,
   scope: ContentSearchScope,
   limit: CorpusSearchLimit,
+  collectionId: PaperCollectionId,
   cursor?: string,
 ): string {
   const params = new URLSearchParams(currentQuery);
+  params.set('collection', collectionId);
   params.set('content', pattern);
   params.set('content-scope', scope);
   params.set('limit', String(limit));
@@ -39,8 +49,13 @@ function contentSearchRoute(
   return `/search?${params.toString()}`;
 }
 
-function uuidSearchRoute(currentQuery: string, uuidInput: string): string {
+function uuidSearchRoute(
+  currentQuery: string,
+  uuidInput: string,
+  collectionId: PaperCollectionId,
+): string {
   const params = new URLSearchParams(currentQuery);
+  params.set('collection', collectionId);
   params.set('uuids', uuidInput);
   for (const key of ['content', 'content-scope', 'cursor', 'question']) {
     params.delete(key);
@@ -65,6 +80,8 @@ function clearedSearchRoute(currentQuery: string): string {
 }
 
 export function CorpusSearch({
+  collectionId,
+  collections,
   cursor,
   initialResponse,
   limit,
@@ -83,6 +100,7 @@ export function CorpusSearch({
     (
       search: ContentSearchQuery,
       nextLimit: CorpusSearchLimit,
+      nextCollectionId: PaperCollectionId,
       nextCursor?: string,
     ) => {
       startTransition(() => {
@@ -92,6 +110,7 @@ export function CorpusSearch({
             search.pattern,
             search.scope,
             nextLimit,
+            nextCollectionId,
             nextCursor,
           ),
         );
@@ -100,9 +119,11 @@ export function CorpusSearch({
     [currentQuery, router],
   );
   const navigateToUuids = useCallback(
-    (nextUuidInput: string) => {
+    (nextUuidInput: string, nextCollectionId: PaperCollectionId) => {
       startTransition(() => {
-        router.push(uuidSearchRoute(currentQuery, nextUuidInput));
+        router.push(
+          uuidSearchRoute(currentQuery, nextUuidInput, nextCollectionId),
+        );
       });
     },
     [currentQuery, router],
@@ -111,7 +132,10 @@ export function CorpusSearch({
   useEffect(() => {
     if (initialResponse && !pattern && !uuidInput) return;
     const controller = new AbortController();
-    const params = new URLSearchParams({ limit: String(limit) });
+    const params = new URLSearchParams({
+      collection: collectionId,
+      limit: String(limit),
+    });
     if (uuidInput) {
       params.set('uuids', uuidInput);
     } else {
@@ -141,7 +165,7 @@ export function CorpusSearch({
       });
 
     return () => controller.abort();
-  }, [cursor, initialResponse, limit, pattern, scope, uuidInput]);
+  }, [collectionId, cursor, initialResponse, limit, pattern, scope, uuidInput]);
 
   if (response) {
     const search: ContentSearchQuery = { pattern, scope };
@@ -149,15 +173,18 @@ export function CorpusSearch({
       <ReviewSurface
         commentLoad={response.commentLoad}
         corpus={{
+          collectionId,
+          collections,
           endPosition: response.endPosition,
           invalidFileCount: response.invalidFileCount,
           limit: response.limit,
           missingUuids: response.missingUuids,
           nextCursor: response.nextCursor,
           onClearSearch: () => router.push(clearedSearchRoute(currentQuery)),
-          onContentSearch: (nextSearch, nextLimit) =>
-            navigate(nextSearch, nextLimit),
-          onPage: (nextCursor) => navigate(search, response.limit, nextCursor),
+          onContentSearch: (nextSearch, nextLimit, nextCollectionId) =>
+            navigate(nextSearch, nextLimit, nextCollectionId),
+          onPage: (nextCursor) =>
+            navigate(search, response.limit, collectionId, nextCursor),
           onUuidSearch: navigateToUuids,
           previousCursor: response.previousCursor,
           scannedFileCount: response.scannedFileCount,
@@ -177,10 +204,10 @@ export function CorpusSearch({
   return (
     <main className="paper-shell">
       <section className="paper-hero" aria-live="polite">
-        <p className="eyebrow">Canonical question corpus</p>
+        <p className="eyebrow">Question collection</p>
         <h1>
           {pattern || uuidInput
-            ? 'Searching canonical papers…'
+            ? 'Searching selected papers…'
             : 'Loading search…'}
         </h1>
         {error ? <p className="error-message">{error}</p> : null}

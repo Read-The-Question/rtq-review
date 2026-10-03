@@ -1,4 +1,6 @@
 import {
+  isPaperCollectionId,
+  listPaperCollections,
   normalizeContentSearchScope,
   type ContentSearchScope,
 } from '@rtq/review-paper-model';
@@ -21,6 +23,7 @@ export default async function CorpusSearchPage({
   searchParams,
 }: {
   searchParams: Promise<{
+    collection?: string | string[];
     content?: string | string[];
     'content-scope'?: string | string[];
     cursor?: string | string[];
@@ -29,6 +32,13 @@ export default async function CorpusSearchPage({
   }>;
 }) {
   const parameters = await searchParams;
+  const collections = await listPaperCollections();
+  const requestedCollection = stringParameter(parameters.collection);
+  const collectionId =
+    isPaperCollectionId(requestedCollection) &&
+    collections.some((collection) => collection.id === requestedCollection)
+      ? requestedCollection
+      : 'toml';
   const requestedLimit = Number(stringParameter(parameters.limit) || '20');
   const limit: CorpusSearchLimit = isCorpusSearchLimit(requestedLimit)
     ? requestedLimit
@@ -42,11 +52,18 @@ export default async function CorpusSearchPage({
 
   return (
     <CorpusSearch
+      collectionId={collectionId}
+      collections={collections.map((collection) => ({
+        id: collection.id,
+        label: collection.label,
+      }))}
       cursor={cursor}
       initialResponse={
-        pattern || uuidInput ? undefined : emptyCanonicalQuestionCorpus(limit)
+        pattern || uuidInput
+          ? undefined
+          : emptyCanonicalQuestionCorpus(collectionId, limit)
       }
-      key={`${pattern}:${scope}:${uuidInput}:${limit}:${cursor ?? ''}`}
+      key={`${collectionId}:${pattern}:${scope}:${uuidInput}:${limit}:${cursor ?? ''}`}
       limit={limit}
       pattern={pattern}
       scope={scope}

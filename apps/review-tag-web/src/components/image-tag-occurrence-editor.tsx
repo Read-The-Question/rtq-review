@@ -96,7 +96,7 @@ function ImageTagPanel({
   document: PaperDocument;
   occurrence: ImageTagOccurrence;
   onDocumentChange: (document: PaperDocument) => void;
-  onDocumentRefresh: () => Promise<PaperDocument>;
+  onDocumentRefresh: (source?: PaperDocument) => Promise<PaperDocument>;
   onSaveStateChange: (state: SaveState) => void;
   readOnly: boolean;
 }) {
@@ -135,7 +135,7 @@ function ImageTagPanel({
             : 'Unable to save this image tag.';
         if (message === STALE_FILE_MESSAGE) {
           try {
-            await onDocumentRefresh();
+            await onDocumentRefresh(document);
             onSaveStateChange({
               message:
                 'File changed outside editor. Updated from disk; try again.',
@@ -321,7 +321,7 @@ export function ImageTagMarkdown({
   markdown: string;
   occurrences: ImageTagOccurrence[];
   onDocumentChange: (document: PaperDocument) => void;
-  onDocumentRefresh: () => Promise<PaperDocument>;
+  onDocumentRefresh: (source?: PaperDocument) => Promise<PaperDocument>;
   onSaveStateChange: (state: SaveState) => void;
   readOnly: boolean;
 }) {

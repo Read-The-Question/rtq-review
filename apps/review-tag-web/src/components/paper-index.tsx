@@ -1,6 +1,8 @@
 import { PaperBrowser } from '@rtq/review-paper-browser/browser';
 import {
   PaperBrowserFrame,
+  PaperBrowserSecondaryLink,
+  PaperBrowserSecondaryNavigation,
   PaperBrowserUnavailable,
 } from '@rtq/review-paper-browser/frame';
 import type { PaperBrowserRouteContract } from '@rtq/review-paper-browser/model';
@@ -10,6 +12,16 @@ const routes: PaperBrowserRouteContract = {
   collectionBasePath: '/papers',
   contentSearchPath: '/api/papers/content-search',
 };
+
+function TagReviewNavigation() {
+  return (
+    <PaperBrowserSecondaryNavigation label="Search">
+      <PaperBrowserSecondaryLink action="Open" href="/search">
+        All questions
+      </PaperBrowserSecondaryLink>
+    </PaperBrowserSecondaryNavigation>
+  );
+}
 
 export async function PaperIndex({
   initialCollectionId,
@@ -43,6 +55,7 @@ export async function PaperIndex({
           key={`${workspace.model.activeCollectionId}:${initialQuery ?? ''}:${initialContentPattern ?? ''}:${initialContentScope ?? ''}`}
           model={workspace.model}
           routes={routes}
+          secondaryNavigation={<TagReviewNavigation />}
         />
       ) : (
         <PaperBrowserUnavailable detail={detail} />

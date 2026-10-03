@@ -1,4 +1,5 @@
 import type { DisplayReviewPaper } from './display-model';
+import type { PaperCollectionId } from '@rtq/review-paper-model';
 import type { ReviewCommentLoad, ReviewOutcomeLoad } from './review-types';
 
 export const CORPUS_SEARCH_LIMITS = [20, 50, 100] as const;
@@ -7,6 +8,7 @@ export type CorpusSearchMode = 'content' | 'uuid';
 
 export type CorpusSearchResponse = Readonly<{
   commentLoad: ReviewCommentLoad;
+  collectionId: PaperCollectionId;
   endPosition: number;
   invalidFileCount: number;
   limit: CorpusSearchLimit;

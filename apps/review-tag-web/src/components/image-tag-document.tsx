@@ -23,7 +23,7 @@ export function ImageTagDocument({
   catalog: ImageTagCatalog;
   document: PaperDocument;
   onDocumentChange: (document: PaperDocument) => void;
-  onDocumentRefresh: () => Promise<PaperDocument>;
+  onDocumentRefresh: (source?: PaperDocument) => Promise<PaperDocument>;
   onSaveStateChange: (state: SaveState) => void;
   paperImageMode: PaperImageMode;
   readOnly: boolean;

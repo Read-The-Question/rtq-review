@@ -54,6 +54,10 @@ const corpusSearchRouteUrl = new URL(
   '../app/api/papers/corpus-search/route.ts',
   import.meta.url,
 );
+const corpusSearchLibraryUrl = new URL(
+  '../lib/corpus-search.ts',
+  import.meta.url,
+);
 
 test('the change-request queue counts and renders comment records only', async () => {
   const inbox = await fs.readFile(changeRequestInboxUrl, 'utf8');
@@ -713,19 +717,23 @@ test('review Markdown uses the shared Paper component contracts', async () => {
 });
 
 test('corpus search is bounded, URL-backed, and reuses the complete review surface', async () => {
-  const [paperIndex, component, page, route, reviewSurface] = await Promise.all(
-    [
+  const [paperIndex, component, page, route, search, reviewSurface] =
+    await Promise.all([
       fs.readFile(paperIndexUrl, 'utf8'),
       fs.readFile(corpusSearchUrl, 'utf8'),
       fs.readFile(corpusSearchPageUrl, 'utf8'),
       fs.readFile(corpusSearchRouteUrl, 'utf8'),
+      fs.readFile(corpusSearchLibraryUrl, 'utf8'),
       fs.readFile(componentUrl, 'utf8'),
-    ],
-  );
+    ]);
 
   assert.match(paperIndex, /href="\/search"/);
+  assert.match(page, /listPaperCollections\(\)/);
+  assert.match(page, /collectionId=\{collectionId\}/);
   assert.match(page, /cursor=\{cursor\}/);
   assert.match(component, /\/api\/papers\/corpus-search/);
+  assert.match(component, /params\.set\('collection', collectionId\)/);
+  assert.match(component, /collection:\s*collectionId/);
   assert.match(component, /<ReviewSurface/);
   assert.match(component, /paper=\{response\.paper\}/);
   assert.match(component, /commentLoad=\{response\.commentLoad\}/);
@@ -736,8 +744,14 @@ test('corpus search is bounded, URL-backed, and reuses the complete review surfa
   assert.match(component, /response\.previousCursor/);
   assert.match(reviewSurface, /CorpusReviewSurfaceConfig/);
   assert.match(reviewSurface, /<PaperContentSearch/);
+  assert.match(reviewSurface, /className="corpus-search-collection"/);
   assert.match(reviewSurface, /<CorpusPageNavigation/);
   assert.match(route, /searchCanonicalQuestionCorpus/);
+  assert.match(route, /isPaperCollectionId/);
+  assert.match(route, /searchCanonicalQuestionCorpus\(\s*collectionId,/);
+  assert.match(search, /searchPaperQuestionTrees\(collectionId,/);
+  assert.match(search, /readReviewPaper\(collectionId, relativePath\)/);
+  assert.match(search, /paperCollectionForId\(collectionId\)/);
   assert.match(route, /isCorpusSearchLimit/);
   assert.match(route, /'Cache-Control': 'no-store'/);
 });

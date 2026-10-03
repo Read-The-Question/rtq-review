@@ -85,6 +85,18 @@ export type PaperNodeContent = {
   workings: string[];
 };
 
+export type PaperNodeSource = {
+  fileName: string;
+  folderKey: FolderKey;
+  nodePath: string;
+  paperTitle: string;
+  questionIndex: number;
+  relativePath: string;
+  resultKey: string;
+  sectionIndex: number;
+  versionHash: string;
+};
+
 export type OriginalQuestionSource = {
   paperStem: string | null;
   questionNumber: number | null;
@@ -112,6 +124,7 @@ export type PaperNode = {
   questionId: string | null;
   sectionIndex: number;
   shortLabel: string;
+  source?: PaperNodeSource;
   subquestionIndex: number | null;
   subsubquestionIndex: number | null;
   uuid: string | null;
@@ -125,6 +138,9 @@ export type PaperSection = {
 };
 
 export type PaperDocument = {
+  corpus?: {
+    kind: 'search';
+  };
   fileName: string;
   folderKey: FolderKey;
   imageOccurrences: ImageTagOccurrence[];

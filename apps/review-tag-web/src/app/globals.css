@@ -649,7 +649,10 @@ kbd {
 }
 
 .editor-shell--with-search {
-  grid-template-rows: auto auto auto auto auto minmax(0, 1fr);
+  align-content: start;
+  grid-template-rows: auto;
+  height: auto;
+  overflow: visible;
 }
 
 .editor-shell--with-search .tag-corpus-search {
@@ -683,6 +686,30 @@ kbd {
 
 .editor-shell--with-search .tag-corpus-search__summary {
   padding: 0.65rem 0.85rem;
+}
+
+.editor-shell--with-search .document-pane,
+.editor-shell--with-search .document-layout {
+  overflow: visible;
+}
+
+.editor-shell--with-search .document-content {
+  overflow: visible;
+}
+
+.editor-shell--with-search .document-pane__inner {
+  height: auto;
+}
+
+.editor-shell--with-search .document-layout {
+  align-items: start;
+}
+
+.editor-shell--with-search .document-layout > .paper-outline {
+  position: sticky;
+  top: 1rem;
+  max-height: calc(100vh - 2rem);
+  overflow-y: auto;
 }
 
 .editor-topbar {
@@ -2088,6 +2115,11 @@ kbd {
   .document-layout > .paper-outline {
     max-height: 20rem;
     position: static;
+  }
+
+  .editor-shell--with-search .document-layout > .paper-outline {
+    position: static;
+    max-height: 20rem;
   }
 
   .tag-editor-matrix__row {

@@ -121,3 +121,29 @@ test('the document outline and question list own bounded scroll areas', async ()
   );
   assert.match(css, /\.document-content\s*{[^}]*overflow-y:\s*auto/s);
 });
+
+test('combined search uses page scrolling with a sticky question outline', async () => {
+  const [document, css] = await Promise.all([
+    fs.readFile(new URL('components/node-document.tsx', sourceRoot), 'utf8'),
+    fs.readFile(new URL('app/globals.css', sourceRoot), 'utf8'),
+  ]);
+
+  assert.match(document, /usesPageScroll = document\.corpus/);
+  assert.match(document, /root: usesPageScroll \? null : container/);
+  assert.match(
+    document,
+    /usesPageScroll \? null : scrollContainerRef\.current/,
+  );
+  assert.match(
+    css,
+    /\.editor-shell--with-search\s*{[^}]*height:\s*auto[^}]*overflow:\s*visible/s,
+  );
+  assert.match(
+    css,
+    /\.editor-shell--with-search \.document-content\s*{[^}]*overflow:\s*visible/s,
+  );
+  assert.match(
+    css,
+    /\.editor-shell--with-search \.document-layout > \.paper-outline\s*{[^}]*position:\s*sticky[^}]*max-height:\s*calc\(100vh - 2rem\)/s,
+  );
+});

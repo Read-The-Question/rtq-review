@@ -885,6 +885,7 @@ function ReviewNodeDocument({
   const isProgrammaticScrollRef = useRef(false);
   const programmaticScrollTimeoutRef = useRef<number | null>(null);
   const scrollContainerRef = useRef<HTMLDivElement | null>(null);
+  const usesPageScroll = document.corpus?.kind === 'search';
   const detailStorageKey = useMemo(
     () => detailVisibilityStorageKey(document),
     [document],
@@ -933,7 +934,7 @@ function ReviewNodeDocument({
         }
       },
       {
-        root: container,
+        root: usesPageScroll ? null : container,
         rootMargin: '-18% 0px -70% 0px',
         threshold: [0, 0.2, 0.4, 0.6],
       },
@@ -944,7 +945,7 @@ function ReviewNodeDocument({
     }
 
     return () => observer.disconnect();
-  }, [document]);
+  }, [document, usesPageScroll]);
 
   useEffect(() => {
     return () => {
@@ -975,7 +976,8 @@ function ReviewNodeDocument({
     () => tagOutlineSections(document, review.kind),
     [document, review.kind],
   );
-  const getScrollContainer = () => scrollContainerRef.current;
+  const getScrollContainer = () =>
+    usesPageScroll ? null : scrollContainerRef.current;
   const navigateToNode = (path: string | null) => {
     if (path) {
       isProgrammaticScrollRef.current = true;

@@ -1,37 +1,6 @@
-import type {
-  ImageTagCatalog,
-  ImageTagCatalogDimension,
-  ImageTagCatalogValue,
-} from './paper-types.ts';
-
-export function imageTagValueIsApplicable(
-  catalog: ImageTagCatalog,
-  value: ImageTagCatalogValue,
-  attributes: Readonly<Record<string, string>>,
-) {
-  return Object.entries(value.requires).every(([key, requiredValue]) => {
-    const dependency = catalog.dimensions.find(
-      dimension => dimension.key === key,
-    );
-    return (
-      dependency !== undefined &&
-      attributes[dependency.attribute] === requiredValue
-    );
-  });
-}
-
-export function compatibleImageTagValues(
-  catalog: ImageTagCatalog,
-  dimension: ImageTagCatalogDimension,
-  attributes: Readonly<Record<string, string>>,
-) {
-  return dimension.values.filter(value =>
-    imageTagValueIsApplicable(catalog, value, attributes),
-  );
-}
+import type { ImageTagCatalogDimension } from './paper-types.ts';
 
 export function imageTagGuidance(
-  catalog: ImageTagCatalog,
   dimension: ImageTagCatalogDimension,
   attributes: Readonly<Record<string, string>>,
 ) {
@@ -53,15 +22,6 @@ export function imageTagGuidance(
       message: `Choose a supported value or remove ${dimension.label.toLowerCase()} explicitly.`,
     };
   }
-  const applicable = imageTagValueIsApplicable(catalog, value, attributes);
-  const requirements = Object.entries(value.requires)
-    .map(([key, requiredValue]) => {
-      const dependency = catalog.dimensions.find(
-        candidate => candidate.key === key,
-      );
-      return `${dependency?.label ?? key}: ${dependency?.values.find(option => option.value === requiredValue)?.label ?? requiredValue}`;
-    })
-    .join(', ');
   const guide = {
     available: {
       label: 'Guide available',
@@ -78,7 +38,7 @@ export function imageTagGuidance(
     },
   }[value.guide.status];
   return {
-    label: applicable ? guide.label : `Incompatible selection - ${guide.label}`,
+    label: guide.label,
     approvalLabel:
       value.status === 'approved'
         ? 'Vocabulary: approved'
@@ -87,9 +47,6 @@ export function imageTagGuidance(
     message:
       (value.status === 'pending-approval'
         ? 'Registered for review; approve this vocabulary before drawing. '
-        : '') +
-      (applicable
-        ? guide.message
-        : `Requires ${requirements}. Remove or change incompatible tags explicitly. ${guide.message}`),
+        : '') + guide.message,
   };
 }

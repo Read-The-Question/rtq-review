@@ -8,11 +8,7 @@ import { updateImageTagAction } from '@/app/actions';
 import { RtqMarkdown } from '@/components/rtq-markdown';
 import { TagGroup, TagPicker } from '@/components/tag-review-controls';
 import { markdownWithOccurrenceMarkers } from '@/lib/image-tag-markers';
-import {
-  compatibleImageTagValues,
-  imageTagGuidance,
-  imageTagValueIsApplicable,
-} from '@/lib/image-tag-presentation';
+import { imageTagGuidance } from '@/lib/image-tag-presentation';
 import type {
   DisplayTag,
   ImageTagCatalog,
@@ -49,7 +45,6 @@ function displayValue(dimension: ImageTagCatalogDimension, value: string) {
 }
 
 function currentTags(
-  catalog: ImageTagCatalog,
   dimension: ImageTagCatalogDimension,
   occurrence: ImageTagOccurrence,
 ): DisplayTag[] {
@@ -59,12 +54,9 @@ function currentTags(
   }
 
   const option = dimension.values.find(option => option.value === value);
-  const supported =
-    option !== undefined &&
-    imageTagValueIsApplicable(catalog, option, occurrence.attributes);
   return [
     {
-      active: supported,
+      active: option !== undefined,
       dimensionLabel: dimension.label,
       implicitLabel: null,
       kind: displayTagKind(dimension.key),
@@ -79,7 +71,7 @@ export function imageOccurrenceDisplayTags(
   occurrence: ImageTagOccurrence,
 ) {
   return catalog.dimensions.flatMap(dimension =>
-    currentTags(catalog, dimension, occurrence),
+    currentTags(dimension, occurrence),
   );
 }
 
@@ -190,7 +182,6 @@ function ImageTagPanel({
               style={columnStyle}>
               {catalog.dimensions.map(dimension => {
                 const guidance = imageTagGuidance(
-                  catalog,
                   dimension,
                   occurrence.attributes,
                 );
@@ -230,7 +221,7 @@ function ImageTagPanel({
                         ? undefined
                         : () => mutate(dimension.key, null)
                     }
-                    tags={currentTags(catalog, dimension, occurrence)}
+                    tags={currentTags(dimension, occurrence)}
                   />
                 </div>
               ))}
@@ -243,11 +234,9 @@ function ImageTagPanel({
                 {catalog.dimensions.map(dimension => {
                   const selectedValue =
                     occurrence.attributes[dimension.attribute];
-                  const options = compatibleImageTagValues(
-                    catalog,
-                    dimension,
-                    occurrence.attributes,
-                  ).map(value => displayValue(dimension, value.value));
+                  const options = dimension.values.map(value =>
+                    displayValue(dimension, value.value),
+                  );
 
                   return (
                     <div
@@ -288,13 +277,6 @@ function ImageTagPanel({
             tag assignments. Registered pending values remain selectable.
           </p>
         </div>
-        {!readOnly ? (
-          <p className="inline-editor__subtitle">
-            Dependent tags are never removed automatically. Remove or change
-            incompatible dependent tags explicitly before changing their
-            prerequisites.
-          </p>
-        ) : null}
       </div>
 
       {readOnly ? (

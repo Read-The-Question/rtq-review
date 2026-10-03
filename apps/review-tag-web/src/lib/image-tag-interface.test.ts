@@ -81,13 +81,17 @@ test('image review composes the question document and shared tag controls', asyn
   assert.match(imageEditor, /<TagPicker/);
   assert.match(
     imageEditor,
-    /imageTagGuidance\(\s*catalog,\s*dimension,\s*occurrence\.attributes,?\s*\)/,
+    /imageTagGuidance\(\s*dimension,\s*occurrence\.attributes,?\s*\)/,
+  );
+  assert.match(imageEditor, /const options = dimension\.values\.map/);
+  assert.doesNotMatch(
+    imageEditor,
+    /compatibleImageTagValues|imageTagValueIsApplicable|incompatible dependent/,
   );
   assert.match(imageEditor, /dateTime=\{guidance\.lastUpdated\}/);
   assert.match(imageEditor, /guidance\.message/);
   assert.match(imageEditor, /guidance\.approvalLabel/);
   assert.match(imageEditor, /Vocabulary approval is separate/);
-  assert.match(imageEditor, /Dependent tags are never removed automatically/);
   assert.match(imageEditor, />Final tags</);
   assert.doesNotMatch(imageEditor, /<select/);
   assert.doesNotMatch(imageEditor, /Use parent tags|Inherited from parent/);

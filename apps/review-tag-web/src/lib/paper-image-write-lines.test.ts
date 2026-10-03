@@ -30,7 +30,6 @@ const catalog: ImageTagCatalog = {
           guide: { path: null, status: 'missing' },
           label: 'Venn diagram',
           lastUpdated: '2026-10-03',
-          requires: {},
           status: 'approved',
           value: 'venn',
         },
@@ -42,7 +41,6 @@ const catalog: ImageTagCatalog = {
           },
           label: 'Geometry',
           lastUpdated: '2026-10-03',
-          requires: {},
           status: 'approved',
           value: 'geometry',
         },
@@ -64,14 +62,13 @@ const catalog: ImageTagCatalog = {
           },
           label: 'Triangle',
           lastUpdated: '2026-10-03',
-          requires: { family: 'geometry' },
           status: 'approved',
           value: 'triangle',
         },
       ],
     },
   ],
-  version: 3,
+  version: 4,
 };
 
 const source = `title = "Fixture"
@@ -269,15 +266,9 @@ test('rejects reordered, mismatched, malformed, and unsupported mutations', () =
   );
 });
 
-test('rejects mutations that violate catalog value dependencies', () => {
-  assert.throws(
-    () => mutate({ dimensionKey: 'type', value: 'triangle' }),
-    /type="triangle" requires family="geometry"/,
-  );
-
-  const geometrySource = source.replace('family="venn"', 'family="geometry"');
+test('allows independent family and type mutations', () => {
   const tagged = applyImageTagMutationToRaw(
-    geometrySource,
+    source,
     {
       dimensionKey: 'type',
       field: { kind: 'question' },
@@ -287,25 +278,22 @@ test('rejects mutations that violate catalog value dependencies', () => {
     },
     catalog,
   );
-  assert.match(tagged, /family="geometry" type="triangle"/);
-  assert.throws(
-    () =>
-      applyImageTagMutationToRaw(
-        tagged,
-        {
-          dimensionKey: 'family',
-          field: { kind: 'question' },
-          nodeUuid: 'ROOT',
-          occurrenceIndex: 0,
-          value: 'venn',
-        },
-        catalog,
-      ),
-    /type="triangle" requires family="geometry"/,
+  assert.match(tagged, /family="venn" type="triangle"/);
+  const withoutFamily = applyImageTagMutationToRaw(
+    tagged,
+    {
+      dimensionKey: 'family',
+      field: { kind: 'question' },
+      nodeUuid: 'ROOT',
+      occurrenceIndex: 0,
+      value: null,
+    },
+    catalog,
   );
+  assert.match(withoutFamily, /kind="essential" type="triangle"/);
 });
 
-test('round-trips every canonical type in each ownership context without discarding dependent tags', async () => {
+test('round-trips every canonical type while preserving independent family tags', async () => {
   const canonical = await getImageTagCatalog();
   const targets = [
     {
@@ -338,26 +326,16 @@ test('round-trips every canonical type in each ownership context without discard
     for (const type of canonical.dimensions[1].values) {
       let raw = applyImageTagMutationToRaw(
         source,
-        { ...target, dimensionKey: 'family', value: type.requires.family },
-        canonical,
-      );
-      raw = applyImageTagMutationToRaw(
-        raw,
         { ...target, dimensionKey: 'type', value: type.value },
         canonical,
       );
-      const before = raw;
       for (const value of [null, 'custom']) {
-        assert.throws(
-          () =>
-            applyImageTagMutationToRaw(
-              raw,
-              { ...target, dimensionKey: 'family', value },
-              canonical,
-            ),
-          /requires family=/,
+        raw = applyImageTagMutationToRaw(
+          raw,
+          { ...target, dimensionKey: 'family', value },
+          canonical,
         );
-        assert.equal(raw, before);
+        assert.match(raw, new RegExp(`type="${type.value}"`));
       }
       raw = applyImageTagMutationToRaw(
         raw,

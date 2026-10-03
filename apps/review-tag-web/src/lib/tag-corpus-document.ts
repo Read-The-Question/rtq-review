@@ -161,17 +161,12 @@ export function mergeTagCorpusSourceDocument(
       return projectNode(sourceQuestion, source.resultKey, {
         ...source,
         fileName: sourceDocument.fileName,
-        paperTitle: sourceDocument.title,
         versionHash: sourceDocument.versionHash,
       });
     });
 
     return {
       ...section,
-      name:
-        questions[0]?.source?.relativePath === sourceDocument.relativePath
-          ? sourceDocument.title
-          : section.name,
       questions,
     };
   });

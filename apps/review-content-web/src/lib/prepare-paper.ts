@@ -64,7 +64,6 @@ type ImageTagCatalogDimension = Readonly<{
   label: string;
   values: readonly Readonly<{
     label: string;
-    requires: Readonly<Record<string, string>>;
     value: string;
   }>[];
 }>;
@@ -155,6 +154,7 @@ function imageTagCatalog(): readonly ImageTagCatalogDimension[] {
     !parsed ||
     typeof parsed !== 'object' ||
     Array.isArray(parsed) ||
+    (parsed as Record<string, unknown>).version !== 4 ||
     (parsed as Record<string, unknown>).component !== 'PaperImage' ||
     !Array.isArray((parsed as Record<string, unknown>).dimensions)
   ) {
@@ -192,23 +192,12 @@ function imageTagCatalog(): readonly ImageTagCatalogDimension[] {
         if (
           typeof value.label !== 'string' ||
           typeof value.value !== 'string' ||
-          !value.requires ||
-          typeof value.requires !== 'object' ||
-          Array.isArray(value.requires)
+          Object.hasOwn(value, 'requires')
         ) {
           throw new Error('Invalid PaperImage tag value.');
         }
-        const requires = Object.fromEntries(
-          Object.entries(value.requires).map(([key, requiredValue]) => {
-            if (typeof requiredValue !== 'string') {
-              throw new Error('Invalid PaperImage tag dependency.');
-            }
-            return [key, requiredValue];
-          }),
-        );
         return {
           label: value.label,
-          requires,
           value: value.value,
         };
       }),
@@ -229,21 +218,10 @@ function imageTags(
     const value = dimension.values.find(
       (candidate) => candidate.value === assigned,
     );
-    const supported =
-      value !== undefined &&
-      Object.entries(value.requires).every(([key, requiredValue]) => {
-        const dependency = dimensions.find(
-          (candidate) => candidate.key === key,
-        );
-        return (
-          dependency !== undefined &&
-          authored[dependency.attribute] === requiredValue
-        );
-      });
     return {
       dimensionKey: dimension.key,
       dimensionLabel: dimension.label,
-      supported,
+      supported: value !== undefined,
       value: assigned,
       valueLabel: value?.label ?? assigned,
     };

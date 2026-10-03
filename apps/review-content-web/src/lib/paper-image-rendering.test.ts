@@ -61,12 +61,10 @@ function fixture(t: TestContext) {
           values: [
             {
               label: 'Venn diagram',
-              requires: {},
               value: 'venn',
             },
             {
               label: 'Geometry',
-              requires: {},
               value: 'geometry',
             },
           ],
@@ -78,12 +76,12 @@ function fixture(t: TestContext) {
           values: [
             {
               label: 'Triangle',
-              requires: { family: 'geometry' },
               value: 'triangle',
             },
           ],
         },
       ],
+      version: 4,
     }),
   );
   mkdirSync(path.join(root, 'packages/papers/papers/toml'), {
@@ -231,7 +229,7 @@ for (const scope of ['question', 'working', 'answer'] as const) {
         `${owner}/manual/s01-q01${slot}-i${index}.png`,
       );
     }
-    const source = `<PaperImage assetScope="${scope}" family="geometry" type="triangle" displaySize="lg" />\n\n<PaperImage assetScope="${scope}" family="venn" />`;
+    const source = `<PaperImage assetScope="${scope}" type="triangle" displaySize="lg" />\n\n<PaperImage assetScope="${scope}" family="venn" />`;
     const prepared = f.prepareDisplay(source, scope);
     assert.deepEqual(
       prepared.paperImages?.map((image) =>
@@ -242,10 +240,7 @@ for (const scope of ['question', 'working', 'answer'] as const) {
         })),
       ),
       [
-        [
-          { dimension: 'Family', supported: true, value: 'Geometry' },
-          { dimension: 'Type', supported: true, value: 'Triangle' },
-        ],
+        [{ dimension: 'Type', supported: true, value: 'Triangle' }],
         [{ dimension: 'Family', supported: true, value: 'Venn diagram' }],
       ],
     );
@@ -257,7 +252,6 @@ for (const scope of ['question', 'working', 'answer'] as const) {
     assert.match(html, /data-dimension="family"/);
     assert.match(html, /data-dimension="type"/);
     assert.match(html, /Family/);
-    assert.match(html, /Geometry/);
     assert.match(html, /Triangle/);
     assert.match(html, /Venn diagram/);
     assert.doesNotMatch(
@@ -265,7 +259,7 @@ for (const scope of ['question', 'working', 'answer'] as const) {
         paperImages: prepared.paperImages,
         showImageTags: false,
       }),
-      /Image tags|Geometry|Triangle|Venn diagram/,
+      /Image tags|Triangle|Venn diagram/,
     );
   });
 }

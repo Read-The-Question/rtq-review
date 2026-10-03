@@ -11,7 +11,7 @@ import {
 test('loads the canonical image catalog for schema-driven controls', async () => {
   const catalog = await getImageTagCatalog();
 
-  assert.equal(catalog.version, 3);
+  assert.equal(catalog.version, 4);
   assert.equal(catalog.component, 'PaperImage');
   assert.deepEqual(
     new Set(catalog.assignment.scopes),
@@ -42,7 +42,6 @@ test('loads the canonical image catalog for schema-driven controls', async () =>
     },
     label: 'Triangle',
     lastUpdated: '2026-10-03',
-    requires: { family: 'geometry' },
     status: 'approved',
     value: 'triangle',
   });
@@ -59,12 +58,18 @@ test('accepts pending vocabulary but rejects missing or invalid approval states'
   assert.doesNotThrow(() =>
     validateImageTagAssignments(catalog, { family: 'scale', type: 'clock' }),
   );
+  assert.doesNotThrow(() =>
+    validateImageTagAssignments(catalog, { family: 'venn', type: 'triangle' }),
+  );
+  assert.doesNotThrow(() =>
+    validateImageTagAssignments(catalog, { type: 'triangle' }),
+  );
   for (const status of [undefined, 'supported', 'pending', 'available']) {
     const broken = structuredClone(catalog);
     Object.assign(broken.dimensions[0].values[0], { status });
     assert.throws(() => validateImageTagCatalog(broken), /status must be/);
   }
-  for (const version of [2, 4]) {
+  for (const version of [1, 2, 3, 5]) {
     assert.throws(
       () => validateImageTagCatalog({ ...catalog, version }),
       /Unsupported.*version/,
@@ -90,7 +95,7 @@ test('rejects unsupported catalog versions instead of guessing a vocabulary', ()
   );
 });
 
-test('validates catalog dependencies and assigned value combinations', async () => {
+test('validates each assigned dimension independently', async () => {
   const catalog = await getImageTagCatalog();
 
   assert.doesNotThrow(() =>
@@ -99,13 +104,11 @@ test('validates catalog dependencies and assigned value combinations', async () 
       type: 'triangle',
     }),
   );
-  assert.throws(
-    () =>
-      validateImageTagAssignments(catalog, {
-        family: 'chart',
-        type: 'triangle',
-      }),
-    /type="triangle" requires family="geometry"/,
+  assert.doesNotThrow(() =>
+    validateImageTagAssignments(catalog, {
+      family: 'chart',
+      type: 'triangle',
+    }),
   );
   assert.throws(
     () => validateImageTagAssignments(catalog, { family: 'unknown' }),
@@ -113,7 +116,7 @@ test('validates catalog dependencies and assigned value combinations', async () 
   );
 });
 
-test('rejects malformed dates, guide paths, missing-guide paths and prerequisites', async () => {
+test('rejects malformed metadata and obsolete requires fields', async () => {
   const canonical = await getImageTagCatalog();
   const badDate = structuredClone(canonical);
   badDate.dimensions[0].values[0].lastUpdated = '2026-02-30';
@@ -127,10 +130,14 @@ test('rejects malformed dates, guide paths, missing-guide paths and prerequisite
   const missing = structuredClone(canonical);
   missing.dimensions[0].values[0].guide.status = 'missing';
   assert.throws(() => validateImageTagCatalog(missing), /path must be null/);
-  const badDependency = structuredClone(canonical);
-  badDependency.dimensions[1].values[0].requires = { family: 'unknown' };
+  const obsoleteDependency = structuredClone(canonical) as unknown as {
+    dimensions: { values: Array<Record<string, unknown>> }[];
+  };
+  obsoleteDependency.dimensions[1].values[0].requires = {
+    family: 'geometry',
+  };
   assert.throws(
-    () => validateImageTagCatalog(badDependency),
-    /supported value of an earlier dimension/,
+    () => validateImageTagCatalog(obsoleteDependency),
+    /unsupported field "requires"/,
   );
 });

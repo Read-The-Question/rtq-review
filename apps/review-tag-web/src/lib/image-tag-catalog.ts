@@ -106,15 +106,7 @@ function parseValue(
   const value = record(input, context);
   exactKeys(
     value,
-    [
-      'value',
-      'label',
-      'description',
-      'status',
-      'lastUpdated',
-      'requires',
-      'guide',
-    ],
+    ['value', 'label', 'description', 'status', 'lastUpdated', 'guide'],
     context,
   );
   const valueKey = identifier(value.value, `${context}.value`);
@@ -136,15 +128,6 @@ function parseValue(
   if (value.status !== 'approved' && value.status !== 'pending-approval') {
     fail(`${context}.status must be "approved" or "pending-approval".`);
   }
-  const requiresRecord = record(value.requires, `${context}.requires`);
-  const requires: Record<string, string> = {};
-  for (const [key, requiredValue] of Object.entries(requiresRecord)) {
-    const parsedKey = identifier(key, `${context}.requires key`);
-    requires[parsedKey] = identifier(
-      requiredValue,
-      `${context}.requires.${parsedKey}`,
-    );
-  }
   return {
     description: text(value.description, `${context}.description`),
     guide: {
@@ -153,7 +136,6 @@ function parseValue(
     },
     label: text(value.label, `${context}.label`),
     lastUpdated: date(value.lastUpdated, `${context}.lastUpdated`),
-    requires,
     status: value.status,
     value: valueKey,
   };
@@ -215,7 +197,7 @@ export function validateImageTagCatalog(input: unknown): ImageTagCatalog {
     ['version', 'component', 'assignment', 'dimensions'],
     'catalog',
   );
-  if (catalog.version !== 3) {
+  if (catalog.version !== 4) {
     fail(
       `Unsupported image dimensional-tag catalog version: ${String(catalog.version)}.`,
     );
@@ -257,24 +239,6 @@ export function validateImageTagCatalog(input: unknown): ImageTagCatalog {
     (dimension, index) =>
       parseDimension(dimension, dimensionKeys, attributes, index),
   );
-  const earlierDimensions = new Map<string, ImageTagCatalogDimension>();
-  for (const dimension of dimensions) {
-    for (const value of dimension.values) {
-      for (const [key, requiredValue] of Object.entries(value.requires)) {
-        const dependency = earlierDimensions.get(key);
-        if (
-          !dependency?.values.some(
-            candidate => candidate.value === requiredValue,
-          )
-        ) {
-          fail(
-            `${dimension.key}=${value.value} requires ${key}=${requiredValue}, which must be a supported value of an earlier dimension.`,
-          );
-        }
-      }
-    }
-    earlierDimensions.set(dimension.key, dimension);
-  }
   return {
     assignment: {
       scopes: [...parsedScopes],
@@ -282,7 +246,7 @@ export function validateImageTagCatalog(input: unknown): ImageTagCatalog {
     },
     component: 'PaperImage',
     dimensions,
-    version: 3,
+    version: 4,
   };
 }
 
@@ -301,16 +265,6 @@ export function validateImageTagAssignments(
       fail(
         `${context} has unsupported ${dimension.attribute}=${JSON.stringify(assigned)}; expected one of ${dimension.values.map(candidate => candidate.value).join(', ')}.`,
       );
-    }
-    for (const [key, requiredValue] of Object.entries(value.requires)) {
-      const dependency = catalog.dimensions.find(
-        candidate => candidate.key === key,
-      );
-      if (!dependency || attributes[dependency.attribute] !== requiredValue) {
-        fail(
-          `${context} ${dimension.attribute}=${JSON.stringify(assigned)} requires ${key}=${JSON.stringify(requiredValue)}.`,
-        );
-      }
     }
   }
 }

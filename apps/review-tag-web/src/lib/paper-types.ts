@@ -30,7 +30,6 @@ export type ImageTagCatalogValue = {
   guide: ImageTagGuide;
   label: string;
   lastUpdated: string;
-  requires: Record<string, string>;
   status: 'approved' | 'pending-approval';
   value: string;
 };
@@ -52,7 +51,7 @@ export type ImageTagCatalog = {
   };
   component: 'PaperImage';
   dimensions: ImageTagCatalogDimension[];
-  version: 3;
+  version: 4;
 };
 
 export type PaperImageScope = 'answer' | 'question' | 'working';

@@ -75,6 +75,8 @@ test('tag review exposes one compact collection-aware regex and UUID search', as
   assert.match(page, /PaperContentSearchError/);
   assert.match(search, /searchPaperQuestionTrees\(/);
   assert.match(search, /searchPaperQuestionTreesByUuids\(/);
+  assert.match(search, /readReviewPaper\(/);
+  assert.match(search, /title: paper\.source\.title/);
   assert.match(search, /buildTagCorpusDocument/);
   assert.match(corpusDocument, /mergeTagCorpusSourceDocument/);
   assert.match(corpusDocument, /path: `\$\{prefix\}\.\$\{node\.path\}`/);

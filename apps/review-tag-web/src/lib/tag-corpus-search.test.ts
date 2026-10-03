@@ -51,6 +51,7 @@ function question(explicitTags: string[] = []): PaperNode {
 function paper(
   explicitTags: string[] = [],
   versionHash = 'version-1',
+  title = 'Alpha School Paper',
 ): PaperDocument {
   const node = question(explicitTags);
   return {
@@ -75,7 +76,7 @@ function paper(
       },
     ],
     slugSegments: ['alpha-school'],
-    title: 'Alpha School Paper',
+    title,
     versionHash,
   };
 }
@@ -122,7 +123,11 @@ test('merges a saved source paper back into the projected corpus', () => {
   );
   const merged = mergeTagCorpusSourceDocument(
     document,
-    paper(['family.number'], 'version-2'),
+    paper(
+      ['family.number'],
+      'version-2',
+      'alpha-school--11-plus--maths--paper-1',
+    ),
   );
 
   assert.deepEqual(merged.sections[0]?.questions[0]?.explicitTags, [
@@ -133,6 +138,11 @@ test('merges a saved source paper back into the projected corpus', () => {
     'version-2',
   );
   assert.equal(merged.sections[0]?.questions[0]?.path, 'result-1.s0.q0');
+  assert.equal(merged.sections[0]?.name, 'Alpha School Paper');
+  assert.equal(
+    merged.sections[0]?.questions[0]?.source?.paperTitle,
+    'Alpha School Paper',
+  );
 });
 
 test('rejects a search result whose source paper changed before projection', () => {

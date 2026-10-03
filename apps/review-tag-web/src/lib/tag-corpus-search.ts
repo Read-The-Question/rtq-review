@@ -2,6 +2,7 @@ import {
   type ContentSearchQuery,
   type CorpusQuestionContentSearchMatch,
   type PaperCollectionId,
+  readReviewPaper,
   searchPaperQuestionTrees,
   searchPaperQuestionTreesByUuids,
 } from '@rtq/review-paper-model';
@@ -17,13 +18,19 @@ async function loadMatchingPapers(
 ) {
   const paths = [...new Set(matches.map(match => match.relativePath))];
   const entries = await Promise.all(
-    paths.map(
-      async relativePath =>
-        [
-          relativePath,
-          await readPaperDocument(collectionId, relativePath),
-        ] as const,
-    ),
+    paths.map(async relativePath => {
+      const [document, paper] = await Promise.all([
+        readPaperDocument(collectionId, relativePath),
+        readReviewPaper(collectionId, relativePath),
+      ]);
+      return [
+        relativePath,
+        {
+          ...document,
+          title: paper.source.title,
+        },
+      ] as const;
+    }),
   );
   return new Map(entries);
 }

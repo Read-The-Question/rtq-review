@@ -1,41 +1,17 @@
-export type EditableFolderKey =
-  | 'toml'
-  | 'focusPaperToml'
-  | 'paperAnswerRagToml'
-  | 'focusPaperAnswerRagToml'
-  | 'corpusPrimaryTopicToml'
-  | 'focusCorpusPrimaryTopicToml'
-  | 'corpusQuestionRagToml'
-  | 'corpusAnswerRagToml'
-  | 'corpusQuestionReviewRagToml'
-  | 'corpusAnswerReviewRagToml'
-  | 'corpusQuestionImageReviewRagToml'
-  | 'corpusAnswerImageReviewRagToml'
-  | 'focusCorpusQuestionRagToml'
-  | 'focusCorpusAnswerRagToml'
-  | 'focusCorpusQuestionImageRagToml'
-  | 'focusCorpusAnswerImageRagToml'
-  | 'focusCorpusQuestionReviewRagToml'
-  | 'focusCorpusAnswerReviewRagToml'
-  | 'focusCorpusQuestionImageReviewRagToml'
-  | 'focusCorpusAnswerImageReviewRagToml'
-  | 'corpusPrimaryTopicAnswerRagToml'
-  | 'focusCorpusPrimaryTopicAnswerRagToml';
+import type {
+  ExemplarPaperCollectionId,
+  PaperCollectionId,
+  RegisteredPaperCollectionId,
+} from '@rtq/review-paper-model/client';
+
 export type ReadOnlyGeneratedFolderKey = 'corpusAllTopicsToml';
-export type RegisteredFolderKey =
-  EditableFolderKey | ReadOnlyGeneratedFolderKey;
-export type ExemplarFolderKey = `exemplarsLevel${number}Toml`;
-export type FolderKey = RegisteredFolderKey | ExemplarFolderKey;
-export type StatusTone =
-  | 'status'
-  | 'statusAmber'
-  | 'statusBlocked'
-  | 'statusGray'
-  | 'statusGreen1'
-  | 'statusGreen2'
-  | 'statusGreen3'
-  | 'statusGreen4'
-  | 'statusRed';
+export type RegisteredFolderKey = RegisteredPaperCollectionId;
+export type EditableFolderKey = Exclude<
+  RegisteredFolderKey,
+  ReadOnlyGeneratedFolderKey
+>;
+export type ExemplarFolderKey = ExemplarPaperCollectionId;
+export type FolderKey = PaperCollectionId;
 
 export type TagDimension = 'family' | 'math' | 'frame' | 'marker' | 'reasoning';
 export type TagKind = TagDimension | 'legacy';
@@ -44,24 +20,57 @@ export type NodeKind = 'question' | 'subquestion' | 'subsubquestion';
 
 export type TagCatalog = Record<TagDimension, string[]>;
 
-export type FileIndexItem = {
-  fileName: string;
-  folderKey: FolderKey;
-  href: string;
-  navFocusGroups: string[];
-  navMeta: string;
-  navStatusKey: string | null;
-  navStatus: string | null;
-  navStatusTone: StatusTone | null;
-  navTopicKey: string | null;
-  navTopicLabel: string | null;
-  navTitle: string;
-  questionCount: number;
-  relativePath: string;
-  searchText: string;
-  slugSegments: string[];
-  stem: string;
-  title: string;
+export type ImageTagGuide = {
+  path: string | null;
+  status: 'available' | 'missing';
+};
+
+export type ImageTagCatalogValue = {
+  description: string;
+  guide: ImageTagGuide;
+  label: string;
+  status: 'supported';
+  value: string;
+};
+
+export type ImageTagCatalogDimension = {
+  attribute: string;
+  cardinality: 'zero-or-one';
+  inheritance: 'none';
+  key: string;
+  label: string;
+  omission: 'unclassified';
+  values: ImageTagCatalogValue[];
+};
+
+export type ImageTagCatalog = {
+  assignment: {
+    scopes: PaperImageScope[];
+    syntax: 'static-double-quoted-prop';
+  };
+  component: 'PaperImage';
+  dimensions: ImageTagCatalogDimension[];
+  version: 1;
+};
+
+export type PaperImageScope = 'answer' | 'question' | 'working';
+
+export type PaperImageFieldLocator =
+  { kind: 'question' } | { index: number; kind: 'answer' | 'working' };
+
+export type ImageTagOccurrence = {
+  assetState: 'available' | 'missing';
+  attributes: Record<string, string>;
+  contextMarkdown: string;
+  field: PaperImageFieldLocator;
+  fieldLabel: string;
+  hierarchyLabel: string;
+  id: string;
+  imageNumber: number;
+  nodeUuid: string | null;
+  occurrenceIndex: number;
+  previewMarkdown: string;
+  scope: PaperImageScope;
 };
 
 export type PaperNodeContent = {
@@ -91,6 +100,7 @@ export type PaperNode = {
   hierarchyLabel: string;
   inheritedDisplayTags: DisplayTag[];
   inheritedTags: string[];
+  imageOccurrences: ImageTagOccurrence[];
   isRootNode: boolean;
   kind: NodeKind;
   path: string;
@@ -113,6 +123,7 @@ export type PaperSection = {
 export type PaperDocument = {
   fileName: string;
   folderKey: FolderKey;
+  imageOccurrences: ImageTagOccurrence[];
   meta: {
     accessTier: string | null;
     paperId: string | null;
@@ -148,5 +159,16 @@ export type NodeMutationPayload = {
   folderKey: FolderKey;
   nodePath: string;
   relativePath: string;
+  versionHash: string;
+};
+
+export type ImageTagMutationPayload = {
+  dimensionKey: string;
+  field: PaperImageFieldLocator;
+  folderKey: FolderKey;
+  nodeUuid: string;
+  occurrenceIndex: number;
+  relativePath: string;
+  value: string | null;
   versionHash: string;
 };

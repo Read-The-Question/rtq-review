@@ -8,8 +8,8 @@
   },
   "scripts": {
     "docs-web:dev": "pnpm --filter rtq-docs-web dev --port 3004",
-    "format:check": "pnpm --filter rtq-review-content-web format:check && pnpm --filter @rtq/review-paper-model format:check && pnpm --filter @rtq/review-paper-markdown format:check && pnpm --filter @rtq/review-katex-options format:check && pnpm --filter @rtq/review-store format:check",
-    "lint:check": "pnpm --filter rtq-review-content-web lint:check",
+    "format:check": "pnpm --filter @rtq/review-paper-browser format:check && pnpm --filter rtq-review-content-web format:check && pnpm --filter rtq-review-tag-web format:check && pnpm --filter @rtq/review-paper-model format:check && pnpm --filter @rtq/review-paper-markdown format:check && pnpm --filter @rtq/review-katex-options format:check && pnpm --filter @rtq/review-store format:check",
+    "lint:check": "pnpm --filter rtq-review-content-web lint:check && pnpm --filter rtq-review-tag-web lint:check",
     "repository-paths:test": "pnpm --filter @rtq/review-repository-paths test",
     "paper-svg:styles:test": "node --test scripts/paper-svg-tailwind.test.mjs",
     "database:tracking:check": "pnpm --filter @rtq/review-store database:tracking:check",
@@ -25,8 +25,8 @@
     "review-tag-web:dev": "pnpm --filter rtq-review-tag-web dev --port 3002",
     "review-question-viewer-web:dev": "pnpm --filter rtq-review-question-viewer-web dev --port 3003",
     "review-stack:smoke": "node scripts/review-stack-smoke.mjs",
-    "test": "pnpm --filter @rtq/review-paper-model test && pnpm --filter @rtq/review-paper-markdown test && pnpm --filter @rtq/review-katex-options test && pnpm --filter @rtq/review-store test && pnpm --filter rtq-review-content-web test",
-    "types": "pnpm --filter @rtq/review-paper-model types && pnpm --filter @rtq/review-paper-markdown types && pnpm --filter @rtq/review-katex-options types && pnpm --filter @rtq/review-store types && pnpm --filter rtq-review-content-web types"
+    "test": "pnpm --filter @rtq/review-paper-browser test && pnpm --filter @rtq/review-paper-model test && pnpm --filter @rtq/review-paper-markdown test && pnpm --filter @rtq/review-katex-options test && pnpm --filter @rtq/review-store test && pnpm --filter rtq-review-content-web test && pnpm --filter rtq-review-tag-web test",
+    "types": "pnpm --filter @rtq/review-paper-browser types && pnpm --filter @rtq/review-paper-model types && pnpm --filter @rtq/review-paper-markdown types && pnpm --filter @rtq/review-katex-options types && pnpm --filter @rtq/review-store types && pnpm --filter rtq-review-content-web types && pnpm --filter rtq-review-tag-web types"
   },
   "devDependencies": {
     "postcss": "^8.5.6"

@@ -1,4 +1,5 @@
 import './globals.css';
+import '@rtq/review-paper-browser/styles.css';
 import 'katex/dist/katex.min.css';
 
 import type { Metadata } from 'next';

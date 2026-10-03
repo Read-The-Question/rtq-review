@@ -40,6 +40,16 @@ pnpm review-tag-web:dev
 Open `http://localhost:3002`. The shared `@rtq/papers` review stack starts this
 workspace application on the same port.
 
+The home page and `/papers/<collection>` routes use the workspace-owned
+`@rtq/review-paper-browser` implementation shared with Review Content Web. It
+provides the same collection hierarchy, filename and metadata filtering,
+collection-scoped question-content search, pagination, URL query state, paper
+rows, and responsive navigation. The selected
+`/papers/<collection>/<source-relative-path>` route is where Tag Review
+diverges into its editable Question Tags and Image Tags surface. Former
+`/files/<folder>/<slug>` bookmarks receive a permanent redirect to the common
+route shape.
+
 PaperImage binaries, sidecars, technical manifests, and generated LongDivision
 sources are read directly from `@rtq/maths-assets`. The browser receives only
 allowlisted external PaperImage binaries through the app's same-origin route;
@@ -52,11 +62,24 @@ Manual images use `questions/manual/`, `workings/manual/`, or
 Old flat question URLs are not served. `PaperImage` authoring and generated
 long-division paths are unchanged. Doctor is not a reviewer build/startup gate.
 
-`PaperImage family="venn"` is accepted as occurrence-local authoring metadata
-and ignored for rendering, URLs and accessibility. No family-value validation
-gate or image-tag editing UI is added here; question-tag editing is separate.
-The vocabulary and drawing-guide contract are owned by
-[assets image dimensional tags](https://github.com/Read-The-Question/rtq-content/blob/develop/packages/assets/docs/architecture/image-dimensional-tags.md).
+Question Tags and Image Tags are separate review modes. Image Tags discovers
+authored `PaperImage` components in question, working, and answer fields and
+shows each occurrence with its resolved image, rendered field context, owning
+node UUID, and catalog-driven controls. Writes revalidate the source version,
+resolve exactly one node by `rtq-uuid`, and update only the selected component
+prop; positional question coordinates remain an asset-resolution detail.
+
+The vocabulary and drawing-guide contract are read from the canonical
+[`image-dimensional-tags.json`](https://github.com/Read-The-Question/rtq-content/blob/develop/packages/assets/docs/architecture/image-dimensional-tags.json)
+catalog owned by `@rtq/maths-assets`. The initial editor supports optional
+`family="venn"`; omission is unclassified and image tags never inherit from
+question tags or neighbouring images. Image tags remain rendering-neutral and
+do not change asset URLs, sidecars, manifests, accessibility data, or artwork.
+
+Canonical and full focus papers also expose an optional, persistent Original
+PDF pane in either review mode. The same-origin PDF route contains reads under
+`original-papers/pdf-rtq`, supports inline GET/HEAD and byte ranges, and never
+exposes filesystem paths to the browser.
 
 Inline division uses semantic Tailwind utilities. The shared source
 configuration in `packages/repository-paths` resolves SVGs through the same

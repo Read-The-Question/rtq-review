@@ -39,10 +39,6 @@ test('recognizes generated all-topic papers but keeps them read-only', () => {
   assert.equal(paperPaths.isEditableFolderKey('corpusAllTopicsToml'), false);
   assert.equal(paperPaths.isReadOnlyFolder('corpusAllTopicsToml'), true);
   assert.equal(
-    paperPaths.folderLabel('corpusAllTopicsToml'),
-    'Corpus All Topics',
-  );
-  assert.equal(
     paperPaths.resolvePaperFilePath('corpusAllTopicsToml', 'math.number.toml'),
     path.join(
       paperPaths.SOURCE_PAPERS_ROOT,

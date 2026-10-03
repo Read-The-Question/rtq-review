@@ -1,3 +1,8 @@
+import {
+  paperBrowserCollectionHref,
+  paperBrowserPaperHref,
+  type PaperBrowserRouteContract,
+} from '@rtq/review-paper-browser/model';
 import type { ReviewFilterSelection } from '@rtq/review-paper-model/client';
 import type { ReviewSide } from '@rtq/review-store/types';
 
@@ -371,23 +376,23 @@ export type ContentSearchRouteState = Readonly<{
   scope: 'all' | 'answer' | 'question' | 'working';
 }>;
 
-function withIndexQuery(
-  route: string,
+const paperBrowserRoutes: PaperBrowserRouteContract = {
+  collectionBasePath: '/papers',
+  contentSearchPath: '/api/papers/content-search',
+};
+
+function paperBrowserSearchState(
   indexQuery?: string,
   contentSearch?: ContentSearchRouteState,
-): string {
-  const parameters = new URLSearchParams();
-  const query = indexQuery?.trim();
-  const pattern = contentSearch?.pattern.trim();
-  if (query) parameters.set('q', query);
-  if (pattern && contentSearch) {
-    parameters.set('content', pattern);
-    if (contentSearch.scope !== 'all') {
-      parameters.set('content-scope', contentSearch.scope);
-    }
-  }
-  const serialized = parameters.toString();
-  return serialized ? `${route}?${serialized}` : route;
+) {
+  const pattern = contentSearch?.pattern.trim() ?? '';
+  return {
+    content:
+      pattern && contentSearch
+        ? { pattern, scope: contentSearch.scope }
+        : undefined,
+    query: indexQuery?.trim() ?? '',
+  };
 }
 
 export function paperRoute(
@@ -396,14 +401,11 @@ export function paperRoute(
   indexQuery?: string,
   contentSearch?: ContentSearchRouteState,
 ): string {
-  const slug = relativePath
-    .split('/')
-    .map((segment) => encodeURIComponent(segment))
-    .join('/');
-  return withIndexQuery(
-    `/papers/${encodeURIComponent(collectionId)}/${slug}`,
-    indexQuery,
-    contentSearch,
+  return paperBrowserPaperHref(
+    paperBrowserRoutes,
+    collectionId,
+    relativePath,
+    paperBrowserSearchState(indexQuery, contentSearch),
   );
 }
 
@@ -412,10 +414,10 @@ export function collectionRoute(
   indexQuery?: string,
   contentSearch?: ContentSearchRouteState,
 ): string {
-  return withIndexQuery(
-    `/papers/${encodeURIComponent(collectionId)}`,
-    indexQuery,
-    contentSearch,
+  return paperBrowserCollectionHref(
+    paperBrowserRoutes,
+    collectionId,
+    paperBrowserSearchState(indexQuery, contentSearch),
   );
 }
 

@@ -1,16 +1,24 @@
 'use client';
 
-import { ArrowLeft, Sparkles } from 'lucide-react';
+import {
+  ArrowLeft,
+  FileText,
+  ImageIcon,
+  PanelRight,
+  Sparkles,
+} from 'lucide-react';
 import Link from 'next/link';
 import { useCallback, useEffect, useRef, useState } from 'react';
 
 import { refreshPaperDocumentAction } from '@/app/actions';
-import { FileCommandPalette } from '@/components/file-command-palette';
+import { ImageTagDocument } from '@/components/image-tag-document';
 import { NodeDocument } from '@/components/node-document';
+import { PaperPdfPane } from '@/components/paper-pdf-pane';
 import { Separator } from '@/components/ui/separator';
 import { isReadOnlyFolder } from '@/lib/paper-folder-metadata';
+import type { PaperPdf } from '@/lib/paper-pdf';
 import type {
-  FileIndexItem,
+  ImageTagCatalog,
   PaperDocument,
   TagCatalog,
 } from '@/lib/paper-types';
@@ -18,18 +26,26 @@ import { formatCount } from '@/lib/utils';
 
 type TagEditorAppProps = {
   browseHref?: string;
-  files: FileIndexItem[];
+  imageTagCatalog: ImageTagCatalog;
   initialDocument: PaperDocument;
+  pdf?: PaperPdf;
   tagCatalog: TagCatalog;
 };
 
+const REVIEW_MODE_STORAGE_KEY = 'rtq-tag-web:review-mode:v1';
+const PDF_VISIBILITY_STORAGE_KEY = 'rtq-tag-web:show-original-pdf:v1';
+
 export function TagEditorApp({
   browseHref = '/',
-  files,
+  imageTagCatalog,
   initialDocument,
+  pdf,
   tagCatalog,
 }: TagEditorAppProps) {
   const [document, setDocument] = useState<PaperDocument>(initialDocument);
+  const [mode, setMode] = useState<'image' | 'question'>('question');
+  const [showPdf, setShowPdf] = useState(false);
+  const [preferencesLoaded, setPreferencesLoaded] = useState(false);
   const isReadOnly = isReadOnlyFolder(document.folderKey);
   const [saveState, setSaveState] = useState<{
     message: string;
@@ -45,6 +61,28 @@ export function TagEditorApp({
   useEffect(() => {
     latestDocumentRef.current = document;
   }, [document]);
+
+  useEffect(() => {
+    const timeoutId = window.setTimeout(() => {
+      const storedMode = window.localStorage.getItem(REVIEW_MODE_STORAGE_KEY);
+      setMode(storedMode === 'image' ? 'image' : 'question');
+      setShowPdf(
+        pdf?.state === 'available' &&
+          window.localStorage.getItem(PDF_VISIBILITY_STORAGE_KEY) === 'true',
+      );
+      setPreferencesLoaded(true);
+    }, 0);
+
+    return () => window.clearTimeout(timeoutId);
+  }, [pdf?.state]);
+
+  useEffect(() => {
+    if (!preferencesLoaded) {
+      return;
+    }
+    window.localStorage.setItem(REVIEW_MODE_STORAGE_KEY, mode);
+    window.localStorage.setItem(PDF_VISIBILITY_STORAGE_KEY, String(showPdf));
+  }, [mode, preferencesLoaded, showPdf]);
 
   useEffect(() => {
     if (saveState.tone !== 'success') {
@@ -124,13 +162,10 @@ export function TagEditorApp({
           </div>
         </div>
 
-        <div className="editor-topbar__right">
-          <div
-            className={`status-chip status-chip--${isReadOnly ? 'idle' : saveState.tone}`}>
-            <Sparkles className="h-4 w-4" />
-            {isReadOnly ? 'Read-only' : saveState.message}
-          </div>
-          <FileCommandPalette files={files} />
+        <div
+          className={`status-chip status-chip--${isReadOnly ? 'idle' : saveState.tone}`}>
+          <Sparkles className="h-4 w-4" />
+          {isReadOnly ? 'Read-only' : saveState.message}
         </div>
       </header>
 
@@ -146,17 +181,90 @@ export function TagEditorApp({
         </span>
       </section>
 
+      <section className="review-mode-bar" aria-label="Tag review controls">
+        <div
+          className="review-mode-tabs"
+          role="tablist"
+          aria-label="Review mode">
+          <button
+            aria-selected={mode === 'question'}
+            className={
+              mode === 'question'
+                ? 'review-mode-tab review-mode-tab--active'
+                : 'review-mode-tab'
+            }
+            onClick={() => setMode('question')}
+            role="tab"
+            type="button">
+            <FileText aria-hidden="true" className="h-4 w-4" />
+            Question tags
+          </button>
+          <button
+            aria-selected={mode === 'image'}
+            className={
+              mode === 'image'
+                ? 'review-mode-tab review-mode-tab--active'
+                : 'review-mode-tab'
+            }
+            onClick={() => setMode('image')}
+            role="tab"
+            type="button">
+            <ImageIcon aria-hidden="true" className="h-4 w-4" />
+            Image tags
+            <span>{document.imageOccurrences.length}</span>
+          </button>
+        </div>
+
+        <div className="review-mode-pdf-control">
+          {pdf?.state === 'available' ? (
+            <button
+              aria-pressed={showPdf}
+              className={
+                showPdf ? 'pdf-toggle pdf-toggle--active' : 'pdf-toggle'
+              }
+              onClick={() => setShowPdf(current => !current)}
+              type="button">
+              <PanelRight aria-hidden="true" className="h-4 w-4" />
+              {showPdf ? 'PDF shown' : 'Show original PDF'}
+            </button>
+          ) : pdf?.state === 'unavailable' ? (
+            <span className="pdf-unavailable-note" role="status">
+              Original PDF unavailable
+            </span>
+          ) : null}
+        </div>
+      </section>
+
       <Separator />
 
-      <div className="tag-workspace-grid">
-        <NodeDocument
-          document={document}
-          onDocumentChange={updateDocument}
-          onDocumentRefresh={refreshDocument}
-          onSaveStateChange={setSaveState}
-          readOnly={isReadOnly}
-          tagCatalog={tagCatalog}
-        />
+      <div
+        className={
+          showPdf && pdf?.state === 'available'
+            ? 'tag-workspace-grid tag-workspace-grid--with-pdf'
+            : 'tag-workspace-grid'
+        }>
+        {mode === 'question' ? (
+          <NodeDocument
+            document={document}
+            onDocumentChange={updateDocument}
+            onDocumentRefresh={refreshDocument}
+            onSaveStateChange={setSaveState}
+            readOnly={isReadOnly}
+            tagCatalog={tagCatalog}
+          />
+        ) : (
+          <ImageTagDocument
+            catalog={imageTagCatalog}
+            document={document}
+            onDocumentChange={updateDocument}
+            onDocumentRefresh={refreshDocument}
+            onSaveStateChange={setSaveState}
+            readOnly={isReadOnly}
+          />
+        )}
+        {showPdf && pdf?.state === 'available' ? (
+          <PaperPdfPane onHide={() => setShowPdf(false)} pdf={pdf} />
+        ) : null}
       </div>
     </main>
   );

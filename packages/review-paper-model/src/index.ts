@@ -2,9 +2,8 @@ export {
   exemplarLevelFromCollectionId,
   isExemplarPaperCollectionId,
   isPaperCollectionId,
-  listPaperCollections,
-  paperCollectionForId,
-} from './collections.ts';
+} from './collection-contract.ts';
+export { listPaperCollections, paperCollectionForId } from './collections.ts';
 export {
   clearAllDimensionalFilters,
   clearAllReviewFilters,

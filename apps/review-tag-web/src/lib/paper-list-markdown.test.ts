@@ -165,16 +165,13 @@ test('uses the shared contract at the central read-only Tag Web boundaries', asy
   assert.match(data, /children: await buildSubquestionNodes/);
   assert.match(data, /formulas: await Promise\.all/);
   assert.match(data, /tips: await Promise\.all/);
-  assert.match(data, /scopeType: 'answer'/);
+  assert.match(data, /hydrateImageField\(answerMarkdownFromRecord/);
+  assert.match(data, /kind: 'answer'/);
   const editableFolders = folderMetadata.match(
     /EDITABLE_FOLDER_ORDER[^=]*=\s*\[([\s\S]*?)\];/,
   )?.[1];
-  const visibleFolders = folderMetadata.match(
-    /export const FOLDER_ORDER[^=]*=\s*\[([\s\S]*?)\];/,
-  )?.[1];
-
   assert.ok(editableFolders);
-  assert.ok(visibleFolders);
   assert.doesNotMatch(editableFolders, /corpusAllTopicsToml/);
-  assert.match(visibleFolders, /corpusAllTopicsToml/);
+  assert.match(folderMetadata, /isPaperCollectionId\(value\)/);
+  assert.match(folderMetadata, /@rtq\/review-paper-model\/client/);
 });

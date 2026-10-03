@@ -1,3 +1,5 @@
+import { normalizePaperBrowserSearchParameters } from '@rtq/review-paper-browser/model';
+
 import { PaperIndex } from '@/components/paper-index';
 
 export const dynamic = 'force-dynamic';
@@ -12,18 +14,12 @@ export default async function HomePage({
     q?: string | string[];
   }>;
 }) {
-  const parameters = await searchParams;
+  const search = normalizePaperBrowserSearchParameters(await searchParams);
   return (
     <PaperIndex
-      initialContentPattern={
-        typeof parameters.content === 'string' ? parameters.content : undefined
-      }
-      initialContentScope={
-        typeof parameters['content-scope'] === 'string'
-          ? parameters['content-scope']
-          : undefined
-      }
-      initialQuery={typeof parameters.q === 'string' ? parameters.q : undefined}
+      initialContentPattern={search.content?.pattern}
+      initialContentScope={search.content?.scope}
+      initialQuery={search.query}
     />
   );
 }

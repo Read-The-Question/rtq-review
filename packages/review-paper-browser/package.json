@@ -1,0 +1,30 @@
+{
+  "name": "@rtq/review-paper-browser",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./browser": "./src/browser.tsx",
+    "./frame": "./src/frame.tsx",
+    "./model": "./src/model.ts",
+    "./server": "./src/server.ts",
+    "./styles.css": "./src/styles.css"
+  },
+  "scripts": {
+    "format:check": "prettier --check .",
+    "format:fix": "prettier --write .",
+    "test": "node --no-warnings --test --experimental-strip-types src/model.test.ts",
+    "types": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@rtq/review-paper-model": "workspace:*",
+    "react": "19.2.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "prettier": "^3.8.0",
+    "typescript": "^5"
+  }
+}

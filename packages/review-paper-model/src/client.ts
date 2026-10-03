@@ -15,7 +15,12 @@ export {
   PENDING_REVIEW_OUTCOME,
   REVIEW_OUTCOME_FILTER_VALUES,
 } from './filters.ts';
-export { DIMENSIONAL_TAG_AXES } from './model.ts';
+export {
+  exemplarLevelFromCollectionId,
+  isExemplarPaperCollectionId,
+  isPaperCollectionId,
+} from './collection-contract.ts';
+export { DIMENSIONAL_TAG_AXES, REVIEWABLE_COLLECTION_IDS } from './model.ts';
 export {
   compileContentSearch,
   compileUuidSearch,
@@ -42,6 +47,9 @@ export type {
   DimensionalFilterSelection,
   DimensionalTagAxis,
   EffectiveDimensionalTag,
+  ExemplarPaperCollectionId,
+  PaperCollectionId,
+  RegisteredPaperCollectionId,
   ReviewAnswer,
   ReviewAssetContext,
   ReviewContentField,

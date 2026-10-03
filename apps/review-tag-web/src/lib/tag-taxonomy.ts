@@ -8,13 +8,13 @@ import {
   DIMENSIONAL_STYLE_GUIDES_ROOT,
   EDITABLE_FOLDER_ORDER,
   resolveFolderPath,
-} from '@/lib/paper-paths';
+} from './paper-paths.ts';
 import type {
   FolderKey,
   TagCatalog,
   TagDimension,
   TagKind,
-} from '@/lib/paper-types';
+} from './paper-types.ts';
 
 const TAG_DIMENSIONS = [
   'family',

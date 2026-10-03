@@ -1,38 +1,36 @@
-import { notFound } from 'next/navigation';
+import {
+  type PaperBrowserRouteContract,
+  normalizePaperBrowserSearchParameters,
+  paperBrowserPaperHref,
+} from '@rtq/review-paper-browser/model';
+import { notFound, permanentRedirect } from 'next/navigation';
 
-import { TagEditorApp } from '@/components/tag-editor-app';
-import { listPaperFiles, readPaperDocumentBySlug } from '@/lib/paper-data';
 import { isFolderKey } from '@/lib/paper-paths';
-import { getTagCatalog } from '@/lib/tag-taxonomy';
 
 export const dynamic = 'force-dynamic';
+export const runtime = 'nodejs';
 
-type FilePageProps = {
-  params: Promise<{
-    folder: string;
-    slug: string[];
-  }>;
+const routes: PaperBrowserRouteContract = {
+  collectionBasePath: '/papers',
+  contentSearchPath: '/api/papers/content-search',
 };
 
-export default async function FilePage({ params }: FilePageProps) {
+export default async function LegacyFilePage({
+  params,
+  searchParams,
+}: {
+  params: Promise<{ folder: string; slug: string[] }>;
+  searchParams: Promise<{
+    content?: string | string[];
+    'content-scope'?: string | string[];
+    q?: string | string[];
+  }>;
+}) {
   const { folder, slug } = await params;
+  if (!isFolderKey(folder) || slug.length === 0) notFound();
+  const search = normalizePaperBrowserSearchParameters(await searchParams);
 
-  if (!isFolderKey(folder)) {
-    notFound();
-  }
-
-  const [files, document, tagCatalog] = await Promise.all([
-    listPaperFiles(),
-    readPaperDocumentBySlug(folder, slug),
-    getTagCatalog(),
-  ]);
-
-  return (
-    <TagEditorApp
-      files={files}
-      initialDocument={document}
-      key={`${folder}/${slug.join('/')}`}
-      tagCatalog={tagCatalog}
-    />
+  permanentRedirect(
+    paperBrowserPaperHref(routes, folder, `${slug.join('/')}.toml`, search),
   );
 }

@@ -2,7 +2,7 @@ import fs from 'node:fs/promises';
 
 import { parse } from '@iarna/toml';
 
-import { MACROS_TOML_PATH } from '@/lib/paper-paths';
+import { MACROS_TOML_PATH } from './paper-paths.ts';
 
 let macrosPromise: Promise<Map<string, string>> | null = null;
 

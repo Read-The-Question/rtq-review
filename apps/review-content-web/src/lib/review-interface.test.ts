@@ -10,7 +10,18 @@ const siteHeaderUrl = new URL('../components/site-header.tsx', import.meta.url);
 const cssUrl = new URL('../app/globals.css', import.meta.url);
 const homeUrl = new URL('../app/page.tsx', import.meta.url);
 const paperIndexUrl = new URL('../components/paper-index.tsx', import.meta.url);
-const browserUrl = new URL('../components/file-browser.tsx', import.meta.url);
+const browserUrl = new URL(
+  '../../../../packages/review-paper-browser/src/browser.tsx',
+  import.meta.url,
+);
+const browserModelUrl = new URL(
+  '../../../../packages/review-paper-browser/src/model.ts',
+  import.meta.url,
+);
+const browserCssUrl = new URL(
+  '../../../../packages/review-paper-browser/src/styles.css',
+  import.meta.url,
+);
 const changeRequestInboxUrl = new URL(
   '../components/change-request-inbox.tsx',
   import.meta.url,
@@ -574,7 +585,7 @@ test('raw source search keeps contextual scope with reduced paper and collection
     component,
     /\{filtersExpanded \? \([\s\S]*context="paper"[\s\S]*<FilterPanel/,
   );
-  assert.match(browser, /className="collection-content-search"/);
+  assert.match(browser, /className="paper-browser-content-search"/);
   assert.match(browser, /Search questions in this collection/);
   assert.match(
     browser,
@@ -671,15 +682,17 @@ test('review Markdown uses the shared Paper component contracts', async () => {
 });
 
 test('corpus search is bounded, URL-backed, and reuses the complete review surface', async () => {
-  const [browser, component, page, route, reviewSurface] = await Promise.all([
-    fs.readFile(browserUrl, 'utf8'),
-    fs.readFile(corpusSearchUrl, 'utf8'),
-    fs.readFile(corpusSearchPageUrl, 'utf8'),
-    fs.readFile(corpusSearchRouteUrl, 'utf8'),
-    fs.readFile(componentUrl, 'utf8'),
-  ]);
+  const [paperIndex, component, page, route, reviewSurface] = await Promise.all(
+    [
+      fs.readFile(paperIndexUrl, 'utf8'),
+      fs.readFile(corpusSearchUrl, 'utf8'),
+      fs.readFile(corpusSearchPageUrl, 'utf8'),
+      fs.readFile(corpusSearchRouteUrl, 'utf8'),
+      fs.readFile(componentUrl, 'utf8'),
+    ],
+  );
 
-  assert.match(browser, /href="\/search"/);
+  assert.match(paperIndex, /href="\/search"/);
   assert.match(page, /cursor=\{cursor\}/);
   assert.match(component, /\/api\/papers\/corpus-search/);
   assert.match(component, /<ReviewSurface/);
@@ -726,62 +739,68 @@ test('corpus search has a distinct ordered multi-UUID mode', async () => {
 });
 
 test('the landing page uses a compact paper-first introduction', async () => {
-  const [home, paperIndex, browser, component, css] = await Promise.all([
-    fs.readFile(homeUrl, 'utf8'),
-    fs.readFile(paperIndexUrl, 'utf8'),
-    fs.readFile(browserUrl, 'utf8'),
-    fs.readFile(componentUrl, 'utf8'),
-    fs.readFile(cssUrl, 'utf8'),
-  ]);
+  const [home, paperIndex, browser, browserModel, browserCss, component] =
+    await Promise.all([
+      fs.readFile(homeUrl, 'utf8'),
+      fs.readFile(paperIndexUrl, 'utf8'),
+      fs.readFile(browserUrl, 'utf8'),
+      fs.readFile(browserModelUrl, 'utf8'),
+      fs.readFile(browserCssUrl, 'utf8'),
+      fs.readFile(componentUrl, 'utf8'),
+    ]);
 
   assert.match(home, /<PaperIndex[\s\S]*initialQuery=/);
-  assert.match(paperIndex, /<h1>Choose a paper<\/h1>/);
-  assert.match(paperIndex, /listPaperCollections\(\)/);
-  assert.match(paperIndex, /availableCollections\.map/);
-  assert.match(paperIndex, /count:\s*0/);
+  assert.match(paperIndex, /heading="Choose a paper"/);
+  assert.match(paperIndex, /loadPaperBrowserWorkspace/);
   assert.doesNotMatch(paperIndex, /Change the lens/);
   assert.match(
     browser,
-    /href=\{collectionRoute\(\s*collection\.id,\s*query,\s*contentSearch,?\s*\)\}/,
+    /href=\{paperBrowserCollectionHref\([\s\S]*collection\.id,[\s\S]*searchState/,
   );
   assert.match(browser, /Search questions in this collection/);
-  assert.match(browser, /\/api\/papers\/content-search/);
+  assert.match(
+    paperIndex,
+    /contentSearchPath: '\/api\/papers\/content-search'/,
+  );
   assert.match(browser, /aria-current=/);
-  assert.match(browser, /label: 'Collections'/);
-  assert.match(browser, /label: 'Focus'/);
-  assert.match(browser, /label: 'Subsections'/);
-  assert.match(browser, /label: 'Exemplars'/);
-  assert.match(browser, /id: 'focus-papers', label: 'Papers'/);
-  assert.match(browser, /id: 'focus-corpus', label: 'Corpus'/);
-  assert.match(browser, /id: 'focus-rag', label: 'RAG'/);
-  assert.match(browser, /id: 'corpus-review-rag'/);
-  assert.match(browser, /id: 'focus-review-rag'/);
-  assert.match(browser, /label: 'Review RAG'/);
+  assert.match(browserModel, /label: 'Collections'/);
+  assert.match(browserModel, /label: 'Focus'/);
+  assert.match(browserModel, /label: 'Subsections'/);
+  assert.match(browserModel, /label: 'Exemplars'/);
+  assert.match(browserModel, /id: 'focus-papers', label: 'Papers'/);
+  assert.match(browserModel, /id: 'focus-corpus', label: 'Corpus'/);
+  assert.match(browserModel, /id: 'focus-rag', label: 'RAG'/);
+  assert.match(browserModel, /id: 'corpus-review-rag'/);
+  assert.match(browserModel, /id: 'focus-review-rag'/);
+  assert.match(browserModel, /label: 'Review RAG'/);
   assert.match(browser, /window\.history\.replaceState/);
   assert.match(browser, /parameters\.set\('q', normalized\)/);
-  assert.match(browser, /paper\.relativePath,\s*query,/);
+  assert.match(browser, /paper\.relativePath,[\s\S]*searchState/);
   assert.match(
     component,
     /collectionRoute\(\s*paper\.source\.collection\.id,\s*searchParams\.get\('q'\)/,
   );
-  assert.match(css, /\.index-intro\s*{[^}]*padding:\s*1\.5rem 0/s);
   assert.match(
-    css,
-    /\.collection-rail\s*{[^}]*background:\s*var\(--paper-deep\)/s,
+    browserCss,
+    /\.paper-browser-intro\s*{[^}]*padding:\s*1\.5rem 0/s,
   );
-  assert.match(css, /\.collection-group-title\s*{/);
-  assert.match(css, /\.collection-subgroup-title\s*{/);
+  assert.match(
+    browserCss,
+    /\.paper-browser-rail\s*{[^}]*background:\s*var\(--paper-browser-deep\)/s,
+  );
+  assert.match(browserCss, /\.paper-browser-collection-group > h2\s*{/);
+  assert.match(browserCss, /\.paper-browser-collection-subgroup > h3\s*{/);
 });
 
 test('the paper rail links to a read-only whole-file macro review', async () => {
-  const [browser, macrosPage, macrosList, css] = await Promise.all([
-    fs.readFile(browserUrl, 'utf8'),
+  const [paperIndex, macrosPage, macrosList, css] = await Promise.all([
+    fs.readFile(paperIndexUrl, 'utf8'),
     fs.readFile(macrosPageUrl, 'utf8'),
     fs.readFile(macrosListUrl, 'utf8'),
     fs.readFile(cssUrl, 'utf8'),
   ]);
 
-  assert.match(browser, /href="\/macros"/);
+  assert.match(paperIndex, /href="\/macros"/);
   assert.match(macrosPage, /readReviewMacros/);
   assert.match(
     macrosPage,

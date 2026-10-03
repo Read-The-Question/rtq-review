@@ -12,7 +12,10 @@ import {
 
 const writeQueues = new Map<string, Promise<PaperDocument>>();
 
-function enqueueFileWrite(fileKey: string, task: () => Promise<PaperDocument>) {
+export function enqueueFileWrite(
+  fileKey: string,
+  task: () => Promise<PaperDocument>,
+) {
   const previous =
     writeQueues.get(fileKey) ??
     Promise.resolve(undefined as unknown as PaperDocument);

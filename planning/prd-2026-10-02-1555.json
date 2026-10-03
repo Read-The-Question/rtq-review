@@ -1,0 +1,125 @@
+{
+  "id": "PRD-20261002-1555",
+  "title": "Image Dimensional Tags and Review Support",
+  "date": "2026-10-02",
+  "stage": "n/a",
+  "status": "todo",
+  "goal": [
+    "Establish one assets-owned, versioned, machine-readable source of truth for image dimensional-tag dimensions, values, and semantics.",
+    "Use the canonical contract as the basis for later PaperImage validation, authoring, and review support without duplicating tag vocabularies across repositories."
+  ],
+  "scope": {
+    "in": [
+      "A canonical image dimensional-tag JSON contract owned by rtq-content/packages/assets alongside the existing image dimensional-tag architecture documentation.",
+      "Documentation and validation that keep the machine-readable contract authoritative as dimensions, values, guidance, and compatible consumers evolve.",
+      "A separate occurrence-centric Image Tags mode in Review Tag Web, with UUID-backed TOML mutations and schema-driven controls for each authored PaperImage.",
+      "An optional original-paper PDF pane in Review Tag Web for canonical full papers and full focus papers, available in both Question Tags and Image Tags modes.",
+      "One shared paper-browser and navigation implementation used by Review Content Web and Review Tag Web before their selected-paper work surfaces diverge.",
+      "Later tasks, added only after explicit review, for production, TOML, Tag Review, Content Review, and other consumers of the assets-owned contract."
+    ],
+    "out": [
+      "Implementing production or review-application consumers before their tasks are defined and approved in this PRD.",
+      "Classifying existing PaperImage occurrences or changing authored paper TOML in the initial task.",
+      "Creating an empty Venn image-style guide or inventing unsupported dimensions, values, drawing rules, geometry schemas, or rendering behavior."
+    ],
+    "constraints": [
+      "The canonical vocabulary and schema are owned by @rtq/maths-assets; consumers must derive supported image dimensional tags from that contract rather than maintain independent allowlists.",
+      "Image tag assignments remain occurrence-local static props on authored PaperImage components and do not move into accessibility sidecars, technical manifests, generated geometry, or a second editable store.",
+      "Image dimensional tags remain separate from question dimensional tags, with no question-tag inheritance, implicit image defaults, or inference from neighbouring images.",
+      "The initial contract represents only evidence-backed behavior already supported today: optional family=venn on question-, working-, and answer-scoped PaperImage occurrences.",
+      "Follow the applicable AGENTS.md and repository validation conventions in every repository touched by a later execution task."
+    ]
+  },
+  "tasks": [
+    {
+      "id": "T1",
+      "title": "Establish the canonical image dimensional-tag catalog and documentation",
+      "status": "done",
+      "description": "Create the assets-owned versioned JSON contract for image dimensional tags from the behavior supported today, and update the architecture documentation so the JSON is explicitly authoritative for all present and future consumers.",
+      "acceptanceCriteria": [
+        "A versioned machine-readable JSON file exists at rtq-content/packages/assets/docs/architecture/image-dimensional-tags.json and is identified as the canonical source of truth for supported image dimensional-tag dimensions and values.",
+        "The version 1 contract identifies PaperImage as the target component and represents the optional single-valued family dimension, no inheritance, omission as unclassified, and venn as the only supported value across question, working, and answer scopes.",
+        "The catalog contains sufficient consumer-facing metadata to drive validation and review UI without hard-coding the vocabulary elsewhere, including stable dimension and attribute keys, labels, cardinality, omission and inheritance semantics, supported-value status, description, and guide availability or path.",
+        "The catalog records the current Venn guide as missing without creating a placeholder guide or implying approved drawing, geometry, generator, or renderer behavior.",
+        "The existing image dimensional-tag architecture document links to the JSON contract, declares it authoritative, explains that every dimension or value change must update the contract first, and states that compatible consumers and substantive guidance must be updated together where applicable.",
+        "The documentation continues to state that assignments live only on authored PaperImage occurrences and must not be copied into image sidecars, generated manifests, URLs, accessibility data, question tags, or another editable tag store.",
+        "Assets-owned validation rejects unsupported schema versions, malformed or duplicate dimension and value identifiers, invalid cardinality or inheritance declarations, and non-null guide paths that do not resolve to an approved guide.",
+        "Focused automated tests cover the valid initial catalog and representative invalid catalog shapes, and the relevant @rtq/maths-assets format, lint, type, and test checks pass.",
+        "No production PaperImage implementation, review application, paper TOML, image binary, sidecar, generated manifest, or drawing guide is changed by this task."
+      ],
+      "steps": [],
+      "notes": "Implemented the canonical v1 catalog at packages/assets/docs/architecture/image-dimensional-tags.json, updated the architecture documentation, and added an assets-owned strict validator, read-only check command, and focused valid/invalid-shape tests. The implementation is limited to family=venn on PaperImage across question, working, and answer scopes; the Venn guide remains explicitly missing and no placeholder guide or production/review/TOML/asset consumer was changed. Validation passed on 2026-10-02: pnpm papers:images:tags:check, pnpm lint:check, pnpm format:check, pnpm types, and pnpm test (191/191). Accepted by the user and marked done on 2026-10-02.",
+      "children": []
+    },
+    {
+      "id": "T2",
+      "title": "Build UUID-backed image-tag review with original-PDF context",
+      "status": "done",
+      "description": "Add a separate Image Tags mode to Review Tag Web that treats each authored PaperImage occurrence as the editable entity, derives its controls from the canonical assets catalog, persists prop changes against the selected TOML node by UUID, and provides the original paper PDF beside the review surface when the selected collection supports it.",
+      "acceptanceCriteria": [
+        "Review Tag Web provides mutually exclusive Question Tags and Image Tags modes; selecting Image Tags hides the question-tag editing matrix instead of presenting both tag systems together.",
+        "Image Tags mode discovers PaperImage occurrences only from supported question, workings[].working, and answers[].answer fields at question, subquestion, and sub-subquestion depth, while excluding LongDivision and legacy placeholders from editable image-tag scope.",
+        "Every occurrence is represented by the selected paper identity, the owning node's rtq-uuid, its question/working/answer field locator, and its zero-based occurrence index within that field; multiple PaperImage components in one field remain independently reviewable and editable.",
+        "The reviewer-facing identity uses the paper title, question hierarchy label, node UUID, field label, and human-friendly image number rather than exposing s0.q4-style node paths as the authoring identity.",
+        "Each occurrence shows the resolved current PaperImage asset or the established missing-image state together with enough rendered question, working, or answer context, including KaTeX, to classify the occurrence without editing the surrounding content.",
+        "Image dimension controls, labels, cardinality, supported values, omission behavior, and guide status are generated from the canonical assets-owned catalog introduced by T1; Review Tag Web contains no independent image-tag allowlist.",
+        "The initial editor can add, replace, or remove family=venn on an individual occurrence, presents an absent family as unclassified without persisting a default, and introduces no question-tag inheritance or neighbouring-image inheritance.",
+        "An image-tag mutation re-reads the selected TOML representation, rejects a stale version hash, resolves exactly one owning node by rtq-uuid, validates the field and occurrence against the current source, validates the requested dimension/value against the canonical catalog, and changes only the selected PaperImage prop while preserving unrelated TOML and component formatting.",
+        "Missing or duplicate node UUIDs, a missing/reordered occurrence, a mismatched assetScope, malformed component attributes, read-only collections, and unsupported catalog versions fail explicitly without falling back to a positional node path or editing a different occurrence.",
+        "Positional section, question, working/answer, and image coordinates remain available only for existing asset resolution, including canonical resolution through rtq-question-id in focus or derived representations; they are not the authoritative node mutation identity.",
+        "Canonical toml and focusPaperToml papers expose the same Original PDF availability behavior as Review Content Web: a user preference toggle, an unavailable state, a hide action, and a persistent right-hand PDF pane usable in both tag modes.",
+        "The PDF boundary resolves only contained files under the configured original-papers/pdf-rtq root, rejects invalid names and escaping symlinks, supports inline GET/HEAD and byte-range responses, and does not expose filesystem paths to the browser.",
+        "The PDF pane remains independently scrollable and responsive; automatic question-to-PDF-page synchronization is not implied by this task.",
+        "Image classification changes do not modify the image binary, accessibility sidecar, technical manifest, asset address, layout, KaTeX, surrounding authored content, question dimensional tags, image review RAG state, or drawing guidance.",
+        "Focused tests cover catalog-driven control construction, UUID and version verification, nested and multi-occurrence extraction, all three image scopes, byte-preserving add/replace/remove mutations, failure cases, PDF availability/security/range handling, mode exclusivity, read-only presentation, and representative browser interaction with an available and a missing image."
+      ],
+      "steps": [],
+      "notes": "Implemented in Review Tag Web on 2026-10-02. Added mutually exclusive Question Tags and Image Tags modes; occurrence-centric PaperImage discovery for question, working, and answer fields at all supported hierarchy depths; catalog-derived controls and guide state; UUID plus field plus occurrence mutation identity with source-version, scope, syntax, read-only, catalog, and occurrence validation; byte-preserving prop add/replace/remove writes; resolved available/missing asset previews with rendered KaTeX context; and the persistent original-PDF split pane for toml and focusPaperToml collections. Added contained PDF GET/HEAD/range delivery with filename and symlink checks. Focused tests cover catalog/version behavior, nested/repeated/all-scope extraction, UUID/version mutations and failure cases, byte preservation, PDF availability/security/ranges, and rendering neutrality. Validation passed: pnpm lint:check, pnpm format:check, pnpm types, pnpm test (56/56), and pnpm build. A live representative focus paper returned the separate mode controls, 11 discovered image occurrences (9 available and 2 missing), successful available/missing asset responses, and an inline PDF HEAD response with range support; the runtime log contained no application errors. Accepted by the user and marked done on 2026-10-02.",
+      "children": []
+    },
+    {
+      "id": "T3",
+      "title": "Unify paper browsing and navigation across maintained reviewers",
+      "status": "in_review",
+      "description": "Extract the Review Content paper-discovery experience into a shared workspace boundary and adopt it in both Review Content Web and Review Tag Web so collection grouping, search, navigation, paper rows, URL state, and future browser changes have one implementation while each application retains its own selected-paper review surface.",
+      "acceptanceCriteria": [
+        "A workspace-owned paper-browser package or equivalent shared boundary consumes @rtq/review-paper-model and owns the common serializable browser view model, collection hierarchy, metadata search, content search state, result summaries, pagination, paper rows, empty/loading/error states, accessibility behavior, and browser styling.",
+        "Review Content Web and Review Tag Web both use the shared browser boundary for their home and collection pages; Tag Review's duplicate folder registry, file-index categorization, browser filters, paper-list presentation, and command-palette-only navigation are removed when superseded.",
+        "Both applications show the same ordered Collections, Focus, Subsections, and Exemplars hierarchy with the same collection labels, descriptions, counts, paper metadata, invalid-source handling, and paper ordering from @rtq/review-paper-model.",
+        "Both applications provide the same immediate filename/metadata search and collection-scoped question-content search, including regular-expression validation, question/working/answer scope selection, matching-file and matching-question counts, loading/error/empty states, and stable q, content, and content-scope URL parameters.",
+        "Shared client components receive plain serializable browser data and precomputed hrefs or another explicit serializable route contract; the package does not import either application's private modules or pass non-serializable routing functions across the Server Component boundary.",
+        "Application-specific secondary navigation is composed through explicit wrappers or slots rather than boolean-prop proliferation: Content Review retains its corpus search, review-work, and macro links, while Tag Review adds only destinations that belong to tag workflows.",
+        "The selected-paper route is the point where the applications diverge: Content Review retains its read-only content/review surface, and Tag Review retains its editable Question Tags and Image Tags surfaces without moving those implementations into the shared browser package.",
+        "Review Tag Web adopts the common paper and collection route shape where practical, and any replaced /files URLs receive deterministic compatibility redirects so existing bookmarks do not silently break.",
+        "Shared browser CSS and responsive behavior are consumed by both applications, so future navigation, categorization, search, and paper-row changes can be made once without application-local copies drifting.",
+        "The migration preserves collection/path containment, Server Component filesystem reads, current source freshness behavior, read-only/editable collection policy at the selected-paper boundary, and application-specific error handling.",
+        "Focused shared-package tests cover collection grouping, browser-model construction, query normalization, filtering, ordering, pagination, and link contracts; application integration and browser tests prove equivalent home/collection behavior, URL restoration, content search, compatibility redirects, and successful navigation into each distinct review surface.",
+        "Review Content Web and Review Tag Web pass their relevant format, lint, type, unit/integration, browser, and production-build checks after the migration, with no cross-application private imports or duplicate maintained browser implementation remaining."
+      ],
+      "steps": [],
+      "notes": "Implemented a workspace-owned @rtq/review-paper-browser package with a serializable model and route contract, shared frame/client browser/server content-search boundary, and shared responsive styles. Review Content and Review Tag now use the same home and collection hierarchy, metadata/content search, URL state, rows, pagination, and navigation; each keeps its private selected-paper surface through explicit composition. Tag's superseded browser/sidebar/command-palette implementation and local collection registry were removed, /files routes redirect deterministically to /papers, and the review-paper-model collection guards now have a client-safe contract. Validation completed: workspace format, lint, types, and 341 unit/integration tests; both production builds; both browser smoke suites. Next production builds retain their existing non-fatal Turbopack NFT filesystem-tracing warning. Awaiting user acceptance before done.",
+      "children": []
+    }
+  ],
+  "validation": [
+    "Run the focused image dimensional-tag catalog validation and invalid-shape tests in @rtq/maths-assets.",
+    "Run the relevant @rtq/maths-assets format, lint, type, and test checks.",
+    "Confirm the architecture documentation and canonical JSON describe the same initial family=venn contract.",
+    "Run Review Tag Web format, lint, type, unit/integration, and production-build checks after T2.",
+    "Run a browser acceptance walkthrough covering the separate Image Tags mode, multiple or missing images, UUID-backed persistence, and the original-PDF pane.",
+    "Run shared paper-browser tests plus Review Content Web and Review Tag Web integration, browser, and production-build validation after T3."
+  ],
+  "openQuestions": [],
+  "decisions": [
+    "The image dimensional-tag vocabulary and schema are owned by @rtq/maths-assets in a versioned JSON contract.",
+    "The JSON contract is authoritative; prose documentation explains the contract but is not an independent vocabulary source.",
+    "All production and review consumers will derive their supported dimensions and values from the assets-owned contract through later PRD tasks.",
+    "The initial catalog contains only optional family=venn and does not create a Venn drawing guide.",
+    "Review Tag Web will present question-tag review and image-tag review as separate mutually exclusive modes.",
+    "Image-tag writes will use the owning node's rtq-uuid plus a field and occurrence locator; positional node paths remain an asset-resolution detail rather than the authoritative mutation identity.",
+    "The original-paper PDF pane will follow the existing Review Content Web behavior and will be available for canonical full papers and full focus papers in either Tag Review mode.",
+    "Review Content Web's paper browser is the behavioral and visual basis for a shared navigation package adopted by both Content Review and Tag Review.",
+    "Shared navigation ends at the selected-paper route; application-specific review and mutation surfaces remain explicitly composed outside the common browser."
+  ],
+  "notes": "This is a living PRD. T1 through T3 are defined at present; subsequent consumer tasks will be added through later planning conversations before any task is executed."
+}

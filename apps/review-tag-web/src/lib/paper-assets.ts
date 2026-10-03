@@ -12,10 +12,10 @@ import { validatePaperListMarkdown } from '@rtq/review-paper-markdown/validate';
 import {
   PAPER_IMAGE_EXTENSIONS,
   resolveCanonicalPaperImageExtension,
-} from '@/lib/paper-asset-reader';
-import { EXTERNAL_ASSETS_ROOT } from '@/lib/paper-paths';
-import { normalizePaperTableMarkdown } from '@/lib/paper-table-markdown';
-import { prepareInlineLongDivisionSvg } from '@/lib/prepare-inline-long-division';
+} from './paper-asset-reader.ts';
+import { EXTERNAL_ASSETS_ROOT } from './paper-paths.ts';
+import { normalizePaperTableMarkdown } from './paper-table-markdown.ts';
+import { prepareInlineLongDivisionSvg } from './prepare-inline-long-division.ts';
 
 const API_ASSET_PREFIX = '/api/assets';
 const MISSING_IMAGE_RELATIVE_PATH = 'papers/missing/missing_image.svg';
@@ -59,7 +59,7 @@ const WORKING_SECTION_CLOSE_REGEX = /^\s*<\/WorkingSection>\s*$/;
 const WORKING_SECTION_ATTRIBUTE_REGEX =
   /([A-Za-z][A-Za-z0-9-]*)\s*=\s*["']([^"']*)["']/g;
 
-type AssetContext = {
+export type AssetContext = {
   assetFileStem?: string;
   assetQuestionIndex?: number;
   assetSectionIndex?: number;
@@ -426,6 +426,22 @@ function paperImageAssetRelativePath(
   };
 }
 
+export function paperImageAssetState(
+  context: AssetContext,
+  assetScope: PaperImageAssetScope,
+  scopeIndex: number | undefined,
+  imageIndex: number,
+) {
+  return paperImageAssetRelativePath(
+    context,
+    assetScope,
+    scopeIndex,
+    imageIndex,
+  ).extension === undefined
+    ? ('missing' as const)
+    : ('available' as const);
+}
+
 function paperImageTechnicalEntry(
   context: AssetContext,
   sourceRelativePath: string,
@@ -709,8 +725,9 @@ function replacePaperImages(
   context: AssetContext,
   expectedScope: PaperImageAssetScope,
   scopeIndex: number | undefined,
+  imageIndexOffset = 0,
 ) {
-  let imageIndex = 0;
+  let imageIndex = imageIndexOffset;
 
   return text.replace(PAPER_IMAGE_REGEX, match => {
     const attrs = parseComponentAttributes(match);
@@ -814,6 +831,7 @@ export function enrichRtqMarkdown(
   text: string,
   context: AssetContext,
   options?: {
+    imageIndexOffset?: number;
     scopeIndex?: number;
     scopeType?: LongDivisionScope;
   },
@@ -837,6 +855,7 @@ export function enrichRtqMarkdown(
     context,
     assetScope,
     options?.scopeIndex,
+    options?.imageIndexOffset,
   );
 
   if (!options?.scopeType || options.scopeIndex === undefined) {

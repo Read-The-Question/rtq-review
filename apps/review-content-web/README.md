@@ -14,6 +14,13 @@ finding inbox. A filter-aware left rail links directly to every visible
 question, subquestion, and sub-subquestion. The read-only `corpusAllTopicsToml`
 collection exposes the complete one-way projection across every active tag.
 
+The landing-page paper browser is supplied by the workspace-owned
+`@rtq/review-paper-browser` package and is shared with Review Tag Web. The
+package owns collection grouping, paper rows, metadata and content search,
+pagination, URL query state, and responsive styling. This app composes its
+corpus search, review queues, and macro links into the shared rail; its selected
+paper remains the private read-only `ReviewSurface`.
+
 Authored `PaperList` wrappers render directly in question, answer, working,
 formula, and tip Markdown. The optional `listStyleType` uses the shared review
 contract and browser-native CSS markers; raw source retains the authored

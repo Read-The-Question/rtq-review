@@ -7,11 +7,20 @@ import {
 
 import {
   REVIEWABLE_COLLECTION_IDS,
-  type ExemplarPaperCollectionId,
   type PaperCollection,
-  type PaperCollectionId,
   type RegisteredPaperCollectionId,
 } from './model.ts';
+import {
+  exemplarLevelFromCollectionId,
+  isExemplarPaperCollectionId,
+  isPaperCollectionId,
+} from './collection-contract.ts';
+
+export {
+  exemplarLevelFromCollectionId,
+  isExemplarPaperCollectionId,
+  isPaperCollectionId,
+};
 
 const COLLECTION_COPY: Record<
   RegisteredPaperCollectionId,
@@ -119,34 +128,6 @@ const COLLECTION_COPY: Record<
     label: 'Papers',
   },
 };
-
-const exemplarCollectionPattern = /^exemplarsLevel(\d+)Toml$/;
-
-export function exemplarLevelFromCollectionId(
-  value: string,
-): number | undefined {
-  const match = exemplarCollectionPattern.exec(value);
-
-  if (!match) {
-    return undefined;
-  }
-
-  const level = Number.parseInt(match[1], 10);
-  return Number.isSafeInteger(level) ? level : undefined;
-}
-
-export function isExemplarPaperCollectionId(
-  value: string,
-): value is ExemplarPaperCollectionId {
-  return exemplarLevelFromCollectionId(value) !== undefined;
-}
-
-export function isPaperCollectionId(value: string): value is PaperCollectionId {
-  return (
-    (REVIEWABLE_COLLECTION_IDS as readonly string[]).includes(value) ||
-    isExemplarPaperCollectionId(value)
-  );
-}
 
 export function paperCollectionForId(value: string): PaperCollection {
   if (!isPaperCollectionId(value)) {

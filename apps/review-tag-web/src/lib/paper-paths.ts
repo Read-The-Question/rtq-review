@@ -5,13 +5,10 @@ import {
   resolveRtqContentPaths,
 } from '@rtq/review-repository-paths';
 
-import type { FolderKey, RegisteredFolderKey } from '@/lib/paper-types';
+import type { FolderKey } from '@/lib/paper-types';
 
 import {
   EDITABLE_FOLDER_ORDER,
-  FOLDER_ORDER,
-  compareFolderKeys,
-  folderLabel,
   isEditableFolderKey,
   isExemplarFolderKey,
   isFolderKey,
@@ -20,9 +17,6 @@ import {
 
 export {
   EDITABLE_FOLDER_ORDER,
-  FOLDER_ORDER,
-  compareFolderKeys,
-  folderLabel,
   isEditableFolderKey,
   isExemplarFolderKey,
   isFolderKey,
@@ -47,177 +41,13 @@ export const MACROS_TOML_PATH = path.join(
   'macros/content/expansions.toml',
 );
 export const EXTERNAL_ASSETS_ROOT = contentPaths.assetsRoot;
-
-export const SOURCE_FOLDERS: Record<
-  RegisteredFolderKey,
-  {
-    absolutePath: string;
-    description: string;
-    label: string;
-  }
-> = {
-  corpusAllTopicsToml: {
-    absolutePath: path.join(SOURCE_PAPERS_ROOT, 'corpusAllTopicsToml'),
-    description: 'Corpus questions grouped across every active tag',
-    label: 'Corpus All Topics',
-  },
-  corpusAnswerRagToml: {
-    absolutePath: path.join(SOURCE_PAPERS_ROOT, 'corpusAnswerRagToml'),
-    description: 'Corpus questions grouped by answer RAG',
-    label: 'Corpus Answer RAG',
-  },
-  corpusAnswerImageReviewRagToml: {
-    absolutePath: path.join(
-      SOURCE_PAPERS_ROOT,
-      'corpusAnswerImageReviewRagToml',
-    ),
-    description:
-      'Corpus PRCR and PRCC questions grouped by answer-image RAG and review outcome',
-    label: 'Corpus Answer Image Review RAG',
-  },
-  corpusAnswerReviewRagToml: {
-    absolutePath: path.join(SOURCE_PAPERS_ROOT, 'corpusAnswerReviewRagToml'),
-    description:
-      'Corpus PRCR and PRCC questions grouped by answer RAG and review outcome',
-    label: 'Corpus Answer Review RAG',
-  },
-  corpusPrimaryTopicAnswerRagToml: {
-    absolutePath: path.join(
-      SOURCE_PAPERS_ROOT,
-      'corpusPrimaryTopicAnswerRagToml',
-    ),
-    description: 'Corpus questions grouped by primary topic and answer RAG',
-    label: 'Corpus Primary Topic Answer RAG',
-  },
-  corpusPrimaryTopicToml: {
-    absolutePath: path.join(SOURCE_PAPERS_ROOT, 'corpusPrimaryTopicToml'),
-    description: 'Corpus questions grouped by primary topic',
-    label: 'Corpus Primary Topic',
-  },
-  corpusQuestionRagToml: {
-    absolutePath: path.join(SOURCE_PAPERS_ROOT, 'corpusQuestionRagToml'),
-    description: 'Corpus questions grouped by question RAG',
-    label: 'Corpus Question RAG',
-  },
-  corpusQuestionImageReviewRagToml: {
-    absolutePath: path.join(
-      SOURCE_PAPERS_ROOT,
-      'corpusQuestionImageReviewRagToml',
-    ),
-    description:
-      'Corpus PRCR and PRCC questions grouped by question-image RAG and review outcome',
-    label: 'Corpus Question Image Review RAG',
-  },
-  corpusQuestionReviewRagToml: {
-    absolutePath: path.join(SOURCE_PAPERS_ROOT, 'corpusQuestionReviewRagToml'),
-    description:
-      'Corpus PRCR and PRCC questions grouped by question RAG and review outcome',
-    label: 'Corpus Question Review RAG',
-  },
-  focusCorpusAnswerRagToml: {
-    absolutePath: path.join(SOURCE_PAPERS_ROOT, 'focusCorpusAnswerRagToml'),
-    description: 'Focused corpus questions grouped by answer RAG',
-    label: 'Focus Corpus Answer RAG',
-  },
-  focusCorpusAnswerImageRagToml: {
-    absolutePath: path.join(
-      SOURCE_PAPERS_ROOT,
-      'focusCorpusAnswerImageRagToml',
-    ),
-    description: 'Focused corpus questions grouped by answer-image RAG',
-    label: 'Focus Corpus Answer Image RAG',
-  },
-  focusCorpusAnswerImageReviewRagToml: {
-    absolutePath: path.join(
-      SOURCE_PAPERS_ROOT,
-      'focusCorpusAnswerImageReviewRagToml',
-    ),
-    description:
-      'Focused PRCR and PRCC questions grouped by answer-image RAG and review outcome',
-    label: 'Focus Corpus Answer Image Review RAG',
-  },
-  focusCorpusAnswerReviewRagToml: {
-    absolutePath: path.join(
-      SOURCE_PAPERS_ROOT,
-      'focusCorpusAnswerReviewRagToml',
-    ),
-    description:
-      'Focused PRCR and PRCC questions grouped by answer RAG and review outcome',
-    label: 'Focus Corpus Answer Review RAG',
-  },
-  focusCorpusPrimaryTopicAnswerRagToml: {
-    absolutePath: path.join(
-      SOURCE_PAPERS_ROOT,
-      'focusCorpusPrimaryTopicAnswerRagToml',
-    ),
-    description:
-      'Focused corpus questions grouped by primary topic and answer RAG',
-    label: 'Focus Corpus Primary Topic Answer RAG',
-  },
-  focusCorpusPrimaryTopicToml: {
-    absolutePath: path.join(SOURCE_PAPERS_ROOT, 'focusCorpusPrimaryTopicToml'),
-    description: 'Focused corpus questions grouped by primary topic',
-    label: 'Focus Corpus Primary Topic',
-  },
-  focusCorpusQuestionRagToml: {
-    absolutePath: path.join(SOURCE_PAPERS_ROOT, 'focusCorpusQuestionRagToml'),
-    description: 'Focused corpus questions grouped by question RAG',
-    label: 'Focus Corpus Question RAG',
-  },
-  focusCorpusQuestionImageRagToml: {
-    absolutePath: path.join(
-      SOURCE_PAPERS_ROOT,
-      'focusCorpusQuestionImageRagToml',
-    ),
-    description: 'Focused corpus questions grouped by question-image RAG',
-    label: 'Focus Corpus Question Image RAG',
-  },
-  focusCorpusQuestionImageReviewRagToml: {
-    absolutePath: path.join(
-      SOURCE_PAPERS_ROOT,
-      'focusCorpusQuestionImageReviewRagToml',
-    ),
-    description:
-      'Focused PRCR and PRCC questions grouped by question-image RAG and review outcome',
-    label: 'Focus Corpus Question Image Review RAG',
-  },
-  focusCorpusQuestionReviewRagToml: {
-    absolutePath: path.join(
-      SOURCE_PAPERS_ROOT,
-      'focusCorpusQuestionReviewRagToml',
-    ),
-    description:
-      'Focused PRCR and PRCC questions grouped by question RAG and review outcome',
-    label: 'Focus Corpus Question Review RAG',
-  },
-  focusPaperAnswerRagToml: {
-    absolutePath: path.join(SOURCE_PAPERS_ROOT, 'focusPaperAnswerRagToml'),
-    description: 'Focused papers split independently by answer RAG',
-    label: 'Focus Paper Answer RAG',
-  },
-  focusPaperToml: {
-    absolutePath: path.join(SOURCE_PAPERS_ROOT, 'focusPaperToml'),
-    description: 'Complete copies of focused papers',
-    label: 'Focus Papers',
-  },
-  paperAnswerRagToml: {
-    absolutePath: path.join(SOURCE_PAPERS_ROOT, 'paperAnswerRagToml'),
-    description: 'Papers split independently by answer RAG',
-    label: 'Paper Answer RAG',
-  },
-  toml: {
-    absolutePath: path.join(SOURCE_PAPERS_ROOT, 'toml'),
-    description: 'Canonical paper source-of-truth',
-    label: 'Papers',
-  },
-};
+export const IMAGE_DIMENSIONAL_TAG_CATALOG_PATH = path.join(
+  contentPaths.assetsPackageRoot,
+  'docs/architecture/image-dimensional-tags.json',
+);
 
 export function resolveFolderPath(folderKey: FolderKey) {
-  if (isExemplarFolderKey(folderKey)) {
-    return path.join(SOURCE_PAPERS_ROOT, folderKey);
-  }
-
-  return SOURCE_FOLDERS[folderKey as RegisteredFolderKey].absolutePath;
+  return path.join(SOURCE_PAPERS_ROOT, folderKey);
 }
 
 export function resolvePaperFilePath(
@@ -249,15 +79,7 @@ export function relativePaperSlug(fileName: string) {
   return fileName.replace(/\.toml$/i, '');
 }
 
-export function buildFileHref(folderKey: FolderKey, slugSegments: string[]) {
-  return `/files/${folderKey}/${slugSegments.map(encodeURIComponent).join('/')}`;
-}
-
 export function buildSlugSegments(relativePath: string) {
   const normalized = relativePath.replace(/\\/g, '/').replace(/\.toml$/i, '');
   return normalized.split('/').filter(Boolean);
-}
-
-export function buildRelativePathFromSlug(slugSegments: string[]) {
-  return `${slugSegments.join('/')}.toml`;
 }

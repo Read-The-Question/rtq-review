@@ -1,58 +1,44 @@
+import { PaperBrowser } from '@rtq/review-paper-browser/browser';
 import {
-  getContentWorkspaceStatus,
-  listPaperCollections,
-  listPaperSources,
-  type PaperCollection,
-  type PaperSourceSummary,
-} from '@rtq/review-paper-model';
+  PaperBrowserFrame,
+  PaperBrowserSecondaryLink,
+  PaperBrowserSecondaryNavigation,
+  PaperBrowserUnavailable,
+} from '@rtq/review-paper-browser/frame';
+import type { PaperBrowserRouteContract } from '@rtq/review-paper-browser/model';
+import { loadPaperBrowserWorkspace } from '@rtq/review-paper-browser/server';
 
-import {
-  FileBrowser,
-  type BrowserCollection,
-  type BrowserPaper,
-} from '@/components/file-browser';
-import { SiteHeader } from '@/components/site-header';
-import { getWorkspaceStatusCopy } from '@/lib/workspace-view-model';
+const routes: PaperBrowserRouteContract = {
+  collectionBasePath: '/papers',
+  contentSearchPath: '/api/papers/content-search',
+};
 
-function browserPaper(summary: PaperSourceSummary): BrowserPaper {
-  if (summary.state === 'invalid') {
-    return {
-      collectionId: summary.collection.id,
-      detail: summary.message,
-      fileName: summary.fileName,
-      focusGroups: [],
-      provenance: 'invalid',
-      relativePath: summary.relativePath,
-      state: 'invalid',
-      title: summary.title,
-    };
-  }
-
-  const source = summary.source;
-  const detail = [
-    source.topic ? `Topic · ${source.topic}` : undefined,
-    source.ragGrouping ? `RAG · ${source.ragGrouping}` : undefined,
-    source.focusGroups.length
-      ? `Focus · ${source.focusGroups.join(', ')}`
-      : undefined,
-    !source.topic && !source.ragGrouping && source.focusGroups.length === 0
-      ? source.collection.description
-      : undefined,
-  ]
-    .filter(Boolean)
-    .join(' · ');
-
-  return {
-    collectionId: source.collection.id,
-    detail,
-    fileName: source.fileName,
-    focusGroups: source.focusGroups,
-    provenance: source.provenance.kind,
-    questionCount: source.questionCount,
-    relativePath: source.relativePath,
-    state: 'ready',
-    title: source.title,
-  };
+function ContentReviewNavigation() {
+  return (
+    <>
+      <PaperBrowserSecondaryNavigation label="Search">
+        <PaperBrowserSecondaryLink action="Open" href="/search">
+          All questions
+        </PaperBrowserSecondaryLink>
+      </PaperBrowserSecondaryNavigation>
+      <PaperBrowserSecondaryNavigation label="Reviews">
+        <PaperBrowserSecondaryLink action="Open" href="/reviews/global">
+          Global findings
+        </PaperBrowserSecondaryLink>
+        <PaperBrowserSecondaryLink
+          action="View"
+          href="/reviews/change-requests"
+        >
+          Change requests
+        </PaperBrowserSecondaryLink>
+      </PaperBrowserSecondaryNavigation>
+      <PaperBrowserSecondaryNavigation label="Reference">
+        <PaperBrowserSecondaryLink action="1 file" href="/macros">
+          Macros
+        </PaperBrowserSecondaryLink>
+      </PaperBrowserSecondaryNavigation>
+    </>
+  );
 }
 
 export async function PaperIndex({
@@ -66,93 +52,39 @@ export async function PaperIndex({
   initialContentScope?: string;
   initialQuery?: string;
 }) {
-  const workspaceStatus = getContentWorkspaceStatus();
-  const statusCopy = getWorkspaceStatusCopy(workspaceStatus);
-  let availableCollections: readonly PaperCollection[] = [];
-  let sources: readonly PaperSourceSummary[] = [];
-  let loadIssue: string | undefined;
-
-  if (workspaceStatus.state === 'ready') {
-    try {
-      [availableCollections, sources] = await Promise.all([
-        listPaperCollections(),
-        listPaperSources(),
-      ]);
-    } catch (error) {
-      loadIssue =
-        error instanceof Error
-          ? error.message
-          : 'The paper index could not load.';
-    }
-  }
-
-  const papers = sources.map(browserPaper);
-  const collectionMap = new Map<string, BrowserCollection>(
-    availableCollections.map((collection) => [
-      collection.id,
-      {
-        count: 0,
-        description: collection.description,
-        id: collection.id,
-        label: collection.label,
-      },
-    ]),
-  );
-  for (const summary of sources) {
-    const collection =
-      summary.state === 'ready'
-        ? summary.source.collection
-        : summary.collection;
-    const current = collectionMap.get(collection.id);
-    collectionMap.set(collection.id, {
-      count: (current?.count ?? 0) + 1,
-      description: collection.description,
-      id: collection.id,
-      label: collection.label,
-    });
-  }
-  const collections = [...collectionMap.values()];
-  const activeCollectionId = initialCollectionId ?? collections[0]?.id;
+  const workspace = await loadPaperBrowserWorkspace(initialCollectionId);
+  const detail = workspace.issue ?? workspace.status.detail;
 
   return (
-    <main className="review-shell" id="top">
-      <SiteHeader />
-      <section className="index-intro">
-        <div>
-          <p className="eyebrow">Review content</p>
-          <h1>Choose a paper</h1>
-          <p className="hero-summary">
-            Browse the live RTQ content checkout and open a paper for review.
-          </p>
-        </div>
-        <aside
-          className={`connection-card connection-card--${statusCopy.tone}`}
-        >
-          <span className="connection-light" aria-hidden="true" />
-          <div>
-            <p>{statusCopy.label}</p>
-            <span>{loadIssue ?? statusCopy.detail}</span>
-          </div>
-        </aside>
-      </section>
-
-      {papers.length > 0 && activeCollectionId ? (
-        <FileBrowser
-          activeCollectionId={activeCollectionId}
-          collections={collections}
+    <PaperBrowserFrame
+      appLabel="Review content"
+      connectionDetail={detail}
+      connectionLabel={workspace.status.label}
+      connectionTone={workspace.status.tone}
+      eyebrow="Review content"
+      heading="Choose a paper"
+      status={
+        <>
+          <span>Direct source · read only</span>
+          <span aria-hidden="true">·</span>
+          <span>Outcomes &amp; comments → local SQLite</span>
+        </>
+      }
+      summary="Browse the live RTQ content checkout and open a paper for review."
+    >
+      {workspace.model.activeCollectionId ? (
+        <PaperBrowser
           initialContentPattern={initialContentPattern}
           initialContentScope={initialContentScope}
           initialQuery={initialQuery}
-          key={`${activeCollectionId}:${initialQuery ?? ''}:${initialContentPattern ?? ''}:${initialContentScope ?? ''}`}
-          papers={papers}
+          key={`${workspace.model.activeCollectionId}:${initialQuery ?? ''}:${initialContentPattern ?? ''}:${initialContentScope ?? ''}`}
+          model={workspace.model}
+          routes={routes}
+          secondaryNavigation={<ContentReviewNavigation />}
         />
       ) : (
-        <section className="workspace-empty" aria-live="polite">
-          <p className="eyebrow">Paper index unavailable</p>
-          <h2>Connect a complete rtq-content checkout.</h2>
-          <p>{loadIssue ?? statusCopy.detail}</p>
-        </section>
+        <PaperBrowserUnavailable detail={detail} />
       )}
-    </main>
+    </PaperBrowserFrame>
   );
 }

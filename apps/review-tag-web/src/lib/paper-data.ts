@@ -11,39 +11,29 @@ import {
   resolveSectionQuestionStart,
 } from '@rtq/review-paper-model/numbering';
 
-import { enrichRtqMarkdown } from '@/lib/paper-assets';
-import { applyPaperMacros } from '@/lib/paper-macros';
+import { enrichRtqMarkdown, paperImageAssetState } from './paper-assets.ts';
+import { findPaperImageComponents } from './paper-image-components.ts';
+import { applyPaperMacros } from './paper-macros.ts';
 import {
-  FOLDER_ORDER,
-  SOURCE_PAPERS_ROOT,
-  buildFileHref,
-  buildRelativePathFromSlug,
   buildSlugSegments,
-  compareFolderKeys,
-  folderLabel,
   isExemplarFolderKey,
   relativePaperSlug,
-  resolveFolderPath,
   resolvePaperFilePath,
-} from '@/lib/paper-paths';
-import {
-  type ParsedPaper,
-  parsePaperToml,
-  workingCollectionValues,
-} from '@/lib/paper-toml';
+} from './paper-paths.ts';
+import { parsePaperToml, workingCollectionValues } from './paper-toml.ts';
 import type {
   DisplayTag,
-  ExemplarFolderKey,
-  FileIndexItem,
   FolderKey,
+  ImageTagOccurrence,
   OriginalQuestionSource,
   PaperDocument,
+  PaperImageFieldLocator,
+  PaperImageScope,
   PaperNode,
   PaperSection,
-  StatusTone,
-} from '@/lib/paper-types';
-import { sortPersistedTags, tagKindFor } from '@/lib/tag-taxonomy';
-import { humanizeStem } from '@/lib/utils';
+} from './paper-types.ts';
+import { sortPersistedTags, tagKindFor } from './tag-taxonomy.ts';
+import { humanizeStem } from './utils.ts';
 
 type NodeContext = {
   assetFileStem?: string;
@@ -57,6 +47,11 @@ type NodeContext = {
   subquestionIndex: number | null;
   subsubquestionIndex: number | null;
 };
+
+type ImageTagOccurrenceDraft = Omit<
+  ImageTagOccurrence,
+  'hierarchyLabel' | 'id' | 'imageNumber' | 'nodeUuid'
+>;
 
 function parseRtqQuestionId(questionId: string | null) {
   if (!questionId) {
@@ -142,310 +137,8 @@ type DerivedDimensions = {
   reasoning: string | null;
 };
 
-const FOCUS_GROUP_PATTERN = /rtq-focus-group\s*=\s*\[(.*?)\]/i;
-const FOCUS_GROUP_VALUE_PATTERN = /"([^"]+)"/g;
-
 function hashContent(raw: string) {
   return crypto.createHash('sha1').update(raw).digest('hex');
-}
-
-function focusGroupsFromRaw(raw: string) {
-  const match = FOCUS_GROUP_PATTERN.exec(raw);
-
-  if (!match) {
-    return [];
-  }
-
-  return [...match[1].matchAll(FOCUS_GROUP_VALUE_PATTERN)].map(
-    entry => entry[1],
-  );
-}
-
-function topLevelQuestionCount(parsed: ParsedPaper) {
-  return (parsed.sections ?? []).reduce((sum, section) => {
-    const questions = section.questions;
-    return sum + (Array.isArray(questions) ? questions.length : 0);
-  }, 0);
-}
-
-async function readFileIndexDetails(
-  absolutePath: string,
-  folderKey: FolderKey,
-) {
-  const raw = await fs.readFile(absolutePath, 'utf8');
-
-  if (isExemplarFolderKey(folderKey)) {
-    return {
-      navFocusGroups: focusGroupsFromRaw(raw),
-      questionCount: [...raw.matchAll(/^\[\[sections\.questions\]\]\s*$/gm)]
-        .length,
-    };
-  }
-
-  const parsed = parsePaperToml(raw, isExemplarFolderKey(folderKey));
-
-  return {
-    navFocusGroups: focusGroupsFromRaw(raw),
-    questionCount: topLevelQuestionCount(parsed),
-  };
-}
-
-function startCase(value: string) {
-  return value
-    .split(/[\s.-]+/g)
-    .filter(Boolean)
-    .map(part => {
-      if (/^\d+$/.test(part)) {
-        return part;
-      }
-
-      if (/^[a-z]{1,3}\d+$/i.test(part)) {
-        return part.toUpperCase();
-      }
-
-      return `${part.charAt(0).toUpperCase()}${part.slice(1)}`;
-    })
-    .join(' ');
-}
-
-function formatTopicKey(value: string) {
-  return value
-    .split('.')
-    .map(part => startCase(part))
-    .join(' / ');
-}
-
-function formatRagStatus(value: string) {
-  return value
-    .split(/[-_]+/g)
-    .filter(Boolean)
-    .map(part =>
-      /^[a-z]{1,3}\d+$/i.test(part) ? part.toUpperCase() : startCase(part),
-    )
-    .join(' ');
-}
-
-function statusToneFor(value: string | null): StatusTone | null {
-  if (!value) {
-    return null;
-  }
-
-  const normalized = value.replace(/\s+/g, '').toLowerCase();
-
-  switch (normalized) {
-    case 'notstarted':
-      return 'statusGray';
-    case 'blocked':
-      return 'statusBlocked';
-    case 'g0':
-    case 'ng0':
-      return 'statusGreen1';
-    case 'ng1':
-      return 'statusGreen1';
-    case 'ng2':
-      return 'statusGreen2';
-    case 'ng3':
-      return 'statusGreen3';
-    case 'ng4':
-    case 'ng5':
-    case 'ng6':
-    case 'ng7':
-    case 'ng8':
-      return 'statusGreen4';
-    default:
-      return 'status';
-  }
-}
-
-function parseCanonicalStem(stem: string) {
-  const parts = stem.split('--');
-
-  if (parts.length < 3) {
-    return null;
-  }
-
-  const schoolSlug = parts[0];
-  const year = parts.at(-2);
-  const paperSlug = parts.at(-1);
-
-  if (!schoolSlug || !year || !paperSlug || !/^\d{4}$/.test(year)) {
-    return null;
-  }
-
-  return {
-    navMeta: `${year} · ${startCase(paperSlug)}`,
-    navStatusKey: null,
-    navStatus: null,
-    navStatusTone: null,
-    navTopicKey: null,
-    navTopicLabel: null,
-    navTitle: startCase(schoolSlug),
-  };
-}
-
-function parseTopicStem(stem: string) {
-  const match =
-    /^(?:focus_)?corpus_(?:all_topics|primary_topic)_(.+)_(\d+)$/i.exec(stem);
-
-  if (!match) {
-    return null;
-  }
-
-  return {
-    navMeta: `Topic paper ${match[2]}`,
-    navStatusKey: null,
-    navStatus: null,
-    navStatusTone: null,
-    navTopicKey: match[1],
-    navTopicLabel: formatTopicKey(match[1]),
-    navTitle: formatTopicKey(match[1]),
-  };
-}
-
-function parseRagTopicStem(stem: string) {
-  const match =
-    /^(?:focus_)?corpus_primary_topic_(.+)_answer_rag_([^_]+)_(\d+)$/i.exec(
-      stem,
-    );
-
-  if (!match) {
-    return null;
-  }
-
-  const navStatus = formatRagStatus(match[2]);
-
-  return {
-    navMeta: `Topic paper ${match[3]}`,
-    navStatusKey: match[2].toLowerCase(),
-    navStatus,
-    navStatusTone: statusToneFor(navStatus),
-    navTopicKey: match[1],
-    navTopicLabel: formatTopicKey(match[1]),
-    navTitle: formatTopicKey(match[1]),
-  };
-}
-
-function parsePaperRagStem(stem: string) {
-  const match = /^(.*)_answer_rag_([^_]+)_(\d+)$/i.exec(stem);
-
-  if (!match) {
-    return null;
-  }
-
-  const canonical = parseCanonicalStem(match[1]);
-
-  if (!canonical) {
-    return null;
-  }
-
-  const navStatus = formatRagStatus(match[2]);
-
-  return {
-    navMeta: `${canonical.navMeta} · Set ${match[3]}`,
-    navStatusKey: match[2].toLowerCase(),
-    navStatus,
-    navStatusTone: statusToneFor(navStatus),
-    navTopicKey: null,
-    navTopicLabel: null,
-    navTitle: canonical.navTitle,
-  };
-}
-
-function parseCorpusRagStem(stem: string) {
-  const match =
-    /^(?:focus_)?corpus_(?:question|answer)(?:_image)?_rag_([^_]+)_(\d+)$/i.exec(
-      stem,
-    );
-
-  if (!match) {
-    return null;
-  }
-
-  const navStatus = formatRagStatus(match[1]);
-
-  return {
-    navMeta: `Corpus set ${match[2]}`,
-    navStatusKey: match[1].toLowerCase(),
-    navStatus,
-    navStatusTone: statusToneFor(navStatus),
-    navTopicKey: null,
-    navTopicLabel: null,
-    navTitle: navStatus,
-  };
-}
-
-function parseCorpusReviewRagStem(stem: string) {
-  const match =
-    /^(?:focus_)?corpus_(?:question|answer)(?:_image)?_review_rag_([^_]+)_([^_]+)_(\d+)$/i.exec(
-      stem,
-    );
-
-  if (!match) {
-    return null;
-  }
-
-  const contentStatus = formatRagStatus(match[1]);
-  const reviewStatus = match[2].toUpperCase();
-
-  return {
-    navMeta: `Corpus set ${match[3]}`,
-    navStatusKey: match[1].toLowerCase(),
-    navStatus: `${contentStatus} / ${reviewStatus}`,
-    navStatusTone: statusToneFor(contentStatus),
-    navTopicKey: null,
-    navTopicLabel: null,
-    navTitle: `${contentStatus} / ${reviewStatus}`,
-  };
-}
-
-function navigationCopyForFile(folderKey: FolderKey, stem: string) {
-  switch (folderKey) {
-    case 'toml':
-    case 'focusPaperToml':
-      return parseCanonicalStem(stem);
-    case 'corpusAllTopicsToml':
-    case 'focusCorpusPrimaryTopicToml':
-    case 'corpusPrimaryTopicToml':
-      return parseTopicStem(stem);
-    case 'focusPaperAnswerRagToml':
-    case 'paperAnswerRagToml':
-      return parsePaperRagStem(stem);
-    case 'corpusAnswerRagToml':
-    case 'corpusQuestionRagToml':
-    case 'focusCorpusAnswerRagToml':
-    case 'focusCorpusQuestionRagToml':
-    case 'focusCorpusAnswerImageRagToml':
-    case 'focusCorpusQuestionImageRagToml':
-      return parseCorpusRagStem(stem);
-    case 'focusCorpusAnswerReviewRagToml':
-    case 'focusCorpusQuestionReviewRagToml':
-    case 'focusCorpusAnswerImageReviewRagToml':
-    case 'focusCorpusQuestionImageReviewRagToml':
-    case 'corpusAnswerReviewRagToml':
-    case 'corpusQuestionReviewRagToml':
-    case 'corpusAnswerImageReviewRagToml':
-    case 'corpusQuestionImageReviewRagToml':
-      return parseCorpusReviewRagStem(stem);
-    case 'focusCorpusPrimaryTopicAnswerRagToml':
-    case 'corpusPrimaryTopicAnswerRagToml':
-      return parseRagTopicStem(stem);
-  }
-}
-
-async function listSourceFolderKeys(): Promise<FolderKey[]> {
-  const entries = await fs.readdir(SOURCE_PAPERS_ROOT, { withFileTypes: true });
-  const directoryNames = new Set(
-    entries.filter(entry => entry.isDirectory()).map(entry => entry.name),
-  );
-  const registeredFolderKeys = FOLDER_ORDER.filter(folderKey =>
-    directoryNames.has(folderKey),
-  );
-  const exemplarFolderKeys = entries
-    .filter(entry => entry.isDirectory() && isExemplarFolderKey(entry.name))
-    .map(entry => entry.name as ExemplarFolderKey)
-    .sort(compareFolderKeys);
-
-  return [...registeredFolderKeys, ...exemplarFolderKeys];
 }
 
 function normalizeString(value: unknown) {
@@ -527,13 +220,71 @@ async function hydrateMarkdown(
   return enrichRtqMarkdown(withMacros, context, options);
 }
 
+async function hydrateImageField(
+  text: string,
+  context: NodeContext,
+  field: PaperImageFieldLocator,
+) {
+  const withMacros = await applyPaperMacros(normalizeString(text));
+  const scope: PaperImageScope = field.kind;
+  const scopeIndex = field.kind === 'question' ? undefined : field.index;
+  const options =
+    field.kind === 'question'
+      ? undefined
+      : { scopeIndex: field.index, scopeType: field.kind };
+  const contextMarkdown = enrichRtqMarkdown(withMacros, context, options);
+  const components = findPaperImageComponents(withMacros, scope);
+  const fieldLabel =
+    field.kind === 'question'
+      ? 'Question'
+      : `${field.kind === 'working' ? 'Working' : 'Answer'} ${field.index + 1}`;
+  const imageOccurrences: ImageTagOccurrenceDraft[] = components.map(
+    (component, occurrenceIndex) => ({
+      assetState: paperImageAssetState(
+        context,
+        scope,
+        scopeIndex,
+        occurrenceIndex,
+      ),
+      attributes: component.attributes,
+      contextMarkdown,
+      field,
+      fieldLabel,
+      occurrenceIndex,
+      previewMarkdown: enrichRtqMarkdown(component.source, context, {
+        imageIndexOffset: occurrenceIndex,
+        ...(options ?? {}),
+      }),
+      scope,
+    }),
+  );
+
+  return { imageOccurrences, markdown: contextMarkdown };
+}
+
+function identifyImageOccurrences(
+  occurrences: ImageTagOccurrenceDraft[],
+  input: { hierarchyLabel: string; nodePath: string; nodeUuid: string | null },
+): ImageTagOccurrence[] {
+  return occurrences.map(occurrence => ({
+    ...occurrence,
+    hierarchyLabel: input.hierarchyLabel,
+    id: `${input.nodeUuid ?? `missing-${input.nodePath}`}:${occurrence.scope}:${
+      occurrence.field.kind === 'question' ? 'question' : occurrence.field.index
+    }:${occurrence.occurrenceIndex}`,
+    imageNumber: occurrence.occurrenceIndex + 1,
+    nodeUuid: input.nodeUuid,
+  }));
+}
+
 async function buildNodeContent(
   rawNode: Record<string, unknown>,
   context: NodeContext,
 ) {
-  const question = await hydrateMarkdown(
+  const question = await hydrateImageField(
     normalizeString(rawNode.question),
     context,
+    { kind: 'question' },
   );
   const workings = Array.isArray(rawNode.workings)
     ? await Promise.all(
@@ -541,12 +292,19 @@ async function buildNodeContent(
           if (!entry || typeof entry !== 'object') {
             return {
               formulas: [],
+              imageOccurrences: [],
               tips: [],
               working: '',
             };
           }
 
           const record = entry as Record<string, unknown>;
+
+          const working = await hydrateImageField(
+            normalizeString(record.working),
+            context,
+            { index, kind: 'working' },
+          );
 
           return {
             formulas: await Promise.all(
@@ -559,14 +317,8 @@ async function buildNodeContent(
                 hydrateMarkdown(value, context),
               ),
             ),
-            working: await hydrateMarkdown(
-              normalizeString(record.working),
-              context,
-              {
-                scopeIndex: index,
-                scopeType: 'working',
-              },
-            ),
+            imageOccurrences: working.imageOccurrences,
+            working: working.markdown,
           };
         }),
       )
@@ -575,24 +327,31 @@ async function buildNodeContent(
     ? await Promise.all(
         rawNode.answers.map(async (entry, index) => {
           if (!entry || typeof entry !== 'object') {
-            return '';
+            return { imageOccurrences: [], markdown: '' };
           }
 
           const record = entry as Record<string, unknown>;
-          return hydrateMarkdown(answerMarkdownFromRecord(record), context, {
-            scopeIndex: index,
-            scopeType: 'answer',
+          return hydrateImageField(answerMarkdownFromRecord(record), context, {
+            index,
+            kind: 'answer',
           });
         }),
       )
     : [];
 
   return {
-    answers: answers.filter(Boolean),
-    formulas: workings.flatMap(entry => entry.formulas),
-    question,
-    tips: workings.flatMap(entry => entry.tips),
-    workings: workings.map(entry => entry.working).filter(Boolean),
+    content: {
+      answers: answers.map(answer => answer.markdown).filter(Boolean),
+      formulas: workings.flatMap(entry => entry.formulas),
+      question: question.markdown,
+      tips: workings.flatMap(entry => entry.tips),
+      workings: workings.map(entry => entry.working).filter(Boolean),
+    },
+    imageOccurrences: [
+      ...question.imageOccurrences,
+      ...workings.flatMap(entry => entry.imageOccurrences),
+      ...answers.flatMap(answer => answer.imageOccurrences),
+    ],
   };
 }
 
@@ -632,34 +391,46 @@ async function buildSubsubquestionNodes(
       index + 1,
       questionListTypeForDepth(numbering, 2),
     );
+    const hierarchyLabel = formatQuestionPathLabel([
+      ...parentLabels,
+      shortLabel,
+    ]);
+    const path = nodePath(
+      context.sectionIndex,
+      context.questionIndex,
+      context.subquestionIndex,
+      index,
+    );
+    const uuid =
+      typeof record['rtq-uuid'] === 'string' ? record['rtq-uuid'] : null;
+    const presentation = await buildNodeContent(record, assetContext);
 
     children.push({
       children: [],
-      content: await buildNodeContent(record, assetContext),
+      content: presentation.content,
       depth: 2,
       effectiveDisplayTags: [],
       effectiveTags: [],
       explicitDisplayTags: [],
       explicitInherit,
       explicitTags,
-      hierarchyLabel: formatQuestionPathLabel([...parentLabels, shortLabel]),
+      hierarchyLabel,
       inheritedDisplayTags: [],
       inheritedTags: [],
+      imageOccurrences: identifyImageOccurrences(
+        presentation.imageOccurrences,
+        { hierarchyLabel, nodePath: path, nodeUuid: uuid },
+      ),
       isRootNode: false,
       kind: 'subsubquestion',
-      path: nodePath(
-        context.sectionIndex,
-        context.questionIndex,
-        context.subquestionIndex,
-        index,
-      ),
+      path,
       originalSource: originalSourceFromQuestionId(questionId),
       questionId,
       sectionIndex: context.sectionIndex,
       shortLabel,
       subquestionIndex: context.subquestionIndex,
       subsubquestionIndex: index,
-      uuid: typeof record['rtq-uuid'] === 'string' ? record['rtq-uuid'] : null,
+      uuid,
     });
   }
 
@@ -707,6 +478,11 @@ async function buildSubquestionNodes(
       record,
       numbering,
     );
+    const hierarchyLabel = formatQuestionPathLabel(pathLabels);
+    const path = nodePath(context.sectionIndex, context.questionIndex, index);
+    const uuid =
+      typeof record['rtq-uuid'] === 'string' ? record['rtq-uuid'] : null;
+    const presentation = await buildNodeContent(record, assetContext);
 
     children.push({
       children: await buildSubsubquestionNodes(
@@ -715,26 +491,30 @@ async function buildSubquestionNodes(
         descendantNumbering,
         pathLabels,
       ),
-      content: await buildNodeContent(record, assetContext),
+      content: presentation.content,
       depth: 1,
       effectiveDisplayTags: [],
       effectiveTags: [],
       explicitDisplayTags: [],
       explicitInherit,
       explicitTags,
-      hierarchyLabel: formatQuestionPathLabel(pathLabels),
+      hierarchyLabel,
       inheritedDisplayTags: [],
       inheritedTags: [],
+      imageOccurrences: identifyImageOccurrences(
+        presentation.imageOccurrences,
+        { hierarchyLabel, nodePath: path, nodeUuid: uuid },
+      ),
       isRootNode: false,
       kind: 'subquestion',
-      path: nodePath(context.sectionIndex, context.questionIndex, index),
+      path,
       originalSource: originalSourceFromQuestionId(questionId),
       questionId,
       sectionIndex: context.sectionIndex,
       shortLabel,
       subquestionIndex: index,
       subsubquestionIndex: null,
-      uuid: typeof record['rtq-uuid'] === 'string' ? record['rtq-uuid'] : null,
+      uuid,
     });
   }
 
@@ -781,6 +561,11 @@ async function buildQuestionNodes(
       record,
       numbering,
     );
+    const hierarchyLabel = shortLabel;
+    const path = nodePath(sectionIndex, index);
+    const uuid =
+      typeof record['rtq-uuid'] === 'string' ? record['rtq-uuid'] : null;
+    const presentation = await buildNodeContent(record, assetContext);
 
     questions.push({
       children: await buildSubquestionNodes(
@@ -789,26 +574,30 @@ async function buildQuestionNodes(
         descendantNumbering,
         pathLabels,
       ),
-      content: await buildNodeContent(record, assetContext),
+      content: presentation.content,
       depth: 0,
       effectiveDisplayTags: [],
       effectiveTags: [],
       explicitDisplayTags: [],
       explicitInherit: null,
       explicitTags: sortPersistedTags(asStringArray(record['rtq-tags'])),
-      hierarchyLabel: shortLabel,
+      hierarchyLabel,
       inheritedDisplayTags: [],
       inheritedTags: [],
+      imageOccurrences: identifyImageOccurrences(
+        presentation.imageOccurrences,
+        { hierarchyLabel, nodePath: path, nodeUuid: uuid },
+      ),
       isRootNode: true,
       kind: 'question',
-      path: nodePath(sectionIndex, index),
+      path,
       originalSource: originalSourceFromQuestionId(questionId),
       questionId,
       sectionIndex,
       shortLabel,
       subquestionIndex: null,
       subsubquestionIndex: null,
-      uuid: typeof record['rtq-uuid'] === 'string' ? record['rtq-uuid'] : null,
+      uuid,
     });
   }
 
@@ -1049,9 +838,14 @@ export function recomputeDerivedDocument(
     ),
   }));
 
+  const nodesFlat = flattenNodes(
+    sections.flatMap(section => section.questions),
+  );
+
   return {
     ...document,
-    nodesFlat: flattenNodes(sections.flatMap(section => section.questions)),
+    imageOccurrences: nodesFlat.flatMap(node => node.imageOccurrences),
+    nodesFlat,
     sections,
   };
 }
@@ -1084,84 +878,6 @@ export function updateNodeInDocument(
   }
 
   return recomputeDerivedDocument(clone);
-}
-
-export async function listPaperFiles(): Promise<FileIndexItem[]> {
-  const folderKeys = await listSourceFolderKeys();
-  const groups = await Promise.all(
-    folderKeys.map(async folderKey => {
-      const entries = await fs.readdir(resolveFolderPath(folderKey), {
-        withFileTypes: true,
-      });
-
-      const files = await Promise.all(
-        entries
-          .filter(entry => entry.isFile() && entry.name.endsWith('.toml'))
-          .map(async entry => {
-            const absolutePath = path.join(
-              resolveFolderPath(folderKey),
-              entry.name,
-            );
-            const stem = relativePaperSlug(entry.name);
-            const slugSegments = buildSlugSegments(entry.name);
-            const navigationCopy = navigationCopyForFile(folderKey, stem);
-            const navTitle = navigationCopy?.navTitle ?? humanizeStem(stem);
-            const navMeta = navigationCopy?.navMeta ?? entry.name;
-            const navStatusKey = navigationCopy?.navStatusKey ?? null;
-            const navStatus = navigationCopy?.navStatus ?? null;
-            const navStatusTone = navigationCopy?.navStatusTone ?? null;
-            const navTopicKey = navigationCopy?.navTopicKey ?? null;
-            const navTopicLabel = navigationCopy?.navTopicLabel ?? null;
-            const { navFocusGroups, questionCount } =
-              await readFileIndexDetails(absolutePath, folderKey);
-
-            return {
-              fileName: entry.name,
-              folderKey,
-              href: buildFileHref(folderKey, slugSegments),
-              navFocusGroups,
-              navMeta,
-              navStatusKey,
-              navStatus,
-              navStatusTone,
-              navTopicKey,
-              navTopicLabel,
-              navTitle,
-              questionCount,
-              relativePath: entry.name,
-              searchText: [
-                navTitle,
-                navMeta,
-                `${questionCount} questions`,
-                navTopicKey ?? '',
-                navTopicLabel ?? '',
-                navStatusKey ?? '',
-                navStatus ?? '',
-                navFocusGroups.join(' '),
-                entry.name,
-                folderKey,
-                folderLabel(folderKey),
-                stem,
-              ]
-                .join(' ')
-                .toLowerCase(),
-              slugSegments,
-              stem,
-              title: humanizeStem(stem),
-            } satisfies FileIndexItem;
-          }),
-      );
-
-      return files.sort((left, right) =>
-        left.navTitle.localeCompare(right.navTitle, undefined, {
-          numeric: true,
-          sensitivity: 'base',
-        }),
-      );
-    }),
-  );
-
-  return groups.flat();
 }
 
 export async function readPaperDocument(
@@ -1197,6 +913,7 @@ export async function readPaperDocument(
   const document: PaperDocument = {
     fileName,
     folderKey,
+    imageOccurrences: [],
     meta: {
       accessTier:
         typeof parsed.meta?.['access-tier'] === 'string'
@@ -1230,13 +947,6 @@ export async function readPaperDocument(
   return recomputeDerivedDocument(document);
 }
 
-export async function readPaperDocumentBySlug(
-  folderKey: FolderKey,
-  slugSegments: string[],
-) {
-  return readPaperDocument(folderKey, buildRelativePathFromSlug(slugSegments));
-}
-
 export async function readPaperDocumentVersionHash(
   folderKey: FolderKey,
   relativePath: string,
@@ -1245,17 +955,4 @@ export async function readPaperDocumentVersionHash(
   const raw = await fs.readFile(absolutePath, 'utf8');
 
   return hashContent(raw);
-}
-
-export function groupedFilesByFolder(files: FileIndexItem[]) {
-  const folderKeys = [...new Set(files.map(file => file.folderKey))].sort(
-    compareFolderKeys,
-  );
-
-  return folderKeys.map(folderKey => ({
-    description: folderLabel(folderKey),
-    files: files.filter(file => file.folderKey === folderKey),
-    folderKey,
-    label: folderLabel(folderKey),
-  }));
 }

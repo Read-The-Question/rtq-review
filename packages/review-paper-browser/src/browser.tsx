@@ -1,7 +1,12 @@
 'use client';
 
-import Link from 'next/link';
-import { type FormEvent, useEffect, useMemo, useState } from 'react';
+import {
+  type FormEvent,
+  type ReactNode,
+  useEffect,
+  useMemo,
+  useState,
+} from 'react';
 
 import {
   compileContentSearch,
@@ -12,123 +17,16 @@ import {
   type ContentSearchScope,
 } from '@rtq/review-paper-model/client';
 
-import { collectionRoute, paperRoute } from '@/lib/review-view-model';
-
-export type BrowserCollection = Readonly<{
-  count: number;
-  description: string;
-  id: string;
-  label: string;
-}>;
-
-export type BrowserPaper = Readonly<{
-  collectionId: string;
-  detail: string;
-  fileName: string;
-  focusGroups: readonly string[];
-  provenance: string;
-  questionCount?: number;
-  relativePath: string;
-  state: 'invalid' | 'ready';
-  title: string;
-}>;
-
-const PAGE_SIZE = 80;
-
-type CollectionNavigationSection = Readonly<{
-  id: 'collections' | 'exemplars' | 'focus' | 'subsections';
-  label: string;
-  subsections: readonly Readonly<{
-    collections: readonly BrowserCollection[];
-    id: string;
-    label?: string;
-  }>[];
-}>;
-
-function collectionNavigationSections(
-  collections: readonly BrowserCollection[],
-): readonly CollectionNavigationSection[] {
-  const canonicalCollections = collections.filter(
-    (collection) =>
-      !collection.id.startsWith('focus') &&
-      !collection.id.startsWith('exemplars') &&
-      collection.id !== 'paperAnswerRagToml' &&
-      !collection.id.endsWith('ReviewRagToml'),
-  );
-  const corpusReviewRag = collections.filter(
-    (collection) =>
-      collection.id.startsWith('corpus') &&
-      collection.id.endsWith('ReviewRagToml'),
-  );
-  const focusPapers = collections.filter(
-    (collection) => collection.id === 'focusPaperToml',
-  );
-  const focusCorpus = collections.filter(
-    (collection) => collection.id === 'focusCorpusPrimaryTopicToml',
-  );
-  const focusRag = collections.filter(
-    (collection) =>
-      collection.id.startsWith('focusCorpus') &&
-      collection.id.endsWith('RagToml') &&
-      !collection.id.endsWith('ReviewRagToml'),
-  );
-  const focusReviewRag = collections.filter(
-    (collection) =>
-      collection.id.startsWith('focusCorpus') &&
-      collection.id.endsWith('ReviewRagToml'),
-  );
-  const subsectionCollections = collections.filter(
-    (collection) =>
-      collection.id === 'paperAnswerRagToml' ||
-      collection.id === 'focusPaperAnswerRagToml',
-  );
-  const exemplars = collections.filter((collection) =>
-    collection.id.startsWith('exemplars'),
-  );
-
-  const sections: readonly CollectionNavigationSection[] = [
-    {
-      id: 'collections',
-      label: 'Collections',
-      subsections: [
-        { collections: canonicalCollections, id: 'collections' },
-        {
-          collections: corpusReviewRag,
-          id: 'corpus-review-rag',
-          label: 'Review RAG',
-        },
-      ],
-    },
-    {
-      id: 'focus',
-      label: 'Focus',
-      subsections: [
-        { collections: focusPapers, id: 'focus-papers', label: 'Papers' },
-        { collections: focusCorpus, id: 'focus-corpus', label: 'Corpus' },
-        { collections: focusRag, id: 'focus-rag', label: 'RAG' },
-        {
-          collections: focusReviewRag,
-          id: 'focus-review-rag',
-          label: 'Review RAG',
-        },
-      ],
-    },
-    {
-      id: 'subsections',
-      label: 'Subsections',
-      subsections: [{ collections: subsectionCollections, id: 'subsections' }],
-    },
-    {
-      id: 'exemplars',
-      label: 'Exemplars',
-      subsections: [{ collections: exemplars, id: 'exemplars' }],
-    },
-  ];
-
-  return sections.filter((section) =>
-    section.subsections.some((subsection) => subsection.collections.length > 0),
-  );
-}
+import {
+  filterPaperBrowserPapers,
+  paginatePaperBrowserPapers,
+  paperBrowserCollectionHref,
+  paperBrowserPaperHref,
+  PAPER_BROWSER_PAGE_SIZE,
+  type PaperBrowserModel,
+  type PaperBrowserRouteContract,
+  type PaperBrowserSearchState,
+} from './model.ts';
 
 const contentScopeLabels: Readonly<Record<ContentSearchScope, string>> = {
   all: 'All content',
@@ -138,6 +36,7 @@ const contentScopeLabels: Readonly<Record<ContentSearchScope, string>> = {
 };
 
 function contentSearchUrl(
+  routes: PaperBrowserRouteContract,
   collectionId: string,
   search: ContentSearchQuery,
 ): string {
@@ -146,26 +45,27 @@ function contentSearchUrl(
     content: search.pattern,
     'content-scope': search.scope,
   });
-  return `/api/papers/content-search?${parameters.toString()}`;
+  return `${routes.contentSearchPath}?${parameters.toString()}`;
 }
 
-export function FileBrowser({
-  activeCollectionId,
-  collections,
+export function PaperBrowser({
   initialContentPattern = '',
   initialContentScope,
   initialQuery = '',
-  papers,
+  model,
+  routes,
+  secondaryNavigation,
 }: {
-  activeCollectionId: string;
-  collections: readonly BrowserCollection[];
   initialContentPattern?: string;
   initialContentScope?: string;
   initialQuery?: string;
-  papers: readonly BrowserPaper[];
+  model: PaperBrowserModel;
+  routes: PaperBrowserRouteContract;
+  secondaryNavigation?: ReactNode;
 }) {
+  const activeCollectionId = model.activeCollectionId;
   const [query, setQuery] = useState(initialQuery);
-  const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
+  const [visibleCount, setVisibleCount] = useState(PAPER_BROWSER_PAGE_SIZE);
   const initialScope = normalizeContentSearchScope(initialContentScope);
   const normalizedInitialPattern = initialContentPattern.trim();
   const [contentDraft, setContentDraft] = useState(normalizedInitialPattern);
@@ -184,20 +84,29 @@ export function FileBrowser({
   const [contentSearching, setContentSearching] = useState(
     Boolean(normalizedInitialPattern),
   );
-  const metadataMatches = useMemo(() => {
-    const needle = query.trim().toLocaleLowerCase();
-    return papers.filter(
-      (paper) =>
-        paper.collectionId === activeCollectionId &&
-        (!needle ||
-          [
-            paper.title,
-            paper.fileName,
-            paper.detail,
-            ...paper.focusGroups,
-          ].some((value) => value.toLocaleLowerCase().includes(needle))),
-    );
-  }, [activeCollectionId, papers, query]);
+  const contentMatchPaths = useMemo(
+    () =>
+      contentSearch && contentResult
+        ? new Set(contentResult.matches.map((match) => match.relativePath))
+        : undefined,
+    [contentResult, contentSearch],
+  );
+  const matches = useMemo(
+    () =>
+      activeCollectionId
+        ? filterPaperBrowserPapers(
+            model.papers,
+            activeCollectionId,
+            query,
+            contentMatchPaths,
+          )
+        : [],
+    [activeCollectionId, contentMatchPaths, model.papers, query],
+  );
+  const visiblePapers = useMemo(
+    () => paginatePaperBrowserPapers(matches, visibleCount),
+    [matches, visibleCount],
+  );
   const contentMatchByPath = useMemo(
     () =>
       new Map(
@@ -206,25 +115,19 @@ export function FileBrowser({
       ),
     [contentResult],
   );
-  const matches = useMemo(
-    () =>
-      contentSearch && contentResult
-        ? metadataMatches.filter((paper) =>
-            contentMatchByPath.has(paper.relativePath),
-          )
-        : metadataMatches,
-    [contentMatchByPath, contentResult, contentSearch, metadataMatches],
-  );
-  const active = collections.find(
+  const active = model.collections.find(
     (collection) => collection.id === activeCollectionId,
   );
-  const navigationSections = collectionNavigationSections(collections);
+  const searchState: PaperBrowserSearchState = {
+    content: contentSearch,
+    query: query.trim(),
+  };
 
   useEffect(() => {
-    if (!contentSearch) return;
+    if (!contentSearch || !activeCollectionId) return;
     const controller = new AbortController();
 
-    void fetch(contentSearchUrl(activeCollectionId, contentSearch), {
+    void fetch(contentSearchUrl(routes, activeCollectionId, contentSearch), {
       cache: 'no-store',
       signal: controller.signal,
     })
@@ -256,7 +159,7 @@ export function FileBrowser({
       });
 
     return () => controller.abort();
-  }, [activeCollectionId, contentSearch]);
+  }, [activeCollectionId, contentSearch, routes]);
 
   function replaceUrl(parameters: URLSearchParams) {
     const serialized = parameters.toString();
@@ -271,7 +174,7 @@ export function FileBrowser({
 
   function updateQuery(value: string) {
     setQuery(value);
-    setVisibleCount(PAGE_SIZE);
+    setVisibleCount(PAPER_BROWSER_PAGE_SIZE);
     const parameters = new URLSearchParams(window.location.search);
     const normalized = value.trim();
     if (normalized) parameters.set('q', normalized);
@@ -298,7 +201,7 @@ export function FileBrowser({
     setContentResult(undefined);
     setContentError(undefined);
     setContentSearching(true);
-    setVisibleCount(PAGE_SIZE);
+    setVisibleCount(PAPER_BROWSER_PAGE_SIZE);
     const parameters = new URLSearchParams(window.location.search);
     parameters.set('content', next.pattern);
     if (next.scope === 'all') parameters.delete('content-scope');
@@ -312,7 +215,7 @@ export function FileBrowser({
     setContentResult(undefined);
     setContentError(undefined);
     setContentSearching(false);
-    setVisibleCount(PAGE_SIZE);
+    setVisibleCount(PAPER_BROWSER_PAGE_SIZE);
     const parameters = new URLSearchParams(window.location.search);
     parameters.delete('content');
     parameters.delete('content-scope');
@@ -320,43 +223,45 @@ export function FileBrowser({
   }
 
   return (
-    <section className="browser" aria-labelledby="browser-title">
-      <aside className="collection-rail" aria-label="Paper collections">
-        <div className="rail-heading">
+    <section className="paper-browser" aria-labelledby="paper-browser-title">
+      <aside className="paper-browser-rail" aria-label="Paper collections">
+        <div className="paper-browser-rail-heading">
           <p>Content</p>
-          <span>{papers.length.toLocaleString()} files</span>
+          <span>{model.totalFileCount.toLocaleString()} files</span>
         </div>
-        <div className="collection-groups">
-          {navigationSections.map((section) => (
-            <section className="collection-group" key={section.id}>
-              <h2 className="collection-group-title">{section.label}</h2>
+        <div className="paper-browser-collection-groups">
+          {model.navigationSections.map((section) => (
+            <section
+              className="paper-browser-collection-group"
+              key={section.id}
+            >
+              <h2>{section.label}</h2>
               {section.subsections.map((subsection) =>
                 subsection.collections.length > 0 ? (
-                  <div className="collection-subgroup" key={subsection.id}>
-                    {subsection.label ? (
-                      <h3 className="collection-subgroup-title">
-                        {subsection.label}
-                      </h3>
-                    ) : null}
-                    <div className="collection-list">
+                  <div
+                    className="paper-browser-collection-subgroup"
+                    key={subsection.id}
+                  >
+                    {subsection.label ? <h3>{subsection.label}</h3> : null}
+                    <div className="paper-browser-collection-list">
                       {subsection.collections.map((collection) => (
-                        <Link
+                        <a
                           aria-current={
                             collection.id === activeCollectionId
                               ? 'page'
                               : undefined
                           }
-                          className="collection-button"
-                          href={collectionRoute(
+                          className="paper-browser-collection-link"
+                          href={paperBrowserCollectionHref(
+                            routes,
                             collection.id,
-                            query,
-                            contentSearch,
+                            searchState,
                           )}
                           key={collection.id}
                         >
                           <span>{collection.label}</span>
                           <strong>{collection.count}</strong>
-                        </Link>
+                        </a>
                       ))}
                     </div>
                   </div>
@@ -365,54 +270,28 @@ export function FileBrowser({
             </section>
           ))}
         </div>
-        <nav className="reference-list" aria-label="Corpus search">
-          <p>Search</p>
-          <Link className="reference-link" href="/search">
-            <span>All questions</span>
-            <strong>Open</strong>
-          </Link>
-        </nav>
-        <nav className="reference-list" aria-label="Review work">
-          <p>Reviews</p>
-          <Link className="reference-link" href="/reviews/global">
-            <span>Global findings</span>
-            <strong>Open</strong>
-          </Link>
-          <Link className="reference-link" href="/reviews/change-requests">
-            <span>Change requests</span>
-            <strong>View</strong>
-          </Link>
-        </nav>
-        <nav className="reference-list" aria-label="Reference content">
-          <p>Reference</p>
-          <Link className="reference-link" href="/macros">
-            <span>Macros</span>
-            <strong>1 file</strong>
-          </Link>
-        </nav>
+        {secondaryNavigation}
       </aside>
 
-      <div className="file-index">
-        <div className="file-index-heading">
+      <div className="paper-browser-index">
+        <div className="paper-browser-index-heading">
           <div>
-            <p className="eyebrow">Live TOML index</p>
-            <h2 id="browser-title">{active?.label ?? 'Paper files'}</h2>
+            <p className="paper-browser-eyebrow">Live TOML index</p>
+            <h2 id="paper-browser-title">{active?.label ?? 'Paper files'}</h2>
             <span>{active?.description}</span>
           </div>
-          <div className="collection-searches">
-            <label className="search-field">
+          <div className="paper-browser-searches">
+            <label className="paper-browser-search-field">
               <span>Find papers</span>
               <input
-                onChange={(event) => {
-                  updateQuery(event.target.value);
-                }}
+                onChange={(event) => updateQuery(event.target.value)}
                 placeholder="Title, filename, focus group…"
                 type="search"
                 value={query}
               />
             </label>
             <details
-              className="collection-content-search"
+              className="paper-browser-content-search"
               open={contentSearch || contentError ? true : undefined}
             >
               <summary>
@@ -421,14 +300,16 @@ export function FileBrowser({
               </summary>
               <div>
                 <form
-                  className="raw-content-search raw-content-search--collection"
+                  className="paper-browser-content-search-form"
                   onSubmit={applyContentSearch}
                 >
                   <label>
                     <span>Regular expression</span>
                     <input
                       aria-describedby={
-                        contentError ? 'content-search-error' : undefined
+                        contentError
+                          ? 'paper-browser-content-search-error'
+                          : undefined
                       }
                       onChange={(event) => setContentDraft(event.target.value)}
                       placeholder="Regular expression…"
@@ -467,8 +348,8 @@ export function FileBrowser({
                 </form>
                 {contentError ? (
                   <p
-                    className="raw-content-search-error"
-                    id="content-search-error"
+                    className="paper-browser-search-error"
+                    id="paper-browser-content-search-error"
                     role="alert"
                   >
                     {contentError}
@@ -479,7 +360,7 @@ export function FileBrowser({
           </div>
         </div>
 
-        <div className="result-summary" aria-live="polite">
+        <div className="paper-browser-result-summary" aria-live="polite">
           <span>
             {contentSearching
               ? 'Searching current TOML files…'
@@ -493,55 +374,67 @@ export function FileBrowser({
         </div>
 
         {contentSearching ? (
-          <div className="empty-index empty-index--searching" role="status">
+          <div
+            className="paper-browser-empty paper-browser-empty--searching"
+            role="status"
+          >
             <strong>Scanning authored question content.</strong>
             <p>The working tree is read again for every folder search.</p>
           </div>
         ) : matches.length === 0 ? (
-          <div className="empty-index">
+          <div className="paper-browser-empty">
             <strong>No files match this view.</strong>
             <p>Clear the search or choose another source collection.</p>
           </div>
         ) : (
-          <ol className="paper-list">
-            {matches.slice(0, visibleCount).map((paper, index) => (
+          <ol className="paper-browser-paper-list">
+            {visiblePapers.map((paper, index) => (
               <li key={`${paper.collectionId}:${paper.relativePath}`}>
                 {paper.state === 'ready' ? (
-                  <Link
-                    className="paper-row"
-                    href={paperRoute(
+                  <a
+                    className="paper-browser-paper-row"
+                    href={paperBrowserPaperHref(
+                      routes,
                       paper.collectionId,
                       paper.relativePath,
-                      query,
-                      contentSearch,
+                      searchState,
                     )}
                   >
-                    <span className="paper-number">
+                    <span className="paper-browser-paper-number">
                       {String(index + 1).padStart(3, '0')}
                     </span>
-                    <span className="paper-identity">
+                    <span className="paper-browser-paper-identity">
                       <strong>{paper.title}</strong>
                       <code>{paper.fileName}</code>
                     </span>
-                    <span className="paper-detail">{paper.detail}</span>
-                    <span className="paper-count">
+                    <span className="paper-browser-paper-detail">
+                      {paper.detail}
+                    </span>
+                    <span className="paper-browser-paper-count">
                       {contentSearch && contentResult
                         ? `${contentMatchByPath.get(paper.relativePath)?.matchingQuestionCount ?? 0} matching / ${paper.questionCount}`
                         : `${paper.questionCount} questions`}
                     </span>
-                    <span className="paper-arrow" aria-hidden="true">
+                    <span
+                      className="paper-browser-paper-arrow"
+                      aria-hidden="true"
+                    >
                       ↗
                     </span>
-                  </Link>
+                  </a>
                 ) : (
-                  <div className="paper-row paper-row--invalid">
-                    <span className="paper-number">!</span>
-                    <span className="paper-identity">
+                  <div className="paper-browser-paper-row paper-browser-paper-row--invalid">
+                    <span className="paper-browser-paper-number">!</span>
+                    <span className="paper-browser-paper-identity">
                       <strong>{paper.title}</strong>
                       <code>{paper.fileName}</code>
                     </span>
-                    <span className="paper-detail">{paper.detail}</span>
-                    <span className="paper-count">Invalid TOML</span>
+                    <span className="paper-browser-paper-detail">
+                      {paper.detail}
+                    </span>
+                    <span className="paper-browser-paper-count">
+                      Invalid TOML
+                    </span>
                   </div>
                 )}
               </li>
@@ -551,11 +444,15 @@ export function FileBrowser({
 
         {visibleCount < matches.length ? (
           <button
-            className="load-more"
-            onClick={() => setVisibleCount((value) => value + PAGE_SIZE)}
+            className="paper-browser-load-more"
+            onClick={() =>
+              setVisibleCount((value) => value + PAPER_BROWSER_PAGE_SIZE)
+            }
             type="button"
           >
-            Show {Math.min(PAGE_SIZE, matches.length - visibleCount)} more
+            Show{' '}
+            {Math.min(PAPER_BROWSER_PAGE_SIZE, matches.length - visibleCount)}{' '}
+            more
           </button>
         ) : null}
       </div>

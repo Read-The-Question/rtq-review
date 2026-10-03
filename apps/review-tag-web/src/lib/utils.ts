@@ -1,7 +1,7 @@
 import { type ClassValue, clsx } from 'clsx';
 import { twMerge } from 'tailwind-merge';
 
-import type { OriginalQuestionSource } from '@/lib/paper-types';
+import type { OriginalQuestionSource } from './paper-types.ts';
 
 export function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs));

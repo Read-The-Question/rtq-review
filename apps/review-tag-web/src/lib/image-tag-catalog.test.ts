@@ -80,3 +80,25 @@ test('validates catalog dependencies and assigned value combinations', async () 
     /unsupported family="unknown"/,
   );
 });
+
+test('rejects malformed dates, guide paths, missing-guide paths and prerequisites', async () => {
+  const canonical = await getImageTagCatalog();
+  const badDate = structuredClone(canonical);
+  badDate.dimensions[0].values[0].lastUpdated = '2026-02-30';
+  assert.throws(
+    () => validateImageTagCatalog(badDate),
+    /valid YYYY-MM-DD date/,
+  );
+  const badPath = structuredClone(canonical);
+  badPath.dimensions[0].values[0].guide.path = '../wrong-guide.md';
+  assert.throws(() => validateImageTagCatalog(badPath), /guide.path must be/);
+  const missing = structuredClone(canonical);
+  missing.dimensions[0].values[0].guide.status = 'missing';
+  assert.throws(() => validateImageTagCatalog(missing), /path must be null/);
+  const badDependency = structuredClone(canonical);
+  badDependency.dimensions[1].values[0].requires = { family: 'unknown' };
+  assert.throws(
+    () => validateImageTagCatalog(badDependency),
+    /supported value of an earlier dimension/,
+  );
+});

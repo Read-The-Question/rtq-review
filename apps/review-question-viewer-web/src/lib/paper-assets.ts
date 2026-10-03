@@ -41,6 +41,7 @@ const PAPER_IMAGE_AUTHORED_ATTRIBUTES = [
   'family',
   'indent',
   'kind',
+  'type',
 ] as const;
 const LONG_DIVISION_REGEX = /<LongDivision\b[^\n>]*\/>/g;
 const LONG_DIVISION_AUTHORED_ATTRIBUTES = [

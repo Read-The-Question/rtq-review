@@ -1,6 +1,7 @@
 import assert from 'node:assert/strict';
 import test from 'node:test';
 
+import { getImageTagCatalog } from './image-tag-catalog.ts';
 import {
   ImageTagMutationError,
   applyImageTagMutationToRaw,
@@ -301,5 +302,101 @@ test('rejects mutations that violate catalog value dependencies', () => {
         catalog,
       ),
     /type="triangle" requires family="geometry"/,
+  );
+});
+
+test('round-trips every canonical type in each ownership context without discarding dependent tags', async () => {
+  const canonical = await getImageTagCatalog();
+  const targets = [
+    {
+      nodeUuid: 'ROOT',
+      field: { kind: 'question' } as const,
+      occurrenceIndex: 0,
+    },
+    {
+      nodeUuid: 'ROOT',
+      field: { kind: 'question' } as const,
+      occurrenceIndex: 1,
+    },
+    {
+      nodeUuid: 'ROOT',
+      field: { kind: 'working', index: 0 } as const,
+      occurrenceIndex: 0,
+    },
+    {
+      nodeUuid: 'ROOT',
+      field: { kind: 'answer', index: 0 } as const,
+      occurrenceIndex: 0,
+    },
+    {
+      nodeUuid: 'CHILD',
+      field: { kind: 'question' } as const,
+      occurrenceIndex: 0,
+    },
+  ];
+  for (const target of targets) {
+    for (const type of canonical.dimensions[1].values) {
+      let raw = applyImageTagMutationToRaw(
+        source,
+        { ...target, dimensionKey: 'family', value: type.requires.family },
+        canonical,
+      );
+      raw = applyImageTagMutationToRaw(
+        raw,
+        { ...target, dimensionKey: 'type', value: type.value },
+        canonical,
+      );
+      const before = raw;
+      for (const value of [null, 'custom']) {
+        assert.throws(
+          () =>
+            applyImageTagMutationToRaw(
+              raw,
+              { ...target, dimensionKey: 'family', value },
+              canonical,
+            ),
+          /requires family=/,
+        );
+        assert.equal(raw, before);
+      }
+      raw = applyImageTagMutationToRaw(
+        raw,
+        { ...target, dimensionKey: 'type', value: null },
+        canonical,
+      );
+      const originalFamily =
+        target.nodeUuid === 'ROOT' &&
+        target.field.kind === 'question' &&
+        target.occurrenceIndex === 0
+          ? 'venn'
+          : null;
+      raw = applyImageTagMutationToRaw(
+        raw,
+        { ...target, dimensionKey: 'family', value: originalFamily },
+        canonical,
+      );
+      assert.equal(raw, source);
+    }
+  }
+});
+
+test('rejects adjacent attributes instead of persisting syntax production rejects', () => {
+  assert.throws(
+    () =>
+      applyImageTagMutationToRaw(
+        source.replace(
+          'kind="essential" family="venn"',
+          'kind="essential"family="venn"',
+        ),
+        {
+          nodeUuid: 'ROOT',
+          field: { kind: 'question' },
+          occurrenceIndex: 0,
+          dimensionKey: 'family',
+          value: null,
+        },
+        catalog,
+      ),
+    /whitespace-separated/,
   );
 });

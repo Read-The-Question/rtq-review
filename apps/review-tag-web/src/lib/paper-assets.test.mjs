@@ -6,7 +6,7 @@ import { tmpdir } from 'node:os';
 import path from 'node:path';
 import test from 'node:test';
 
-test('PaperImage family is rendering-neutral across scopes, nesting and formats', async t => {
+test('PaperImage family/type is rendering-neutral across scopes, nesting and formats', async t => {
   const root = mkdtempSync(path.join(tmpdir(), 'rtq-image-family-'));
   const previousRoot = process.env.RTQ_CONTENT_ROOT;
   process.env.RTQ_CONTENT_ROOT = root;
@@ -99,17 +99,31 @@ test('PaperImage family is rendering-neutral across scopes, nesting and formats'
         scope === 'question' ? undefined : { scopeType: scope, scopeIndex: 0 };
       const source = `<PaperImage assetScope="${scope}" displaySize="lg" />\n\n<PaperImage assetScope="${scope}" />`;
       const baseline = enrichRtqMarkdown(source, context, options);
-      for (const family of ['venn', '', 'future-family']) {
-        const tagged = source.replace(
-          'displaySize="lg"',
-          `family="${family}" displaySize="lg"`,
+      for (const attributes of [
+        'family="venn"',
+        'family="" type=""',
+        'family="future-family" type="future-type"',
+        'family="geometry" type="square"',
+        'family="geometry" type="rectangle"',
+        'family="geometry" type="triangle"',
+        'family="chart" type="pie"',
+        'family="chart" type="bar"',
+        'family="chart" type="coordinate-grid"',
+        'family="chart" type="triangle"',
+        'family="custom"',
+        'family="illustration"',
+        'type="triangle"',
+      ]) {
+        const tagged = source.replaceAll(
+          '<PaperImage',
+          `<PaperImage ${attributes}`,
         );
         assert.equal(enrichRtqMarkdown(tagged, context, options), baseline);
       }
       assert.equal((baseline.match(/<img /g) ?? []).length, 2);
       assert.ok(baseline.includes(`${prefix}${slot}-i00.png`));
       assert.ok(baseline.includes(`${prefix}${slot}-i01.svg`));
-      assert.doesNotMatch(baseline, /family|venn/);
+      assert.doesNotMatch(baseline, /(?:family|type)=|venn/);
       assert.throws(
         () =>
           enrichRtqMarkdown(
@@ -125,7 +139,10 @@ test('PaperImage family is rendering-neutral across scopes, nesting and formats'
       const missingBaseline = enrichRtqMarkdown(source, context, options);
       assert.equal(
         enrichRtqMarkdown(
-          source.replace('displaySize="lg"', 'family="venn" displaySize="lg"'),
+          source.replace(
+            'displaySize="lg"',
+            'family="geometry" type="triangle" displaySize="lg"',
+          ),
           context,
           options,
         ),

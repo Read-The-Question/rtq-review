@@ -126,7 +126,10 @@ function parseValue(
       fail(`${context}.guide.path must be null when its guide is missing.`);
     }
   } else if (guide.status === 'available' || guide.status === 'placeholder') {
-    text(guide.path, `${context}.guide.path`);
+    const expectedPath = `docs/image-style-guides/${dimensionKey}.${valueKey}.md`;
+    if (text(guide.path, `${context}.guide.path`) !== expectedPath) {
+      fail(`${context}.guide.path must be ${JSON.stringify(expectedPath)}.`);
+    }
   } else {
     fail(`${context}.guide.status is unsupported.`);
   }

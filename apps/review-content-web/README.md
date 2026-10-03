@@ -76,10 +76,12 @@ asset route rejects old flat question URLs and does not expose sidecars.
 Existing generated long-division routes are unchanged. No doctor check is
 added to reviewer builds, startup, or requests.
 
-`PaperImage family="venn"` is occurrence-local authoring metadata. The raw
-source retains it; preparation already ignores it for rendering, URLs and
-accessibility, without adding a family-value validation gate. The vocabulary
-and drawing-guide contract are owned by
+`PaperImage` attributes `family` and `type` are occurrence-local authoring
+metadata. The raw source retains them; preparation ignores them for rendering,
+URLs and accessibility, without adding a value/pair validation gate or changing
+incomplete-content handling. Classification validation belongs to the tag editor
+and production preparation, not this preview. The versioned vocabulary,
+family/type prerequisites, guide status and last-updated metadata are owned by
 [assets image dimensional tags](https://github.com/Read-The-Question/rtq-content/blob/develop/packages/assets/docs/architecture/image-dimensional-tags.md).
 
 For manual `PaperImage` metadata, `alt: null` remains `pending`, `alt: ""`

@@ -8,6 +8,11 @@ import { updateImageTagAction } from '@/app/actions';
 import { RtqMarkdown } from '@/components/rtq-markdown';
 import { TagGroup, TagPicker } from '@/components/tag-review-controls';
 import { markdownWithOccurrenceMarkers } from '@/lib/image-tag-markers';
+import {
+  compatibleImageTagValues,
+  imageTagGuidance,
+  imageTagValueIsApplicable,
+} from '@/lib/image-tag-presentation';
 import type {
   DisplayTag,
   ImageTagCatalog,
@@ -43,36 +48,20 @@ function displayValue(dimension: ImageTagCatalogDimension, value: string) {
   return `${dimension.key}.${value}`;
 }
 
-function valueRequirementsSatisfied(
-  catalog: ImageTagCatalog,
-  requires: Readonly<Record<string, string>>,
-  occurrence: ImageTagOccurrence,
-) {
-  return Object.entries(requires).every(([key, requiredValue]) => {
-    const dependency = catalog.dimensions.find(
-      candidate => candidate.key === key,
-    );
-    return (
-      dependency &&
-      occurrence.attributes[dependency.attribute] === requiredValue
-    );
-  });
-}
-
 function currentTags(
   catalog: ImageTagCatalog,
   dimension: ImageTagCatalogDimension,
   occurrence: ImageTagOccurrence,
 ): DisplayTag[] {
   const value = occurrence.attributes[dimension.attribute];
-  if (!value) {
+  if (value === undefined) {
     return [];
   }
 
   const option = dimension.values.find(option => option.value === value);
   const supported =
     option !== undefined &&
-    valueRequirementsSatisfied(catalog, option.requires, occurrence);
+    imageTagValueIsApplicable(catalog, option, occurrence.attributes);
   return [
     {
       active: supported,
@@ -91,29 +80,6 @@ export function imageOccurrenceDisplayTags(
 ) {
   return catalog.dimensions.flatMap(dimension =>
     currentTags(catalog, dimension, occurrence),
-  );
-}
-
-function guideLabel(
-  dimension: ImageTagCatalogDimension,
-  occurrence: ImageTagOccurrence,
-) {
-  const current = occurrence.attributes[dimension.attribute];
-  const value = dimension.values.find(option => option.value === current);
-  if (!current) return 'Unclassified';
-  if (!value) return 'Unsupported value';
-  if (value.guide.status === 'available') return 'Guide available';
-  if (value.guide.status === 'placeholder') return 'Guide placeholder';
-  return 'Guide missing';
-}
-
-function compatibleValues(
-  catalog: ImageTagCatalog,
-  dimension: ImageTagCatalogDimension,
-  occurrence: ImageTagOccurrence,
-) {
-  return dimension.values.filter(value =>
-    valueRequirementsSatisfied(catalog, value.requires, occurrence),
   );
 }
 
@@ -222,12 +188,29 @@ function ImageTagPanel({
             <div
               className="tag-editor-matrix__row tag-editor-matrix__row--labels"
               style={columnStyle}>
-              {catalog.dimensions.map(dimension => (
-                <div className="tag-editor-matrix__label" key={dimension.key}>
-                  <span>{dimension.label}</span>
-                  <small>{guideLabel(dimension, occurrence)}</small>
-                </div>
-              ))}
+              {catalog.dimensions.map(dimension => {
+                const guidance = imageTagGuidance(
+                  catalog,
+                  dimension,
+                  occurrence.attributes,
+                );
+                return (
+                  <div className="tag-editor-matrix__label" key={dimension.key}>
+                    <span>{dimension.label}</span>
+                    <small>{guidance.label}</small>
+                    {guidance.lastUpdated ? (
+                      <small>
+                        <time dateTime={guidance.lastUpdated}>
+                          Updated {guidance.lastUpdated}
+                        </time>
+                      </small>
+                    ) : null}
+                    {guidance.message ? (
+                      <small>{guidance.message}</small>
+                    ) : null}
+                  </div>
+                );
+              })}
             </div>
 
             <div
@@ -257,10 +240,10 @@ function ImageTagPanel({
                 {catalog.dimensions.map(dimension => {
                   const selectedValue =
                     occurrence.attributes[dimension.attribute];
-                  const options = compatibleValues(
+                  const options = compatibleImageTagValues(
                     catalog,
                     dimension,
-                    occurrence,
+                    occurrence.attributes,
                   ).map(value => displayValue(dimension, value.value));
 
                   return (
@@ -298,6 +281,13 @@ function ImageTagPanel({
           <div className="inline-editor__section-title">Final tags</div>
           <TagGroup emptyLabel="Unclassified" tags={finalTags} />
         </div>
+        {!readOnly ? (
+          <p className="inline-editor__subtitle">
+            Dependent tags are never removed automatically. Remove or change
+            incompatible dependent tags explicitly before changing their
+            prerequisites.
+          </p>
+        ) : null}
       </div>
 
       {readOnly ? (

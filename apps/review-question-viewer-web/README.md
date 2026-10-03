@@ -54,10 +54,11 @@ Manual images use `questions/manual/`, `workings/manual/`, or
 Old flat question URLs are not served. `PaperImage` authoring and generated
 long-division paths are unchanged. Doctor is not a reviewer build/startup gate.
 
-`PaperImage family="venn"` is accepted as occurrence-local authoring metadata
-and ignored for rendering, URLs and accessibility. The raw source retains it;
-this viewer adds no family-value validation gate. The vocabulary and
-drawing-guide contract are owned by
+`PaperImage` accepts occurrence-local `family` and `type` authoring metadata
+and ignores both for rendering, URLs and accessibility. The raw source retains
+them; this viewer adds no value/pair validation gate and preserves existing
+incomplete-content handling. The versioned vocabulary, family/type
+prerequisites, guide status and last-updated metadata are owned by
 [assets image dimensional tags](https://github.com/Read-The-Question/rtq-content/blob/develop/packages/assets/docs/architecture/image-dimensional-tags.md).
 
 Inline division uses semantic Tailwind utilities. The shared source

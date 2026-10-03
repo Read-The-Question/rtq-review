@@ -79,12 +79,26 @@ assets and retains ancestor nodes as context.
 
 The vocabulary and drawing-guide contract are read from the canonical
 [`image-dimensional-tags.json`](https://github.com/Read-The-Question/rtq-content/blob/develop/packages/assets/docs/architecture/image-dimensional-tags.json)
-catalog owned by `@rtq/maths-assets`. The initial editor supports optional
+version-2 catalog owned by `@rtq/maths-assets`. The editor supports optional
 catalog-defined `family` and `type` values, filters dependent choices using the
 catalog's `requires` metadata, and validates the complete assignment before a
 write. Omission is unclassified and image tags never inherit from question tags
 or neighbouring images. Image tags remain rendering-neutral and do not change
 asset URLs, sidecars, manifests, accessibility data, or artwork.
+
+The editor displays each selected value's guide status and last-updated date.
+Missing and placeholder guidance must be established/completed and approved
+before drawing; even an available guide does not establish renderer support.
+Unsupported or incompatible selections remain visible for explicit correction.
+Changing/removing a prerequisite is rejected if it would leave an invalid
+dependent tag: clear or change the dependent tag explicitly first. No dependent
+value is silently preserved as valid or automatically deleted.
+
+Image-tag edits accept whitespace-separated static double-quoted component
+attributes. Preview rendering accepts and ignores both `family` and `type`,
+including incomplete or unsupported assignments, so classification problems do
+not hide the artwork needed for review. Mutation validation remains stricter
+than preview tolerance.
 
 Canonical and full focus papers also expose an optional, persistent Original
 PDF pane in either review mode. The same-origin PDF route contains reads under

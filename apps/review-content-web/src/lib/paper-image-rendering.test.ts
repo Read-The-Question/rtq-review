@@ -158,7 +158,7 @@ function imageTags(html: string): string[] {
 }
 
 for (const scope of ['question', 'working', 'answer'] as const) {
-  test(`ignores occurrence-local family in ${scope} preparation and rendering`, (t) => {
+  test(`ignores occurrence-local family/type in ${scope} preparation and rendering`, (t) => {
     const f = fixture(t);
     const owner =
       scope === 'question'
@@ -177,22 +177,40 @@ for (const scope of ['question', 'working', 'answer'] as const) {
     const before = f.snapshot();
     const source = `<PaperImage assetScope="${scope}" displaySize="lg" />\n\n<PaperImage assetScope="${scope}" />`;
     const baseline = f.prepare(source, scope);
-    const tagged = f.prepare(
-      source.replace('displaySize="lg"', 'family="venn" displaySize="lg"'),
-      scope,
-    );
-    assert.equal(tagged, baseline);
-    assert.equal(render(tagged), render(baseline));
-    assert.equal(imageTags(render(tagged)).length, 2);
-    assert.doesNotMatch(tagged, /family|venn/);
+    for (const attributes of [
+      'family="venn"',
+      'family="geometry" type="square"',
+      'family="geometry" type="rectangle"',
+      'family="geometry" type="triangle"',
+      'family="chart" type="pie"',
+      'family="chart" type="bar"',
+      'family="chart" type="coordinate-grid"',
+      'family="chart" type="triangle"',
+      'family="custom"',
+      'family="illustration"',
+      'family="" type=""',
+      'family="future-family" type="future-type"',
+      'type="triangle"',
+    ]) {
+      const tagged = f.prepare(
+        source.replaceAll('<PaperImage', `<PaperImage ${attributes}`),
+        scope,
+      );
+      assert.equal(tagged, baseline);
+      assert.equal(render(tagged), render(baseline));
+      assert.equal(imageTags(render(tagged)).length, 2);
+      assert.doesNotMatch(tagged, /(?:family|type)=|venn/);
+    }
     assert.deepEqual(f.snapshot(), before);
   });
 }
 
-test('family does not change the existing missing-binary fallback', (t) => {
+test('family/type does not change the existing missing-binary fallback', (t) => {
   const f = fixture(t);
   assert.equal(
-    f.prepare('<PaperImage assetScope="question" family="venn" />'),
+    f.prepare(
+      '<PaperImage assetScope="question" family="geometry" type="triangle" />',
+    ),
     f.prepare('<PaperImage assetScope="question" />'),
   );
 });

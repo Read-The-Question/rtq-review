@@ -53,6 +53,11 @@ export function parsePaperImageComponent(
       break;
     }
 
+    if (cursor === whitespaceStart) {
+      fail(
+        'PaperImage attributes must be whitespace-separated unique static double-quoted props.',
+      );
+    }
     const match = ATTRIBUTE_PATTERN.exec(body.slice(cursor));
     if (!match) {
       fail('PaperImage attributes must be unique static double-quoted props.');

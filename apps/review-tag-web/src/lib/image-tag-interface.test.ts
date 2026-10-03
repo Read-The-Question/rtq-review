@@ -67,6 +67,13 @@ test('image review composes the question document and shared tag controls', asyn
   assert.match(css, /@rtq\/review-paper-browser\/paper-outline\.css/);
   assert.match(imageEditor, /<TagGroup/);
   assert.match(imageEditor, /<TagPicker/);
+  assert.match(
+    imageEditor,
+    /imageTagGuidance\(\s*catalog,\s*dimension,\s*occurrence\.attributes,?\s*\)/,
+  );
+  assert.match(imageEditor, /dateTime=\{guidance\.lastUpdated\}/);
+  assert.match(imageEditor, /guidance\.message/);
+  assert.match(imageEditor, /Dependent tags are never removed automatically/);
   assert.match(imageEditor, />Final tags</);
   assert.doesNotMatch(imageEditor, /<select/);
   assert.doesNotMatch(imageEditor, /Use parent tags|Inherited from parent/);

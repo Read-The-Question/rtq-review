@@ -48,7 +48,7 @@ const catalog: ImageTagCatalog = {
     },
     {
       attribute: 'type',
-      cardinality: 'zero-or-one',
+      cardinality: 'zero-or-more',
       inheritance: 'none',
       key: 'type',
       label: 'Type',
@@ -68,7 +68,7 @@ const catalog: ImageTagCatalog = {
       ],
     },
   ],
-  version: 4,
+  version: 5,
 };
 
 const source = `title = "Fixture"
@@ -102,6 +102,54 @@ Nested image.
 <PaperImage assetScope="question" kind="essential" />
 '''
 `;
+
+test('writes multi-type members without changing family, neighbouring images or review data', async () => {
+  const canonical = await getImageTagCatalog();
+  const input = {
+    dimensionKey: 'type',
+    field: { kind: 'question' as const },
+    nodeUuid: 'ROOT',
+    occurrenceIndex: 0,
+    value: 'triangle dimension',
+  };
+  const original =
+    '<PaperImage assetScope="question" kind="essential" family="venn" />';
+  const updated = applyImageTagMutationToRaw(source, input, canonical);
+  assert.equal(
+    updated,
+    source.replace(
+      original,
+      original.replace(' />', ' type="triangle dimension" />'),
+    ),
+  );
+  const removed = applyImageTagMutationToRaw(
+    updated,
+    { ...input, value: 'triangle' },
+    canonical,
+  );
+  assert.equal(
+    removed,
+    updated.replace('type="triangle dimension"', 'type="triangle"'),
+  );
+  assert.equal(
+    applyImageTagMutationToRaw(removed, { ...input, value: null }, canonical),
+    source,
+  );
+  for (const value of [
+    'triangle triangle',
+    'triangle unknown',
+    'triangle  dimension',
+  ]) {
+    assert.throws(
+      () => applyImageTagMutationToRaw(source, { ...input, value }, canonical),
+      /unsupported type/,
+    );
+  }
+  assert.throws(
+    () => verifyImageTagSourceVersion(updated, imageTagSourceVersion(source)),
+    /changed outside/,
+  );
+});
 
 function mutate(input: {
   dimensionKey?: string;
@@ -256,7 +304,7 @@ test('rejects reordered, mismatched, malformed, and unsupported mutations', () =
   );
   assert.throws(
     () => mutate({ value: 'circles' }),
-    /Unsupported family value circles/,
+    /unsupported family="circles"/,
   );
   assert.throws(
     () => mutate({ dimensionKey: 'shape', value: 'venn' }),

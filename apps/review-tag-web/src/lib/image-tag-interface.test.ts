@@ -79,6 +79,9 @@ test('image review composes the question document and shared tag controls', asyn
   );
   assert.match(imageEditor, /<TagGroup/);
   assert.match(imageEditor, /<TagPicker/);
+  assert.match(imageEditor, /dimension\.cardinality === 'zero-or-more'/);
+  assert.match(imageEditor, /changeImageTagValue/);
+  assert.match(imageEditor, /selectedValues\.map/);
   assert.match(
     imageEditor,
     /imageTagGuidance\(\s*dimension,\s*occurrence\.attributes,?\s*\)/,

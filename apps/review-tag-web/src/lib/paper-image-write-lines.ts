@@ -157,10 +157,7 @@ export function applyImageTagMutationToRaw(
   if (!dimension) {
     fail(`Unsupported image tag dimension ${input.dimensionKey}.`);
   }
-  if (
-    input.value !== null &&
-    !dimension.values.some(value => value.value === input.value)
-  ) {
+  if (input.value !== null && typeof input.value !== 'string') {
     fail(
       `Unsupported ${dimension.label.toLowerCase()} value ${String(input.value)}.`,
     );

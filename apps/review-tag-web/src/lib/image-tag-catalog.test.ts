@@ -11,7 +11,7 @@ import {
 test('loads the canonical image catalog for schema-driven controls', async () => {
   const catalog = await getImageTagCatalog();
 
-  assert.equal(catalog.version, 4);
+  assert.equal(catalog.version, 5);
   assert.equal(catalog.component, 'PaperImage');
   assert.deepEqual(
     new Set(catalog.assignment.scopes),
@@ -35,13 +35,13 @@ test('loads the canonical image catalog for schema-driven controls', async () =>
   );
   assert.deepEqual(catalog.dimensions[1]?.values[2], {
     description:
-      'A standard triangle diagram. Side labels, angle labels and right-angle marks do not create separate types.',
+      'A meaningful depicted triangle, alone or in a composition. Side labels, angle labels and right-angle marks do not create separate types.',
     guide: {
       path: 'docs/image-style-guides/type.triangle.md',
       status: 'placeholder',
     },
     label: 'Triangle',
-    lastUpdated: '2026-10-03',
+    lastUpdated: '2026-10-04',
     status: 'approved',
     value: 'triangle',
   });
@@ -69,12 +69,44 @@ test('accepts pending vocabulary but rejects missing or invalid approval states'
     Object.assign(broken.dimensions[0].values[0], { status });
     assert.throws(() => validateImageTagCatalog(broken), /status must be/);
   }
-  for (const version of [1, 2, 3, 5]) {
+  for (const version of [1, 2, 3, 4, 6]) {
     assert.throws(
       () => validateImageTagCatalog({ ...catalog, version }),
       /Unsupported.*version/,
     );
   }
+});
+
+test('validates every multi-type member while keeping family single', async () => {
+  const catalog = await getImageTagCatalog();
+  assert.doesNotThrow(() =>
+    validateImageTagAssignments(catalog, {
+      type: 'triangle dimension square',
+      family: 'custom',
+    }),
+  );
+  for (const type of [
+    '',
+    'triangle triangle',
+    'triangle unknown',
+    'triangle,dimension',
+    ' triangle',
+    'triangle ',
+    'triangle  dimension',
+    'triangle\tdimension',
+  ]) {
+    assert.throws(
+      () => validateImageTagAssignments(catalog, { type }),
+      /unsupported type/,
+    );
+  }
+  assert.throws(
+    () => validateImageTagAssignments(catalog, { family: 'geometry custom' }),
+    /unsupported family/,
+  );
+  const broken = structuredClone(catalog);
+  broken.dimensions[1].cardinality = 'zero-or-one';
+  assert.throws(() => validateImageTagCatalog(broken), /cardinality/);
 });
 
 test('rejects unsupported catalog versions instead of guessing a vocabulary', () => {

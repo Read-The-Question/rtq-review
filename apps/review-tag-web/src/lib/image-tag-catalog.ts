@@ -166,7 +166,8 @@ function parseDimension(
   const attribute = identifier(dimension.attribute, `${context}.attribute`);
   unique(key, dimensionKeys, `${context}.key`);
   unique(attribute, attributes, `${context}.attribute`);
-  if (dimension.cardinality !== 'zero-or-one') {
+  const cardinality = key === 'type' ? 'zero-or-more' : 'zero-or-one';
+  if (dimension.cardinality !== cardinality) {
     fail(`${context}.cardinality is unsupported.`);
   }
   if (dimension.inheritance !== 'none') {
@@ -181,7 +182,7 @@ function parseDimension(
   );
   return {
     attribute,
-    cardinality: 'zero-or-one',
+    cardinality,
     inheritance: 'none',
     key,
     label: text(dimension.label, `${context}.label`),
@@ -197,7 +198,7 @@ export function validateImageTagCatalog(input: unknown): ImageTagCatalog {
     ['version', 'component', 'assignment', 'dimensions'],
     'catalog',
   );
-  if (catalog.version !== 4) {
+  if (catalog.version !== 5) {
     fail(
       `Unsupported image dimensional-tag catalog version: ${String(catalog.version)}.`,
     );
@@ -246,7 +247,7 @@ export function validateImageTagCatalog(input: unknown): ImageTagCatalog {
     },
     component: 'PaperImage',
     dimensions,
-    version: 4,
+    version: 5,
   };
 }
 
@@ -258,12 +259,21 @@ export function validateImageTagAssignments(
   for (const dimension of catalog.dimensions) {
     const assigned = attributes[dimension.attribute];
     if (assigned === undefined) continue;
-    const value = dimension.values.find(
-      candidate => candidate.value === assigned,
-    );
-    if (!value) {
+    const values =
+      typeof assigned === 'string'
+        ? dimension.cardinality === 'zero-or-more'
+          ? assigned.split(' ')
+          : [assigned]
+        : [];
+    if (
+      !values.length ||
+      new Set(values).size !== values.length ||
+      values.some(
+        value => !dimension.values.some(candidate => candidate.value === value),
+      )
+    ) {
       fail(
-        `${context} has unsupported ${dimension.attribute}=${JSON.stringify(assigned)}; expected one of ${dimension.values.map(candidate => candidate.value).join(', ')}.`,
+        `${context} has unsupported ${dimension.attribute}=${JSON.stringify(assigned)}; expected ${dimension.cardinality === 'zero-or-more' ? 'distinct space-separated values from' : 'one of'} ${dimension.values.map(candidate => candidate.value).join(', ')}.`,
       );
     }
   }

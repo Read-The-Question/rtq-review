@@ -81,8 +81,11 @@ metadata. The raw source retains them; preparation ignores them for rendering,
 URLs and accessibility, without adding a value/pair validation gate or changing
 incomplete-content handling. Classification validation belongs to the tag editor
 and production preparation, not this preview. The versioned vocabulary,
-family/type prerequisites, guide status and last-updated metadata are owned by
+independent family/type values, guide status and last-updated metadata are owned by
 [assets image dimensional tags](https://github.com/Read-The-Question/rtq-content/blob/develop/packages/assets/docs/architecture/image-dimensional-tags.md).
+The version-5 display reads one family and space-separated type members, showing
+each member independently (including unsupported values for correction).
+This does not dispatch primitives, hide images or change accessibility.
 
 For manual `PaperImage` metadata, `alt: null` remains `pending`, `alt: ""`
 remains `reviewed-decorative`, and informative text remains

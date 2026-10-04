@@ -56,6 +56,7 @@ function fixture(t: TestContext) {
       dimensions: [
         {
           attribute: 'family',
+          cardinality: 'zero-or-one',
           key: 'family',
           label: 'Family',
           values: [
@@ -71,6 +72,7 @@ function fixture(t: TestContext) {
         },
         {
           attribute: 'type',
+          cardinality: 'zero-or-more',
           key: 'type',
           label: 'Type',
           values: [
@@ -78,10 +80,11 @@ function fixture(t: TestContext) {
               label: 'Triangle',
               value: 'triangle',
             },
+            { label: 'Dimension annotation', value: 'dimension' },
           ],
         },
       ],
-      version: 4,
+      version: 5,
     }),
   );
   mkdirSync(path.join(root, 'packages/papers/papers/toml'), {
@@ -207,6 +210,27 @@ function render(
     createElement(RtqMarkdown, { markdown, ...options }),
   );
 }
+
+test('displays every multi-type member without changing artwork or hiding unsupported values', (t) => {
+  const f = fixture(t);
+  const prepared = f.prepareDisplay(
+    '<PaperImage assetScope="question" family="geometry" type="triangle dimension unknown" />',
+  );
+  assert.ok(prepared.paperImages);
+  const tags = prepared.paperImages.flatMap((image) => image.tags);
+  assert.deepEqual(
+    tags.map((tag) => [tag.value, tag.supported]),
+    [
+      ['geometry', true],
+      ['triangle', true],
+      ['dimension', true],
+      ['unknown', false],
+    ],
+  );
+  const html = render(prepared.rendered, { paperImages: prepared.paperImages });
+  assert.equal(imageTags(html).length, 1);
+  assert.doesNotMatch(imageTags(html)[0], /family=|type=|triangle dimension/);
+});
 
 function imageTags(html: string): string[] {
   return html.match(/<img\b[^>]*>/g) ?? [];

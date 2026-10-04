@@ -8,7 +8,11 @@ import { updateImageTagAction } from '@/app/actions';
 import { RtqMarkdown } from '@/components/rtq-markdown';
 import { TagGroup, TagPicker } from '@/components/tag-review-controls';
 import { markdownWithOccurrenceMarkers } from '@/lib/image-tag-markers';
-import { imageTagGuidance } from '@/lib/image-tag-presentation';
+import {
+  changeImageTagValue,
+  imageTagGuidance,
+  imageTagValues,
+} from '@/lib/image-tag-presentation';
 import type {
   DisplayTag,
   ImageTagCatalog,
@@ -48,22 +52,16 @@ function currentTags(
   dimension: ImageTagCatalogDimension,
   occurrence: ImageTagOccurrence,
 ): DisplayTag[] {
-  const value = occurrence.attributes[dimension.attribute];
-  if (value === undefined) {
-    return [];
-  }
-
-  const option = dimension.values.find(option => option.value === value);
-  return [
-    {
-      active: option !== undefined,
+  return [...new Set(imageTagValues(dimension, occurrence.attributes))].map(
+    value => ({
+      active: dimension.values.some(option => option.value === value),
       dimensionLabel: dimension.label,
       implicitLabel: null,
       kind: displayTagKind(dimension.key),
       source: 'explicit',
       value: displayValue(dimension, value),
-    },
-  ];
+    }),
+  );
 }
 
 export function imageOccurrenceDisplayTags(
@@ -219,7 +217,16 @@ function ImageTagPanel({
                     onRemove={
                       mutationDisabled
                         ? undefined
-                        : () => mutate(dimension.key, null)
+                        : value =>
+                            mutate(
+                              dimension.key,
+                              changeImageTagValue(
+                                dimension,
+                                occurrence.attributes,
+                                value.slice(dimension.key.length + 1),
+                                'remove',
+                              ),
+                            )
                     }
                     tags={currentTags(dimension, occurrence)}
                   />
@@ -232,8 +239,10 @@ function ImageTagPanel({
                 className="tag-editor-matrix__row tag-editor-matrix__row--pickers"
                 style={columnStyle}>
                 {catalog.dimensions.map(dimension => {
-                  const selectedValue =
-                    occurrence.attributes[dimension.attribute];
+                  const selectedValues = imageTagValues(
+                    dimension,
+                    occurrence.attributes,
+                  );
                   const options = dimension.values.map(value =>
                     displayValue(dimension, value.value),
                   );
@@ -245,21 +254,32 @@ function ImageTagPanel({
                       <TagPicker
                         disabled={mutationDisabled}
                         label={`Choose ${dimension.label.toLowerCase()}`}
-                        mode="single"
+                        mode={
+                          dimension.cardinality === 'zero-or-more'
+                            ? 'multiple'
+                            : 'single'
+                        }
                         onSelect={selected => {
                           const value = dimension.values.find(
                             option =>
                               displayValue(dimension, option.value) ===
                               selected,
                           );
-                          if (value) mutate(dimension.key, value.value);
+                          if (value)
+                            mutate(
+                              dimension.key,
+                              changeImageTagValue(
+                                dimension,
+                                occurrence.attributes,
+                                value.value,
+                                'toggle',
+                              ),
+                            );
                         }}
                         options={options}
-                        selected={
-                          selectedValue
-                            ? [displayValue(dimension, selectedValue)]
-                            : []
-                        }
+                        selected={selectedValues.map(value =>
+                          displayValue(dimension, value),
+                        )}
                       />
                     </div>
                   );

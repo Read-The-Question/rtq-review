@@ -79,27 +79,36 @@ assets and retains ancestor nodes as context.
 
 The vocabulary and drawing-guide contract are read from the canonical
 [`image-dimensional-tags.json`](https://github.com/Read-The-Question/rtq-content/blob/develop/packages/assets/docs/architecture/image-dimensional-tags.json)
-version-3 catalog owned by `@rtq/maths-assets`. The editor supports optional
-catalog-defined `family` and `type` values, filters dependent choices using the
-catalog's `requires` metadata, and validates the complete assignment before a
+version-5 catalog owned by `@rtq/maths-assets`. The editor supports one optional
+family and multiple optional types, without cross-dimension prerequisites,
+and validates every member of the complete assignment before a
 write. Omission is unclassified and image tags never inherit from question tags
 or neighbouring images. Image tags remain rendering-neutral and do not change
 asset URLs, sidecars, manifests, accessibility data, or artwork.
 
 The editor displays each selected value's vocabulary approval (`approved` or
 `pending-approval`), independent guide status and last-updated date. Both approval
-states remain selectable, subject to the same prerequisites. Vocabulary approval
+states remain selectable. Vocabulary approval
 does not approve this image or its tag assignment, and does not modify review
 outcomes. Pending vocabulary needs agreement before executable drawing.
 Missing and placeholder guidance must be established/completed and approved
 before drawing; even an available guide does not establish renderer support.
-Unsupported or incompatible selections remain visible for explicit correction.
-Changing/removing a prerequisite is rejected if it would leave an invalid
-dependent tag: clear or change the dependent tag explicitly first. No dependent
-value is silently preserved as valid or automatically deleted.
+Unsupported selections remain visible for explicit correction. Changing or
+removing family never removes a type. The type picker toggles individual members;
+removing the last member omits the attribute. Guidance for every selected type is
+shown, including any pending vocabulary or incomplete guide.
+
+The existing regex content search can select type membership with
+`PaperImage\b[^>\r\n]*\btype="(?:[^" ]+ )*triangle(?: [^" ]+)*"`.
+This finds triangle alone or alongside other types without matching
+`supertriangle`; there is no new image-filter API.
 
 Image-tag edits accept whitespace-separated static double-quoted component
 attributes. Preview rendering accepts and ignores both `family` and `type`,
+with distinct type identifiers separated by one ASCII space inside the string.
+Existing single-value source remains valid. The tags are discovery/guidance
+clues, not normative drawing instructions or runtime primitive selection.
+Preview rendering remains tolerant,
 including incomplete or unsupported assignments, so classification problems do
 not hide the artwork needed for review. Mutation validation remains stricter
 than preview tolerance.

@@ -36,7 +36,7 @@ export type ImageTagCatalogValue = {
 
 export type ImageTagCatalogDimension = {
   attribute: string;
-  cardinality: 'zero-or-one';
+  cardinality: 'zero-or-one' | 'zero-or-more';
   inheritance: 'none';
   key: string;
   label: string;
@@ -51,7 +51,7 @@ export type ImageTagCatalog = {
   };
   component: 'PaperImage';
   dimensions: ImageTagCatalogDimension[];
-  version: 4;
+  version: 5;
 };
 
 export type PaperImageScope = 'answer' | 'question' | 'working';

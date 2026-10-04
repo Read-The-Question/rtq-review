@@ -60,6 +60,7 @@ type ImageLayout = Readonly<{
 }>;
 type ImageTagCatalogDimension = Readonly<{
   attribute: string;
+  cardinality: 'zero-or-one' | 'zero-or-more';
   key: string;
   label: string;
   values: readonly Readonly<{
@@ -154,7 +155,7 @@ function imageTagCatalog(): readonly ImageTagCatalogDimension[] {
     !parsed ||
     typeof parsed !== 'object' ||
     Array.isArray(parsed) ||
-    (parsed as Record<string, unknown>).version !== 4 ||
+    (parsed as Record<string, unknown>).version !== 5 ||
     (parsed as Record<string, unknown>).component !== 'PaperImage' ||
     !Array.isArray((parsed as Record<string, unknown>).dimensions)
   ) {
@@ -172,12 +173,16 @@ function imageTagCatalog(): readonly ImageTagCatalogDimension[] {
       typeof dimension.attribute !== 'string' ||
       typeof dimension.key !== 'string' ||
       typeof dimension.label !== 'string' ||
+      dimension.cardinality !==
+        (dimension.key === 'type' ? 'zero-or-more' : 'zero-or-one') ||
       !Array.isArray(dimension.values)
     ) {
       throw new Error('Invalid PaperImage tag dimension.');
     }
     return {
       attribute: dimension.attribute,
+      cardinality:
+        dimension.cardinality as ImageTagCatalogDimension['cardinality'],
       key: dimension.key,
       label: dimension.label,
       values: dimension.values.map((candidate) => {
@@ -215,16 +220,24 @@ function imageTags(
   return dimensions.flatMap((dimension) => {
     const assigned = authored[dimension.attribute];
     if (assigned === undefined) return [];
-    const value = dimension.values.find(
-      (candidate) => candidate.value === assigned,
-    );
-    return {
-      dimensionKey: dimension.key,
-      dimensionLabel: dimension.label,
-      supported: value !== undefined,
-      value: assigned,
-      valueLabel: value?.label ?? assigned,
-    };
+    const values =
+      dimension.cardinality === 'zero-or-more'
+        ? assigned.split(' ')
+        : [assigned];
+    return [...new Set(values)].map((member) => {
+      const value = dimension.values.find(
+        (candidate) => candidate.value === member,
+      );
+      return {
+        dimensionKey: dimension.key,
+        dimensionLabel: dimension.label,
+        supported:
+          value !== undefined &&
+          values.filter((item) => item === member).length === 1,
+        value: member,
+        valueLabel: value?.label ?? member,
+      };
+    });
   });
 }
 

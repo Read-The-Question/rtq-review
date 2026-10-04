@@ -185,3 +185,39 @@ test('matches authored PaperImage family attributes with the documented regex', 
     ['s0.q0'],
   );
 });
+
+test('type search matches membership rather than the entire joined string', () => {
+  const compiled = compileContentSearch({
+    pattern:
+      'PaperImage\\b[^>\\r\\n]*\\btype="(?:[^" ]+ )*triangle(?: [^" ]+)*"',
+    scope: 'all',
+  });
+  assert.equal(compiled.state, 'ready');
+  if (compiled.state !== 'ready')
+    throw new Error('fixture search did not compile');
+  for (const type of [
+    'triangle',
+    'triangle dimension',
+    'dimension triangle',
+    'square triangle dimension',
+  ]) {
+    assert.deepEqual(
+      parsedQuestionTreeContentMatchNodeIds(
+        { question: `<PaperImage assetScope="question" type="${type}" />` },
+        compiled.search,
+        's0.q0',
+      ),
+      ['s0.q0'],
+    );
+  }
+  for (const type of ['square', 'supertriangle', 'triangular']) {
+    assert.deepEqual(
+      parsedQuestionTreeContentMatchNodeIds(
+        { question: `<PaperImage assetScope="question" type="${type}" />` },
+        compiled.search,
+        's0.q0',
+      ),
+      [],
+    );
+  }
+});

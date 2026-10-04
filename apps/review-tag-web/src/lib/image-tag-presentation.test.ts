@@ -2,7 +2,11 @@ import assert from 'node:assert/strict';
 import test from 'node:test';
 
 import { getImageTagCatalog } from './image-tag-catalog.ts';
-import { imageTagGuidance } from './image-tag-presentation.ts';
+import {
+  changeImageTagValue,
+  imageTagGuidance,
+  imageTagValues,
+} from './image-tag-presentation.ts';
 
 test('family and type vocabulary remain independently available', async () => {
   const catalog = await getImageTagCatalog();
@@ -95,4 +99,54 @@ test('unclassified, empty, and unknown selections are distinguishable', async ()
     assert.equal(guidance.lastUpdated, null);
     assert.match(guidance.message!, /Choose a supported value or remove/);
   }
+});
+
+test('multi-selection toggles/removes one member and reports all guidance gates', async () => {
+  const catalog = await getImageTagCatalog();
+  const [family, type] = catalog.dimensions;
+  const attributes = { family: 'geometry', type: 'triangle dimension' };
+  const before = structuredClone(attributes);
+  assert.deepEqual(imageTagValues(type, attributes), ['triangle', 'dimension']);
+  assert.equal(
+    changeImageTagValue(type, attributes, 'square', 'toggle'),
+    'triangle dimension square',
+  );
+  assert.equal(
+    changeImageTagValue(type, attributes, 'triangle', 'toggle'),
+    'dimension',
+  );
+  assert.equal(
+    changeImageTagValue(type, attributes, 'dimension', 'remove'),
+    'triangle',
+  );
+  assert.equal(
+    changeImageTagValue(type, { type: 'dimension' }, 'dimension', 'remove'),
+    null,
+  );
+  assert.equal(
+    changeImageTagValue(family, attributes, 'custom', 'toggle'),
+    'custom',
+  );
+  assert.equal(
+    changeImageTagValue(family, attributes, 'geometry', 'remove'),
+    null,
+  );
+  const guidance = imageTagGuidance(type, attributes);
+  assert.match(
+    guidance.label,
+    /Triangle: placeholder.*Dimension annotation: placeholder/,
+  );
+  assert.equal(guidance.approvalLabel, 'Vocabulary: pending approval');
+  assert.equal(guidance.lastUpdated, '2026-10-04');
+  for (const bad of [
+    'triangle triangle',
+    'triangle unknown',
+    'triangle  dimension',
+  ]) {
+    assert.equal(
+      imageTagGuidance(type, { type: bad }).label,
+      'Unsupported value',
+    );
+  }
+  assert.deepEqual(attributes, before);
 });

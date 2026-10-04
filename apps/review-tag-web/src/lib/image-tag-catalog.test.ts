@@ -37,7 +37,7 @@ test('loads the canonical image catalog for schema-driven controls', async () =>
     description:
       'A meaningful depicted triangle, alone or in a composition. Side labels, angle labels and right-angle marks do not create separate types.',
     guide: {
-      path: 'docs/image-style-guides/type.triangle.md',
+      path: 'docs/image-style-guides/types/triangle.md',
       status: 'placeholder',
     },
     label: 'Triangle',

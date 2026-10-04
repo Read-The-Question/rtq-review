@@ -82,7 +82,7 @@ test('missing and available guidance remain distinct from renderer support', asy
   );
   value.guide = {
     status: 'available',
-    path: `docs/image-style-guides/${dimension.key}.${value.value}.md`,
+    path: `docs/image-style-guides/${dimension.key === 'family' ? 'families' : `${dimension.key}s`}/${value.value}.md`,
   };
   const guidance = imageTagGuidance(dimension, attributes);
   assert.equal(guidance.label, 'Guide available');

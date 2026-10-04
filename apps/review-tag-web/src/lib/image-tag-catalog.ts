@@ -118,7 +118,7 @@ function parseValue(
       fail(`${context}.guide.path must be null when its guide is missing.`);
     }
   } else if (guide.status === 'available' || guide.status === 'placeholder') {
-    const expectedPath = `docs/image-style-guides/${dimensionKey}.${valueKey}.md`;
+    const expectedPath = `docs/image-style-guides/${dimensionKey === 'family' ? 'families' : `${dimensionKey}s`}/${valueKey}.md`;
     if (text(guide.path, `${context}.guide.path`) !== expectedPath) {
       fail(`${context}.guide.path must be ${JSON.stringify(expectedPath)}.`);
     }

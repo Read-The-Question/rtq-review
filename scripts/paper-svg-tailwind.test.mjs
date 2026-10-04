@@ -10,7 +10,7 @@ import { createRequire } from "node:module";
 import { tmpdir } from "node:os";
 import { dirname, join, resolve } from "node:path";
 import test from "node:test";
-import { fileURLToPath } from "node:url";
+import { fileURLToPath, pathToFileURL } from "node:url";
 import postcss from "postcss";
 
 const workspace = resolve(dirname(fileURLToPath(import.meta.url)), "..");
@@ -23,16 +23,14 @@ test("review compilers discover canonical SVG utilities through the configured c
     writeFileSync(path, content);
   };
   const assets = join(fixture, "packages/assets/assets");
+  const snapshotPath = join(assets, "design-tokens/svg-colours.json");
   const consumer = join(fixture, "consumer");
   const svg = join(
     assets,
     "papers/paper/workings/generated/long-division/working.svg",
   );
   const nextUtilitySvg = join(assets, "papers/paper/questions/manual/new.svg");
-  const applications = [
-    "review-tag-web",
-    "review-question-viewer-web",
-  ];
+  const applications = ["review-tag-web", "review-question-viewer-web"];
 
   try {
     write(join(fixture, "package.json"), '{"name":"@rtq/content-workspace"}');
@@ -49,6 +47,18 @@ test("review compilers discover canonical SVG utilities through the configured c
       recursive: true,
     });
     mkdirSync(assets, { recursive: true });
+    write(
+      snapshotPath,
+      JSON.stringify({
+        version: 2,
+        themes: {
+          light: { "--color-diagrams-debug-bounds": "rgba(10, 10, 10, 0.25)" },
+          dark: {
+            "--color-diagrams-debug-bounds": "rgba(250, 250, 250, 0.25)",
+          },
+        },
+      }),
+    );
     mkdirSync(consumer);
     write(join(fixture, ".gitignore"), "/packages/assets/assets/");
     mkdirSync(join(fixture, ".git"));
@@ -80,13 +90,14 @@ test("review compilers discover canonical SVG utilities through the configured c
       );
       write(
         svg,
-        '<svg class="text-maths-working-carry text-maths-working-remainder text-foreground-strong"/>',
+        '<svg class="text-maths-working-carry text-maths-working-remainder text-foreground-strong text-diagrams-debug-bounds"/>',
       );
       const result = await compile();
       for (const utility of [
         "text-maths-working-carry",
         "text-maths-working-remainder",
         "text-foreground-strong",
+        "text-diagrams-debug-bounds",
       ]) {
         assert.ok(
           result.css.includes(`.${utility} {`),
@@ -107,11 +118,49 @@ test("review compilers discover canonical SVG utilities through the configured c
         application,
       );
       assert.ok(!result.css.includes(".underline {"), application);
+      assert.match(
+        result.css,
+        /\.text-diagrams-debug-bounds\s*\{\s*color:\s*rgba\(10, 10, 10, 0\.25\);/,
+        application,
+      );
 
       write(nextUtilitySvg, '<svg class="stroke-maths-working-carry"/>');
       assert.ok(
         (await compile()).css.includes(".stroke-maths-working-carry {"),
         application,
+      );
+    }
+    const configUrl = pathToFileURL(
+      join(workspace, "packages/repository-paths/src/tailwind-svg-sources.ts"),
+    ).href;
+    write(
+      snapshotPath,
+      JSON.stringify({
+        version: 2,
+        themes: {
+          light: { "--color-diagrams-debug-bounds": "rgba(12, 24, 36, 0.4)" },
+        },
+      }),
+    );
+    const { default: recalibrated } = await import(`${configUrl}?recalibrated`);
+    assert.equal(
+      recalibrated.theme.extend.colors["diagrams-debug-bounds"],
+      "rgba(12, 24, 36, 0.4)",
+    );
+    for (const [name, colour] of [
+      ["missing", undefined],
+      ["invalid", "red; } body { display: none; }"],
+    ]) {
+      write(
+        snapshotPath,
+        JSON.stringify({
+          version: 2,
+          themes: { light: { "--color-diagrams-debug-bounds": colour } },
+        }),
+      );
+      await assert.rejects(
+        import(`${configUrl}?${name}`),
+        /Missing or invalid diagrams-debug-bounds/,
       );
     }
   } finally {

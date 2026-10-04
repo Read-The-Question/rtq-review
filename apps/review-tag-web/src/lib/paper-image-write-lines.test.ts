@@ -36,7 +36,7 @@ const catalog: ImageTagCatalog = {
         {
           description: 'A geometric diagram.',
           guide: {
-            path: 'docs/image-style-guides/family.geometry.md',
+            path: 'docs/image-style-guides/families/geometry.md',
             status: 'placeholder',
           },
           label: 'Geometry',
@@ -57,7 +57,7 @@ const catalog: ImageTagCatalog = {
         {
           description: 'A triangle.',
           guide: {
-            path: 'docs/image-style-guides/type.triangle.md',
+            path: 'docs/image-style-guides/types/triangle.md',
             status: 'placeholder',
           },
           label: 'Triangle',

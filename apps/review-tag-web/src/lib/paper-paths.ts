@@ -43,7 +43,7 @@ export const MACROS_TOML_PATH = path.join(
 export const EXTERNAL_ASSETS_ROOT = contentPaths.assetsRoot;
 export const IMAGE_DIMENSIONAL_TAG_CATALOG_PATH = path.join(
   contentPaths.assetsPackageRoot,
-  'docs/architecture/image-dimensional-tags.json',
+  'catalogs/image-dimensional-tags.json',
 );
 
 export function resolveFolderPath(folderKey: FolderKey) {

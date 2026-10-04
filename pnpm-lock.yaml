@@ -75,6 +75,9 @@ importers:
       '@rtq/review-katex-options':
         specifier: workspace:*
         version: link:../../packages/review-katex-options
+      '@rtq/review-paper-assets':
+        specifier: workspace:*
+        version: link:../../packages/review-paper-assets
       '@rtq/review-paper-browser':
         specifier: workspace:*
         version: link:../../packages/review-paper-browser
@@ -248,6 +251,9 @@ importers:
       '@rtq/review-katex-options':
         specifier: workspace:*
         version: link:../../packages/review-katex-options
+      '@rtq/review-paper-assets':
+        specifier: workspace:*
+        version: link:../../packages/review-paper-assets
       '@rtq/review-paper-browser':
         specifier: workspace:*
         version: link:../../packages/review-paper-browser
@@ -359,6 +365,12 @@ importers:
       typescript:
         specifier: ^5
         version: 5.4.2
+
+  packages/review-paper-assets:
+    dependencies:
+      '@rtq/review-repository-paths':
+        specifier: workspace:*
+        version: link:../repository-paths
 
   packages/review-paper-browser:
     dependencies:

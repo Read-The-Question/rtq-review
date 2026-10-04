@@ -577,8 +577,11 @@ test('view options support minimal metadata and centered review panel modes', as
   assert.match(component, /label="Image tags"/);
   assert.match(component, /label="Image markers in navigation"/);
   assert.match(component, /value=\{preferences\.paperImageMode\}/);
-  assert.match(component, /<option value="all">All formats<\/option>/);
-  assert.match(component, /<option value="svg">SVG only<\/option>/);
+  assert.match(component, /<option value="all">All related assets<\/option>/);
+  assert.match(
+    component,
+    /<option value="generated">Generated preferred<\/option>/,
+  );
   assert.match(component, /value=\{preferences\.reviewPanelMode\}/);
   assert.match(component, /<option value="content">Content only<\/option>/);
   assert.match(component, /<option value="image">Image only<\/option>/);

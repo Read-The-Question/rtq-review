@@ -4,6 +4,7 @@ import { existsSync, readFileSync, statSync } from 'node:fs';
 import path from 'node:path';
 
 import { resolveRtqContentPaths } from '@rtq/review-repository-paths';
+import { prepareReviewSvg } from '@rtq/review-paper-assets';
 import type {
   ReviewAssetContext,
   ReviewContentField,
@@ -31,7 +32,7 @@ const IMAGE = /(?:%image%|TODOIMAGE|<PaperImage\b[^\n>]*\/>)/g;
 const LONG_DIVISION = /<LongDivision\b[^\n>]*\/>/g;
 const ATTRIBUTE = /([A-Za-z][A-Za-z0-9_-]*)\s*=\s*["']([^"']*)["']/g;
 const IMAGE_EXTENSIONS = ['png', 'jpg', 'jpeg', 'svg'] as const;
-const IMAGE_TAG_CATALOG = 'docs/architecture/image-dimensional-tags.json';
+const IMAGE_TAG_CATALOG = 'catalogs/image-dimensional-tags.json';
 const MISSING_IMAGE = 'papers/missing/missing_image.svg';
 const MISSING_IMAGE_SIZE = { height: 120, width: 160 } as const;
 const MDX_COMMENT = /\{\/\*[\s\S]*?\*\/\}/g;
@@ -40,7 +41,7 @@ const MDX_COMMENT = /\{\/\*[\s\S]*?\*\/\}/g;
 const ALIGNS = ['start', 'center', 'end'] as const;
 const DISPLAY_SIZES = ['sm', 'md', 'lg', 'full'] as const;
 const INDENTS = ['none', 'sm', 'md'] as const;
-const DEFAULT_ALIGN = 'center';
+const DEFAULT_ALIGN = 'start';
 const DEFAULT_DISPLAY_SIZE = 'sm';
 const DEFAULT_INDENT = 'none';
 
@@ -309,11 +310,9 @@ function ownerPath(
   context: ReviewAssetContext,
   scope: ImageScope,
   imageIndex: number,
+  provenance: 'manual' | 'generated' = 'manual',
 ): Readonly<{ metadata: string; sourceStem: string }> {
-  const owner =
-    scope === 'question'
-      ? 'questions/manual'
-      : `${scope === 'working' ? 'workings' : 'answers'}/manual`;
+  const owner = `${scope === 'question' ? 'questions' : scope === 'working' ? 'workings' : 'answers'}/${provenance === 'generated' ? 'generated/diagrams' : 'manual'}`;
   const scopeIndex =
     scope === 'working' ? context.workingIndex : context.answerIndex;
   const scopeToken =
@@ -332,15 +331,35 @@ function ownerPath(
 function imageMetadata(
   paperRoot: string,
   metadataPath: string,
+  generatedScope?: ImageScope,
 ): Readonly<{
   alt: string | null;
   altReview?: 'pending' | 'reviewed-decorative' | 'reviewed-informative';
   description: string;
+  renderMode: 'inline' | 'external';
 }> {
   try {
     const parsed = JSON.parse(
       readFileSync(path.join(paperRoot, ...metadataPath.split('/')), 'utf8'),
     ) as Record<string, unknown>;
+    if (
+      generatedScope &&
+      (!parsed ||
+        typeof parsed !== 'object' ||
+        Object.keys(parsed).sort().join() !==
+          ['alt', 'assetScope', 'description', 'renderMode', 'version']
+            .sort()
+            .join() ||
+        parsed.version !== 1 ||
+        parsed.assetScope !== generatedScope ||
+        typeof parsed.alt !== 'string' ||
+        !parsed.alt.trim() ||
+        typeof parsed.description !== 'string' ||
+        !parsed.description.trim() ||
+        (parsed.renderMode !== 'inline' && parsed.renderMode !== 'external'))
+    ) {
+      throw new Error(`Invalid generated PaperImage metadata: ${metadataPath}`);
+    }
     return {
       alt:
         parsed.alt === null || typeof parsed.alt === 'string' ? parsed.alt : '',
@@ -354,9 +373,11 @@ function imageMetadata(
               : undefined,
       description:
         typeof parsed.description === 'string' ? parsed.description : '',
+      renderMode: parsed.renderMode === 'inline' ? 'inline' : 'external',
     };
-  } catch {
-    return { alt: 'Paper image', description: '' };
+  } catch (error) {
+    if (generatedScope) throw error;
+    return { alt: 'Paper image', description: '', renderMode: 'external' };
   }
 }
 
@@ -387,10 +408,12 @@ function paperImageMarkdown(
   const layout = imageLayout(authored);
   const assetsRoot = resolveRtqContentPaths().assetsRoot;
   const paperRoot = path.join(assetsRoot, 'papers', context.paperStem);
-  const location = ownerPath(context, scope, imageIndex);
-  const matches = IMAGE_EXTENSIONS.filter((extension) =>
-    existsSync(path.join(paperRoot, `${location.sourceStem}.${extension}`)),
-  );
+  const matches = (['manual', 'generated'] as const).flatMap((provenance) => {
+    const location = ownerPath(context, scope, imageIndex, provenance);
+    return IMAGE_EXTENSIONS.filter((extension) =>
+      existsSync(path.join(paperRoot, `${location.sourceStem}.${extension}`)),
+    ).map((extension) => ({ extension, location, provenance }));
+  });
   if (matches.length === 0) {
     const missing = assetUrl(MISSING_IMAGE, {
       ...imageParams(layout, MISSING_IMAGE_SIZE),
@@ -406,6 +429,9 @@ function paperImageMarkdown(
         variants: [
           {
             format: 'Missing',
+            provenance: 'missing',
+            alt: 'Missing paper image',
+            description: '',
             ...MISSING_IMAGE_SIZE,
             src: missing,
           },
@@ -415,21 +441,50 @@ function paperImageMarkdown(
     };
   }
 
-  const metadata = imageMetadata(paperRoot, location.metadata);
-  const variants = matches.map<DisplayPaperImageVariant>((extension) => {
-    const sourcePath = `${location.sourceStem}.${extension}`;
-    const size = dimensions(paperRoot, sourcePath);
-    const relativePath = `papers/${context.paperStem}/${sourcePath}`;
-    return {
-      format: imageFormat(extension),
-      ...(size ?? {}),
-      src: assetUrl(relativePath, {
-        ...imageParams(layout, size),
-        kind: 'paper-image',
+  const variants = matches.map<DisplayPaperImageVariant>(
+    ({ extension, location, provenance }) => {
+      const metadata = imageMetadata(
+        paperRoot,
+        location.metadata,
+        provenance === 'generated' ? scope : undefined,
+      );
+      const sourcePath = `${location.sourceStem}.${extension}`;
+      const size = dimensions(paperRoot, sourcePath);
+      const relativePath = `papers/${context.paperStem}/${sourcePath}`;
+      const sizing =
+        extension === 'svg'
+          ? prepareReviewSvg(
+              path.join(paperRoot, sourcePath),
+              `${context.paperStem}-${sourcePath}`.replace(
+                /[^A-Za-z0-9_-]/g,
+                '-',
+              ),
+              metadata.renderMode,
+            )
+          : undefined;
+      return {
+        provenance,
+        alt: metadata.alt ?? '',
+        description: metadata.description,
         ...(metadata.altReview ? { altReview: metadata.altReview } : {}),
-      }),
-    };
-  });
+        ...sizing,
+        format: imageFormat(extension),
+        ...(size ?? {}),
+        src: assetUrl(relativePath, {
+          ...imageParams(layout, size),
+          ...(sizing
+            ? {
+                natural_width: String(sizing.naturalWidth),
+                minimum_width: String(sizing.minimumReadableWidth),
+              }
+            : {}),
+          kind: 'paper-image',
+          ...(metadata.altReview ? { altReview: metadata.altReview } : {}),
+        }),
+      };
+    },
+  );
+  const metadata = variants[0];
   const referenceSrc = variants[0].src;
   // Markdown's title slot transports the description; the renderer associates it
   // with the image rather than emitting an HTML title.
@@ -510,9 +565,25 @@ function longDivisionMarkdown(
       const relativePath = `papers/${context.paperStem}/${sourcePath}`;
       const title = description ? ` "${markdownTitle(description)}"` : '';
       const size = dimensions(paperRoot, sourcePath);
+      const svgPath = path.join(paperRoot, sourcePath);
+      const sizing = existsSync(svgPath)
+        ? prepareReviewSvg(
+            svgPath,
+            sourceStem.replace(/[^A-Za-z0-9_-]/g, '-'),
+            'external',
+          )
+        : undefined;
       const url = assetUrl(relativePath, {
         ...params,
         ...(size ? { h: String(size.height), w: String(size.width) } : {}),
+        ...(sizing
+          ? {
+              natural_width: String(sizing.naturalWidth),
+              minimum_width: String(sizing.minimumReadableWidth),
+              h: String(sizing.naturalHeight),
+              w: String(sizing.naturalWidth),
+            }
+          : {}),
       });
       return `![${markdownText(alt)}](${url}${title})`;
     })

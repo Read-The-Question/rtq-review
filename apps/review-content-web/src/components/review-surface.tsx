@@ -3901,8 +3901,8 @@ export function ReviewSurface({
                     }
                     value={preferences.paperImageMode}
                   >
-                    <option value="all">All formats</option>
-                    <option value="svg">SVG only</option>
+                    <option value="all">All related assets</option>
+                    <option value="generated">Generated preferred</option>
                   </select>
                 </label>
                 <PreferenceToggle

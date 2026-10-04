@@ -25,6 +25,7 @@ import type {
 } from './display-model.ts';
 
 import '../../scripts/paper-image-test-loader.mjs';
+import { installSvgToolFixture } from '../../../../packages/review-paper-assets/test/svg-tool-fixture.mjs';
 
 const { prepareReviewPaperNodeForDisplay } = await import('./prepare-paper.ts');
 const { RtqMarkdown } = await import('../components/rtq-markdown.tsx');
@@ -48,9 +49,9 @@ function fixture(t: TestContext) {
   write('package.json', '{"name":"@rtq/content-workspace"}');
   write('pnpm-workspace.yaml', 'packages: []\n');
   write('packages/papers/package.json', '{"name":"@rtq/papers"}');
-  write('packages/assets/package.json', '{"name":"@rtq/maths-assets"}');
+  installSvgToolFixture(path.join(root, 'packages/assets'));
   write(
-    'packages/assets/docs/architecture/image-dimensional-tags.json',
+    'packages/assets/catalogs/image-dimensional-tags.json',
     JSON.stringify({
       component: 'PaperImage',
       dimensions: [
@@ -201,7 +202,7 @@ function metadata(alt: string | null, description: string | null = null) {
 function render(
   markdown: string,
   options: Readonly<{
-    imageMode?: 'all' | 'svg';
+    imageMode?: 'all' | 'generated';
     paperImages?: readonly DisplayPaperImage[];
     showImageTags?: boolean;
   }> = {},
@@ -305,7 +306,10 @@ test('renders matching active formats in PNG, JPEG, SVG order', (t) => {
   const f = fixture(t);
   f.image(metadata('A geometric diagram.', 'Compare each active format.'));
   f.asset(f.sourcePath.replace(/\.png$/, '.jpeg'), 'fixture jpeg image bytes');
-  f.asset(f.sourcePath.replace(/\.png$/, '.svg'), '<svg />');
+  f.asset(
+    f.sourcePath.replace(/\.png$/, '.svg'),
+    '<svg width="480" height="360" />',
+  );
   f.asset(
     'paper-images.generated.json',
     JSON.stringify({
@@ -352,26 +356,87 @@ test('renders matching active formats in PNG, JPEG, SVG order', (t) => {
   assert.match(all, /SVG/);
   assert.match(all, /Compare each active format\./);
 
-  const svgOnly = render(prepared.rendered, {
-    imageMode: 'svg',
+  const preferred = render(prepared.rendered, {
+    imageMode: 'generated',
     paperImages: prepared.paperImages,
   });
-  assert.equal(imageTags(svgOnly).length, 1);
-  assert.match(imageTags(svgOnly)[0], /i00\.svg/);
+  assert.equal(imageTags(preferred).length, 1);
+  assert.match(imageTags(preferred)[0], /i00\.png/);
 });
 
-test('SVG-only mode falls back to the first active raster format', (t) => {
+test('generated preference falls back to the first active manual format', (t) => {
   const f = fixture(t);
   f.image(metadata('A raster diagram.'));
   f.asset(f.sourcePath.replace(/\.png$/, '.jpg'), 'fixture jpeg image bytes');
   const prepared = f.prepareDisplay();
   const html = render(prepared.rendered, {
-    imageMode: 'svg',
+    imageMode: 'generated',
     paperImages: prepared.paperImages,
   });
   assert.equal(imageTags(html).length, 1);
   assert.match(imageTags(html)[0], /i00\.png/);
 });
+
+for (const scope of ['question', 'working', 'answer'] as const) {
+  for (const renderMode of ['inline', 'external'] as const) {
+    test(`compares ${scope} manual and generated ${renderMode} artwork with independent wording`, (t) => {
+      const f = fixture(t);
+      const owner = `${scope}s`;
+      const slot =
+        scope === 'question' ? '' : scope === 'working' ? '-w01' : '-a01';
+      const stem = `s01-q01${slot}-i00`;
+      f.image(
+        {
+          ...metadata('Original screenshot', 'Original description.'),
+          assetScope: scope,
+        },
+        `${owner}/manual/${stem}.png`,
+      );
+      f.asset(
+        `${owner}/generated/diagrams/${stem}.svg`,
+        '<svg width="320.5" height="200" viewBox="0 0 320.5 200"><path d="M0 0L100 0L0 100Z"/></svg>',
+      );
+      f.asset(
+        `${owner}/generated/diagrams/${stem}.json`,
+        JSON.stringify({
+          ...metadata('Generated triangle', 'Generated description.'),
+          assetScope: scope,
+          renderMode,
+        }),
+      );
+      const prepared = f.prepareDisplay(
+        `<PaperImage assetScope="${scope}" family="geometry" type="triangle" displaySize="sm" />`,
+        scope,
+      );
+      assert.equal(prepared.paperImages?.length, 1);
+      assert.deepEqual(
+        prepared.paperImages?.[0].variants.map((variant) => variant.provenance),
+        ['manual', 'generated'],
+      );
+      const all = render(prepared.rendered, {
+        paperImages: prepared.paperImages,
+        imageMode: 'all',
+      });
+      assert.match(all, /Original screenshot/);
+      assert.match(all, /Generated triangle/);
+      assert.match(all, /Original description/);
+      assert.match(all, /Generated description/);
+      assert.match(all, /max-width:320\.5px/);
+      assert.match(all, /min-width:240\.375px/);
+      assert.match(all, /tabindex="0"/);
+      if (renderMode === 'inline') assert.match(all, /rtq-review-inline-svg/);
+      const preferred = render(prepared.rendered, {
+        paperImages: prepared.paperImages,
+        imageMode: 'generated',
+      });
+      assert.doesNotMatch(
+        preferred,
+        /Original screenshot|Original description/,
+      );
+      assert.match(preferred, /Generated triangle/);
+    });
+  }
+}
 
 for (const [alt, state] of [
   [null, 'pending'],
@@ -399,7 +464,7 @@ for (const [alt, state] of [
     assert.match(image, /width="160"/);
     assert.match(image, /height="120"/);
     assert.doesNotMatch(image, /aria-describedby|title=/);
-    assert.match(html, /data-align="center"/);
+    assert.match(html, /data-align="start"/);
     assert.match(html, /data-indent="none"/);
     assert.match(html, /data-size="sm"/);
     assert.deepEqual(f.snapshot(), before);

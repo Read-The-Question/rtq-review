@@ -57,10 +57,27 @@ JSON metadata and generated LongDivision sources remain non-public, with
 LongDivision prepared inline by the canonical asset-repository command. No
 paper assets are mirrored into this repository's `public/` tree.
 
-Manual images use `questions/manual/`, `workings/manual/`, or
-`answers/manual/`; sidecar and technical-manifest lookups use the same paths.
-Old flat question URLs are not served. `PaperImage` authoring and generated
-long-division paths are unchanged. Doctor is not a reviewer build/startup gate.
+`PaperImage` discovers both `manual/` and `generated/diagrams/` beneath
+`questions/`, `workings/`, or `answers/`. Each variant uses its own sidecar and
+technical metadata. “All related assets” compares both provenances at the
+same authored occurrence; “Generated preferred” selects generated artwork
+when present and otherwise the first manual variant. Provenance comes from
+the directory, not the extension. The former `svg` preference migrates to
+generated preference. Image tags do not select a renderer or create additional
+occurrences.
+
+Real SVGs use natural size, shrink proportionally to 75%, then scroll locally
+within the width remaining after indentation; they never enlarge automatically.
+`displaySize` affects raster images only. Alignment defaults to logical start
+and indentation to none, while explicit placement remains supported. Both
+external and inline SVG delivery use the canonical assets preparation command
+through `@rtq/review-paper-assets`; the reviewer compiles scoped inline
+utilities from the retained light palette, not production dark-mode styling.
+Restart after changing the preparation tool itself.
+
+Old flat question URLs are not served. JSON sidecars and source recipes remain
+private. `PaperImage` authoring and generated long-division paths are unchanged.
+Doctor is not a reviewer build/startup gate.
 
 Question Tags and Image Tags are separate review modes. Image Tags discovers
 authored `PaperImage` components in question, working, and answer fields and
@@ -78,7 +95,7 @@ inheritance exceptions, while Image Tags marks direct image counts and missing
 assets and retains ancestor nodes as context.
 
 The vocabulary and drawing-guide contract are read from the canonical
-[`image-dimensional-tags.json`](https://github.com/Read-The-Question/rtq-content/blob/develop/packages/assets/docs/architecture/image-dimensional-tags.json)
+[`image-dimensional-tags.json`](https://github.com/Read-The-Question/rtq-content/blob/develop/packages/assets/catalogs/image-dimensional-tags.json)
 version-5 catalog owned by `@rtq/maths-assets`. The editor supports one optional
 family and multiple optional types, without cross-dimension prerequisites,
 and validates every member of the complete assignment before a

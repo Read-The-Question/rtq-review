@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "@rtq/review-katex-options": "workspace:*",
+    "@rtq/review-paper-assets": "workspace:*",
     "@rtq/review-paper-browser": "workspace:*",
     "@rtq/review-paper-markdown": "workspace:*",
     "@rtq/review-paper-model": "workspace:*",

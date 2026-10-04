@@ -20,7 +20,7 @@ export const INITIAL_REVIEW_PREFERENCES_KEY =
 export const OLDEST_REVIEW_PREFERENCES_KEY =
   'rtq.review-content.preferences.v5';
 
-export type PaperImageMode = 'all' | 'svg';
+export type PaperImageMode = 'all' | 'generated';
 export type ReviewControlMode = 'advanced' | 'simple';
 export type ReviewContext = 'answer' | 'question';
 export type ReviewPanelMode = 'both' | 'content' | 'image';
@@ -215,8 +215,9 @@ export function parseReviewPreferences(
 
   return {
     paperImageMode:
-      requestedPaperImageMode === 'all' || requestedPaperImageMode === 'svg'
-        ? requestedPaperImageMode
+      requestedPaperImageMode === 'generated' ||
+      requestedPaperImageMode === 'svg'
+        ? 'generated'
         : DEFAULT_REVIEW_PREFERENCES.paperImageMode,
     reviewControlMode:
       requestedControlMode === 'advanced' || requestedControlMode === 'simple'

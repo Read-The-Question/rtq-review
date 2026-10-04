@@ -17,6 +17,15 @@ export type DisplayPaperImageTag = Readonly<{
 }>;
 
 export type DisplayPaperImageVariant = Readonly<{
+  provenance: 'manual' | 'generated' | 'missing';
+  alt: string;
+  altReview?: 'pending' | 'reviewed-decorative' | 'reviewed-informative';
+  description: string;
+  naturalWidth?: number;
+  naturalHeight?: number;
+  minimumReadableWidth?: number;
+  svgMarkup?: string;
+  svgCss?: string;
   format: 'JPEG' | 'Missing' | 'PNG' | 'SVG';
   height?: number;
   src: string;

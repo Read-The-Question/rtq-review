@@ -6,6 +6,8 @@ import { tmpdir } from 'node:os';
 import path from 'node:path';
 import test from 'node:test';
 
+import { installSvgToolFixture } from '../../../../packages/review-paper-assets/test/svg-tool-fixture.mjs';
+
 test('PaperImage family/type is rendering-neutral across scopes, nesting and formats', async t => {
   const root = mkdtempSync(path.join(tmpdir(), 'rtq-image-family-'));
   const previousRoot = process.env.RTQ_CONTENT_ROOT;
@@ -39,7 +41,7 @@ test('PaperImage family/type is rendering-neutral across scopes, nesting and for
   write('package.json', '{"name":"@rtq/content-workspace"}');
   write('pnpm-workspace.yaml', 'packages: []\n');
   write('packages/papers/package.json', '{"name":"@rtq/papers"}');
-  write('packages/assets/package.json', '{"name":"@rtq/maths-assets"}');
+  installSvgToolFixture(path.join(root, 'packages/assets'));
   mkdirSync(path.join(root, 'packages/papers/papers/toml'), {
     recursive: true,
   });
@@ -71,7 +73,7 @@ test('PaperImage family/type is rendering-neutral across scopes, nesting and for
         const stem = `${owner}/manual/${prefix}${slot}-i0${index}`;
         const source =
           format === 'svg'
-            ? '<svg viewBox="0 0 160 120"></svg>'
+            ? '<svg width="160" height="120" viewBox="0 0 160 120"></svg>'
             : 'image bytes';
         write(`${paperRoot}/${stem}.${format}`, source);
         write(
@@ -92,7 +94,8 @@ test('PaperImage family/type is rendering-neutral across scopes, nesting and for
         };
       }
       const firstStem = `${owner}/manual/${prefix}${slot}-i00`;
-      const firstSvg = '<svg viewBox="0 0 320 240"></svg>';
+      const firstSvg =
+        '<svg width="320" height="240" viewBox="0 0 320 240"></svg>';
       write(`${paperRoot}/${firstStem}.svg`, firstSvg);
       assets[`${firstStem}.svg`] = {
         fingerprint: `sha256:${createHash('sha256').update(firstSvg).digest('hex')}`,
@@ -139,17 +142,52 @@ test('PaperImage family/type is rendering-neutral across scopes, nesting and for
       );
       assert.match(
         baseline,
-        /class="paper-image-group" data-has-svg="true" data-variant-count="2"/,
+        /class="paper-image-group" data-has-generated="false" data-variant-count="2"/,
       );
-      assert.match(baseline, /data-format="png" data-primary="true"/);
-      assert.match(baseline, /data-format="svg" data-primary="false"/);
-      assert.match(baseline, />PNG<\/span>/);
-      assert.match(baseline, />SVG<\/span>/);
+      assert.match(
+        baseline,
+        /data-format="png" data-provenance="manual" data-primary="true"/,
+      );
+      assert.match(
+        baseline,
+        /data-format="svg" data-provenance="manual" data-primary="false"/,
+      );
+      assert.match(baseline, />manual · PNG<\/span>/);
+      assert.match(baseline, />manual · SVG<\/span>/);
       assert.equal(
         (baseline.match(/data-rtq-placeholder="todo-image"/g) ?? []).length,
         2,
       );
       assert.doesNotMatch(baseline, /(?:family|type)=|venn/);
+      const generatedStem = `${owner}/generated/diagrams/${prefix}${slot}-i00`;
+      write(`${paperRoot}/${generatedStem}.svg`, firstSvg);
+      write(
+        `${paperRoot}/${generatedStem}.json`,
+        JSON.stringify({
+          version: 1,
+          assetScope: scope,
+          alt: 'Generated triangle',
+          description: 'Generated description.',
+          renderMode: depth === 1 ? 'inline' : 'external',
+        }),
+      );
+      assets[`${generatedStem}.svg`] = assets[`${firstStem}.svg`];
+      write(
+        `${paperRoot}/paper-images.generated.json`,
+        JSON.stringify({ assets, version: 1 }),
+      );
+      const comparison = enrichRtqMarkdown(source, context, options);
+      assert.match(
+        comparison,
+        /data-has-generated="true" data-variant-count="3"/,
+      );
+      assert.match(comparison, /data-provenance="generated"/);
+      assert.match(comparison, /Generated triangle/);
+      assert.match(comparison, /Generated description/);
+      assert.match(comparison, /The sets overlap/);
+      if (depth === 1) assert.match(comparison, /rtq-review-inline-svg/);
+      rmSync(path.join(root, paperRoot, `${generatedStem}.svg`));
+      rmSync(path.join(root, paperRoot, `${generatedStem}.json`));
       assert.throws(
         () =>
           enrichRtqMarkdown(

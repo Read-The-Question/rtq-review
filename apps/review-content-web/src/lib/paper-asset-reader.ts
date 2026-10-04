@@ -69,9 +69,10 @@ function allowedSubpath(segments: readonly string[]): boolean {
     return true;
   }
   return (
-    (scope === 'workings' || scope === 'answers') &&
+    (scope === 'questions' || scope === 'workings' || scope === 'answers') &&
     provenance === 'generated' &&
-    kind === 'long-division' &&
+    (kind === 'diagrams' ||
+      (kind === 'long-division' && scope !== 'questions')) &&
     Boolean(file)
   );
 }

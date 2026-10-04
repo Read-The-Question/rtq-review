@@ -25,7 +25,7 @@
     "review-tag-web:dev": "pnpm --filter rtq-review-tag-web dev --port 3002",
     "review-question-viewer-web:dev": "pnpm --filter rtq-review-question-viewer-web dev --port 3003",
     "review-stack:smoke": "node scripts/review-stack-smoke.mjs",
-    "test": "pnpm --filter @rtq/review-paper-browser test && pnpm --filter @rtq/review-paper-model test && pnpm --filter @rtq/review-paper-markdown test && pnpm --filter @rtq/review-katex-options test && pnpm --filter @rtq/review-store test && pnpm --filter rtq-review-content-web test && pnpm --filter rtq-review-tag-web test",
+    "test": "pnpm --filter @rtq/review-paper-browser test && pnpm --filter @rtq/review-paper-model test && pnpm --filter @rtq/review-paper-markdown test && pnpm --filter @rtq/review-paper-assets test && pnpm --filter @rtq/review-katex-options test && pnpm --filter @rtq/review-store test && pnpm --filter rtq-review-content-web test && pnpm --filter rtq-review-tag-web test",
     "types": "pnpm --filter @rtq/review-paper-browser types && pnpm --filter @rtq/review-paper-model types && pnpm --filter @rtq/review-paper-markdown types && pnpm --filter @rtq/review-katex-options types && pnpm --filter @rtq/review-store types && pnpm --filter rtq-review-content-web types && pnpm --filter rtq-review-tag-web types"
   },
   "devDependencies": {

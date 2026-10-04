@@ -69,12 +69,24 @@ uses a stable route shaped as `/papers/<collection>/<source-relative-path>`.
 
 ## Live source behavior
 
-Manual `PaperImage` assets resolve through `questions/manual/`,
-`workings/manual/`, or `answers/manual/` beneath the canonical paper folder.
-The same paths select adjacent sidecars and technical-manifest entries. The
+`PaperImage` variants resolve through `<owner>/manual/` and
+`<owner>/generated/diagrams/` beneath the canonical paper folder, for questions,
+workings and answers. Each path selects its own adjacent sidecar and technical
+metadata. **All related assets** compares both locations; **Generated preferred**
+uses generated artwork when present and otherwise the first manual variant.
+Saved SVG preference values migrate to generated preference. Provenance is
+folder-based, not an SVG/raster distinction. The
 asset route rejects old flat question URLs and does not expose sidecars.
 Existing generated long-division routes are unchanged. No doctor check is
 added to reviewer builds, startup, or requests.
+
+SVGs retain their intentional natural size, shrink proportionally to the
+shared 75% floor and then scroll locally. `displaySize` caps remain raster-only;
+alignment defaults to start and indentation to none. Inline and external SVGs
+use the shared [SVG preparation bridge](../../packages/review-paper-assets/README.md).
+Inline utilities compile from the actual SVG against the retained light palette,
+scoped to the SVG host. Current review surfaces are light-only, not production
+dark-mode parity.
 
 `PaperImage` attributes `family` and `type` are occurrence-local authoring
 metadata. The raw source retains them; preparation ignores them for rendering,
@@ -82,7 +94,7 @@ URLs and accessibility, without adding a value/pair validation gate or changing
 incomplete-content handling. Classification validation belongs to the tag editor
 and production preparation, not this preview. The versioned vocabulary,
 independent family/type values, guide status and last-updated metadata are owned by
-[assets image dimensional tags](https://github.com/Read-The-Question/rtq-content/blob/develop/packages/assets/docs/architecture/image-dimensional-tags.md).
+[assets image dimensional tags](https://github.com/Read-The-Question/rtq-content/blob/develop/packages/assets/docs/reference/image-dimensional-tags.md).
 The version-5 display reads one family and space-separated type members, showing
 each member independently (including unsupported values for correction).
 This does not dispatch primitives, hide images or change accessibility.
@@ -95,9 +107,11 @@ sidecars. Descriptions use image-specific `aria-describedby` associations to
 hidden text rather than hover titles. Ordinary Markdown image titles and
 generated long-division rendering retain their existing behaviour.
 
-The reviewer deliberately tolerates missing images, missing or malformed
-sidecars, and missing or invalid technical-manifest entries using its existing
-fallbacks. A rendered preview is not evidence that assets pass production
+The reviewer deliberately retains its existing incomplete-manual-asset
+fallbacks. Existing generated diagrams require valid scope, delivery and
+informative wording. SVG preparation errors (including missing intentional
+dimensions) surface as field preparation issues rather than silently falling
+back to a manual image. A rendered preview is not evidence that assets pass production
 validation. Run `assets:doctor` in `rtq-content/packages/assets` for warnings,
 or `assets:doctor:strict` for the strict asset/metadata gate. Authoring
 validation remains a separate source/production-tooling responsibility; doctor
@@ -198,8 +212,10 @@ or page size starts again from the first result.
   move through matching top-level question trees. The left question rail is
   built from that same filtered result and links to every displayed hierarchy
   level.
-- All TOML and assets remain read-only. The asset route exposes only question
-  images, manual working/answer images, and generated long-division SVGs.
+- All TOML and assets remain read-only. The asset route exposes allowlisted
+  binaries in each owner's `manual/` and `generated/diagrams/` directories,
+  plus supported generated long-division SVGs. Sidecars and source recipes
+  remain private.
 
 ## Review persistence
 

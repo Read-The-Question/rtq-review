@@ -117,6 +117,42 @@ test('serves manual working and answer PaperImage assets', async t => {
   }
 });
 
+test('serves generated diagrams for all owners without exposing sidecars', async t => {
+  const fixture = await createFixture();
+  t.after(fixture.cleanup);
+  for (const owner of ['questions', 'workings', 'answers']) {
+    const directory = path.join(
+      fixture.paperRoot,
+      owner,
+      'generated',
+      'diagrams',
+    );
+    await fs.mkdir(directory, { recursive: true });
+    await fs.writeFile(
+      path.join(directory, 's01-q01-i00.svg'),
+      '<svg width="100" height="50"/>',
+    );
+    await fs.writeFile(
+      path.join(directory, 's01-q01-i00.json'),
+      '{"private":true}',
+    );
+    const route = `papers/alpha-school/2020/paper-1/${owner}/generated/diagrams/s01-q01-i00`;
+    const response = await createPaperAssetResponse(`${route}.svg`, {
+      assetsRoot: fixture.assetsRoot,
+    });
+    assert.equal(response.status, 200);
+    assert.match(await response.text(), /<svg/);
+    assert.equal(
+      (
+        await createPaperAssetResponse(`${route}.json`, {
+          assetsRoot: fixture.assetsRoot,
+        })
+      ).status,
+      415,
+    );
+  }
+});
+
 test('uses the canonical missing image for an absent file in a known paper', async t => {
   const fixture = await createFixture();
   t.after(fixture.cleanup);

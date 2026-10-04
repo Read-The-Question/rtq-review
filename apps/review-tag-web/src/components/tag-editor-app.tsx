@@ -23,7 +23,10 @@ import { NodeDocument } from '@/components/node-document';
 import { PaperPdfPane } from '@/components/paper-pdf-pane';
 import { Separator } from '@/components/ui/separator';
 import { isReadOnlyFolder } from '@/lib/paper-folder-metadata';
-import type { PaperImageMode } from '@/lib/paper-image-mode';
+import {
+  type PaperImageMode,
+  parsePaperImageMode,
+} from '@/lib/paper-image-mode';
 import type { PaperPdf } from '@/lib/paper-pdf';
 import type {
   ImageTagCatalog,
@@ -88,7 +91,7 @@ export function TagEditorApp({
         PAPER_IMAGE_MODE_STORAGE_KEY,
       );
       setMode(storedMode === 'image' ? 'image' : 'question');
-      setPaperImageMode(storedPaperImageMode === 'svg' ? 'svg' : 'all');
+      setPaperImageMode(parsePaperImageMode(storedPaperImageMode));
       setShowPdf(
         pdf?.state === 'available' &&
           window.localStorage.getItem(PDF_VISIBILITY_STORAGE_KEY) === 'true',
@@ -283,8 +286,8 @@ export function TagEditorApp({
                 setPaperImageMode(event.target.value as PaperImageMode)
               }
               value={paperImageMode}>
-              <option value="all">All formats</option>
-              <option value="svg">SVG only</option>
+              <option value="all">All related assets</option>
+              <option value="generated">Generated preferred</option>
             </select>
           </label>
           {pdf?.state === 'available' ? (

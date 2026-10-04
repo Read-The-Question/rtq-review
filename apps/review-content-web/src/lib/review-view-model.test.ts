@@ -82,7 +82,7 @@ test('preferences survive partial and malformed local values', () => {
   );
   assert.equal(
     parseReviewPreferences('{"paperImageMode":"svg"}').paperImageMode,
-    'svg',
+    'generated',
   );
   assert.equal(
     parseReviewPreferences('{"paperImageMode":"unsupported"}').paperImageMode,
@@ -114,7 +114,7 @@ test('preferences survive partial and malformed local values', () => {
       null,
       '{"showQuestionStatusInfo":false,"showImageStatusInfo":false,"showImageTags":false,"showImageMarkers":false,"paperImageMode":"svg"}',
     ).paperImageMode,
-    'svg',
+    'generated',
   );
   assert.equal(
     parseReviewPreferences(

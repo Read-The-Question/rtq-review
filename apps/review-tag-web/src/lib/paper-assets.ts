@@ -3,6 +3,10 @@ import { existsSync, readFileSync } from 'node:fs';
 import path from 'node:path';
 
 import {
+  type PreparedReviewSvg,
+  prepareReviewSvg,
+} from '@rtq/review-paper-assets';
+import {
   toPaperListCompatibilityMarkdown,
   toPaperMdxCompatibilityMarkdown,
   toPaperSymbolCompatibilityMarkdown,
@@ -116,6 +120,14 @@ type PaperImageTechnicalEntry = {
   format: (typeof PAPER_IMAGE_EXTENSIONS)[number];
   intrinsicHeight: number;
   intrinsicWidth: number;
+};
+type PaperImageVariant = {
+  extension: (typeof PAPER_IMAGE_EXTENSIONS)[number] | undefined;
+  relativePath: string;
+  technical: PaperImageTechnicalEntry;
+  metadata: PaperImageMetadata;
+  provenance: 'manual' | 'generated';
+  svg?: PreparedReviewSvg;
 };
 
 function escapeHtmlAttribute(value: string) {
@@ -373,7 +385,7 @@ function normalizePaperImageDisplaySize(value: string | undefined) {
 }
 
 function normalizePaperImageAlign(value: string | undefined) {
-  if (value === undefined) return 'center';
+  if (value === undefined) return 'start';
   if (['start', 'center', 'end'].includes(value)) return value;
   throw new Error(
     `Unsupported PaperImage align: ${JSON.stringify(value)}; expected start, center, or end.`,
@@ -397,36 +409,49 @@ function paperImageAssetRelativePaths(
   scopeIndex: number | undefined,
   imageIndex: number,
 ) {
-  const ownerSegments =
+  const owner =
     assetScope === 'question'
-      ? ['questions', 'manual']
-      : [assetScope === 'working' ? 'workings' : 'answers', 'manual'];
+      ? 'questions'
+      : assetScope === 'working'
+        ? 'workings'
+        : 'answers';
   const scopeToken =
     assetScope === 'question'
       ? ''
       : `-${assetScope === 'working' ? 'w' : 'a'}${String((scopeIndex ?? 0) + 1).padStart(2, '0')}`;
 
-  const logicalPath = [
-    'papers',
-    ...paperAssetPathSegments(context.assetFileStem ?? context.fileStem),
-    ...ownerSegments,
-    `${compactAssetPrefix(context)}${scopeToken}-i${String(imageIndex).padStart(2, '0')}`,
-  ].join('/');
-  const sourceRelativeStem = [
-    ...ownerSegments,
-    `${compactAssetPrefix(context)}${scopeToken}-i${String(imageIndex).padStart(2, '0')}`,
-  ].join('/');
-  const extensions = resolveCanonicalPaperImageExtensions(
-    context.assetFileStem ?? context.fileStem,
-    sourceRelativeStem,
-    EXTERNAL_ASSETS_ROOT,
+  const basename = `${compactAssetPrefix(context)}${scopeToken}-i${String(imageIndex).padStart(2, '0')}`;
+  const locations = (['manual', 'generated'] as const).map(provenance => {
+    const sourceRelativeStem = `${owner}/${provenance === 'generated' ? 'generated/diagrams' : 'manual'}/${basename}`;
+    const logicalPath = [
+      'papers',
+      ...paperAssetPathSegments(context.assetFileStem ?? context.fileStem),
+      sourceRelativeStem,
+    ].join('/');
+    return { provenance, sourceRelativeStem, logicalPath };
+  });
+  const matches = locations.flatMap(location =>
+    resolveCanonicalPaperImageExtensions(
+      context.assetFileStem ?? context.fileStem,
+      location.sourceRelativeStem,
+      EXTERNAL_ASSETS_ROOT,
+    ).map(extension => ({
+      provenance: location.provenance,
+      extension,
+      relativePath: `${location.logicalPath}.${extension}`,
+      sourceRelativePath: `${location.sourceRelativeStem}.${extension}`,
+    })),
   );
-
-  return (extensions.length ? extensions : [undefined]).map(extension => ({
-    extension,
-    relativePath: `${logicalPath}.${extension ?? 'png'}`,
-    sourceRelativePath: `${sourceRelativeStem}.${extension ?? 'png'}`,
-  }));
+  return matches.length
+    ? matches
+    : [
+        {
+          provenance: 'manual' as const,
+          extension: undefined,
+          relativePath: `${locations[0].logicalPath}.png`,
+          sourceRelativePath: `${locations[0].sourceRelativeStem}.png`,
+        },
+      ];
 }
 
 export function paperImageAssetState(
@@ -506,11 +531,16 @@ function paperImageMetadata(
   scopeIndex: number | undefined,
   imageIndex: number,
   extension: (typeof PAPER_IMAGE_EXTENSIONS)[number] | undefined,
+  provenance: 'manual' | 'generated' = 'manual',
 ): PaperImageMetadata {
-  const ownerSegments =
+  const ownerSegments = [
     assetScope === 'question'
-      ? ['questions', 'manual']
-      : [assetScope === 'working' ? 'workings' : 'answers', 'manual'];
+      ? 'questions'
+      : assetScope === 'working'
+        ? 'workings'
+        : 'answers',
+    ...(provenance === 'generated' ? ['generated', 'diagrams'] : ['manual']),
+  ];
   const scopeToken =
     assetScope === 'question'
       ? ''
@@ -568,9 +598,15 @@ function paperImageMetadata(
       `Incompatible PaperImage metadata at ${metadataPath}: raster or missing assets require external rendering.`,
     );
   }
-  if (metadata.renderMode === 'inline') {
+  if (
+    provenance === 'generated' &&
+    (typeof metadata.alt !== 'string' ||
+      !metadata.alt.trim() ||
+      typeof metadata.description !== 'string' ||
+      !metadata.description.trim())
+  ) {
     throw new Error(
-      `Inline PaperImage SVG is not supported by this review renderer: ${metadataPath}`,
+      `Generated PaperImage requires informative alt and description: ${metadataPath}`,
     );
   }
   return metadata as PaperImageMetadata;
@@ -680,14 +716,13 @@ function paperImageFormat(
 
 function paperImageVariantMarkup(
   componentKey: string,
-  relativePath: string,
-  extension: (typeof PAPER_IMAGE_EXTENSIONS)[number] | undefined,
+  variant: PaperImageVariant,
   assetScope: PaperImageAssetScope,
-  metadata: PaperImageMetadata,
-  technical: PaperImageTechnicalEntry,
   primary: boolean,
   showFormat: boolean,
 ) {
+  const { relativePath, extension, metadata, technical, provenance, svg } =
+    variant;
   const attrs = parseComponentAttributes(componentKey);
   const kind = attrs.kind ?? 'essential';
   const displaySize = normalizePaperImageDisplaySize(attrs.displaySize);
@@ -710,45 +745,45 @@ function paperImageVariantMarkup(
 
   const format = paperImageFormat(extension);
   const formatLabel = showFormat
-    ? `<span class="paper-image-format">${format}</span>`
+    ? `<span class="paper-image-format">${provenance} · ${format}</span>`
     : '';
 
-  return `<div class="paper-image-variant" data-format="${extension ?? 'missing'}" data-primary="${primary}">${formatLabel}<div class="paper-image-layout" data-indent="${indent}"><img src="${escapeHtmlAttribute(`${API_ASSET_PREFIX}/${relativePath}`)}" alt="${escapeHtmlAttribute(
-    alt,
-  )}" width="${technical.intrinsicWidth}" height="${technical.intrinsicHeight}"${describedBy} data-slot="paper-image" data-alt-review="${reviewState}" data-kind="${escapeHtmlAttribute(
-    kind,
-  )}" data-asset-scope="${escapeHtmlAttribute(assetScope)}" data-display-size="${escapeHtmlAttribute(displaySize)}" data-align="${escapeHtmlAttribute(
-    align,
-  )}" data-indent="${indent}" class="paper-image" style="${escapeHtmlAttribute(paperImageStyle(displaySize, align))}" /></div>${description}</div>`;
+  const attributes = `data-slot="paper-image" data-alt-review="${reviewState}" data-kind="${escapeHtmlAttribute(kind)}" data-asset-scope="${assetScope}" data-display-size="${displaySize}" data-align="${align}" data-indent="${indent}"`;
+  const visual = svg?.svgMarkup
+    ? `<span ${alt ? `role="img" aria-label="${escapeHtmlAttribute(alt)}"` : ''}${describedBy} ${attributes} class="paper-svg-inline rtq-review-inline-svg">${svg.svgMarkup}</span>`
+    : `<img src="${escapeHtmlAttribute(`${API_ASSET_PREFIX}/${relativePath}`)}" alt="${escapeHtmlAttribute(
+        alt,
+      )}" width="${technical.intrinsicWidth}" height="${technical.intrinsicHeight}"${describedBy} ${attributes} class="${svg ? 'paper-svg-image' : 'paper-image'}"${svg ? '' : ` style="${escapeHtmlAttribute(paperImageStyle(displaySize, align))}"`} />`;
+  const graphic = svg
+    ? `<div class="paper-svg-scroll" role="group" aria-label="Scrollable image" tabindex="0" data-align="${align}" style="max-width:${svg.naturalWidth}px"><div class="paper-svg-graphic" style="min-width:${svg.minimumReadableWidth}px">${visual}</div></div>`
+    : visual;
+  const css = svg?.svgCss
+    ? `<style>${svg.svgCss.replaceAll('<', '\\3c ')}</style>`
+    : '';
+  return `<div class="paper-image-variant" data-format="${extension ?? 'missing'}" data-provenance="${provenance}" data-primary="${primary}">${css}${formatLabel}<div class="paper-image-layout" data-indent="${indent}">${graphic}</div>${description}</div>`;
 }
 
 function paperImageMarkup(
   componentKey: string,
-  variants: readonly {
-    extension: (typeof PAPER_IMAGE_EXTENSIONS)[number] | undefined;
-    relativePath: string;
-    technical: PaperImageTechnicalEntry;
-  }[],
+  variants: readonly PaperImageVariant[],
   assetScope: PaperImageAssetScope,
-  metadata: PaperImageMetadata,
 ) {
-  const hasSvg = variants.some(variant => variant.extension === 'svg');
+  const hasGenerated = variants.some(
+    variant => variant.provenance === 'generated',
+  );
   const showFormat = variants.length > 1;
   const markup = variants
     .map((variant, index) =>
       paperImageVariantMarkup(
         componentKey,
-        variant.relativePath,
-        variant.extension,
+        variant,
         assetScope,
-        metadata,
-        variant.technical,
         index === 0,
         showFormat,
       ),
     )
     .join('');
-  return `<div class="paper-image-group" data-has-svg="${hasSvg}" data-variant-count="${variants.length}">${markup}</div>`;
+  return `<div class="paper-image-group" data-has-generated="${hasGenerated}" data-variant-count="${variants.length}">${markup}</div>`;
 }
 
 function longDivisionMarkup(
@@ -766,7 +801,7 @@ function longDivisionMarkup(
   );
   const descriptionId = `long-division-${sourceRelativePath.replace(/[^a-zA-Z0-9]+/g, '-')}-description`;
 
-  return `<div class="paper-long-division-alignment" data-align="${align}" data-indent="${indent}"><div role="img" aria-label="${escapeHtmlAttribute(prepared.alt)}" aria-describedby="${escapeHtmlAttribute(descriptionId)}" data-slot="long-division" data-variant="${variant}" class="paper-long-division-viewport" style="--long-division-natural-width:${prepared.naturalWidth}px;--long-division-minimum-readable-width:${prepared.minimumReadableWidth}px"><div aria-hidden="true" class="paper-long-division-graphic">${prepared.svgMarkup}</div></div><span id="${escapeHtmlAttribute(descriptionId)}" class="sr-only">${escapeHtmlAttribute(prepared.description)}</span></div>`;
+  return `<div class="paper-long-division-alignment" data-align="${align}" data-indent="${indent}"><div role="img" tabindex="0" aria-label="${escapeHtmlAttribute(prepared.alt)}" aria-describedby="${escapeHtmlAttribute(descriptionId)}" data-slot="long-division" data-variant="${variant}" class="paper-long-division-viewport" style="--long-division-natural-width:${prepared.naturalWidth}px;--long-division-minimum-readable-width:${prepared.minimumReadableWidth}px"><div aria-hidden="true" class="paper-long-division-graphic">${prepared.svgMarkup}</div></div><span id="${escapeHtmlAttribute(descriptionId)}" class="sr-only">${escapeHtmlAttribute(prepared.description)}</span></div>`;
 }
 
 function replacePaperImages(
@@ -813,23 +848,40 @@ function replacePaperImages(
       scopeIndex,
       imageIndex,
     );
-    const metadata = paperImageMetadata(
-      context,
-      expectedScope,
-      scopeIndex,
-      imageIndex,
-      resolutions[0].extension,
-    );
-    const variants = resolutions.map(resolution => ({
-      extension: resolution.extension,
-      relativePath: resolution.relativePath,
-      technical: paperImageTechnicalEntry(
+    const variants = resolutions.map(resolution => {
+      const metadata = paperImageMetadata(
         context,
-        resolution.sourceRelativePath,
+        expectedScope,
+        scopeIndex,
+        imageIndex,
         resolution.extension,
-      ),
-    }));
-    const markup = paperImageMarkup(match, variants, expectedScope, metadata);
+        resolution.provenance,
+      );
+      const svg =
+        resolution.extension === 'svg'
+          ? prepareReviewSvg(
+              path.join(
+                EXTERNAL_ASSETS_ROOT,
+                'papers',
+                context.assetFileStem ?? context.fileStem,
+                resolution.sourceRelativePath,
+              ),
+              resolution.relativePath.replace(/[^A-Za-z0-9_-]/g, '-'),
+              metadata.renderMode,
+            )
+          : undefined;
+      return {
+        ...resolution,
+        metadata,
+        svg,
+        technical: paperImageTechnicalEntry(
+          context,
+          resolution.sourceRelativePath,
+          resolution.extension,
+        ),
+      };
+    });
+    const markup = paperImageMarkup(match, variants, expectedScope);
     imageIndex += 1;
     return markup;
   });

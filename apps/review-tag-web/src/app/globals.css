@@ -1056,6 +1056,70 @@ kbd {
   gap: 0.75rem;
 }
 
+.tag-view-menu {
+  position: relative;
+}
+
+.tag-view-menu > summary {
+  display: inline-flex;
+  min-height: 2.35rem;
+  align-items: center;
+  gap: 0.45rem;
+  border: 1px solid var(--line);
+  border-radius: 0.7rem;
+  background: white;
+  color: var(--foreground);
+  cursor: pointer;
+  font-size: 0.82rem;
+  font-weight: 800;
+  list-style: none;
+  padding: 0.48rem 0.7rem;
+}
+
+.tag-view-menu > summary::-webkit-details-marker {
+  display: none;
+}
+
+.tag-view-menu[open] > summary {
+  border-color: var(--line-strong);
+  box-shadow: 0 0 0 3px rgba(39, 95, 114, 0.1);
+}
+
+.tag-view-menu__panel {
+  position: absolute;
+  z-index: 20;
+  top: calc(100% + 0.5rem);
+  right: 0;
+  width: min(22rem, calc(100vw - 2rem));
+  border: 1px solid var(--line);
+  border-radius: 0.9rem;
+  background: white;
+  box-shadow: 0 18px 44px rgba(17, 17, 17, 0.14);
+  padding: 0.8rem;
+}
+
+.tag-view-option {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.tag-view-option > span {
+  display: grid;
+  gap: 0.2rem;
+}
+
+.tag-view-option strong {
+  font-size: 0.86rem;
+}
+
+.tag-view-option small {
+  color: var(--muted-strong);
+  font-size: 0.75rem;
+  line-height: 1.35;
+}
+
 .image-version-control {
   display: inline-flex;
   align-items: center;
@@ -1337,6 +1401,17 @@ kbd {
   box-shadow: 0 12px 28px rgba(0, 0, 0, 0.035);
   padding: 1.1rem;
   scroll-margin-top: 5.5rem;
+}
+
+.node-card--image-context {
+  border-style: dashed;
+  background: #f6f8f8;
+  box-shadow: none;
+  padding-block: 0.75rem;
+}
+
+.node-card--image-context > .node-card__children {
+  margin-top: 0.75rem;
 }
 
 .node-card--depth-1 {

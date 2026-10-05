@@ -6,6 +6,7 @@ import {
   ImageIcon,
   PanelRight,
   Search,
+  SlidersHorizontal,
   Sparkles,
 } from 'lucide-react';
 import Link from 'next/link';
@@ -22,6 +23,7 @@ import { ImageTagDocument } from '@/components/image-tag-document';
 import { NodeDocument } from '@/components/node-document';
 import { PaperPdfPane } from '@/components/paper-pdf-pane';
 import { Separator } from '@/components/ui/separator';
+import { Switch } from '@/components/ui/switch';
 import { isReadOnlyFolder } from '@/lib/paper-folder-metadata';
 import {
   type PaperImageMode,
@@ -48,6 +50,7 @@ type TagEditorAppProps = {
 const REVIEW_MODE_STORAGE_KEY = 'rtq-tag-web:review-mode:v1';
 const PDF_VISIBILITY_STORAGE_KEY = 'rtq-tag-web:show-original-pdf:v1';
 const PAPER_IMAGE_MODE_STORAGE_KEY = 'rtq-tag-web:paper-image-mode:v1';
+const IMAGE_NODES_ONLY_STORAGE_KEY = 'rtq-tag-web:image-nodes-only:v1';
 
 export function TagEditorApp({
   browseHref = '/',
@@ -60,6 +63,7 @@ export function TagEditorApp({
   const [document, setDocument] = useState<PaperDocument>(initialDocument);
   const [mode, setMode] = useState<'image' | 'question'>('question');
   const [paperImageMode, setPaperImageMode] = useState<PaperImageMode>('all');
+  const [imageNodesOnly, setImageNodesOnly] = useState(false);
   const [showPdf, setShowPdf] = useState(false);
   const [preferencesLoaded, setPreferencesLoaded] = useState(false);
   const isCorpus = document.corpus?.kind === 'search';
@@ -92,6 +96,9 @@ export function TagEditorApp({
       );
       setMode(storedMode === 'image' ? 'image' : 'question');
       setPaperImageMode(parsePaperImageMode(storedPaperImageMode));
+      setImageNodesOnly(
+        window.localStorage.getItem(IMAGE_NODES_ONLY_STORAGE_KEY) === 'true',
+      );
       setShowPdf(
         pdf?.state === 'available' &&
           window.localStorage.getItem(PDF_VISIBILITY_STORAGE_KEY) === 'true',
@@ -108,8 +115,12 @@ export function TagEditorApp({
     }
     window.localStorage.setItem(REVIEW_MODE_STORAGE_KEY, mode);
     window.localStorage.setItem(PAPER_IMAGE_MODE_STORAGE_KEY, paperImageMode);
+    window.localStorage.setItem(
+      IMAGE_NODES_ONLY_STORAGE_KEY,
+      String(imageNodesOnly),
+    );
     window.localStorage.setItem(PDF_VISIBILITY_STORAGE_KEY, String(showPdf));
-  }, [mode, paperImageMode, preferencesLoaded, showPdf]);
+  }, [imageNodesOnly, mode, paperImageMode, preferencesLoaded, showPdf]);
 
   useEffect(() => {
     if (saveState.tone !== 'success') {
@@ -279,6 +290,29 @@ export function TagEditorApp({
         </div>
 
         <div className="review-mode-view-controls">
+          {mode === 'image' ? (
+            <details className="tag-view-menu">
+              <summary>
+                <SlidersHorizontal aria-hidden="true" className="h-4 w-4" />
+                View options
+              </summary>
+              <div className="tag-view-menu__panel">
+                <div className="tag-view-option">
+                  <span>
+                    <strong>Only questions with images</strong>
+                    <small>
+                      Hide unrelated questions from the page and navigation.
+                    </small>
+                  </span>
+                  <Switch
+                    aria-label="Only questions with images"
+                    checked={imageNodesOnly}
+                    onCheckedChange={setImageNodesOnly}
+                  />
+                </div>
+              </div>
+            </details>
+          ) : null}
           <label className="image-version-control">
             <span>Image versions</span>
             <select
@@ -331,6 +365,7 @@ export function TagEditorApp({
           <ImageTagDocument
             catalog={imageTagCatalog}
             document={document}
+            imageNodesOnly={imageNodesOnly}
             onDocumentChange={updateDocument}
             onDocumentRefresh={source => refreshDocument({ source })}
             onSaveStateChange={setSaveState}

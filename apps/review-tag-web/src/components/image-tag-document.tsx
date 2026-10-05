@@ -14,6 +14,7 @@ type SaveState = {
 export function ImageTagDocument({
   catalog,
   document,
+  imageNodesOnly,
   onDocumentChange,
   onDocumentRefresh,
   onSaveStateChange,
@@ -22,6 +23,7 @@ export function ImageTagDocument({
 }: {
   catalog: ImageTagCatalog;
   document: PaperDocument;
+  imageNodesOnly: boolean;
   onDocumentChange: (document: PaperDocument) => void;
   onDocumentRefresh: (source?: PaperDocument) => Promise<PaperDocument>;
   onSaveStateChange: (state: SaveState) => void;
@@ -45,6 +47,7 @@ export function ImageTagDocument({
     <ImageNodeDocument
       catalog={catalog}
       document={document}
+      imageNodesOnly={imageNodesOnly}
       onDocumentChange={onDocumentChange}
       onDocumentRefresh={onDocumentRefresh}
       onSaveStateChange={onSaveStateChange}

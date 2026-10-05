@@ -15,6 +15,7 @@ import { RtqMarkdown } from '@/components/rtq-markdown';
 import { TagGroup, TagPicker } from '@/components/tag-review-controls';
 import { Button } from '@/components/ui/button';
 import { Switch } from '@/components/ui/switch';
+import { filterDocumentToImageNodes } from '@/lib/image-tag-view';
 import type { PaperImageMode } from '@/lib/paper-image-mode';
 import type {
   FolderKey,
@@ -41,6 +42,7 @@ type NodeDocumentProps = {
 
 type ImageNodeDocumentProps = Omit<NodeDocumentProps, 'tagCatalog'> & {
   catalog: ImageTagCatalog;
+  imageNodesOnly: boolean;
 };
 
 type DocumentReview =
@@ -696,6 +698,7 @@ function NodeCard({
   nextQuestionPath,
   nextSiblingPath,
   node,
+  imageNodesOnly,
   onDetailVisibilityChange,
   onDocumentChange,
   onDocumentRefresh,
@@ -713,6 +716,7 @@ function NodeCard({
   nextQuestionPath: string | null;
   nextSiblingPath: string | null;
   node: PaperNode;
+  imageNodesOnly: boolean;
   onDetailVisibilityChange: (nodePath: string, isExpanded: boolean) => void;
   onDocumentChange: (document: PaperDocument) => void;
   onDocumentRefresh: (source?: PaperDocument) => Promise<PaperDocument>;
@@ -730,10 +734,18 @@ function NodeCard({
   const identifier = nodeIdentifier(node);
   const mutationDocument = mutationDocumentForNode(document, node);
   const refreshMutationDocument = () => onDocumentRefresh(mutationDocument);
+  const isImageContext =
+    review.kind === 'image' &&
+    imageNodesOnly &&
+    node.imageOccurrences.length === 0;
 
   return (
     <article
-      className={cn('node-card', `node-card--depth-${node.depth}`)}
+      className={cn(
+        'node-card',
+        `node-card--depth-${node.depth}`,
+        isImageContext && 'node-card--image-context',
+      )}
       data-node-path={node.path}
       id={nodeAnchorId(node.path)}>
       <div className="node-card__header">
@@ -756,84 +768,89 @@ function NodeCard({
                 Source: {node.source.relativePath}
               </span>
             ) : null}
+            {isImageContext ? <span>Image in nested question</span> : null}
           </span>
         </div>
       </div>
 
-      <NodeJumpLinks
-        getScrollContainer={getScrollContainer}
-        firstChildPath={firstChildPath}
-        nextQuestionPath={nextQuestionPath}
-        nextSiblingPath={nextSiblingPath}
-        parentPath={parentPath}
-        previousQuestionPath={previousQuestionPath}
-        previousSiblingPath={previousSiblingPath}
-      />
-
-      <div className="node-card__body">
-        <NodeContentBlock
-          document={mutationDocument}
-          imageFields={[{ kind: 'question' }]}
-          label="Question"
-          node={node}
-          onDocumentChange={onDocumentChange}
-          onDocumentRefresh={refreshMutationDocument}
-          onSaveStateChange={onSaveStateChange}
-          readOnly={readOnly}
-          review={review}
-          values={[node.content.question]}
+      {!isImageContext ? (
+        <NodeJumpLinks
+          getScrollContainer={getScrollContainer}
+          firstChildPath={firstChildPath}
+          nextQuestionPath={nextQuestionPath}
+          nextSiblingPath={nextSiblingPath}
+          parentPath={parentPath}
+          previousQuestionPath={previousQuestionPath}
+          previousSiblingPath={previousSiblingPath}
         />
-        {review.kind === 'question' ? (
-          <InlineNodeEditor
+      ) : null}
+
+      {!isImageContext ? (
+        <div className="node-card__body">
+          <NodeContentBlock
             document={mutationDocument}
+            imageFields={[{ kind: 'question' }]}
+            label="Question"
             node={node}
             onDocumentChange={onDocumentChange}
             onDocumentRefresh={refreshMutationDocument}
             onSaveStateChange={onSaveStateChange}
             readOnly={readOnly}
-            tagCatalog={review.tagCatalog}
+            review={review}
+            values={[node.content.question]}
           />
-        ) : null}
-        <NodeContentBlock
-          document={mutationDocument}
-          label="Formulas"
-          node={node}
-          onDocumentChange={onDocumentChange}
-          onDocumentRefresh={refreshMutationDocument}
-          onSaveStateChange={onSaveStateChange}
-          readOnly={readOnly}
-          review={review}
-          values={node.content.formulas}
-        />
-        <NodeContentBlock
-          document={mutationDocument}
-          label="Tips"
-          node={node}
-          onDocumentChange={onDocumentChange}
-          onDocumentRefresh={refreshMutationDocument}
-          onSaveStateChange={onSaveStateChange}
-          readOnly={readOnly}
-          review={review}
-          values={node.content.tips}
-        />
-        <WorkingAnswersSection
-          answerIndexes={node.content.answerIndexes}
-          answers={node.content.answers}
-          document={mutationDocument}
-          isExpanded={isDetailExpanded}
-          node={node}
-          onDocumentChange={onDocumentChange}
-          onDocumentRefresh={refreshMutationDocument}
-          onSaveStateChange={onSaveStateChange}
-          onToggle={() =>
-            onDetailVisibilityChange(node.path, !isDetailExpanded)
-          }
-          readOnly={readOnly}
-          review={review}
-          workingIndexes={node.content.workingIndexes}
-          workings={node.content.workings}
-        />
-      </div>
+          {review.kind === 'question' ? (
+            <InlineNodeEditor
+              document={mutationDocument}
+              node={node}
+              onDocumentChange={onDocumentChange}
+              onDocumentRefresh={refreshMutationDocument}
+              onSaveStateChange={onSaveStateChange}
+              readOnly={readOnly}
+              tagCatalog={review.tagCatalog}
+            />
+          ) : null}
+          <NodeContentBlock
+            document={mutationDocument}
+            label="Formulas"
+            node={node}
+            onDocumentChange={onDocumentChange}
+            onDocumentRefresh={refreshMutationDocument}
+            onSaveStateChange={onSaveStateChange}
+            readOnly={readOnly}
+            review={review}
+            values={node.content.formulas}
+          />
+          <NodeContentBlock
+            document={mutationDocument}
+            label="Tips"
+            node={node}
+            onDocumentChange={onDocumentChange}
+            onDocumentRefresh={refreshMutationDocument}
+            onSaveStateChange={onSaveStateChange}
+            readOnly={readOnly}
+            review={review}
+            values={node.content.tips}
+          />
+          <WorkingAnswersSection
+            answerIndexes={node.content.answerIndexes}
+            answers={node.content.answers}
+            document={mutationDocument}
+            isExpanded={isDetailExpanded}
+            node={node}
+            onDocumentChange={onDocumentChange}
+            onDocumentRefresh={refreshMutationDocument}
+            onSaveStateChange={onSaveStateChange}
+            onToggle={() =>
+              onDetailVisibilityChange(node.path, !isDetailExpanded)
+            }
+            readOnly={readOnly}
+            review={review}
+            workingIndexes={node.content.workingIndexes}
+            workings={node.content.workings}
+          />
+        </div>
+      ) : null}
 
       {node.children.length > 0 ? (
         <div className="node-card__children">
@@ -844,6 +861,7 @@ function NodeCard({
               firstChildPath={child.children[0]?.path ?? null}
               getScrollContainer={getScrollContainer}
               key={child.path}
+              imageNodesOnly={imageNodesOnly}
               nextQuestionPath={nextQuestionPath}
               nextSiblingPath={node.children[index + 1]?.path ?? null}
               node={child}
@@ -866,13 +884,17 @@ function NodeCard({
 
 function ReviewNodeDocument({
   document,
+  imageNodesOnly = false,
   onDocumentChange,
   onDocumentRefresh,
   onSaveStateChange,
   paperImageMode,
   readOnly,
   review,
-}: Omit<NodeDocumentProps, 'tagCatalog'> & { review: DocumentReview }) {
+}: Omit<NodeDocumentProps, 'tagCatalog'> & {
+  imageNodesOnly?: boolean;
+  review: DocumentReview;
+}) {
   const [activeNodePath, setActiveNodePath] = useState<string | null>(
     document.nodesFlat[0]?.path ?? null,
   );
@@ -890,11 +912,18 @@ function ReviewNodeDocument({
     () => detailVisibilityStorageKey(document),
     [document],
   );
+  const visibleDocument = useMemo(
+    () =>
+      review.kind === 'image' && imageNodesOnly
+        ? filterDocumentToImageNodes(document)
+        : document,
+    [document, imageNodesOnly, review.kind],
+  );
   const resolvedActiveNodePath =
     activeNodePath &&
-    document.nodesFlat.some(node => node.path === activeNodePath)
+    visibleDocument.nodesFlat.some(node => node.path === activeNodePath)
       ? activeNodePath
-      : (document.nodesFlat[0]?.path ?? null);
+      : (visibleDocument.nodesFlat[0]?.path ?? null);
 
   useEffect(() => {
     const container = scrollContainerRef.current;
@@ -945,7 +974,7 @@ function ReviewNodeDocument({
     }
 
     return () => observer.disconnect();
-  }, [document, usesPageScroll]);
+  }, [usesPageScroll, visibleDocument]);
 
   useEffect(() => {
     return () => {
@@ -969,12 +998,12 @@ function ReviewNodeDocument({
   }, [detailStorageKey]);
 
   const topLevelNodes = useMemo(
-    () => document.sections.flatMap(section => section.questions),
-    [document.sections],
+    () => visibleDocument.sections.flatMap(section => section.questions),
+    [visibleDocument.sections],
   );
   const outlineSections = useMemo(
-    () => tagOutlineSections(document, review.kind),
-    [document, review.kind],
+    () => tagOutlineSections(visibleDocument, review.kind),
+    [review.kind, visibleDocument],
   );
   const getScrollContainer = () =>
     usesPageScroll ? null : scrollContainerRef.current;
@@ -997,13 +1026,15 @@ function ReviewNodeDocument({
   };
   const detailNodePaths = useMemo(
     () =>
-      document.nodesFlat
+      visibleDocument.nodesFlat
         .filter(
           node =>
-            node.content.workings.length > 0 || node.content.answers.length > 0,
+            (!imageNodesOnly || node.imageOccurrences.length > 0) &&
+            (node.content.workings.length > 0 ||
+              node.content.answers.length > 0),
         )
         .map(node => node.path),
-    [document.nodesFlat],
+    [imageNodesOnly, visibleDocument.nodesFlat],
   );
   const allDetailsExpanded =
     detailNodePaths.length > 0 &&
@@ -1063,7 +1094,7 @@ function ReviewNodeDocument({
             sections={outlineSections}
           />
           <div className="document-content" ref={scrollContainerRef}>
-            {document.sections.map(section => (
+            {visibleDocument.sections.map(section => (
               <section
                 className="document-section"
                 id={sectionAnchorId(section.path)}
@@ -1087,6 +1118,7 @@ function ReviewNodeDocument({
                       document={document}
                       firstChildPath={node.children[0]?.path ?? null}
                       getScrollContainer={getScrollContainer}
+                      imageNodesOnly={imageNodesOnly}
                       key={node.path}
                       nextQuestionPath={
                         topLevelNodes[

@@ -57,11 +57,14 @@ test('image review composes the question document and shared tag controls', asyn
 
   assert.match(imageDocument, /<ImageNodeDocument/);
   assert.match(imageDocument, /paperImageMode=\{paperImageMode\}/);
+  assert.match(imageDocument, /imageNodesOnly=\{imageNodesOnly\}/);
   assert.match(document, /review\.kind === 'image'/);
   assert.match(document, /<ImageTagMarkdown/);
   assert.match(document, /review\.kind === 'question'/);
   assert.match(document, /<PaperOutline/);
   assert.match(document, /function tagOutlineNode/);
+  assert.match(document, /filterDocumentToImageNodes/);
+  assert.match(document, /node-card--image-context/);
   assert.match(document, /node\.imageOccurrences\.length/);
   assert.match(document, /occurrence\.assetState === 'missing'/);
   assert.doesNotMatch(document, /node\.explicitDisplayTags\.length/);
@@ -70,6 +73,9 @@ test('image review composes the question document and shared tag controls', asyn
   assert.match(css, /@rtq\/review-paper-browser\/paper-outline\.css/);
   assert.match(css, /\.paper-images--generated/);
   assert.match(tagEditor, /PAPER_IMAGE_MODE_STORAGE_KEY/);
+  assert.match(tagEditor, /IMAGE_NODES_ONLY_STORAGE_KEY/);
+  assert.match(tagEditor, /Only questions with images/);
+  assert.match(tagEditor, /imageNodesOnly=\{imageNodesOnly\}/);
   assert.match(tagEditor, /<option value="all">All related assets<\/option>/);
   assert.match(
     tagEditor,

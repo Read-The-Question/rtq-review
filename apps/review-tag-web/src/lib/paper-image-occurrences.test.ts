@@ -1,6 +1,7 @@
 import assert from 'node:assert/strict';
 import test from 'node:test';
 
+import { filterDocumentToImageNodes } from './image-tag-view.ts';
 import { readPaperDocument } from './paper-data.ts';
 import { findPaperImageComponents } from './paper-image-components.ts';
 
@@ -82,4 +83,27 @@ test('discovers answer PaperImage components while excluding legacy and generate
     assetScope: 'answer',
     kind: 'essential',
   });
+});
+
+test('filters the document to image-bearing nodes and their ancestors', async () => {
+  const document = await readPaperDocument(
+    'focusPaperToml',
+    'bancrofts-school--11-plus--maths--2018--paper-1.toml',
+  );
+  const filtered = filterDocumentToImageNodes(document);
+
+  assert.ok(filtered.nodesFlat.length > 0);
+  assert.ok(filtered.nodesFlat.length < document.nodesFlat.length);
+  assert.ok(filtered.sections.length <= document.sections.length);
+  assert.deepEqual(
+    filtered.imageOccurrences,
+    filtered.nodesFlat.flatMap(node => node.imageOccurrences),
+  );
+
+  for (const node of filtered.nodesFlat) {
+    assert.ok(
+      node.imageOccurrences.length > 0 || node.children.length > 0,
+      `${node.path} should contain an image or lead to an image-bearing child`,
+    );
+  }
 });

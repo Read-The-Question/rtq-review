@@ -29,6 +29,22 @@ maths-colour macro catalogue.
   maintained Next.js application for displaying one selected canonical paper
   question.
 
+Content Review and Tag Review accept occurrence-local
+`PaperImage renderMode="inline"|"external"` in questions, workings and answers,
+including nested content. Omission requests external delivery. Their preferred
+artifact (generated when present, otherwise manual) must match that request;
+invalid values, stale delivery and inline raster/missing assets produce
+preparation errors. Comparison references retain their own recorded delivery,
+so an original external PNG can remain beside an inline generated SVG.
+
+Diagram delivery is generated from the exact occurrence in canonical
+`rtq-content/packages/papers/papers/toml`, never from a derived review collection.
+Editing TOML does not regenerate assets automatically. Explicitly regenerate
+diagrams and refresh their technical manifests before reviewing the new mode;
+do not edit delivery into `.diagram.json` inputs or generated sidecars.
+Question Viewer retains its separate manual/external-only image renderer;
+generated and inline diagram parity there is not part of this delivery change.
+
 ## Setup
 
 From the repository root:

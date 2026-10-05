@@ -120,7 +120,7 @@ function fixture(t: TestContext) {
       raw: markdown,
     };
   }
-  function prepareDisplay(
+  function prepareResult(
     markdown = '<PaperImage assetScope="question" />',
     scope: ReviewAssetContext['scope'] = 'question',
   ): DisplayContentField {
@@ -165,6 +165,13 @@ function fixture(t: TestContext) {
         : scope === 'working'
           ? prepared.workings[0].working
           : prepared.answers[0].answer;
+    return result;
+  }
+  function prepareDisplay(
+    markdown = '<PaperImage assetScope="question" />',
+    scope: ReviewAssetContext['scope'] = 'question',
+  ) {
+    const result = prepareResult(markdown, scope);
     assert.equal(result.preparationIssue, undefined);
     return result;
   }
@@ -186,7 +193,15 @@ function fixture(t: TestContext) {
       })
       .sort(([left], [right]) => left.localeCompare(right));
   }
-  return { asset, image, prepare, prepareDisplay, snapshot, sourcePath };
+  return {
+    asset,
+    image,
+    prepare,
+    prepareDisplay,
+    prepareResult,
+    snapshot,
+    sourcePath,
+  };
 }
 
 function metadata(alt: string | null, description: string | null = null) {
@@ -236,6 +251,74 @@ test('displays every multi-type member without changing artwork or hiding unsupp
 function imageTags(html: string): string[] {
   return html.match(/<img\b[^>]*>/g) ?? [];
 }
+
+test('reports invalid, stale, raster-inline and missing-inline delivery requests', (t) => {
+  const f = fixture(t);
+  for (const props of [
+    'renderMode=""',
+    'renderMode="other"',
+    'renderMode={"inline"}',
+    'renderMode="external" renderMode="inline"',
+  ]) {
+    assert.ok(
+      f.prepareResult(`<PaperImage assetScope="question" ${props} />`)
+        .preparationIssue,
+    );
+  }
+  const inline = '<PaperImage assetScope="question" renderMode="inline" />';
+  assert.match(f.prepareResult(inline).preparationIssue ?? '', /existing SVG/);
+  f.image(metadata('Original screenshot'));
+  assert.match(f.prepareResult(inline).preparationIssue ?? '', /existing SVG/);
+  f.asset(
+    'questions/generated/diagrams/s01-q01-i00.svg',
+    '<svg width="100" height="75" viewBox="0 0 100 75"><path d="M0 0L100 0L0 75Z"/></svg>',
+  );
+  f.asset(
+    'questions/generated/diagrams/s01-q01-i00.json',
+    JSON.stringify(metadata('Generated diagram', 'A generated triangle.')),
+  );
+  assert.match(
+    f.prepareResult(inline).preparationIssue ?? '',
+    /delivery mismatch/,
+  );
+  f.asset(
+    'questions/generated/diagrams/s01-q01-i00.json',
+    JSON.stringify({
+      ...metadata('Generated diagram', 'A generated triangle.'),
+      renderMode: 'inline',
+    }),
+  );
+  assert.match(
+    f.prepareResult('<PaperImage assetScope="question" />').preparationIssue ??
+      '',
+    /delivery mismatch/,
+  );
+  assert.equal(f.prepareResult(inline).preparationIssue, undefined);
+});
+
+test('preserves explicitly requested inline manual SVG delivery', (t) => {
+  const f = fixture(t);
+  f.asset(
+    'questions/manual/s01-q01-i00.svg',
+    '<svg width="100" height="75" viewBox="0 0 100 75"><path d="M0 0L100 0L0 75Z"/></svg>',
+  );
+  f.asset(
+    'questions/manual/s01-q01-i00.json',
+    JSON.stringify({ ...metadata('Manual triangle'), renderMode: 'inline' }),
+  );
+  assert.match(
+    f.prepareResult('<PaperImage assetScope="question" />').preparationIssue ??
+      '',
+    /delivery mismatch/,
+  );
+  const prepared = f.prepareDisplay(
+    '<PaperImage assetScope="question" renderMode="inline" />',
+  );
+  assert.match(
+    render(prepared.rendered, { paperImages: prepared.paperImages }),
+    /rtq-review-inline-svg/,
+  );
+});
 
 for (const scope of ['question', 'working', 'answer'] as const) {
   test(`renders occurrence-local image tags in ${scope} content`, (t) => {
@@ -405,7 +488,7 @@ for (const scope of ['question', 'working', 'answer'] as const) {
         }),
       );
       const prepared = f.prepareDisplay(
-        `<PaperImage assetScope="${scope}" family="geometry" type="triangle" displaySize="sm" />`,
+        `<PaperImage assetScope="${scope}" family="geometry" type="triangle" displaySize="sm" renderMode="${renderMode}" />`,
         scope,
       );
       assert.equal(prepared.paperImages?.length, 1);

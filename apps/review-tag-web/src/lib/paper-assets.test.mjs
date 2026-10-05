@@ -176,7 +176,16 @@ test('PaperImage family/type is rendering-neutral across scopes, nesting and for
         `${paperRoot}/paper-images.generated.json`,
         JSON.stringify({ assets, version: 1 }),
       );
-      const comparison = enrichRtqMarkdown(source, context, options);
+      if (depth === 1)
+        assert.throws(
+          () => enrichRtqMarkdown(source, context, options),
+          /delivery mismatch/,
+        );
+      const comparisonSource =
+        depth === 1
+          ? source.replace(/<PaperImage\b/, '<PaperImage renderMode="inline"')
+          : source;
+      const comparison = enrichRtqMarkdown(comparisonSource, context, options);
       assert.match(
         comparison,
         /data-has-generated="true" data-variant-count="3"/,

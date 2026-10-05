@@ -2,6 +2,7 @@ import { spawnSync } from "node:child_process";
 import { statSync } from "node:fs";
 import { join } from "node:path";
 import { resolveRtqContentPaths } from "@rtq/review-repository-paths";
+export { paperImageRenderMode, assertPaperImageDelivery } from "./delivery.ts";
 
 export type PreparedReviewSvg = Readonly<{
   minimumReadableWidth: number;

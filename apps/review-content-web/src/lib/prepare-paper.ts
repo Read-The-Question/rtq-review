@@ -4,7 +4,11 @@ import { existsSync, readFileSync, statSync } from 'node:fs';
 import path from 'node:path';
 
 import { resolveRtqContentPaths } from '@rtq/review-repository-paths';
-import { prepareReviewSvg } from '@rtq/review-paper-assets';
+import {
+  prepareReviewSvg,
+  paperImageRenderMode,
+  assertPaperImageDelivery,
+} from '@rtq/review-paper-assets';
 import type {
   ReviewAssetContext,
   ReviewContentField,
@@ -395,6 +399,7 @@ function paperImageMarkdown(
   imageIndex: number,
 ): Readonly<{ image: DisplayPaperImage; markdown: string }> {
   const authored = attributes(component);
+  const requestedRenderMode = paperImageRenderMode(component);
   const scope = (authored.assetScope ?? context.scope) as ImageScope;
   if (!['question', 'working', 'answer'].includes(scope)) {
     throw new Error(`Unsupported PaperImage assetScope: ${scope}`);
@@ -415,6 +420,12 @@ function paperImageMarkdown(
     ).map((extension) => ({ extension, location, provenance }));
   });
   if (matches.length === 0) {
+    assertPaperImageDelivery(
+      requestedRenderMode,
+      'external',
+      undefined,
+      component,
+    );
     const missing = assetUrl(MISSING_IMAGE, {
       ...imageParams(layout, MISSING_IMAGE_SIZE),
       kind: 'paper-image',
@@ -441,6 +452,9 @@ function paperImageMarkdown(
     };
   }
 
+  const preferred = matches.some((match) => match.provenance === 'generated')
+    ? 'generated'
+    : 'manual';
   const variants = matches.map<DisplayPaperImageVariant>(
     ({ extension, location, provenance }) => {
       const metadata = imageMetadata(
@@ -448,6 +462,13 @@ function paperImageMarkdown(
         location.metadata,
         provenance === 'generated' ? scope : undefined,
       );
+      if (provenance === preferred)
+        assertPaperImageDelivery(
+          requestedRenderMode,
+          metadata.renderMode,
+          extension,
+          location.sourceStem,
+        );
       const sourcePath = `${location.sourceStem}.${extension}`;
       const size = dimensions(paperRoot, sourcePath);
       const relativePath = `papers/${context.paperStem}/${sourcePath}`;

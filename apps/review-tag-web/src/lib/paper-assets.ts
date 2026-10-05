@@ -4,6 +4,8 @@ import path from 'node:path';
 
 import {
   type PreparedReviewSvg,
+  assertPaperImageDelivery,
+  paperImageRenderMode,
   prepareReviewSvg,
 } from '@rtq/review-paper-assets';
 import {
@@ -36,7 +38,6 @@ const PAPER_IMAGE_PREPARATION_ATTRIBUTES = [
   'height',
   'margin',
   'padding',
-  'renderMode',
   'size',
   'src',
   'srcSet',
@@ -45,6 +46,7 @@ const PAPER_IMAGE_PREPARATION_ATTRIBUTES = [
   'width',
 ] as const;
 const PAPER_IMAGE_AUTHORED_ATTRIBUTES = [
+  'renderMode',
   'align',
   'assetScope',
   'displaySize',
@@ -818,12 +820,13 @@ function replacePaperImages(
       return TODO_IMAGE_MARKUP;
     }
     const attrs = parseComponentAttributes(match);
+    const requestedRenderMode = paperImageRenderMode(match);
     const preparationAttribute = PAPER_IMAGE_PREPARATION_ATTRIBUTES.find(
       attribute => attrs[attribute] !== undefined,
     );
     if (preparationAttribute) {
       throw new Error(
-        `PaperImage must not author ${preparationAttribute}; asset paths, extensions, formats, and render modes are supplied during paper preparation.`,
+        `PaperImage must not author ${preparationAttribute}; asset paths, extensions, and formats are supplied during paper preparation.`,
       );
     }
     const unknownAttribute = Object.keys(attrs).find(
@@ -848,6 +851,11 @@ function replacePaperImages(
       scopeIndex,
       imageIndex,
     );
+    const preferred = resolutions.some(
+      resolution => resolution.provenance === 'generated',
+    )
+      ? 'generated'
+      : 'manual';
     const variants = resolutions.map(resolution => {
       const metadata = paperImageMetadata(
         context,
@@ -857,6 +865,13 @@ function replacePaperImages(
         resolution.extension,
         resolution.provenance,
       );
+      if (resolution.provenance === preferred)
+        assertPaperImageDelivery(
+          requestedRenderMode,
+          metadata.renderMode,
+          resolution.extension,
+          resolution.sourceRelativePath,
+        );
       const svg =
         resolution.extension === 'svg'
           ? prepareReviewSvg(

@@ -3,8 +3,50 @@ import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
 import test from "node:test";
-import { prepareReviewSvg } from "../src/svg.ts";
+import {
+  prepareReviewSvg,
+  paperImageRenderMode,
+  assertPaperImageDelivery,
+} from "../src/svg.ts";
 import { installSvgToolFixture } from "./svg-tool-fixture.mjs";
+
+test("paper delivery defaults externally and rejects malformed or incompatible requests", () => {
+  assert.equal(
+    paperImageRenderMode('<PaperImage assetScope="question" />'),
+    "external",
+  );
+  for (const mode of ["inline", "external"] as const) {
+    assert.equal(
+      paperImageRenderMode(`<PaperImage renderMode="${mode}" />`),
+      mode,
+    );
+    assert.doesNotThrow(() =>
+      assertPaperImageDelivery(mode, mode, "svg", "fixture"),
+    );
+    assert.throws(
+      () =>
+        assertPaperImageDelivery(
+          mode,
+          mode === "inline" ? "external" : "inline",
+          "svg",
+          "fixture",
+        ),
+      /delivery mismatch/,
+    );
+  }
+  for (const component of [
+    '<PaperImage renderMode="other" />',
+    '<PaperImage renderMode="" />',
+    '<PaperImage renderMode={"inline"} />',
+    '<PaperImage renderMode="inline" renderMode="external" />',
+  ])
+    assert.throws(() => paperImageRenderMode(component), /PaperImage/);
+  for (const format of ["png", "jpg", "jpeg", undefined])
+    assert.throws(
+      () => assertPaperImageDelivery("inline", "external", format, "fixture"),
+      /inline delivery requires/,
+    );
+});
 
 test("prepares both deliveries, caches unchanged inputs and invalidates edited SVGs or colours", (t) => {
   const root = mkdtempSync(join(tmpdir(), "rtq-review-svg-"));

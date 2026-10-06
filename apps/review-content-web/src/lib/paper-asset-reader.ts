@@ -71,8 +71,7 @@ function allowedSubpath(segments: readonly string[]): boolean {
   return (
     (scope === 'questions' || scope === 'workings' || scope === 'answers') &&
     provenance === 'generated' &&
-    (kind === 'diagrams' ||
-      (kind === 'long-division' && scope !== 'questions')) &&
+    (kind === 'diagrams' || kind === 'long-division') &&
     Boolean(file)
   );
 }
@@ -143,7 +142,7 @@ export async function resolveCanonicalPaperAsset(
   const [, paperStem, ...subpath] = segments;
   if (!paperStem || !allowedSubpath(subpath)) {
     throw new PaperAssetRequestError(
-      'Only question, manual solution, and generated long-division assets are public.',
+      'Only owner-scoped manual, generated-diagram, and generated long-division assets are public.',
       404,
     );
   }

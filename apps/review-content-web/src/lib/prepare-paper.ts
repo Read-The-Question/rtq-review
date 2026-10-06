@@ -535,11 +535,22 @@ function paperImageMarkdown(
 function longDivisionPath(
   context: ReviewAssetContext,
   assetIndex: number,
-  variant: 'bus' | 'long',
+  variant: 'bus' | 'long' | 'question',
 ): string {
   const scope = context.scope;
-  if (scope !== 'working' && scope !== 'answer') {
-    throw new Error('LongDivision is only supported in solution content.');
+  if (scope === 'question') {
+    if (variant !== 'question') {
+      throw new Error(
+        'LongDivision in question content must use variant="question".',
+      );
+    }
+    const basename = `${compactPrefix(context)}-ld${String(assetIndex).padStart(2, '0')}-question`;
+    return `questions/generated/long-division/${basename}`;
+  }
+  if (variant === 'question') {
+    throw new Error(
+      'LongDivision variant="question" is only supported in question content.',
+    );
   }
   const scopeIndex =
     scope === 'working' ? context.workingIndex : context.answerIndex;
@@ -556,10 +567,27 @@ function longDivisionMarkdown(
   assetIndex: number,
 ): string {
   const authored = attributes(component);
-  const requested: readonly ('bus' | 'long')[] =
-    authored.variant === 'bus' || authored.variant === 'long'
-      ? [authored.variant]
-      : ['long', 'bus'];
+  const requested: readonly ('bus' | 'long' | 'question')[] = (() => {
+    const variant = authored.variant ?? 'both';
+    if (context.scope === 'question') {
+      if (variant !== 'question') {
+        throw new Error(
+          'LongDivision in question content must use variant="question".',
+        );
+      }
+      return ['question'];
+    }
+    if (variant === 'question') {
+      throw new Error(
+        'LongDivision variant="question" is only supported in question content.',
+      );
+    }
+    if (variant === 'bus' || variant === 'long') return [variant];
+    if (variant === 'both') return ['long', 'bus'];
+    throw new Error(
+      `Unsupported LongDivision variant: ${variant}. Expected long, bus, question, or both.`,
+    );
+  })();
   // Long division renders at its natural width in rtq-web, so it carries no display size.
   const params: Record<string, string> = {
     align: pickAttribute(ALIGNS, authored.align, DEFAULT_ALIGN, 'align'),
@@ -572,7 +600,10 @@ function longDivisionMarkdown(
       const assetsRoot = resolveRtqContentPaths().assetsRoot;
       const paperRoot = path.join(assetsRoot, 'papers', context.paperStem);
       const metadataPath = path.join(paperRoot, `${sourceStem}.json`);
-      let alt = `${authored.dividend ?? 'Number'} divided by ${authored.divisor ?? 'number'}, ${variant} method`;
+      let alt =
+        variant === 'question'
+          ? `Long-division question of ${authored.dividend ?? 'number'} by ${authored.divisor ?? 'number'}`
+          : `${authored.dividend ?? 'Number'} divided by ${authored.divisor ?? 'number'}, ${variant} method`;
       let description = '';
       try {
         const metadata = JSON.parse(

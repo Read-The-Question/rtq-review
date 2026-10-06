@@ -720,3 +720,53 @@ test('leaves ordinary Markdown image titles and generated division rendering unc
   assert.match(imageTags(html)[0], /title="Division explanation"/);
   assert.doesNotMatch(html, /aria-describedby|data-alt-review/);
 });
+
+test('renders solution-free long division in question content', (t) => {
+  const f = fixture(t);
+  f.asset(
+    'questions/generated/long-division/s01-q01-ld00-question.svg',
+    '<svg width="142" height="53" viewBox="0 0 142 53"><path d="M36 47V8H130"/></svg>',
+  );
+  f.asset(
+    'questions/generated/long-division/s01-q01-ld00-question.json',
+    JSON.stringify({
+      alt: 'Long-division question of 4716 by 9',
+      description:
+        'Long-division question showing 4716 divided by 9 in division-bracket notation.',
+      values: {
+        dividend: '4716',
+        divisor: '9',
+        variant: 'question',
+      },
+    }),
+  );
+
+  const prepared = f.prepareDisplay(
+    '<LongDivision dividend="4716" divisor="9" variant="question" />',
+  );
+  const html = render(prepared.rendered);
+  assert.match(html, /data-kind="long-division"/);
+  assert.match(imageTags(html)[0], /alt="Long-division question of 4716 by 9"/);
+  assert.match(
+    html,
+    /questions\/generated\/long-division\/s01-q01-ld00-question\.svg/,
+  );
+  assert.match(html, /Long-division question showing 4716 divided by 9/);
+  assert.doesNotMatch(html, /quotient|remainder/i);
+});
+
+test('keeps LongDivision question and solution variants in their owned content scopes', (t) => {
+  const f = fixture(t);
+  assert.match(
+    f.prepareResult('<LongDivision dividend="12" divisor="3" variant="long" />')
+      .preparationIssue ?? '',
+    /question content must use variant="question"/,
+  );
+  assert.match(
+    f.prepareResult(
+      '<LongDivision dividend="12" divisor="3" variant="question" />',
+      'working',
+    ).preparationIssue ?? '',
+    /variant="question" is only supported in question content/,
+  );
+});

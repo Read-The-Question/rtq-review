@@ -67,3 +67,26 @@ test('serves a relocated canonical manual question binary without exposing its s
     404,
   );
 });
+
+test('serves generated question LongDivision SVGs without exposing their sidecars', async () => {
+  const papersRoot = path.join(resolveRtqContentPaths().assetsRoot, 'papers');
+  const files = await fs.readdir(papersRoot, { recursive: true });
+  const relativePath = files.find((file) =>
+    /\/questions\/generated\/long-division\/[^/]+-question\.svg$/.test(
+      file.split(path.sep).join('/'),
+    ),
+  );
+  assert.ok(
+    relativePath,
+    'Canonical corpus must contain a generated question LongDivision SVG',
+  );
+  const urlPath = `papers/${relativePath.split(path.sep).join('/')}`;
+  const response = await createPaperAssetResponse(urlPath);
+  assert.equal(response.status, 200);
+  assert.equal(response.headers.get('content-type'), 'image/svg+xml');
+  assert.match(await response.text(), /data-rtq-long-division-contract="1"/);
+  assert.equal(
+    (await createPaperAssetResponse(urlPath.replace(/\.svg$/, '.json'))).status,
+    415,
+  );
+});

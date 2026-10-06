@@ -75,10 +75,13 @@ workings and answers. Each path selects its own adjacent sidecar and technical
 metadata. **All related assets** compares both locations; **Generated preferred**
 uses generated artwork when present and otherwise the first manual variant.
 Saved SVG preference values migrate to generated preference. Provenance is
-folder-based, not an SVG/raster distinction. The
-asset route rejects old flat question URLs and does not expose sidecars.
-Existing generated long-division routes are unchanged. No doctor check is
-added to reviewer builds, startup, or requests.
+folder-based, not an SVG/raster distinction. The asset route rejects old flat
+question URLs and does not expose sidecars. Generated `LongDivision` uses
+owner-scoped routes: question-only diagrams live under
+`questions/generated/long-division/`, while worked variants remain under
+`workings/generated/long-division/` and `answers/generated/long-division/`.
+Question metadata contains no quotient or remainder. No doctor check is added
+to reviewer builds, startup, or requests.
 
 SVGs retain their intentional natural size, shrink proportionally to the
 shared 75% floor and then scroll locally. `displaySize` caps remain raster-only;
@@ -214,8 +217,8 @@ or page size starts again from the first result.
   level.
 - All TOML and assets remain read-only. The asset route exposes allowlisted
   binaries in each owner's `manual/` and `generated/diagrams/` directories,
-  plus supported generated long-division SVGs. Sidecars and source recipes
-  remain private.
+  plus generated long-division SVGs for questions, workings, and answers.
+  Sidecars and source recipes remain private.
 
 ## Review persistence
 

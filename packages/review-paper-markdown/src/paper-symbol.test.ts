@@ -12,6 +12,8 @@ import {
   remarkPaperSymbol,
   toPaperSymbolCompatibilityMarkdown,
 } from "./index.ts";
+import { PAPER_SHAPE_NAMES } from "./paper-shape.ts";
+import { PAPER_SHAPE_VIEWBOX, SHAPE_PATHS } from "./paper-shape-paths.ts";
 
 async function render(markdown: string): Promise<string> {
   const result = await unified()
@@ -136,34 +138,52 @@ test("renders a club suit between adjacent inline maths spans", async () => {
   assert.doesNotMatch(html, /PaperSymbol/);
 });
 
-test("renders the six geometric Lucide symbols as outlines", async () => {
+test("renders the four shape symbols with the shared PaperShape outlines in both paths", async () => {
+  for (const name of PAPER_SHAPE_NAMES) {
+    const markdown = [
+      `<PaperSymbol name="${name}" size="lg" />`,
+      `<PaperSymbol name="${name}" variant="half" size="lg" />`,
+      `<PaperSymbol name="${name}" variant="four-fifths" size="lg" />`,
+    ].join(" ");
+
+    for (const html of [
+      await render(markdown),
+      toPaperSymbolCompatibilityMarkdown(markdown),
+    ]) {
+      assert.equal(
+        html.split(`d="${SHAPE_PATHS[name]}"`).length - 1,
+        3,
+        `Expected all ${name} variants to use the PaperShape outline`,
+      );
+      assert.equal(
+        html.split(`viewBox="${PAPER_SHAPE_VIEWBOX}"`).length - 1,
+        3,
+      );
+      assert.equal(
+        html.split('vector-effect="non-scaling-stroke"').length - 1,
+        3,
+      );
+      assert.match(html, new RegExp(`One full ${name} pictogram symbol`));
+      assert.match(html, /height:28px;width:14px/);
+      assert.match(html, /height:28px;width:22\.4px/);
+      assert.match(html, /<svg[^>]*fill="none"/);
+    }
+  }
+});
+
+test("keeps the remaining geometric Lucide symbols as outlines", async () => {
   const html = await render(
     [
-      '<PaperSymbol name="square" size="lg" />',
-      '<PaperSymbol name="circle" size="lg" />',
-      '<PaperSymbol name="triangle" size="lg" />',
-      '<PaperSymbol name="hexagon" size="lg" />',
       '<PaperSymbol name="diamond" size="lg" />',
       '<PaperSymbol name="sun" size="lg" />',
     ].join(" "),
   );
 
-  for (const name of [
-    "square",
-    "circle",
-    "triangle",
-    "hexagon",
-    "diamond",
-    "sun",
-  ]) {
+  for (const name of ["diamond", "sun"]) {
     assert.match(html, new RegExp(`data-paper-symbol-name="${name}"`));
     assert.match(html, new RegExp(`One full ${name} pictogram symbol`));
   }
-  assert.equal(html.match(/<svg[^>]*fill="none"/g)?.length, 6);
-  assert.match(html, /<rect[^>]*height="18"[^>]*rx="2"/);
-  assert.match(html, /<circle[^>]*cx="12"[^>]*r="10"/);
-  assert.match(html, /<path[^>]*d="M13\.73 4a2 2/);
-  assert.match(html, /<path[^>]*d="M21 16V8a2 2/);
+  assert.equal(html.match(/<svg[^>]*fill="none"/g)?.length, 2);
   assert.match(html, /<path[^>]*d="M2\.7 10\.3a2\.41 2\.41/);
   assert.match(html, /<circle[^>]*cx="12"[^>]*r="4"/);
   assert.match(html, /<path[^>]*d="M12 2v2"/);

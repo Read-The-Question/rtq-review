@@ -28,6 +28,10 @@ continue to support the clipped `full`, `half`, and `four-fifths` variants.
 `black-smiling-face` is a separate full-only custom renderer with a filled
 current-colour face and background-colour eyes and smile; the existing
 Lucide-backed `smiling-face` remains an outline symbol.
+The square, circle, triangle, and hexagon equation symbols instead use the
+same outline paths as `PaperShape`, both in remark output and compatibility
+HTML. Symbols keep their sizes, clipped variants, and accessible image labels;
+other pictogram symbols retain their existing drawings.
 
 ## PaperShape
 

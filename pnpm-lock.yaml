@@ -386,6 +386,9 @@ importers:
 
   packages/review-paper-browser:
     dependencies:
+      '@rtq/review-paper-markdown':
+        specifier: workspace:*
+        version: link:../review-paper-markdown
       '@rtq/review-paper-model':
         specifier: workspace:*
         version: link:../review-paper-model

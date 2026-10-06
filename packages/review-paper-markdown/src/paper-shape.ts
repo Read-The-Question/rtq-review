@@ -1,6 +1,8 @@
 import type { Data, Parent, PhrasingContent, Root, RootContent } from "mdast";
 import type { Plugin } from "unified";
 
+import type { PaperShapeName } from "./paper-shape-paths.ts";
+
 export const PAPER_SHAPE_NAMES = [
   "square",
   "circle",
@@ -14,7 +16,7 @@ export const PAPER_SHAPE_PATTERNS = [
 ] as const;
 export const PAPER_SHAPE_SIZES = ["xl", "2xl"] as const;
 
-export type PaperShapeName = (typeof PAPER_SHAPE_NAMES)[number];
+export type { PaperShapeName } from "./paper-shape-paths.ts";
 export type PaperShapePattern = (typeof PAPER_SHAPE_PATTERNS)[number];
 export type PaperShapeSize = (typeof PAPER_SHAPE_SIZES)[number];
 

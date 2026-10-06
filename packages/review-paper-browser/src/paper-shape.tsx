@@ -1,15 +1,13 @@
+import {
+  PAPER_SHAPE_VIEWBOX,
+  SHAPE_PATHS,
+  type PaperShapeName,
+} from '@rtq/review-paper-markdown/paper-shape-paths';
 import React, { type ComponentProps, type ReactNode } from 'react';
 
-export type PaperShapeName = 'square' | 'circle' | 'triangle' | 'hexagon';
+export type { PaperShapeName } from '@rtq/review-paper-markdown/paper-shape-paths';
 export type PaperShapePattern = 'plain' | 'vertical-stripes' | 'wavy-hatch';
 export type PaperShapeSize = 'xl' | '2xl';
-
-const SHAPE_PATHS: Record<PaperShapeName, string> = {
-  square: 'M3 3H61V61H3Z',
-  circle: 'M61 32a29 29 0 1 1-58 0 29 29 0 1 1 58 0',
-  triangle: 'M32 3 61 61H3Z',
-  hexagon: 'M17 3H47L61 32 47 61H17L3 32Z',
-};
 
 export function PaperShape({
   children,
@@ -41,7 +39,7 @@ export function PaperShape({
         aria-hidden="true"
         className="rtq-paper-shape__graphic"
         focusable="false"
-        viewBox="0 0 64 64"
+        viewBox={PAPER_SHAPE_VIEWBOX}
       >
         {pattern !== 'plain' ? (
           <defs>

@@ -5,6 +5,7 @@
   "type": "module",
   "exports": {
     ".": "./src/index.ts",
+    "./paper-shape-paths": "./src/paper-shape-paths.ts",
     "./paper-table.css": "./src/paper-table.css",
     "./validate": "./src/validate.ts"
   },

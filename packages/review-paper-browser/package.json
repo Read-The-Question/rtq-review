@@ -21,6 +21,7 @@
     "types": "tsc --noEmit"
   },
   "dependencies": {
+    "@rtq/review-paper-markdown": "workspace:*",
     "@rtq/review-paper-model": "workspace:*",
     "react": "19.2.4"
   },

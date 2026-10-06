@@ -1,6 +1,12 @@
 import type { Data, Parent, Root, RootContent } from "mdast";
 import type { Plugin } from "unified";
 
+import {
+  PAPER_SHAPE_VIEWBOX,
+  SHAPE_PATHS,
+  type PaperShapeName,
+} from "./paper-shape-paths.ts";
+
 export const PAPER_SYMBOL_NAMES = [
   "computer",
   "lorry",
@@ -413,14 +419,49 @@ function clubSuitSvg(size: PaperSymbolSize): NativeNode {
 
 type GeometricSymbolName = Extract<
   PaperSymbolName,
-  | "circle"
-  | "diamond"
-  | "hexagon"
-  | "smiling-face"
-  | "square"
-  | "sun"
-  | "triangle"
+  "diamond" | "smiling-face" | "sun"
 >;
+
+function isOutlineShapeSymbolName(
+  name: PaperSymbolName,
+): name is PaperShapeName {
+  return (
+    name === "square" ||
+    name === "circle" ||
+    name === "triangle" ||
+    name === "hexagon"
+  );
+}
+
+function outlineShapeSvg(
+  name: PaperShapeName,
+  size: PaperSymbolSize,
+): NativeNode {
+  const sizePx = SIZE_PX[size];
+  return nativeNode(
+    "svg",
+    {
+      "aria-hidden": "true",
+      fill: "none",
+      focusable: "false",
+      height: sizePx,
+      preserveAspectRatio: "xMinYMid meet",
+      style: "display:block;max-width:none;flex:none",
+      viewBox: PAPER_SHAPE_VIEWBOX,
+      width: sizePx,
+      xmlns: "http://www.w3.org/2000/svg",
+    },
+    [
+      nativeNode("path", {
+        d: SHAPE_PATHS[name],
+        fill: "none",
+        stroke: "currentColor",
+        strokeWidth: 1.5,
+        vectorEffect: "non-scaling-stroke",
+      }),
+    ],
+  );
+}
 
 function geometricSvg(
   name: GeometricSymbolName,
@@ -437,44 +478,6 @@ function geometricSvg(
   let shapes: NativeNode[];
 
   switch (name) {
-    case "square":
-      shapes = [
-        nativeNode("rect", {
-          ...shapeProperties,
-          height: 18,
-          rx: 2,
-          width: 18,
-          x: 3,
-          y: 3,
-        }),
-      ];
-      break;
-    case "circle":
-      shapes = [
-        nativeNode("circle", {
-          ...shapeProperties,
-          cx: 12,
-          cy: 12,
-          r: 10,
-        }),
-      ];
-      break;
-    case "triangle":
-      shapes = [
-        nativeNode("path", {
-          ...shapeProperties,
-          d: "M13.73 4a2 2 0 0 0-3.46 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z",
-        }),
-      ];
-      break;
-    case "hexagon":
-      shapes = [
-        nativeNode("path", {
-          ...shapeProperties,
-          d: "M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z",
-        }),
-      ];
-      break;
     case "diamond":
       shapes = [
         nativeNode("path", {
@@ -628,6 +631,10 @@ function symbolSvg(
   size: PaperSymbolSize,
   variant: PaperSymbolVariant,
 ): NativeNode {
+  if (isOutlineShapeSymbolName(name)) {
+    return outlineShapeSvg(name, size);
+  }
+
   switch (name) {
     case "four-pane-pictogram":
       return fourPaneSvg(size, variant as FourPaneVariant);
@@ -642,10 +649,6 @@ function symbolSvg(
     case "black-triangle":
     case "black-heart":
       return filledShapeSvg(name, size);
-    case "square":
-    case "circle":
-    case "triangle":
-    case "hexagon":
     case "diamond":
     case "sun":
     case "smiling-face":
@@ -710,24 +713,9 @@ function symbolSvgHtml(
       `<path d="M8 14s1.5 2 4 2 4-2 4-2" fill="none" stroke="${inverse}" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>`,
     ];
   }
-  if (name === "square") {
+  if (isOutlineShapeSymbolName(name)) {
     return [
-      '<rect fill="none" height="18" rx="2" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" width="18" x="3" y="3"></rect>',
-    ];
-  }
-  if (name === "circle") {
-    return [
-      '<circle cx="12" cy="12" fill="none" r="10" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></circle>',
-    ];
-  }
-  if (name === "triangle") {
-    return [
-      '<path d="M13.73 4a2 2 0 0 0-3.46 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
-    ];
-  }
-  if (name === "hexagon") {
-    return [
-      '<path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
+      `<path d="${SHAPE_PATHS[name]}" fill="none" stroke="currentColor" stroke-width="1.5" vector-effect="non-scaling-stroke"></path>`,
     ];
   }
   if (name === "diamond") {
@@ -911,7 +899,7 @@ function paperSymbolHtml(attributesSource: string): string {
 
   return [
     `<span aria-label="${label}" data-paper-symbol="" data-paper-symbol-name="${name}" data-paper-symbol-size="${size}" data-paper-symbol-variant="${variant}" role="img" style="display:inline-flex;flex:none;overflow:hidden;vertical-align:middle;line-height:1;height:${sizePx}px;width:${visibleWidth}px">`,
-    `<svg aria-hidden="true" fill="${fill}" focusable="false" height="${sizePx}" preserveAspectRatio="xMinYMid meet" style="display:block;max-width:none;flex:none" viewBox="0 0 24 24" width="${sizePx}" xmlns="http://www.w3.org/2000/svg">`,
+    `<svg aria-hidden="true" fill="${fill}" focusable="false" height="${sizePx}" preserveAspectRatio="xMinYMid meet" style="display:block;max-width:none;flex:none" viewBox="${isOutlineShapeSymbolName(name) ? PAPER_SHAPE_VIEWBOX : "0 0 24 24"}" width="${sizePx}" xmlns="http://www.w3.org/2000/svg">`,
     ...symbolSvgHtml(name, variant),
     "</svg></span>",
   ].join("");

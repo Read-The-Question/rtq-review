@@ -4,6 +4,7 @@ import path from 'node:path';
 
 import {
   validatePaperListMarkdown,
+  validatePaperShapeMarkdown,
   validatePaperSymbolMarkdown,
 } from '@rtq/review-paper-markdown/validate';
 
@@ -827,6 +828,7 @@ export function enrichRtqMarkdown(
 
   validatePaperListMarkdown(text);
   validatePaperSymbolMarkdown(text);
+  validatePaperShapeMarkdown(text);
   const withWorkingSections = replaceWorkingSections(text);
   const assetScope = options?.scopeType ?? 'question';
   if (assetScope !== 'question' && options?.scopeIndex === undefined) {

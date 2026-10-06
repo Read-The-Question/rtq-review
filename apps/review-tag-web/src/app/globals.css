@@ -1,6 +1,7 @@
 @import 'tailwindcss';
 @import '@rtq/review-paper-markdown/paper-table.css';
 @import '@rtq/review-paper-browser/paper-outline.css';
+@import '@rtq/review-paper-browser/paper-shape.css';
 
 @config '@rtq/review-repository-paths/tailwind-svg-sources';
 

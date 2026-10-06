@@ -1,4 +1,5 @@
 import { unified } from "unified";
+import type { Parent, Root } from "mdast";
 import remarkGfm from "remark-gfm";
 import remarkMath from "remark-math";
 import remarkParse from "remark-parse";
@@ -8,6 +9,7 @@ import {
   hasActivePaperTable,
   remarkPaperList,
   remarkPaperListMdx,
+  remarkPaperShape,
   remarkPaperSymbol,
   remarkPaperTable,
 } from "./index.ts";
@@ -45,4 +47,28 @@ export function validatePaperSymbolMarkdown(markdown: string): void {
     .use(remarkPaperListMdx)
     .use(remarkPaperSymbol);
   processor.runSync(processor.parse(markdown));
+}
+
+function containsPaperShape(parent: Root | Parent): boolean {
+  return parent.children.some(
+    (child) =>
+      (child as { type: string }).type === "paperShapeNative" ||
+      ("children" in child && containsPaperShape(child)),
+  );
+}
+
+export function hasActivePaperShapeMarkdown(markdown: string): boolean {
+  if (!/<\/?PaperShape\b/.test(markdown)) return false;
+
+  const processor = unified()
+    .use(remarkParse)
+    .use(remarkGfm)
+    .use(remarkMath)
+    .use(remarkPaperListMdx)
+    .use(remarkPaperShape);
+  return containsPaperShape(processor.runSync(processor.parse(markdown)));
+}
+
+export function validatePaperShapeMarkdown(markdown: string): void {
+  hasActivePaperShapeMarkdown(markdown);
 }

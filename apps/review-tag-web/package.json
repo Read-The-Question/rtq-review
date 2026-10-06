@@ -14,17 +14,12 @@
     "format:check": "prettier --check .",
     "format:fix": "prettier --write .",
     "types": "tsc --noEmit",
-    "test": "node --no-warnings --test --experimental-strip-types src/lib/image-tag-catalog.test.ts src/lib/image-tag-interface.test.ts src/lib/image-tag-presentation.test.ts src/lib/paper-asset-reader.test.ts src/lib/paper-assets.test.mjs src/lib/paper-browser-integration.test.ts src/lib/paper-image-mode.test.ts src/lib/paper-image-occurrences.test.ts src/lib/paper-image-write-lines.test.ts src/lib/paper-list-markdown.test.ts src/lib/paper-paths.test.ts src/lib/paper-pdf-reader.test.ts src/lib/paper-table-markdown.test.ts src/lib/paper-working-collections.test.ts src/lib/prepare-inline-long-division.test.ts src/lib/rtq-katex.test.ts src/lib/tag-corpus-search.test.ts",
-    "test:browser": "node scripts/browser-smoke.mjs"
+    "test": "node --no-warnings --test --experimental-strip-types src/lib/image-tag-catalog.test.ts src/lib/image-tag-interface.test.ts src/lib/image-tag-presentation.test.ts src/lib/paper-asset-reader.test.ts src/lib/paper-assets.test.mjs src/lib/paper-browser-integration.test.ts src/lib/paper-image-mode.test.ts src/lib/paper-image-occurrences.test.ts src/lib/paper-image-write-lines.test.ts src/lib/paper-list-markdown.test.ts src/lib/paper-paths.test.ts src/lib/paper-pdf-reader.test.ts src/lib/paper-table-markdown.test.ts src/lib/paper-working-collections.test.ts src/lib/prepare-inline-long-division.test.ts src/lib/rtq-katex.test.ts src/lib/tag-corpus-search.test.ts && tsx --test src/lib/paper-shape.test.ts",
+    "test:browser": "node scripts/browser-smoke.mjs",
+    "test:paper-shape:canonical": "tsx --test src/lib/paper-shape-canonical.test.ts"
   },
   "dependencies": {
     "@iarna/toml": "^2.2.5",
-    "@rtq/review-katex-options": "workspace:*",
-    "@rtq/review-paper-assets": "workspace:*",
-    "@rtq/review-paper-browser": "workspace:*",
-    "@rtq/review-paper-markdown": "workspace:*",
-    "@rtq/review-paper-model": "workspace:*",
-    "@rtq/review-repository-paths": "workspace:*",
     "@radix-ui/react-dialog": "^1.1.15",
     "@radix-ui/react-popover": "^1.1.15",
     "@radix-ui/react-scroll-area": "^1.2.10",
@@ -32,6 +27,12 @@
     "@radix-ui/react-slot": "^1.2.4",
     "@radix-ui/react-switch": "^1.2.6",
     "@radix-ui/react-tooltip": "^1.2.8",
+    "@rtq/review-katex-options": "workspace:*",
+    "@rtq/review-paper-assets": "workspace:*",
+    "@rtq/review-paper-browser": "workspace:*",
+    "@rtq/review-paper-markdown": "workspace:*",
+    "@rtq/review-paper-model": "workspace:*",
+    "@rtq/review-repository-paths": "workspace:*",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "cmdk": "^1.1.1",
@@ -59,6 +60,7 @@
     "prettier": "^3.8.0",
     "prettier-plugin-tailwindcss": "^0.7.2",
     "tailwindcss": "^4",
+    "tsx": "^4.23.13",
     "typescript": "^5"
   }
 }

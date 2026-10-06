@@ -1,3 +1,8 @@
+import {
+  hasActivePaperShapeMarkdown,
+  validatePaperTableMarkdown,
+} from '@rtq/review-paper-markdown/validate';
+
 const PAPER_TABLE_OPEN_PATTERN =
   /^ {0,3}<PaperTable(?:[ \t]+[^>\r\n]*)?>[ \t]*$/;
 const PAPER_TABLE_CLOSE_PATTERN = /^ {0,3}<\/PaperTable>[ \t]*$/;
@@ -46,15 +51,16 @@ function closesFence(line: string, fence: MarkdownFence) {
 /**
  * Remove active PaperTable authoring wrappers while preserving their GFM body.
  *
- * Tag Web is a review surface, so PaperTable presentation attributes are
- * intentionally ignored. Wrapper-like text inside fenced source examples is
- * preserved verbatim. Invalid active structures fail clearly instead of
- * silently changing the rendered paper.
+ * Legacy tables keep Tag Web's wrapper-free presentation. Shape tables retain
+ * their authored table semantics for the shared table renderer. Wrapper-like
+ * text inside fenced examples is preserved verbatim.
  */
 export function normalizePaperTableMarkdown(text: string) {
   const output: string[] = [];
   let fence: MarkdownFence | null = null;
   let paperTableOpen = false;
+  let wrapperStart = 0;
+  let openingLine = '';
 
   for (const line of splitLinesPreservingEndings(text)) {
     const content = lineContent(line);
@@ -83,6 +89,8 @@ export function normalizePaperTableMarkdown(text: string) {
       }
 
       paperTableOpen = true;
+      wrapperStart = output.length;
+      openingLine = line;
       continue;
     }
 
@@ -92,6 +100,12 @@ export function normalizePaperTableMarkdown(text: string) {
       }
 
       paperTableOpen = false;
+      const body = output.slice(wrapperStart);
+      if (hasActivePaperShapeMarkdown(body.join(''))) {
+        validatePaperTableMarkdown([openingLine, ...body, line].join(''));
+        output.splice(wrapperStart, 0, openingLine);
+        output.push(line);
+      }
       continue;
     }
 

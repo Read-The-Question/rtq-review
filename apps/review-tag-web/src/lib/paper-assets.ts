@@ -13,7 +13,10 @@ import {
   toPaperMdxCompatibilityMarkdown,
   toPaperSymbolCompatibilityMarkdown,
 } from '@rtq/review-paper-markdown';
-import { validatePaperListMarkdown } from '@rtq/review-paper-markdown/validate';
+import {
+  validatePaperListMarkdown,
+  validatePaperShapeMarkdown,
+} from '@rtq/review-paper-markdown/validate';
 
 import {
   PAPER_IMAGE_EXTENSIONS,
@@ -955,6 +958,7 @@ export function enrichRtqMarkdown(
   }
 
   validatePaperListMarkdown(text);
+  validatePaperShapeMarkdown(text);
   const withPaperLists = toPaperListCompatibilityMarkdown(text);
   const withPaperSymbols = toPaperSymbolCompatibilityMarkdown(withPaperLists);
   const withPaperTables = normalizePaperTableMarkdown(withPaperSymbols);

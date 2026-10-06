@@ -23,6 +23,39 @@ test('ignores configured and unknown PaperTable attributes', () => {
   );
 });
 
+test('preserves and validates authored presentation for shape tables only', () => {
+  const shapeTable = [
+    '<PaperTable columnHeaders="none" density="compact" grid="none">',
+    '',
+    '| <PaperShape name="square">$1$</PaperShape> | <PaperShape name="circle" /> |',
+    '| --- | --- |',
+    '| <PaperShape name="square" /> | <PaperShape name="circle">$5$</PaperShape> |',
+    '',
+    '</PaperTable>',
+    '',
+  ].join('\n');
+
+  assert.equal(normalizePaperTableMarkdown(shapeTable), shapeTable);
+  assert.throws(
+    () =>
+      normalizePaperTableMarkdown(
+        shapeTable.replace('density="compact"', 'density="invalid"'),
+      ),
+    /PaperTable prop "density"/,
+  );
+
+  const literal = [
+    '<PaperTable density="compact">',
+    '',
+    '| Text |',
+    '| --- |',
+    '| `<PaperShape name="square" />` |',
+    '',
+    '</PaperTable>',
+  ].join('\n');
+  assert.doesNotMatch(normalizePaperTableMarkdown(literal), /<\/?PaperTable\b/);
+});
+
 test('leaves unwrapped content and line endings unchanged', () => {
   const markdown = 'Before\r\n\r\n| A | B |\r\n| --- | --- |\r\n| 1 | 2 |\r\n';
 

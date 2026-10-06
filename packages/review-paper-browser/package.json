@@ -9,13 +9,15 @@
     "./model": "./src/model.ts",
     "./paper-outline": "./src/paper-outline.tsx",
     "./paper-outline.css": "./src/paper-outline.css",
+    "./paper-shape": "./src/paper-shape.tsx",
+    "./paper-shape.css": "./src/paper-shape.css",
     "./server": "./src/server.ts",
     "./styles.css": "./src/styles.css"
   },
   "scripts": {
     "format:check": "prettier --check .",
     "format:fix": "prettier --write .",
-    "test": "node --no-warnings --test --experimental-strip-types src/model.test.ts src/paper-outline.test.ts",
+    "test": "node --no-warnings --test --experimental-strip-types src/model.test.ts src/paper-outline.test.ts src/paper-shape.test.ts",
     "types": "tsc --noEmit"
   },
   "dependencies": {

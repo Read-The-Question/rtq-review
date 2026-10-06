@@ -14,7 +14,10 @@ import type {
   ReviewContentField,
   ReviewPaper,
 } from '@rtq/review-paper-model';
-import { validatePaperSymbolMarkdown } from '@rtq/review-paper-markdown/validate';
+import {
+  validatePaperShapeMarkdown,
+  validatePaperSymbolMarkdown,
+} from '@rtq/review-paper-markdown/validate';
 
 import type {
   DisplayContentField,
@@ -640,6 +643,7 @@ function prepareField(
     );
     const paperLists = preparePaperListMarkdown(tables.markdown);
     validatePaperSymbolMarkdown(paperLists.markdown);
+    validatePaperShapeMarkdown(paperLists.markdown);
     const images = paperLists.markdown.replace(IMAGE, (component) => {
       if (!component.startsWith('<')) return TODO_IMAGE_MARKDOWN;
       const prepared = paperImageMarkdown(

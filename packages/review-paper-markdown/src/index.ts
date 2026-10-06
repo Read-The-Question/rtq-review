@@ -319,6 +319,7 @@ export { remarkMdx as remarkPaperListMdx };
 
 export * from "./paper-author-note.ts";
 export * from "./paper-small.ts";
+export * from "./paper-shape.ts";
 export * from "./paper-structured-table.ts";
 export * from "./paper-symbol.ts";
 export * from "./paper-table.ts";

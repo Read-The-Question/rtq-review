@@ -29,6 +29,24 @@ continue to support the clipped `full`, `half`, and `four-fifths` variants.
 current-colour face and background-colour eyes and smile; the existing
 Lucide-backed `smiling-face` remains an outline symbol.
 
+## PaperShape
+
+`PaperShape` is an inline geometric container, not a pictogram symbol. Author
+`<PaperShape name="square|circle|triangle|hexagon" pattern="plain|vertical-stripes|wavy-hatch" size="xl|2xl">inline Markdown or $56$</PaperShape>`,
+or use a self-closing tag for a blank shape. The `name` prop is required;
+`pattern` defaults to `plain` and `size` to `xl` (48px; `2xl` is 64px).
+Only static quoted props and inline children are supported. The remark
+transform preserves child Markdown and maths as AST nodes in a native span
+marker, including inside GFM cells; the browser package draws the accessible
+shape. Fenced examples stay literal. Call `validatePaperShapeMarkdown` at the
+server preparation boundary to report invalid authoring before rendering.
+`hasActivePaperShapeMarkdown` detects parsed shape nodes rather than
+lookalikes in inline code or fenced examples.
+Each maintained app also exposes `pnpm test:paper-shape:canonical` (run from
+that app) to parse and render the authored Dulwich specimen-paper-b question
+`C6D90BB5-335A-409A-9ED3-BCFDD0ED672D`. This focused check requires the
+sibling `rtq-content` checkout, so it is separate from fixture-only app tests.
+
 ## PaperList
 
 `PaperList` wraps exactly one Markdown ordered or unordered list and accepts an

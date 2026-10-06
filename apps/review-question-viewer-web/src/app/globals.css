@@ -1,5 +1,6 @@
 @import 'tailwindcss';
 @import '@rtq/review-paper-markdown/paper-table.css';
+@import '@rtq/review-paper-browser/paper-shape.css';
 @import 'katex/dist/katex.min.css';
 
 @config '../../../../packages/repository-paths/src/tailwind-svg-sources.ts';

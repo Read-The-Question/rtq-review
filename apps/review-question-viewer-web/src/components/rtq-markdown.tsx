@@ -1,14 +1,17 @@
 'use client';
 
+import { PaperShapeSpan } from '@rtq/review-paper-browser/paper-shape';
 import {
   rehypePaperTable,
   remarkPaperAuthorNote,
   remarkPaperList,
   remarkPaperListMdx,
+  remarkPaperShape,
   remarkPaperStructuredTable,
   remarkPaperSymbol,
   remarkPaperTable,
 } from '@rtq/review-paper-markdown';
+import React from 'react';
 import ReactMarkdown from 'react-markdown';
 import rehypeKatex from 'rehype-katex';
 import rehypeRaw from 'rehype-raw';
@@ -29,6 +32,7 @@ export function RtqMarkdown({ markdown }: RtqMarkdownProps) {
   return (
     <div className="rtq-markdown">
       <ReactMarkdown
+        components={{ span: PaperShapeSpan }}
         rehypePlugins={[
           rehypePaperTable,
           rehypeRaw,
@@ -42,6 +46,7 @@ export function RtqMarkdown({ markdown }: RtqMarkdownProps) {
           remarkPaperTable,
           remarkPaperStructuredTable,
           remarkPaperList,
+          remarkPaperShape,
           remarkPaperSymbol,
         ]}>
         {markdown}

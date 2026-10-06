@@ -12,12 +12,14 @@
     "lint:fix": "eslint . --fix",
     "format:check": "prettier --check .",
     "format:fix": "prettier --write .",
-    "test": "node --no-warnings --test --experimental-strip-types src/lib/paper-asset-reader.test.ts src/lib/paper-assets.test.mjs src/lib/paper-list-markdown.test.ts src/lib/paper-paths.test.ts src/lib/prepare-inline-long-division.test.ts src/lib/rtq-katex.test.ts src/lib/working-collections.test.ts",
+    "test": "node --no-warnings --test --experimental-strip-types src/lib/paper-asset-reader.test.ts src/lib/paper-assets.test.mjs src/lib/paper-list-markdown.test.ts src/lib/paper-paths.test.ts src/lib/prepare-inline-long-division.test.ts src/lib/rtq-katex.test.ts src/lib/working-collections.test.ts && tsx --test src/lib/paper-shape.test.ts",
+    "test:paper-shape:canonical": "tsx --test src/lib/paper-shape-canonical.test.ts",
     "types": "tsc --noEmit"
   },
   "dependencies": {
     "@iarna/toml": "^2.2.5",
     "@rtq/review-katex-options": "workspace:*",
+    "@rtq/review-paper-browser": "workspace:*",
     "@rtq/review-paper-markdown": "workspace:*",
     "@rtq/review-repository-paths": "workspace:*",
     "katex": "^0.17.0",
@@ -42,6 +44,7 @@
     "prettier": "^3.8.0",
     "prettier-plugin-tailwindcss": "^0.7.2",
     "tailwindcss": "^4",
+    "tsx": "^4.23.13",
     "typescript": "^5"
   }
 }

@@ -28,4 +28,19 @@ Exports:
   status badges.
 - `@rtq/review-paper-browser/paper-outline.css` — shared sticky outline and
   responsive presentation.
+- `@rtq/review-paper-browser/paper-shape` — inline shape renderer and Markdown
+  span bridge.
+- `@rtq/review-paper-browser/paper-shape.css` — shared shape sizing and layout.
 - `@rtq/review-paper-browser/styles.css` — the shared responsive presentation.
+
+## PaperShape
+
+Import `PaperShapeSpan` from `@rtq/review-paper-browser/paper-shape` as the
+`react-markdown` `span` renderer and import
+`@rtq/review-paper-browser/paper-shape.css` in an app's global stylesheet.
+It recognizes the inert marker from `remarkPaperShape`, leaves ordinary spans
+unchanged, and renders a 48px (`xl`) or 64px (`2xl`) SVG shape with an isolated
+pattern ID. The graphic is decorative; the enclosing group labels the shape
+and pattern, and keeps inline text or KaTeX MathML accessible. Stripe and
+wavy-hatch strokes use 30% of the inherited ink opacity in both themes;
+shape outlines and foreground content keep full-strength inherited ink.

@@ -1,5 +1,6 @@
 @import '@rtq/review-paper-markdown/paper-table.css';
 @import '@rtq/review-paper-browser/paper-outline.css';
+@import '@rtq/review-paper-browser/paper-shape.css';
 
 :root {
   --paper: #f5f6f7;

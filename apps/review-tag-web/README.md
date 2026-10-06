@@ -79,6 +79,12 @@ Old flat question URLs are not served. JSON sidecars and source recipes remain
 private. `PaperImage` authoring and generated long-division paths are unchanged.
 Doctor is not a reviewer build/startup gate.
 
+PaperTable wrappers containing an authored `PaperShape` retain their table
+presentation and header settings in Tag Review. Other PaperTable wrappers keep
+the existing wrapper-free reviewer presentation. Run
+`pnpm test:paper-shape:canonical` from this app to check the authored Dulwich
+shape grid; it requires the sibling `rtq-content` checkout.
+
 Question Tags and Image Tags are separate review modes. Image Tags discovers
 authored `PaperImage` components in question, working, and answer fields and
 uses the same paper hierarchy, question body, working, answer, and navigation

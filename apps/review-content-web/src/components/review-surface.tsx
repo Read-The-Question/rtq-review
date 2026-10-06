@@ -48,6 +48,7 @@ import type {
 import type { PaperPdf } from '@/lib/paper-pdf';
 import {
   DEFAULT_REVIEW_PREFERENCES,
+  EARLIEST_REVIEW_PREFERENCES_KEY,
   EARLIER_REVIEW_PREFERENCES_KEY,
   INITIAL_REVIEW_PREFERENCES_KEY,
   LEGACY_REVIEW_PREFERENCES_KEY,
@@ -71,9 +72,11 @@ import {
   type ReviewContext,
   type ReviewControlMode,
   type PaperImageMode,
+  type QuestionContentFilter,
   type ReviewPanelMode,
   type ReviewPreferences,
 } from '@/lib/review-view-model';
+import { questionContentFilterMatches } from '@/lib/question-content-filter';
 import {
   REVIEW_OUTCOME_OPTIONS,
   SIMPLE_REVIEW_OUTCOME_OPTIONS,
@@ -1256,6 +1259,7 @@ function QuestionNode({
   reviewSides,
   reviewRuntime,
   topLevelQuestion,
+  visibleNodeIds,
 }: {
   idPrefix?: string;
   matchingNodeIds: ReadonlySet<string>;
@@ -1264,6 +1268,7 @@ function QuestionNode({
   reviewSides: readonly ReviewSide[];
   reviewRuntime: ReviewRuntimeState;
   topLevelQuestion: DisplayPaperNode;
+  visibleNodeIds?: ReadonlySet<string>;
 }) {
   const exactMatch = matchingNodeIds.has(node.id);
   const statusRails = reviewStatusRails(node, reviewSides, reviewRuntime);
@@ -1280,6 +1285,9 @@ function QuestionNode({
     : undefined;
   const imageSide = `${preferences.reviewSide}-image` as const;
   const corpusSource = node.depth === 0 ? node.reviewSource : undefined;
+  const visibleChildren = visibleNodeIds
+    ? node.children.filter((child) => visibleNodeIds.has(child.id))
+    : node.children;
   return (
     <article
       className={`question-node question-node--depth-${node.depth}${
@@ -1435,9 +1443,9 @@ function QuestionNode({
           topLevelQuestion={topLevelQuestion}
         />
       ) : null}
-      {node.children.length ? (
+      {visibleChildren.length ? (
         <div className="nested-questions">
-          {node.children.map((child) => (
+          {visibleChildren.map((child) => (
             <QuestionNode
               idPrefix={idPrefix}
               key={child.id}
@@ -1447,6 +1455,7 @@ function QuestionNode({
               reviewSides={reviewSides}
               reviewRuntime={reviewRuntime}
               topLevelQuestion={topLevelQuestion}
+              visibleNodeIds={visibleNodeIds}
             />
           ))}
         </div>
@@ -2188,12 +2197,14 @@ function reviewOutlineNode({
   matchingNodeIds,
   node,
   showImageMarkers,
+  visibleNodeIds,
 }: {
   contentMatchingNodeIds: ReadonlySet<string>;
   imageCountsByNodeId: ReadonlyMap<string, number>;
   matchingNodeIds: ReadonlySet<string>;
   node: ReviewPaperNode;
   showImageMarkers: boolean;
+  visibleNodeIds?: ReadonlySet<string>;
 }): PaperOutlineNode {
   const exactMatch = matchingNodeIds.has(node.id);
   const contentMatch = contentMatchingNodeIds.has(node.id);
@@ -2204,7 +2215,7 @@ function reviewOutlineNode({
   }
   if (showImageMarkers && imageCount > 0) {
     badges.push({
-      label: `${imageCount} ${imageCount === 1 ? 'paper image' : 'paper images'} in question or working`,
+      label: `${imageCount} ${imageCount === 1 ? 'paper image' : 'paper images'} in question, working, or answer`,
       text: 'IMG',
       tone: 'accent',
     });
@@ -2212,15 +2223,18 @@ function reviewOutlineNode({
 
   return {
     badges: badges.length ? badges : undefined,
-    children: node.children.map((child) =>
-      reviewOutlineNode({
-        contentMatchingNodeIds,
-        imageCountsByNodeId,
-        matchingNodeIds,
-        node: child,
-        showImageMarkers,
-      }),
-    ),
+    children: node.children
+      .filter((child) => !visibleNodeIds || visibleNodeIds.has(child.id))
+      .map((child) =>
+        reviewOutlineNode({
+          contentMatchingNodeIds,
+          imageCountsByNodeId,
+          matchingNodeIds,
+          node: child,
+          showImageMarkers,
+          visibleNodeIds,
+        }),
+      ),
     description:
       node.reviewSource && node.depth === 0
         ? `${node.reviewSource.sectionLabel} · ${node.label}`
@@ -2241,12 +2255,14 @@ function reviewOutlineSections({
   matchingNodeIds,
   sections,
   showImageMarkers,
+  visibleNodeIds,
 }: {
   contentMatchingNodeIds: ReadonlySet<string>;
   imageCountsByNodeId: ReadonlyMap<string, number>;
   matchingNodeIds: ReadonlySet<string>;
   sections: ReturnType<typeof filterReviewPaper>['matchingSections'];
   showImageMarkers: boolean;
+  visibleNodeIds?: ReadonlySet<string>;
 }): PaperOutlineSection[] {
   return sections.map((section) => ({
     href: `#${section.id}`,
@@ -2259,6 +2275,7 @@ function reviewOutlineSections({
         matchingNodeIds,
         node,
         showImageMarkers,
+        visibleNodeIds,
       }),
     ),
   }));
@@ -2270,10 +2287,30 @@ function paperImageCountsByNode(
   const counts = new Map<string, number>();
 
   function visit(node: DisplayPaperNode) {
+    const countImages = (field: DisplayContentField) =>
+      field.paperImages?.length ?? 0;
     const count =
-      (node.content.question.paperImages?.length ?? 0) +
+      countImages(node.content.question) +
       node.content.workings.reduce(
-        (total, working) => total + (working.working.paperImages?.length ?? 0),
+        (total, working) =>
+          total +
+          countImages(working.working) +
+          working.formulas.reduce(
+            (fieldTotal, field) => fieldTotal + countImages(field),
+            0,
+          ) +
+          working.tips.reduce(
+            (fieldTotal, field) => fieldTotal + countImages(field),
+            0,
+          ),
+        0,
+      ) +
+      node.content.answers.reduce(
+        (total, answer) =>
+          total +
+          countImages(answer.answer) +
+          countImages(answer.key) +
+          countImages(answer.option),
         0,
       );
     if (count > 0) counts.set(node.id, count);
@@ -2596,7 +2633,7 @@ export function ReviewSurface({
       ),
     };
   }, [outcomeLoad.error, outcomeOverrides, paper]);
-  const result = useMemo(
+  const unfilteredResult = useMemo(
     () =>
       filterReviewPaper(
         paper,
@@ -2606,6 +2643,48 @@ export function ReviewSurface({
       ),
     [activeSelection, contentSearch, paper, reviewOutcomeFilterContext],
   );
+  const questionContentMatches = useMemo(
+    () =>
+      questionContentFilterMatches(paper, preferences.questionContentFilter),
+    [paper, preferences.questionContentFilter],
+  );
+  const visibleNodeIds = useMemo(
+    () =>
+      preferences.questionContentFilter === 'all'
+        ? undefined
+        : new Set(questionContentMatches.visibleNodeIds),
+    [preferences.questionContentFilter, questionContentMatches.visibleNodeIds],
+  );
+  const result = useMemo(() => {
+    if (preferences.questionContentFilter === 'all') return unfilteredResult;
+    const allowedQuestionIds = new Set(questionContentMatches.questionTreeIds);
+    const matchingQuestionTreeIds =
+      unfilteredResult.matchingQuestionTreeIds.filter((id) =>
+        allowedQuestionIds.has(id),
+      );
+    const matchingQuestionTreeIdSet = new Set(matchingQuestionTreeIds);
+    const matchingSections = unfilteredResult.matchingSections.flatMap(
+      (section) => {
+        const questions = section.questions.filter((question) =>
+          matchingQuestionTreeIdSet.has(question.id),
+        );
+        return questions.length ? [{ ...section, questions }] : [];
+      },
+    );
+    return {
+      ...unfilteredResult,
+      matchingQuestionTreeCount: matchingQuestionTreeIds.length,
+      matchingQuestionTreeIds,
+      matchingSections,
+      questionTreeMatches: unfilteredResult.questionTreeMatches.filter(
+        (match) => matchingQuestionTreeIdSet.has(match.questionId),
+      ),
+    };
+  }, [
+    preferences.questionContentFilter,
+    questionContentMatches.questionTreeIds,
+    unfilteredResult,
+  ]);
   const displayNodeById = useMemo(
     () =>
       new Map(
@@ -2623,9 +2702,13 @@ export function ReviewSurface({
     () =>
       result.matchingQuestionTreeIds.flatMap((id) => {
         const question = displayNodeById.get(id);
-        return question ? flattenReviewCursors(question) : [];
+        return question
+          ? flattenReviewCursors(question).filter(
+              (cursor) => !visibleNodeIds || visibleNodeIds.has(cursor.node.id),
+            )
+          : [];
       }),
-    [displayNodeById, result.matchingQuestionTreeIds],
+    [displayNodeById, result.matchingQuestionTreeIds, visibleNodeIds],
   );
   const reviewCursorById = useMemo(
     () => new Map(reviewCursors.map((cursor) => [cursor.node.id, cursor])),
@@ -2733,6 +2816,7 @@ export function ReviewSurface({
         matchingNodeIds,
         sections: result.matchingSections,
         showImageMarkers: preferences.showImageMarkers,
+        visibleNodeIds,
       }),
     [
       contentMatchingNodeIds,
@@ -2740,6 +2824,7 @@ export function ReviewSurface({
       matchingNodeIds,
       preferences.showImageMarkers,
       result.matchingSections,
+      visibleNodeIds,
     ],
   );
   const selectedFilterCount =
@@ -2755,6 +2840,14 @@ export function ReviewSurface({
     activeSelection.questionReview.length +
     activeSelection.answerImageReview.length +
     activeSelection.answerReview.length;
+  const questionContentFilterActive =
+    preferences.questionContentFilter !== 'all';
+  const questionContentFilterLabel =
+    preferences.questionContentFilter === 'image' ? 'images' : 'tables';
+  const questionContentFilterRemovedAll =
+    questionContentFilterActive &&
+    unfilteredResult.matchingQuestionTreeCount > 0 &&
+    result.matchingQuestionTreeCount === 0;
   const currentQuestionIndex = navigationActiveId
     ? result.matchingQuestionTreeIds.indexOf(navigationActiveId)
     : -1;
@@ -2966,6 +3059,7 @@ export function ReviewSurface({
           localStorage.getItem(EARLIER_REVIEW_PREFERENCES_KEY),
           localStorage.getItem(INITIAL_REVIEW_PREFERENCES_KEY),
           localStorage.getItem(OLDEST_REVIEW_PREFERENCES_KEY),
+          localStorage.getItem(EARLIEST_REVIEW_PREFERENCES_KEY),
         );
         if (!stored) {
           localStorage.setItem(REVIEW_PREFERENCES_KEY, JSON.stringify(next));
@@ -3842,6 +3936,22 @@ export function ReviewSurface({
                   onChange={(value) => updatePreference('showMetadata', value)}
                 />
                 <label className="view-option-select">
+                  <span>Questions shown</span>
+                  <select
+                    onChange={(event) =>
+                      updatePreference(
+                        'questionContentFilter',
+                        event.target.value as QuestionContentFilter,
+                      )
+                    }
+                    value={preferences.questionContentFilter}
+                  >
+                    <option value="all">All questions</option>
+                    <option value="image">Questions with images</option>
+                    <option value="table">Questions with tables</option>
+                  </select>
+                </label>
+                <label className="view-option-select">
                   <span>Review panels</span>
                   <select
                     onChange={(event) =>
@@ -4020,14 +4130,26 @@ export function ReviewSurface({
           <h2>
             {corpus?.searchMode === 'uuid'
               ? 'No requested UUIDs were found.'
-              : 'No question shares that exact lens.'}
+              : questionContentFilterRemovedAll
+                ? `No matching questions contain ${questionContentFilterLabel}.`
+                : 'No question shares that exact lens.'}
           </h2>
           <p>
             {corpus?.searchMode === 'uuid'
               ? 'Check the UUIDs above or clear the search to start again.'
-              : 'Change the raw-content expression or clear one filter to widen the paper again.'}
+              : questionContentFilterRemovedAll
+                ? `Show all questions or adjust the active review filters to include questions with ${questionContentFilterLabel}.`
+                : 'Change the raw-content expression or clear one filter to widen the paper again.'}
           </p>
           <div className="empty-results-actions">
+            {questionContentFilterActive ? (
+              <button
+                onClick={() => updatePreference('questionContentFilter', 'all')}
+                type="button"
+              >
+                Show all questions
+              </button>
+            ) : null}
             {contentSearch || corpus?.searchMode === 'uuid' ? (
               <button onClick={clearContentSearch} type="button">
                 {corpus?.searchMode === 'uuid'
@@ -4071,6 +4193,7 @@ export function ReviewSurface({
                         reviewSides={enabledReviewSides}
                         reviewRuntime={reviewRuntime}
                         topLevelQuestion={displayQuestion}
+                        visibleNodeIds={visibleNodeIds}
                       />
                     ) : null;
                   })}

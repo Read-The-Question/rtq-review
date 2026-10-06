@@ -665,13 +665,13 @@ function prepareField(
   field: ReviewContentField,
   options: Readonly<{ preserveWorkingSections?: boolean }> = {},
 ): DisplayContentField {
+  const tables = preparePaperTableMarkdown(
+    field.expanded.replace(MDX_COMMENT, ''),
+  );
   try {
     let imageIndex = 0;
     let divisionIndex = 0;
     const paperImages: DisplayPaperImage[] = [];
-    const tables = preparePaperTableMarkdown(
-      field.expanded.replace(MDX_COMMENT, ''),
-    );
     const paperLists = preparePaperListMarkdown(tables.markdown);
     validatePaperSymbolMarkdown(paperLists.markdown);
     validatePaperShapeMarkdown(paperLists.markdown);
@@ -705,6 +705,7 @@ function prepareField(
     );
     return {
       ...field,
+      hasTable: tables.hasTable,
       ...(tables.issue || paperLists.issue || parsed.issue
         ? {
             preparationIssue: [tables.issue, paperLists.issue, parsed.issue]
@@ -719,9 +720,10 @@ function prepareField(
   } catch (error) {
     return {
       ...field,
+      hasTable: tables.hasTable,
       preparationIssue:
         error instanceof Error ? error.message : 'Content preparation failed.',
-      rendered: field.expanded
+      rendered: tables.markdown
         .replace(IMAGE, '**Paper image unavailable.**')
         .replace(LONG_DIVISION, '**Long division unavailable.**'),
     };

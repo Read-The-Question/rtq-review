@@ -3,6 +3,7 @@ import test from 'node:test';
 
 import {
   DEFAULT_REVIEW_PREFERENCES,
+  EARLIEST_REVIEW_PREFERENCES_KEY,
   EARLIER_REVIEW_PREFERENCES_KEY,
   INITIAL_REVIEW_PREFERENCES_KEY,
   LEGACY_REVIEW_PREFERENCES_KEY,
@@ -26,25 +27,29 @@ import {
 } from './review-view-model.ts';
 
 test('display preference storage is versioned for status chrome controls', () => {
-  assert.equal(REVIEW_PREFERENCES_KEY, 'rtq.review-content.preferences.v10');
+  assert.equal(REVIEW_PREFERENCES_KEY, 'rtq.review-content.preferences.v11');
   assert.equal(
     PREVIOUS_REVIEW_PREFERENCES_KEY,
-    'rtq.review-content.preferences.v9',
+    'rtq.review-content.preferences.v10',
   );
   assert.equal(
     LEGACY_REVIEW_PREFERENCES_KEY,
-    'rtq.review-content.preferences.v8',
+    'rtq.review-content.preferences.v9',
   );
   assert.equal(
     EARLIER_REVIEW_PREFERENCES_KEY,
-    'rtq.review-content.preferences.v7',
+    'rtq.review-content.preferences.v8',
   );
   assert.equal(
     INITIAL_REVIEW_PREFERENCES_KEY,
-    'rtq.review-content.preferences.v6',
+    'rtq.review-content.preferences.v7',
   );
   assert.equal(
     OLDEST_REVIEW_PREFERENCES_KEY,
+    'rtq.review-content.preferences.v6',
+  );
+  assert.equal(
+    EARLIEST_REVIEW_PREFERENCES_KEY,
     'rtq.review-content.preferences.v5',
   );
 });
@@ -108,6 +113,21 @@ test('preferences survive partial and malformed local values', () => {
   assert.equal(
     parseReviewPreferences('{"reviewPanelMode":"unsupported"}').reviewPanelMode,
     'both',
+  );
+  assert.equal(
+    parseReviewPreferences('{"questionContentFilter":"image"}')
+      .questionContentFilter,
+    'image',
+  );
+  assert.equal(
+    parseReviewPreferences('{"questionContentFilter":"table"}')
+      .questionContentFilter,
+    'table',
+  );
+  assert.equal(
+    parseReviewPreferences('{"questionContentFilter":"unsupported"}')
+      .questionContentFilter,
+    'all',
   );
   assert.equal(
     parseReviewPreferences(

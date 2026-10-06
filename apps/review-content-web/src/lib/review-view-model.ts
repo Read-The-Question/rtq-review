@@ -6,18 +6,24 @@ import {
 import type { ReviewFilterSelection } from '@rtq/review-paper-model/client';
 import type { ReviewSide } from '@rtq/review-store/types';
 
-export const REVIEW_PREFERENCES_KEY = 'rtq.review-content.preferences.v10';
+import type { QuestionContentFilter } from './question-content-filter';
+
+export type { QuestionContentFilter } from './question-content-filter';
+
+export const REVIEW_PREFERENCES_KEY = 'rtq.review-content.preferences.v11';
 export const REVIEW_FILTER_DISCLOSURE_KEY =
   'rtq.review-content.filter-disclosure.v1';
 export const PREVIOUS_REVIEW_PREFERENCES_KEY =
-  'rtq.review-content.preferences.v9';
+  'rtq.review-content.preferences.v10';
 export const LEGACY_REVIEW_PREFERENCES_KEY =
-  'rtq.review-content.preferences.v8';
+  'rtq.review-content.preferences.v9';
 export const EARLIER_REVIEW_PREFERENCES_KEY =
-  'rtq.review-content.preferences.v7';
+  'rtq.review-content.preferences.v8';
 export const INITIAL_REVIEW_PREFERENCES_KEY =
-  'rtq.review-content.preferences.v6';
+  'rtq.review-content.preferences.v7';
 export const OLDEST_REVIEW_PREFERENCES_KEY =
+  'rtq.review-content.preferences.v6';
+export const EARLIEST_REVIEW_PREFERENCES_KEY =
   'rtq.review-content.preferences.v5';
 
 export type PaperImageMode = 'all' | 'generated';
@@ -28,6 +34,7 @@ export type VisibleReviewSide = ReviewContext;
 
 export type ReviewPreferences = Readonly<{
   paperImageMode: PaperImageMode;
+  questionContentFilter: QuestionContentFilter;
   reviewControlMode: ReviewControlMode;
   reviewPanelMode: ReviewPanelMode;
   reviewSide: VisibleReviewSide;
@@ -47,6 +54,7 @@ export type ReviewPreferences = Readonly<{
 
 export const DEFAULT_REVIEW_PREFERENCES: ReviewPreferences = {
   paperImageMode: 'all',
+  questionContentFilter: 'all',
   reviewControlMode: 'simple',
   reviewPanelMode: 'both',
   reviewSide: 'answer',
@@ -100,6 +108,7 @@ export function parseReviewPreferences(
   earlierValue: string | null = null,
   initialValue: string | null = null,
   oldestValue: string | null = null,
+  earliestValue: string | null = null,
 ): ReviewPreferences {
   const parsed = parsePreferenceRecord(value);
   const previous = parsePreferenceRecord(previousValue);
@@ -107,7 +116,16 @@ export function parseReviewPreferences(
   const earlier = parsePreferenceRecord(earlierValue);
   const initial = parsePreferenceRecord(initialValue);
   const oldest = parsePreferenceRecord(oldestValue);
-  const records = [parsed, previous, legacy, earlier, initial, oldest];
+  const earliest = parsePreferenceRecord(earliestValue);
+  const records = [
+    parsed,
+    previous,
+    legacy,
+    earlier,
+    initial,
+    oldest,
+    earliest,
+  ];
   const oldReviewPreference =
     typeof parsed?.showReview === 'boolean'
       ? parsed.showReview
@@ -121,7 +139,9 @@ export function parseReviewPreferences(
               ? initial.showReview
               : typeof oldest?.showReview === 'boolean'
                 ? oldest.showReview
-                : undefined;
+                : typeof earliest?.showReview === 'boolean'
+                  ? earliest.showReview
+                  : undefined;
 
   function preference(
     key: keyof ReviewPreferences,
@@ -133,12 +153,14 @@ export function parseReviewPreferences(
     const earlierPreference = earlier?.[key];
     const initialPreference = initial?.[key];
     const oldestPreference = oldest?.[key];
+    const earliestPreference = earliest?.[key];
     if (typeof currentPreference === 'boolean') return currentPreference;
     if (typeof previousPreference === 'boolean') return previousPreference;
     if (typeof legacyPreference === 'boolean') return legacyPreference;
     if (typeof earlierPreference === 'boolean') return earlierPreference;
     if (typeof initialPreference === 'boolean') return initialPreference;
     if (typeof oldestPreference === 'boolean') return oldestPreference;
+    if (typeof earliestPreference === 'boolean') return earliestPreference;
     return fallback;
   }
 
@@ -203,14 +225,19 @@ export function parseReviewPreferences(
     legacy?.reviewPanelMode ??
     earlier?.reviewPanelMode ??
     initial?.reviewPanelMode ??
-    oldest?.reviewPanelMode;
+    oldest?.reviewPanelMode ??
+    earliest?.reviewPanelMode;
   const requestedPaperImageMode =
     parsed?.paperImageMode ??
     previous?.paperImageMode ??
     legacy?.paperImageMode ??
     earlier?.paperImageMode ??
     initial?.paperImageMode ??
-    oldest?.paperImageMode;
+    oldest?.paperImageMode ??
+    earliest?.paperImageMode;
+  const requestedQuestionContentFilter = records
+    .map((record) => record?.questionContentFilter)
+    .find((value) => value === 'all' || value === 'image' || value === 'table');
   const reviewSide = legacySide();
 
   return {
@@ -219,6 +246,11 @@ export function parseReviewPreferences(
       requestedPaperImageMode === 'svg'
         ? 'generated'
         : DEFAULT_REVIEW_PREFERENCES.paperImageMode,
+    questionContentFilter:
+      requestedQuestionContentFilter === 'image' ||
+      requestedQuestionContentFilter === 'table'
+        ? requestedQuestionContentFilter
+        : DEFAULT_REVIEW_PREFERENCES.questionContentFilter,
     reviewControlMode:
       requestedControlMode === 'advanced' || requestedControlMode === 'simple'
         ? requestedControlMode

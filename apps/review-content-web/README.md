@@ -181,6 +181,12 @@ or page size starts again from the first result.
   can be used with feedback visible and the full panels hidden. Display
   preferences stay in local browser storage; existing settings initially show
   feedback wherever the corresponding review panel was visible.
+- Use **Questions shown** under **View options** to show every question tree,
+  only trees containing a `PaperImage`, or only trees containing a rendered
+  table. Image and table matching covers question, working, formula, tip,
+  answer, key, and option fields. A nested match retains its ancestors while
+  unrelated nested siblings are hidden; the left rail and review navigation
+  follow the same visible result.
 - Use the persistent **Simple review** switch to choose between **Looks good**,
   **Make a change**, and **Reset**, or the complete descriptive request set.
   Detailed mode adds **Change Complete**, **Block it**, and **Coming

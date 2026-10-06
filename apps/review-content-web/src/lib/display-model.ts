@@ -60,6 +60,7 @@ export type DisplayWorkingSegment = Readonly<
 
 export type DisplayContentField = ReviewContentField &
   Readonly<{
+    hasTable: boolean;
     paperImages?: readonly DisplayPaperImage[];
     preparationIssue?: string;
     rendered: string;

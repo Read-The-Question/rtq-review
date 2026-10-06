@@ -411,7 +411,10 @@ test('the filtered paper rail links every visible question hierarchy level', asy
 
   assert.match(component, /function reviewOutlineNode/);
   assert.match(component, /href: `#question-\$\{node\.id\}`/);
-  assert.match(component, /node\.children\.map/);
+  assert.match(
+    component,
+    /node\.children[\s\S]*visibleNodeIds\.has\(child\.id\)[\s\S]*\.map/,
+  );
   assert.match(component, /<PaperOutline/);
   assert.match(component, /activeId=\{currentCursor\?\.node\.id\}/);
   assert.match(outline, /aria-current=\{current \? 'location' : undefined\}/);
@@ -576,6 +579,19 @@ test('view options support minimal metadata and centered review panel modes', as
   assert.match(component, /label="Metadata"/);
   assert.match(component, /label="Image tags"/);
   assert.match(component, /label="Image markers in navigation"/);
+  assert.match(component, /<span>Questions shown<\/span>/);
+  assert.match(component, /value=\{preferences\.questionContentFilter\}/);
+  assert.match(component, /<option value="all">All questions<\/option>/);
+  assert.match(
+    component,
+    /<option value="image">Questions with images<\/option>/,
+  );
+  assert.match(
+    component,
+    /<option value="table">Questions with tables<\/option>/,
+  );
+  assert.match(component, /questionContentFilterMatches\(/);
+  assert.match(component, /visibleNodeIds=\{visibleNodeIds\}/);
   assert.match(component, /value=\{preferences\.paperImageMode\}/);
   assert.match(component, /<option value="all">All related assets<\/option>/);
   assert.match(
@@ -599,7 +615,7 @@ test('view options support minimal metadata and centered review panel modes', as
   assert.match(css, /\.paper-summary\s*{[^}]*display:\s*flex/s);
   assert.match(
     component,
-    /function paperImageCountsByNode[\s\S]*node\.content\.question\.paperImages[\s\S]*working\.working\.paperImages/,
+    /function paperImageCountsByNode[\s\S]*countImages\(node\.content\.question\)[\s\S]*countImages\(working\.working\)[\s\S]*countImages\(answer\.answer\)/,
   );
   assert.match(component, /text:\s*'IMG'/);
   assert.match(component, /showImageMarkers:\s*preferences\.showImageMarkers/);

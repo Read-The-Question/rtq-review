@@ -40,12 +40,25 @@ function render(markdown: string): string {
 test('preserves a valid PaperTable for the shared render transform', () => {
   const markdown =
     '<PaperTable width="full">\n\n| A | B |\n| - | - |\n| 1 | 2 |\n\n</PaperTable>\n';
-  assert.deepEqual(preparePaperTableMarkdown(markdown), { markdown });
+  assert.deepEqual(preparePaperTableMarkdown(markdown), {
+    hasTable: true,
+    markdown,
+  });
 });
 
 test('leaves wrapper examples inside fences untouched', () => {
   const source = '```md\n<PaperTable>\n</PaperTable>\n```\n';
-  assert.deepEqual(preparePaperTableMarkdown(source), { markdown: source });
+  assert.deepEqual(preparePaperTableMarkdown(source), {
+    hasTable: false,
+    markdown: source,
+  });
+});
+
+test('detects raw GFM tables outside PaperTable wrappers', () => {
+  assert.deepEqual(preparePaperTableMarkdown('| A |\n| - |\n| 1 |'), {
+    hasTable: true,
+    markdown: '| A |\n| - |\n| 1 |',
+  });
 });
 
 test('keeps invalid PaperTable content readable and reports the issue', () => {
@@ -58,6 +71,7 @@ test('keeps invalid PaperTable content readable and reports the issue', () => {
   );
   assert.doesNotMatch(prepared.markdown, /<\/?PaperTable/);
   assert.match(prepared.markdown, /\| A \|/);
+  assert.equal(prepared.hasTable, true);
 });
 
 test('renders all presentation metadata and semantic headers', () => {

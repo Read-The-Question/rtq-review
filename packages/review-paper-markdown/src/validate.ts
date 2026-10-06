@@ -10,6 +10,7 @@ import {
   remarkPaperList,
   remarkPaperListMdx,
   remarkPaperShape,
+  remarkPaperStructuredTable,
   remarkPaperSymbol,
   remarkPaperTable,
 } from "./index.ts";
@@ -28,13 +29,35 @@ export function validatePaperListMarkdown(markdown: string): void {
 export function validatePaperTableMarkdown(markdown: string): void {
   if (!hasActivePaperTable(markdown)) return;
 
+  paperTableTree(markdown);
+}
+
+function paperTableTree(markdown: string): Root {
   const processor = unified()
     .use(remarkParse)
     .use(remarkGfm)
     .use(remarkMath)
     .use(remarkPaperListMdx)
-    .use(remarkPaperTable);
-  processor.runSync(processor.parse(markdown));
+    .use(remarkPaperTable)
+    .use(remarkPaperStructuredTable);
+  return processor.runSync(processor.parse(markdown)) as Root;
+}
+
+function containsMarkdownTable(parent: Root | Parent): boolean {
+  return parent.children.some(
+    (child) =>
+      (child as { type: string }).type === "table" ||
+      (child as { type: string }).type === "paperStructuredTableNative" ||
+      ("children" in child && containsMarkdownTable(child)),
+  );
+}
+
+export function hasMarkdownTable(markdown: string): boolean {
+  try {
+    return containsMarkdownTable(paperTableTree(markdown));
+  } catch {
+    return false;
+  }
 }
 
 export function validatePaperSymbolMarkdown(markdown: string): void {

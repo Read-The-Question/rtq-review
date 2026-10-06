@@ -16,7 +16,7 @@ import {
   stripPaperTableWrapperLines,
 } from "./paper-table.ts";
 import { remarkPaperListMdx } from "./index.ts";
-import { validatePaperTableMarkdown } from "./validate.ts";
+import { hasMarkdownTable, validatePaperTableMarkdown } from "./validate.ts";
 
 function tableSource(
   attributes = "",
@@ -135,6 +135,20 @@ test("wraps raw GFM tables with the same visual defaults", async () => {
   assert.match(html, /data-width="fit"/);
   assert.doesNotMatch(html, /data-paper-table/);
   assert.doesNotMatch(html, /scope="col"/);
+});
+
+test("detects rendered tables without treating fenced examples as tables", () => {
+  assert.equal(hasMarkdownTable("| A |\n| - |\n| 1 |"), true);
+  assert.equal(hasMarkdownTable(tableSource()), true);
+  assert.equal(
+    hasMarkdownTable(
+      "<PaperViewStructuredTable><PaperViewTableBody /></PaperViewStructuredTable>",
+    ),
+    true,
+  );
+  assert.equal(hasMarkdownTable("```md\n| A |\n| - |\n| 1 |\n```"), false);
+  assert.equal(hasMarkdownTable("<PaperViewStructuredTable>"), false);
+  assert.equal(hasMarkdownTable("A paragraph without a table."), false);
 });
 
 test("rejects non-canonical attributes and invalid structures", () => {

@@ -1,7 +1,11 @@
 import { stripPaperTableWrapperLines } from '@rtq/review-paper-markdown';
-import { validatePaperTableMarkdown } from '@rtq/review-paper-markdown/validate';
+import {
+  hasMarkdownTable,
+  validatePaperTableMarkdown,
+} from '@rtq/review-paper-markdown/validate';
 
 export type PreparedPaperTableMarkdown = Readonly<{
+  hasTable: boolean;
   issue?: string;
   markdown: string;
 }>;
@@ -12,14 +16,16 @@ export function preparePaperTableMarkdown(
 ): PreparedPaperTableMarkdown {
   try {
     validatePaperTableMarkdown(markdown);
-    return { markdown };
+    return { hasTable: hasMarkdownTable(markdown), markdown };
   } catch (error) {
+    const fallback = stripPaperTableWrapperLines(markdown);
     return {
+      hasTable: hasMarkdownTable(fallback),
       issue:
         error instanceof Error
           ? error.message
           : 'PaperTable preparation failed.',
-      markdown: stripPaperTableWrapperLines(markdown),
+      markdown: fallback,
     };
   }
 }

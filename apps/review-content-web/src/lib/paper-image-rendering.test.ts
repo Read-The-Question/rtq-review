@@ -300,7 +300,7 @@ test('preserves explicitly requested inline manual SVG delivery', (t) => {
   const f = fixture(t);
   f.asset(
     'questions/manual/s01-q01-i00.svg',
-    '<svg width="100" height="75" viewBox="0 0 100 75"><path d="M0 0L100 0L0 75Z"/></svg>',
+    '<svg width="100" height="75" viewBox="0 0 100 75"><path class="fill-diagrams-swatch-red stroke-diagrams-swatch-blue" d="M0 0L100 0L0 75Z"/></svg>',
   );
   f.asset(
     'questions/manual/s01-q01-i00.json',
@@ -318,7 +318,10 @@ test('preserves explicitly requested inline manual SVG delivery', (t) => {
     paperImages: prepared.paperImages,
   });
   assert.match(rendered, /rtq-review-inline-svg/);
-  assert.match(rendered, /fill-diagrams-fill-medium/);
+  assert.match(rendered, /fill-diagrams-swatch-red/);
+  assert.match(rendered, /stroke-diagrams-swatch-blue/);
+  assert.match(rendered, /fill-diagrams-swatch-red \{ fill: #f53e39; \}/);
+  assert.match(rendered, /stroke-diagrams-swatch-blue \{ stroke: #2288f8; \}/);
 });
 
 for (const scope of ['question', 'working', 'answer'] as const) {

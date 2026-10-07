@@ -14,6 +14,35 @@ import { fileURLToPath, pathToFileURL } from "node:url";
 import postcss from "postcss";
 
 const workspace = resolve(dirname(fileURLToPath(import.meta.url)), "..");
+const fixedSwatches = {
+  "--color-diagrams-swatch-black": "#0a0a0a",
+  "--color-diagrams-swatch-white": "#f5f5f5",
+  "--color-diagrams-swatch-grey": "#929292",
+  "--color-diagrams-swatch-red": "#f53e39",
+  "--color-diagrams-swatch-orange": "#e97200",
+  "--color-diagrams-swatch-yellow": "#f7d710",
+  "--color-diagrams-swatch-green": "#01a943",
+  "--color-diagrams-swatch-blue": "#2288f8",
+  "--color-diagrams-swatch-purple": "#a661e8",
+  "--color-diagrams-swatch-pink": "#f47db9",
+  "--color-diagrams-swatch-brown": "#b6744b",
+};
+
+function retainedSnapshot(debugBounds) {
+  return {
+    version: 2,
+    themes: {
+      light: {
+        "--color-diagrams-debug-bounds": debugBounds,
+        ...fixedSwatches,
+      },
+      dark: {
+        "--color-diagrams-debug-bounds": debugBounds,
+        ...fixedSwatches,
+      },
+    },
+  };
+}
 
 test("review compilers discover canonical SVG utilities through the configured content root", async () => {
   const fixture = mkdtempSync(join(tmpdir(), "rtq-review-svg-tailwind-"));
@@ -49,15 +78,7 @@ test("review compilers discover canonical SVG utilities through the configured c
     mkdirSync(assets, { recursive: true });
     write(
       snapshotPath,
-      JSON.stringify({
-        version: 2,
-        themes: {
-          light: { "--color-diagrams-debug-bounds": "rgba(10, 10, 10, 0.25)" },
-          dark: {
-            "--color-diagrams-debug-bounds": "rgba(250, 250, 250, 0.25)",
-          },
-        },
-      }),
+      JSON.stringify(retainedSnapshot("rgba(10, 10, 10, 0.25)")),
     );
     mkdirSync(consumer);
     write(join(fixture, ".gitignore"), "/packages/assets/assets/");
@@ -90,7 +111,7 @@ test("review compilers discover canonical SVG utilities through the configured c
       );
       write(
         svg,
-        '<svg class="text-maths-working-carry text-maths-working-remainder text-foreground-strong text-diagrams-debug-bounds"/>',
+        '<svg class="text-maths-working-carry text-maths-working-remainder text-foreground-strong text-diagrams-debug-bounds"><path class="fill-diagrams-swatch-red stroke-diagrams-swatch-blue"/></svg>',
       );
       const result = await compile();
       for (const utility of [
@@ -98,6 +119,8 @@ test("review compilers discover canonical SVG utilities through the configured c
         "text-maths-working-remainder",
         "text-foreground-strong",
         "text-diagrams-debug-bounds",
+        "fill-diagrams-swatch-red",
+        "stroke-diagrams-swatch-blue",
       ]) {
         assert.ok(
           result.css.includes(`.${utility} {`),
@@ -123,6 +146,16 @@ test("review compilers discover canonical SVG utilities through the configured c
         /\.text-diagrams-debug-bounds\s*\{\s*color:\s*rgba\(10, 10, 10, 0\.25\);/,
         application,
       );
+      assert.match(
+        result.css,
+        /\.fill-diagrams-swatch-red\s*\{\s*fill:\s*#f53e39;/,
+        application,
+      );
+      assert.match(
+        result.css,
+        /\.stroke-diagrams-swatch-blue\s*\{\s*stroke:\s*#2288f8;/,
+        application,
+      );
 
       write(nextUtilitySvg, '<svg class="stroke-maths-working-carry"/>');
       assert.ok(
@@ -135,12 +168,7 @@ test("review compilers discover canonical SVG utilities through the configured c
     ).href;
     write(
       snapshotPath,
-      JSON.stringify({
-        version: 2,
-        themes: {
-          light: { "--color-diagrams-debug-bounds": "rgba(12, 24, 36, 0.4)" },
-        },
-      }),
+      JSON.stringify(retainedSnapshot("rgba(12, 24, 36, 0.4)")),
     );
     const { default: recalibrated } = await import(`${configUrl}?recalibrated`);
     assert.equal(
@@ -154,8 +182,14 @@ test("review compilers discover canonical SVG utilities through the configured c
       write(
         snapshotPath,
         JSON.stringify({
-          version: 2,
-          themes: { light: { "--color-diagrams-debug-bounds": colour } },
+          ...retainedSnapshot("rgba(12, 24, 36, 0.4)"),
+          themes: {
+            ...retainedSnapshot("rgba(12, 24, 36, 0.4)").themes,
+            light: {
+              ...retainedSnapshot("rgba(12, 24, 36, 0.4)").themes.light,
+              "--color-diagrams-debug-bounds": colour,
+            },
+          },
         }),
       );
       await assert.rejects(
@@ -163,6 +197,20 @@ test("review compilers discover canonical SVG utilities through the configured c
         /Missing or invalid diagrams-debug-bounds/,
       );
     }
+    const missingSwatch = retainedSnapshot("rgba(12, 24, 36, 0.4)");
+    delete missingSwatch.themes.light["--color-diagrams-swatch-brown"];
+    write(snapshotPath, JSON.stringify(missingSwatch));
+    await assert.rejects(
+      import(`${configUrl}?missing-swatch`),
+      /Missing or invalid diagrams-swatch-brown/,
+    );
+    const driftingSwatch = retainedSnapshot("rgba(12, 24, 36, 0.4)");
+    driftingSwatch.themes.dark["--color-diagrams-swatch-red"] = "#000000";
+    write(snapshotPath, JSON.stringify(driftingSwatch));
+    await assert.rejects(
+      import(`${configUrl}?drifting-swatch`),
+      /Expected mode-invariant diagrams-swatch-red/,
+    );
   } finally {
     if (previousRoot === undefined) delete process.env.RTQ_CONTENT_ROOT;
     else process.env.RTQ_CONTENT_ROOT = previousRoot;

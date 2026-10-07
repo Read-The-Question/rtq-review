@@ -70,7 +70,10 @@ test("prepares both deliveries, caches unchanged inputs and invalidates edited S
   const assets = join(root, "packages/assets");
   installSvgToolFixture(assets);
   const source = join(assets, "assets/example.svg");
-  writeFileSync(source, '<svg width="100.5" height="50" />');
+  writeFileSync(
+    source,
+    '<svg width="100.5" height="50"><path class="fill-diagrams-swatch-red stroke-diagrams-swatch-blue"/></svg>',
+  );
   const external = prepareReviewSvg(source, "example", "external");
   assert.deepEqual(external, {
     naturalWidth: 100.5,
@@ -83,6 +86,13 @@ test("prepares both deliveries, caches unchanged inputs and invalidates edited S
   assert.match(
     inline.svgCss!,
     /^\.rtq-review-inline-svg \.fill-diagrams-fill-medium/,
+  );
+  assert.match(inline.svgMarkup!, /fill-diagrams-swatch-red/);
+  assert.match(inline.svgMarkup!, /stroke-diagrams-swatch-blue/);
+  assert.match(inline.svgCss!, /fill-diagrams-swatch-red \{ fill: #f53e39; \}/);
+  assert.match(
+    inline.svgCss!,
+    /stroke-diagrams-swatch-blue \{ stroke: #2288f8; \}/,
   );
   writeFileSync(
     join(assets, "assets/design-tokens/svg-colours.json"),

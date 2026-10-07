@@ -95,7 +95,7 @@ test('PaperImage family/type is rendering-neutral across scopes, nesting and for
       }
       const firstStem = `${owner}/manual/${prefix}${slot}-i00`;
       const firstSvg =
-        '<svg width="320" height="240" viewBox="0 0 320 240"></svg>';
+        '<svg width="320" height="240" viewBox="0 0 320 240"><path class="fill-diagrams-swatch-red stroke-diagrams-swatch-blue"/></svg>';
       write(`${paperRoot}/${firstStem}.svg`, firstSvg);
       assets[`${firstStem}.svg`] = {
         fingerprint: `sha256:${createHash('sha256').update(firstSvg).digest('hex')}`,
@@ -194,7 +194,19 @@ test('PaperImage family/type is rendering-neutral across scopes, nesting and for
       assert.match(comparison, /Generated triangle/);
       assert.match(comparison, /Generated description/);
       assert.match(comparison, /The sets overlap/);
-      if (depth === 1) assert.match(comparison, /rtq-review-inline-svg/);
+      if (depth === 1) {
+        assert.match(comparison, /rtq-review-inline-svg/);
+        assert.match(comparison, /fill-diagrams-swatch-red/);
+        assert.match(comparison, /stroke-diagrams-swatch-blue/);
+        assert.match(
+          comparison,
+          /fill-diagrams-swatch-red \{ fill: #f53e39; \}/,
+        );
+        assert.match(
+          comparison,
+          /stroke-diagrams-swatch-blue \{ stroke: #2288f8; \}/,
+        );
+      }
       rmSync(path.join(root, paperRoot, `${generatedStem}.svg`));
       rmSync(path.join(root, paperRoot, `${generatedStem}.json`));
       assert.throws(

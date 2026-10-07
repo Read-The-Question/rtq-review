@@ -34,7 +34,7 @@ export function installSvgToolFixture(assetsPackageRoot) {
       naturalWidth, naturalHeight, minimumReadableWidth: naturalWidth * 0.75,
       ...(args['render-mode'] === 'inline' ? {
         svgMarkup: svg,
-        svgCss: '.rtq-review-inline-svg .fill-diagrams-fill-medium { fill: #bebebe; }',
+        svgCss: '.rtq-review-inline-svg .fill-diagrams-fill-medium { fill: #bebebe; }.rtq-review-inline-svg .fill-diagrams-swatch-red { fill: #f53e39; }.rtq-review-inline-svg .stroke-diagrams-swatch-blue { stroke: #2288f8; }',
       } : {}),
     }));
   `,

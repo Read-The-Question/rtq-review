@@ -314,10 +314,11 @@ test('preserves explicitly requested inline manual SVG delivery', (t) => {
   const prepared = f.prepareDisplay(
     '<PaperImage assetScope="question" renderMode="inline" />',
   );
-  assert.match(
-    render(prepared.rendered, { paperImages: prepared.paperImages }),
-    /rtq-review-inline-svg/,
-  );
+  const rendered = render(prepared.rendered, {
+    paperImages: prepared.paperImages,
+  });
+  assert.match(rendered, /rtq-review-inline-svg/);
+  assert.match(rendered, /fill-diagrams-fill-medium/);
 });
 
 for (const scope of ['question', 'working', 'answer'] as const) {

@@ -80,7 +80,10 @@ test("prepares both deliveries, caches unchanged inputs and invalidates edited S
   assert.equal(prepareReviewSvg(source, "example", "external"), external);
   const inline = prepareReviewSvg(source, "example", "inline");
   assert.match(inline.svgMarkup!, /<svg/);
-  assert.equal(inline.svgCss, "");
+  assert.match(
+    inline.svgCss!,
+    /^\.rtq-review-inline-svg \.fill-diagrams-fill-medium/,
+  );
   writeFileSync(
     join(assets, "assets/design-tokens/svg-colours.json"),
     '{"updated":true}',

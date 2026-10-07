@@ -32,7 +32,10 @@ export function installSvgToolFixture(assetsPackageRoot) {
     if (!naturalWidth || !naturalHeight) throw new Error('Fixture requires absolute SVG dimensions');
     console.log(JSON.stringify({
       naturalWidth, naturalHeight, minimumReadableWidth: naturalWidth * 0.75,
-      ...(args['render-mode'] === 'inline' ? { svgMarkup: svg, svgCss: '' } : {}),
+      ...(args['render-mode'] === 'inline' ? {
+        svgMarkup: svg,
+        svgCss: '.rtq-review-inline-svg .fill-diagrams-fill-medium { fill: #bebebe; }',
+      } : {}),
     }));
   `,
   );

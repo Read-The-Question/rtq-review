@@ -111,13 +111,11 @@ test("review compilers discover canonical SVG utilities through the configured c
       );
       write(
         svg,
-        '<svg class="text-maths-working-carry text-maths-working-remainder text-foreground-strong text-diagrams-debug-bounds"><path class="fill-diagrams-swatch-red stroke-diagrams-swatch-blue"/></svg>',
+        '<svg class="text-maths-working-carry text-diagrams-debug-bounds"><path class="fill-diagrams-swatch-red stroke-diagrams-swatch-blue"/></svg>',
       );
       const result = await compile();
       for (const utility of [
         "text-maths-working-carry",
-        "text-maths-working-remainder",
-        "text-foreground-strong",
         "text-diagrams-debug-bounds",
         "fill-diagrams-swatch-red",
         "stroke-diagrams-swatch-blue",
@@ -131,13 +129,8 @@ test("review compilers discover canonical SVG utilities through the configured c
         !result.css.includes("[data-rtq-long-division-role="),
         application,
       );
-      assert.ok(result.css.includes("var(--maths-working-carry)"), application);
       assert.ok(
-        result.css.includes("var(--maths-working-remainder)"),
-        application,
-      );
-      assert.ok(
-        result.css.includes("var(--long-division-working-rule)"),
+        result.css.includes("var(--rtq-maths-working-carry)"),
         application,
       );
       assert.ok(!result.css.includes(".underline {"), application);

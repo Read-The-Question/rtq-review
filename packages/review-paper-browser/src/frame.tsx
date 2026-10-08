@@ -1,5 +1,7 @@
 import type { ReactNode } from 'react';
 
+import { ThemeToggle } from './theme-toggle.tsx';
+
 export function PaperBrowserFrame({
   appLabel,
   children,
@@ -34,9 +36,12 @@ export function PaperBrowserFrame({
           <span aria-hidden="true">RTQ</span>
           <span>{appLabel}</span>
         </a>
-        <div className="paper-browser-masthead-status">
-          <span className="paper-browser-status-dot" aria-hidden="true" />
-          {status}
+        <div className="paper-browser-masthead-controls">
+          <div className="paper-browser-masthead-status">
+            <span className="paper-browser-status-dot" aria-hidden="true" />
+            {status}
+          </div>
+          <ThemeToggle />
         </div>
       </header>
 

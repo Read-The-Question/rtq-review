@@ -6,7 +6,8 @@
 @config '@rtq/review-repository-paths/tailwind-svg-sources';
 
 :root {
-  --background: #ffffff;
+  color-scheme: light;
+  --background: var(--panel);
   --foreground: #111111;
   --muted: #6b6b6b;
   --muted-strong: #444444;
@@ -20,10 +21,11 @@
   --ring: rgba(17, 17, 17, 0.14);
   --success: #1f7a4f;
   --error: #a33232;
-  --maths-working-carry: #70757b;
-  --maths-working-remainder: #008000;
-  --rtq-maths-working-step: #ed5fa6;
-  --long-division-working-rule: var(--muted-strong);
+  --rtq-maths-working-carry: #5f646a;
+  --rtq-maths-working-borrow: #006aa5;
+  --rtq-maths-working-step: #b62877;
+  --rtq-maths-answer-correct: #107823;
+  --rtq-maths-answer-incorrect: #c5002b;
   --tag-family-fill: #ffeddd;
   --tag-family-line: #e1a05a;
   --tag-family-ink: #8a4f11;
@@ -72,14 +74,184 @@
   --status-green-4-fill: #b7e3b9;
   --status-green-4-line: #237e40;
   --status-green-4-ink: #0e431f;
+  --editor-surface-start: #f1f1f1;
+  --editor-surface-end: #eaeaea;
+  --question-focus-start: rgba(231, 247, 255, 0.98);
+  --question-focus-end: rgba(191, 231, 255, 0.96);
+  --question-focus-ink: #030303;
+  --outline-accent: #275f72;
+  --pdf-canvas: #d9d8d3;
+  --theme-toggle-background: var(--panel);
+  --theme-toggle-border: var(--line-strong);
+  --theme-toggle-muted: var(--muted);
+}
+
+:root[data-theme='dark'] {
+  color-scheme: dark;
+  --background: #111416;
+  --foreground: #edf0f2;
+  --muted: #a8b0b6;
+  --muted-strong: #c8cdd1;
+  --panel: #191d20;
+  --panel-soft: #202529;
+  --panel-softer: #242a2e;
+  --line: #30383e;
+  --line-strong: #4a555d;
+  --accent: #edf0f2;
+  --accent-strong: #ffffff;
+  --ring: rgba(218, 227, 233, 0.18);
+  --success: #67ca98;
+  --error: #ff8d8d;
+  --rtq-maths-working-carry: #8e9399;
+  --rtq-maths-working-borrow: #55aee8;
+  --rtq-maths-working-step: #ee76af;
+  --rtq-maths-answer-correct: #53c75d;
+  --rtq-maths-answer-incorrect: #ff6367;
+  --tag-family-fill: #3c2b1f;
+  --tag-family-line: #bd8249;
+  --tag-family-ink: #ffc487;
+  --tag-math-fill: #172d40;
+  --tag-math-line: #548bc3;
+  --tag-math-ink: #9bcbff;
+  --tag-frame-fill: #2c2447;
+  --tag-frame-line: #846bc4;
+  --tag-frame-ink: #c9b8ff;
+  --tag-marker-fill: #17372d;
+  --tag-marker-line: #4a9d78;
+  --tag-marker-ink: #8ce0b9;
+  --tag-reasoning-fill: #412430;
+  --tag-reasoning-line: #b95d7f;
+  --tag-reasoning-ink: #f2a3c0;
+  --tag-legacy-fill: #3a311c;
+  --tag-legacy-line: #b28b3c;
+  --tag-legacy-ink: #edc86e;
+  --tag-implicit-fill: #302b25;
+  --tag-implicit-line: #8d8174;
+  --tag-implicit-ink: #cbbfb2;
+  --status-fill: #402b1c;
+  --status-line: #bd7229;
+  --status-ink: #ffb66f;
+  --status-gray-fill: #292c2b;
+  --status-gray-line: #797d79;
+  --status-gray-ink: #c9cdca;
+  --status-blocked-fill: #382a20;
+  --status-blocked-line: #9e7652;
+  --status-blocked-ink: #dfb48c;
+  --status-red-fill: #402222;
+  --status-red-line: #bd5b5b;
+  --status-red-ink: #ff9d9d;
+  --status-amber-fill: #3d301d;
+  --status-amber-line: #b98a3c;
+  --status-amber-ink: #efc16f;
+  --status-green-1-fill: #203427;
+  --status-green-1-line: #668d65;
+  --status-green-1-ink: #a5d8a4;
+  --status-green-2-fill: #1b3924;
+  --status-green-2-line: #54a162;
+  --status-green-2-ink: #94df9f;
+  --status-green-3-fill: #173e24;
+  --status-green-3-line: #3eaa58;
+  --status-green-3-ink: #83e497;
+  --status-green-4-fill: #134523;
+  --status-green-4-line: #36b45a;
+  --status-green-4-ink: #7bea94;
+  --editor-surface-start: #242a2e;
+  --editor-surface-end: #1e2327;
+  --question-focus-start: #1c3d52;
+  --question-focus-end: #183247;
+  --question-focus-ink: #f2f8fb;
+  --outline-accent: #79bdd5;
+  --pdf-canvas: #2d3438;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root[data-theme='system'] {
+    color-scheme: dark;
+    --background: #111416;
+    --foreground: #edf0f2;
+    --muted: #a8b0b6;
+    --muted-strong: #c8cdd1;
+    --panel: #191d20;
+    --panel-soft: #202529;
+    --panel-softer: #242a2e;
+    --line: #30383e;
+    --line-strong: #4a555d;
+    --accent: #edf0f2;
+    --accent-strong: #ffffff;
+    --ring: rgba(218, 227, 233, 0.18);
+    --success: #67ca98;
+    --error: #ff8d8d;
+    --rtq-maths-working-carry: #8e9399;
+    --rtq-maths-working-borrow: #55aee8;
+    --rtq-maths-working-step: #ee76af;
+    --rtq-maths-answer-correct: #53c75d;
+    --rtq-maths-answer-incorrect: #ff6367;
+    --tag-family-fill: #3c2b1f;
+    --tag-family-line: #bd8249;
+    --tag-family-ink: #ffc487;
+    --tag-math-fill: #172d40;
+    --tag-math-line: #548bc3;
+    --tag-math-ink: #9bcbff;
+    --tag-frame-fill: #2c2447;
+    --tag-frame-line: #846bc4;
+    --tag-frame-ink: #c9b8ff;
+    --tag-marker-fill: #17372d;
+    --tag-marker-line: #4a9d78;
+    --tag-marker-ink: #8ce0b9;
+    --tag-reasoning-fill: #412430;
+    --tag-reasoning-line: #b95d7f;
+    --tag-reasoning-ink: #f2a3c0;
+    --tag-legacy-fill: #3a311c;
+    --tag-legacy-line: #b28b3c;
+    --tag-legacy-ink: #edc86e;
+    --tag-implicit-fill: #302b25;
+    --tag-implicit-line: #8d8174;
+    --tag-implicit-ink: #cbbfb2;
+    --status-fill: #402b1c;
+    --status-line: #bd7229;
+    --status-ink: #ffb66f;
+    --status-gray-fill: #292c2b;
+    --status-gray-line: #797d79;
+    --status-gray-ink: #c9cdca;
+    --status-blocked-fill: #382a20;
+    --status-blocked-line: #9e7652;
+    --status-blocked-ink: #dfb48c;
+    --status-red-fill: #402222;
+    --status-red-line: #bd5b5b;
+    --status-red-ink: #ff9d9d;
+    --status-amber-fill: #3d301d;
+    --status-amber-line: #b98a3c;
+    --status-amber-ink: #efc16f;
+    --status-green-1-fill: #203427;
+    --status-green-1-line: #668d65;
+    --status-green-1-ink: #a5d8a4;
+    --status-green-2-fill: #1b3924;
+    --status-green-2-line: #54a162;
+    --status-green-2-ink: #94df9f;
+    --status-green-3-fill: #173e24;
+    --status-green-3-line: #3eaa58;
+    --status-green-3-ink: #83e497;
+    --status-green-4-fill: #134523;
+    --status-green-4-line: #36b45a;
+    --status-green-4-ink: #7bea94;
+    --editor-surface-start: #242a2e;
+    --editor-surface-end: #1e2327;
+    --question-focus-start: #1c3d52;
+    --question-focus-end: #183247;
+    --question-focus-ink: #f2f8fb;
+    --outline-accent: #79bdd5;
+    --pdf-canvas: #2d3438;
+  }
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --color-foreground-strong: var(--long-division-working-rule);
-  --color-maths-working-carry: var(--maths-working-carry);
-  --color-maths-working-remainder: var(--maths-working-remainder);
+  --color-maths-working-carry: var(--rtq-maths-working-carry);
+  --color-maths-working-borrow: var(--rtq-maths-working-borrow);
+  --color-maths-working-step: var(--rtq-maths-working-step);
+  --color-maths-answer-correct: var(--rtq-maths-answer-correct);
+  --color-maths-answer-incorrect: var(--rtq-maths-answer-incorrect);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 }
@@ -90,8 +262,24 @@ body {
   font-family: var(--font-geist-sans), Arial, Helvetica, sans-serif;
 }
 
+.rtq-maths-working-carry {
+  color: var(--rtq-maths-working-carry);
+}
+
+.rtq-maths-working-borrow {
+  color: var(--rtq-maths-working-borrow);
+}
+
 .rtq-maths-working-step {
   color: var(--rtq-maths-working-step);
+}
+
+.rtq-maths-answer-correct {
+  color: var(--rtq-maths-answer-correct);
+}
+
+.rtq-maths-answer-incorrect {
+  color: var(--rtq-maths-answer-incorrect);
 }
 
 .sr-only {
@@ -123,7 +311,7 @@ kbd {
   padding: 0 0.45rem;
   border-radius: 0.55rem;
   border: 1px solid var(--line-strong);
-  background: white;
+  background: var(--panel);
   font-size: 0.75rem;
   font-weight: 700;
 }
@@ -149,7 +337,7 @@ kbd {
 .editor-topbar {
   border: 1px solid var(--line);
   border-radius: 1.45rem;
-  background: white;
+  background: var(--panel);
   box-shadow: 0 14px 32px rgba(0, 0, 0, 0.04);
 }
 
@@ -202,7 +390,7 @@ kbd {
   gap: 0.6rem;
   border: 1px solid var(--line);
   border-radius: 999px;
-  background: white;
+  background: var(--panel);
   padding: 0.2rem 0.3rem 0.2rem 0.85rem;
 }
 
@@ -219,7 +407,7 @@ kbd {
   width: min(22rem, calc(100vw - 2rem));
   border: 1px solid var(--line);
   border-radius: 1rem;
-  background: white;
+  background: var(--panel);
   box-shadow: 0 18px 40px rgba(0, 0, 0, 0.08);
   overflow: hidden;
   z-index: 50;
@@ -233,7 +421,7 @@ kbd {
   height: 1.2rem;
   padding: 0 0.3rem;
   border-radius: 999px;
-  background: #f0f0f0;
+  background: var(--panel-soft);
   font-size: 0.72rem;
   font-weight: 800;
 }
@@ -251,9 +439,9 @@ kbd {
   align-self: flex-start;
   flex: 0 0 auto;
   gap: 0.4rem;
-  border: 1px solid rgba(17, 17, 17, 0.14);
+  border: 1px solid var(--line);
   border-radius: 999px;
-  background: #fafafa;
+  background: var(--panel-soft);
   padding: 0.45rem 0.7rem;
   font-size: 0.8rem;
   font-weight: 700;
@@ -289,9 +477,9 @@ kbd {
   align-items: flex-start;
   justify-content: space-between;
   gap: 1rem;
-  border: 1px solid rgba(17, 17, 17, 0.1);
+  border: 1px solid var(--line);
   border-radius: 1.2rem;
-  background: white;
+  background: var(--panel);
   padding: 1rem 1.05rem;
   text-decoration: none;
   transition:
@@ -302,7 +490,7 @@ kbd {
 
 .browse-row:hover {
   transform: translateY(-1px);
-  border-color: rgba(17, 17, 17, 0.16);
+  border-color: var(--line);
   box-shadow: 0 12px 26px rgba(0, 0, 0, 0.04);
 }
 
@@ -349,9 +537,9 @@ kbd {
   display: inline-flex;
   align-items: center;
   gap: 0.4rem;
-  border: 1px solid rgba(17, 17, 17, 0.12);
+  border: 1px solid var(--line);
   border-radius: 999px;
-  background: #f7f7f7;
+  background: var(--panel-softer);
   padding: 0.45rem 0.75rem;
   font-size: 0.78rem;
   font-weight: 700;
@@ -370,7 +558,7 @@ kbd {
 .tag-corpus-search__form,
 .tag-corpus-results {
   border: 1px solid var(--line);
-  background: white;
+  background: var(--panel);
 }
 
 .tag-corpus-search__header {
@@ -470,7 +658,7 @@ kbd {
   width: 100%;
   border: 1px solid var(--line);
   border-radius: 0.75rem;
-  background: white;
+  background: var(--panel);
   padding: 0.7rem 0.8rem;
   color: var(--foreground);
   font: inherit;
@@ -540,7 +728,7 @@ kbd {
   gap: 1rem;
   border: 1px solid var(--line);
   border-radius: 1rem;
-  background: white;
+  background: var(--panel);
   padding: 0.8rem 1rem;
 }
 
@@ -819,7 +1007,7 @@ kbd {
   flex: 0 0 auto;
   border: 1px solid var(--line);
   border-radius: 999px;
-  background: white;
+  background: var(--panel);
   color: var(--muted-strong);
   font-size: 0.76rem;
   font-weight: 700;
@@ -834,13 +1022,13 @@ kbd {
 
 .tag-sidebar__filter:hover {
   transform: translateY(-1px);
-  border-color: rgba(17, 17, 17, 0.18);
-  background: #fafafa;
+  border-color: var(--line);
+  background: var(--panel-soft);
 }
 
 .tag-sidebar__filter--active {
-  border-color: rgba(17, 17, 17, 0.24);
-  background: #fafafa;
+  border-color: var(--line-strong);
+  background: var(--panel-soft);
   box-shadow: inset 0 0 0 1px rgba(17, 17, 17, 0.05);
   color: var(--accent-strong);
 }
@@ -862,7 +1050,7 @@ kbd {
 .tag-folder-card {
   border: 1px solid var(--line);
   border-radius: 1.3rem;
-  background: white;
+  background: var(--panel);
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.035);
   padding: 0.9rem;
 }
@@ -920,13 +1108,13 @@ kbd {
 
 .tag-file-link:hover {
   transform: translateY(-1px);
-  border-color: rgba(17, 17, 17, 0.14);
-  background: #fafafa;
+  border-color: var(--line);
+  background: var(--panel-soft);
 }
 
 .tag-file-link--active {
-  border-color: rgba(17, 17, 17, 0.2);
-  background: #fcfcfc;
+  border-color: var(--line);
+  background: var(--panel-soft);
   box-shadow: inset 0 0 0 1px rgba(17, 17, 17, 0.04);
 }
 
@@ -979,7 +1167,7 @@ kbd {
   flex-wrap: wrap;
   border: 1px solid var(--line);
   border-radius: 1.1rem;
-  background: white;
+  background: var(--panel);
   color: var(--muted-strong);
   font-size: 0.9rem;
   padding: 0.95rem 1rem;
@@ -1009,7 +1197,7 @@ kbd {
   gap: 0.25rem;
   border: 1px solid var(--line);
   border-radius: 999px;
-  background: #f5f5f3;
+  background: var(--panel-soft);
   padding: 0.28rem;
 }
 
@@ -1044,8 +1232,8 @@ kbd {
 }
 
 .review-mode-tab--active {
-  border-color: rgba(17, 17, 17, 0.12);
-  background: white;
+  border-color: var(--line);
+  background: var(--panel);
   color: var(--foreground);
   box-shadow: 0 4px 14px rgba(0, 0, 0, 0.07);
 }
@@ -1068,7 +1256,7 @@ kbd {
   gap: 0.45rem;
   border: 1px solid var(--line);
   border-radius: 0.7rem;
-  background: white;
+  background: var(--panel);
   color: var(--foreground);
   cursor: pointer;
   font-size: 0.82rem;
@@ -1094,7 +1282,7 @@ kbd {
   width: min(22rem, calc(100vw - 2rem));
   border: 1px solid var(--line);
   border-radius: 0.9rem;
-  background: white;
+  background: var(--panel);
   box-shadow: 0 18px 44px rgba(17, 17, 17, 0.14);
   padding: 0.8rem;
 }
@@ -1134,14 +1322,14 @@ kbd {
   min-height: 2.35rem;
   border: 1px solid var(--line);
   border-radius: 0.7rem;
-  background: white;
+  background: var(--panel);
   padding: 0.35rem 2rem 0.35rem 0.65rem;
   color: var(--foreground);
 }
 
 .pdf-toggle {
   border-color: var(--line);
-  background: white;
+  background: var(--panel);
 }
 
 .pdf-toggle--active {
@@ -1164,7 +1352,7 @@ kbd {
   overflow: hidden;
   border: 1px solid var(--line);
   border-radius: 1.45rem;
-  background: #ecebe6;
+  background: var(--panel-softer);
   box-shadow: 0 14px 32px rgba(0, 0, 0, 0.05);
 }
 
@@ -1174,7 +1362,7 @@ kbd {
   justify-content: space-between;
   gap: 0.9rem;
   border-bottom: 1px solid var(--line);
-  background: white;
+  background: var(--panel);
   padding: 0.85rem 0.95rem;
 }
 
@@ -1206,7 +1394,7 @@ kbd {
   gap: 0.4rem;
   border: 1px solid var(--line);
   border-radius: 999px;
-  background: white;
+  background: var(--panel);
   padding: 0.45rem 0.65rem;
   font-size: 0.75rem;
   font-weight: 800;
@@ -1217,7 +1405,7 @@ kbd {
   height: 100%;
   min-height: 32rem;
   border: 0;
-  background: #d9d8d3;
+  background: var(--pdf-canvas);
 }
 
 .image-document-empty {
@@ -1294,7 +1482,7 @@ kbd {
 .not-found-card {
   border: 1px solid var(--line);
   border-radius: 1.45rem;
-  background: white;
+  background: var(--panel);
   box-shadow: 0 14px 32px rgba(0, 0, 0, 0.04);
 }
 
@@ -1333,7 +1521,7 @@ kbd {
 }
 
 .document-layout > .paper-outline {
-  --paper-outline-accent: #275f72;
+  --paper-outline-accent: var(--outline-accent);
   max-height: none;
   min-height: 0;
   position: static;
@@ -1356,9 +1544,9 @@ kbd {
 .document-section {
   display: grid;
   gap: 1rem;
-  border: 1px solid rgba(17, 17, 17, 0.12);
+  border: 1px solid var(--line);
   border-radius: 1.3rem;
-  background: #fafafa;
+  background: var(--panel-soft);
   box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.95);
   padding: 1.2rem 1.25rem 1.25rem;
   scroll-margin-top: 1rem;
@@ -1396,9 +1584,9 @@ kbd {
 }
 
 .node-card {
-  border: 1px solid rgba(17, 17, 17, 0.14);
+  border: 1px solid var(--line);
   border-radius: 1.25rem;
-  background: white;
+  background: var(--panel);
   box-shadow: 0 12px 28px rgba(0, 0, 0, 0.035);
   padding: 1.1rem;
   scroll-margin-top: 5.5rem;
@@ -1406,7 +1594,7 @@ kbd {
 
 .node-card--image-context {
   border-style: dashed;
-  background: #f6f8f8;
+  background: var(--panel-softer);
   box-shadow: none;
   padding-block: 0.75rem;
 }
@@ -1426,7 +1614,7 @@ kbd {
 }
 
 .node-card--selected {
-  border-color: rgba(17, 17, 17, 0.24);
+  border-color: var(--line-strong);
   box-shadow: 0 0 0 3px rgba(17, 17, 17, 0.05);
 }
 
@@ -1468,7 +1656,7 @@ kbd {
 .node-card__identifier {
   min-width: 0;
   overflow-wrap: anywhere;
-  color: rgba(17, 17, 17, 0.58);
+  color: var(--muted);
   font-family:
     var(--font-geist-mono), ui-monospace, SFMono-Regular, Menlo, Monaco,
     Consolas, 'Liberation Mono', 'Courier New', monospace;
@@ -1503,9 +1691,13 @@ kbd {
 .inline-editor {
   display: grid;
   gap: 0.95rem;
-  border: 1px solid rgba(17, 17, 17, 0.24);
+  border: 1px solid var(--line-strong);
   border-radius: 1.15rem;
-  background: linear-gradient(180deg, #f1f1f1 0%, #eaeaea 100%);
+  background: linear-gradient(
+    180deg,
+    var(--editor-surface-start) 0%,
+    var(--editor-surface-end) 100%
+  );
   box-shadow:
     inset 0 1px 0 rgba(255, 255, 255, 0.98),
     0 12px 28px rgba(0, 0, 0, 0.045);
@@ -1561,7 +1753,7 @@ kbd {
 
 .inline-editor__section + .inline-editor__section {
   padding-top: 0.95rem;
-  border-top: 1px solid rgba(17, 17, 17, 0.14);
+  border-top: 1px solid var(--line);
 }
 
 .inline-editor__section-title {
@@ -1616,22 +1808,22 @@ kbd {
 }
 
 .node-content-block {
-  border: 1px solid rgba(17, 17, 17, 0.14);
+  border: 1px solid var(--line);
   border-radius: 1rem;
-  background: #ffffff;
+  background: var(--panel);
   overflow: hidden;
   box-shadow: 0 6px 14px rgba(0, 0, 0, 0.02);
 }
 
 .node-content-block__header {
   padding: 0.65rem 0.85rem;
-  border-bottom: 1px solid rgba(17, 17, 17, 0.08);
+  border-bottom: 1px solid var(--line);
   font-size: 0.78rem;
   font-weight: 800;
   letter-spacing: 0.12em;
   text-transform: uppercase;
   color: var(--foreground);
-  background: #fafafa;
+  background: var(--panel-soft);
 }
 
 .node-content-block__body {
@@ -1641,9 +1833,9 @@ kbd {
 }
 
 .node-content-block__entry {
-  border: 1px solid rgba(17, 17, 17, 0.1);
+  border: 1px solid var(--line);
   border-radius: 0.85rem;
-  background: rgba(255, 255, 255, 0.68);
+  background: color-mix(in srgb, var(--panel) 72%, transparent);
   padding: 0.85rem 0.9rem;
 }
 
@@ -1651,8 +1843,8 @@ kbd {
   border-color: rgba(63, 166, 255, 0.72);
   background: linear-gradient(
     180deg,
-    rgba(231, 247, 255, 0.98) 0%,
-    rgba(191, 231, 255, 0.96) 100%
+    var(--question-focus-start) 0%,
+    var(--question-focus-end) 100%
   );
   box-shadow:
     inset 0 1px 0 rgba(255, 255, 255, 0.96),
@@ -1662,7 +1854,7 @@ kbd {
 }
 
 .node-card__body > .node-content-block:first-child .node-content-block__header {
-  background: #ededed;
+  background: var(--panel-soft);
   border-bottom-color: rgba(17, 17, 17, 0.08);
 }
 
@@ -1670,8 +1862,8 @@ kbd {
   padding: 1rem 1.05rem;
   background: linear-gradient(
     180deg,
-    rgba(231, 247, 255, 0.98) 0%,
-    rgba(191, 231, 255, 0.96) 100%
+    var(--question-focus-start) 0%,
+    var(--question-focus-end) 100%
   );
 }
 
@@ -1683,7 +1875,7 @@ kbd {
 }
 
 .node-card__body > .node-content-block:first-child .rtq-markdown {
-  color: #030303;
+  color: var(--question-focus-ink);
   font-size: 1.14rem;
 }
 
@@ -1695,9 +1887,13 @@ kbd {
 .working-answers-block {
   display: grid;
   gap: 0.85rem;
-  border: 1px solid rgba(17, 17, 17, 0.16);
+  border: 1px solid var(--line);
   border-radius: 1rem;
-  background: linear-gradient(180deg, #ffffff 0%, #f7f7f7 100%);
+  background: linear-gradient(
+    180deg,
+    var(--editor-surface-start) 0%,
+    var(--editor-surface-end) 100%
+  );
   box-shadow: 0 10px 22px rgba(0, 0, 0, 0.03);
   padding: 0.9rem 1rem 1rem;
 }
@@ -1758,8 +1954,8 @@ kbd {
   overflow-x: auto;
   padding: 0.85rem 1rem;
   border-radius: 0.9rem;
-  background: #fafafa;
-  border: 1px solid rgba(17, 17, 17, 0.08);
+  background: var(--panel-soft);
+  border: 1px solid var(--line);
 }
 
 .rtq-markdown table {
@@ -1771,7 +1967,7 @@ kbd {
 
 .rtq-markdown th,
 .rtq-markdown td {
-  border: 1px solid rgba(17, 17, 17, 0.14);
+  border: 1px solid var(--line);
   padding: 0.35rem 0.55rem;
 }
 
@@ -1786,8 +1982,8 @@ kbd {
 
 .paper-image {
   border-radius: 0.95rem;
-  border: 1px solid rgba(17, 17, 17, 0.08);
-  background: white;
+  border: 1px solid var(--line);
+  background: var(--panel);
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.045);
 }
 

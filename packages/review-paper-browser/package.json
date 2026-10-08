@@ -12,7 +12,8 @@
     "./paper-shape": "./src/paper-shape.tsx",
     "./paper-shape.css": "./src/paper-shape.css",
     "./server": "./src/server.ts",
-    "./styles.css": "./src/styles.css"
+    "./styles.css": "./src/styles.css",
+    "./theme-toggle": "./src/theme-toggle.tsx"
   },
   "scripts": {
     "format:check": "prettier --check .",

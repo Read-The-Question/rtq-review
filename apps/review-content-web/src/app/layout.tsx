@@ -3,6 +3,16 @@ import '@rtq/review-paper-browser/styles.css';
 import 'katex/dist/katex.min.css';
 
 import type { Metadata } from 'next';
+import Script from 'next/script';
+
+const themeScript = `
+try {
+  var theme = localStorage.getItem('rtq-color-theme:v1');
+  document.documentElement.dataset.theme = /^(system|light|dark)$/.test(theme || '') ? theme : 'system';
+} catch (_) {
+  document.documentElement.dataset.theme = 'system';
+}
+`;
 
 export const metadata: Metadata = {
   title: {
@@ -18,7 +28,15 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html data-scroll-behavior="smooth" lang="en">
+    <html
+      data-scroll-behavior="smooth"
+      data-theme="system"
+      lang="en"
+      suppressHydrationWarning
+    >
+      <Script id="rtq-theme" strategy="beforeInteractive">
+        {themeScript}
+      </Script>
       <body>{children}</body>
     </html>
   );

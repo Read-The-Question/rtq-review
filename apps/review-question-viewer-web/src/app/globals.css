@@ -17,10 +17,11 @@
   --accent-ink: #1e3a8a;
   --red: #dc2626;
   --green: #15803d;
-  --maths-working-carry: #70757b;
-  --maths-working-remainder: #008000;
-  --rtq-maths-working-step: #ed5fa6;
-  --long-division-working-rule: var(--muted);
+  --rtq-maths-working-carry: #5f646a;
+  --rtq-maths-working-borrow: #006aa5;
+  --rtq-maths-working-step: #b62877;
+  --rtq-maths-answer-correct: #107823;
+  --rtq-maths-answer-incorrect: #c5002b;
   --amber: #6d5bd0;
   --blue: #1d4ed8;
   --brown: #475569;
@@ -48,9 +49,11 @@
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --color-foreground-strong: var(--long-division-working-rule);
-  --color-maths-working-carry: var(--maths-working-carry);
-  --color-maths-working-remainder: var(--maths-working-remainder);
+  --color-maths-working-carry: var(--rtq-maths-working-carry);
+  --color-maths-working-borrow: var(--rtq-maths-working-borrow);
+  --color-maths-working-step: var(--rtq-maths-working-step);
+  --color-maths-answer-correct: var(--rtq-maths-answer-correct);
+  --color-maths-answer-incorrect: var(--rtq-maths-answer-incorrect);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 }
@@ -71,8 +74,24 @@ body {
   font-family: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
 }
 
+.rtq-maths-working-carry {
+  color: var(--rtq-maths-working-carry);
+}
+
+.rtq-maths-working-borrow {
+  color: var(--rtq-maths-working-borrow);
+}
+
 .rtq-maths-working-step {
   color: var(--rtq-maths-working-step);
+}
+
+.rtq-maths-answer-correct {
+  color: var(--rtq-maths-answer-correct);
+}
+
+.rtq-maths-answer-incorrect {
+  color: var(--rtq-maths-answer-incorrect);
 }
 
 .sr-only {

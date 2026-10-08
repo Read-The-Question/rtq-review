@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import { ThemeToggle } from '@rtq/review-paper-browser/theme-toggle';
 
 export function SiteHeader({
   compact = false,
@@ -13,15 +14,18 @@ export function SiteHeader({
         <span aria-hidden="true">RTQ</span>
         <span>Review content</span>
       </Link>
-      <div className="masthead-status">
-        <span className="read-only-dot" aria-hidden="true" />
-        <span>Direct source · read only</span>
-        {showReviewStorage ? (
-          <>
-            <span aria-hidden="true">·</span>
-            <span>Outcomes & comments → local SQLite</span>
-          </>
-        ) : null}
+      <div className="masthead-controls">
+        <div className="masthead-status">
+          <span className="read-only-dot" aria-hidden="true" />
+          <span>Direct source · read only</span>
+          {showReviewStorage ? (
+            <>
+              <span aria-hidden="true">·</span>
+              <span>Outcomes & comments → local SQLite</span>
+            </>
+          ) : null}
+        </div>
+        <ThemeToggle />
       </div>
     </header>
   );

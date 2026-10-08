@@ -606,6 +606,10 @@ test('view options support minimal metadata and centered review panel modes', as
   assert.match(component, /review-lanes--single/);
   assert.match(component, /preferences\.showMetadata \? \(/);
   assert.match(component, /className="paper-summary"/);
+  assert.match(
+    component,
+    /<header className="paper-summary">[\s\S]*?<nav className="paper-breadcrumb"[\s\S]*?<\/nav>\s*\{preferences\.showMetadata \? \(/,
+  );
   assert.doesNotMatch(component, /className="paper-title-row"/);
   assert.match(css, /\.review-lanes--single\s*{/);
   assert.match(

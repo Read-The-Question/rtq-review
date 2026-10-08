@@ -1,5 +1,6 @@
 'use client';
 
+import { ThemeToggle } from '@rtq/review-paper-browser/theme-toggle';
 import {
   ArrowLeft,
   FileText,
@@ -222,6 +223,7 @@ export function TagEditorApp({
             <Sparkles className="h-4 w-4" />
             {isReadOnly ? 'Read-only' : saveState.message}
           </div>
+          <ThemeToggle />
         </div>
       </header>
 

@@ -3,6 +3,7 @@
 @import '@rtq/review-paper-browser/paper-shape.css';
 
 :root {
+  color-scheme: light;
   --paper: #f5f6f7;
   --paper-bright: #ffffff;
   --paper-deep: #e9ecef;
@@ -18,7 +19,11 @@
   --navy: #344054;
   --gold: #8a6116;
   --violet: #694f7c;
-  --rtq-maths-working-step: #ed5fa6;
+  --rtq-maths-working-carry: #5f646a;
+  --rtq-maths-working-borrow: #006aa5;
+  --rtq-maths-working-step: #b62877;
+  --rtq-maths-answer-correct: #107823;
+  --rtq-maths-answer-incorrect: #c5002b;
   --feedback-background: #fff3f2;
   --review-approved-background: #16724b;
   --review-approved-border: #105c3c;
@@ -45,6 +50,111 @@
   --review-coming-soon-tint: #f5eff8;
   --review-pending-tint: #f2f4f5;
   --shadow: 0 4px 14px rgba(32, 36, 40, 0.06);
+  --theme-toggle-background: var(--paper-bright);
+  --theme-toggle-border: var(--rule-strong);
+  --theme-toggle-muted: var(--muted);
+}
+
+:root[data-theme='dark'] {
+  color-scheme: dark;
+  --paper: #111518;
+  --paper-bright: #191e21;
+  --paper-deep: #20272b;
+  --ink: #edf1f3;
+  --muted: #aeb7bd;
+  --faint: #8d989f;
+  --rule: rgba(237, 241, 243, 0.16);
+  --rule-strong: rgba(237, 241, 243, 0.34);
+  --signal: #ff837a;
+  --signal-dark: #ffaaa4;
+  --signal-soft: #4a2424;
+  --ready: #63c995;
+  --navy: #b9c6d4;
+  --gold: #e1b65e;
+  --violet: #d0a8e3;
+  --rtq-maths-working-carry: #8e9399;
+  --rtq-maths-working-borrow: #55aee8;
+  --rtq-maths-working-step: #ee76af;
+  --rtq-maths-answer-correct: #53c75d;
+  --rtq-maths-answer-incorrect: #ff6367;
+  --feedback-background: #321d1d;
+  --review-approved-background: #236e50;
+  --review-approved-border: #63c995;
+  --review-approved-foreground: #f4fff8;
+  --review-change-requested-background: #594512;
+  --review-change-requested-border: #d5a933;
+  --review-change-requested-foreground: #fff2c5;
+  --review-change-complete-background: #183f56;
+  --review-change-complete-border: #6ba7ca;
+  --review-change-complete-foreground: #d9f1ff;
+  --review-blocked-background: #512923;
+  --review-blocked-border: #d57668;
+  --review-blocked-foreground: #ffdcd6;
+  --review-coming-soon-background: #412d4d;
+  --review-coming-soon-border: #b38ac7;
+  --review-coming-soon-foreground: #f1dcfb;
+  --review-pending-background: #2a3034;
+  --review-pending-border: #85919a;
+  --review-pending-foreground: #edf1f3;
+  --review-approved-tint: #172b22;
+  --review-change-requested-tint: #2e2817;
+  --review-change-complete-tint: #172a34;
+  --review-blocked-tint: #30201e;
+  --review-coming-soon-tint: #29212e;
+  --review-pending-tint: #22282c;
+  --shadow: 0 5px 18px rgba(0, 0, 0, 0.28);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root[data-theme='system'] {
+    color-scheme: dark;
+    --paper: #111518;
+    --paper-bright: #191e21;
+    --paper-deep: #20272b;
+    --ink: #edf1f3;
+    --muted: #aeb7bd;
+    --faint: #8d989f;
+    --rule: rgba(237, 241, 243, 0.16);
+    --rule-strong: rgba(237, 241, 243, 0.34);
+    --signal: #ff837a;
+    --signal-dark: #ffaaa4;
+    --signal-soft: #4a2424;
+    --ready: #63c995;
+    --navy: #b9c6d4;
+    --gold: #e1b65e;
+    --violet: #d0a8e3;
+    --rtq-maths-working-carry: #8e9399;
+    --rtq-maths-working-borrow: #55aee8;
+    --rtq-maths-working-step: #ee76af;
+    --rtq-maths-answer-correct: #53c75d;
+    --rtq-maths-answer-incorrect: #ff6367;
+    --feedback-background: #321d1d;
+    --review-approved-background: #236e50;
+    --review-approved-border: #63c995;
+    --review-approved-foreground: #f4fff8;
+    --review-change-requested-background: #594512;
+    --review-change-requested-border: #d5a933;
+    --review-change-requested-foreground: #fff2c5;
+    --review-change-complete-background: #183f56;
+    --review-change-complete-border: #6ba7ca;
+    --review-change-complete-foreground: #d9f1ff;
+    --review-blocked-background: #512923;
+    --review-blocked-border: #d57668;
+    --review-blocked-foreground: #ffdcd6;
+    --review-coming-soon-background: #412d4d;
+    --review-coming-soon-border: #b38ac7;
+    --review-coming-soon-foreground: #f1dcfb;
+    --review-pending-background: #2a3034;
+    --review-pending-border: #85919a;
+    --review-pending-foreground: #edf1f3;
+    --review-approved-tint: #172b22;
+    --review-change-requested-tint: #2e2817;
+    --review-change-complete-tint: #172a34;
+    --review-blocked-tint: #30201e;
+    --review-coming-soon-tint: #29212e;
+    --review-pending-tint: #22282c;
+    --shadow: 0 5px 18px rgba(0, 0, 0, 0.28);
+  }
 }
 
 * {
@@ -64,8 +174,24 @@ body {
   line-height: 1.5;
 }
 
+.rtq-maths-working-carry {
+  color: var(--rtq-maths-working-carry);
+}
+
+.rtq-maths-working-borrow {
+  color: var(--rtq-maths-working-borrow);
+}
+
 .rtq-maths-working-step {
   color: var(--rtq-maths-working-step);
+}
+
+.rtq-maths-answer-correct {
+  color: var(--rtq-maths-answer-correct);
+}
+
+.rtq-maths-answer-incorrect {
+  color: var(--rtq-maths-answer-incorrect);
 }
 
 button,
@@ -161,6 +287,13 @@ p {
   display: flex;
   flex-wrap: wrap;
   gap: 0.55rem;
+  justify-content: flex-end;
+}
+
+.masthead-controls {
+  align-items: center;
+  display: flex;
+  gap: 0.9rem;
   justify-content: flex-end;
 }
 
@@ -1790,7 +1923,7 @@ a.paper-row:hover {
 }
 
 .preference-toggle-control > span {
-  background: white;
+  background: var(--paper-bright);
   border-radius: 50%;
   box-shadow: 0 1px 2px rgba(32, 36, 40, 0.24);
   display: block;
@@ -3960,7 +4093,7 @@ a.paper-row:hover {
 }
 
 .comment-form textarea {
-  background: white;
+  background: var(--paper-bright);
   border: 1px solid var(--rule-strong);
   color: var(--ink);
   font-family: 'Avenir Next', Avenir, 'Segoe UI', sans-serif;
@@ -4091,7 +4224,7 @@ a.paper-row:hover {
 }
 
 .keyboard-comment-dialog textarea {
-  background: white;
+  background: var(--paper-bright);
   border: 1px solid var(--rule-strong);
   color: var(--ink);
   font: inherit;
@@ -4172,7 +4305,7 @@ a.paper-row:hover {
 }
 
 .nested-questions .question-node--depth-2 {
-  background: #f5f2e9;
+  background: var(--review-change-requested-tint);
 }
 
 .empty-results {
@@ -5242,7 +5375,7 @@ a.paper-row:hover {
 
 .review-work-lane--question-image h4,
 .review-work-lane--answer-image h4 {
-  background: #f1ecf4;
+  background: var(--review-coming-soon-tint);
   color: var(--violet);
 }
 

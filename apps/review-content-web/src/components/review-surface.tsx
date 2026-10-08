@@ -3655,89 +3655,93 @@ export function ReviewSurface({
       id="paper-top"
     >
       <SiteHeader compact showReviewStorage />
-      {preferences.showMetadata ? (
-        <header className="paper-summary">
-          <nav className="paper-breadcrumb" aria-label="Paper location">
-            <Link href="/">Paper index</Link>
-            <span>/</span>
-            {corpus ? (
-              <Link href="/search">Corpus search</Link>
-            ) : (
-              <Link
-                href={collectionRoute(
-                  paper.source.collection.id,
-                  searchParams.get('q') ?? undefined,
-                  contentSearch,
-                )}
-              >
-                {paper.source.collection.label}
-              </Link>
-            )}
-          </nav>
-          <h1>
-            {corpus?.searchMode === 'uuid'
-              ? 'UUID results'
-              : corpus && corpus.startPosition > 0
-                ? `Results ${corpus.startPosition}–${corpus.endPosition}`
-                : corpus
-                  ? 'Search every question'
-                  : paper.title}
-          </h1>
-          <code>
-            {corpus?.searchMode === 'uuid'
-              ? `${corpus.uuidRequestCount - corpus.missingUuids.length} found · ${corpus.missingUuids.length} missing`
-              : corpus && contentSearch
-                ? `/${contentSearch.pattern}/im · ${contentScopeLabels[contentSearch.scope]}`
-                : paper.source.fileName}
-          </code>
-          <dl className="paper-summary-metadata">
-            <div>
-              <dt>Questions</dt>
-              <dd>{paper.source.questionCount}</dd>
-            </div>
-            <div>
-              <dt>{corpus ? 'Files' : 'Year'}</dt>
-              <dd>
-                {corpus
-                  ? corpus.scannedFileCount
-                  : (paper.metadata.year ?? '—')}
-              </dd>
-            </div>
-            <div>
-              <dt>
-                {corpus?.searchMode === 'uuid'
-                  ? 'Requested'
-                  : corpus
-                    ? 'Page'
-                    : 'RAG'}
-              </dt>
-              <dd>
-                {corpus?.searchMode === 'uuid'
-                  ? corpus.uuidRequestCount
-                  : corpus
-                    ? corpus.limit
-                    : (paper.metadata.paperRag ?? '—')}
-              </dd>
-            </div>
-            <div>
-              <dt>{corpus ? 'Source' : 'Access'}</dt>
-              <dd>
-                {corpus ? 'Canonical TOML' : (paper.metadata.accessTier ?? '—')}
-              </dd>
-            </div>
-          </dl>
-          {corpus ? null : (
-            <div className="paper-provenance">
-              {paper.metadata.paperId ? (
-                <code>ID {paper.metadata.paperId}</code>
-              ) : null}
-              {paper.metadata.schoolIds.map((school) => (
-                <code key={school}>School {school}</code>
-              ))}
-            </div>
+      <header className="paper-summary">
+        <nav className="paper-breadcrumb" aria-label="Paper location">
+          <Link href="/">Paper index</Link>
+          <span>/</span>
+          {corpus ? (
+            <Link href="/search">Corpus search</Link>
+          ) : (
+            <Link
+              href={collectionRoute(
+                paper.source.collection.id,
+                searchParams.get('q') ?? undefined,
+                contentSearch,
+              )}
+            >
+              {paper.source.collection.label}
+            </Link>
           )}
-        </header>
-      ) : null}
+        </nav>
+        {preferences.showMetadata ? (
+          <>
+            <h1>
+              {corpus?.searchMode === 'uuid'
+                ? 'UUID results'
+                : corpus && corpus.startPosition > 0
+                  ? `Results ${corpus.startPosition}–${corpus.endPosition}`
+                  : corpus
+                    ? 'Search every question'
+                    : paper.title}
+            </h1>
+            <code>
+              {corpus?.searchMode === 'uuid'
+                ? `${corpus.uuidRequestCount - corpus.missingUuids.length} found · ${corpus.missingUuids.length} missing`
+                : corpus && contentSearch
+                  ? `/${contentSearch.pattern}/im · ${contentScopeLabels[contentSearch.scope]}`
+                  : paper.source.fileName}
+            </code>
+            <dl className="paper-summary-metadata">
+              <div>
+                <dt>Questions</dt>
+                <dd>{paper.source.questionCount}</dd>
+              </div>
+              <div>
+                <dt>{corpus ? 'Files' : 'Year'}</dt>
+                <dd>
+                  {corpus
+                    ? corpus.scannedFileCount
+                    : (paper.metadata.year ?? '—')}
+                </dd>
+              </div>
+              <div>
+                <dt>
+                  {corpus?.searchMode === 'uuid'
+                    ? 'Requested'
+                    : corpus
+                      ? 'Page'
+                      : 'RAG'}
+                </dt>
+                <dd>
+                  {corpus?.searchMode === 'uuid'
+                    ? corpus.uuidRequestCount
+                    : corpus
+                      ? corpus.limit
+                      : (paper.metadata.paperRag ?? '—')}
+                </dd>
+              </div>
+              <div>
+                <dt>{corpus ? 'Source' : 'Access'}</dt>
+                <dd>
+                  {corpus
+                    ? 'Canonical TOML'
+                    : (paper.metadata.accessTier ?? '—')}
+                </dd>
+              </div>
+            </dl>
+            {corpus ? null : (
+              <div className="paper-provenance">
+                {paper.metadata.paperId ? (
+                  <code>ID {paper.metadata.paperId}</code>
+                ) : null}
+                {paper.metadata.schoolIds.map((school) => (
+                  <code key={school}>School {school}</code>
+                ))}
+              </div>
+            )}
+          </>
+        ) : null}
+      </header>
 
       {!corpus || currentCursor ? (
         <SourceFreshnessBanner

@@ -1,5 +1,6 @@
 @import 'tailwindcss';
 @import '@rtq/review-paper-markdown/paper-table.css';
+@import '@rtq/review-paper-markdown/paper-image.css';
 @import '@rtq/review-paper-browser/paper-outline.css';
 @import '@rtq/review-paper-browser/paper-shape.css';
 
@@ -14,6 +15,7 @@
   --panel: #ffffff;
   --panel-soft: #ffffff;
   --panel-softer: #ffffff;
+  --paper-media: transparent;
   --line: #e5e5e5;
   --line-strong: #d3d3d3;
   --accent: #111111;
@@ -95,6 +97,7 @@
   --panel: #191d20;
   --panel-soft: #202529;
   --panel-softer: #242a2e;
+  --paper-media: #ffffff;
   --line: #30383e;
   --line-strong: #4a555d;
   --accent: #edf0f2;
@@ -174,6 +177,7 @@
     --panel: #191d20;
     --panel-soft: #202529;
     --panel-softer: #242a2e;
+    --paper-media: #ffffff;
     --line: #30383e;
     --line-strong: #4a555d;
     --accent: #edf0f2;
@@ -2020,11 +2024,11 @@ kbd {
   font-weight: 700;
 }
 
-.paper-images--generated
-  .paper-image-group[data-has-generated='true']
-  .paper-image-variant:not([data-provenance='generated']),
-.paper-images--generated
-  .paper-image-group[data-has-generated='false']
+.paper-images--prepared
+  .paper-image-group[data-has-prepared='true']
+  .paper-image-variant:not([data-provenance='prepared']),
+.paper-images--prepared
+  .paper-image-group[data-has-prepared='false']
   .paper-image-variant:not([data-primary='true']) {
   display: none;
 }

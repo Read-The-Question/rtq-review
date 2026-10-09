@@ -1,4 +1,5 @@
 @import '@rtq/review-paper-markdown/paper-table.css';
+@import '@rtq/review-paper-markdown/paper-image.css';
 @import '@rtq/review-paper-browser/paper-outline.css';
 @import '@rtq/review-paper-browser/paper-shape.css';
 
@@ -7,6 +8,7 @@
   --paper: #f5f6f7;
   --paper-bright: #ffffff;
   --paper-deep: #e9ecef;
+  --paper-media: transparent;
   --ink: #202428;
   --muted: #59616a;
   --faint: #7a838c;
@@ -60,6 +62,7 @@
   --paper: #111518;
   --paper-bright: #191e21;
   --paper-deep: #20272b;
+  --paper-media: #ffffff;
   --ink: #edf1f3;
   --muted: #aeb7bd;
   --faint: #8d989f;
@@ -111,6 +114,7 @@
     --paper: #111518;
     --paper-bright: #191e21;
     --paper-deep: #20272b;
+    --paper-media: #ffffff;
     --ink: #edf1f3;
     --muted: #aeb7bd;
     --faint: #8d989f;
@@ -3143,6 +3147,30 @@ a.paper-row:hover {
   height: auto;
   max-width: 100%;
   object-fit: contain;
+}
+
+.rtq-markdown .rtq-paper-image[data-size='sm'] .paper-raster-surface {
+  max-width: 16rem;
+}
+
+.rtq-markdown .rtq-paper-image[data-size='md'] .paper-raster-surface {
+  max-width: 20rem;
+}
+
+.rtq-markdown .rtq-paper-image[data-size='lg'] .paper-raster-surface {
+  max-width: 36rem;
+}
+
+.rtq-markdown .rtq-paper-image[data-align='start'] .paper-raster-surface {
+  margin-inline: 0 auto;
+}
+
+.rtq-markdown .rtq-paper-image[data-align='center'] .paper-raster-surface {
+  margin-inline: auto;
+}
+
+.rtq-markdown .rtq-paper-image[data-align='end'] .paper-raster-surface {
+  margin-inline: auto 0;
 }
 
 /* Display-size caps mirror rtq-web (sm 16rem, md 20rem, lg 36rem, full unbounded). */

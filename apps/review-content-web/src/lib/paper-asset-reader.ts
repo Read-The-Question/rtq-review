@@ -8,6 +8,7 @@ const CONTENT_TYPES = new Map([
   ['.jpg', 'image/jpeg'],
   ['.png', 'image/png'],
   ['.svg', 'image/svg+xml'],
+  ['.webp', 'image/webp'],
 ]);
 const SAFE_SEGMENT = /^[A-Za-z0-9][A-Za-z0-9._-]*$/;
 
@@ -70,8 +71,8 @@ function allowedSubpath(segments: readonly string[]): boolean {
   }
   return (
     (scope === 'questions' || scope === 'workings' || scope === 'answers') &&
-    provenance === 'generated' &&
-    (kind === 'diagrams' || kind === 'long-division') &&
+    ((provenance === 'prepared' && kind === 'diagrams') ||
+      (provenance === 'generated' && kind === 'long-division')) &&
     Boolean(file)
   );
 }

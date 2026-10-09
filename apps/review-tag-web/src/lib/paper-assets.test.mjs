@@ -140,9 +140,14 @@ test('PaperImage family/type is rendering-neutral across scopes, nesting and for
         baseline.indexOf(`${prefix}${slot}-i00.png`) <
           baseline.indexOf(`${prefix}${slot}-i00.svg`),
       );
+      assert.equal(
+        (baseline.match(/class="paper-raster-surface"/g) ?? []).length,
+        1,
+      );
+      assert.match(baseline, /data-surface="paper"/);
       assert.match(
         baseline,
-        /class="paper-image-group" data-has-generated="false" data-variant-count="2"/,
+        /class="paper-image-group" data-has-prepared="false" data-variant-count="2"/,
       );
       assert.match(
         baseline,
@@ -159,10 +164,10 @@ test('PaperImage family/type is rendering-neutral across scopes, nesting and for
         2,
       );
       assert.doesNotMatch(baseline, /(?:family|type)=|venn/);
-      const generatedStem = `${owner}/generated/diagrams/${prefix}${slot}-i00`;
-      write(`${paperRoot}/${generatedStem}.svg`, firstSvg);
+      const preparedStem = `${owner}/prepared/diagrams/${prefix}${slot}-i00`;
+      write(`${paperRoot}/${preparedStem}.svg`, firstSvg);
       write(
-        `${paperRoot}/${generatedStem}.json`,
+        `${paperRoot}/${preparedStem}.json`,
         JSON.stringify({
           version: 1,
           assetScope: scope,
@@ -171,7 +176,7 @@ test('PaperImage family/type is rendering-neutral across scopes, nesting and for
           renderMode: depth === 1 ? 'inline' : 'external',
         }),
       );
-      assets[`${generatedStem}.svg`] = assets[`${firstStem}.svg`];
+      assets[`${preparedStem}.svg`] = assets[`${firstStem}.svg`];
       write(
         `${paperRoot}/paper-images.generated.json`,
         JSON.stringify({ assets, version: 1 }),
@@ -188,9 +193,9 @@ test('PaperImage family/type is rendering-neutral across scopes, nesting and for
       const comparison = enrichRtqMarkdown(comparisonSource, context, options);
       assert.match(
         comparison,
-        /data-has-generated="true" data-variant-count="3"/,
+        /data-has-prepared="true" data-variant-count="3"/,
       );
-      assert.match(comparison, /data-provenance="generated"/);
+      assert.match(comparison, /data-provenance="prepared"/);
       assert.match(comparison, /Generated triangle/);
       assert.match(comparison, /Generated description/);
       assert.match(comparison, /The sets overlap/);
@@ -207,8 +212,8 @@ test('PaperImage family/type is rendering-neutral across scopes, nesting and for
           /stroke-diagrams-swatch-blue \{ stroke: #2288f8; \}/,
         );
       }
-      rmSync(path.join(root, paperRoot, `${generatedStem}.svg`));
-      rmSync(path.join(root, paperRoot, `${generatedStem}.json`));
+      rmSync(path.join(root, paperRoot, `${preparedStem}.svg`));
+      rmSync(path.join(root, paperRoot, `${preparedStem}.json`));
       assert.throws(
         () =>
           enrichRtqMarkdown(
@@ -225,6 +230,7 @@ test('PaperImage family/type is rendering-neutral across scopes, nesting and for
         path.join(root, paperRoot, `${owner}/manual/${prefix}${slot}-i00.svg`),
       );
       const missingBaseline = enrichRtqMarkdown(source, context, options);
+      assert.doesNotMatch(missingBaseline, /data-surface=/);
       assert.equal(
         enrichRtqMarkdown(
           source.replace(

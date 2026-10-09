@@ -217,7 +217,7 @@ function metadata(alt: string | null, description: string | null = null) {
 function render(
   markdown: string,
   options: Readonly<{
-    imageMode?: 'all' | 'generated';
+    imageMode?: 'all' | 'prepared';
     paperImages?: readonly DisplayPaperImage[];
     showImageTags?: boolean;
   }> = {},
@@ -270,11 +270,11 @@ test('reports invalid, stale, raster-inline and missing-inline delivery requests
   f.image(metadata('Original screenshot'));
   assert.match(f.prepareResult(inline).preparationIssue ?? '', /existing SVG/);
   f.asset(
-    'questions/generated/diagrams/s01-q01-i00.svg',
+    'questions/prepared/diagrams/s01-q01-i00.svg',
     '<svg width="100" height="75" viewBox="0 0 100 75"><path d="M0 0L100 0L0 75Z"/></svg>',
   );
   f.asset(
-    'questions/generated/diagrams/s01-q01-i00.json',
+    'questions/prepared/diagrams/s01-q01-i00.json',
     JSON.stringify(metadata('Generated diagram', 'A generated triangle.')),
   );
   assert.match(
@@ -282,7 +282,7 @@ test('reports invalid, stale, raster-inline and missing-inline delivery requests
     /delivery mismatch/,
   );
   f.asset(
-    'questions/generated/diagrams/s01-q01-i00.json',
+    'questions/prepared/diagrams/s01-q01-i00.json',
     JSON.stringify({
       ...metadata('Generated diagram', 'A generated triangle.'),
       renderMode: 'inline',
@@ -420,12 +420,13 @@ test('renders matching active formats in PNG, JPEG, SVG order', (t) => {
     prepared.paperImages?.[0].variants.map((variant) => ({
       format: variant.format,
       height: variant.height,
+      surface: variant.surface,
       width: variant.width,
     })),
     [
-      { format: 'PNG', height: 120, width: 160 },
-      { format: 'JPEG', height: 240, width: 320 },
-      { format: 'SVG', height: 360, width: 480 },
+      { format: 'PNG', height: 120, surface: 'paper', width: 160 },
+      { format: 'JPEG', height: 240, surface: 'paper', width: 320 },
+      { format: 'SVG', height: 360, surface: undefined, width: 480 },
     ],
   );
 
@@ -444,20 +445,20 @@ test('renders matching active formats in PNG, JPEG, SVG order', (t) => {
   assert.match(all, /Compare each active format\./);
 
   const preferred = render(prepared.rendered, {
-    imageMode: 'generated',
+    imageMode: 'prepared',
     paperImages: prepared.paperImages,
   });
   assert.equal(imageTags(preferred).length, 1);
   assert.match(imageTags(preferred)[0], /i00\.png/);
 });
 
-test('generated preference falls back to the first active manual format', (t) => {
+test('prepared preference falls back to the first active manual format', (t) => {
   const f = fixture(t);
   f.image(metadata('A raster diagram.'));
   f.asset(f.sourcePath.replace(/\.png$/, '.jpg'), 'fixture jpeg image bytes');
   const prepared = f.prepareDisplay();
   const html = render(prepared.rendered, {
-    imageMode: 'generated',
+    imageMode: 'prepared',
     paperImages: prepared.paperImages,
   });
   assert.equal(imageTags(html).length, 1);
@@ -466,7 +467,7 @@ test('generated preference falls back to the first active manual format', (t) =>
 
 for (const scope of ['question', 'working', 'answer'] as const) {
   for (const renderMode of ['inline', 'external'] as const) {
-    test(`compares ${scope} manual and generated ${renderMode} artwork with independent wording`, (t) => {
+    test(`compares ${scope} manual and prepared ${renderMode} artwork with independent wording`, (t) => {
       const f = fixture(t);
       const owner = `${scope}s`;
       const slot =
@@ -480,11 +481,11 @@ for (const scope of ['question', 'working', 'answer'] as const) {
         `${owner}/manual/${stem}.png`,
       );
       f.asset(
-        `${owner}/generated/diagrams/${stem}.svg`,
+        `${owner}/prepared/diagrams/${stem}.svg`,
         '<svg width="320.5" height="200" viewBox="0 0 320.5 200"><path d="M0 0L100 0L0 100Z"/></svg>',
       );
       f.asset(
-        `${owner}/generated/diagrams/${stem}.json`,
+        `${owner}/prepared/diagrams/${stem}.json`,
         JSON.stringify({
           ...metadata('Generated triangle', 'Generated description.'),
           assetScope: scope,
@@ -498,7 +499,7 @@ for (const scope of ['question', 'working', 'answer'] as const) {
       assert.equal(prepared.paperImages?.length, 1);
       assert.deepEqual(
         prepared.paperImages?.[0].variants.map((variant) => variant.provenance),
-        ['manual', 'generated'],
+        ['manual', 'prepared'],
       );
       const all = render(prepared.rendered, {
         paperImages: prepared.paperImages,
@@ -508,13 +509,13 @@ for (const scope of ['question', 'working', 'answer'] as const) {
       assert.match(all, /Generated triangle/);
       assert.match(all, /Original description/);
       assert.match(all, /Generated description/);
-      assert.match(all, /max-width:320\.5px/);
-      assert.match(all, /min-width:240\.375px/);
+      assert.match(all, /max-width:641px/);
+      assert.match(all, /min-width:480\.75px/);
       assert.match(all, /tabindex="0"/);
       if (renderMode === 'inline') assert.match(all, /rtq-review-inline-svg/);
       const preferred = render(prepared.rendered, {
         paperImages: prepared.paperImages,
-        imageMode: 'generated',
+        imageMode: 'prepared',
       });
       assert.doesNotMatch(
         preferred,
@@ -635,8 +636,9 @@ test('retains the missing-binary and unimplemented-image fallbacks', (t) => {
   const html = render(f.prepare('<PaperImage />\n\nTODOIMAGE'));
   assert.match(imageTags(html)[0], /alt="Missing paper image"/);
   assert.match(html, /\/api\/assets\/papers\/missing\/missing_image\.svg/);
-  assert.match(html, /width="160"/);
-  assert.match(html, /height="120"/);
+  assert.match(html, /width="320"/);
+  assert.match(html, /height="180"/);
+  assert.doesNotMatch(html, /data-surface=/);
   assert.match(html, /data-rtq-placeholder="todo-image"/);
   assert.doesNotMatch(html, /data-alt-review|aria-describedby/);
 });

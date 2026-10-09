@@ -104,6 +104,7 @@ type PaperImageMetadata = {
   assetScope: PaperImageAssetScope;
   description: string | null;
   renderMode: 'external' | 'inline';
+  surface?: 'paper' | 'transparent';
   version: 1;
 };
 type PaperImageTechnicalEntry = {
@@ -385,35 +386,48 @@ function paperImageAssetRelativePath(
   scopeIndex: number | undefined,
   imageIndex: number,
 ) {
-  const ownerSegments =
+  const owner =
     assetScope === 'question'
-      ? ['questions', 'manual']
-      : [assetScope === 'working' ? 'workings' : 'answers', 'manual'];
+      ? 'questions'
+      : assetScope === 'working'
+        ? 'workings'
+        : 'answers';
   const scopeToken =
     assetScope === 'question'
       ? ''
       : `-${assetScope === 'working' ? 'w' : 'a'}${String((scopeIndex ?? 0) + 1).padStart(2, '0')}`;
 
+  const basename = `${compactAssetPrefix(context)}${scopeToken}-i${String(imageIndex).padStart(2, '0')}`;
+  const locations = [
+    {
+      provenance: 'prepared' as const,
+      stem: `${owner}/prepared/diagrams/${basename}`,
+    },
+    { provenance: 'manual' as const, stem: `${owner}/manual/${basename}` },
+  ];
+  const resolved = locations
+    .map(location => ({
+      ...location,
+      extension: resolveCanonicalPaperImageExtension(
+        context.assetFileStem ?? context.fileStem,
+        location.stem,
+        EXTERNAL_ASSETS_ROOT,
+      ),
+    }))
+    .find(location => location.extension !== undefined);
+  const selected = resolved ?? locations[1];
+  const sourceRelativeStem = selected.stem;
   const logicalPath = [
     'papers',
     ...paperAssetPathSegments(context.assetFileStem ?? context.fileStem),
-    ...ownerSegments,
-    `${compactAssetPrefix(context)}${scopeToken}-i${String(imageIndex).padStart(2, '0')}`,
-  ].join('/');
-  const sourceRelativeStem = [
-    ...ownerSegments,
-    `${compactAssetPrefix(context)}${scopeToken}-i${String(imageIndex).padStart(2, '0')}`,
-  ].join('/');
-  const extension = resolveCanonicalPaperImageExtension(
-    context.assetFileStem ?? context.fileStem,
     sourceRelativeStem,
-    EXTERNAL_ASSETS_ROOT,
-  );
+  ].join('/');
 
   return {
-    extension,
-    relativePath: `${logicalPath}.${extension ?? 'png'}`,
-    sourceRelativePath: `${sourceRelativeStem}.${extension ?? 'png'}`,
+    extension: resolved?.extension,
+    provenance: selected.provenance,
+    relativePath: `${logicalPath}.${resolved?.extension ?? 'png'}`,
+    sourceRelativePath: `${sourceRelativeStem}.${resolved?.extension ?? 'png'}`,
   };
 }
 
@@ -426,8 +440,8 @@ function paperImageTechnicalEntry(
     return {
       fingerprint: 'missing-image',
       format: 'svg',
-      intrinsicHeight: 120,
-      intrinsicWidth: 160,
+      intrinsicHeight: 180,
+      intrinsicWidth: 320,
     };
   }
   const paperRoot = path.join(
@@ -478,11 +492,16 @@ function paperImageMetadata(
   scopeIndex: number | undefined,
   imageIndex: number,
   extension: (typeof PAPER_IMAGE_EXTENSIONS)[number] | undefined,
+  provenance: 'manual' | 'prepared',
 ): PaperImageMetadata {
   const ownerSegments =
     assetScope === 'question'
-      ? ['questions', 'manual']
-      : [assetScope === 'working' ? 'workings' : 'answers', 'manual'];
+      ? ['questions', provenance === 'prepared' ? 'prepared' : 'manual']
+      : [
+          assetScope === 'working' ? 'workings' : 'answers',
+          provenance === 'prepared' ? 'prepared' : 'manual',
+        ];
+  if (provenance === 'prepared') ownerSegments.push('diagrams');
   const scopeToken =
     assetScope === 'question'
       ? ''
@@ -509,8 +528,15 @@ function paperImageMetadata(
       `Invalid PaperImage metadata at ${metadataPath}: expected object.`,
     );
   const metadata = value as Record<string, unknown>;
-  const keys = ['alt', 'assetScope', 'description', 'renderMode', 'version'];
-  if (Object.keys(metadata).sort().join() !== keys.sort().join())
+  const keys = [
+    'alt',
+    'assetScope',
+    'description',
+    'renderMode',
+    'surface',
+    'version',
+  ];
+  if (Object.keys(metadata).some(key => !keys.includes(key)))
     throw new Error(
       `Invalid PaperImage metadata at ${metadataPath}: fields must match version 1.`,
     );
@@ -526,7 +552,10 @@ function paperImageMetadata(
       metadata.description === null ||
       (typeof metadata.description === 'string' && metadata.description.trim())
     ) ||
-    !(metadata.renderMode === 'external' || metadata.renderMode === 'inline')
+    !(metadata.renderMode === 'external' || metadata.renderMode === 'inline') ||
+    (metadata.surface !== undefined &&
+      metadata.surface !== 'paper' &&
+      metadata.surface !== 'transparent')
   )
     throw new Error(
       `Invalid or inconsistent PaperImage metadata at ${metadataPath}.`,
@@ -538,6 +567,16 @@ function paperImageMetadata(
   if (metadata.renderMode === 'inline')
     throw new Error(
       `Inline PaperImage SVG is not supported by this review renderer: ${metadataPath}`,
+    );
+  if (
+    provenance === 'prepared' &&
+    (typeof metadata.alt !== 'string' ||
+      !metadata.alt.trim() ||
+      typeof metadata.description !== 'string' ||
+      !metadata.description.trim())
+  )
+    throw new Error(
+      `Prepared PaperImage requires informative alt and description: ${metadataPath}`,
     );
   return metadata as PaperImageMetadata;
 }
@@ -682,14 +721,20 @@ function paperImageMarkup(
   const description = metadata.description
     ? `<span id="${escapeHtmlAttribute(descriptionId)}" class="sr-only">${escapeHtmlAttribute(metadata.description)}</span>`
     : '';
+  const surface =
+    technical.format === 'svg' ? undefined : (metadata.surface ?? 'paper');
 
-  return `<div class="paper-image-layout" data-indent="${indent}"><img src="${escapeHtmlAttribute(`${API_ASSET_PREFIX}/${relativePath}`)}" alt="${escapeHtmlAttribute(
+  const visual = `<img src="${escapeHtmlAttribute(`${API_ASSET_PREFIX}/${relativePath}`)}" alt="${escapeHtmlAttribute(
     alt,
   )}" width="${technical.intrinsicWidth}" height="${technical.intrinsicHeight}"${describedBy} data-slot="paper-image" data-alt-review="${reviewState}" data-kind="${escapeHtmlAttribute(
     kind,
   )}" data-asset-scope="${escapeHtmlAttribute(assetScope)}" data-display-size="${escapeHtmlAttribute(displaySize)}" data-align="${escapeHtmlAttribute(
     align,
-  )}" data-indent="${indent}" class="paper-image" style="${escapeHtmlAttribute(paperImageStyle(displaySize, align))}" /></div>${description}`;
+  )}" data-indent="${indent}" class="paper-image"${surface ? '' : ` style="${escapeHtmlAttribute(paperImageStyle(displaySize, align))}"`} />`;
+  const graphic = surface
+    ? `<span class="paper-raster-surface" data-surface="${surface}" style="${escapeHtmlAttribute(paperImageStyle(displaySize, align))}">${visual}</span>`
+    : visual;
+  return `<div class="paper-image-layout" data-indent="${indent}">${graphic}</div>${description}`;
 }
 
 function longDivisionMarkup(
@@ -759,6 +804,7 @@ function replacePaperImages(
       scopeIndex,
       imageIndex,
       resolution.extension,
+      resolution.provenance,
     );
     const technical = paperImageTechnicalEntry(
       context,

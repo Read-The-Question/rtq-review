@@ -57,13 +57,13 @@ JSON metadata and generated LongDivision sources remain non-public, with
 LongDivision prepared inline by the canonical asset-repository command. No
 paper assets are mirrored into this repository's `public/` tree.
 
-`PaperImage` discovers both `manual/` and `generated/diagrams/` beneath
+`PaperImage` discovers both `manual/` and `prepared/diagrams/` beneath
 `questions/`, `workings/`, or `answers/`. Each variant uses its own sidecar and
 technical metadata. “All related assets” compares both provenances at the
-same authored occurrence; “Generated preferred” selects generated artwork
+same authored occurrence; “Prepared preferred” selects prepared artwork
 when present and otherwise the first manual variant. Provenance comes from
 the directory, not the extension. The former `svg` preference migrates to
-generated preference. Image tags do not select a renderer or create additional
+prepared preference. Image tags do not select a renderer or create additional
 occurrences.
 
 Real SVGs use natural size, shrink proportionally to 75%, then scroll locally

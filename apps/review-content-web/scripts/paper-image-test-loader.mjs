@@ -5,6 +5,8 @@ import { extname } from 'node:path';
 import ts from 'typescript';
 
 const sourceRoot = new URL('../src/', import.meta.url).href;
+const workspacePackagesRoot = new URL('../../../packages/', import.meta.url)
+  .href;
 
 // Exercise the real Next entry points in Node's test runner, which cannot load
 // JSX or Next's server-only marker/alias without these test-local hooks.
@@ -30,7 +32,10 @@ registerHooks({
     return nextResolve(specifier, context);
   },
   load(url, context, nextLoad) {
-    if (url.startsWith(sourceRoot) && url.endsWith('.tsx')) {
+    if (
+      (url.startsWith(sourceRoot) || url.startsWith(workspacePackagesRoot)) &&
+      url.endsWith('.tsx')
+    ) {
       return {
         format: 'module',
         shortCircuit: true,

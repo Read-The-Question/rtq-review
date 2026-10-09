@@ -6,6 +6,7 @@
   "exports": {
     ".": "./src/index.ts",
     "./paper-shape-paths": "./src/paper-shape-paths.ts",
+    "./paper-image.css": "./src/paper-image.css",
     "./paper-table.css": "./src/paper-table.css",
     "./validate": "./src/validate.ts"
   },

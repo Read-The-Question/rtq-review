@@ -596,7 +596,7 @@ test('view options support minimal metadata and centered review panel modes', as
   assert.match(component, /<option value="all">All related assets<\/option>/);
   assert.match(
     component,
-    /<option value="generated">Generated preferred<\/option>/,
+    /<option value="prepared">Prepared preferred<\/option>/,
   );
   assert.match(component, /value=\{preferences\.reviewPanelMode\}/);
   assert.match(component, /<option value="content">Content only<\/option>/);

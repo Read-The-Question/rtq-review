@@ -123,6 +123,11 @@ test('PaperImage family/type is rendering-neutral across scopes, nesting and for
       assert.equal((baseline.match(/<img /g) ?? []).length, 2);
       assert.ok(baseline.includes(`${prefix}${slot}-i00.png`));
       assert.ok(baseline.includes(`${prefix}${slot}-i01.svg`));
+      assert.equal(
+        (baseline.match(/class="paper-raster-surface"/g) ?? []).length,
+        1,
+      );
+      assert.match(baseline, /data-surface="paper"/);
       assert.doesNotMatch(baseline, /(?:family|type)=|venn/);
       assert.throws(
         () =>
@@ -137,6 +142,7 @@ test('PaperImage family/type is rendering-neutral across scopes, nesting and for
         path.join(root, paperRoot, `${owner}/manual/${prefix}${slot}-i00.png`),
       );
       const missingBaseline = enrichRtqMarkdown(source, context, options);
+      assert.doesNotMatch(missingBaseline, /data-surface=/);
       assert.equal(
         enrichRtqMarkdown(
           source.replace(

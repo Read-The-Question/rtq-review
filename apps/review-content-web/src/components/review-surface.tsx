@@ -4016,7 +4016,7 @@ export function ReviewSurface({
                     value={preferences.paperImageMode}
                   >
                     <option value="all">All related assets</option>
-                    <option value="generated">Generated preferred</option>
+                    <option value="prepared">Prepared preferred</option>
                   </select>
                 </label>
                 <PreferenceToggle

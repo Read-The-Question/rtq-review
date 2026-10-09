@@ -1,5 +1,6 @@
 @import 'tailwindcss';
 @import '@rtq/review-paper-markdown/paper-table.css';
+@import '@rtq/review-paper-markdown/paper-image.css';
 @import '@rtq/review-paper-browser/paper-shape.css';
 @import 'katex/dist/katex.min.css';
 
@@ -11,6 +12,7 @@
   --muted: #586273;
   --panel: #ffffff;
   --panel-strong: #ffffff;
+  --paper-media: transparent;
   --line: rgba(22, 28, 37, 0.12);
   --line-strong: rgba(22, 28, 37, 0.2);
   --accent: #2563eb;

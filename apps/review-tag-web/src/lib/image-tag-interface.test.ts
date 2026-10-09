@@ -71,7 +71,7 @@ test('image review composes the question document and shared tag controls', asyn
   assert.match(document, /Parent tag inheritance off/);
   assert.doesNotMatch(document, /QuestionGlance|ImageGlance/);
   assert.match(css, /@rtq\/review-paper-browser\/paper-outline\.css/);
-  assert.match(css, /\.paper-images--generated/);
+  assert.match(css, /\.paper-images--prepared/);
   assert.match(tagEditor, /PAPER_IMAGE_MODE_STORAGE_KEY/);
   assert.match(tagEditor, /IMAGE_NODES_ONLY_STORAGE_KEY/);
   assert.match(tagEditor, /Only questions with images/);
@@ -79,12 +79,12 @@ test('image review composes the question document and shared tag controls', asyn
   assert.match(tagEditor, /<option value="all">All related assets<\/option>/);
   assert.match(
     tagEditor,
-    /<option value="generated">Generated preferred<\/option>/,
+    /<option value="prepared">Prepared preferred<\/option>/,
   );
   assert.match(tagEditor, /paperImageMode=\{paperImageMode\}/);
   assert.match(
     css,
-    /\.paper-image-group\[data-has-generated='false'\][\s\S]*\.paper-image-variant:not\(\[data-primary='true'\]\)/,
+    /\.paper-image-group\[data-has-prepared='false'\][\s\S]*\.paper-image-variant:not\(\[data-primary='true'\]\)/,
   );
   assert.match(imageEditor, /<TagGroup/);
   assert.match(imageEditor, /<TagPicker/);

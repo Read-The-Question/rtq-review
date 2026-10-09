@@ -118,6 +118,7 @@ type PaperImageMetadata = {
   assetScope: PaperImageAssetScope;
   description: string | null;
   renderMode: 'external' | 'inline';
+  surface?: 'paper' | 'transparent';
   version: 1;
 };
 type PaperImageTechnicalEntry = {
@@ -131,7 +132,7 @@ type PaperImageVariant = {
   relativePath: string;
   technical: PaperImageTechnicalEntry;
   metadata: PaperImageMetadata;
-  provenance: 'manual' | 'generated';
+  provenance: 'manual' | 'prepared';
   svg?: PreparedReviewSvg;
 };
 
@@ -426,8 +427,8 @@ function paperImageAssetRelativePaths(
       : `-${assetScope === 'working' ? 'w' : 'a'}${String((scopeIndex ?? 0) + 1).padStart(2, '0')}`;
 
   const basename = `${compactAssetPrefix(context)}${scopeToken}-i${String(imageIndex).padStart(2, '0')}`;
-  const locations = (['manual', 'generated'] as const).map(provenance => {
-    const sourceRelativeStem = `${owner}/${provenance === 'generated' ? 'generated/diagrams' : 'manual'}/${basename}`;
+  const locations = (['manual', 'prepared'] as const).map(provenance => {
+    const sourceRelativeStem = `${owner}/${provenance === 'prepared' ? 'prepared/diagrams' : 'manual'}/${basename}`;
     const logicalPath = [
       'papers',
       ...paperAssetPathSegments(context.assetFileStem ?? context.fileStem),
@@ -484,8 +485,8 @@ function paperImageTechnicalEntry(
     return {
       fingerprint: 'missing-image',
       format: 'svg',
-      intrinsicHeight: 120,
-      intrinsicWidth: 160,
+      intrinsicHeight: 180,
+      intrinsicWidth: 320,
     };
   }
   const paperRoot = path.join(
@@ -536,7 +537,7 @@ function paperImageMetadata(
   scopeIndex: number | undefined,
   imageIndex: number,
   extension: (typeof PAPER_IMAGE_EXTENSIONS)[number] | undefined,
-  provenance: 'manual' | 'generated' = 'manual',
+  provenance: 'manual' | 'prepared' = 'manual',
 ): PaperImageMetadata {
   const ownerSegments = [
     assetScope === 'question'
@@ -544,7 +545,7 @@ function paperImageMetadata(
       : assetScope === 'working'
         ? 'workings'
         : 'answers',
-    ...(provenance === 'generated' ? ['generated', 'diagrams'] : ['manual']),
+    ...(provenance === 'prepared' ? ['prepared', 'diagrams'] : ['manual']),
   ];
   const scopeToken =
     assetScope === 'question'
@@ -574,8 +575,15 @@ function paperImageMetadata(
     );
   }
   const metadata = value as Record<string, unknown>;
-  const keys = ['alt', 'assetScope', 'description', 'renderMode', 'version'];
-  if (Object.keys(metadata).sort().join() !== keys.sort().join()) {
+  const keys = [
+    'alt',
+    'assetScope',
+    'description',
+    'renderMode',
+    'surface',
+    'version',
+  ];
+  if (Object.keys(metadata).some(key => !keys.includes(key))) {
     throw new Error(
       `Invalid PaperImage metadata at ${metadataPath}: fields must match version 1.`,
     );
@@ -592,7 +600,10 @@ function paperImageMetadata(
       metadata.description === null ||
       (typeof metadata.description === 'string' && metadata.description.trim())
     ) ||
-    !(metadata.renderMode === 'external' || metadata.renderMode === 'inline')
+    !(metadata.renderMode === 'external' || metadata.renderMode === 'inline') ||
+    (metadata.surface !== undefined &&
+      metadata.surface !== 'paper' &&
+      metadata.surface !== 'transparent')
   ) {
     throw new Error(
       `Invalid or inconsistent PaperImage metadata at ${metadataPath}.`,
@@ -604,14 +615,14 @@ function paperImageMetadata(
     );
   }
   if (
-    provenance === 'generated' &&
+    provenance === 'prepared' &&
     (typeof metadata.alt !== 'string' ||
       !metadata.alt.trim() ||
       typeof metadata.description !== 'string' ||
       !metadata.description.trim())
   ) {
     throw new Error(
-      `Generated PaperImage requires informative alt and description: ${metadataPath}`,
+      `Prepared PaperImage requires informative alt and description: ${metadataPath}`,
     );
   }
   return metadata as PaperImageMetadata;
@@ -716,6 +727,7 @@ function paperImageFormat(
   if (extension === undefined) return 'Missing';
   if (extension === 'png') return 'PNG';
   if (extension === 'svg') return 'SVG';
+  if (extension === 'webp') return 'WebP';
   return 'JPEG';
 }
 
@@ -747,6 +759,10 @@ function paperImageVariantMarkup(
   const description = metadata.description
     ? `<span id="${escapeHtmlAttribute(descriptionId)}" class="sr-only">${escapeHtmlAttribute(metadata.description)}</span>`
     : '';
+  const surface =
+    extension !== undefined && extension !== 'svg'
+      ? (metadata.surface ?? 'paper')
+      : undefined;
 
   const format = paperImageFormat(extension);
   const formatLabel = showFormat
@@ -758,10 +774,13 @@ function paperImageVariantMarkup(
     ? `<span ${alt ? `role="img" aria-label="${escapeHtmlAttribute(alt)}"` : ''}${describedBy} ${attributes} class="paper-svg-inline rtq-review-inline-svg">${svg.svgMarkup}</span>`
     : `<img src="${escapeHtmlAttribute(`${API_ASSET_PREFIX}/${relativePath}`)}" alt="${escapeHtmlAttribute(
         alt,
-      )}" width="${technical.intrinsicWidth}" height="${technical.intrinsicHeight}"${describedBy} ${attributes} class="${svg ? 'paper-svg-image' : 'paper-image'}"${svg ? '' : ` style="${escapeHtmlAttribute(paperImageStyle(displaySize, align))}"`} />`;
+      )}" width="${technical.intrinsicWidth}" height="${technical.intrinsicHeight}"${describedBy} ${attributes} class="${svg ? 'paper-svg-image' : 'paper-image'}"${svg || surface ? '' : ` style="${escapeHtmlAttribute(paperImageStyle(displaySize, align))}"`} />`;
+  const raster = surface
+    ? `<span class="paper-raster-surface" data-surface="${surface}" style="${escapeHtmlAttribute(paperImageStyle(displaySize, align))}">${visual}</span>`
+    : visual;
   const graphic = svg
     ? `<div class="paper-svg-scroll" role="group" aria-label="Scrollable image" tabindex="0" data-align="${align}" style="max-width:${svg.naturalWidth}px"><div class="paper-svg-graphic" style="min-width:${svg.minimumReadableWidth}px">${visual}</div></div>`
-    : visual;
+    : raster;
   const css = svg?.svgCss
     ? `<style>${svg.svgCss.replaceAll('<', '\\3c ')}</style>`
     : '';
@@ -773,8 +792,8 @@ function paperImageMarkup(
   variants: readonly PaperImageVariant[],
   assetScope: PaperImageAssetScope,
 ) {
-  const hasGenerated = variants.some(
-    variant => variant.provenance === 'generated',
+  const hasPrepared = variants.some(
+    variant => variant.provenance === 'prepared',
   );
   const showFormat = variants.length > 1;
   const markup = variants
@@ -788,7 +807,7 @@ function paperImageMarkup(
       ),
     )
     .join('');
-  return `<div class="paper-image-group" data-has-generated="${hasGenerated}" data-variant-count="${variants.length}">${markup}</div>`;
+  return `<div class="paper-image-group" data-has-prepared="${hasPrepared}" data-variant-count="${variants.length}">${markup}</div>`;
 }
 
 function longDivisionMarkup(
@@ -855,9 +874,9 @@ function replacePaperImages(
       imageIndex,
     );
     const preferred = resolutions.some(
-      resolution => resolution.provenance === 'generated',
+      resolution => resolution.provenance === 'prepared',
     )
-      ? 'generated'
+      ? 'prepared'
       : 'manual';
     const variants = resolutions.map(resolution => {
       const metadata = paperImageMetadata(

@@ -26,10 +26,15 @@ import type {
 import type { PaperImageMode } from '@/lib/review-view-model';
 
 const TODO_IMAGE_SRC = '#rtq-todo-image';
+const PAPER_IMAGE_SVG_REVIEW_SCALE = 2;
 
 function positiveNumber(value: null | string): number | undefined {
   const parsed = Number(value);
   return Number.isFinite(parsed) && parsed > 0 ? parsed : undefined;
+}
+
+function scaledSvgReviewWidth(value: number): number {
+  return value * PAPER_IMAGE_SVG_REVIEW_SCALE;
 }
 
 function PaperImageVariant({
@@ -45,7 +50,15 @@ function PaperImageVariant({
   const sized =
     variant.naturalWidth !== undefined &&
     variant.minimumReadableWidth !== undefined;
-  const visual = variant.svgMarkup ? (
+  const naturalWidth =
+    sized && variant.format === 'SVG'
+      ? scaledSvgReviewWidth(variant.naturalWidth)
+      : variant.naturalWidth;
+  const minimumReadableWidth =
+    sized && variant.format === 'SVG'
+      ? scaledSvgReviewWidth(variant.minimumReadableWidth)
+      : variant.minimumReadableWidth;
+  const rawVisual = variant.svgMarkup ? (
     <span
       role={variant.alt ? 'img' : undefined}
       aria-label={variant.alt || undefined}
@@ -67,6 +80,14 @@ function PaperImageVariant({
       src={variant.src}
     />
   );
+  const visual =
+    variant.surface === undefined ? (
+      rawVisual
+    ) : (
+      <span className="paper-raster-surface" data-surface={variant.surface}>
+        {rawVisual}
+      </span>
+    );
   return (
     <span
       className="rtq-paper-image-variant"
@@ -85,11 +106,11 @@ function PaperImageVariant({
           role="group"
           aria-label="Scrollable image"
           tabIndex={0}
-          style={{ maxWidth: variant.naturalWidth }}
+          style={{ maxWidth: naturalWidth }}
         >
           <span
             className="rtq-svg-graphic"
-            style={{ minWidth: variant.minimumReadableWidth }}
+            style={{ minWidth: minimumReadableWidth }}
           >
             {visual}
           </span>
@@ -139,14 +160,14 @@ function PaperImage({
   const description = isPaperImage ? title : undefined;
 
   if (image) {
-    const generated = image.variants.filter(
-      (variant) => variant.provenance === 'generated',
+    const prepared = image.variants.filter(
+      (variant) => variant.provenance === 'prepared',
     );
     const variants =
       imageMode === 'all'
         ? image.variants
-        : generated.length
-          ? generated
+        : prepared.length
+          ? prepared
           : image.variants.slice(0, 1);
     const showFormat = image.variants.length > 1;
     return (
@@ -194,6 +215,12 @@ function PaperImage({
 
   const naturalWidth = positiveNumber(params.get('natural_width'));
   const minimumWidth = positiveNumber(params.get('minimum_width'));
+  const reviewNaturalWidth = naturalWidth
+    ? scaledSvgReviewWidth(naturalWidth)
+    : undefined;
+  const reviewMinimumWidth = minimumWidth
+    ? scaledSvgReviewWidth(minimumWidth)
+    : undefined;
   const visual = (
     // Canonical assets are served by the same-origin reader.
     // eslint-disable-next-line @next/next/no-img-element
@@ -223,9 +250,12 @@ function PaperImage({
           role="group"
           aria-label="Scrollable image"
           tabIndex={0}
-          style={{ maxWidth: naturalWidth }}
+          style={{ maxWidth: reviewNaturalWidth }}
         >
-          <span className="rtq-svg-graphic" style={{ minWidth: minimumWidth }}>
+          <span
+            className="rtq-svg-graphic"
+            style={{ minWidth: reviewMinimumWidth }}
+          >
             {visual}
           </span>
         </span>

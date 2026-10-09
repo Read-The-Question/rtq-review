@@ -7,13 +7,20 @@ import {
   resolveRtqContentPaths,
 } from '@rtq/review-repository-paths';
 
-export const PAPER_IMAGE_EXTENSIONS = ['png', 'jpg', 'jpeg', 'svg'] as const;
+export const PAPER_IMAGE_EXTENSIONS = [
+  'png',
+  'jpg',
+  'jpeg',
+  'svg',
+  'webp',
+] as const;
 
 const ALLOWED_CONTENT_TYPES = new Map([
   ['.jpeg', 'image/jpeg'],
   ['.jpg', 'image/jpeg'],
   ['.png', 'image/png'],
   ['.svg', 'image/svg+xml'],
+  ['.webp', 'image/webp'],
 ]);
 
 const SAFE_PATH_SEGMENT = /^[A-Za-z0-9][A-Za-z0-9._-]*$/;
@@ -221,7 +228,7 @@ function validatePaperImageSubpath(segments: string[]) {
   if (
     (scope === 'questions' || scope === 'workings' || scope === 'answers') &&
     ((provenance === 'manual' && remaining.length === 1) ||
-      (provenance === 'generated' &&
+      (provenance === 'prepared' &&
         remaining.length === 2 &&
         remaining[0] === 'diagrams'))
   ) {
@@ -299,7 +306,7 @@ export async function resolveCanonicalPaperAsset(
 
   if (!ALLOWED_CONTENT_TYPES.has(extension)) {
     throw new PaperAssetRequestError(
-      'Unsupported paper asset format; expected SVG, PNG, JPG, or JPEG.',
+      'Unsupported paper asset format; expected SVG, PNG, JPG, JPEG, or WebP.',
       415,
     );
   }

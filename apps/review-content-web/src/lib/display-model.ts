@@ -17,7 +17,7 @@ export type DisplayPaperImageTag = Readonly<{
 }>;
 
 export type DisplayPaperImageVariant = Readonly<{
-  provenance: 'manual' | 'generated' | 'missing';
+  provenance: 'manual' | 'prepared' | 'missing';
   alt: string;
   altReview?: 'pending' | 'reviewed-decorative' | 'reviewed-informative';
   description: string;
@@ -26,9 +26,10 @@ export type DisplayPaperImageVariant = Readonly<{
   minimumReadableWidth?: number;
   svgMarkup?: string;
   svgCss?: string;
-  format: 'JPEG' | 'Missing' | 'PNG' | 'SVG';
+  format: 'JPEG' | 'Missing' | 'PNG' | 'SVG' | 'WebP';
   height?: number;
   src: string;
+  surface?: 'paper' | 'transparent';
   width?: number;
 }>;
 

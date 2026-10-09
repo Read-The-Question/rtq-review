@@ -7,13 +7,20 @@ import {
   resolveRtqContentPaths,
 } from '@rtq/review-repository-paths';
 
-export const PAPER_IMAGE_EXTENSIONS = ['svg', 'png', 'jpg', 'jpeg'] as const;
+export const PAPER_IMAGE_EXTENSIONS = [
+  'svg',
+  'png',
+  'jpg',
+  'jpeg',
+  'webp',
+] as const;
 
 const ALLOWED_CONTENT_TYPES = new Map([
   ['.jpeg', 'image/jpeg'],
   ['.jpg', 'image/jpeg'],
   ['.png', 'image/png'],
   ['.svg', 'image/svg+xml'],
+  ['.webp', 'image/webp'],
 ]);
 
 const SAFE_PATH_SEGMENT = /^[A-Za-z0-9][A-Za-z0-9._-]*$/;
@@ -61,7 +68,7 @@ export function resolveCanonicalPaperImageExtension(
     throw new Error(
       `Ambiguous PaperImage asset for extension-free key ${paperStem}/${sourceRelativeStem}: ${matchingExtensions
         .map(extension => `${sourceRelativeStem}.${extension}`)
-        .join(', ')}. Keep exactly one of .svg, .png, .jpg, or .jpeg.`,
+        .join(', ')}. Keep exactly one of .svg, .png, .jpg, .jpeg, or .webp.`,
     );
   }
 
@@ -230,8 +237,10 @@ function validatePaperImageSubpath(segments: string[]) {
 
   if (
     (scope === 'questions' || scope === 'workings' || scope === 'answers') &&
-    provenance === 'manual' &&
-    remaining.length === 1
+    ((provenance === 'manual' && remaining.length === 1) ||
+      (provenance === 'prepared' &&
+        remaining.length === 2 &&
+        remaining[0] === 'diagrams'))
   ) {
     return;
   }
@@ -307,7 +316,7 @@ export async function resolveCanonicalPaperAsset(
 
   if (!ALLOWED_CONTENT_TYPES.has(extension)) {
     throw new PaperAssetRequestError(
-      'Unsupported paper asset format; expected SVG, PNG, JPG, or JPEG.',
+      'Unsupported paper asset format; expected SVG, PNG, JPG, JPEG, or WebP.',
       415,
     );
   }

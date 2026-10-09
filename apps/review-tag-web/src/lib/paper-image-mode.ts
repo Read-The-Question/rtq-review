@@ -1,5 +1,7 @@
-export type PaperImageMode = 'all' | 'generated';
+export type PaperImageMode = 'all' | 'prepared';
 
 export function parsePaperImageMode(value: string | null): PaperImageMode {
-  return value === 'svg' || value === 'generated' ? 'generated' : 'all';
+  return value === 'svg' || value === 'generated' || value === 'prepared'
+    ? 'prepared'
+    : 'all';
 }

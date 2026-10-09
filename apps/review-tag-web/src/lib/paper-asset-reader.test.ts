@@ -136,7 +136,7 @@ test('serves generated diagrams for all owners without exposing sidecars', async
       path.join(directory, 's01-q01-i00.json'),
       '{"private":true}',
     );
-    const route = `papers/alpha-school/2020/paper-1/${owner}/generated/diagrams/s01-q01-i00`;
+    const route = `papers/alpha-school/2020/paper-1/${owner}/prepared/diagrams/s01-q01-i00`;
     const response = await createPaperAssetResponse(`${route}.svg`, {
       assetsRoot: fixture.assetsRoot,
     });

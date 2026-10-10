@@ -56,7 +56,12 @@ export async function resolveCanonicalPaperPdf(
     throw new PaperPdfRequestError('Invalid paper PDF name.', 400);
   }
 
-  const pdfRoot = await fs.realpath(configuredPdfRoot(options));
+  let pdfRoot: string;
+  try {
+    pdfRoot = await fs.realpath(configuredPdfRoot(options));
+  } catch {
+    throw new PaperPdfRequestError('Paper PDF was not found.', 404);
+  }
   const requested = path.resolve(pdfRoot, `${stem}.pdf`);
   if (!isWithin(pdfRoot, requested)) {
     throw new PaperPdfRequestError('Paper PDF path escapes its root.', 403);
@@ -89,7 +94,19 @@ export async function resolvePaperPdf(
   if (!stem) {
     return { fileName: `${fileName}.pdf`, state: 'unavailable' };
   }
+
+  return resolvePaperPdfByStem(stem, options);
+}
+
+export async function resolvePaperPdfByStem(
+  stem: string,
+  options: PaperPdfReaderOptions = {},
+): Promise<PaperPdf> {
   const pdfFileName = `${stem}.pdf`;
+  if (!SAFE_PAPER_STEM.test(stem)) {
+    return { fileName: pdfFileName, state: 'unavailable' };
+  }
+
   try {
     await resolveCanonicalPaperPdf(stem, options);
     return {

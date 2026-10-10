@@ -10,6 +10,9 @@ import type { ResolveRtqContentOptions } from '@rtq/review-repository-paths';
 import 'server-only';
 
 import { readPaperDocument } from './paper-data.ts';
+import { resolvePaperPdfByStem } from './paper-pdf-reader.ts';
+import type { PaperPdfOption } from './paper-pdf.ts';
+import type { PaperDocument, PaperNode } from './paper-types.ts';
 import { buildTagCorpusDocument } from './tag-corpus-document.ts';
 
 async function loadMatchingPapers(
@@ -35,6 +38,64 @@ async function loadMatchingPapers(
   return new Map(entries);
 }
 
+function fileStem(fileName: string): string | undefined {
+  return fileName.toLowerCase().endsWith('.toml')
+    ? fileName.slice(0, -'.toml'.length)
+    : undefined;
+}
+
+function questionSourceStems(node: PaperNode): readonly string[] {
+  const stems = new Set<string>();
+  const visit = (current: PaperNode) => {
+    if (current.originalSource?.paperStem) {
+      stems.add(current.originalSource.paperStem);
+    }
+    current.children.forEach(visit);
+  };
+  visit(node);
+  return [...stems];
+}
+
+async function resolveCorpusPdfOptions(
+  matches: readonly CorpusQuestionContentSearchMatch[],
+  papers: ReadonlyMap<string, PaperDocument>,
+): Promise<readonly PaperPdfOption[]> {
+  const candidates = new Map<string, { label: string; matchCount: number }>();
+
+  matches.forEach(match => {
+    const paper = papers.get(match.relativePath);
+    const question =
+      paper?.sections[match.sectionIndex]?.questions[match.questionIndex];
+    if (!paper || !question) return;
+
+    const directStem = fileStem(paper.fileName);
+    const sourceStems = questionSourceStems(question);
+    const stems = sourceStems.length
+      ? sourceStems
+      : (paper.folderKey === 'toml' || paper.folderKey === 'focusPaperToml') &&
+          directStem
+        ? [directStem]
+        : [];
+
+    new Set(stems).forEach(stem => {
+      const current = candidates.get(stem);
+      candidates.set(stem, {
+        label: directStem === stem && paper.title ? paper.title : stem,
+        matchCount: (current?.matchCount ?? 0) + 1,
+      });
+    });
+  });
+
+  return Promise.all(
+    [...candidates].map(async ([key, candidate]): Promise<PaperPdfOption> => ({
+      key,
+      label: candidate.label,
+      matchCount: candidate.matchCount,
+      pdf: await resolvePaperPdfByStem(key),
+    })),
+  );
+}
+
 export async function searchTagCorpusContent(
   collectionId: PaperCollectionId,
   query: ContentSearchQuery,
@@ -48,15 +109,18 @@ export async function searchTagCorpusContent(
     options,
   );
   const papers = await loadMatchingPapers(collectionId, page.matches);
+  const document = buildTagCorpusDocument(
+    collectionId,
+    page.matches,
+    papers,
+    page.startPosition,
+  );
+  const pdfs = await resolveCorpusPdfOptions(page.matches, papers);
 
   return {
     ...page,
-    document: buildTagCorpusDocument(
-      collectionId,
-      page.matches,
-      papers,
-      page.startPosition,
-    ),
+    document,
+    pdfs,
   };
 }
 
@@ -71,14 +135,17 @@ export async function searchTagCorpusUuids(
     options,
   );
   const papers = await loadMatchingPapers(collectionId, response.matches);
+  const document = buildTagCorpusDocument(
+    collectionId,
+    response.matches,
+    papers,
+    response.matches.length ? 1 : 0,
+  );
+  const pdfs = await resolveCorpusPdfOptions(response.matches, papers);
 
   return {
     ...response,
-    document: buildTagCorpusDocument(
-      collectionId,
-      response.matches,
-      papers,
-      response.matches.length ? 1 : 0,
-    ),
+    document,
+    pdfs,
   };
 }

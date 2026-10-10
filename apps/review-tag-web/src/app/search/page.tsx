@@ -12,6 +12,7 @@ import { TagCorpusSearchForm } from '@/components/tag-corpus-search-form';
 import { TagEditorApp } from '@/components/tag-editor-app';
 import { getImageTagCatalog } from '@/lib/image-tag-catalog';
 import { isEditableFolderKey } from '@/lib/paper-folder-metadata';
+import type { PaperPdfOption } from '@/lib/paper-pdf';
 import type { PaperDocument } from '@/lib/paper-types';
 import {
   searchTagCorpusContent,
@@ -34,6 +35,7 @@ type SearchView = Readonly<{
   nextCursor?: string;
   previousCursor?: string;
   requestedUuidCount: number;
+  pdfs: readonly PaperPdfOption[];
   scannedFileCount: number;
   startPosition: number;
 }>;
@@ -42,6 +44,7 @@ const emptySearch: SearchView = {
   endPosition: 0,
   invalidFileCount: 0,
   missingUuids: [],
+  pdfs: [],
   requestedUuidCount: 0,
   scannedFileCount: 0,
   startPosition: 0,
@@ -92,6 +95,7 @@ async function loadSearch(
         document: response.document,
         invalidFileCount: response.invalidFileCount,
         missingUuids: response.missingUuids,
+        pdfs: response.pdfs,
         requestedUuidCount: response.requestedUuids.length,
         scannedFileCount: response.scannedFileCount,
         startPosition: response.matches.length ? 1 : 0,
@@ -111,6 +115,7 @@ async function loadSearch(
       endPosition: response.endPosition,
       document: response.document,
       invalidFileCount: response.invalidFileCount,
+      pdfs: response.pdfs,
       ...(response.nextCursor ? { nextCursor: response.nextCursor } : {}),
       ...(response.previousCursor
         ? { previousCursor: response.previousCursor }
@@ -302,6 +307,8 @@ export default async function TagCorpusSearchPage({
         imageTagCatalog={imageTagCatalog}
         initialDocument={search.document}
         key={`${collectionId}:${pattern}:${scope}:${uuidInput}:${cursor ?? ''}`}
+        pdfSessionKey={`${collectionId}:${uuidInput ? `uuid:${uuidInput}` : `content:${scope}:${pattern}`}`}
+        pdfs={search.pdfs}
         searchPanel={searchPanel}
         tagCatalog={tagCatalog}
       />

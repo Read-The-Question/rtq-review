@@ -44,7 +44,12 @@ export async function resolveCanonicalPaperPdf(
     'original-papers',
     'pdf-rtq',
   );
-  const pdfRoot = await fs.realpath(configuredRoot);
+  let pdfRoot: string;
+  try {
+    pdfRoot = await fs.realpath(configuredRoot);
+  } catch {
+    throw new PaperPdfRequestError('Paper PDF was not found.', 404);
+  }
   const requested = path.resolve(pdfRoot, `${stem}.pdf`);
   if (!isWithin(pdfRoot, requested)) {
     throw new PaperPdfRequestError('Paper PDF path escapes its root.', 403);
@@ -76,7 +81,18 @@ export async function resolvePaperPdf(
     return { fileName: `${source.fileName}.pdf`, state: 'unavailable' };
   }
 
+  return resolvePaperPdfByStem(stem, options);
+}
+
+export async function resolvePaperPdfByStem(
+  stem: string,
+  options: ResolveRtqContentOptions = {},
+): Promise<PaperPdf> {
   const fileName = `${stem}.pdf`;
+  if (!SAFE_PAPER_STEM.test(stem)) {
+    return { fileName, state: 'unavailable' };
+  }
+
   try {
     await resolveCanonicalPaperPdf(stem, options);
     return {

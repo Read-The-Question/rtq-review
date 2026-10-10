@@ -16,6 +16,8 @@ import type {
   CorpusSearchLimit,
   CorpusSearchResponse,
 } from './corpus-search-types';
+import type { PaperPdfOption } from './paper-pdf';
+import { resolvePaperPdfByStem } from './paper-pdf-reader';
 import { prepareReviewPaperForDisplay } from './prepare-paper';
 import { reviewContentReviewer } from './review-config';
 import { loadReviewCommentsForPaper } from './review-comments';
@@ -88,6 +90,7 @@ function corpusResponse(
     uuidInput?: string;
     uuidRequestCount?: number;
   }> = { mode: 'content' },
+  pdfs: readonly PaperPdfOption[] = [],
 ): CorpusSearchResponse {
   return {
     commentLoad: loadReviewCommentsForPaper(paper),
@@ -99,6 +102,7 @@ function corpusResponse(
     ...(page.nextCursor ? { nextCursor: page.nextCursor } : {}),
     outcomeLoad: loadReviewOutcomesForPaper(paper),
     paper: prepareReviewPaperForDisplay(paper),
+    pdfs,
     ...(page.previousCursor ? { previousCursor: page.previousCursor } : {}),
     reviewer: reviewContentReviewer,
     scannedFileCount: page.scannedFileCount,
@@ -109,11 +113,34 @@ function corpusResponse(
   };
 }
 
+function fileStem(fileName: string): string | undefined {
+  return fileName.toLowerCase().endsWith('.toml')
+    ? fileName.slice(0, -'.toml'.length)
+    : undefined;
+}
+
+function questionSourceStems(node: ReviewPaperNode): readonly string[] {
+  const stems = new Set<string>();
+  const visit = (current: ReviewPaperNode) => {
+    if (current.originalSource?.paperStem) {
+      stems.add(current.originalSource.paperStem);
+    }
+    current.children.forEach(visit);
+  };
+  visit(node);
+  return [...stems];
+}
+
 async function loadCorpusQuestions(
   collectionId: PaperCollectionId,
   matches: readonly CorpusQuestionContentSearchMatch[],
   startPosition: number,
-): Promise<readonly ReviewPaperNode[]> {
+): Promise<
+  Readonly<{
+    pdfs: readonly PaperPdfOption[];
+    questions: readonly ReviewPaperNode[];
+  }>
+> {
   const paths = [...new Set(matches.map((match) => match.relativePath))];
   const papers = new Map(
     await Promise.all(
@@ -124,7 +151,8 @@ async function loadCorpusQuestions(
     ),
   );
 
-  return matches.map((match, index): ReviewPaperNode => {
+  const candidates = new Map<string, { label: string; matchCount: number }>();
+  const questions = matches.map((match, index): ReviewPaperNode => {
     const paper = papers.get(match.relativePath);
     const section = paper?.sections[match.sectionIndex];
     const question = section?.questions[match.questionIndex];
@@ -133,6 +161,23 @@ async function loadCorpusQuestions(
         `The canonical search result changed while reading ${match.relativePath}.`,
       );
     }
+
+    const directStem = fileStem(paper.source.fileName);
+    const sourceStems = questionSourceStems(question);
+    const stems = sourceStems.length
+      ? sourceStems
+      : paper.source.collection.supportsOriginalPdf && directStem
+        ? [directStem]
+        : paper.source.provenance.sourcePaperStems;
+    new Set(stems).forEach((stem) => {
+      const current = candidates.get(stem);
+      candidates.set(stem, {
+        label:
+          directStem === stem && paper.source.title ? paper.source.title : stem,
+        matchCount: (current?.matchCount ?? 0) + 1,
+      });
+    });
+
     return corpusNode(
       question,
       paper.source,
@@ -141,6 +186,17 @@ async function loadCorpusQuestions(
       startPosition + index,
     );
   });
+
+  const pdfs = await Promise.all(
+    [...candidates].map(async ([key, candidate]): Promise<PaperPdfOption> => ({
+      key,
+      label: candidate.label,
+      matchCount: candidate.matchCount,
+      pdf: await resolvePaperPdfByStem(key),
+    })),
+  );
+
+  return { pdfs, questions };
 }
 
 export function emptyCanonicalQuestionCorpus(
@@ -182,7 +238,7 @@ export async function searchCanonicalQuestionCorpus(
   }>,
 ): Promise<CorpusSearchResponse> {
   const page = await searchPaperQuestionTrees(collectionId, query, options);
-  const questions = await loadCorpusQuestions(
+  const { pdfs, questions } = await loadCorpusQuestions(
     collectionId,
     page.matches,
     page.startPosition,
@@ -194,15 +250,20 @@ export async function searchCanonicalQuestionCorpus(
       ? `Results ${page.startPosition}–${page.endPosition}`
       : 'Search results',
   );
-  return corpusResponse(paper, {
-    endPosition: page.endPosition,
-    invalidFileCount: page.invalidFileCount,
-    limit: options.limit,
-    ...(page.nextCursor ? { nextCursor: page.nextCursor } : {}),
-    ...(page.previousCursor ? { previousCursor: page.previousCursor } : {}),
-    scannedFileCount: page.scannedFileCount,
-    startPosition: page.startPosition,
-  });
+  return corpusResponse(
+    paper,
+    {
+      endPosition: page.endPosition,
+      invalidFileCount: page.invalidFileCount,
+      limit: options.limit,
+      ...(page.nextCursor ? { nextCursor: page.nextCursor } : {}),
+      ...(page.previousCursor ? { previousCursor: page.previousCursor } : {}),
+      scannedFileCount: page.scannedFileCount,
+      startPosition: page.startPosition,
+    },
+    { mode: 'content' },
+    pdfs,
+  );
 }
 
 export async function searchCanonicalQuestionCorpusByUuids(
@@ -210,7 +271,11 @@ export async function searchCanonicalQuestionCorpusByUuids(
   input: string,
 ): Promise<CorpusSearchResponse> {
   const result = await searchPaperQuestionTreesByUuids(collectionId, input);
-  const questions = await loadCorpusQuestions(collectionId, result.matches, 1);
+  const { pdfs, questions } = await loadCorpusQuestions(
+    collectionId,
+    result.matches,
+    1,
+  );
   const paper = corpusPaper(collectionId, questions, 'UUID results');
   return corpusResponse(
     paper,
@@ -227,5 +292,6 @@ export async function searchCanonicalQuestionCorpusByUuids(
       uuidInput: input,
       uuidRequestCount: result.requestedUuids.length,
     },
+    pdfs,
   );
 }

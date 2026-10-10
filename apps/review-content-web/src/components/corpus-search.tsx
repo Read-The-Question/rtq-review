@@ -196,6 +196,8 @@ export function CorpusSearch({
         }}
         outcomeLoad={response.outcomeLoad}
         paper={response.paper}
+        pdfSessionKey={`${collectionId}:${uuidInput ? `uuid:${uuidInput}` : `content:${scope}:${pattern}`}`}
+        pdfs={response.pdfs}
         reviewer={response.reviewer}
       />
     );

@@ -1,4 +1,5 @@
 import type { DisplayReviewPaper } from './display-model';
+import type { PaperPdfOption } from './paper-pdf';
 import type { PaperCollectionId } from '@rtq/review-paper-model';
 import type { ReviewCommentLoad, ReviewOutcomeLoad } from './review-types';
 
@@ -16,6 +17,7 @@ export type CorpusSearchResponse = Readonly<{
   nextCursor?: string;
   outcomeLoad: ReviewOutcomeLoad;
   paper: DisplayReviewPaper;
+  pdfs: readonly PaperPdfOption[];
   previousCursor?: string;
   reviewer: string;
   scannedFileCount: number;

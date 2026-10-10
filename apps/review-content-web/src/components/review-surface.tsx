@@ -45,7 +45,7 @@ import type {
   DisplayReviewPaper,
   DisplayWorkingSegment,
 } from '@/lib/display-model';
-import type { PaperPdf } from '@/lib/paper-pdf';
+import type { PaperPdf, PaperPdfOption } from '@/lib/paper-pdf';
 import {
   DEFAULT_REVIEW_PREFERENCES,
   EARLIEST_REVIEW_PREFERENCES_KEY,
@@ -128,6 +128,7 @@ const contentScopeLabels: Readonly<Record<ContentSearchScope, string>> = {
 const ContentSearchContext = createContext<CompiledContentSearch | undefined>(
   undefined,
 );
+const PDF_SESSION_STORAGE_PREFIX = 'rtq.review-content.search-pdf.v1:';
 
 const PRIMARY_REVIEW_OPTIONS = REVIEW_OUTCOME_OPTIONS.filter(
   ({ outcome }) =>
@@ -2487,17 +2488,45 @@ function CorpusPageNavigation({
 
 function PaperPdfPane({
   onHide,
+  onSelect,
+  options,
   pdf,
+  selectedKey,
 }: {
   onHide: () => void;
+  onSelect: (key: string) => void;
+  options: readonly PaperPdfOption[];
   pdf: Extract<PaperPdf, { state: 'available' }>;
+  selectedKey: string;
 }) {
   return (
     <aside className="paper-pdf-pane" aria-label="Original paper PDF">
       <header>
-        <div>
+        <div className="paper-pdf-pane__identity">
           <span>Original paper</span>
-          <strong title={pdf.fileName}>{pdf.fileName}</strong>
+          {options.length > 1 ? (
+            <select
+              aria-label="Original paper PDF"
+              onChange={(event) => onSelect(event.target.value)}
+              value={selectedKey}
+            >
+              {options.map((option) => (
+                <option
+                  disabled={option.pdf.state === 'unavailable'}
+                  key={option.key}
+                  value={option.key}
+                >
+                  {option.label}
+                  {option.label === option.key ? '' : ` — ${option.key}`} ·{' '}
+                  {option.matchCount}{' '}
+                  {option.matchCount === 1 ? 'question' : 'questions'}
+                  {option.pdf.state === 'unavailable' ? ' · unavailable' : ''}
+                </option>
+              ))}
+            </select>
+          ) : (
+            <strong title={pdf.fileName}>{pdf.fileName}</strong>
+          )}
         </div>
         <button onClick={onHide} type="button">
           Hide PDF
@@ -2518,6 +2547,8 @@ export function ReviewSurface({
   outcomeLoad,
   paper,
   pdf,
+  pdfSessionKey,
+  pdfs,
   reviewer,
 }: {
   commentLoad: ReviewCommentLoad;
@@ -2525,6 +2556,8 @@ export function ReviewSurface({
   outcomeLoad: ReviewOutcomeLoad;
   paper: DisplayReviewPaper;
   pdf?: PaperPdf;
+  pdfSessionKey?: string;
+  pdfs?: readonly PaperPdfOption[];
   reviewer: string;
 }) {
   const pathname = usePathname();
@@ -2573,6 +2606,26 @@ export function ReviewSurface({
   const pendingRequestKeys = useRef(new Set<string>());
   const imageMetadataSaveChains = useRef(new Map<string, Promise<void>>());
   const sourceFreshnessPending = useRef(false);
+  const pdfOptions = useMemo<readonly PaperPdfOption[]>(() => {
+    if (pdfs?.length) return pdfs;
+    if (!pdf) return [];
+    return [
+      {
+        key: pdf.fileName,
+        label: paper.title,
+        matchCount: paper.source.questionCount,
+        pdf,
+      },
+    ];
+  }, [paper.source.questionCount, paper.title, pdf, pdfs]);
+  const availablePdfOptions = useMemo(
+    () => pdfOptions.filter((option) => option.pdf.state === 'available'),
+    [pdfOptions],
+  );
+  const availablePdfKeys = availablePdfOptions
+    .map((option) => option.key)
+    .join('\u0000');
+  const [selectedPdfKey, setSelectedPdfKey] = useState<string>();
   const selection = useMemo(
     () => parseReviewFilterSearchParams(searchParams.toString()),
     [searchParams],
@@ -2581,8 +2634,13 @@ export function ReviewSurface({
   const contentScope = normalizeContentSearchScope(
     searchParams.get('content-scope'),
   );
+  const selectedPdfOption =
+    availablePdfOptions.find((option) => option.key === selectedPdfKey) ??
+    availablePdfOptions[0];
   const visiblePdf =
-    pdf?.state === 'available' && preferences.showPdf ? pdf : undefined;
+    selectedPdfOption?.pdf.state === 'available' && preferences.showPdf
+      ? selectedPdfOption.pdf
+      : undefined;
   const contentSearch = useMemo<ContentSearchQuery | undefined>(
     () =>
       contentPattern
@@ -3083,6 +3141,37 @@ export function ReviewSurface({
   }, []);
 
   useEffect(() => {
+    const frame = requestAnimationFrame(() => {
+      if (!availablePdfOptions.length) {
+        setSelectedPdfKey(undefined);
+        return;
+      }
+
+      let storedKey: string | null = null;
+      if (pdfSessionKey) {
+        try {
+          storedKey = sessionStorage.getItem(
+            `${PDF_SESSION_STORAGE_PREFIX}${pdfSessionKey}`,
+          );
+        } catch {
+          // Session storage is optional; the selector still works in memory.
+        }
+      }
+
+      setSelectedPdfKey((current) => {
+        if (availablePdfOptions.some((option) => option.key === current)) {
+          return current;
+        }
+        if (availablePdfOptions.some((option) => option.key === storedKey)) {
+          return storedKey ?? availablePdfOptions[0]?.key;
+        }
+        return availablePdfOptions[0]?.key;
+      });
+    });
+    return () => cancelAnimationFrame(frame);
+  }, [availablePdfKeys, availablePdfOptions, pdfSessionKey]);
+
+  useEffect(() => {
     function checkVisibleSource() {
       if (document.visibilityState === 'visible') {
         void checkVisibleSourceFreshness();
@@ -3209,6 +3298,20 @@ export function ReviewSurface({
       }
       return next;
     });
+  }
+
+  function selectPaperPdf(key: string) {
+    if (!availablePdfOptions.some((option) => option.key === key)) return;
+    setSelectedPdfKey(key);
+    if (!pdfSessionKey) return;
+    try {
+      sessionStorage.setItem(
+        `${PDF_SESSION_STORAGE_PREFIX}${pdfSessionKey}`,
+        key,
+      );
+    } catch {
+      // Session storage is optional; the selector still works in memory.
+    }
   }
 
   function updateFilterDisclosure(expanded: boolean) {
@@ -3978,15 +4081,19 @@ export function ReviewSurface({
                   label="Workings & answers"
                   onChange={(value) => updatePreference('showSolutions', value)}
                 />
-                {pdf?.state === 'available' ? (
+                {availablePdfOptions.length ? (
                   <PreferenceToggle
                     checked={preferences.showPdf}
-                    label="Original PDF"
+                    label={
+                      pdfOptions.length > 1
+                        ? `Original PDFs (${availablePdfOptions.length})`
+                        : 'Original PDF'
+                    }
                     onChange={(value) => updatePreference('showPdf', value)}
                   />
-                ) : pdf?.state === 'unavailable' ? (
+                ) : pdfOptions.length ? (
                   <span className="pdf-unavailable-note" role="status">
-                    Original PDF unavailable
+                    Original PDFs unavailable
                   </span>
                 ) : null}
                 <PreferenceToggle
@@ -4241,7 +4348,10 @@ export function ReviewSurface({
       {visiblePdf ? (
         <PaperPdfPane
           onHide={() => updatePreference('showPdf', false)}
+          onSelect={selectPaperPdf}
+          options={pdfOptions}
           pdf={visiblePdf}
+          selectedKey={selectedPdfOption?.key ?? ''}
         />
       ) : null}
       {commentDialog ? (

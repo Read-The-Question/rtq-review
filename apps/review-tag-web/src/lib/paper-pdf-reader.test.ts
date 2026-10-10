@@ -9,6 +9,7 @@ import {
   createPaperPdfResponse,
   resolveCanonicalPaperPdf,
   resolvePaperPdf,
+  resolvePaperPdfByStem,
 } from './paper-pdf-reader.ts';
 
 async function withPdfRoot(
@@ -48,6 +49,15 @@ test('offers PDFs only for full canonical and focus-paper collections', async ()
         pdfRoot: root,
       }),
       undefined,
+    );
+    assert.deepEqual(await resolvePaperPdfByStem('paper', { pdfRoot: root }), {
+      fileName: 'paper.pdf',
+      state: 'available',
+      url: '/api/papers/pdf/paper',
+    });
+    assert.deepEqual(
+      await resolvePaperPdfByStem('../unsafe', { pdfRoot: root }),
+      { fileName: '../unsafe.pdf', state: 'unavailable' },
     );
   });
 });

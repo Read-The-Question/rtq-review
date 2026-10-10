@@ -1391,6 +1391,24 @@ kbd {
   white-space: nowrap;
 }
 
+.paper-pdf-pane__header select {
+  width: min(100%, 28rem);
+  min-width: 12rem;
+  border: 1px solid var(--line);
+  border-radius: 0.7rem;
+  background: var(--panel-softer);
+  color: var(--ink);
+  padding: 0.48rem 2rem 0.48rem 0.62rem;
+  font-size: 0.78rem;
+  font-weight: 800;
+  text-overflow: ellipsis;
+}
+
+.paper-pdf-pane__header select:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
 .paper-pdf-pane__header button {
   display: inline-flex;
   flex: 0 0 auto;

@@ -15,6 +15,7 @@ import {
   type ReactNode,
   useCallback,
   useEffect,
+  useMemo,
   useRef,
   useState,
 } from 'react';
@@ -30,7 +31,7 @@ import {
   type PaperImageMode,
   parsePaperImageMode,
 } from '@/lib/paper-image-mode';
-import type { PaperPdf } from '@/lib/paper-pdf';
+import type { PaperPdf, PaperPdfOption } from '@/lib/paper-pdf';
 import type {
   ImageTagCatalog,
   PaperDocument,
@@ -44,12 +45,15 @@ type TagEditorAppProps = {
   imageTagCatalog: ImageTagCatalog;
   initialDocument: PaperDocument;
   pdf?: PaperPdf;
+  pdfSessionKey?: string;
+  pdfs?: readonly PaperPdfOption[];
   searchPanel?: ReactNode;
   tagCatalog: TagCatalog;
 };
 
 const REVIEW_MODE_STORAGE_KEY = 'rtq-tag-web:review-mode:v1';
 const PDF_VISIBILITY_STORAGE_KEY = 'rtq-tag-web:show-original-pdf:v1';
+const PDF_SESSION_STORAGE_PREFIX = 'rtq-tag-web:search-pdf:v1:';
 const PAPER_IMAGE_MODE_STORAGE_KEY = 'rtq-tag-web:paper-image-mode:v1';
 const IMAGE_NODES_ONLY_STORAGE_KEY = 'rtq-tag-web:image-nodes-only:v1';
 
@@ -58,6 +62,8 @@ export function TagEditorApp({
   imageTagCatalog,
   initialDocument,
   pdf,
+  pdfSessionKey,
+  pdfs,
   searchPanel,
   tagCatalog,
 }: TagEditorAppProps) {
@@ -67,6 +73,29 @@ export function TagEditorApp({
   const [imageNodesOnly, setImageNodesOnly] = useState(false);
   const [showPdf, setShowPdf] = useState(false);
   const [preferencesLoaded, setPreferencesLoaded] = useState(false);
+  const pdfOptions = useMemo<readonly PaperPdfOption[]>(() => {
+    if (pdfs?.length) return pdfs;
+    if (!pdf) return [];
+    return [
+      {
+        key: pdf.fileName,
+        label: initialDocument.title,
+        matchCount: initialDocument.questionCount,
+        pdf,
+      },
+    ];
+  }, [initialDocument.questionCount, initialDocument.title, pdf, pdfs]);
+  const availablePdfOptions = useMemo(
+    () => pdfOptions.filter(option => option.pdf.state === 'available'),
+    [pdfOptions],
+  );
+  const availablePdfKeys = availablePdfOptions
+    .map(option => option.key)
+    .join('\u0000');
+  const [selectedPdfKey, setSelectedPdfKey] = useState<string>();
+  const selectedPdfOption =
+    availablePdfOptions.find(option => option.key === selectedPdfKey) ??
+    availablePdfOptions[0];
   const isCorpus = document.corpus?.kind === 'search';
   const isReadOnly = isReadOnlyFolder(document.folderKey);
   const [saveState, setSaveState] = useState<{
@@ -101,14 +130,46 @@ export function TagEditorApp({
         window.localStorage.getItem(IMAGE_NODES_ONLY_STORAGE_KEY) === 'true',
       );
       setShowPdf(
-        pdf?.state === 'available' &&
+        availablePdfOptions.length > 0 &&
           window.localStorage.getItem(PDF_VISIBILITY_STORAGE_KEY) === 'true',
       );
       setPreferencesLoaded(true);
     }, 0);
 
     return () => window.clearTimeout(timeoutId);
-  }, [pdf?.state]);
+  }, [availablePdfOptions.length]);
+
+  useEffect(() => {
+    const timeoutId = window.setTimeout(() => {
+      if (!availablePdfOptions.length) {
+        setSelectedPdfKey(undefined);
+        return;
+      }
+
+      let storedKey: string | null = null;
+      if (pdfSessionKey) {
+        try {
+          storedKey = window.sessionStorage.getItem(
+            `${PDF_SESSION_STORAGE_PREFIX}${pdfSessionKey}`,
+          );
+        } catch {
+          // Session storage is optional; the selector still works in memory.
+        }
+      }
+
+      setSelectedPdfKey(current => {
+        if (availablePdfOptions.some(option => option.key === current)) {
+          return current;
+        }
+        if (availablePdfOptions.some(option => option.key === storedKey)) {
+          return storedKey ?? availablePdfOptions[0]?.key;
+        }
+        return availablePdfOptions[0]?.key;
+      });
+    });
+
+    return () => window.clearTimeout(timeoutId);
+  }, [availablePdfKeys, availablePdfOptions, pdfSessionKey]);
 
   useEffect(() => {
     if (!preferencesLoaded) {
@@ -134,6 +195,23 @@ export function TagEditorApp({
 
     return () => window.clearTimeout(timeoutId);
   }, [saveState]);
+
+  const selectPaperPdf = useCallback(
+    (key: string) => {
+      if (!availablePdfOptions.some(option => option.key === key)) return;
+      setSelectedPdfKey(key);
+      if (!pdfSessionKey) return;
+      try {
+        window.sessionStorage.setItem(
+          `${PDF_SESSION_STORAGE_PREFIX}${pdfSessionKey}`,
+          key,
+        );
+      } catch {
+        // Session storage is optional; the selector still works in memory.
+      }
+    },
+    [availablePdfOptions, pdfSessionKey],
+  );
 
   const refreshDocument = useCallback(
     async (options?: { notify?: boolean; source?: PaperDocument }) => {
@@ -326,7 +404,7 @@ export function TagEditorApp({
               <option value="prepared">Prepared preferred</option>
             </select>
           </label>
-          {pdf?.state === 'available' ? (
+          {availablePdfOptions.length ? (
             <button
               aria-pressed={showPdf}
               className={
@@ -335,11 +413,17 @@ export function TagEditorApp({
               onClick={() => setShowPdf(current => !current)}
               type="button">
               <PanelRight aria-hidden="true" className="h-4 w-4" />
-              {showPdf ? 'PDF shown' : 'Show original PDF'}
+              {showPdf
+                ? pdfOptions.length > 1
+                  ? `${availablePdfOptions.length} PDFs available`
+                  : 'PDF shown'
+                : pdfOptions.length > 1
+                  ? `Show original PDFs (${availablePdfOptions.length})`
+                  : 'Show original PDF'}
             </button>
-          ) : pdf?.state === 'unavailable' ? (
+          ) : pdfOptions.length ? (
             <span className="pdf-unavailable-note" role="status">
-              Original PDF unavailable
+              Original PDFs unavailable
             </span>
           ) : null}
         </div>
@@ -349,7 +433,7 @@ export function TagEditorApp({
 
       <div
         className={
-          showPdf && pdf?.state === 'available'
+          showPdf && selectedPdfOption?.pdf.state === 'available'
             ? 'tag-workspace-grid tag-workspace-grid--with-pdf'
             : 'tag-workspace-grid'
         }>
@@ -375,8 +459,14 @@ export function TagEditorApp({
             readOnly={isReadOnly}
           />
         )}
-        {showPdf && pdf?.state === 'available' ? (
-          <PaperPdfPane onHide={() => setShowPdf(false)} pdf={pdf} />
+        {showPdf && selectedPdfOption?.pdf.state === 'available' ? (
+          <PaperPdfPane
+            onHide={() => setShowPdf(false)}
+            onSelect={selectPaperPdf}
+            options={pdfOptions}
+            pdf={selectedPdfOption.pdf}
+            selectedKey={selectedPdfOption.key}
+          />
         ) : null}
       </div>
     </main>

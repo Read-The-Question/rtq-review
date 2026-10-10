@@ -78,9 +78,15 @@ test('tag review exposes one compact collection-aware regex and UUID search', as
   assert.match(search, /readReviewPaper\(/);
   assert.match(search, /title: paper\.source\.title/);
   assert.match(search, /buildTagCorpusDocument/);
+  assert.match(search, /resolveCorpusPdfOptions/);
+  assert.match(search, /resolvePaperPdfByStem/);
+  assert.match(page, /pdfs=\{search\.pdfs\}/);
+  assert.match(page, /pdfSessionKey=/);
   assert.match(corpusDocument, /mergeTagCorpusSourceDocument/);
   assert.match(corpusDocument, /path: `\$\{prefix\}\.\$\{node\.path\}`/);
   assert.match(editor, /mergeTagCorpusSourceDocument/);
+  assert.match(editor, /window\.sessionStorage\.setItem/);
+  assert.match(editor, /availablePdfOptions/);
   assert.match(document, /<PaperOutline/);
   assert.match(document, /node\.source\?\.nodePath \?\? node\.path/);
   assert.match(css, /--tag-search-action:\s*#275f72/);

@@ -2572,6 +2572,37 @@ a.paper-row:hover {
   white-space: nowrap;
 }
 
+.paper-pdf-pane > header select {
+  appearance: none;
+  background:
+    linear-gradient(45deg, transparent 50%, currentColor 50%)
+      calc(100% - 0.85rem) calc(50% - 0.1rem) / 0.32rem 0.32rem no-repeat,
+    linear-gradient(135deg, currentColor 50%, transparent 50%)
+      calc(100% - 0.55rem) calc(50% - 0.1rem) / 0.32rem 0.32rem no-repeat,
+    rgb(255 255 255 / 10%);
+  border: 1px solid rgb(255 255 255 / 42%);
+  color: var(--paper-bright);
+  cursor: pointer;
+  font:
+    800 0.82rem/1.2 'SFMono-Regular',
+    Consolas,
+    monospace;
+  max-width: min(34rem, calc(var(--pdf-pane-width) - 9rem));
+  min-width: 15rem;
+  padding: 0.48rem 2rem 0.48rem 0.65rem;
+  text-overflow: ellipsis;
+}
+
+.paper-pdf-pane > header select:focus-visible {
+  outline: 2px solid var(--paper-bright);
+  outline-offset: 2px;
+}
+
+.paper-pdf-pane > header select option {
+  background: var(--ink);
+  color: var(--paper-bright);
+}
+
 .paper-pdf-pane > header button {
   background: transparent;
   border: 1px solid rgb(255 255 255 / 52%);

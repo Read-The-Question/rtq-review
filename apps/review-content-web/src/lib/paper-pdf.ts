@@ -8,3 +8,10 @@ export type PaperPdf =
       fileName: string;
       state: 'unavailable';
     }>;
+
+export type PaperPdfOption = Readonly<{
+  key: string;
+  label: string;
+  matchCount: number;
+  pdf: PaperPdf;
+}>;

@@ -351,14 +351,16 @@ test('the sticky View popover dismisses after selection, outside click, and Esca
   );
 });
 
-test('complete papers expose a persisted, independently scrolling PDF pane', async () => {
+test('papers expose a selectable, independently scrolling PDF pane', async () => {
   const [component, css] = await Promise.all([
     fs.readFile(componentUrl, 'utf8'),
     fs.readFile(cssUrl, 'utf8'),
   ]);
 
   assert.match(component, /function PaperPdfPane/);
-  assert.match(component, /label="Original PDF"/);
+  assert.match(component, /aria-label="Original paper PDF"/);
+  assert.match(component, /options\.map/);
+  assert.match(component, /option\.matchCount/);
   assert.match(component, /updatePreference\('showPdf', value\)/);
   assert.match(component, /aria-label="Original paper PDF"/);
   assert.match(component, /src=\{`\$\{pdf\.url\}#view=FitH`\}/);
@@ -366,7 +368,9 @@ test('complete papers expose a persisted, independently scrolling PDF pane', asy
     component,
     /onHide=\{\(\) => updatePreference\('showPdf', false\)\}/,
   );
-  assert.match(component, /Original PDF unavailable/);
+  assert.match(component, /Original PDFs unavailable/);
+  assert.match(component, /sessionStorage\.setItem/);
+  assert.match(component, /PDF_SESSION_STORAGE_PREFIX/);
   assert.match(
     css,
     /\.paper-shell--with-pdf\s*{[^}]*--pdf-pane-width:\s*clamp\(48rem,[^;}]*112rem\)[^}]*width:\s*min\(112rem,[^;}]*var\(--pdf-pane-width\)/s,
@@ -769,6 +773,8 @@ test('corpus search is bounded, URL-backed, and reuses the complete review surfa
   assert.match(component, /paper=\{response\.paper\}/);
   assert.match(component, /commentLoad=\{response\.commentLoad\}/);
   assert.match(component, /outcomeLoad=\{response\.outcomeLoad\}/);
+  assert.match(component, /pdfs=\{response\.pdfs\}/);
+  assert.match(component, /pdfSessionKey=/);
   assert.doesNotMatch(component, /CorpusQuestionTree/);
   assert.match(component, /response\.startPosition/);
   assert.match(component, /response\.nextCursor/);
@@ -782,6 +788,8 @@ test('corpus search is bounded, URL-backed, and reuses the complete review surfa
   assert.match(route, /searchCanonicalQuestionCorpus\(\s*collectionId,/);
   assert.match(search, /searchPaperQuestionTrees\(collectionId,/);
   assert.match(search, /readReviewPaper\(collectionId, relativePath\)/);
+  assert.match(search, /resolvePaperPdfByStem/);
+  assert.match(search, /questionSourceStems/);
   assert.match(search, /paperCollectionForId\(collectionId\)/);
   assert.match(route, /isCorpusSearchLimit/);
   assert.match(route, /'Cache-Control': 'no-store'/);

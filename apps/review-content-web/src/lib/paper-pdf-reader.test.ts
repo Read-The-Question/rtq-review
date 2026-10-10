@@ -6,7 +6,11 @@ import test from 'node:test';
 import { paperCollectionForId } from '@rtq/review-paper-model';
 import { resolveRtqContentPaths } from '@rtq/review-repository-paths';
 
-import { createPaperPdfResponse, resolvePaperPdf } from './paper-pdf-reader.ts';
+import {
+  createPaperPdfResponse,
+  resolvePaperPdf,
+  resolvePaperPdfByStem,
+} from './paper-pdf-reader.ts';
 
 async function activePaperStem(): Promise<string> {
   const { papersPackageRoot } = resolveRtqContentPaths();
@@ -55,6 +59,12 @@ test('only complete-paper collections expose an original PDF', async () => {
     }),
     undefined,
   );
+
+  assert.equal((await resolvePaperPdfByStem(stem)).state, 'available');
+  assert.deepEqual(await resolvePaperPdfByStem('../unsafe'), {
+    fileName: '../unsafe.pdf',
+    state: 'unavailable',
+  });
 });
 
 test('serves canonical PDFs inline with byte-range and HEAD support', async () => {

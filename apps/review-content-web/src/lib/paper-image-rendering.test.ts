@@ -98,6 +98,12 @@ function fixture(t: TestContext) {
   function asset(relativePath: string, content: string) {
     write(`${paperRoot}/${relativePath}`, content);
   }
+  function debugAsset(relativePath: string, content: string) {
+    write(
+      `packages/assets/debug-assets/papers/example/${relativePath}`,
+      content,
+    );
+  }
   function image(metadata: unknown, imagePath = sourcePath) {
     asset(imagePath, 'fixture image bytes; preparation does not decode images');
     asset(imagePath.replace(/\.png$/, '.json'), JSON.stringify(metadata));
@@ -195,6 +201,7 @@ function fixture(t: TestContext) {
   }
   return {
     asset,
+    debugAsset,
     image,
     prepare,
     prepareDisplay,
@@ -485,6 +492,10 @@ for (const scope of ['question', 'working', 'answer'] as const) {
         `${owner}/prepared/diagrams/${stem}.svg`,
         '<svg width="320.5" height="200" viewBox="0 0 320.5 200"><path d="M0 0L100 0L0 100Z"/></svg>',
       );
+      f.debugAsset(
+        `${owner}/prepared/diagrams/${stem}.svg`,
+        '<svg width="320.5" height="200" viewBox="0 0 320.5 200"><path d="M0 0L100 0L0 100Z"/><g id="diagram-bounds-debug"><rect width="100" height="100"/></g></svg>',
+      );
       f.asset(
         `${owner}/prepared/diagrams/${stem}.json`,
         JSON.stringify({
@@ -500,7 +511,13 @@ for (const scope of ['question', 'working', 'answer'] as const) {
       assert.equal(prepared.paperImages?.length, 1);
       assert.deepEqual(
         prepared.paperImages?.[0].variants.map((variant) => variant.provenance),
-        ['manual', 'prepared'],
+        ['manual', 'prepared', 'debug'],
+      );
+      assert.match(
+        prepared.paperImages?.[0].variants.find(
+          (variant) => variant.provenance === 'debug',
+        )?.src ?? '',
+        /\/api\/assets\/debug\/papers\/example/,
       );
       const all = render(prepared.rendered, {
         paperImages: prepared.paperImages,
@@ -510,6 +527,10 @@ for (const scope of ['question', 'working', 'answer'] as const) {
       assert.match(all, /Generated triangle/);
       assert.match(all, /Original description/);
       assert.match(all, /Generated description/);
+      assert.match(all, /debug · SVG/);
+      if (renderMode === 'external') {
+        assert.match(all, /\/api\/assets\/debug\/papers\/example/);
+      }
       assert.match(all, /max-width:641px/);
       assert.match(all, /min-width:480\.75px/);
       assert.match(all, /tabindex="0"/);
@@ -530,6 +551,7 @@ for (const scope of ['question', 'working', 'answer'] as const) {
         /Original screenshot|Original description/,
       );
       assert.match(preferred, /Generated triangle/);
+      assert.doesNotMatch(preferred, /debug · SVG|diagram-bounds-debug/);
     });
   }
 }

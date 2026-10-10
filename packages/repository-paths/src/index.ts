@@ -18,6 +18,7 @@ export type RtqContentPaths = {
   assetsPackageRoot: string;
   assetsRoot: string;
   contentRoot: string;
+  debugAssetsRoot: string;
   papersPackageRoot: string;
   papersRoot: string;
 };
@@ -137,6 +138,7 @@ export function resolveRtqContentPaths(
     assetsPackageRoot,
     assetsRoot: join(assetsPackageRoot, "assets"),
     contentRoot,
+    debugAssetsRoot: join(assetsPackageRoot, "debug-assets"),
     papersPackageRoot,
     papersRoot: join(papersPackageRoot, "papers"),
   };

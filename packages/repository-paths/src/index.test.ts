@@ -43,6 +43,7 @@ describe("review workspace content discovery", () => {
         assetsPackageRoot: join(canonicalRoot, "packages/assets"),
         assetsRoot: join(canonicalRoot, "packages/assets/assets"),
         contentRoot: canonicalRoot,
+        debugAssetsRoot: join(canonicalRoot, "packages/assets/debug-assets"),
         papersPackageRoot: join(canonicalRoot, "packages/papers"),
         papersRoot: join(canonicalRoot, "packages/papers/papers"),
       },

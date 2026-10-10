@@ -90,3 +90,29 @@ test('serves generated question LongDivision SVGs without exposing their sidecar
     415,
   );
 });
+
+test('serves only owner-scoped diagnostic diagram SVGs from the parallel root', async () => {
+  const { debugAssetsRoot } = resolveRtqContentPaths();
+  const papersRoot = path.join(debugAssetsRoot, 'papers');
+  const files = await fs.readdir(papersRoot, { recursive: true });
+  const relativePath = files.find((file) =>
+    /\/questions\/prepared\/diagrams\/[^/]+\.svg$/.test(
+      file.split(path.sep).join('/'),
+    ),
+  );
+  assert.ok(relativePath, 'Diagnostic corpus must contain a question SVG');
+  const urlPath = `debug/papers/${relativePath.split(path.sep).join('/')}`;
+  const response = await createPaperAssetResponse(urlPath);
+  assert.equal(response.status, 200);
+  assert.equal(response.headers.get('content-type'), 'image/svg+xml');
+  assert.match(await response.text(), /diagram-bounds-debug/);
+  assert.equal(
+    (await createPaperAssetResponse(urlPath.replace(/\.svg$/, '.json'))).status,
+    415,
+  );
+  assert.equal(
+    (await createPaperAssetResponse(urlPath.replace('/prepared/', '/manual/')))
+      .status,
+    404,
+  );
+});

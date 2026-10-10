@@ -58,9 +58,20 @@ function requestedSegments(relativePath: string): string[] {
   });
 }
 
-function allowedSubpath(segments: readonly string[]): boolean {
+function allowedSubpath(
+  segments: readonly string[],
+  diagnostic: boolean,
+): boolean {
   const [scope, provenance, kind, file, ...rest] = segments;
   if (rest.length > 0) return false;
+  if (diagnostic) {
+    return (
+      (scope === 'questions' || scope === 'workings' || scope === 'answers') &&
+      provenance === 'prepared' &&
+      kind === 'diagrams' &&
+      Boolean(file?.endsWith('.svg'))
+    );
+  }
   if (
     (scope === 'questions' || scope === 'workings' || scope === 'answers') &&
     provenance === 'manual' &&
@@ -101,7 +112,9 @@ async function readableFile(root: string, candidate: string): Promise<string> {
 export async function resolveCanonicalPaperAsset(
   relativePath: string,
 ): Promise<string> {
-  const segments = requestedSegments(relativePath);
+  const requested = requestedSegments(relativePath);
+  const diagnostic = requested[0] === 'debug';
+  const segments = diagnostic ? requested.slice(1) : requested;
   if (segments[0] !== 'papers') {
     throw new PaperAssetRequestError(
       'Only canonical paper assets may be served.',
@@ -110,22 +123,29 @@ export async function resolveCanonicalPaperAsset(
   }
 
   const extension = path.extname(segments.at(-1) ?? '').toLowerCase();
-  if (!CONTENT_TYPES.has(extension)) {
+  if (!CONTENT_TYPES.has(extension) || (diagnostic && extension !== '.svg')) {
     throw new PaperAssetRequestError('Unsupported paper asset format.', 415);
   }
 
+  const paths = resolveRtqContentPaths();
   const configuredRoot = path.resolve(
-    /* turbopackIgnore: true */ resolveRtqContentPaths().assetsRoot,
+    /* turbopackIgnore: true */
+    diagnostic ? paths.debugAssetsRoot : paths.assetsRoot,
   );
-  const assetsRoot = await fs.realpath(configuredRoot);
-  const papersRoot = await fs.realpath(
-    path.join(/* turbopackIgnore: true */ assetsRoot, 'papers'),
-  );
+  const assetsRoot = await fs.realpath(configuredRoot).catch(() => {
+    throw new PaperAssetRequestError('Paper asset was not found.', 404);
+  });
+  const papersRoot = await fs
+    .realpath(path.join(/* turbopackIgnore: true */ assetsRoot, 'papers'))
+    .catch(() => {
+      throw new PaperAssetRequestError('Paper asset was not found.', 404);
+    });
   if (!isWithin(assetsRoot, papersRoot)) {
     throw new PaperAssetRequestError('Invalid canonical asset root.', 500);
   }
 
   if (
+    !diagnostic &&
     segments.length === 3 &&
     segments[1] === 'missing' &&
     segments[2] === 'missing_image.svg'
@@ -141,9 +161,11 @@ export async function resolveCanonicalPaperAsset(
   }
 
   const [, paperStem, ...subpath] = segments;
-  if (!paperStem || !allowedSubpath(subpath)) {
+  if (!paperStem || !allowedSubpath(subpath, diagnostic)) {
     throw new PaperAssetRequestError(
-      'Only owner-scoped manual, generated-diagram, and generated long-division assets are public.',
+      diagnostic
+        ? 'Only owner-scoped diagnostic diagram SVGs are public.'
+        : 'Only owner-scoped manual, generated-diagram, and generated long-division assets are public.',
       404,
     );
   }
@@ -164,6 +186,7 @@ export async function resolveCanonicalPaperAsset(
     );
   } catch (error) {
     if (error instanceof PaperAssetRequestError && error.status === 404) {
+      if (diagnostic) throw error;
       return readableFile(
         assetsRoot,
         path.join(

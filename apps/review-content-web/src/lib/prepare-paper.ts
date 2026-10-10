@@ -429,14 +429,34 @@ function paperImageMarkdown(
   }
 
   const layout = imageLayout(authored);
-  const assetsRoot = resolveRtqContentPaths().assetsRoot;
+  const { assetsRoot, debugAssetsRoot } = resolveRtqContentPaths();
   const paperRoot = path.join(assetsRoot, 'papers', context.paperStem);
-  const matches = (['manual', 'prepared'] as const).flatMap((provenance) => {
-    const location = ownerPath(context, scope, imageIndex, provenance);
-    return IMAGE_EXTENSIONS.filter((extension) =>
-      existsSync(path.join(paperRoot, `${location.sourceStem}.${extension}`)),
-    ).map((extension) => ({ extension, location, provenance }));
-  });
+  const debugPaperRoot = path.join(
+    debugAssetsRoot,
+    'papers',
+    context.paperStem,
+  );
+  const canonicalMatches = (['manual', 'prepared'] as const).flatMap(
+    (provenance) => {
+      const location = ownerPath(context, scope, imageIndex, provenance);
+      return IMAGE_EXTENSIONS.filter((extension) =>
+        existsSync(path.join(paperRoot, `${location.sourceStem}.${extension}`)),
+      ).map((extension) => ({ extension, location, provenance }));
+    },
+  );
+  const preparedLocation = ownerPath(context, scope, imageIndex, 'prepared');
+  const debugMatches = existsSync(
+    path.join(debugPaperRoot, `${preparedLocation.sourceStem}.svg`),
+  )
+    ? [
+        {
+          extension: 'svg' as const,
+          location: preparedLocation,
+          provenance: 'debug' as const,
+        },
+      ]
+    : [];
+  const matches = [...canonicalMatches, ...debugMatches];
   if (matches.length === 0) {
     assertPaperImageDelivery(
       requestedRenderMode,
@@ -470,7 +490,9 @@ function paperImageMarkdown(
     };
   }
 
-  const preferred = matches.some((match) => match.provenance === 'prepared')
+  const preferred = canonicalMatches.some(
+    (match) => match.provenance === 'prepared',
+  )
     ? 'prepared'
     : 'manual';
   const variants = matches.map<DisplayPaperImageVariant>(
@@ -478,7 +500,7 @@ function paperImageMarkdown(
       const metadata = imageMetadata(
         paperRoot,
         location.metadata,
-        provenance === 'prepared' ? scope : undefined,
+        provenance === 'prepared' || provenance === 'debug' ? scope : undefined,
       );
       if (provenance === preferred)
         assertPaperImageDelivery(
@@ -489,12 +511,13 @@ function paperImageMarkdown(
         );
       const sourcePath = `${location.sourceStem}.${extension}`;
       const size = dimensions(paperRoot, sourcePath);
-      const relativePath = `papers/${context.paperStem}/${sourcePath}`;
+      const relativePath = `${provenance === 'debug' ? 'debug/' : ''}papers/${context.paperStem}/${sourcePath}`;
+      const sourceRoot = provenance === 'debug' ? debugPaperRoot : paperRoot;
       const sizing =
         extension === 'svg'
           ? prepareReviewSvg(
-              path.join(paperRoot, sourcePath),
-              `${context.paperStem}-${sourcePath}`.replace(
+              path.join(sourceRoot, sourcePath),
+              `${provenance}-${context.paperStem}-${sourcePath}`.replace(
                 /[^A-Za-z0-9_-]/g,
                 '-',
               ),

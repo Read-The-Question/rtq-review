@@ -36,7 +36,7 @@ const fixedDiagnosticColours = {
   "--color-diagrams-debug-data-label": "rgba(0, 180, 216, 0.5)",
   "--color-diagrams-debug-key": "rgba(204, 121, 167, 0.5)",
   "--color-diagrams-debug-point": "rgba(0, 158, 115, 0.5)",
-  "--color-diagrams-debug-point-label": "rgba(230, 159, 0, 0.5)",
+  "--color-diagrams-debug-point-label": "rgba(124, 181, 24, 0.5)",
 };
 
 function retainedSnapshot(debugBounds) {
@@ -166,7 +166,7 @@ test("review compilers discover canonical SVG utilities through the configured c
       );
       assert.match(
         result.css,
-        /\.fill-diagrams-debug-point-label\s*\{\s*fill:\s*rgba\(230, 159, 0, 0\.5\);/,
+        /\.fill-diagrams-debug-point-label\s*\{\s*fill:\s*rgba\(124, 181, 24, 0\.5\);/,
         application,
       );
       assert.match(

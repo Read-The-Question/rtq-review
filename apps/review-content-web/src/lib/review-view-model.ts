@@ -27,6 +27,7 @@ export const EARLIEST_REVIEW_PREFERENCES_KEY =
   'rtq.review-content.preferences.v5';
 
 export type PaperImageMode = 'all' | 'prepared';
+export type PaperImageScale = 1 | 2;
 export type ReviewControlMode = 'advanced' | 'simple';
 export type ReviewContext = 'answer' | 'question';
 export type ReviewPanelMode = 'both' | 'content' | 'image';
@@ -34,6 +35,7 @@ export type VisibleReviewSide = ReviewContext;
 
 export type ReviewPreferences = Readonly<{
   paperImageMode: PaperImageMode;
+  paperImageScale: PaperImageScale;
   questionContentFilter: QuestionContentFilter;
   reviewControlMode: ReviewControlMode;
   reviewPanelMode: ReviewPanelMode;
@@ -54,6 +56,7 @@ export type ReviewPreferences = Readonly<{
 
 export const DEFAULT_REVIEW_PREFERENCES: ReviewPreferences = {
   paperImageMode: 'all',
+  paperImageScale: 2,
   questionContentFilter: 'all',
   reviewControlMode: 'simple',
   reviewPanelMode: 'both',
@@ -235,6 +238,9 @@ export function parseReviewPreferences(
     initial?.paperImageMode ??
     oldest?.paperImageMode ??
     earliest?.paperImageMode;
+  const requestedPaperImageScale = records
+    .map((record) => record?.paperImageScale)
+    .find((value) => value === 1 || value === 2);
   const requestedQuestionContentFilter = records
     .map((record) => record?.questionContentFilter)
     .find((value) => value === 'all' || value === 'image' || value === 'table');
@@ -247,6 +253,10 @@ export function parseReviewPreferences(
       requestedPaperImageMode === 'prepared'
         ? 'prepared'
         : DEFAULT_REVIEW_PREFERENCES.paperImageMode,
+    paperImageScale:
+      requestedPaperImageScale === 1 || requestedPaperImageScale === 2
+        ? requestedPaperImageScale
+        : DEFAULT_REVIEW_PREFERENCES.paperImageScale,
     questionContentFilter:
       requestedQuestionContentFilter === 'image' ||
       requestedQuestionContentFilter === 'table'

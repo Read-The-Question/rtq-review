@@ -72,6 +72,7 @@ import {
   type ReviewContext,
   type ReviewControlMode,
   type PaperImageMode,
+  type PaperImageScale,
   type QuestionContentFilter,
   type ReviewPanelMode,
   type ReviewPreferences,
@@ -188,6 +189,7 @@ function PaperMarkdown({
     <RtqMarkdown
       imageMode={preferences.paperImageMode}
       markdown={markdown}
+      paperImageScale={preferences.paperImageScale}
       paperImages={field.paperImages}
       showImageTags={preferences.showImageTags}
     />
@@ -4017,6 +4019,21 @@ export function ReviewSurface({
                   >
                     <option value="all">All related assets</option>
                     <option value="prepared">Prepared preferred</option>
+                  </select>
+                </label>
+                <label className="view-option-select">
+                  <span>SVG image size</span>
+                  <select
+                    onChange={(event) =>
+                      updatePreference(
+                        'paperImageScale',
+                        Number(event.target.value) as PaperImageScale,
+                      )
+                    }
+                    value={preferences.paperImageScale}
+                  >
+                    <option value="1">Original (1×)</option>
+                    <option value="2">Enlarged (2×)</option>
                   </select>
                 </label>
                 <PreferenceToggle

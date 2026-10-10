@@ -218,6 +218,7 @@ function render(
   markdown: string,
   options: Readonly<{
     imageMode?: 'all' | 'prepared';
+    paperImageScale?: 1 | 2;
     paperImages?: readonly DisplayPaperImage[];
     showImageTags?: boolean;
   }> = {},
@@ -513,6 +514,13 @@ for (const scope of ['question', 'working', 'answer'] as const) {
       assert.match(all, /min-width:480\.75px/);
       assert.match(all, /tabindex="0"/);
       if (renderMode === 'inline') assert.match(all, /rtq-review-inline-svg/);
+      const originalSize = render(prepared.rendered, {
+        imageMode: 'prepared',
+        paperImageScale: 1,
+        paperImages: prepared.paperImages,
+      });
+      assert.match(originalSize, /max-width:320\.5px/);
+      assert.match(originalSize, /min-width:240\.375px/);
       const preferred = render(prepared.rendered, {
         paperImages: prepared.paperImages,
         imageMode: 'prepared',

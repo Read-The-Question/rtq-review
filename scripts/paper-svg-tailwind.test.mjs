@@ -27,6 +27,17 @@ const fixedSwatches = {
   "--color-diagrams-swatch-pink": "#f47db9",
   "--color-diagrams-swatch-brown": "#b6744b",
 };
+const fixedDiagnosticColours = {
+  "--color-diagrams-debug-annotation-label": "rgba(240, 228, 66, 0.35)",
+  "--color-diagrams-debug-axis-tick": "rgba(0, 114, 178, 0.35)",
+  "--color-diagrams-debug-axis-title": "rgba(123, 44, 191, 0.35)",
+  "--color-diagrams-debug-chart-title": "rgba(0, 143, 140, 0.35)",
+  "--color-diagrams-debug-custom-text": "rgba(215, 38, 61, 0.45)",
+  "--color-diagrams-debug-data-label": "rgba(0, 180, 216, 0.35)",
+  "--color-diagrams-debug-key": "rgba(204, 121, 167, 0.35)",
+  "--color-diagrams-debug-point": "rgba(0, 158, 115, 0.35)",
+  "--color-diagrams-debug-point-label": "rgba(230, 159, 0, 0.35)",
+};
 
 function retainedSnapshot(debugBounds) {
   return {
@@ -34,10 +45,12 @@ function retainedSnapshot(debugBounds) {
     themes: {
       light: {
         "--color-diagrams-debug-bounds": debugBounds,
+        ...fixedDiagnosticColours,
         ...fixedSwatches,
       },
       dark: {
         "--color-diagrams-debug-bounds": debugBounds,
+        ...fixedDiagnosticColours,
         ...fixedSwatches,
       },
     },
@@ -111,7 +124,7 @@ test("review compilers discover canonical SVG utilities through the configured c
       );
       write(
         svg,
-        '<svg class="text-maths-working-carry text-diagrams-debug-bounds"><path class="fill-diagrams-swatch-red stroke-diagrams-swatch-blue"/></svg>',
+        '<svg class="text-maths-working-carry text-diagrams-debug-bounds"><path class="fill-diagrams-swatch-red stroke-diagrams-swatch-blue"/><path class="fill-diagrams-debug-point-label"/><path class="fill-diagrams-debug-custom-text"/></svg>',
       );
       const result = await compile();
       for (const utility of [
@@ -119,6 +132,8 @@ test("review compilers discover canonical SVG utilities through the configured c
         "text-diagrams-debug-bounds",
         "fill-diagrams-swatch-red",
         "stroke-diagrams-swatch-blue",
+        "fill-diagrams-debug-point-label",
+        "fill-diagrams-debug-custom-text",
       ]) {
         assert.ok(
           result.css.includes(`.${utility} {`),
@@ -149,6 +164,16 @@ test("review compilers discover canonical SVG utilities through the configured c
         /\.stroke-diagrams-swatch-blue\s*\{\s*stroke:\s*#2288f8;/,
         application,
       );
+      assert.match(
+        result.css,
+        /\.fill-diagrams-debug-point-label\s*\{\s*fill:\s*rgba\(230, 159, 0, 0\.35\);/,
+        application,
+      );
+      assert.match(
+        result.css,
+        /\.fill-diagrams-debug-custom-text\s*\{\s*fill:\s*rgba\(215, 38, 61, 0\.45\);/,
+        application,
+      );
 
       write(nextUtilitySvg, '<svg class="stroke-maths-working-carry"/>');
       assert.ok(
@@ -167,6 +192,10 @@ test("review compilers discover canonical SVG utilities through the configured c
     assert.equal(
       recalibrated.theme.extend.colors["diagrams-debug-bounds"],
       "rgba(12, 24, 36, 0.4)",
+    );
+    assert.equal(
+      recalibrated.theme.extend.colors["diagrams-debug-point-label"],
+      fixedDiagnosticColours["--color-diagrams-debug-point-label"],
     );
     for (const [name, colour] of [
       ["missing", undefined],
@@ -196,6 +225,13 @@ test("review compilers discover canonical SVG utilities through the configured c
     await assert.rejects(
       import(`${configUrl}?missing-swatch`),
       /Missing or invalid diagrams-swatch-brown/,
+    );
+    const missingDiagnostic = retainedSnapshot("rgba(12, 24, 36, 0.4)");
+    delete missingDiagnostic.themes.light["--color-diagrams-debug-custom-text"];
+    write(snapshotPath, JSON.stringify(missingDiagnostic));
+    await assert.rejects(
+      import(`${configUrl}?missing-diagnostic`),
+      /Missing or invalid diagrams-debug-custom-text/,
     );
     const driftingSwatch = retainedSnapshot("rgba(12, 24, 36, 0.4)");
     driftingSwatch.themes.dark["--color-diagrams-swatch-red"] = "#000000";

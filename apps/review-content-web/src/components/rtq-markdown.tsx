@@ -23,28 +23,32 @@ import type {
   DisplayPaperImage,
   DisplayPaperImageVariant,
 } from '@/lib/display-model';
-import type { PaperImageMode } from '@/lib/review-view-model';
+import type { PaperImageMode, PaperImageScale } from '@/lib/review-view-model';
 
 const TODO_IMAGE_SRC = '#rtq-todo-image';
-const PAPER_IMAGE_SVG_REVIEW_SCALE = 2;
 
 function positiveNumber(value: null | string): number | undefined {
   const parsed = Number(value);
   return Number.isFinite(parsed) && parsed > 0 ? parsed : undefined;
 }
 
-function scaledSvgReviewWidth(value: number): number {
-  return value * PAPER_IMAGE_SVG_REVIEW_SCALE;
+function scaledSvgReviewWidth(
+  value: number,
+  paperImageScale: PaperImageScale,
+): number {
+  return value * paperImageScale;
 }
 
 function PaperImageVariant({
   variant,
   showFormat,
   align,
+  paperImageScale,
 }: {
   variant: DisplayPaperImageVariant;
   showFormat: boolean;
   align: DisplayPaperImage['align'];
+  paperImageScale: PaperImageScale;
 }) {
   const descriptionId = useId();
   const sized =
@@ -52,11 +56,11 @@ function PaperImageVariant({
     variant.minimumReadableWidth !== undefined;
   const naturalWidth =
     sized && variant.format === 'SVG'
-      ? scaledSvgReviewWidth(variant.naturalWidth)
+      ? scaledSvgReviewWidth(variant.naturalWidth, paperImageScale)
       : variant.naturalWidth;
   const minimumReadableWidth =
     sized && variant.format === 'SVG'
-      ? scaledSvgReviewWidth(variant.minimumReadableWidth)
+      ? scaledSvgReviewWidth(variant.minimumReadableWidth, paperImageScale)
       : variant.minimumReadableWidth;
   const rawVisual = variant.svgMarkup ? (
     <span
@@ -131,6 +135,7 @@ function PaperImage({
   alt,
   image,
   imageMode,
+  paperImageScale,
   showImageTags,
   src,
   title,
@@ -138,6 +143,7 @@ function PaperImage({
   alt?: string;
   image?: DisplayPaperImage;
   imageMode: PaperImageMode;
+  paperImageScale: PaperImageScale;
   showImageTags: boolean;
   src?: string;
   title?: string;
@@ -204,6 +210,7 @@ function PaperImage({
             <PaperImageVariant
               variant={variant}
               align={image.align}
+              paperImageScale={paperImageScale}
               showFormat={showFormat}
               key={variant.src}
             />
@@ -216,10 +223,10 @@ function PaperImage({
   const naturalWidth = positiveNumber(params.get('natural_width'));
   const minimumWidth = positiveNumber(params.get('minimum_width'));
   const reviewNaturalWidth = naturalWidth
-    ? scaledSvgReviewWidth(naturalWidth)
+    ? scaledSvgReviewWidth(naturalWidth, paperImageScale)
     : undefined;
   const reviewMinimumWidth = minimumWidth
-    ? scaledSvgReviewWidth(minimumWidth)
+    ? scaledSvgReviewWidth(minimumWidth, paperImageScale)
     : undefined;
   const visual = (
     // Canonical assets are served by the same-origin reader.
@@ -274,11 +281,13 @@ function PaperImage({
 export function RtqMarkdown({
   imageMode = 'all',
   markdown,
+  paperImageScale = 2,
   paperImages,
   showImageTags = true,
 }: {
   imageMode?: PaperImageMode;
   markdown: string;
+  paperImageScale?: PaperImageScale;
   paperImages?: readonly DisplayPaperImage[];
   showImageTags?: boolean;
 }) {
@@ -311,6 +320,7 @@ export function RtqMarkdown({
                   : undefined
               }
               imageMode={imageMode}
+              paperImageScale={paperImageScale}
               showImageTags={showImageTags}
               src={typeof src === 'string' ? src : undefined}
               title={title}

@@ -52,12 +52,30 @@ const diagramSwatches = [
   "brown",
 ] as const;
 
+const diagramDiagnosticRoles = [
+  "axis-tick",
+  "axis-title",
+  "chart-title",
+  "point",
+  "point-label",
+  "data-label",
+  "key",
+  "annotation-label",
+  "custom-text",
+] as const;
+
 export default {
   content: [join(assetsRoot, "papers", "**/*.svg").replaceAll("\\", "/")],
   theme: {
     extend: {
       colors: {
         "diagrams-debug-bounds": retainedColour("diagrams-debug-bounds"),
+        ...Object.fromEntries(
+          diagramDiagnosticRoles.map((role) => [
+            `diagrams-debug-${role}`,
+            retainedColour(`diagrams-debug-${role}`),
+          ]),
+        ),
         ...Object.fromEntries(
           diagramSwatches.map((swatch) => [
             `diagrams-swatch-${swatch}`,

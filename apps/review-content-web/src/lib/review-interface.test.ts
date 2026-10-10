@@ -598,6 +598,14 @@ test('view options support minimal metadata and centered review panel modes', as
     component,
     /<option value="prepared">Prepared preferred<\/option>/,
   );
+  assert.match(component, /<span>SVG image size<\/span>/);
+  assert.match(component, /value=\{preferences\.paperImageScale\}/);
+  assert.match(component, /<option value="1">Original \(1×\)<\/option>/);
+  assert.match(component, /<option value="2">Enlarged \(2×\)<\/option>/);
+  assert.match(
+    component,
+    /updatePreference\([\s\S]*'paperImageScale',[\s\S]*Number\(event\.target\.value\)/,
+  );
   assert.match(component, /value=\{preferences\.reviewPanelMode\}/);
   assert.match(component, /<option value="content">Content only<\/option>/);
   assert.match(component, /<option value="image">Image only<\/option>/);

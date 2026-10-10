@@ -1,0 +1,17 @@
+.paper-raster-surface {
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+}
+
+.paper-raster-surface[data-surface="paper"] {
+  background: var(--paper-media);
+  border-radius: 0.625rem;
+  padding: 0.5rem;
+}
+
+.paper-raster-surface > img {
+  margin: 0;
+  max-width: 100%;
+  width: 100%;
+}

@@ -28,15 +28,15 @@ const fixedSwatches = {
   "--color-diagrams-swatch-brown": "#b6744b",
 };
 const fixedDiagnosticColours = {
-  "--color-diagrams-debug-annotation-label": "rgba(240, 228, 66, 0.35)",
-  "--color-diagrams-debug-axis-tick": "rgba(0, 114, 178, 0.35)",
-  "--color-diagrams-debug-axis-title": "rgba(123, 44, 191, 0.35)",
-  "--color-diagrams-debug-chart-title": "rgba(0, 143, 140, 0.35)",
-  "--color-diagrams-debug-custom-text": "rgba(215, 38, 61, 0.45)",
-  "--color-diagrams-debug-data-label": "rgba(0, 180, 216, 0.35)",
-  "--color-diagrams-debug-key": "rgba(204, 121, 167, 0.35)",
-  "--color-diagrams-debug-point": "rgba(0, 158, 115, 0.35)",
-  "--color-diagrams-debug-point-label": "rgba(230, 159, 0, 0.35)",
+  "--color-diagrams-debug-annotation-label": "rgba(240, 228, 66, 0.5)",
+  "--color-diagrams-debug-axis-tick": "rgba(0, 114, 178, 0.5)",
+  "--color-diagrams-debug-axis-title": "rgba(123, 44, 191, 0.5)",
+  "--color-diagrams-debug-chart-title": "rgba(0, 143, 140, 0.5)",
+  "--color-diagrams-debug-custom-text": "rgba(215, 38, 61, 0.6)",
+  "--color-diagrams-debug-data-label": "rgba(0, 180, 216, 0.5)",
+  "--color-diagrams-debug-key": "rgba(204, 121, 167, 0.5)",
+  "--color-diagrams-debug-point": "rgba(0, 158, 115, 0.5)",
+  "--color-diagrams-debug-point-label": "rgba(230, 159, 0, 0.5)",
 };
 
 function retainedSnapshot(debugBounds) {
@@ -166,12 +166,12 @@ test("review compilers discover canonical SVG utilities through the configured c
       );
       assert.match(
         result.css,
-        /\.fill-diagrams-debug-point-label\s*\{\s*fill:\s*rgba\(230, 159, 0, 0\.35\);/,
+        /\.fill-diagrams-debug-point-label\s*\{\s*fill:\s*rgba\(230, 159, 0, 0\.5\);/,
         application,
       );
       assert.match(
         result.css,
-        /\.fill-diagrams-debug-custom-text\s*\{\s*fill:\s*rgba\(215, 38, 61, 0\.45\);/,
+        /\.fill-diagrams-debug-custom-text\s*\{\s*fill:\s*rgba\(215, 38, 61, 0\.6\);/,
         application,
       );
 

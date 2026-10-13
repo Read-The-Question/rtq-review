@@ -116,3 +116,35 @@ test('serves only owner-scoped diagnostic diagram SVGs from the parallel root', 
     404,
   );
 });
+
+test('serves only retired manual image binaries from the archive root', async () => {
+  const retiredPapersRoot = path.join(
+    resolveRtqContentPaths().assetsPackageRoot,
+    'retired-assets',
+    'papers',
+  );
+  const files = await fs.readdir(retiredPapersRoot, { recursive: true });
+  const relativePath = files.find((file) =>
+    /\/(?:questions|workings|answers)\/manual\/[^/]+\.png$/.test(
+      file.split(path.sep).join('/'),
+    ),
+  );
+  assert.ok(relativePath, 'Retired corpus must contain a manual PNG');
+  const urlPath = `retired/papers/${relativePath.split(path.sep).join('/')}`;
+  const response = await createPaperAssetResponse(urlPath);
+  assert.equal(response.status, 200);
+  assert.equal(response.headers.get('content-type'), 'image/png');
+  assert.deepEqual(
+    Buffer.from(await response.arrayBuffer()),
+    await fs.readFile(path.join(retiredPapersRoot, relativePath)),
+  );
+  assert.equal(
+    (await createPaperAssetResponse(urlPath.replace(/\.png$/, '.json'))).status,
+    415,
+  );
+  assert.equal(
+    (await createPaperAssetResponse(urlPath.replace('/manual/', '/prepared/')))
+      .status,
+    404,
+  );
+});

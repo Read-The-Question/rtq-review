@@ -25,6 +25,7 @@ import type {
   DisplayPaperImageTag,
   DisplayPaperImageVariant,
   DisplayPaperNode,
+  DisplayRetiredPaperImage,
   DisplayReviewPaper,
   DisplayWorkingSegment,
 } from './display-model';
@@ -76,6 +77,11 @@ type ImageTagCatalogDimension = Readonly<{
     value: string;
   }>[];
 }>;
+
+type RetiredImageIndex = ReadonlyMap<
+  string,
+  readonly DisplayRetiredPaperImage[]
+>;
 
 function attributes(value: string): Record<string, string> {
   return Object.fromEntries(
@@ -411,6 +417,181 @@ function imageFormat(
   return 'JPEG';
 }
 
+function retiredImageVariant(
+  paperStem: string,
+  retiredPaperRoot: string,
+  sourcePath: string,
+  extension: ImageExtension,
+  layout: ImageLayout,
+): DisplayPaperImageVariant {
+  const metadataPath = sourcePath.replace(/\.[^.]+$/, '.json');
+  const metadata = imageMetadata(retiredPaperRoot, metadataPath);
+  const size = dimensions(retiredPaperRoot, sourcePath);
+  const sizing =
+    extension === 'svg'
+      ? prepareReviewSvg(
+          path.join(retiredPaperRoot, sourcePath),
+          `retired-${paperStem}-${sourcePath}`.replace(/[^A-Za-z0-9_-]/g, '-'),
+          metadata.renderMode,
+        )
+      : undefined;
+  return {
+    provenance: 'retired',
+    alt: metadata.alt ?? '',
+    description: metadata.description,
+    ...(metadata.altReview ? { altReview: metadata.altReview } : {}),
+    ...(extension === 'svg'
+      ? {}
+      : { surface: metadata.surface ?? ('paper' as const) }),
+    ...sizing,
+    format: imageFormat(extension),
+    ...(size ?? {}),
+    src: assetUrl(`retired/papers/${paperStem}/${sourcePath}`, {
+      ...imageParams(layout, size),
+      ...(sizing
+        ? {
+            natural_width: String(sizing.naturalWidth),
+            minimum_width: String(sizing.minimumReadableWidth),
+          }
+        : {}),
+      kind: 'paper-image',
+      ...(metadata.altReview ? { altReview: metadata.altReview } : {}),
+    }),
+  };
+}
+
+const retiredImageIndexCache = new Map<
+  string,
+  Readonly<{ index: RetiredImageIndex; mtimeMs: number }>
+>();
+
+function retiredImageIndex(paperStem: string): RetiredImageIndex {
+  const retiredPaperRoot = path.join(
+    resolveRtqContentPaths().assetsPackageRoot,
+    'retired-assets',
+    'papers',
+    paperStem,
+  );
+  const recordPath = path.join(retiredPaperRoot, 'retirement.json');
+  let mtimeMs: number;
+  try {
+    mtimeMs = statSync(recordPath).mtimeMs;
+  } catch {
+    return new Map();
+  }
+  const cached = retiredImageIndexCache.get(recordPath);
+  if (cached?.mtimeMs === mtimeMs) return cached.index;
+
+  const index = new Map<string, DisplayRetiredPaperImage[]>();
+  try {
+    const parsed = JSON.parse(readFileSync(recordPath, 'utf8')) as Record<
+      string,
+      unknown
+    >;
+    if (parsed.version !== 2 || !Array.isArray(parsed.retirements)) {
+      throw new Error('Unsupported retirement record.');
+    }
+    for (const value of parsed.retirements) {
+      if (!value || typeof value !== 'object' || Array.isArray(value)) continue;
+      const retirement = value as Record<string, unknown>;
+      if (
+        retirement.kind !== 'assets' ||
+        typeof retirement.questionUuid !== 'string' ||
+        !Array.isArray(retirement.assets)
+      ) {
+        continue;
+      }
+      const groups = new Map<
+        string,
+        Readonly<{
+          extensions: ImageExtension[];
+          scope: ImageScope;
+        }>
+      >();
+      for (const candidate of retirement.assets) {
+        if (
+          !candidate ||
+          typeof candidate !== 'object' ||
+          Array.isArray(candidate)
+        ) {
+          continue;
+        }
+        const assetPath = (candidate as Record<string, unknown>).path;
+        if (typeof assetPath !== 'string') continue;
+        const match = assetPath.match(
+          /^(questions|workings|answers)\/manual\/([^/]+)\.(png|jpg|jpeg|svg|webp)$/,
+        );
+        if (!match) continue;
+        const scope: ImageScope =
+          match[1] === 'questions'
+            ? 'question'
+            : match[1] === 'workings'
+              ? 'working'
+              : 'answer';
+        const extension = match[3] as ImageExtension;
+        const sourceStem = `${match[1]}/manual/${match[2]}`;
+        const group = groups.get(sourceStem);
+        if (group) group.extensions.push(extension);
+        else groups.set(sourceStem, { extensions: [extension], scope });
+      }
+
+      const layout: ImageLayout = {
+        align: DEFAULT_ALIGN,
+        displaySize: DEFAULT_DISPLAY_SIZE,
+        indent: DEFAULT_INDENT,
+      };
+      const images = [...groups].flatMap<DisplayRetiredPaperImage>(
+        ([sourceStem, group]) => {
+          const variants = group.extensions
+            .filter((extension) =>
+              existsSync(
+                path.join(retiredPaperRoot, `${sourceStem}.${extension}`),
+              ),
+            )
+            .map((extension) =>
+              retiredImageVariant(
+                paperStem,
+                retiredPaperRoot,
+                `${sourceStem}.${extension}`,
+                extension,
+                layout,
+              ),
+            );
+          if (!variants.length) return [];
+          const first = variants[0];
+          return [
+            {
+              image: {
+                ...layout,
+                alt: first.alt,
+                ...(first.altReview ? { altReview: first.altReview } : {}),
+                description: first.description,
+                referenceSrc: first.src,
+                retiredVariants: variants,
+                tags: [],
+                variants: [],
+              },
+              reason:
+                typeof retirement.reason === 'string'
+                  ? retirement.reason
+                  : 'Archived original image.',
+              scope: group.scope,
+            },
+          ];
+        },
+      );
+      if (images.length) {
+        const key = retirement.questionUuid.toUpperCase();
+        index.set(key, [...(index.get(key) ?? []), ...images]);
+      }
+    }
+  } catch {
+    // Archive metadata is optional review context; active content still renders.
+  }
+  retiredImageIndexCache.set(recordPath, { index, mtimeMs });
+  return index;
+}
+
 function paperImageMarkdown(
   component: string,
   context: ReviewAssetContext,
@@ -429,10 +610,17 @@ function paperImageMarkdown(
   }
 
   const layout = imageLayout(authored);
-  const { assetsRoot, debugAssetsRoot } = resolveRtqContentPaths();
+  const { assetsPackageRoot, assetsRoot, debugAssetsRoot } =
+    resolveRtqContentPaths();
   const paperRoot = path.join(assetsRoot, 'papers', context.paperStem);
   const debugPaperRoot = path.join(
     debugAssetsRoot,
+    'papers',
+    context.paperStem,
+  );
+  const retiredPaperRoot = path.join(
+    assetsPackageRoot,
+    'retired-assets',
     'papers',
     context.paperStem,
   );
@@ -456,6 +644,21 @@ function paperImageMarkdown(
         },
       ]
     : [];
+  const retiredLocation = ownerPath(context, scope, imageIndex, 'manual');
+  const retiredMatches = IMAGE_EXTENSIONS.filter((extension) =>
+    existsSync(
+      path.join(retiredPaperRoot, `${retiredLocation.sourceStem}.${extension}`),
+    ),
+  ).map((extension) => ({ extension, location: retiredLocation }));
+  const retiredVariants = retiredMatches.map(({ extension, location }) =>
+    retiredImageVariant(
+      context.paperStem,
+      retiredPaperRoot,
+      `${location.sourceStem}.${extension}`,
+      extension,
+      layout,
+    ),
+  );
   const matches = [...canonicalMatches, ...debugMatches];
   if (matches.length === 0) {
     assertPaperImageDelivery(
@@ -474,6 +677,7 @@ function paperImageMarkdown(
         alt: 'Missing paper image',
         description: '',
         referenceSrc: missing,
+        ...(retiredVariants.length ? { retiredVariants } : {}),
         tags: imageTags(authored),
         variants: [
           {
@@ -566,6 +770,7 @@ function paperImageMarkdown(
       ...(metadata.altReview ? { altReview: metadata.altReview } : {}),
       description: metadata.description,
       referenceSrc,
+      ...(retiredVariants.length ? { retiredVariants } : {}),
       tags: imageTags(authored),
       variants,
     },
@@ -774,24 +979,57 @@ function prepareField(
 export function prepareReviewPaperNodeForDisplay(
   node: ReviewPaper['sections'][number]['questions'][number],
 ): DisplayPaperNode {
+  const content: DisplayPaperNode['content'] = {
+    answers: node.content.answers.map((answer) => ({
+      answer: prepareField(answer.answer),
+      key: prepareField(answer.key),
+      option: prepareField(answer.option),
+    })),
+    question: prepareField(node.content.question),
+    workings: node.content.workings.map((working) => ({
+      formulas: working.formulas.map((field) => prepareField(field)),
+      tips: working.tips.map((field) => prepareField(field)),
+      working: prepareField(working.working, {
+        preserveWorkingSections: true,
+      }),
+    })),
+  };
+  const fields = [
+    content.question,
+    ...content.workings.flatMap((working) => [
+      working.working,
+      ...working.formulas,
+      ...working.tips,
+    ]),
+    ...content.answers.flatMap((answer) => [
+      answer.answer,
+      answer.key,
+      answer.option,
+    ]),
+  ];
+  const includedRetiredSources = new Set(
+    fields.flatMap((field) =>
+      (field.paperImages ?? []).flatMap((image) =>
+        (image.retiredVariants ?? []).map((variant) => variant.src),
+      ),
+    ),
+  );
+  const archived = node.uuid
+    ? (retiredImageIndex(node.content.question.context.paperStem).get(
+        node.uuid.toUpperCase(),
+      ) ?? [])
+    : [];
+  const retiredPaperImages = archived.filter((entry) =>
+    (entry.image.retiredVariants ?? []).every(
+      (variant) => !includedRetiredSources.has(variant.src),
+    ),
+  );
+
   return {
     ...node,
     children: node.children.map(prepareReviewPaperNodeForDisplay),
-    content: {
-      answers: node.content.answers.map((answer) => ({
-        answer: prepareField(answer.answer),
-        key: prepareField(answer.key),
-        option: prepareField(answer.option),
-      })),
-      question: prepareField(node.content.question),
-      workings: node.content.workings.map((working) => ({
-        formulas: working.formulas.map((field) => prepareField(field)),
-        tips: working.tips.map((field) => prepareField(field)),
-        working: prepareField(working.working, {
-          preserveWorkingSections: true,
-        }),
-      })),
-    },
+    content,
+    ...(retiredPaperImages.length ? { retiredPaperImages } : {}),
   };
 }
 

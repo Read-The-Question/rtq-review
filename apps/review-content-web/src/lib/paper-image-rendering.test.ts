@@ -28,7 +28,8 @@ import '../../scripts/paper-image-test-loader.mjs';
 import { installSvgToolFixture } from '../../../../packages/review-paper-assets/test/svg-tool-fixture.mjs';
 
 const { prepareReviewPaperNodeForDisplay } = await import('./prepare-paper.ts');
-const { RtqMarkdown } = await import('../components/rtq-markdown.tsx');
+const { PaperImageComparison, RtqMarkdown } =
+  await import('../components/rtq-markdown.tsx');
 
 function fixture(t: TestContext) {
   const root = mkdtempSync(path.join(tmpdir(), 'rtq-paper-image-rendering-'));
@@ -104,6 +105,12 @@ function fixture(t: TestContext) {
       content,
     );
   }
+  function retiredAsset(relativePath: string, content: string) {
+    write(
+      `packages/assets/retired-assets/papers/example/${relativePath}`,
+      content,
+    );
+  }
   function image(metadata: unknown, imagePath = sourcePath) {
     asset(imagePath, 'fixture image bytes; preparation does not decode images');
     asset(imagePath.replace(/\.png$/, '.json'), JSON.stringify(metadata));
@@ -126,10 +133,11 @@ function fixture(t: TestContext) {
       raw: markdown,
     };
   }
-  function prepareResult(
+  function prepareNode(
     markdown = '<PaperImage assetScope="question" />',
     scope: ReviewAssetContext['scope'] = 'question',
-  ): DisplayContentField {
+    uuid?: string,
+  ) {
     const node: ReviewPaperNode = {
       children: [],
       content: {
@@ -163,8 +171,15 @@ function fixture(t: TestContext) {
         question: { legacyComments: '' },
         'question-image': { legacyComments: '' },
       },
+      ...(uuid ? { uuid } : {}),
     };
-    const prepared = prepareReviewPaperNodeForDisplay(node).content;
+    return prepareReviewPaperNodeForDisplay(node);
+  }
+  function prepareResult(
+    markdown = '<PaperImage assetScope="question" />',
+    scope: ReviewAssetContext['scope'] = 'question',
+  ): DisplayContentField {
+    const prepared = prepareNode(markdown, scope).content;
     const result =
       scope === 'question'
         ? prepared.question
@@ -205,9 +220,11 @@ function fixture(t: TestContext) {
     image,
     prepare,
     prepareDisplay,
+    prepareNode,
     prepareResult,
     snapshot,
     sourcePath,
+    retiredAsset,
   };
 }
 
@@ -471,6 +488,107 @@ test('prepared preference falls back to the first active manual format', (t) => 
   });
   assert.equal(imageTags(html).length, 1);
   assert.match(imageTags(html)[0], /i00\.png/);
+});
+
+test('discovers retired manual artwork without adding it to normal rendering', (t) => {
+  const f = fixture(t);
+  f.asset(
+    'questions/prepared/diagrams/s01-q01-i00.svg',
+    '<svg width="320" height="200" viewBox="0 0 320 200"><path d="M0 0L100 0L0 100Z"/></svg>',
+  );
+  f.asset(
+    'questions/prepared/diagrams/s01-q01-i00.json',
+    JSON.stringify(metadata('Prepared diagram', 'Current artwork.')),
+  );
+  f.retiredAsset(
+    'questions/manual/s01-q01-i00.png',
+    'retired screenshot bytes',
+  );
+  f.retiredAsset(
+    'questions/manual/s01-q01-i00.json',
+    JSON.stringify(metadata('Retired screenshot', 'Archived reference.')),
+  );
+
+  const prepared = f.prepareDisplay();
+  assert.deepEqual(
+    prepared.paperImages?.[0].variants.map((variant) => variant.provenance),
+    ['prepared'],
+  );
+  assert.deepEqual(
+    prepared.paperImages?.[0].retiredVariants?.map(
+      (variant) => variant.provenance,
+    ),
+    ['retired'],
+  );
+  assert.match(
+    prepared.paperImages?.[0].retiredVariants?.[0].src ?? '',
+    /\/api\/assets\/retired\/papers\/example\/questions\/manual\/s01-q01-i00\.png/,
+  );
+  const normal = render(prepared.rendered, {
+    imageMode: 'all',
+    paperImages: prepared.paperImages,
+  });
+  assert.match(normal, /Prepared diagram/);
+  assert.doesNotMatch(normal, /Retired screenshot|retired\/papers/);
+
+  const comparison = renderToStaticMarkup(
+    createElement(PaperImageComparison, {
+      image: prepared.paperImages?.[0] as DisplayPaperImage,
+      paperImageScale: 1,
+      showImageTags: false,
+    }),
+  );
+  assert.match(comparison, /prepared · SVG/);
+  assert.match(comparison, /retired reference · PNG/);
+  assert.match(comparison, /Prepared diagram/);
+  assert.match(comparison, /Retired screenshot/);
+});
+
+test('maps a retired-only original back to its current question UUID', (t) => {
+  const f = fixture(t);
+  const uuid = 'AAB63DDE-7AE5-4CBB-B9C4-86695C3EA843';
+  f.retiredAsset(
+    'questions/manual/s01-q01-i00.png',
+    'retired screenshot bytes',
+  );
+  f.retiredAsset(
+    'questions/manual/s01-q01-i00.json',
+    JSON.stringify(metadata('Museum sign', 'The archived entrance-fee sign.')),
+  );
+  f.retiredAsset(
+    'retirement.json',
+    JSON.stringify({
+      paperSlug: 'example',
+      retirements: [
+        {
+          assets: [
+            { path: 'questions/manual/s01-q01-i00.json' },
+            { path: 'questions/manual/s01-q01-i00.png' },
+          ],
+          kind: 'assets',
+          questionUuid: uuid,
+          reason: 'Replaced by authored text.',
+        },
+      ],
+      version: 2,
+    }),
+  );
+
+  const prepared = f.prepareNode('The fee is £1.20.', 'question', uuid);
+  assert.equal(prepared.content.question.paperImages, undefined);
+  assert.equal(prepared.retiredPaperImages?.length, 1);
+  assert.equal(
+    prepared.retiredPaperImages?.[0].reason,
+    'Replaced by authored text.',
+  );
+  assert.equal(
+    prepared.retiredPaperImages?.[0].image.retiredVariants?.[0].alt,
+    'Museum sign',
+  );
+  assert.match(
+    prepared.retiredPaperImages?.[0].image.referenceSrc ?? '',
+    /\/api\/assets\/retired\/papers\/example\/questions\/manual\/s01-q01-i00\.png/,
+  );
 });
 
 for (const scope of ['question', 'working', 'answer'] as const) {

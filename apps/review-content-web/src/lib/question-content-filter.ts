@@ -42,20 +42,31 @@ function fieldMatches(
 export function nodeMatchesQuestionContentFilter(
   node: DisplayPaperNode,
   filter: QuestionContentFilter,
+  includeRetiredImages = false,
 ): boolean {
-  return nodeFields(node).some((field) => fieldMatches(field, filter));
+  return (
+    (filter === 'image' &&
+      includeRetiredImages &&
+      Boolean(node.retiredPaperImages?.length)) ||
+    nodeFields(node).some((field) => fieldMatches(field, filter))
+  );
 }
 
 export function questionContentFilterMatches(
   paper: DisplayReviewPaper,
   filter: QuestionContentFilter,
+  options: Readonly<{ includeRetiredImages?: boolean }> = {},
 ): QuestionContentFilterMatches {
   const directNodeIds: string[] = [];
   const questionTreeIds: string[] = [];
   const visibleNodeIds: string[] = [];
 
   function visit(node: DisplayPaperNode): boolean {
-    const direct = nodeMatchesQuestionContentFilter(node, filter);
+    const direct = nodeMatchesQuestionContentFilter(
+      node,
+      filter,
+      options.includeRetiredImages,
+    );
     const descendant = node.children.map(visit).some(Boolean);
     if (direct) directNodeIds.push(node.id);
     if (direct || descendant) visibleNodeIds.push(node.id);

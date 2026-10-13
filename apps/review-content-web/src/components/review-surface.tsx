@@ -45,6 +45,7 @@ import type {
   DisplayReviewPaper,
   DisplayWorkingSegment,
 } from '@/lib/display-model';
+import { visualOccurrencesForNode } from '@/lib/image-view';
 import type { PaperPdf, PaperPdfOption } from '@/lib/paper-pdf';
 import {
   DEFAULT_REVIEW_PREFERENCES,
@@ -107,7 +108,7 @@ import {
   type SourceFreshnessStatus,
 } from '@/lib/source-freshness';
 
-import { RtqMarkdown } from './rtq-markdown';
+import { PaperImageComparison, RtqMarkdown } from './rtq-markdown';
 import { SiteHeader } from './site-header';
 
 const axisCopy: Readonly<Record<DimensionalTagAxis, string>> = {
@@ -1467,6 +1468,147 @@ function QuestionNode({
   );
 }
 
+function ImageQuestionNode({
+  matchingNodeIds,
+  node,
+  preferences,
+  reviewRuntime,
+  topLevelQuestion,
+  trail = [],
+  visibleNodeIds,
+}: {
+  matchingNodeIds: ReadonlySet<string>;
+  node: DisplayPaperNode;
+  preferences: ReviewPreferences;
+  reviewRuntime: ReviewRuntimeState;
+  topLevelQuestion: DisplayPaperNode;
+  trail?: readonly string[];
+  visibleNodeIds?: ReadonlySet<string>;
+}) {
+  const occurrences = visualOccurrencesForNode(node);
+  const visibleChildren = visibleNodeIds
+    ? node.children.filter((child) => visibleNodeIds.has(child.id))
+    : node.children;
+  if (occurrences.length === 0 && visibleChildren.length === 0) return null;
+
+  const nextTrail = [...trail, node.label];
+  const imageSide = `${preferences.reviewSide}-image` as const;
+  const corpusSource = topLevelQuestion.reviewSource;
+  const exactMatch = matchingNodeIds.has(node.id);
+
+  return (
+    <div
+      className={`visual-question-node visual-question-node--depth-${node.depth}`}
+      id={`question-${node.id}`}
+    >
+      {occurrences.length ? (
+        <article
+          className={`visual-question-card${
+            exactMatch ? '' : ' visual-question-card--context'
+          }`}
+        >
+          <header className="visual-question-heading">
+            <div>
+              <span>{nextTrail.join(' · ')}</span>
+              <h3>
+                {occurrences.length}{' '}
+                {occurrences.length === 1 ? 'image' : 'images'}
+              </h3>
+            </div>
+            {corpusSource ? (
+              <div className="visual-question-source">
+                <strong>{corpusSource.paperTitle}</strong>
+                <span>{corpusSource.sectionLabel}</span>
+                <Link
+                  href={`${paperRoute(
+                    corpusSource.collectionId,
+                    corpusSource.relativePath,
+                  )}?question=${encodeURIComponent(corpusSource.nodeId)}&view=images`}
+                >
+                  Open in paper ↗
+                </Link>
+              </div>
+            ) : null}
+          </header>
+
+          {preferences.showMetadata ? (
+            <div className="visual-question-metadata">
+              {node.uuid ? <code>UUID {node.uuid}</code> : null}
+              <code>{node.sourceQuestionId}</code>
+            </div>
+          ) : null}
+
+          <div className="visual-occurrences">
+            {occurrences.map((occurrence, index) => (
+              <section className="visual-occurrence" key={occurrence.key}>
+                <header>
+                  <strong>{occurrence.fieldLabel}</strong>
+                  <span>
+                    {occurrence.scope} image {index + 1}
+                  </span>
+                </header>
+                {occurrence.archiveReason ? (
+                  <p className="visual-occurrence-note">
+                    {occurrence.archiveReason}
+                  </p>
+                ) : null}
+                <PaperImageComparison
+                  image={occurrence.image}
+                  paperImageScale={preferences.paperImageScale}
+                  showImageTags={preferences.showImageTags}
+                />
+              </section>
+            ))}
+          </div>
+
+          {preferences.showImageStatusInfo ? (
+            <ImageReviewStatusBlock
+              node={node}
+              runtime={reviewRuntime}
+              showBackground={preferences.showStatusBackground}
+              side={imageSide}
+            />
+          ) : null}
+          {visibleFeedbackSides(preferences).map((side) => (
+            <ReviewFeedback
+              key={side}
+              node={node}
+              runtime={reviewRuntime}
+              side={side}
+              topLevelQuestion={topLevelQuestion}
+            />
+          ))}
+          {visibleReviewSides(preferences).length > 0 ? (
+            <ReviewPanel
+              node={node}
+              preferences={preferences}
+              runtime={reviewRuntime}
+              topLevelQuestion={topLevelQuestion}
+            />
+          ) : null}
+        </article>
+      ) : null}
+
+      {visibleChildren.length ? (
+        <div className="visual-question-children">
+          {visibleChildren.map((child) => (
+            <ImageQuestionNode
+              key={child.id}
+              matchingNodeIds={matchingNodeIds}
+              node={child}
+              preferences={preferences}
+              reviewRuntime={reviewRuntime}
+              topLevelQuestion={topLevelQuestion}
+              trail={nextTrail}
+              visibleNodeIds={visibleNodeIds}
+            />
+          ))}
+        </div>
+      ) : null}
+    </div>
+  );
+}
+
 function QuestionReviewActivity({
   node,
   runtime,
@@ -2630,6 +2772,19 @@ export function ReviewSurface({
     () => parseReviewFilterSearchParams(searchParams.toString()),
     [searchParams],
   );
+  const imageView = searchParams.get('view') === 'images';
+  const displayPreferences = useMemo<ReviewPreferences>(
+    () =>
+      imageView
+        ? {
+            ...preferences,
+            questionContentFilter: 'image',
+            reviewPanelMode: 'image',
+            showQuestionStatusInfo: false,
+          }
+        : preferences,
+    [imageView, preferences],
+  );
   const contentPattern = searchParams.get('content')?.trim() ?? '';
   const contentScope = normalizeContentSearchScope(
     searchParams.get('content-scope'),
@@ -2654,10 +2809,11 @@ export function ReviewSurface({
     return compiled.state === 'ready' ? compiled.search : undefined;
   }, [contentSearch]);
   const activeSelection = useMemo(
-    () => reviewFilterSelectionForContext(selection, preferences.reviewSide),
-    [preferences.reviewSide, selection],
+    () =>
+      reviewFilterSelectionForContext(selection, displayPreferences.reviewSide),
+    [displayPreferences.reviewSide, selection],
   );
-  const enabledReviewSides = activeReviewSides(preferences);
+  const enabledReviewSides = activeReviewSides(displayPreferences);
   const reviewOutcomeFilterContext = useMemo(() => {
     if (outcomeLoad.error) return undefined;
     const source = {
@@ -2705,18 +2861,27 @@ export function ReviewSurface({
   );
   const questionContentMatches = useMemo(
     () =>
-      questionContentFilterMatches(paper, preferences.questionContentFilter),
-    [paper, preferences.questionContentFilter],
+      questionContentFilterMatches(
+        paper,
+        displayPreferences.questionContentFilter,
+        { includeRetiredImages: imageView },
+      ),
+    [displayPreferences.questionContentFilter, imageView, paper],
   );
   const visibleNodeIds = useMemo(
     () =>
-      preferences.questionContentFilter === 'all'
+      displayPreferences.questionContentFilter === 'all'
         ? undefined
         : new Set(questionContentMatches.visibleNodeIds),
-    [preferences.questionContentFilter, questionContentMatches.visibleNodeIds],
+    [
+      displayPreferences.questionContentFilter,
+      questionContentMatches.visibleNodeIds,
+    ],
   );
   const result = useMemo(() => {
-    if (preferences.questionContentFilter === 'all') return unfilteredResult;
+    if (displayPreferences.questionContentFilter === 'all') {
+      return unfilteredResult;
+    }
     const allowedQuestionIds = new Set(questionContentMatches.questionTreeIds);
     const matchingQuestionTreeIds =
       unfilteredResult.matchingQuestionTreeIds.filter((id) =>
@@ -2741,7 +2906,7 @@ export function ReviewSurface({
       ),
     };
   }, [
-    preferences.questionContentFilter,
+    displayPreferences.questionContentFilter,
     questionContentMatches.questionTreeIds,
     unfilteredResult,
   ]);
@@ -2901,9 +3066,9 @@ export function ReviewSurface({
     activeSelection.answerImageReview.length +
     activeSelection.answerReview.length;
   const questionContentFilterActive =
-    preferences.questionContentFilter !== 'all';
+    displayPreferences.questionContentFilter !== 'all';
   const questionContentFilterLabel =
-    preferences.questionContentFilter === 'image' ? 'images' : 'tables';
+    displayPreferences.questionContentFilter === 'image' ? 'images' : 'tables';
   const questionContentFilterRemovedAll =
     questionContentFilterActive &&
     unfilteredResult.matchingQuestionTreeCount > 0 &&
@@ -3384,6 +3549,13 @@ export function ReviewSurface({
     );
   }
 
+  function setSurfaceView(view: 'content' | 'images') {
+    const current = new URLSearchParams(searchParams.toString());
+    if (view === 'images') current.set('view', 'images');
+    else current.delete('view');
+    replaceSearchParams(current);
+  }
+
   function clearReviewOutcomes() {
     const current = new URLSearchParams(searchParams.toString());
     current.delete('question');
@@ -3756,7 +3928,7 @@ export function ReviewSurface({
 
   return (
     <main
-      className={`paper-shell${visiblePdf ? ' paper-shell--with-pdf' : ''}`}
+      className={`paper-shell${visiblePdf ? ' paper-shell--with-pdf' : ''}${imageView ? ' paper-shell--image-view' : ''}`}
       id="paper-top"
     >
       <SiteHeader compact showReviewStorage />
@@ -4028,6 +4200,26 @@ export function ReviewSurface({
             </button>
           </div>
           <div className="toolbar-view-controls">
+            <div
+              aria-label="Review presentation"
+              className="surface-view-switch"
+              role="group"
+            >
+              <button
+                aria-pressed={!imageView}
+                onClick={() => setSurfaceView('content')}
+                type="button"
+              >
+                Content
+              </button>
+              <button
+                aria-pressed={imageView}
+                onClick={() => setSurfaceView('images')}
+                type="button"
+              >
+                Images
+              </button>
+            </div>
             <PreferenceToggle
               checked={preferences.showRaw}
               className="toolbar-raw-toggle"
@@ -4047,13 +4239,14 @@ export function ReviewSurface({
                 <label className="view-option-select">
                   <span>Questions shown</span>
                   <select
+                    disabled={imageView}
                     onChange={(event) =>
                       updatePreference(
                         'questionContentFilter',
                         event.target.value as QuestionContentFilter,
                       )
                     }
-                    value={preferences.questionContentFilter}
+                    value={displayPreferences.questionContentFilter}
                   >
                     <option value="all">All questions</option>
                     <option value="image">Questions with images</option>
@@ -4063,13 +4256,14 @@ export function ReviewSurface({
                 <label className="view-option-select">
                   <span>Review panels</span>
                   <select
+                    disabled={imageView}
                     onChange={(event) =>
                       updatePreference(
                         'reviewPanelMode',
                         event.target.value as ReviewPanelMode,
                       )
                     }
-                    value={preferences.reviewPanelMode}
+                    value={displayPreferences.reviewPanelMode}
                   >
                     <option value="content">Content only</option>
                     <option value="image">Image only</option>
@@ -4116,13 +4310,14 @@ export function ReviewSurface({
                 <label className="view-option-select">
                   <span>Image versions</span>
                   <select
+                    disabled={imageView}
                     onChange={(event) =>
                       updatePreference(
                         'paperImageMode',
                         event.target.value as PaperImageMode,
                       )
                     }
-                    value={preferences.paperImageMode}
+                    value={imageView ? 'all' : preferences.paperImageMode}
                   >
                     <option value="all">All related assets</option>
                     <option value="prepared">Prepared preferred</option>
@@ -4270,7 +4465,7 @@ export function ReviewSurface({
                 : 'Change the raw-content expression or clear one filter to widen the paper again.'}
           </p>
           <div className="empty-results-actions">
-            {questionContentFilterActive ? (
+            {questionContentFilterActive && !imageView ? (
               <button
                 onClick={() => updatePreference('questionContentFilter', 'all')}
                 type="button"
@@ -4292,7 +4487,9 @@ export function ReviewSurface({
         </section>
       ) : (
         <ContentSearchContext.Provider value={compiledContentSearch}>
-          <div className="paper-body">
+          <div
+            className={`paper-body${imageView ? ' paper-body--images' : ''}`}
+          >
             <PaperOutline
               activeId={currentCursor?.node.id}
               ariaLabel="Filtered question navigation"
@@ -4308,16 +4505,29 @@ export function ReviewSurface({
                   <header>
                     <span>Section</span>
                     <h2>{section.label}</h2>
-                    <strong>{section.questions.length} matching trees</strong>
+                    <strong>
+                      {section.questions.length}{' '}
+                      {imageView ? 'image-bearing' : 'matching'} trees
+                    </strong>
                   </header>
                   {section.questions.map((question) => {
                     const displayQuestion = displayNodeById.get(question.id);
-                    return displayQuestion ? (
+                    return displayQuestion && imageView ? (
+                      <ImageQuestionNode
+                        key={displayQuestion.id}
+                        matchingNodeIds={matchingNodeIds}
+                        node={displayQuestion}
+                        preferences={displayPreferences}
+                        reviewRuntime={reviewRuntime}
+                        topLevelQuestion={displayQuestion}
+                        visibleNodeIds={visibleNodeIds}
+                      />
+                    ) : displayQuestion ? (
                       <QuestionNode
                         key={displayQuestion.id}
                         matchingNodeIds={matchingNodeIds}
                         node={displayQuestion}
-                        preferences={preferences}
+                        preferences={displayPreferences}
                         reviewSides={enabledReviewSides}
                         reviewRuntime={reviewRuntime}
                         topLevelQuestion={displayQuestion}

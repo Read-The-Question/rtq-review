@@ -41,11 +41,13 @@ function scaledSvgReviewWidth(
 
 function PaperImageVariant({
   variant,
+  provenanceLabel,
   showFormat,
   align,
   paperImageScale,
 }: {
   variant: DisplayPaperImageVariant;
+  provenanceLabel?: string;
   showFormat: boolean;
   align: DisplayPaperImage['align'];
   paperImageScale: PaperImageScale;
@@ -100,7 +102,7 @@ function PaperImageVariant({
       {variant.svgCss ? <style>{variant.svgCss}</style> : null}
       {showFormat ? (
         <span className="rtq-paper-image-format">
-          {variant.provenance} · {variant.format}
+          {provenanceLabel ?? variant.provenance} · {variant.format}
         </span>
       ) : null}
       {sized ? (
@@ -128,6 +130,91 @@ function PaperImageVariant({
         </span>
       ) : null}
     </span>
+  );
+}
+
+function PaperImageTags({ image }: { image: DisplayPaperImage }) {
+  return (
+    <span className="rtq-paper-image-tags">
+      <span className="rtq-paper-image-tags-label">Image tags</span>
+      {image.tags.length ? (
+        image.tags.map((tag) => (
+          <span
+            className="rtq-paper-image-tag"
+            data-dimension={tag.dimensionKey}
+            data-supported={tag.supported}
+            key={`${tag.dimensionLabel}:${tag.value}`}
+          >
+            <span>{tag.dimensionLabel}</span>
+            <strong>{tag.valueLabel}</strong>
+            {tag.supported ? null : <em>Unsupported</em>}
+          </span>
+        ))
+      ) : (
+        <span className="rtq-paper-image-tags-empty">Unclassified</span>
+      )}
+    </span>
+  );
+}
+
+const comparisonVariantOrder: Readonly<
+  Record<DisplayPaperImageVariant['provenance'], number>
+> = {
+  manual: 0,
+  retired: 1,
+  prepared: 2,
+  debug: 3,
+  missing: 4,
+};
+
+const comparisonVariantLabels: Readonly<
+  Record<DisplayPaperImageVariant['provenance'], string>
+> = {
+  manual: 'active reference',
+  retired: 'retired reference',
+  prepared: 'prepared',
+  debug: 'diagnostic',
+  missing: 'missing',
+};
+
+export function PaperImageComparison({
+  image,
+  paperImageScale,
+  showImageTags,
+}: Readonly<{
+  image: DisplayPaperImage;
+  paperImageScale: PaperImageScale;
+  showImageTags: boolean;
+}>) {
+  const variants = [
+    ...image.variants,
+    ...(image.retiredVariants ?? []),
+  ].toSorted(
+    (left, right) =>
+      comparisonVariantOrder[left.provenance] -
+      comparisonVariantOrder[right.provenance],
+  );
+
+  return (
+    <div
+      className="visual-paper-image"
+      data-align={image.align}
+      data-size={image.displaySize}
+    >
+      {showImageTags ? <PaperImageTags image={image} /> : null}
+      <div className="visual-paper-image-variants">
+        {variants.map((variant) => (
+          <PaperImageVariant
+            align={image.align}
+            key={variant.src}
+            paperImageScale={paperImageScale}
+            provenanceLabel={comparisonVariantLabels[variant.provenance]}
+            showFormat
+            variant={variant}
+          />
+        ))}
+      </div>
+    </div>
   );
 }
 
@@ -184,27 +271,7 @@ function PaperImage({
         data-kind="paper-image"
         data-size={image.displaySize}
       >
-        {showImageTags ? (
-          <span className="rtq-paper-image-tags">
-            <span className="rtq-paper-image-tags-label">Image tags</span>
-            {image.tags.length ? (
-              image.tags.map((tag) => (
-                <span
-                  className="rtq-paper-image-tag"
-                  data-dimension={tag.dimensionKey}
-                  data-supported={tag.supported}
-                  key={`${tag.dimensionLabel}:${tag.value}`}
-                >
-                  <span>{tag.dimensionLabel}</span>
-                  <strong>{tag.valueLabel}</strong>
-                  {tag.supported ? null : <em>Unsupported</em>}
-                </span>
-              ))
-            ) : (
-              <span className="rtq-paper-image-tags-empty">Unclassified</span>
-            )}
-          </span>
-        ) : null}
+        {showImageTags ? <PaperImageTags image={image} /> : null}
         <span className="rtq-paper-image-variants">
           {variants.map((variant) => (
             <PaperImageVariant

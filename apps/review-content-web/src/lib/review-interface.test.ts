@@ -152,7 +152,7 @@ test('review filters are context-scoped, paired, URL-backed, and failure-safe', 
   assert.match(component, /searchParams\.get\('content'\)/);
   assert.match(
     component,
-    /reviewFilterSelectionForContext\(selection, preferences\.reviewSide\)/,
+    /reviewFilterSelectionForContext\([\s\S]*selection,[\s\S]*displayPreferences\.reviewSide/,
   );
 });
 
@@ -174,7 +174,7 @@ test('top-level questions expose current outcomes and feedback as scan badges', 
     /reviewStatusRails\(node, reviewSides, reviewRuntime\)/,
   );
   assert.match(component, /reviewSides=\{enabledReviewSides\}/);
-  assert.match(component, /activeReviewSides\(preferences\)/);
+  assert.match(component, /activeReviewSides\(displayPreferences\)/);
   assert.match(component, /return reviewSides\.flatMap/);
   assert.match(component, /aria-label="Review target"/);
   assert.match(component, /question-status-rail--\$\{tone\}/);
@@ -584,7 +584,10 @@ test('view options support minimal metadata and centered review panel modes', as
   assert.match(component, /label="Image tags"/);
   assert.match(component, /label="Image markers in navigation"/);
   assert.match(component, /<span>Questions shown<\/span>/);
-  assert.match(component, /value=\{preferences\.questionContentFilter\}/);
+  assert.match(
+    component,
+    /value=\{displayPreferences\.questionContentFilter\}/,
+  );
   assert.match(component, /<option value="all">All questions<\/option>/);
   assert.match(
     component,
@@ -596,7 +599,10 @@ test('view options support minimal metadata and centered review panel modes', as
   );
   assert.match(component, /questionContentFilterMatches\(/);
   assert.match(component, /visibleNodeIds=\{visibleNodeIds\}/);
-  assert.match(component, /value=\{preferences\.paperImageMode\}/);
+  assert.match(
+    component,
+    /value=\{imageView \? 'all' : preferences\.paperImageMode\}/,
+  );
   assert.match(component, /<option value="all">All related assets<\/option>/);
   assert.match(
     component,
@@ -610,7 +616,7 @@ test('view options support minimal metadata and centered review panel modes', as
     component,
     /updatePreference\([\s\S]*'paperImageScale',[\s\S]*Number\(event\.target\.value\)/,
   );
-  assert.match(component, /value=\{preferences\.reviewPanelMode\}/);
+  assert.match(component, /value=\{displayPreferences\.reviewPanelMode\}/);
   assert.match(component, /<option value="content">Content only<\/option>/);
   assert.match(component, /<option value="image">Image only<\/option>/);
   assert.match(component, /<option value="both">Both<\/option>/);
@@ -638,6 +644,43 @@ test('view options support minimal metadata and centered review panel modes', as
   assert.match(
     css,
     /\.rtq-paper-image-tag\[data-dimension='type'\]\s*{[^}]*background:\s*#dce8ec/s,
+  );
+});
+
+test('the URL-backed image view projects PaperImage occurrences without question copy', async () => {
+  const [component, markdown, css, imageView] = await Promise.all([
+    fs.readFile(componentUrl, 'utf8'),
+    fs.readFile(
+      new URL('../components/rtq-markdown.tsx', import.meta.url),
+      'utf8',
+    ),
+    fs.readFile(cssUrl, 'utf8'),
+    fs.readFile(new URL('./image-view.ts', import.meta.url), 'utf8'),
+  ]);
+
+  assert.match(component, /searchParams\.get\('view'\) === 'images'/);
+  assert.match(component, /function setSurfaceView/);
+  assert.match(component, /current\.set\('view', 'images'\)/);
+  assert.match(component, /aria-label="Review presentation"/);
+  assert.match(component, /<ImageQuestionNode/);
+  assert.match(component, /<PaperImageComparison/);
+  assert.match(
+    component,
+    /className={`paper-body[\s\S]*?<PaperOutline[\s\S]*?<div className="paper-sections">/,
+  );
+  assert.match(component, /questionContentFilter: 'image'/);
+  assert.match(component, /reviewPanelMode: 'image'/);
+  assert.match(imageView, /visualOccurrencesForNode/);
+  assert.match(imageView, /field\.paperImages \?\? \[\]/);
+  assert.doesNotMatch(imageView, /LongDivision|rendered|\.raw/);
+  assert.match(markdown, /image\.retiredVariants \?\? \[\]/);
+  assert.match(markdown, /comparisonVariantOrder/);
+  assert.match(css, /\.visual-paper-image-variants\s*{/);
+  assert.match(css, /grid-auto-flow:\s*column/);
+  assert.match(css, /\.visual-question-card\s*{/);
+  assert.match(
+    css,
+    /\.visual-paper-image \.rtq-paper-image-variant\s*{[\s\S]*?background:\s*var\(--paper-bright\);[\s\S]*?border:\s*1px solid var\(--rule-strong\);/,
   );
 });
 

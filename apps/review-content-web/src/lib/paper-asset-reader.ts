@@ -61,9 +61,18 @@ function requestedSegments(relativePath: string): string[] {
 function allowedSubpath(
   segments: readonly string[],
   diagnostic: boolean,
+  retired: boolean,
 ): boolean {
   const [scope, provenance, kind, file, ...rest] = segments;
   if (rest.length > 0) return false;
+  if (retired) {
+    return (
+      (scope === 'questions' || scope === 'workings' || scope === 'answers') &&
+      provenance === 'manual' &&
+      Boolean(kind) &&
+      !file
+    );
+  }
   if (diagnostic) {
     return (
       (scope === 'questions' || scope === 'workings' || scope === 'answers') &&
@@ -114,7 +123,8 @@ export async function resolveCanonicalPaperAsset(
 ): Promise<string> {
   const requested = requestedSegments(relativePath);
   const diagnostic = requested[0] === 'debug';
-  const segments = diagnostic ? requested.slice(1) : requested;
+  const retired = requested[0] === 'retired';
+  const segments = diagnostic || retired ? requested.slice(1) : requested;
   if (segments[0] !== 'papers') {
     throw new PaperAssetRequestError(
       'Only canonical paper assets may be served.',
@@ -130,7 +140,11 @@ export async function resolveCanonicalPaperAsset(
   const paths = resolveRtqContentPaths();
   const configuredRoot = path.resolve(
     /* turbopackIgnore: true */
-    diagnostic ? paths.debugAssetsRoot : paths.assetsRoot,
+    diagnostic
+      ? paths.debugAssetsRoot
+      : retired
+        ? path.join(paths.assetsPackageRoot, 'retired-assets')
+        : paths.assetsRoot,
   );
   const assetsRoot = await fs.realpath(configuredRoot).catch(() => {
     throw new PaperAssetRequestError('Paper asset was not found.', 404);
@@ -146,6 +160,7 @@ export async function resolveCanonicalPaperAsset(
 
   if (
     !diagnostic &&
+    !retired &&
     segments.length === 3 &&
     segments[1] === 'missing' &&
     segments[2] === 'missing_image.svg'
@@ -161,11 +176,13 @@ export async function resolveCanonicalPaperAsset(
   }
 
   const [, paperStem, ...subpath] = segments;
-  if (!paperStem || !allowedSubpath(subpath, diagnostic)) {
+  if (!paperStem || !allowedSubpath(subpath, diagnostic, retired)) {
     throw new PaperAssetRequestError(
       diagnostic
         ? 'Only owner-scoped diagnostic diagram SVGs are public.'
-        : 'Only owner-scoped manual, generated-diagram, and generated long-division assets are public.',
+        : retired
+          ? 'Only owner-scoped retired manual image files are public.'
+          : 'Only owner-scoped manual, generated-diagram, and generated long-division assets are public.',
       404,
     );
   }
@@ -186,7 +203,7 @@ export async function resolveCanonicalPaperAsset(
     );
   } catch (error) {
     if (error instanceof PaperAssetRequestError && error.status === 404) {
-      if (diagnostic) throw error;
+      if (diagnostic || retired) throw error;
       return readableFile(
         assetsRoot,
         path.join(

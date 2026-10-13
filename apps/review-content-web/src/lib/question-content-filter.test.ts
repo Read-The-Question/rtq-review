@@ -37,6 +37,7 @@ function node(
     answer?: DisplayContentField;
     children?: readonly DisplayPaperNode[];
     question?: DisplayContentField;
+    retired?: boolean;
     working?: DisplayContentField;
   }> = {},
 ): DisplayPaperNode {
@@ -66,6 +67,17 @@ function node(
       question: { legacyComments: '' },
       'question-image': { legacyComments: '' },
     },
+    ...(options.retired
+      ? {
+          retiredPaperImages: [
+            {
+              image: {} as never,
+              reason: 'Archived original.',
+              scope: 'question' as const,
+            },
+          ],
+        }
+      : {}),
   };
 }
 
@@ -113,4 +125,25 @@ test('the all filter retains every question node', () => {
     questionTreeIds: ['parent'],
     visibleNodeIds: ['first-child', 'second-child', 'parent'],
   });
+});
+
+test('includes retired-only images only when the image view requests them', () => {
+  const retiredNode = node('retired-image', { retired: true });
+  const reviewPaper = paper(retiredNode);
+
+  assert.equal(nodeMatchesQuestionContentFilter(retiredNode, 'image'), false);
+  assert.equal(
+    nodeMatchesQuestionContentFilter(retiredNode, 'image', true),
+    true,
+  );
+  assert.deepEqual(
+    questionContentFilterMatches(reviewPaper, 'image', {
+      includeRetiredImages: true,
+    }),
+    {
+      directNodeIds: ['retired-image'],
+      questionTreeIds: ['retired-image'],
+      visibleNodeIds: ['retired-image'],
+    },
+  );
 });

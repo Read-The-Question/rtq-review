@@ -17,7 +17,7 @@ export type DisplayPaperImageTag = Readonly<{
 }>;
 
 export type DisplayPaperImageVariant = Readonly<{
-  provenance: 'debug' | 'manual' | 'prepared' | 'missing';
+  provenance: 'debug' | 'manual' | 'prepared' | 'retired' | 'missing';
   alt: string;
   altReview?: 'pending' | 'reviewed-decorative' | 'reviewed-informative';
   description: string;
@@ -41,8 +41,15 @@ export type DisplayPaperImage = Readonly<{
   displaySize: 'full' | 'lg' | 'md' | 'sm';
   indent: 'md' | 'none' | 'sm';
   referenceSrc: string;
+  retiredVariants?: readonly DisplayPaperImageVariant[];
   tags: readonly DisplayPaperImageTag[];
   variants: readonly DisplayPaperImageVariant[];
+}>;
+
+export type DisplayRetiredPaperImage = Readonly<{
+  image: DisplayPaperImage;
+  reason: string;
+  scope: 'answer' | 'question' | 'working';
 }>;
 
 export type DisplayWorkingSegment = Readonly<
@@ -93,6 +100,7 @@ export type DisplayPaperNode = Omit<ReviewPaperNode, 'children' | 'content'> &
       question: DisplayContentField;
       workings: readonly DisplayWorking[];
     }>;
+    retiredPaperImages?: readonly DisplayRetiredPaperImage[];
   }>;
 
 export type DisplayReviewPaper = Omit<ReviewPaper, 'sections'> &

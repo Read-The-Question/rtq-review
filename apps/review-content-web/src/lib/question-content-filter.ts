@@ -12,19 +12,26 @@ export type QuestionContentFilterMatches = Readonly<{
   visibleNodeIds: readonly string[];
 }>;
 
-function nodeFields(node: DisplayPaperNode): readonly DisplayContentField[] {
+function nodeFields(
+  node: DisplayPaperNode,
+  includeSolutions = true,
+): readonly DisplayContentField[] {
   return [
     node.content.question,
-    ...node.content.workings.flatMap((working) => [
-      working.working,
-      ...working.formulas,
-      ...working.tips,
-    ]),
-    ...node.content.answers.flatMap((answer) => [
-      answer.answer,
-      answer.key,
-      answer.option,
-    ]),
+    ...(includeSolutions
+      ? node.content.workings.flatMap((working) => [
+          working.working,
+          ...working.formulas,
+          ...working.tips,
+        ])
+      : []),
+    ...(includeSolutions
+      ? node.content.answers.flatMap((answer) => [
+          answer.answer,
+          answer.key,
+          answer.option,
+        ])
+      : []),
   ];
 }
 
@@ -43,19 +50,29 @@ export function nodeMatchesQuestionContentFilter(
   node: DisplayPaperNode,
   filter: QuestionContentFilter,
   includeRetiredImages = false,
+  includeSolutions = true,
 ): boolean {
   return (
     (filter === 'image' &&
       includeRetiredImages &&
-      Boolean(node.retiredPaperImages?.length)) ||
-    nodeFields(node).some((field) => fieldMatches(field, filter))
+      Boolean(
+        node.retiredPaperImages?.some(
+          (entry) => includeSolutions || entry.scope === 'question',
+        ),
+      )) ||
+    nodeFields(node, includeSolutions).some((field) =>
+      fieldMatches(field, filter),
+    )
   );
 }
 
 export function questionContentFilterMatches(
   paper: DisplayReviewPaper,
   filter: QuestionContentFilter,
-  options: Readonly<{ includeRetiredImages?: boolean }> = {},
+  options: Readonly<{
+    includeRetiredImages?: boolean;
+    includeSolutions?: boolean;
+  }> = {},
 ): QuestionContentFilterMatches {
   const directNodeIds: string[] = [];
   const questionTreeIds: string[] = [];
@@ -66,6 +83,7 @@ export function questionContentFilterMatches(
       node,
       filter,
       options.includeRetiredImages,
+      options.includeSolutions,
     );
     const descendant = node.children.map(visit).some(Boolean);
     if (direct) directNodeIds.push(node.id);

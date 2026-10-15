@@ -6,7 +6,12 @@ import type {
   DisplayPaperImage,
   DisplayPaperNode,
 } from './display-model.ts';
-import { visualOccurrencesForNode } from './image-view.ts';
+import {
+  imageComparisonVersionForProvenance,
+  parseImageComparisonVersions,
+  serializeImageComparisonVersions,
+  visualOccurrencesForNode,
+} from './image-view.ts';
 
 const image: DisplayPaperImage = {
   align: 'start',
@@ -18,6 +23,37 @@ const image: DisplayPaperImage = {
   tags: [],
   variants: [],
 };
+
+test('normalizes URL-backed image comparison versions', () => {
+  assert.deepEqual(parseImageComparisonVersions(null), [
+    'original',
+    'prepared',
+  ]);
+  assert.deepEqual(parseImageComparisonVersions('debug,original,unknown'), [
+    'original',
+    'debug',
+  ]);
+  assert.deepEqual(parseImageComparisonVersions('unknown'), [
+    'original',
+    'prepared',
+  ]);
+  assert.equal(
+    serializeImageComparisonVersions(['original', 'prepared']),
+    undefined,
+  );
+  assert.equal(
+    serializeImageComparisonVersions(['debug', 'original']),
+    'original,debug',
+  );
+});
+
+test('maps stored provenance to reviewer-facing versions', () => {
+  assert.equal(imageComparisonVersionForProvenance('manual'), 'original');
+  assert.equal(imageComparisonVersionForProvenance('retired'), 'original');
+  assert.equal(imageComparisonVersionForProvenance('prepared'), 'prepared');
+  assert.equal(imageComparisonVersionForProvenance('missing'), 'prepared');
+  assert.equal(imageComparisonVersionForProvenance('debug'), 'debug');
+});
 
 function field(
   scope: DisplayContentField['context']['scope'],
@@ -69,6 +105,11 @@ test('projects only PaperImage occurrences in reading order', () => {
         reason: 'Replaced by authored content.',
         scope: 'question',
       },
+      {
+        image: { ...image, referenceSrc: '/retired-working.png' },
+        reason: 'Replaced by authored working.',
+        scope: 'working',
+      },
     ],
   } as unknown as DisplayPaperNode;
 
@@ -99,10 +140,27 @@ test('projects only PaperImage occurrences in reading order', () => {
         referenceSrc: '/retired.png',
         scope: 'question',
       },
+      {
+        fieldLabel: 'Retired original',
+        referenceSrc: '/retired-working.png',
+        scope: 'working',
+      },
     ],
   );
   assert.equal(
-    visualOccurrencesForNode(node).at(-1)?.archiveReason,
+    visualOccurrencesForNode(node).at(-2)?.archiveReason,
     'Replaced by authored content.',
+  );
+  assert.deepEqual(
+    visualOccurrencesForNode(node, { includeSolutions: false }).map(
+      (occurrence) => ({
+        referenceSrc: occurrence.image.referenceSrc,
+        scope: occurrence.scope,
+      }),
+    ),
+    [
+      { referenceSrc: '/question.png', scope: 'question' },
+      { referenceSrc: '/retired.png', scope: 'question' },
+    ],
   );
 });

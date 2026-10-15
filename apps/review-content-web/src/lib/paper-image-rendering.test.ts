@@ -536,12 +536,76 @@ test('discovers retired manual artwork without adding it to normal rendering', (
       image: prepared.paperImages?.[0] as DisplayPaperImage,
       paperImageScale: 1,
       showImageTags: false,
+      visibleVersions: new Set(['original', 'prepared', 'debug'] as const),
     }),
   );
-  assert.match(comparison, /prepared · SVG/);
-  assert.match(comparison, /retired reference · PNG/);
+  assert.match(comparison, /Prepared · SVG/);
+  assert.match(comparison, /Retired original · PNG/);
   assert.match(comparison, /Prepared diagram/);
   assert.match(comparison, /Retired screenshot/);
+});
+
+test('filters comparison versions and puts the original above generated SVGs', () => {
+  const comparisonImage: DisplayPaperImage = {
+    align: 'start',
+    alt: 'Comparison',
+    description: '',
+    displaySize: 'sm',
+    indent: 'none',
+    referenceSrc: '/original.png',
+    tags: [],
+    variants: [
+      {
+        alt: 'Original scan',
+        description: '',
+        format: 'PNG',
+        provenance: 'manual',
+        src: '/original.png',
+      },
+      {
+        alt: 'Prepared diagram',
+        description: '',
+        format: 'SVG',
+        provenance: 'prepared',
+        src: '/prepared.svg',
+      },
+      {
+        alt: 'Debug diagram',
+        description: '',
+        format: 'SVG',
+        provenance: 'debug',
+        src: '/debug.svg',
+      },
+    ],
+  };
+  const all = renderToStaticMarkup(
+    createElement(PaperImageComparison, {
+      image: comparisonImage,
+      paperImageScale: 1,
+      showImageTags: false,
+      visibleVersions: new Set(['original', 'prepared', 'debug'] as const),
+    }),
+  );
+  assert.match(all, /data-layout="three"/);
+  assert.match(all, /data-version="original"/);
+  assert.match(all, /data-format="PNG"/);
+  assert.match(all, /data-format="SVG"/);
+  assert.match(all, /Original · PNG/);
+  assert.match(all, /Prepared · SVG/);
+  assert.match(all, /Debug · SVG/);
+
+  const generated = renderToStaticMarkup(
+    createElement(PaperImageComparison, {
+      image: comparisonImage,
+      paperImageScale: 1,
+      showImageTags: false,
+      visibleVersions: new Set(['prepared', 'debug'] as const),
+    }),
+  );
+  assert.match(generated, /data-layout="2"/);
+  assert.doesNotMatch(generated, /Original · PNG|original\.png/);
+  assert.match(generated, /Prepared · SVG/);
+  assert.match(generated, /Debug · SVG/);
 });
 
 test('maps a retired-only original back to its current question UUID', (t) => {

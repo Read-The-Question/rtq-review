@@ -23,6 +23,10 @@ import type {
   DisplayPaperImage,
   DisplayPaperImageVariant,
 } from '@/lib/display-model';
+import {
+  imageComparisonVersionForProvenance,
+  type ImageComparisonVersion,
+} from '@/lib/image-view';
 import type { PaperImageMode, PaperImageScale } from '@/lib/review-view-model';
 
 const TODO_IMAGE_SRC = '#rtq-todo-image';
@@ -97,7 +101,9 @@ function PaperImageVariant({
   return (
     <span
       className="rtq-paper-image-variant"
+      data-format={variant.format}
       data-provenance={variant.provenance}
+      data-version={imageComparisonVersionForProvenance(variant.provenance)}
     >
       {variant.svgCss ? <style>{variant.svgCss}</style> : null}
       {showFormat ? (
@@ -170,30 +176,46 @@ const comparisonVariantOrder: Readonly<
 const comparisonVariantLabels: Readonly<
   Record<DisplayPaperImageVariant['provenance'], string>
 > = {
-  manual: 'active reference',
-  retired: 'retired reference',
-  prepared: 'prepared',
-  debug: 'diagnostic',
-  missing: 'missing',
+  manual: 'Original',
+  retired: 'Retired original',
+  prepared: 'Prepared',
+  debug: 'Debug',
+  missing: 'Missing prepared image',
 };
 
 export function PaperImageComparison({
   image,
   paperImageScale,
   showImageTags,
+  visibleVersions,
 }: Readonly<{
   image: DisplayPaperImage;
   paperImageScale: PaperImageScale;
   showImageTags: boolean;
+  visibleVersions: ReadonlySet<ImageComparisonVersion>;
 }>) {
-  const variants = [
-    ...image.variants,
-    ...(image.retiredVariants ?? []),
-  ].toSorted(
-    (left, right) =>
-      comparisonVariantOrder[left.provenance] -
-      comparisonVariantOrder[right.provenance],
-  );
+  const variants = [...image.variants, ...(image.retiredVariants ?? [])]
+    .filter((variant) =>
+      visibleVersions.has(
+        imageComparisonVersionForProvenance(variant.provenance),
+      ),
+    )
+    .toSorted(
+      (left, right) =>
+        comparisonVariantOrder[left.provenance] -
+        comparisonVariantOrder[right.provenance],
+    );
+  const versionCount = new Set(
+    variants.map((variant) =>
+      imageComparisonVersionForProvenance(variant.provenance),
+    ),
+  ).size;
+  const threeVersionLayout =
+    versionCount === 3 &&
+    variants.some(
+      (variant) =>
+        imageComparisonVersionForProvenance(variant.provenance) === 'original',
+    );
 
   return (
     <div
@@ -202,17 +224,26 @@ export function PaperImageComparison({
       data-size={image.displaySize}
     >
       {showImageTags ? <PaperImageTags image={image} /> : null}
-      <div className="visual-paper-image-variants">
-        {variants.map((variant) => (
-          <PaperImageVariant
-            align={image.align}
-            key={variant.src}
-            paperImageScale={paperImageScale}
-            provenanceLabel={comparisonVariantLabels[variant.provenance]}
-            showFormat
-            variant={variant}
-          />
-        ))}
+      <div
+        className="visual-paper-image-variants"
+        data-layout={threeVersionLayout ? 'three' : versionCount}
+      >
+        {variants.length ? (
+          variants.map((variant) => (
+            <PaperImageVariant
+              align={image.align}
+              key={variant.src}
+              paperImageScale={paperImageScale}
+              provenanceLabel={comparisonVariantLabels[variant.provenance]}
+              showFormat
+              variant={variant}
+            />
+          ))
+        ) : (
+          <p className="visual-paper-image-empty">
+            This image has none of the selected versions.
+          </p>
+        )}
       </div>
     </div>
   );

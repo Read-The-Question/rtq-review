@@ -38,6 +38,7 @@ function node(
     children?: readonly DisplayPaperNode[];
     question?: DisplayContentField;
     retired?: boolean;
+    retiredScope?: 'answer' | 'question' | 'working';
     working?: DisplayContentField;
   }> = {},
 ): DisplayPaperNode {
@@ -73,7 +74,7 @@ function node(
             {
               image: {} as never,
               reason: 'Archived original.',
-              scope: 'question' as const,
+              scope: options.retiredScope ?? ('question' as const),
             },
           ],
         }
@@ -144,6 +145,48 @@ test('includes retired-only images only when the image view requests them', () =
       directNodeIds: ['retired-image'],
       questionTreeIds: ['retired-image'],
       visibleNodeIds: ['retired-image'],
+    },
+  );
+});
+
+test('can restrict image matches to question-scope images', () => {
+  const questionImage = node('question-image', {
+    question: field({ image: true }),
+  });
+  const workingImage = node('working-image', {
+    working: field({ image: true }),
+  });
+  const answerImage = node('answer-image', {
+    answer: field({ image: true }),
+  });
+  const retiredQuestionImage = node('retired-question-image', {
+    retired: true,
+  });
+  const retiredWorkingImage = node('retired-working-image', {
+    retired: true,
+    retiredScope: 'working',
+  });
+  const reviewPaper = paper(
+    node('parent', {
+      children: [
+        questionImage,
+        workingImage,
+        answerImage,
+        retiredQuestionImage,
+        retiredWorkingImage,
+      ],
+    }),
+  );
+
+  assert.deepEqual(
+    questionContentFilterMatches(reviewPaper, 'image', {
+      includeRetiredImages: true,
+      includeSolutions: false,
+    }),
+    {
+      directNodeIds: ['question-image', 'retired-question-image'],
+      questionTreeIds: ['parent'],
+      visibleNodeIds: ['question-image', 'retired-question-image', 'parent'],
     },
   );
 });

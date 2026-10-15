@@ -21,6 +21,11 @@
   --navy: #344054;
   --gold: #8a6116;
   --violet: #694f7c;
+  --image-original: #155b8f;
+  --image-prepared: #16724b;
+  --image-debug: #9a4f12;
+  --image-retired: #7a5711;
+  --image-missing: #9b2c25;
   --rtq-maths-working-carry: #5f646a;
   --rtq-maths-working-borrow: #006aa5;
   --rtq-maths-working-step: #b62877;
@@ -75,6 +80,11 @@
   --navy: #b9c6d4;
   --gold: #e1b65e;
   --violet: #d0a8e3;
+  --image-original: #227bb5;
+  --image-prepared: #237d57;
+  --image-debug: #ad5f20;
+  --image-retired: #936d1b;
+  --image-missing: #b33a32;
   --rtq-maths-working-carry: #8e9399;
   --rtq-maths-working-borrow: #55aee8;
   --rtq-maths-working-step: #ee76af;
@@ -127,6 +137,11 @@
     --navy: #b9c6d4;
     --gold: #e1b65e;
     --violet: #d0a8e3;
+    --image-original: #227bb5;
+    --image-prepared: #237d57;
+    --image-debug: #ad5f20;
+    --image-retired: #936d1b;
+    --image-missing: #b33a32;
     --rtq-maths-working-carry: #8e9399;
     --rtq-maths-working-borrow: #55aee8;
     --rtq-maths-working-step: #ee76af;
@@ -2057,6 +2072,67 @@ a.paper-row:hover {
   outline-offset: -3px;
 }
 
+.image-version-switch {
+  align-items: stretch;
+  background: var(--paper-bright);
+  border: 1px solid var(--rule-strong);
+  display: flex;
+  min-height: 3rem;
+}
+
+.image-version-switch > span {
+  align-items: center;
+  color: var(--muted);
+  display: flex;
+  font-size: 0.875rem;
+  font-weight: 850;
+  letter-spacing: 0.08em;
+  padding: 0.55rem 0.65rem;
+  text-transform: uppercase;
+}
+
+.image-version-switch button {
+  --version-colour: var(--ink);
+
+  background: transparent;
+  border: 0;
+  border-left: 1px solid var(--rule);
+  color: var(--muted);
+  cursor: pointer;
+  font-size: 0.875rem;
+  font-weight: 850;
+  letter-spacing: 0.06em;
+  padding: 0.55rem 0.7rem;
+  text-transform: uppercase;
+}
+
+.image-version-switch button[data-version='original'] {
+  --version-colour: var(--image-original);
+}
+
+.image-version-switch button[data-version='prepared'] {
+  --version-colour: var(--image-prepared);
+}
+
+.image-version-switch button[data-version='debug'] {
+  --version-colour: var(--image-debug);
+}
+
+.image-version-switch button[aria-pressed='true'] {
+  background: var(--version-colour);
+  color: #fff;
+}
+
+.image-version-switch button:focus-visible {
+  outline: 2px solid var(--version-colour);
+  outline-offset: -3px;
+}
+
+.image-version-switch button:disabled {
+  cursor: default;
+  opacity: 0.78;
+}
+
 .toolbar-raw-toggle {
   background: var(--paper-bright);
   border: 1px solid var(--rule-strong);
@@ -2893,26 +2969,53 @@ a.paper-row:hover {
 .visual-paper-image-variants {
   display: grid;
   gap: 0.75rem;
-  grid-auto-columns: minmax(18rem, 1fr);
-  grid-auto-flow: column;
-  overflow-x: auto;
-  overscroll-behavior-x: contain;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   padding-bottom: 0.25rem;
 }
 
+.visual-paper-image-variants[data-layout='1'] {
+  grid-template-columns: minmax(0, 1fr);
+}
+
+.visual-paper-image-variants[data-layout='three']
+  > .rtq-paper-image-variant[data-version='original'] {
+  grid-column: 1 / -1;
+}
+
 .visual-paper-image .rtq-paper-image-variant {
+  --version-colour: var(--rule-strong);
+
   background: var(--paper-bright);
-  border: 1px solid var(--rule-strong);
-  box-shadow: inset 0 0 0 0.3rem var(--paper-deep);
+  border: 3px solid var(--version-colour);
   display: grid;
   grid-template-rows: auto minmax(12rem, 1fr);
   min-width: 0;
   padding: 0.65rem;
 }
 
+.visual-paper-image .rtq-paper-image-variant[data-provenance='manual'] {
+  --version-colour: var(--image-original);
+}
+
+.visual-paper-image .rtq-paper-image-variant[data-provenance='prepared'] {
+  --version-colour: var(--image-prepared);
+}
+
+.visual-paper-image .rtq-paper-image-variant[data-provenance='debug'] {
+  --version-colour: var(--image-debug);
+}
+
+.visual-paper-image .rtq-paper-image-variant[data-provenance='retired'] {
+  --version-colour: var(--image-retired);
+}
+
+.visual-paper-image .rtq-paper-image-variant[data-provenance='missing'] {
+  --version-colour: var(--image-missing);
+}
+
 .visual-paper-image .rtq-paper-image-format {
-  background: var(--ink);
-  color: var(--paper-bright);
+  background: var(--version-colour);
+  color: #fff;
   display: block;
   font-family: 'SFMono-Regular', Consolas, monospace;
   font-size: 0.875rem;
@@ -2922,14 +3025,6 @@ a.paper-row:hover {
   margin: -0.65rem 0 0.7rem -0.65rem;
   padding: 0.3rem 0.5rem;
   text-transform: uppercase;
-}
-
-.visual-paper-image .rtq-paper-image-variant[data-provenance='retired'] {
-  border-color: var(--gold);
-}
-
-.visual-paper-image .rtq-paper-image-variant[data-provenance='debug'] {
-  border-color: var(--violet);
 }
 
 .visual-paper-image .rtq-paper-image-variant > img,
@@ -2948,6 +3043,40 @@ a.paper-row:hover {
   height: auto;
   max-width: 100%;
   object-fit: contain;
+}
+
+/* Comparison cards preserve the authored raster scale; SVGs use natural sizing. */
+.visual-paper-image[data-size='sm'] {
+  --comparison-raster-max-width: 16rem;
+}
+
+.visual-paper-image[data-size='md'] {
+  --comparison-raster-max-width: 20rem;
+}
+
+.visual-paper-image[data-size='lg'] {
+  --comparison-raster-max-width: 36rem;
+}
+
+.visual-paper-image[data-size='full'] {
+  --comparison-raster-max-width: 100%;
+}
+
+.visual-paper-image .rtq-paper-image-variant:not([data-format='SVG']) > img,
+.visual-paper-image
+  .rtq-paper-image-variant:not([data-format='SVG'])
+  > .paper-raster-surface {
+  max-width: var(--comparison-raster-max-width);
+  width: 100%;
+}
+
+.visual-paper-image-empty {
+  border: 1px dashed var(--rule-strong);
+  color: var(--muted);
+  grid-column: 1 / -1;
+  margin: 0;
+  padding: 1.25rem;
+  text-align: center;
 }
 
 .visual-question-children {
@@ -5228,6 +5357,7 @@ a.paper-row:hover {
   }
 
   .surface-view-switch,
+  .image-version-switch,
   .toolbar-raw-toggle,
   .review-view-menu {
     flex: none;
@@ -5284,7 +5414,12 @@ a.paper-row:hover {
   }
 
   .visual-paper-image-variants {
-    grid-auto-columns: minmax(15rem, 82vw);
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .visual-paper-image-variants[data-layout='three']
+    > .rtq-paper-image-variant[data-version='original'] {
+    grid-column: auto;
   }
 
   .question-identifiers {

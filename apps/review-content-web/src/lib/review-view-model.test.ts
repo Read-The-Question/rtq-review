@@ -27,30 +27,30 @@ import {
 } from './review-view-model.ts';
 
 test('display preference storage is versioned for status chrome controls', () => {
-  assert.equal(REVIEW_PREFERENCES_KEY, 'rtq.review-content.preferences.v11');
+  assert.equal(REVIEW_PREFERENCES_KEY, 'rtq.review-content.preferences.v12');
   assert.equal(
     PREVIOUS_REVIEW_PREFERENCES_KEY,
-    'rtq.review-content.preferences.v10',
+    'rtq.review-content.preferences.v11',
   );
   assert.equal(
     LEGACY_REVIEW_PREFERENCES_KEY,
-    'rtq.review-content.preferences.v9',
+    'rtq.review-content.preferences.v10',
   );
   assert.equal(
     EARLIER_REVIEW_PREFERENCES_KEY,
-    'rtq.review-content.preferences.v8',
+    'rtq.review-content.preferences.v9',
   );
   assert.equal(
     INITIAL_REVIEW_PREFERENCES_KEY,
-    'rtq.review-content.preferences.v7',
+    'rtq.review-content.preferences.v8',
   );
   assert.equal(
     OLDEST_REVIEW_PREFERENCES_KEY,
-    'rtq.review-content.preferences.v6',
+    'rtq.review-content.preferences.v7',
   );
   assert.equal(
     EARLIEST_REVIEW_PREFERENCES_KEY,
-    'rtq.review-content.preferences.v5',
+    'rtq.review-content.preferences.v6',
   );
 });
 
@@ -140,6 +140,14 @@ test('preferences survive partial and malformed local values', () => {
     parseReviewPreferences('{"questionContentFilter":"unsupported"}')
       .questionContentFilter,
     'all',
+  );
+  assert.equal(
+    parseReviewPreferences('{"surfaceView":"images"}').surfaceView,
+    'images',
+  );
+  assert.equal(
+    parseReviewPreferences('{"surfaceView":"unsupported"}').surfaceView,
+    'content',
   );
   assert.equal(
     parseReviewPreferences(

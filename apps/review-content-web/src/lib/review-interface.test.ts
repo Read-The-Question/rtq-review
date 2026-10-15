@@ -609,13 +609,11 @@ test('view options support minimal metadata and centered review panel modes', as
     /<option value="prepared">Prepared preferred<\/option>/,
   );
   assert.match(component, /<span>SVG image size<\/span>/);
-  assert.match(component, /value=\{preferences\.paperImageScale\}/);
+  assert.match(component, /imageView[\s\S]*imageComparisonScale/);
   assert.match(component, /<option value="1">Original \(1×\)<\/option>/);
   assert.match(component, /<option value="2">Enlarged \(2×\)<\/option>/);
-  assert.match(
-    component,
-    /updatePreference\([\s\S]*'paperImageScale',[\s\S]*Number\(event\.target\.value\)/,
-  );
+  assert.match(component, /setImageComparisonScale\(scale\)/);
+  assert.match(component, /updatePreference\('paperImageScale', scale\)/);
   assert.match(component, /value=\{displayPreferences\.reviewPanelMode\}/);
   assert.match(component, /<option value="content">Content only<\/option>/);
   assert.match(component, /<option value="image">Image only<\/option>/);
@@ -658,10 +656,15 @@ test('the URL-backed image view projects PaperImage occurrences without question
     fs.readFile(new URL('./image-view.ts', import.meta.url), 'utf8'),
   ]);
 
-  assert.match(component, /searchParams\.get\('view'\) === 'images'/);
+  assert.match(component, /preferences\.surfaceView === 'images'/);
   assert.match(component, /function setSurfaceView/);
+  assert.match(component, /updatePreference\('surfaceView', view\)/);
   assert.match(component, /current\.set\('view', 'images'\)/);
   assert.match(component, /aria-label="Review presentation"/);
+  assert.match(component, /aria-label="Visible image versions"/);
+  assert.match(component, /IMAGE_COMPARISON_VERSIONS\.map/);
+  assert.match(component, /toggleImageComparisonVersion/);
+  assert.match(component, /searchParams\.get\('image-scale'\) === '2'/);
   assert.match(component, /<ImageQuestionNode/);
   assert.match(component, /<PaperImageComparison/);
   assert.match(
@@ -671,16 +674,42 @@ test('the URL-backed image view projects PaperImage occurrences without question
   assert.match(component, /questionContentFilter: 'image'/);
   assert.match(component, /reviewPanelMode: 'image'/);
   assert.match(imageView, /visualOccurrencesForNode/);
+  assert.match(component, /includeSolutions: preferences\.showSolutions/);
+  assert.match(
+    component,
+    /includeSolutions: !imageView \|\| displayPreferences\.showSolutions/,
+  );
+  assert.match(imageView, /DEFAULT_IMAGE_COMPARISON_VERSIONS/);
+  assert.match(imageView, /parseImageComparisonVersions/);
   assert.match(imageView, /field\.paperImages \?\? \[\]/);
   assert.doesNotMatch(imageView, /LongDivision|rendered|\.raw/);
   assert.match(markdown, /image\.retiredVariants \?\? \[\]/);
   assert.match(markdown, /comparisonVariantOrder/);
+  assert.match(markdown, /visibleVersions\.has/);
   assert.match(css, /\.visual-paper-image-variants\s*{/);
-  assert.match(css, /grid-auto-flow:\s*column/);
+  assert.match(css, /grid-template-columns:\s*repeat\(2, minmax\(0, 1fr\)\)/);
+  assert.match(
+    css,
+    /\.visual-paper-image-variants\[data-layout='three'\][\s\S]*data-version='original'/,
+  );
+  assert.match(css, /\.image-version-switch\s*{/);
+  assert.match(
+    css,
+    /\.visual-paper-image\[data-size='sm'\]\s*{[^}]*--comparison-raster-max-width:\s*16rem/s,
+  );
+  assert.match(
+    css,
+    /\.visual-paper-image\[data-size='md'\]\s*{[^}]*--comparison-raster-max-width:\s*20rem/s,
+  );
+  assert.match(
+    css,
+    /\.visual-paper-image\[data-size='lg'\]\s*{[^}]*--comparison-raster-max-width:\s*36rem/s,
+  );
+  assert.match(markdown, /data-format=\{variant\.format\}/);
   assert.match(css, /\.visual-question-card\s*{/);
   assert.match(
     css,
-    /\.visual-paper-image \.rtq-paper-image-variant\s*{[\s\S]*?background:\s*var\(--paper-bright\);[\s\S]*?border:\s*1px solid var\(--rule-strong\);/,
+    /\.visual-paper-image \.rtq-paper-image-variant\s*{[\s\S]*?background:\s*var\(--paper-bright\);[\s\S]*?border:\s*3px solid var\(--version-colour\);/,
   );
 });
 

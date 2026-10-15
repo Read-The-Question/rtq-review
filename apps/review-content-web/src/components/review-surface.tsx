@@ -45,7 +45,14 @@ import type {
   DisplayReviewPaper,
   DisplayWorkingSegment,
 } from '@/lib/display-model';
-import { visualOccurrencesForNode } from '@/lib/image-view';
+import {
+  IMAGE_COMPARISON_VERSION_LABELS,
+  IMAGE_COMPARISON_VERSIONS,
+  parseImageComparisonVersions,
+  serializeImageComparisonVersions,
+  visualOccurrencesForNode,
+  type ImageComparisonVersion,
+} from '@/lib/image-view';
 import type { PaperPdf, PaperPdfOption } from '@/lib/paper-pdf';
 import {
   DEFAULT_REVIEW_PREFERENCES,
@@ -77,6 +84,7 @@ import {
   type QuestionContentFilter,
   type ReviewPanelMode,
   type ReviewPreferences,
+  type ReviewSurfaceView,
 } from '@/lib/review-view-model';
 import { questionContentFilterMatches } from '@/lib/question-content-filter';
 import {
@@ -1469,23 +1477,29 @@ function QuestionNode({
 }
 
 function ImageQuestionNode({
+  imageComparisonScale,
   matchingNodeIds,
   node,
   preferences,
   reviewRuntime,
   topLevelQuestion,
   trail = [],
+  visibleImageVersions,
   visibleNodeIds,
 }: {
+  imageComparisonScale: PaperImageScale;
   matchingNodeIds: ReadonlySet<string>;
   node: DisplayPaperNode;
   preferences: ReviewPreferences;
   reviewRuntime: ReviewRuntimeState;
   topLevelQuestion: DisplayPaperNode;
   trail?: readonly string[];
+  visibleImageVersions: ReadonlySet<ImageComparisonVersion>;
   visibleNodeIds?: ReadonlySet<string>;
 }) {
-  const occurrences = visualOccurrencesForNode(node);
+  const occurrences = visualOccurrencesForNode(node, {
+    includeSolutions: preferences.showSolutions,
+  });
   const visibleChildren = visibleNodeIds
     ? node.children.filter((child) => visibleNodeIds.has(child.id))
     : node.children;
@@ -1554,8 +1568,9 @@ function ImageQuestionNode({
                 ) : null}
                 <PaperImageComparison
                   image={occurrence.image}
-                  paperImageScale={preferences.paperImageScale}
+                  paperImageScale={imageComparisonScale}
                   showImageTags={preferences.showImageTags}
+                  visibleVersions={visibleImageVersions}
                 />
               </section>
             ))}
@@ -1594,12 +1609,14 @@ function ImageQuestionNode({
           {visibleChildren.map((child) => (
             <ImageQuestionNode
               key={child.id}
+              imageComparisonScale={imageComparisonScale}
               matchingNodeIds={matchingNodeIds}
               node={child}
               preferences={preferences}
               reviewRuntime={reviewRuntime}
               topLevelQuestion={topLevelQuestion}
               trail={nextTrail}
+              visibleImageVersions={visibleImageVersions}
               visibleNodeIds={visibleNodeIds}
             />
           ))}
@@ -2360,7 +2377,7 @@ function reviewOutlineNode({
   }
   if (showImageMarkers && imageCount > 0) {
     badges.push({
-      label: `${imageCount} ${imageCount === 1 ? 'paper image' : 'paper images'} in question, working, or answer`,
+      label: `${imageCount} ${imageCount === 1 ? 'paper image' : 'paper images'} visible for this view`,
       text: 'IMG',
       tone: 'accent',
     });
@@ -2428,6 +2445,7 @@ function reviewOutlineSections({
 
 function paperImageCountsByNode(
   paper: DisplayReviewPaper,
+  includeSolutions = true,
 ): ReadonlyMap<string, number> {
   const counts = new Map<string, number>();
 
@@ -2436,28 +2454,30 @@ function paperImageCountsByNode(
       field.paperImages?.length ?? 0;
     const count =
       countImages(node.content.question) +
-      node.content.workings.reduce(
-        (total, working) =>
-          total +
-          countImages(working.working) +
-          working.formulas.reduce(
-            (fieldTotal, field) => fieldTotal + countImages(field),
+      (includeSolutions
+        ? node.content.workings.reduce(
+            (total, working) =>
+              total +
+              countImages(working.working) +
+              working.formulas.reduce(
+                (fieldTotal, field) => fieldTotal + countImages(field),
+                0,
+              ) +
+              working.tips.reduce(
+                (fieldTotal, field) => fieldTotal + countImages(field),
+                0,
+              ),
             0,
           ) +
-          working.tips.reduce(
-            (fieldTotal, field) => fieldTotal + countImages(field),
+          node.content.answers.reduce(
+            (total, answer) =>
+              total +
+              countImages(answer.answer) +
+              countImages(answer.key) +
+              countImages(answer.option),
             0,
-          ),
-        0,
-      ) +
-      node.content.answers.reduce(
-        (total, answer) =>
-          total +
-          countImages(answer.answer) +
-          countImages(answer.key) +
-          countImages(answer.option),
-        0,
-      );
+          )
+        : 0);
     if (count > 0) counts.set(node.id, count);
     node.children.forEach(visit);
   }
@@ -2772,7 +2792,21 @@ export function ReviewSurface({
     () => parseReviewFilterSearchParams(searchParams.toString()),
     [searchParams],
   );
-  const imageView = searchParams.get('view') === 'images';
+  const requestedSurfaceView = searchParams.get('view');
+  const imageView =
+    requestedSurfaceView === 'images' ||
+    (requestedSurfaceView !== 'content' &&
+      preferences.surfaceView === 'images');
+  const visibleImageVersionList = useMemo(
+    () => parseImageComparisonVersions(searchParams.get('image-versions')),
+    [searchParams],
+  );
+  const visibleImageVersions = useMemo(
+    () => new Set(visibleImageVersionList),
+    [visibleImageVersionList],
+  );
+  const imageComparisonScale: PaperImageScale =
+    searchParams.get('image-scale') === '2' ? 2 : 1;
   const displayPreferences = useMemo<ReviewPreferences>(
     () =>
       imageView
@@ -2864,9 +2898,17 @@ export function ReviewSurface({
       questionContentFilterMatches(
         paper,
         displayPreferences.questionContentFilter,
-        { includeRetiredImages: imageView },
+        {
+          includeRetiredImages: imageView,
+          includeSolutions: !imageView || displayPreferences.showSolutions,
+        },
       ),
-    [displayPreferences.questionContentFilter, imageView, paper],
+    [
+      displayPreferences.questionContentFilter,
+      displayPreferences.showSolutions,
+      imageView,
+      paper,
+    ],
   );
   const visibleNodeIds = useMemo(
     () =>
@@ -3030,8 +3072,12 @@ export function ReviewSurface({
     [result.contentMatchingNodeIds],
   );
   const imageCountsByNodeId = useMemo(
-    () => paperImageCountsByNode(paper),
-    [paper],
+    () =>
+      paperImageCountsByNode(
+        paper,
+        !imageView || displayPreferences.showSolutions,
+      ),
+    [displayPreferences.showSolutions, imageView, paper],
   );
   const outlineSections = useMemo(
     () =>
@@ -3549,10 +3595,31 @@ export function ReviewSurface({
     );
   }
 
-  function setSurfaceView(view: 'content' | 'images') {
+  function setSurfaceView(view: ReviewSurfaceView) {
+    updatePreference('surfaceView', view);
     const current = new URLSearchParams(searchParams.toString());
     if (view === 'images') current.set('view', 'images');
     else current.delete('view');
+    replaceSearchParams(current);
+  }
+
+  function toggleImageComparisonVersion(version: ImageComparisonVersion) {
+    const selected = visibleImageVersions.has(version);
+    if (selected && visibleImageVersionList.length === 1) return;
+    const nextVersions = selected
+      ? visibleImageVersionList.filter((candidate) => candidate !== version)
+      : [...visibleImageVersionList, version];
+    const value = serializeImageComparisonVersions(nextVersions);
+    const current = new URLSearchParams(searchParams.toString());
+    if (value) current.set('image-versions', value);
+    else current.delete('image-versions');
+    replaceSearchParams(current);
+  }
+
+  function setImageComparisonScale(scale: PaperImageScale) {
+    const current = new URLSearchParams(searchParams.toString());
+    if (scale === 2) current.set('image-scale', '2');
+    else current.delete('image-scale');
     replaceSearchParams(current);
   }
 
@@ -4220,6 +4287,32 @@ export function ReviewSurface({
                 Images
               </button>
             </div>
+            {imageView ? (
+              <div
+                aria-label="Visible image versions"
+                className="image-version-switch"
+                role="group"
+              >
+                <span>Versions</span>
+                {IMAGE_COMPARISON_VERSIONS.map((version) => {
+                  const selected = visibleImageVersions.has(version);
+                  return (
+                    <button
+                      aria-pressed={selected}
+                      data-version={version}
+                      disabled={
+                        selected && visibleImageVersionList.length === 1
+                      }
+                      key={version}
+                      onClick={() => toggleImageComparisonVersion(version)}
+                      type="button"
+                    >
+                      {IMAGE_COMPARISON_VERSION_LABELS[version]}
+                    </button>
+                  );
+                })}
+              </div>
+            ) : null}
             <PreferenceToggle
               checked={preferences.showRaw}
               className="toolbar-raw-toggle"
@@ -4326,13 +4419,18 @@ export function ReviewSurface({
                 <label className="view-option-select">
                   <span>SVG image size</span>
                   <select
-                    onChange={(event) =>
-                      updatePreference(
-                        'paperImageScale',
-                        Number(event.target.value) as PaperImageScale,
-                      )
+                    onChange={(event) => {
+                      const scale = Number(
+                        event.target.value,
+                      ) as PaperImageScale;
+                      if (imageView) setImageComparisonScale(scale);
+                      else updatePreference('paperImageScale', scale);
+                    }}
+                    value={
+                      imageView
+                        ? imageComparisonScale
+                        : preferences.paperImageScale
                     }
-                    value={preferences.paperImageScale}
                   >
                     <option value="1">Original (1×)</option>
                     <option value="2">Enlarged (2×)</option>
@@ -4515,11 +4613,13 @@ export function ReviewSurface({
                     return displayQuestion && imageView ? (
                       <ImageQuestionNode
                         key={displayQuestion.id}
+                        imageComparisonScale={imageComparisonScale}
                         matchingNodeIds={matchingNodeIds}
                         node={displayQuestion}
                         preferences={displayPreferences}
                         reviewRuntime={reviewRuntime}
                         topLevelQuestion={displayQuestion}
+                        visibleImageVersions={visibleImageVersions}
                         visibleNodeIds={visibleNodeIds}
                       />
                     ) : displayQuestion ? (

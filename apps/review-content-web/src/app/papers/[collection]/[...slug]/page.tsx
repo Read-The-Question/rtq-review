@@ -8,7 +8,10 @@ import { prepareReviewPaperForDisplay } from '@/lib/prepare-paper';
 import { reviewContentReviewer } from '@/lib/review-config';
 import { loadReviewCommentsForPaper } from '@/lib/review-comments';
 import { loadReviewOutcomesForPaper } from '@/lib/review-outcomes';
-import { resolvePaperPdf } from '@/lib/paper-pdf-reader';
+import {
+  resolveDerivedPaperPdfOptions,
+  resolvePaperPdf,
+} from '@/lib/paper-pdf-reader';
 
 export const dynamic = 'force-dynamic';
 export const runtime = 'nodejs';
@@ -34,10 +37,12 @@ export default async function PaperPage({
     throw error;
   }
 
+  const pdfPromise = resolvePaperPdf(paper.source);
+  const pdfsPromise = resolveDerivedPaperPdfOptions(paper);
   const displayPaper = prepareReviewPaperForDisplay(paper);
   const commentLoad = loadReviewCommentsForPaper(paper);
   const outcomeLoad = loadReviewOutcomesForPaper(paper);
-  const pdf = resolvePaperPdf(paper.source);
+  const [pdf, pdfs] = await Promise.all([pdfPromise, pdfsPromise]);
   return (
     <Suspense fallback={<div className="route-loading">Preparing review…</div>}>
       <ReviewSurface
@@ -45,7 +50,9 @@ export default async function PaperPage({
         key={`${paper.source.collection.id}:${paper.source.relativePath}:${paper.source.version}`}
         outcomeLoad={outcomeLoad}
         paper={displayPaper}
-        pdf={await pdf}
+        pdf={pdf}
+        pdfSessionKey={`${paper.source.collection.id}:${paper.source.relativePath}`}
+        pdfs={pdfs}
         reviewer={reviewContentReviewer}
       />
     </Suspense>

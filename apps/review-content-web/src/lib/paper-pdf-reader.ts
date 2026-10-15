@@ -1,13 +1,17 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 
-import type { PaperSource } from '@rtq/review-paper-model';
+import type {
+  PaperSource,
+  ReviewPaper,
+  ReviewPaperNode,
+} from '@rtq/review-paper-model';
 import {
   resolveRtqContentPaths,
   type ResolveRtqContentOptions,
 } from '@rtq/review-repository-paths';
 
-import type { PaperPdf } from './paper-pdf.ts';
+import type { PaperPdf, PaperPdfOption } from './paper-pdf.ts';
 
 const SAFE_PAPER_STEM = /^[A-Za-z0-9][A-Za-z0-9_-]*$/;
 
@@ -106,6 +110,48 @@ export async function resolvePaperPdfByStem(
     }
     throw error;
   }
+}
+
+function questionTreeSourceStems(node: ReviewPaperNode): readonly string[] {
+  const stems = new Set<string>();
+  const visit = (current: ReviewPaperNode) => {
+    if (current.originalSource?.paperStem) {
+      stems.add(current.originalSource.paperStem);
+    }
+    current.children.forEach(visit);
+  };
+  visit(node);
+  return [...stems];
+}
+
+export async function resolveDerivedPaperPdfOptions(
+  paper: ReviewPaper,
+  options: ResolveRtqContentOptions = {},
+): Promise<readonly PaperPdfOption[]> {
+  if (paper.source.collection.supportsOriginalPdf) return [];
+
+  const counts = new Map<string, number>();
+  for (const section of paper.sections) {
+    for (const question of section.questions) {
+      for (const stem of questionTreeSourceStems(question)) {
+        counts.set(stem, (counts.get(stem) ?? 0) + 1);
+      }
+    }
+  }
+  if (!counts.size) {
+    for (const stem of paper.source.provenance.sourcePaperStems) {
+      counts.set(stem, paper.source.questionCount);
+    }
+  }
+
+  return Promise.all(
+    [...counts].map(async ([stem, matchCount]): Promise<PaperPdfOption> => ({
+      key: stem,
+      label: stem,
+      matchCount,
+      pdf: await resolvePaperPdfByStem(stem, options),
+    })),
+  );
 }
 
 type ByteRange = Readonly<{ end: number; start: number }>;

@@ -3,11 +3,16 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import test from 'node:test';
 
-import { paperCollectionForId } from '@rtq/review-paper-model';
+import {
+  paperCollectionForId,
+  type ReviewPaper,
+  type ReviewPaperNode,
+} from '@rtq/review-paper-model';
 import { resolveRtqContentPaths } from '@rtq/review-repository-paths';
 
 import {
   createPaperPdfResponse,
+  resolveDerivedPaperPdfOptions,
   resolvePaperPdf,
   resolvePaperPdfByStem,
 } from './paper-pdf-reader.ts';
@@ -65,6 +70,60 @@ test('only complete-paper collections expose an original PDF', async () => {
     fileName: '../unsafe.pdf',
     state: 'unavailable',
   });
+});
+
+test('derived papers expose one PDF option per originating paper', async () => {
+  const stem = await activePaperStem();
+  const node = (
+    id: string,
+    paperStem: string,
+    children: readonly ReviewPaperNode[] = [],
+  ) =>
+    ({
+      children,
+      id,
+      originalSource: { paperStem, rawValue: `${paperStem}:1:1` },
+    }) as ReviewPaperNode;
+  const paper = {
+    sections: [
+      {
+        questions: [
+          node('first', stem, [node('nested', 'missing-derived-source')]),
+          node('second', stem),
+        ],
+      },
+    ],
+    source: {
+      collection: paperCollectionForId('focusCorpusQuestionReviewRagToml'),
+      provenance: {
+        kind: 'derived',
+        sourcePaperStems: [stem, 'missing-derived-source'],
+      },
+      questionCount: 2,
+    },
+  } as unknown as ReviewPaper;
+
+  assert.deepEqual(await resolveDerivedPaperPdfOptions(paper), [
+    {
+      key: stem,
+      label: stem,
+      matchCount: 2,
+      pdf: {
+        fileName: `${stem}.pdf`,
+        state: 'available',
+        url: `/api/papers/pdf/${stem}`,
+      },
+    },
+    {
+      key: 'missing-derived-source',
+      label: 'missing-derived-source',
+      matchCount: 1,
+      pdf: {
+        fileName: 'missing-derived-source.pdf',
+        state: 'unavailable',
+      },
+    },
+  ]);
 });
 
 test('serves canonical PDFs inline with byte-range and HEAD support', async () => {

@@ -26,5 +26,9 @@ test('content review composes the shared browser around its private review surfa
   assert.match(index, /Macros/);
   assert.match(searchRoute, /createPaperContentSearchResponse/);
   assert.match(paperPage, /<ReviewSurface/);
+  assert.match(paperPage, /resolveDerivedPaperPdfOptions\(paper\)/);
+  assert.match(paperPage, /Promise\.all\(\[pdfPromise, pdfsPromise\]\)/);
+  assert.match(paperPage, /pdfSessionKey=/);
+  assert.match(paperPage, /pdfs=\{pdfs\}/);
   assert.doesNotMatch(paperPage, /PaperBrowser/);
 });

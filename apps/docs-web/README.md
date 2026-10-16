@@ -72,6 +72,9 @@ changes; live updates apply to `next dev`, not `next start`.
 `source.config.ts` preserves raw HTML-like fragments as visible text before
 Fumadocs builds its table of contents. This allows existing Markdown
 placeholders such as `<tag>` to render without changing the source documents.
+Fenced `mermaid` blocks render as diagrams in the browser; the Mermaid runtime
+is loaded only on pages that contain a diagram. Invalid diagram syntax remains
+visible with its rendering error and original source.
 
 ## Checks
 

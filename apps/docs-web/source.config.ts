@@ -1,5 +1,7 @@
 import { defineConfig } from "fumadocs-mdx/config";
 
+import { rehypeMermaidBlocks } from "./src/lib/rehype-mermaid.ts";
+
 type ContentNode = {
   type: string;
   value?: string;
@@ -29,7 +31,15 @@ export default defineConfig({
   mdxOptions: {
     rehypeCodeOptions: {
       fallbackLanguage: "xml",
+      themes: {
+        dark: "github-dark",
+        light: "github-light",
+      },
     },
-    rehypePlugins: (plugins) => [preserveRawMarkup, ...plugins],
+    rehypePlugins: (plugins) => [
+      preserveRawMarkup,
+      rehypeMermaidBlocks,
+      ...plugins,
+    ],
   },
 });

@@ -86,15 +86,15 @@ export function TagEditorApp({
     ];
   }, [initialDocument.questionCount, initialDocument.title, pdf, pdfs]);
   const availablePdfOptions = useMemo(
-    () => pdfOptions.filter(option => option.pdf.state === 'available'),
+    () => pdfOptions.filter((option) => option.pdf.state === 'available'),
     [pdfOptions],
   );
   const availablePdfKeys = availablePdfOptions
-    .map(option => option.key)
+    .map((option) => option.key)
     .join('\u0000');
   const [selectedPdfKey, setSelectedPdfKey] = useState<string>();
   const selectedPdfOption =
-    availablePdfOptions.find(option => option.key === selectedPdfKey) ??
+    availablePdfOptions.find((option) => option.key === selectedPdfKey) ??
     availablePdfOptions[0];
   const isCorpus = document.corpus?.kind === 'search';
   const isReadOnly = isReadOnlyFolder(document.folderKey);
@@ -105,7 +105,7 @@ export function TagEditorApp({
   const latestDocumentRef = useRef(document);
 
   const updateDocument = useCallback((nextDocument: PaperDocument) => {
-    setDocument(currentDocument => {
+    setDocument((currentDocument) => {
       const resolvedDocument = currentDocument.corpus
         ? mergeTagCorpusSourceDocument(currentDocument, nextDocument)
         : nextDocument;
@@ -157,11 +157,11 @@ export function TagEditorApp({
         }
       }
 
-      setSelectedPdfKey(current => {
-        if (availablePdfOptions.some(option => option.key === current)) {
+      setSelectedPdfKey((current) => {
+        if (availablePdfOptions.some((option) => option.key === current)) {
           return current;
         }
-        if (availablePdfOptions.some(option => option.key === storedKey)) {
+        if (availablePdfOptions.some((option) => option.key === storedKey)) {
           return storedKey ?? availablePdfOptions[0]?.key;
         }
         return availablePdfOptions[0]?.key;
@@ -198,7 +198,7 @@ export function TagEditorApp({
 
   const selectPaperPdf = useCallback(
     (key: string) => {
-      if (!availablePdfOptions.some(option => option.key === key)) return;
+      if (!availablePdfOptions.some((option) => option.key === key)) return;
       setSelectedPdfKey(key);
       if (!pdfSessionKey) return;
       try {
@@ -269,7 +269,8 @@ export function TagEditorApp({
     <main
       className={
         searchPanel ? 'editor-shell editor-shell--with-search' : 'editor-shell'
-      }>
+      }
+    >
       <header className="editor-topbar">
         <div className="editor-topbar__left">
           <Link className="editor-back-link" href={browseHref}>
@@ -297,7 +298,8 @@ export function TagEditorApp({
             </Link>
           ) : null}
           <div
-            className={`status-chip status-chip--${isReadOnly ? 'idle' : saveState.tone}`}>
+            className={`status-chip status-chip--${isReadOnly ? 'idle' : saveState.tone}`}
+          >
             <Sparkles className="h-4 w-4" />
             {isReadOnly ? 'Read-only' : saveState.message}
           </div>
@@ -339,7 +341,8 @@ export function TagEditorApp({
         <div
           className="review-mode-tabs"
           role="tablist"
-          aria-label="Review mode">
+          aria-label="Review mode"
+        >
           <button
             aria-selected={mode === 'question'}
             className={
@@ -349,7 +352,8 @@ export function TagEditorApp({
             }
             onClick={() => setMode('question')}
             role="tab"
-            type="button">
+            type="button"
+          >
             <FileText aria-hidden="true" className="h-4 w-4" />
             Question tags
           </button>
@@ -362,7 +366,8 @@ export function TagEditorApp({
             }
             onClick={() => setMode('image')}
             role="tab"
-            type="button">
+            type="button"
+          >
             <ImageIcon aria-hidden="true" className="h-4 w-4" />
             Image tags
             <span>{document.imageOccurrences.length}</span>
@@ -396,12 +401,13 @@ export function TagEditorApp({
           <label className="image-version-control">
             <span>Image versions</span>
             <select
-              onChange={event =>
+              onChange={(event) =>
                 setPaperImageMode(event.target.value as PaperImageMode)
               }
-              value={paperImageMode}>
+              value={paperImageMode}
+            >
               <option value="all">All related assets</option>
-              <option value="prepared">Prepared preferred</option>
+              <option value="v1">V1 preferred</option>
             </select>
           </label>
           {availablePdfOptions.length ? (
@@ -410,8 +416,9 @@ export function TagEditorApp({
               className={
                 showPdf ? 'pdf-toggle pdf-toggle--active' : 'pdf-toggle'
               }
-              onClick={() => setShowPdf(current => !current)}
-              type="button">
+              onClick={() => setShowPdf((current) => !current)}
+              type="button"
+            >
               <PanelRight aria-hidden="true" className="h-4 w-4" />
               {showPdf
                 ? pdfOptions.length > 1
@@ -436,12 +443,13 @@ export function TagEditorApp({
           showPdf && selectedPdfOption?.pdf.state === 'available'
             ? 'tag-workspace-grid tag-workspace-grid--with-pdf'
             : 'tag-workspace-grid'
-        }>
+        }
+      >
         {mode === 'question' ? (
           <NodeDocument
             document={document}
             onDocumentChange={updateDocument}
-            onDocumentRefresh={source => refreshDocument({ source })}
+            onDocumentRefresh={(source) => refreshDocument({ source })}
             onSaveStateChange={setSaveState}
             paperImageMode={paperImageMode}
             readOnly={isReadOnly}
@@ -453,7 +461,7 @@ export function TagEditorApp({
             document={document}
             imageNodesOnly={imageNodesOnly}
             onDocumentChange={updateDocument}
-            onDocumentRefresh={source => refreshDocument({ source })}
+            onDocumentRefresh={(source) => refreshDocument({ source })}
             onSaveStateChange={setSaveState}
             paperImageMode={paperImageMode}
             readOnly={isReadOnly}

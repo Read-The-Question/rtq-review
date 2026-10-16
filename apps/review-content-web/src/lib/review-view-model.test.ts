@@ -27,30 +27,30 @@ import {
 } from './review-view-model.ts';
 
 test('display preference storage is versioned for status chrome controls', () => {
-  assert.equal(REVIEW_PREFERENCES_KEY, 'rtq.review-content.preferences.v12');
+  assert.equal(REVIEW_PREFERENCES_KEY, 'rtq.review-content.preferences.v13');
   assert.equal(
     PREVIOUS_REVIEW_PREFERENCES_KEY,
-    'rtq.review-content.preferences.v11',
+    'rtq.review-content.preferences.v12',
   );
   assert.equal(
     LEGACY_REVIEW_PREFERENCES_KEY,
-    'rtq.review-content.preferences.v10',
+    'rtq.review-content.preferences.v11',
   );
   assert.equal(
     EARLIER_REVIEW_PREFERENCES_KEY,
-    'rtq.review-content.preferences.v9',
+    'rtq.review-content.preferences.v10',
   );
   assert.equal(
     INITIAL_REVIEW_PREFERENCES_KEY,
-    'rtq.review-content.preferences.v8',
+    'rtq.review-content.preferences.v9',
   );
   assert.equal(
     OLDEST_REVIEW_PREFERENCES_KEY,
-    'rtq.review-content.preferences.v7',
+    'rtq.review-content.preferences.v8',
   );
   assert.equal(
     EARLIEST_REVIEW_PREFERENCES_KEY,
-    'rtq.review-content.preferences.v6',
+    'rtq.review-content.preferences.v7',
   );
 });
 
@@ -85,26 +85,21 @@ test('preferences survive partial and malformed local values', () => {
     parseReviewPreferences('{"showImageMarkers":false}').showImageMarkers,
     false,
   );
-  assert.equal(
-    parseReviewPreferences('{"paperImageMode":"svg"}').paperImageMode,
-    'prepared',
+  assert.deepEqual(
+    parseReviewPreferences(
+      '{"imageComparisonVersions":["debug","original","unknown"]}',
+    ).imageComparisonVersions,
+    ['original', 'debug'],
   );
-  assert.equal(
-    parseReviewPreferences('{"paperImageMode":"unsupported"}').paperImageMode,
-    'all',
+  assert.deepEqual(
+    parseReviewPreferences('{"imageComparisonVersions":[]}')
+      .imageComparisonVersions,
+    ['original', 'v1', 'v2'],
   );
-  assert.equal(
-    parseReviewPreferences('{"paperImageScale":1}').paperImageScale,
-    1,
-  );
-  assert.equal(
-    parseReviewPreferences('{"paperImageScale":2}').paperImageScale,
-    2,
-  );
-  assert.equal(
-    parseReviewPreferences('{"paperImageScale":1.5}').paperImageScale,
-    2,
-  );
+  assert.equal(parseReviewPreferences('{"imageScale":1}').imageScale, 1);
+  assert.equal(parseReviewPreferences('{"imageScale":2}').imageScale, 2);
+  assert.equal(parseReviewPreferences('{"imageScale":1.5}').imageScale, 1);
+  assert.equal(parseReviewPreferences('{"paperImageScale":2}').imageScale, 2);
   assert.equal(
     parseReviewPreferences('{"showQuestionStatusInfo":false}')
       .showQuestionStatusInfo,
@@ -148,13 +143,6 @@ test('preferences survive partial and malformed local values', () => {
   assert.equal(
     parseReviewPreferences('{"surfaceView":"unsupported"}').surfaceView,
     'content',
-  );
-  assert.equal(
-    parseReviewPreferences(
-      null,
-      '{"showQuestionStatusInfo":false,"showImageStatusInfo":false,"showImageTags":false,"showImageMarkers":false,"paperImageMode":"svg"}',
-    ).paperImageMode,
-    'prepared',
   );
   assert.equal(
     parseReviewPreferences(

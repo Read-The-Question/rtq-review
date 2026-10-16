@@ -71,20 +71,17 @@ test('image review composes the question document and shared tag controls', asyn
   assert.match(document, /Parent tag inheritance off/);
   assert.doesNotMatch(document, /QuestionGlance|ImageGlance/);
   assert.match(css, /@rtq\/review-paper-browser\/paper-outline\.css/);
-  assert.match(css, /\.paper-images--prepared/);
+  assert.match(css, /\.paper-images--v1/);
   assert.match(tagEditor, /PAPER_IMAGE_MODE_STORAGE_KEY/);
   assert.match(tagEditor, /IMAGE_NODES_ONLY_STORAGE_KEY/);
   assert.match(tagEditor, /Only questions with images/);
   assert.match(tagEditor, /imageNodesOnly=\{imageNodesOnly\}/);
   assert.match(tagEditor, /<option value="all">All related assets<\/option>/);
-  assert.match(
-    tagEditor,
-    /<option value="prepared">Prepared preferred<\/option>/,
-  );
+  assert.match(tagEditor, /<option value="v1">V1 preferred<\/option>/);
   assert.match(tagEditor, /paperImageMode=\{paperImageMode\}/);
   assert.match(
     css,
-    /\.paper-image-group\[data-has-prepared='false'\][\s\S]*\.paper-image-variant:not\(\[data-primary='true'\]\)/,
+    /\.paper-image-group\[data-has-v1='false'\][\s\S]*\.paper-image-variant:not\(\[data-primary='true'\]\)/,
   );
   assert.match(imageEditor, /<TagGroup/);
   assert.match(imageEditor, /<TagPicker/);

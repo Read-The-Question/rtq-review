@@ -400,8 +400,8 @@ function paperImageAssetRelativePath(
   const basename = `${compactAssetPrefix(context)}${scopeToken}-i${String(imageIndex).padStart(2, '0')}`;
   const locations = [
     {
-      provenance: 'prepared' as const,
-      stem: `${owner}/prepared/diagrams/${basename}`,
+      provenance: 'v1' as const,
+      stem: `${owner}/generated/v1/diagrams/${basename}`,
     },
     { provenance: 'manual' as const, stem: `${owner}/manual/${basename}` },
   ];
@@ -492,16 +492,18 @@ function paperImageMetadata(
   scopeIndex: number | undefined,
   imageIndex: number,
   extension: (typeof PAPER_IMAGE_EXTENSIONS)[number] | undefined,
-  provenance: 'manual' | 'prepared',
+  provenance: 'manual' | 'v1',
 ): PaperImageMetadata {
-  const ownerSegments =
+  const ownerSegments = [
     assetScope === 'question'
-      ? ['questions', provenance === 'prepared' ? 'prepared' : 'manual']
-      : [
-          assetScope === 'working' ? 'workings' : 'answers',
-          provenance === 'prepared' ? 'prepared' : 'manual',
-        ];
-  if (provenance === 'prepared') ownerSegments.push('diagrams');
+      ? 'questions'
+      : assetScope === 'working'
+        ? 'workings'
+        : 'answers',
+    ...(provenance === 'v1'
+      ? ['generated', 'v1', 'diagrams']
+      : ['manual']),
+  ];
   const scopeToken =
     assetScope === 'question'
       ? ''
@@ -569,14 +571,14 @@ function paperImageMetadata(
       `Inline PaperImage SVG is not supported by this review renderer: ${metadataPath}`,
     );
   if (
-    provenance === 'prepared' &&
+    provenance === 'v1' &&
     (typeof metadata.alt !== 'string' ||
       !metadata.alt.trim() ||
       typeof metadata.description !== 'string' ||
       !metadata.description.trim())
   )
     throw new Error(
-      `Prepared PaperImage requires informative alt and description: ${metadataPath}`,
+      `Generated V1 PaperImage requires informative alt and description: ${metadataPath}`,
     );
   return metadata as PaperImageMetadata;
 }

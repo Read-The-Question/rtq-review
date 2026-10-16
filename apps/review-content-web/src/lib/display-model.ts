@@ -17,7 +17,8 @@ export type DisplayPaperImageTag = Readonly<{
 }>;
 
 export type DisplayPaperImageVariant = Readonly<{
-  provenance: 'debug' | 'manual' | 'prepared' | 'retired' | 'missing';
+  provenance:
+    'debug-v1' | 'debug-v2' | 'manual' | 'v1' | 'v2' | 'retired' | 'missing';
   alt: string;
   altReview?: 'pending' | 'reviewed-decorative' | 'reviewed-informative';
   description: string;

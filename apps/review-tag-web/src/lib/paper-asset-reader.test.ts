@@ -62,7 +62,7 @@ async function createFixture() {
   };
 }
 
-test('serves canonical PaperImage formats without a local public mirror', async t => {
+test('serves canonical PaperImage formats without a local public mirror', async (t) => {
   const fixture = await createFixture();
   t.after(fixture.cleanup);
 
@@ -93,7 +93,7 @@ test('serves canonical PaperImage formats without a local public mirror', async 
   }
 });
 
-test('serves manual working and answer PaperImage assets', async t => {
+test('serves manual working and answer PaperImage assets', async (t) => {
   const fixture = await createFixture();
   t.after(fixture.cleanup);
 
@@ -117,43 +117,46 @@ test('serves manual working and answer PaperImage assets', async t => {
   }
 });
 
-test('serves generated diagrams for all owners without exposing sidecars', async t => {
+test('serves V1 and V2 generated diagrams for all owners without exposing sidecars', async (t) => {
   const fixture = await createFixture();
   t.after(fixture.cleanup);
   for (const owner of ['questions', 'workings', 'answers']) {
-    const directory = path.join(
-      fixture.paperRoot,
-      owner,
-      'generated',
-      'diagrams',
-    );
-    await fs.mkdir(directory, { recursive: true });
-    await fs.writeFile(
-      path.join(directory, 's01-q01-i00.svg'),
-      '<svg width="100" height="50"/>',
-    );
-    await fs.writeFile(
-      path.join(directory, 's01-q01-i00.json'),
-      '{"private":true}',
-    );
-    const route = `papers/alpha-school/2020/paper-1/${owner}/prepared/diagrams/s01-q01-i00`;
-    const response = await createPaperAssetResponse(`${route}.svg`, {
-      assetsRoot: fixture.assetsRoot,
-    });
-    assert.equal(response.status, 200);
-    assert.match(await response.text(), /<svg/);
-    assert.equal(
-      (
-        await createPaperAssetResponse(`${route}.json`, {
-          assetsRoot: fixture.assetsRoot,
-        })
-      ).status,
-      415,
-    );
+    for (const version of ['v1', 'v2']) {
+      const directory = path.join(
+        fixture.paperRoot,
+        owner,
+        'generated',
+        version,
+        'diagrams',
+      );
+      await fs.mkdir(directory, { recursive: true });
+      await fs.writeFile(
+        path.join(directory, 's01-q01-i00.svg'),
+        '<svg width="100" height="50"/>',
+      );
+      await fs.writeFile(
+        path.join(directory, 's01-q01-i00.json'),
+        '{"private":true}',
+      );
+      const route = `papers/alpha-school/2020/paper-1/${owner}/generated/${version}/diagrams/s01-q01-i00`;
+      const response = await createPaperAssetResponse(`${route}.svg`, {
+        assetsRoot: fixture.assetsRoot,
+      });
+      assert.equal(response.status, 200);
+      assert.match(await response.text(), /<svg/);
+      assert.equal(
+        (
+          await createPaperAssetResponse(`${route}.json`, {
+            assetsRoot: fixture.assetsRoot,
+          })
+        ).status,
+        415,
+      );
+    }
   }
 });
 
-test('uses the canonical missing image for an absent file in a known paper', async t => {
+test('uses the canonical missing image for an absent file in a known paper', async (t) => {
   const fixture = await createFixture();
   t.after(fixture.cleanup);
 
@@ -167,7 +170,7 @@ test('uses the canonical missing image for an absent file in a known paper', asy
   assert.match(await response.text(), /data-missing/);
 });
 
-test('rejects ambiguous shortened paper routes', async t => {
+test('rejects ambiguous shortened paper routes', async (t) => {
   const fixture = await createFixture();
   t.after(fixture.cleanup);
 
@@ -189,7 +192,7 @@ test('rejects ambiguous shortened paper routes', async t => {
   assert.match(await response.text(), /Ambiguous canonical paper asset route/);
 });
 
-test('resolves multiple physical formats in review order', async t => {
+test('resolves multiple physical formats in review order', async (t) => {
   const fixture = await createFixture();
   t.after(fixture.cleanup);
 
@@ -212,7 +215,7 @@ test('resolves multiple physical formats in review order', async t => {
   );
 });
 
-test('rejects metadata, generated sources, traversal, and escaping symlinks', async t => {
+test('rejects metadata, generated sources, traversal, and escaping symlinks', async (t) => {
   const fixture = await createFixture();
   t.after(fixture.cleanup);
 
@@ -263,7 +266,7 @@ test('rejects metadata, generated sources, traversal, and escaping symlinks', as
   assert.equal(symlinkResponse.status, 403);
 });
 
-test('rejects an invalid canonical repository identity', async t => {
+test('rejects an invalid canonical repository identity', async (t) => {
   const fixture = await createFixture();
   t.after(fixture.cleanup);
 

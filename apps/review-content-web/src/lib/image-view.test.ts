@@ -27,7 +27,8 @@ const image: DisplayPaperImage = {
 test('normalizes URL-backed image comparison versions', () => {
   assert.deepEqual(parseImageComparisonVersions(null), [
     'original',
-    'prepared',
+    'v1',
+    'v2',
   ]);
   assert.deepEqual(parseImageComparisonVersions('debug,original,unknown'), [
     'original',
@@ -35,10 +36,11 @@ test('normalizes URL-backed image comparison versions', () => {
   ]);
   assert.deepEqual(parseImageComparisonVersions('unknown'), [
     'original',
-    'prepared',
+    'v1',
+    'v2',
   ]);
   assert.equal(
-    serializeImageComparisonVersions(['original', 'prepared']),
+    serializeImageComparisonVersions(['original', 'v1', 'v2']),
     undefined,
   );
   assert.equal(
@@ -50,9 +52,11 @@ test('normalizes URL-backed image comparison versions', () => {
 test('maps stored provenance to reviewer-facing versions', () => {
   assert.equal(imageComparisonVersionForProvenance('manual'), 'original');
   assert.equal(imageComparisonVersionForProvenance('retired'), 'original');
-  assert.equal(imageComparisonVersionForProvenance('prepared'), 'prepared');
-  assert.equal(imageComparisonVersionForProvenance('missing'), 'prepared');
-  assert.equal(imageComparisonVersionForProvenance('debug'), 'debug');
+  assert.equal(imageComparisonVersionForProvenance('v1'), 'v1');
+  assert.equal(imageComparisonVersionForProvenance('v2'), 'v2');
+  assert.equal(imageComparisonVersionForProvenance('missing'), 'v1');
+  assert.equal(imageComparisonVersionForProvenance('debug-v1'), 'debug');
+  assert.equal(imageComparisonVersionForProvenance('debug-v2'), 'debug');
 });
 
 function field(
@@ -136,20 +140,16 @@ test('projects only PaperImage occurrences in reading order', () => {
         scope: 'answer',
       },
       {
-        fieldLabel: 'Retired original',
+        fieldLabel: 'Original',
         referenceSrc: '/retired.png',
         scope: 'question',
       },
       {
-        fieldLabel: 'Retired original',
+        fieldLabel: 'Original',
         referenceSrc: '/retired-working.png',
         scope: 'working',
       },
     ],
-  );
-  assert.equal(
-    visualOccurrencesForNode(node).at(-2)?.archiveReason,
-    'Replaced by authored content.',
   );
   assert.deepEqual(
     visualOccurrencesForNode(node, { includeSolutions: false }).map(

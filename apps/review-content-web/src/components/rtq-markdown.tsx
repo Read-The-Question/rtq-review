@@ -24,10 +24,11 @@ import type {
   DisplayPaperImageVariant,
 } from '@/lib/display-model';
 import {
+  DEFAULT_IMAGE_COMPARISON_VERSION_SET,
   imageComparisonVersionForProvenance,
   type ImageComparisonVersion,
 } from '@/lib/image-view';
-import type { PaperImageMode, PaperImageScale } from '@/lib/review-view-model';
+import type { PaperImageScale } from '@/lib/review-view-model';
 
 const TODO_IMAGE_SRC = '#rtq-todo-image';
 
@@ -168,19 +169,23 @@ const comparisonVariantOrder: Readonly<
 > = {
   manual: 0,
   retired: 1,
-  prepared: 2,
-  debug: 3,
-  missing: 4,
+  v1: 2,
+  v2: 3,
+  'debug-v1': 4,
+  'debug-v2': 5,
+  missing: 6,
 };
 
 const comparisonVariantLabels: Readonly<
   Record<DisplayPaperImageVariant['provenance'], string>
 > = {
   manual: 'Original',
-  retired: 'Retired original',
-  prepared: 'Prepared',
-  debug: 'Debug',
-  missing: 'Missing prepared image',
+  retired: 'Original',
+  v1: 'V1',
+  v2: 'V2',
+  'debug-v1': 'Debug V1',
+  'debug-v2': 'Debug V2',
+  missing: 'Missing generated image',
 };
 
 export function PaperImageComparison({
@@ -218,13 +223,14 @@ export function PaperImageComparison({
     );
 
   return (
-    <div
+    <span
       className="visual-paper-image"
       data-align={image.align}
+      data-indent={image.indent}
       data-size={image.displaySize}
     >
       {showImageTags ? <PaperImageTags image={image} /> : null}
-      <div
+      <span
         className="visual-paper-image-variants"
         data-layout={threeVersionLayout ? 'three' : versionCount}
       >
@@ -240,31 +246,31 @@ export function PaperImageComparison({
             />
           ))
         ) : (
-          <p className="visual-paper-image-empty">
+          <span className="visual-paper-image-empty">
             This image has none of the selected versions.
-          </p>
+          </span>
         )}
-      </div>
-    </div>
+      </span>
+    </span>
   );
 }
 
 function PaperImage({
   alt,
   image,
-  imageMode,
   paperImageScale,
   showImageTags,
   src,
   title,
+  visibleImageVersions,
 }: Readonly<{
   alt?: string;
   image?: DisplayPaperImage;
-  imageMode: PaperImageMode;
   paperImageScale: PaperImageScale;
   showImageTags: boolean;
   src?: string;
   title?: string;
+  visibleImageVersions: ReadonlySet<ImageComparisonVersion>;
 }>) {
   const descriptionId = useId();
   if (src === TODO_IMAGE_SRC) {
@@ -284,37 +290,13 @@ function PaperImage({
   const description = isPaperImage ? title : undefined;
 
   if (image) {
-    const prepared = image.variants.filter(
-      (variant) => variant.provenance === 'prepared',
-    );
-    const variants =
-      imageMode === 'all'
-        ? image.variants
-        : prepared.length
-          ? prepared
-          : image.variants.slice(0, 1);
-    const showFormat = image.variants.length > 1;
     return (
-      <span
-        className="rtq-paper-image"
-        data-align={image.align}
-        data-indent={image.indent}
-        data-kind="paper-image"
-        data-size={image.displaySize}
-      >
-        {showImageTags ? <PaperImageTags image={image} /> : null}
-        <span className="rtq-paper-image-variants">
-          {variants.map((variant) => (
-            <PaperImageVariant
-              variant={variant}
-              align={image.align}
-              paperImageScale={paperImageScale}
-              showFormat={showFormat}
-              key={variant.src}
-            />
-          ))}
-        </span>
-      </span>
+      <PaperImageComparison
+        image={image}
+        paperImageScale={paperImageScale}
+        showImageTags={showImageTags}
+        visibleVersions={visibleImageVersions}
+      />
     );
   }
 
@@ -377,17 +359,17 @@ function PaperImage({
 }
 
 export function RtqMarkdown({
-  imageMode = 'all',
   markdown,
-  paperImageScale = 2,
+  paperImageScale = 1,
   paperImages,
   showImageTags = true,
+  visibleImageVersions = DEFAULT_IMAGE_COMPARISON_VERSION_SET,
 }: {
-  imageMode?: PaperImageMode;
   markdown: string;
   paperImageScale?: PaperImageScale;
   paperImages?: readonly DisplayPaperImage[];
   showImageTags?: boolean;
+  visibleImageVersions?: ReadonlySet<ImageComparisonVersion>;
 }) {
   const paperImagesByReference = useMemo(
     () =>
@@ -417,11 +399,11 @@ export function RtqMarkdown({
                   ? paperImagesByReference.get(src)
                   : undefined
               }
-              imageMode={imageMode}
               paperImageScale={paperImageScale}
               showImageTags={showImageTags}
               src={typeof src === 'string' ? src : undefined}
               title={title}
+              visibleImageVersions={visibleImageVersions}
             />
           ),
         }}

@@ -63,37 +63,33 @@ function allowedSubpath(
   diagnostic: boolean,
   retired: boolean,
 ): boolean {
-  const [scope, provenance, kind, file, ...rest] = segments;
-  if (rest.length > 0) return false;
+  const [scope, provenance, kind, family, file, ...rest] = segments;
+  const validScope =
+    scope === 'questions' || scope === 'workings' || scope === 'answers';
+  if (!validScope || rest.length > 0) return false;
   if (retired) {
-    return (
-      (scope === 'questions' || scope === 'workings' || scope === 'answers') &&
-      provenance === 'manual' &&
-      Boolean(kind) &&
-      !file
-    );
+    return provenance === 'manual' && Boolean(kind) && family === undefined;
   }
   if (diagnostic) {
     return (
-      (scope === 'questions' || scope === 'workings' || scope === 'answers') &&
-      provenance === 'prepared' &&
-      kind === 'diagrams' &&
+      provenance === 'generated' &&
+      (kind === 'v1' || kind === 'v2') &&
+      family === 'diagrams' &&
       Boolean(file?.endsWith('.svg'))
     );
   }
-  if (
-    (scope === 'questions' || scope === 'workings' || scope === 'answers') &&
-    provenance === 'manual' &&
-    kind &&
-    !file
-  ) {
+  if (provenance === 'manual' && kind && family === undefined) {
     return true;
   }
   return (
-    (scope === 'questions' || scope === 'workings' || scope === 'answers') &&
-    ((provenance === 'prepared' && kind === 'diagrams') ||
-      (provenance === 'generated' && kind === 'long-division')) &&
-    Boolean(file)
+    (provenance === 'generated' &&
+      (kind === 'v1' || kind === 'v2') &&
+      family === 'diagrams' &&
+      Boolean(file)) ||
+    (provenance === 'generated' &&
+      kind === 'long-division' &&
+      Boolean(family) &&
+      file === undefined)
   );
 }
 

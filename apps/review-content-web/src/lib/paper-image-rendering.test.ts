@@ -31,6 +31,9 @@ const { prepareReviewPaperNodeForDisplay } = await import('./prepare-paper.ts');
 const { PaperImageComparison, RtqMarkdown } =
   await import('../components/rtq-markdown.tsx');
 
+const ALL_IMAGE_VERSIONS = new Set(['original', 'v1', 'v2', 'debug'] as const);
+const PREPARED_IMAGE_VERSION = new Set(['v1'] as const);
+
 function fixture(t: TestContext) {
   const root = mkdtempSync(path.join(tmpdir(), 'rtq-paper-image-rendering-'));
   const previousRoot = process.env.RTQ_CONTENT_ROOT;
@@ -241,10 +244,10 @@ function metadata(alt: string | null, description: string | null = null) {
 function render(
   markdown: string,
   options: Readonly<{
-    imageMode?: 'all' | 'prepared';
     paperImageScale?: 1 | 2;
     paperImages?: readonly DisplayPaperImage[];
     showImageTags?: boolean;
+    visibleImageVersions?: ReadonlySet<'debug' | 'original' | 'v1' | 'v2'>;
   }> = {},
 ) {
   return renderToStaticMarkup(
@@ -295,11 +298,11 @@ test('reports invalid, stale, raster-inline and missing-inline delivery requests
   f.image(metadata('Original screenshot'));
   assert.match(f.prepareResult(inline).preparationIssue ?? '', /existing SVG/);
   f.asset(
-    'questions/prepared/diagrams/s01-q01-i00.svg',
+    'questions/generated/v1/diagrams/s01-q01-i00.svg',
     '<svg width="100" height="75" viewBox="0 0 100 75"><path d="M0 0L100 0L0 75Z"/></svg>',
   );
   f.asset(
-    'questions/prepared/diagrams/s01-q01-i00.json',
+    'questions/generated/v1/diagrams/s01-q01-i00.json',
     JSON.stringify(metadata('Generated diagram', 'A generated triangle.')),
   );
   assert.match(
@@ -307,7 +310,7 @@ test('reports invalid, stale, raster-inline and missing-inline delivery requests
     /delivery mismatch/,
   );
   f.asset(
-    'questions/prepared/diagrams/s01-q01-i00.json',
+    'questions/generated/v1/diagrams/s01-q01-i00.json',
     JSON.stringify({
       ...metadata('Generated diagram', 'A generated triangle.'),
       renderMode: 'inline',
@@ -456,8 +459,8 @@ test('renders matching active formats in PNG, JPEG, SVG order', (t) => {
   );
 
   const all = render(prepared.rendered, {
-    imageMode: 'all',
     paperImages: prepared.paperImages,
+    visibleImageVersions: ALL_IMAGE_VERSIONS,
   });
   const allImages = imageTags(all);
   assert.equal(allImages.length, 3);
@@ -468,36 +471,29 @@ test('renders matching active formats in PNG, JPEG, SVG order', (t) => {
   assert.match(all, /JPEG/);
   assert.match(all, /SVG/);
   assert.match(all, /Compare each active format\./);
-
-  const preferred = render(prepared.rendered, {
-    imageMode: 'prepared',
-    paperImages: prepared.paperImages,
-  });
-  assert.equal(imageTags(preferred).length, 1);
-  assert.match(imageTags(preferred)[0], /i00\.png/);
 });
 
-test('prepared preference falls back to the first active manual format', (t) => {
+test('reports when an image has none of the selected versions', (t) => {
   const f = fixture(t);
   f.image(metadata('A raster diagram.'));
   f.asset(f.sourcePath.replace(/\.png$/, '.jpg'), 'fixture jpeg image bytes');
   const prepared = f.prepareDisplay();
   const html = render(prepared.rendered, {
-    imageMode: 'prepared',
     paperImages: prepared.paperImages,
+    visibleImageVersions: PREPARED_IMAGE_VERSION,
   });
-  assert.equal(imageTags(html).length, 1);
-  assert.match(imageTags(html)[0], /i00\.png/);
+  assert.equal(imageTags(html).length, 0);
+  assert.match(html, /This image has none of the selected versions\./);
 });
 
-test('discovers retired manual artwork without adding it to normal rendering', (t) => {
+test('shows retired manual artwork through the shared comparison renderer', (t) => {
   const f = fixture(t);
   f.asset(
-    'questions/prepared/diagrams/s01-q01-i00.svg',
+    'questions/generated/v1/diagrams/s01-q01-i00.svg',
     '<svg width="320" height="200" viewBox="0 0 320 200"><path d="M0 0L100 0L0 100Z"/></svg>',
   );
   f.asset(
-    'questions/prepared/diagrams/s01-q01-i00.json',
+    'questions/generated/v1/diagrams/s01-q01-i00.json',
     JSON.stringify(metadata('Prepared diagram', 'Current artwork.')),
   );
   f.retiredAsset(
@@ -512,7 +508,7 @@ test('discovers retired manual artwork without adding it to normal rendering', (
   const prepared = f.prepareDisplay();
   assert.deepEqual(
     prepared.paperImages?.[0].variants.map((variant) => variant.provenance),
-    ['prepared'],
+    ['v1'],
   );
   assert.deepEqual(
     prepared.paperImages?.[0].retiredVariants?.map(
@@ -525,22 +521,22 @@ test('discovers retired manual artwork without adding it to normal rendering', (
     /\/api\/assets\/retired\/papers\/example\/questions\/manual\/s01-q01-i00\.png/,
   );
   const normal = render(prepared.rendered, {
-    imageMode: 'all',
     paperImages: prepared.paperImages,
   });
   assert.match(normal, /Prepared diagram/);
-  assert.doesNotMatch(normal, /Retired screenshot|retired\/papers/);
+  assert.match(normal, /Retired screenshot|retired\/papers/);
+  assert.match(normal, /Original · PNG/);
 
   const comparison = renderToStaticMarkup(
     createElement(PaperImageComparison, {
       image: prepared.paperImages?.[0] as DisplayPaperImage,
       paperImageScale: 1,
       showImageTags: false,
-      visibleVersions: new Set(['original', 'prepared', 'debug'] as const),
+      visibleVersions: new Set(['original', 'v1', 'debug'] as const),
     }),
   );
-  assert.match(comparison, /Prepared · SVG/);
-  assert.match(comparison, /Retired original · PNG/);
+  assert.match(comparison, /V1 · SVG/);
+  assert.match(comparison, /Original · PNG/);
   assert.match(comparison, /Prepared diagram/);
   assert.match(comparison, /Retired screenshot/);
 });
@@ -566,14 +562,14 @@ test('filters comparison versions and puts the original above generated SVGs', (
         alt: 'Prepared diagram',
         description: '',
         format: 'SVG',
-        provenance: 'prepared',
+        provenance: 'v1',
         src: '/prepared.svg',
       },
       {
         alt: 'Debug diagram',
         description: '',
         format: 'SVG',
-        provenance: 'debug',
+        provenance: 'debug-v1',
         src: '/debug.svg',
       },
     ],
@@ -583,7 +579,7 @@ test('filters comparison versions and puts the original above generated SVGs', (
       image: comparisonImage,
       paperImageScale: 1,
       showImageTags: false,
-      visibleVersions: new Set(['original', 'prepared', 'debug'] as const),
+      visibleVersions: new Set(['original', 'v1', 'debug'] as const),
     }),
   );
   assert.match(all, /data-layout="three"/);
@@ -591,21 +587,21 @@ test('filters comparison versions and puts the original above generated SVGs', (
   assert.match(all, /data-format="PNG"/);
   assert.match(all, /data-format="SVG"/);
   assert.match(all, /Original · PNG/);
-  assert.match(all, /Prepared · SVG/);
-  assert.match(all, /Debug · SVG/);
+  assert.match(all, /V1 · SVG/);
+  assert.match(all, /Debug V1 · SVG/);
 
   const generated = renderToStaticMarkup(
     createElement(PaperImageComparison, {
       image: comparisonImage,
       paperImageScale: 1,
       showImageTags: false,
-      visibleVersions: new Set(['prepared', 'debug'] as const),
+      visibleVersions: new Set(['v1', 'debug'] as const),
     }),
   );
   assert.match(generated, /data-layout="2"/);
   assert.doesNotMatch(generated, /Original · PNG|original\.png/);
-  assert.match(generated, /Prepared · SVG/);
-  assert.match(generated, /Debug · SVG/);
+  assert.match(generated, /V1 · SVG/);
+  assert.match(generated, /Debug V1 · SVG/);
 });
 
 test('maps a retired-only original back to its current question UUID', (t) => {
@@ -657,7 +653,7 @@ test('maps a retired-only original back to its current question UUID', (t) => {
 
 for (const scope of ['question', 'working', 'answer'] as const) {
   for (const renderMode of ['inline', 'external'] as const) {
-    test(`compares ${scope} manual and prepared ${renderMode} artwork with independent wording`, (t) => {
+    test(`compares ${scope} manual, V1, V2 and debug ${renderMode} artwork with independent wording`, (t) => {
       const f = fixture(t);
       const owner = `${scope}s`;
       const slot =
@@ -671,17 +667,33 @@ for (const scope of ['question', 'working', 'answer'] as const) {
         `${owner}/manual/${stem}.png`,
       );
       f.asset(
-        `${owner}/prepared/diagrams/${stem}.svg`,
+        `${owner}/generated/v1/diagrams/${stem}.svg`,
         '<svg width="320.5" height="200" viewBox="0 0 320.5 200"><path d="M0 0L100 0L0 100Z"/></svg>',
       );
       f.debugAsset(
-        `${owner}/prepared/diagrams/${stem}.svg`,
+        `${owner}/generated/v1/diagrams/${stem}.svg`,
         '<svg width="320.5" height="200" viewBox="0 0 320.5 200"><path d="M0 0L100 0L0 100Z"/><g id="diagram-bounds-debug"><rect width="100" height="100"/></g></svg>',
       );
       f.asset(
-        `${owner}/prepared/diagrams/${stem}.json`,
+        `${owner}/generated/v1/diagrams/${stem}.json`,
         JSON.stringify({
           ...metadata('Generated triangle', 'Generated description.'),
+          assetScope: scope,
+          renderMode,
+        }),
+      );
+      f.asset(
+        `${owner}/generated/v2/diagrams/${stem}.svg`,
+        '<svg width="300" height="180" viewBox="0 0 300 180"><circle cx="90" cy="90" r="70"/></svg>',
+      );
+      f.debugAsset(
+        `${owner}/generated/v2/diagrams/${stem}.svg`,
+        '<svg width="300" height="180" viewBox="0 0 300 180"><circle cx="90" cy="90" r="70"/><g id="diagram-bounds-debug"><rect width="180" height="180"/></g></svg>',
+      );
+      f.asset(
+        `${owner}/generated/v2/diagrams/${stem}.json`,
+        JSON.stringify({
+          ...metadata('V2 circle', 'V2 description.'),
           assetScope: scope,
           renderMode,
         }),
@@ -693,23 +705,27 @@ for (const scope of ['question', 'working', 'answer'] as const) {
       assert.equal(prepared.paperImages?.length, 1);
       assert.deepEqual(
         prepared.paperImages?.[0].variants.map((variant) => variant.provenance),
-        ['manual', 'prepared', 'debug'],
+        ['manual', 'v1', 'v2', 'debug-v1', 'debug-v2'],
       );
       assert.match(
         prepared.paperImages?.[0].variants.find(
-          (variant) => variant.provenance === 'debug',
+          (variant) => variant.provenance === 'debug-v1',
         )?.src ?? '',
         /\/api\/assets\/debug\/papers\/example/,
       );
       const all = render(prepared.rendered, {
+        paperImageScale: 2,
         paperImages: prepared.paperImages,
-        imageMode: 'all',
+        visibleImageVersions: ALL_IMAGE_VERSIONS,
       });
       assert.match(all, /Original screenshot/);
       assert.match(all, /Generated triangle/);
       assert.match(all, /Original description/);
       assert.match(all, /Generated description/);
-      assert.match(all, /debug · SVG/);
+      assert.match(all, /V2 circle/);
+      assert.match(all, /V2 description/);
+      assert.match(all, /Debug V1 · SVG/);
+      assert.match(all, /Debug V2 · SVG/);
       if (renderMode === 'external') {
         assert.match(all, /\/api\/assets\/debug\/papers\/example/);
       }
@@ -718,22 +734,22 @@ for (const scope of ['question', 'working', 'answer'] as const) {
       assert.match(all, /tabindex="0"/);
       if (renderMode === 'inline') assert.match(all, /rtq-review-inline-svg/);
       const originalSize = render(prepared.rendered, {
-        imageMode: 'prepared',
         paperImageScale: 1,
         paperImages: prepared.paperImages,
+        visibleImageVersions: PREPARED_IMAGE_VERSION,
       });
       assert.match(originalSize, /max-width:320\.5px/);
       assert.match(originalSize, /min-width:240\.375px/);
       const preferred = render(prepared.rendered, {
         paperImages: prepared.paperImages,
-        imageMode: 'prepared',
+        visibleImageVersions: PREPARED_IMAGE_VERSION,
       });
       assert.doesNotMatch(
         preferred,
         /Original screenshot|Original description/,
       );
       assert.match(preferred, /Generated triangle/);
-      assert.doesNotMatch(preferred, /debug · SVG|diagram-bounds-debug/);
+      assert.doesNotMatch(preferred, /Debug V1 · SVG|diagram-bounds-debug/);
     });
   }
 }

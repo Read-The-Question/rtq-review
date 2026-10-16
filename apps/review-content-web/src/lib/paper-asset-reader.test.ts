@@ -96,7 +96,7 @@ test('serves only owner-scoped diagnostic diagram SVGs from the parallel root', 
   const papersRoot = path.join(debugAssetsRoot, 'papers');
   const files = await fs.readdir(papersRoot, { recursive: true });
   const relativePath = files.find((file) =>
-    /\/questions\/prepared\/diagrams\/[^/]+\.svg$/.test(
+    /\/questions\/generated\/v1\/diagrams\/[^/]+\.svg$/.test(
       file.split(path.sep).join('/'),
     ),
   );
@@ -111,8 +111,11 @@ test('serves only owner-scoped diagnostic diagram SVGs from the parallel root', 
     415,
   );
   assert.equal(
-    (await createPaperAssetResponse(urlPath.replace('/prepared/', '/manual/')))
-      .status,
+    (
+      await createPaperAssetResponse(
+        urlPath.replace('/generated/v1/diagrams/', '/manual/'),
+      )
+    ).status,
     404,
   );
 });
@@ -143,8 +146,11 @@ test('serves only retired manual image binaries from the archive root', async ()
     415,
   );
   assert.equal(
-    (await createPaperAssetResponse(urlPath.replace('/manual/', '/prepared/')))
-      .status,
+    (
+      await createPaperAssetResponse(
+        urlPath.replace('/manual/', '/generated/v1/diagrams/'),
+      )
+    ).status,
     404,
   );
 });

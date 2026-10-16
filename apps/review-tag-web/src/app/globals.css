@@ -2042,11 +2042,11 @@ kbd {
   font-weight: 700;
 }
 
-.paper-images--prepared
-  .paper-image-group[data-has-prepared='true']
-  .paper-image-variant:not([data-provenance='prepared']),
-.paper-images--prepared
-  .paper-image-group[data-has-prepared='false']
+.paper-images--v1
+  .paper-image-group[data-has-v1='true']
+  .paper-image-variant:not([data-provenance='v1']),
+.paper-images--v1
+  .paper-image-group[data-has-v1='false']
   .paper-image-variant:not([data-primary='true']) {
   display: none;
 }

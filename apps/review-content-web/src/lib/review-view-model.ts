@@ -7,26 +7,30 @@ import type { ReviewFilterSelection } from '@rtq/review-paper-model/client';
 import type { ReviewSide } from '@rtq/review-store/types';
 
 import type { QuestionContentFilter } from './question-content-filter';
+import {
+  DEFAULT_IMAGE_COMPARISON_VERSIONS,
+  IMAGE_COMPARISON_VERSIONS,
+  type ImageComparisonVersion,
+} from './image-view.ts';
 
 export type { QuestionContentFilter } from './question-content-filter';
 
-export const REVIEW_PREFERENCES_KEY = 'rtq.review-content.preferences.v12';
+export const REVIEW_PREFERENCES_KEY = 'rtq.review-content.preferences.v13';
 export const REVIEW_FILTER_DISCLOSURE_KEY =
   'rtq.review-content.filter-disclosure.v1';
 export const PREVIOUS_REVIEW_PREFERENCES_KEY =
-  'rtq.review-content.preferences.v11';
+  'rtq.review-content.preferences.v12';
 export const LEGACY_REVIEW_PREFERENCES_KEY =
-  'rtq.review-content.preferences.v10';
+  'rtq.review-content.preferences.v11';
 export const EARLIER_REVIEW_PREFERENCES_KEY =
-  'rtq.review-content.preferences.v9';
+  'rtq.review-content.preferences.v10';
 export const INITIAL_REVIEW_PREFERENCES_KEY =
-  'rtq.review-content.preferences.v8';
+  'rtq.review-content.preferences.v9';
 export const OLDEST_REVIEW_PREFERENCES_KEY =
-  'rtq.review-content.preferences.v7';
+  'rtq.review-content.preferences.v8';
 export const EARLIEST_REVIEW_PREFERENCES_KEY =
-  'rtq.review-content.preferences.v6';
+  'rtq.review-content.preferences.v7';
 
-export type PaperImageMode = 'all' | 'prepared';
 export type PaperImageScale = 1 | 2;
 export type ReviewControlMode = 'advanced' | 'simple';
 export type ReviewContext = 'answer' | 'question';
@@ -35,8 +39,8 @@ export type ReviewSurfaceView = 'content' | 'images';
 export type VisibleReviewSide = ReviewContext;
 
 export type ReviewPreferences = Readonly<{
-  paperImageMode: PaperImageMode;
-  paperImageScale: PaperImageScale;
+  imageComparisonVersions: readonly ImageComparisonVersion[];
+  imageScale: PaperImageScale;
   questionContentFilter: QuestionContentFilter;
   reviewControlMode: ReviewControlMode;
   reviewPanelMode: ReviewPanelMode;
@@ -57,8 +61,8 @@ export type ReviewPreferences = Readonly<{
 }>;
 
 export const DEFAULT_REVIEW_PREFERENCES: ReviewPreferences = {
-  paperImageMode: 'all',
-  paperImageScale: 2,
+  imageComparisonVersions: DEFAULT_IMAGE_COMPARISON_VERSIONS,
+  imageScale: 1,
   questionContentFilter: 'all',
   reviewControlMode: 'simple',
   reviewPanelMode: 'both',
@@ -233,16 +237,19 @@ export function parseReviewPreferences(
     initial?.reviewPanelMode ??
     oldest?.reviewPanelMode ??
     earliest?.reviewPanelMode;
-  const requestedPaperImageMode =
-    parsed?.paperImageMode ??
-    previous?.paperImageMode ??
-    legacy?.paperImageMode ??
-    earlier?.paperImageMode ??
-    initial?.paperImageMode ??
-    oldest?.paperImageMode ??
-    earliest?.paperImageMode;
-  const requestedPaperImageScale = records
-    .map((record) => record?.paperImageScale)
+  const requestedImageVersions = records
+    .map((record) => record?.imageComparisonVersions)
+    .find(Array.isArray);
+  const migratedImageVersions = requestedImageVersions?.map((version) =>
+    version === 'prepared' ? 'v1' : version,
+  );
+  const normalizedImageVersions = requestedImageVersions
+    ? IMAGE_COMPARISON_VERSIONS.filter((version) =>
+        migratedImageVersions?.includes(version),
+      )
+    : [];
+  const requestedImageScale = records
+    .map((record) => record?.imageScale ?? record?.paperImageScale)
     .find((value) => value === 1 || value === 2);
   const requestedQuestionContentFilter = records
     .map((record) => record?.questionContentFilter)
@@ -253,16 +260,13 @@ export function parseReviewPreferences(
   const reviewSide = legacySide();
 
   return {
-    paperImageMode:
-      requestedPaperImageMode === 'generated' ||
-      requestedPaperImageMode === 'svg' ||
-      requestedPaperImageMode === 'prepared'
-        ? 'prepared'
-        : DEFAULT_REVIEW_PREFERENCES.paperImageMode,
-    paperImageScale:
-      requestedPaperImageScale === 1 || requestedPaperImageScale === 2
-        ? requestedPaperImageScale
-        : DEFAULT_REVIEW_PREFERENCES.paperImageScale,
+    imageComparisonVersions: normalizedImageVersions.length
+      ? normalizedImageVersions
+      : DEFAULT_REVIEW_PREFERENCES.imageComparisonVersions,
+    imageScale:
+      requestedImageScale === 1 || requestedImageScale === 2
+        ? requestedImageScale
+        : DEFAULT_REVIEW_PREFERENCES.imageScale,
     questionContentFilter:
       requestedQuestionContentFilter === 'image' ||
       requestedQuestionContentFilter === 'table'

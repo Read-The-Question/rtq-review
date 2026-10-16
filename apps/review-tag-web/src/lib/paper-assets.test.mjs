@@ -8,7 +8,7 @@ import test from 'node:test';
 
 import { installSvgToolFixture } from '../../../../packages/review-paper-assets/test/svg-tool-fixture.mjs';
 
-test('PaperImage family/type is rendering-neutral across scopes, nesting and formats', async t => {
+test('PaperImage family/type is rendering-neutral across scopes, nesting and formats', async (t) => {
   const root = mkdtempSync(path.join(tmpdir(), 'rtq-image-family-'));
   const previousRoot = process.env.RTQ_CONTENT_ROOT;
   process.env.RTQ_CONTENT_ROOT = root;
@@ -147,7 +147,7 @@ test('PaperImage family/type is rendering-neutral across scopes, nesting and for
       assert.match(baseline, /data-surface="paper"/);
       assert.match(
         baseline,
-        /class="paper-image-group" data-has-prepared="false" data-variant-count="2"/,
+        /class="paper-image-group" data-has-v1="false" data-variant-count="2"/,
       );
       assert.match(
         baseline,
@@ -164,7 +164,7 @@ test('PaperImage family/type is rendering-neutral across scopes, nesting and for
         2,
       );
       assert.doesNotMatch(baseline, /(?:family|type)=|venn/);
-      const preparedStem = `${owner}/prepared/diagrams/${prefix}${slot}-i00`;
+      const preparedStem = `${owner}/generated/v1/diagrams/${prefix}${slot}-i00`;
       write(`${paperRoot}/${preparedStem}.svg`, firstSvg);
       write(
         `${paperRoot}/${preparedStem}.json`,
@@ -191,11 +191,8 @@ test('PaperImage family/type is rendering-neutral across scopes, nesting and for
           ? source.replace(/<PaperImage\b/, '<PaperImage renderMode="inline"')
           : source;
       const comparison = enrichRtqMarkdown(comparisonSource, context, options);
-      assert.match(
-        comparison,
-        /data-has-prepared="true" data-variant-count="3"/,
-      );
-      assert.match(comparison, /data-provenance="prepared"/);
+      assert.match(comparison, /data-has-v1="true" data-variant-count="3"/);
+      assert.match(comparison, /data-provenance="v1"/);
       assert.match(comparison, /Generated triangle/);
       assert.match(comparison, /Generated description/);
       assert.match(comparison, /The sets overlap/);

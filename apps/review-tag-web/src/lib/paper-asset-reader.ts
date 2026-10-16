@@ -60,7 +60,7 @@ export function resolveCanonicalPaperImageExtensions(
   assetsRoot = resolveConfiguredMathsAssetsRoot(),
 ) {
   const paperRoot = path.join(assetsRoot, 'papers', paperStem);
-  return PAPER_IMAGE_EXTENSIONS.filter(extension =>
+  return PAPER_IMAGE_EXTENSIONS.filter((extension) =>
     existsSync(path.join(paperRoot, `${sourceRelativeStem}.${extension}`)),
   );
 }
@@ -80,7 +80,7 @@ function normalizeRequestedPath(relativePath: string) {
   }
 
   const rawSegments = relativePath.split('/');
-  const segments = rawSegments.map(segment => {
+  const segments = rawSegments.map((segment) => {
     let decoded: string;
 
     try {
@@ -228,9 +228,10 @@ function validatePaperImageSubpath(segments: string[]) {
   if (
     (scope === 'questions' || scope === 'workings' || scope === 'answers') &&
     ((provenance === 'manual' && remaining.length === 1) ||
-      (provenance === 'prepared' &&
-        remaining.length === 2 &&
-        remaining[0] === 'diagrams'))
+      (provenance === 'generated' &&
+        remaining.length === 3 &&
+        (remaining[0] === 'v1' || remaining[0] === 'v2') &&
+        remaining[1] === 'diagrams'))
   ) {
     return;
   }
@@ -331,9 +332,9 @@ export async function resolveCanonicalPaperAsset(
 
   const entries = await fs.readdir(roots.papersRoot, { withFileTypes: true });
   const matchingStems = entries
-    .filter(entry => entry.isDirectory() && entry.name !== 'missing')
-    .map(entry => entry.name)
-    .filter(stem =>
+    .filter((entry) => entry.isDirectory() && entry.name !== 'missing')
+    .map((entry) => entry.name)
+    .filter((stem) =>
       canonicalStemMatchesRoute(stem, schoolSlug, yearOrSample, paperSlug),
     );
 

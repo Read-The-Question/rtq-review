@@ -69,13 +69,14 @@ uses a stable route shaped as `/papers/<collection>/<source-relative-path>`.
 
 ## Live source behavior
 
-`PaperImage` variants resolve through `<owner>/manual/` and
-`<owner>/prepared/diagrams/` beneath the canonical paper folder, for questions,
-workings and answers. Each path selects its own adjacent sidecar and technical
-metadata. **All related assets** compares both locations; **Prepared preferred**
-uses prepared artwork when present and otherwise the first manual variant.
-Saved SVG/generated preference values migrate to prepared preference. Provenance is
-folder-based, not an SVG/raster distinction. The asset route rejects old flat
+`PaperImage` variants resolve through `<owner>/manual/`,
+`<owner>/generated/v1/diagrams/`, and `<owner>/generated/v2/diagrams/` beneath
+the canonical paper folder for questions, workings and answers. Manual and
+retired manual variants appear as **Original**; V1 and V2 remain independently
+selectable, and matching versioned `debug-assets/` SVGs are optional. Each path
+selects its own adjacent sidecar and technical metadata. Saved prepared
+preferences migrate to V1. Provenance is folder-based, not an SVG/raster
+distinction. The asset route rejects old flat
 question URLs and does not expose sidecars. Generated `LongDivision` uses
 owner-scoped routes: question-only diagrams live under
 `questions/generated/long-division/`, while worked variants remain under
@@ -222,7 +223,8 @@ or page size starts again from the first result.
   built from that same filtered result and links to every displayed hierarchy
   level.
 - All TOML and assets remain read-only. The asset route exposes allowlisted
-  binaries in each owner's `manual/` and `prepared/diagrams/` directories,
+  binaries in each owner's `manual/`, `generated/v1/diagrams/`, and
+  `generated/v2/diagrams/` directories,
   plus generated long-division SVGs for questions, workings, and answers.
   Sidecars and source recipes remain private.
 

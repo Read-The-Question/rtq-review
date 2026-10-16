@@ -323,9 +323,9 @@ function ownerPath(
   context: ReviewAssetContext,
   scope: ImageScope,
   imageIndex: number,
-  provenance: 'manual' | 'prepared' = 'manual',
+  provenance: 'manual' | 'v1' | 'v2' = 'manual',
 ): Readonly<{ metadata: string; sourceStem: string }> {
-  const owner = `${scope === 'question' ? 'questions' : scope === 'working' ? 'workings' : 'answers'}/${provenance === 'prepared' ? 'prepared/diagrams' : 'manual'}`;
+  const owner = `${scope === 'question' ? 'questions' : scope === 'working' ? 'workings' : 'answers'}/${provenance === 'manual' ? 'manual' : `generated/${provenance}/diagrams`}`;
   const scopeIndex =
     scope === 'working' ? context.workingIndex : context.answerIndex;
   const scopeToken =
@@ -624,7 +624,7 @@ function paperImageMarkdown(
     'papers',
     context.paperStem,
   );
-  const canonicalMatches = (['manual', 'prepared'] as const).flatMap(
+  const canonicalMatches = (['manual', 'v1', 'v2'] as const).flatMap(
     (provenance) => {
       const location = ownerPath(context, scope, imageIndex, provenance);
       return IMAGE_EXTENSIONS.filter((extension) =>
@@ -632,18 +632,18 @@ function paperImageMarkdown(
       ).map((extension) => ({ extension, location, provenance }));
     },
   );
-  const preparedLocation = ownerPath(context, scope, imageIndex, 'prepared');
-  const debugMatches = existsSync(
-    path.join(debugPaperRoot, `${preparedLocation.sourceStem}.svg`),
-  )
-    ? [
-        {
-          extension: 'svg' as const,
-          location: preparedLocation,
-          provenance: 'debug' as const,
-        },
-      ]
-    : [];
+  const debugMatches = (['v1', 'v2'] as const).flatMap((version) => {
+    const location = ownerPath(context, scope, imageIndex, version);
+    return existsSync(path.join(debugPaperRoot, `${location.sourceStem}.svg`))
+      ? [
+          {
+            extension: 'svg' as const,
+            location,
+            provenance: `debug-${version}` as const,
+          },
+        ]
+      : [];
+  });
   const retiredLocation = ownerPath(context, scope, imageIndex, 'manual');
   const retiredMatches = IMAGE_EXTENSIONS.filter((extension) =>
     existsSync(
@@ -694,17 +694,17 @@ function paperImageMarkdown(
     };
   }
 
-  const preferred = canonicalMatches.some(
-    (match) => match.provenance === 'prepared',
-  )
-    ? 'prepared'
-    : 'manual';
+  const preferred = canonicalMatches.some((match) => match.provenance === 'v1')
+    ? 'v1'
+    : canonicalMatches.some((match) => match.provenance === 'manual')
+      ? 'manual'
+      : 'v2';
   const variants = matches.map<DisplayPaperImageVariant>(
     ({ extension, location, provenance }) => {
       const metadata = imageMetadata(
         paperRoot,
         location.metadata,
-        provenance === 'prepared' || provenance === 'debug' ? scope : undefined,
+        provenance !== 'manual' ? scope : undefined,
       );
       if (provenance === preferred)
         assertPaperImageDelivery(
@@ -715,8 +715,9 @@ function paperImageMarkdown(
         );
       const sourcePath = `${location.sourceStem}.${extension}`;
       const size = dimensions(paperRoot, sourcePath);
-      const relativePath = `${provenance === 'debug' ? 'debug/' : ''}papers/${context.paperStem}/${sourcePath}`;
-      const sourceRoot = provenance === 'debug' ? debugPaperRoot : paperRoot;
+      const diagnostic = provenance === 'debug-v1' || provenance === 'debug-v2';
+      const relativePath = `${diagnostic ? 'debug/' : ''}papers/${context.paperStem}/${sourcePath}`;
+      const sourceRoot = diagnostic ? debugPaperRoot : paperRoot;
       const sizing =
         extension === 'svg'
           ? prepareReviewSvg(

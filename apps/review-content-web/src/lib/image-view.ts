@@ -7,7 +7,8 @@ import type {
 
 export const IMAGE_COMPARISON_VERSIONS = [
   'original',
-  'prepared',
+  'v1',
+  'v2',
   'debug',
 ] as const;
 
@@ -17,28 +18,38 @@ export const IMAGE_COMPARISON_VERSION_LABELS: Readonly<
   Record<ImageComparisonVersion, string>
 > = {
   original: 'Original',
-  prepared: 'Prepared',
+  v1: 'V1',
+  v2: 'V2',
   debug: 'Debug',
 };
 
 export const DEFAULT_IMAGE_COMPARISON_VERSIONS = [
   'original',
-  'prepared',
+  'v1',
+  'v2',
 ] as const satisfies readonly ImageComparisonVersion[];
+
+export const DEFAULT_IMAGE_COMPARISON_VERSION_SET: ReadonlySet<ImageComparisonVersion> =
+  new Set(DEFAULT_IMAGE_COMPARISON_VERSIONS);
 
 export function imageComparisonVersionForProvenance(
   provenance: DisplayPaperImageVariant['provenance'],
 ): ImageComparisonVersion {
   if (provenance === 'manual' || provenance === 'retired') return 'original';
-  if (provenance === 'debug') return 'debug';
-  return 'prepared';
+  if (provenance === 'debug-v1' || provenance === 'debug-v2') return 'debug';
+  if (provenance === 'v2') return 'v2';
+  return 'v1';
 }
 
 export function parseImageComparisonVersions(
   value: null | string,
 ): readonly ImageComparisonVersion[] {
   if (!value) return DEFAULT_IMAGE_COMPARISON_VERSIONS;
-  const requested = new Set(value.split(','));
+  const requested = new Set(
+    value
+      .split(',')
+      .map((version) => (version === 'prepared' ? 'v1' : version)),
+  );
   const versions = IMAGE_COMPARISON_VERSIONS.filter((version) =>
     requested.has(version),
   );
@@ -61,7 +72,6 @@ export function serializeImageComparisonVersions(
 }
 
 export type VisualOccurrence = Readonly<{
-  archiveReason?: string;
   fieldLabel: string;
   image: DisplayPaperImage;
   key: string;
@@ -118,8 +128,7 @@ export function visualOccurrencesForNode(
     ...(node.retiredPaperImages ?? [])
       .filter((entry) => includeSolutions || entry.scope === 'question')
       .map((entry, index) => ({
-        archiveReason: entry.reason,
-        fieldLabel: 'Retired original',
+        fieldLabel: 'Original',
         image: entry.image,
         key: `retired:${entry.scope}:${index}:${entry.image.referenceSrc}`,
         scope: entry.scope,

@@ -194,7 +194,10 @@ test('top-level questions expose current outcomes and feedback as scan badges', 
   assert.match(component, /updatePreference\('showImageStatusInfo', value\)/);
   assert.match(component, /updatePreference\('showImageTags', value\)/);
   assert.match(component, /updatePreference\('showImageMarkers', value\)/);
-  assert.match(component, /updatePreference\([\s\S]*'paperImageMode'/);
+  assert.match(
+    component,
+    /updatePreference\('imageComparisonVersions', normalizedVersions\)/,
+  );
   assert.match(
     component,
     /question-node--status-background-\$\{contentStatusTone\}/,
@@ -599,21 +602,13 @@ test('view options support minimal metadata and centered review panel modes', as
   );
   assert.match(component, /questionContentFilterMatches\(/);
   assert.match(component, /visibleNodeIds=\{visibleNodeIds\}/);
-  assert.match(
-    component,
-    /value=\{imageView \? 'all' : preferences\.paperImageMode\}/,
-  );
-  assert.match(component, /<option value="all">All related assets<\/option>/);
-  assert.match(
-    component,
-    /<option value="prepared">Prepared preferred<\/option>/,
-  );
+  assert.doesNotMatch(component, /paperImageMode|All related assets/);
   assert.match(component, /<span>SVG image size<\/span>/);
-  assert.match(component, /imageView[\s\S]*imageComparisonScale/);
+  assert.match(component, /value=\{imageComparisonScale\}/);
   assert.match(component, /<option value="1">Original \(1×\)<\/option>/);
   assert.match(component, /<option value="2">Enlarged \(2×\)<\/option>/);
-  assert.match(component, /setImageComparisonScale\(scale\)/);
-  assert.match(component, /updatePreference\('paperImageScale', scale\)/);
+  assert.match(component, /setImageComparisonScale\(/);
+  assert.match(component, /updatePreference\('imageScale', scale\)/);
   assert.match(component, /value=\{displayPreferences\.reviewPanelMode\}/);
   assert.match(component, /<option value="content">Content only<\/option>/);
   assert.match(component, /<option value="image">Image only<\/option>/);
@@ -664,7 +659,7 @@ test('the URL-backed image view projects PaperImage occurrences without question
   assert.match(component, /aria-label="Visible image versions"/);
   assert.match(component, /IMAGE_COMPARISON_VERSIONS\.map/);
   assert.match(component, /toggleImageComparisonVersion/);
-  assert.match(component, /searchParams\.get\('image-scale'\) === '2'/);
+  assert.match(component, /searchParams\.get\('image-scale'\)/);
   assert.match(component, /<ImageQuestionNode/);
   assert.match(component, /<PaperImageComparison/);
   assert.match(
@@ -686,6 +681,11 @@ test('the URL-backed image view projects PaperImage occurrences without question
   assert.match(markdown, /image\.retiredVariants \?\? \[\]/);
   assert.match(markdown, /comparisonVariantOrder/);
   assert.match(markdown, /visibleVersions\.has/);
+  assert.match(
+    markdown,
+    /if \(image\) \{[\s\S]*?<PaperImageComparison[\s\S]*?visibleVersions=\{visibleImageVersions\}/,
+  );
+  assert.doesNotMatch(markdown, /imageMode|const prepared = image\.variants/);
   assert.match(css, /\.visual-paper-image-variants\s*{/);
   assert.match(css, /grid-template-columns:\s*repeat\(2, minmax\(0, 1fr\)\)/);
   assert.match(

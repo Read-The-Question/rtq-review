@@ -79,7 +79,6 @@ import {
   visibleReviewSides,
   type ReviewContext,
   type ReviewControlMode,
-  type PaperImageMode,
   type PaperImageScale,
   type QuestionContentFilter,
   type ReviewPanelMode,
@@ -195,13 +194,18 @@ function PaperMarkdown({
   markdown: string;
   preferences: ReviewPreferences;
 }) {
+  const visibleImageVersions = useMemo(
+    () => new Set(preferences.imageComparisonVersions),
+    [preferences.imageComparisonVersions],
+  );
+
   return (
     <RtqMarkdown
-      imageMode={preferences.paperImageMode}
       markdown={markdown}
-      paperImageScale={preferences.paperImageScale}
+      paperImageScale={preferences.imageScale}
       paperImages={field.paperImages}
       showImageTags={preferences.showImageTags}
+      visibleImageVersions={visibleImageVersions}
     />
   );
 }
@@ -1561,11 +1565,6 @@ function ImageQuestionNode({
                     {occurrence.scope} image {index + 1}
                   </span>
                 </header>
-                {occurrence.archiveReason ? (
-                  <p className="visual-occurrence-note">
-                    {occurrence.archiveReason}
-                  </p>
-                ) : null}
                 <PaperImageComparison
                   image={occurrence.image}
                   paperImageScale={imageComparisonScale}
@@ -2797,27 +2796,37 @@ export function ReviewSurface({
     requestedSurfaceView === 'images' ||
     (requestedSurfaceView !== 'content' &&
       preferences.surfaceView === 'images');
+  const requestedImageVersions = searchParams.get('image-versions');
   const visibleImageVersionList = useMemo(
-    () => parseImageComparisonVersions(searchParams.get('image-versions')),
-    [searchParams],
+    () =>
+      requestedImageVersions === null
+        ? preferences.imageComparisonVersions
+        : parseImageComparisonVersions(requestedImageVersions),
+    [preferences.imageComparisonVersions, requestedImageVersions],
   );
   const visibleImageVersions = useMemo(
     () => new Set(visibleImageVersionList),
     [visibleImageVersionList],
   );
+  const requestedImageScale = searchParams.get('image-scale');
   const imageComparisonScale: PaperImageScale =
-    searchParams.get('image-scale') === '2' ? 2 : 1;
+    requestedImageScale === '1' || requestedImageScale === '2'
+      ? (Number(requestedImageScale) as PaperImageScale)
+      : preferences.imageScale;
   const displayPreferences = useMemo<ReviewPreferences>(
-    () =>
-      imageView
+    () => ({
+      ...preferences,
+      imageComparisonVersions: visibleImageVersionList,
+      imageScale: imageComparisonScale,
+      ...(imageView
         ? {
-            ...preferences,
             questionContentFilter: 'image',
             reviewPanelMode: 'image',
             showQuestionStatusInfo: false,
           }
-        : preferences,
-    [imageView, preferences],
+        : {}),
+    }),
+    [imageComparisonScale, imageView, preferences, visibleImageVersionList],
   );
   const contentPattern = searchParams.get('content')?.trim() ?? '';
   const contentScope = normalizeContentSearchScope(
@@ -3609,7 +3618,11 @@ export function ReviewSurface({
     const nextVersions = selected
       ? visibleImageVersionList.filter((candidate) => candidate !== version)
       : [...visibleImageVersionList, version];
-    const value = serializeImageComparisonVersions(nextVersions);
+    const normalizedVersions = IMAGE_COMPARISON_VERSIONS.filter((candidate) =>
+      nextVersions.includes(candidate),
+    );
+    const value = serializeImageComparisonVersions(normalizedVersions);
+    updatePreference('imageComparisonVersions', normalizedVersions);
     const current = new URLSearchParams(searchParams.toString());
     if (value) current.set('image-versions', value);
     else current.delete('image-versions');
@@ -3617,6 +3630,7 @@ export function ReviewSurface({
   }
 
   function setImageComparisonScale(scale: PaperImageScale) {
+    updatePreference('imageScale', scale);
     const current = new URLSearchParams(searchParams.toString());
     if (scale === 2) current.set('image-scale', '2');
     else current.delete('image-scale');
@@ -4287,32 +4301,28 @@ export function ReviewSurface({
                 Images
               </button>
             </div>
-            {imageView ? (
-              <div
-                aria-label="Visible image versions"
-                className="image-version-switch"
-                role="group"
-              >
-                <span>Versions</span>
-                {IMAGE_COMPARISON_VERSIONS.map((version) => {
-                  const selected = visibleImageVersions.has(version);
-                  return (
-                    <button
-                      aria-pressed={selected}
-                      data-version={version}
-                      disabled={
-                        selected && visibleImageVersionList.length === 1
-                      }
-                      key={version}
-                      onClick={() => toggleImageComparisonVersion(version)}
-                      type="button"
-                    >
-                      {IMAGE_COMPARISON_VERSION_LABELS[version]}
-                    </button>
-                  );
-                })}
-              </div>
-            ) : null}
+            <div
+              aria-label="Visible image versions"
+              className="image-version-switch"
+              role="group"
+            >
+              <span>Versions</span>
+              {IMAGE_COMPARISON_VERSIONS.map((version) => {
+                const selected = visibleImageVersions.has(version);
+                return (
+                  <button
+                    aria-pressed={selected}
+                    data-version={version}
+                    disabled={selected && visibleImageVersionList.length === 1}
+                    key={version}
+                    onClick={() => toggleImageComparisonVersion(version)}
+                    type="button"
+                  >
+                    {IMAGE_COMPARISON_VERSION_LABELS[version]}
+                  </button>
+                );
+              })}
+            </div>
             <PreferenceToggle
               checked={preferences.showRaw}
               className="toolbar-raw-toggle"
@@ -4401,36 +4411,14 @@ export function ReviewSurface({
                   }
                 />
                 <label className="view-option-select">
-                  <span>Image versions</span>
-                  <select
-                    disabled={imageView}
-                    onChange={(event) =>
-                      updatePreference(
-                        'paperImageMode',
-                        event.target.value as PaperImageMode,
-                      )
-                    }
-                    value={imageView ? 'all' : preferences.paperImageMode}
-                  >
-                    <option value="all">All related assets</option>
-                    <option value="prepared">Prepared preferred</option>
-                  </select>
-                </label>
-                <label className="view-option-select">
                   <span>SVG image size</span>
                   <select
-                    onChange={(event) => {
-                      const scale = Number(
-                        event.target.value,
-                      ) as PaperImageScale;
-                      if (imageView) setImageComparisonScale(scale);
-                      else updatePreference('paperImageScale', scale);
-                    }}
-                    value={
-                      imageView
-                        ? imageComparisonScale
-                        : preferences.paperImageScale
+                    onChange={(event) =>
+                      setImageComparisonScale(
+                        Number(event.target.value) as PaperImageScale,
+                      )
                     }
+                    value={imageComparisonScale}
                   >
                     <option value="1">Original (1×)</option>
                     <option value="2">Enlarged (2×)</option>

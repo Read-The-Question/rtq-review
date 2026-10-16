@@ -238,9 +238,10 @@ function validatePaperImageSubpath(segments: string[]) {
   if (
     (scope === 'questions' || scope === 'workings' || scope === 'answers') &&
     ((provenance === 'manual' && remaining.length === 1) ||
-      (provenance === 'prepared' &&
-        remaining.length === 2 &&
-        remaining[0] === 'diagrams'))
+      (provenance === 'generated' &&
+        remaining.length === 3 &&
+        remaining[0] === 'v1' &&
+        remaining[1] === 'diagrams'))
   ) {
     return;
   }

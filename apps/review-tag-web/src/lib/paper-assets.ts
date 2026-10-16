@@ -132,7 +132,7 @@ type PaperImageVariant = {
   relativePath: string;
   technical: PaperImageTechnicalEntry;
   metadata: PaperImageMetadata;
-  provenance: 'manual' | 'prepared';
+  provenance: 'manual' | 'v1' | 'v2';
   svg?: PreparedReviewSvg;
 };
 
@@ -155,8 +155,8 @@ function hasExactKeys(
 ) {
   const keys = Object.keys(value);
   return (
-    required.every(key => keys.includes(key)) &&
-    keys.every(key => required.includes(key) || optional.includes(key))
+    required.every((key) => keys.includes(key)) &&
+    keys.every((key) => required.includes(key) || optional.includes(key))
   );
 }
 
@@ -350,7 +350,7 @@ function workingSectionCloseMarkup() {
 function replaceWorkingSections(text: string) {
   return text
     .split('\n')
-    .map(line => {
+    .map((line) => {
       const openMatch = line.match(WORKING_SECTION_OPEN_REGEX);
 
       if (openMatch) {
@@ -427,8 +427,8 @@ function paperImageAssetRelativePaths(
       : `-${assetScope === 'working' ? 'w' : 'a'}${String((scopeIndex ?? 0) + 1).padStart(2, '0')}`;
 
   const basename = `${compactAssetPrefix(context)}${scopeToken}-i${String(imageIndex).padStart(2, '0')}`;
-  const locations = (['manual', 'prepared'] as const).map(provenance => {
-    const sourceRelativeStem = `${owner}/${provenance === 'prepared' ? 'prepared/diagrams' : 'manual'}/${basename}`;
+  const locations = (['manual', 'v1', 'v2'] as const).map((provenance) => {
+    const sourceRelativeStem = `${owner}/${provenance === 'manual' ? 'manual' : `generated/${provenance}/diagrams`}/${basename}`;
     const logicalPath = [
       'papers',
       ...paperAssetPathSegments(context.assetFileStem ?? context.fileStem),
@@ -436,12 +436,12 @@ function paperImageAssetRelativePaths(
     ].join('/');
     return { provenance, sourceRelativeStem, logicalPath };
   });
-  const matches = locations.flatMap(location =>
+  const matches = locations.flatMap((location) =>
     resolveCanonicalPaperImageExtensions(
       context.assetFileStem ?? context.fileStem,
       location.sourceRelativeStem,
       EXTERNAL_ASSETS_ROOT,
-    ).map(extension => ({
+    ).map((extension) => ({
       provenance: location.provenance,
       extension,
       relativePath: `${location.logicalPath}.${extension}`,
@@ -537,7 +537,7 @@ function paperImageMetadata(
   scopeIndex: number | undefined,
   imageIndex: number,
   extension: (typeof PAPER_IMAGE_EXTENSIONS)[number] | undefined,
-  provenance: 'manual' | 'prepared' = 'manual',
+  provenance: 'manual' | 'v1' | 'v2' = 'manual',
 ): PaperImageMetadata {
   const ownerSegments = [
     assetScope === 'question'
@@ -545,7 +545,9 @@ function paperImageMetadata(
       : assetScope === 'working'
         ? 'workings'
         : 'answers',
-    ...(provenance === 'prepared' ? ['prepared', 'diagrams'] : ['manual']),
+    ...(provenance === 'manual'
+      ? ['manual']
+      : ['generated', provenance, 'diagrams']),
   ];
   const scopeToken =
     assetScope === 'question'
@@ -583,7 +585,7 @@ function paperImageMetadata(
     'surface',
     'version',
   ];
-  if (Object.keys(metadata).some(key => !keys.includes(key))) {
+  if (Object.keys(metadata).some((key) => !keys.includes(key))) {
     throw new Error(
       `Invalid PaperImage metadata at ${metadataPath}: fields must match version 1.`,
     );
@@ -615,7 +617,7 @@ function paperImageMetadata(
     );
   }
   if (
-    provenance === 'prepared' &&
+    provenance !== 'manual' &&
     (typeof metadata.alt !== 'string' ||
       !metadata.alt.trim() ||
       typeof metadata.description !== 'string' ||
@@ -659,7 +661,7 @@ function prepareLongDivision(
 ): PreparedLongDivision {
   const attrs = parseComponentAttributes(componentKey);
   const unknownAttribute = Object.keys(attrs).find(
-    attribute =>
+    (attribute) =>
       !LONG_DIVISION_AUTHORED_ATTRIBUTES.includes(
         attribute as (typeof LONG_DIVISION_AUTHORED_ATTRIBUTES)[number],
       ),
@@ -792,9 +794,7 @@ function paperImageMarkup(
   variants: readonly PaperImageVariant[],
   assetScope: PaperImageAssetScope,
 ) {
-  const hasPrepared = variants.some(
-    variant => variant.provenance === 'prepared',
-  );
+  const hasV1 = variants.some((variant) => variant.provenance === 'v1');
   const showFormat = variants.length > 1;
   const markup = variants
     .map((variant, index) =>
@@ -807,7 +807,7 @@ function paperImageMarkup(
       ),
     )
     .join('');
-  return `<div class="paper-image-group" data-has-prepared="${hasPrepared}" data-variant-count="${variants.length}">${markup}</div>`;
+  return `<div class="paper-image-group" data-has-v1="${hasV1}" data-variant-count="${variants.length}">${markup}</div>`;
 }
 
 function longDivisionMarkup(
@@ -837,14 +837,14 @@ function replacePaperImages(
 ) {
   let imageIndex = imageIndexOffset;
 
-  return text.replace(PAPER_IMAGE_REGEX, match => {
+  return text.replace(PAPER_IMAGE_REGEX, (match) => {
     if (!match.startsWith('<PaperImage')) {
       return TODO_IMAGE_MARKUP;
     }
     const attrs = parseComponentAttributes(match);
     const requestedRenderMode = paperImageRenderMode(match);
     const preparationAttribute = PAPER_IMAGE_PREPARATION_ATTRIBUTES.find(
-      attribute => attrs[attribute] !== undefined,
+      (attribute) => attrs[attribute] !== undefined,
     );
     if (preparationAttribute) {
       throw new Error(
@@ -852,7 +852,7 @@ function replacePaperImages(
       );
     }
     const unknownAttribute = Object.keys(attrs).find(
-      attribute =>
+      (attribute) =>
         !PAPER_IMAGE_AUTHORED_ATTRIBUTES.includes(
           attribute as (typeof PAPER_IMAGE_AUTHORED_ATTRIBUTES)[number],
         ),
@@ -874,11 +874,13 @@ function replacePaperImages(
       imageIndex,
     );
     const preferred = resolutions.some(
-      resolution => resolution.provenance === 'prepared',
+      (resolution) => resolution.provenance === 'v1',
     )
-      ? 'prepared'
-      : 'manual';
-    const variants = resolutions.map(resolution => {
+      ? 'v1'
+      : resolutions.some((resolution) => resolution.provenance === 'manual')
+        ? 'manual'
+        : 'v2';
+    const variants = resolutions.map((resolution) => {
       const metadata = paperImageMetadata(
         context,
         expectedScope,
@@ -932,7 +934,7 @@ function replaceLongDivisions(
 ) {
   let assetIndex = 0;
 
-  return text.replace(LONG_DIVISION_REGEX, match => {
+  return text.replace(LONG_DIVISION_REGEX, (match) => {
     const attrs = parseComponentAttributes(match);
     const variant =
       attrs.variant === 'bus' || attrs.variant === 'long'
@@ -942,7 +944,7 @@ function replaceLongDivisions(
       variant === 'both' ? ['long', 'bus'] : [variant];
 
     const output = variants
-      .map(currentVariant => {
+      .map((currentVariant) => {
         const paths = longDivisionAssetRelativePath(
           context,
           scopeType,

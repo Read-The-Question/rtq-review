@@ -11,6 +11,7 @@ import { join } from 'node:path';
 import test from 'node:test';
 
 import {
+  corpusQuestionLocationKey,
   inspectPaperSource,
   listPaperCollections,
   listPaperSources,
@@ -305,6 +306,32 @@ test('corpus question search returns bounded stable pages', async () => {
     assert.equal(second.matches[0].relativePath, 'two.toml');
     assert.equal(second.nextCursor, undefined);
     assert.ok(second.previousCursor);
+
+    const onlySecond = new Set([corpusQuestionLocationKey('two.toml', 0, 0)]);
+    const filtered = await searchPaperQuestionTrees(
+      'toml',
+      { pattern: 'Question', scope: 'question' },
+      { candidateQuestionKeys: onlySecond, limit: 1 },
+      options,
+    );
+    assert.equal(filtered.startPosition, 1);
+    assert.equal(filtered.endPosition, 1);
+    assert.equal(filtered.matches[0].relativePath, 'two.toml');
+    assert.equal(filtered.nextCursor, undefined);
+
+    await assert.rejects(
+      searchPaperQuestionTrees(
+        'toml',
+        { pattern: 'Question', scope: 'question' },
+        {
+          candidateQuestionKeys: onlySecond,
+          cursor: first.nextCursor,
+          limit: 1,
+        },
+        options,
+      ),
+      /cursor is invalid/i,
+    );
 
     await assert.rejects(
       searchPaperQuestionTrees(

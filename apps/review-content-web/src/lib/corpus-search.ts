@@ -1,7 +1,9 @@
 import 'server-only';
 
 import {
+  corpusQuestionLocationKey,
   paperCollectionForId,
+  PaperContentSearchError,
   readReviewPaper,
   searchPaperQuestionTrees,
   searchPaperQuestionTreesByUuids,
@@ -16,6 +18,11 @@ import type {
   CorpusSearchLimit,
   CorpusSearchResponse,
 } from './corpus-search-types';
+import type { ImageAvailabilityIndex } from './image-availability-index';
+import type {
+  ImageAvailabilityFilter,
+  ImageAvailabilityIndexSummary,
+} from './image-availability-types';
 import type { PaperPdfOption } from './paper-pdf';
 import { resolvePaperPdfByStem } from './paper-pdf-reader';
 import { prepareReviewPaperForDisplay } from './prepare-paper';
@@ -85,6 +92,9 @@ function corpusResponse(
     startPosition: number;
   }>,
   search: Readonly<{
+    excludedUuidCount?: number;
+    imageAvailability?: ImageAvailabilityFilter;
+    imageIndex?: ImageAvailabilityIndexSummary;
     missingUuids?: readonly string[];
     mode: 'content' | 'uuid';
     uuidInput?: string;
@@ -96,6 +106,9 @@ function corpusResponse(
     commentLoad: loadReviewCommentsForPaper(paper),
     collectionId: paper.source.collection.id,
     endPosition: page.endPosition,
+    excludedUuidCount: search.excludedUuidCount ?? 0,
+    imageAvailability: search.imageAvailability ?? 'any',
+    ...(search.imageIndex ? { imageIndex: search.imageIndex } : {}),
     invalidFileCount: page.invalidFileCount,
     limit: page.limit,
     missingUuids: search.missingUuids ?? [],
@@ -202,19 +215,35 @@ async function loadCorpusQuestions(
 export function emptyCanonicalQuestionCorpus(
   collectionId: PaperCollectionId,
   limit: CorpusSearchLimit,
+  image: Readonly<{
+    availability?: ImageAvailabilityFilter;
+    index?: ImageAvailabilityIndexSummary;
+  }> = {},
 ): CorpusSearchResponse {
-  return corpusResponse(corpusPaper(collectionId, [], 'Search results'), {
-    endPosition: 0,
-    invalidFileCount: 0,
-    limit,
-    scannedFileCount: 0,
-    startPosition: 0,
-  });
+  return corpusResponse(
+    corpusPaper(collectionId, [], 'Search results'),
+    {
+      endPosition: 0,
+      invalidFileCount: 0,
+      limit,
+      scannedFileCount: 0,
+      startPosition: 0,
+    },
+    {
+      imageAvailability: image.availability,
+      imageIndex: image.index,
+      mode: 'content',
+    },
+  );
 }
 
 export function emptyCanonicalQuestionUuidCorpus(
   collectionId: PaperCollectionId,
   input: string,
+  image: Readonly<{
+    availability?: ImageAvailabilityFilter;
+    index?: ImageAvailabilityIndexSummary;
+  }> = {},
 ): CorpusSearchResponse {
   return corpusResponse(
     corpusPaper(collectionId, [], 'UUID results'),
@@ -225,7 +254,12 @@ export function emptyCanonicalQuestionUuidCorpus(
       scannedFileCount: 0,
       startPosition: 0,
     },
-    { mode: 'uuid', uuidInput: input },
+    {
+      imageAvailability: image.availability,
+      imageIndex: image.index,
+      mode: 'uuid',
+      uuidInput: input,
+    },
   );
 }
 
@@ -233,11 +267,20 @@ export async function searchCanonicalQuestionCorpus(
   collectionId: PaperCollectionId,
   query: ContentSearchQuery,
   options: Readonly<{
+    candidateQuestionKeys?: ReadonlySet<string>;
     cursor?: string;
+    imageAvailability?: ImageAvailabilityFilter;
+    imageIndex?: ImageAvailabilityIndexSummary;
     limit: CorpusSearchLimit;
   }>,
 ): Promise<CorpusSearchResponse> {
-  const page = await searchPaperQuestionTrees(collectionId, query, options);
+  const page = await searchPaperQuestionTrees(collectionId, query, {
+    ...(options.candidateQuestionKeys
+      ? { candidateQuestionKeys: options.candidateQuestionKeys }
+      : {}),
+    ...(options.cursor ? { cursor: options.cursor } : {}),
+    limit: options.limit,
+  });
   const { pdfs, questions } = await loadCorpusQuestions(
     collectionId,
     page.matches,
@@ -261,7 +304,11 @@ export async function searchCanonicalQuestionCorpus(
       scannedFileCount: page.scannedFileCount,
       startPosition: page.startPosition,
     },
-    { mode: 'content' },
+    {
+      imageAvailability: options.imageAvailability,
+      imageIndex: options.imageIndex,
+      mode: 'content',
+    },
     pdfs,
   );
 }
@@ -269,11 +316,30 @@ export async function searchCanonicalQuestionCorpus(
 export async function searchCanonicalQuestionCorpusByUuids(
   collectionId: PaperCollectionId,
   input: string,
+  options: Readonly<{
+    candidateQuestionKeys?: ReadonlySet<string>;
+    imageAvailability?: ImageAvailabilityFilter;
+    imageIndex?: ImageAvailabilityIndexSummary;
+  }> = {},
 ): Promise<CorpusSearchResponse> {
   const result = await searchPaperQuestionTreesByUuids(collectionId, input);
+  const matches = options.candidateQuestionKeys
+    ? result.matches.filter((match) =>
+        options.candidateQuestionKeys?.has(
+          corpusQuestionLocationKey(
+            match.relativePath,
+            match.sectionIndex,
+            match.questionIndex,
+          ),
+        ),
+      )
+    : result.matches;
+  const excludedUuidCount = result.matches
+    .filter((match) => !matches.includes(match))
+    .reduce((count, match) => count + match.matchingNodeIds.length, 0);
   const { pdfs, questions } = await loadCorpusQuestions(
     collectionId,
-    result.matches,
+    matches,
     1,
   );
   const paper = corpusPaper(collectionId, questions, 'UUID results');
@@ -287,10 +353,102 @@ export async function searchCanonicalQuestionCorpusByUuids(
       startPosition: questions.length > 0 ? 1 : 0,
     },
     {
+      excludedUuidCount,
+      imageAvailability: options.imageAvailability,
+      imageIndex: options.imageIndex,
       missingUuids: result.missingUuids,
       mode: 'uuid',
       uuidInput: input,
       uuidRequestCount: result.requestedUuids.length,
+    },
+    pdfs,
+  );
+}
+
+type ImageAvailabilityCursor = Readonly<{
+  builtAt: string;
+  offset: number;
+  version: 1;
+}>;
+
+function imageAvailabilityCursor(
+  index: ImageAvailabilityIndex,
+  offset: number,
+): string {
+  return Buffer.from(
+    JSON.stringify({ builtAt: index.summary.builtAt, offset, version: 1 }),
+    'utf8',
+  ).toString('base64url');
+}
+
+function imageAvailabilityOffset(
+  index: ImageAvailabilityIndex,
+  cursor: string | undefined,
+): number {
+  if (!cursor) return 0;
+  try {
+    const parsed = JSON.parse(
+      Buffer.from(cursor, 'base64url').toString('utf8'),
+    ) as Partial<ImageAvailabilityCursor>;
+    if (
+      parsed.version !== 1 ||
+      parsed.builtAt !== index.summary.builtAt ||
+      !Number.isSafeInteger(parsed.offset) ||
+      (parsed.offset ?? -1) < 0
+    ) {
+      throw new Error('Invalid cursor.');
+    }
+    return parsed.offset as number;
+  } catch {
+    throw new PaperContentSearchError(
+      'The search page cursor is invalid for this image index.',
+    );
+  }
+}
+
+export async function searchCanonicalQuestionCorpusByImageAvailability(
+  collectionId: PaperCollectionId,
+  index: ImageAvailabilityIndex,
+  options: Readonly<{
+    cursor?: string;
+    limit: CorpusSearchLimit;
+  }>,
+): Promise<CorpusSearchResponse> {
+  const offset = imageAvailabilityOffset(index, options.cursor);
+  const matches = index.matches.slice(offset, offset + options.limit);
+  const startPosition = matches.length ? offset + 1 : 0;
+  const endPosition = offset + matches.length;
+  const { pdfs, questions } = await loadCorpusQuestions(
+    collectionId,
+    matches,
+    startPosition,
+  );
+  return corpusResponse(
+    corpusPaper(collectionId, questions, 'V2 image results'),
+    {
+      endPosition,
+      invalidFileCount: index.summary.invalidFileCount,
+      limit: options.limit,
+      ...(offset + matches.length < index.matches.length
+        ? {
+            nextCursor: imageAvailabilityCursor(index, offset + matches.length),
+          }
+        : {}),
+      ...(offset > 0
+        ? {
+            previousCursor: imageAvailabilityCursor(
+              index,
+              Math.max(0, offset - options.limit),
+            ),
+          }
+        : {}),
+      scannedFileCount: index.summary.scannedFileCount,
+      startPosition,
+    },
+    {
+      imageAvailability: 'v2',
+      imageIndex: index.summary,
+      mode: 'content',
     },
     pdfs,
   );

@@ -822,7 +822,8 @@ p {
 
 .paper-content-search > form,
 .corpus-search-mode,
-.corpus-search-collection {
+.corpus-search-collection,
+.image-availability-filter {
   grid-column: 2;
 }
 
@@ -896,6 +897,71 @@ p {
   border-color: var(--signal);
   box-shadow: 0 0 0 2px rgba(180, 35, 24, 0.16);
   outline: 0;
+}
+
+.image-availability-filter {
+  align-items: end;
+  background: var(--paper-bright);
+  border: 1px solid var(--rule-strong);
+  display: grid;
+  gap: 0.75rem;
+  grid-template-columns: minmax(12rem, 0.8fr) minmax(16rem, 1.2fr) auto;
+  padding: 0.75rem;
+}
+
+.image-availability-filter label,
+.image-availability-filter p {
+  display: grid;
+  gap: 0.3rem;
+  margin: 0;
+}
+
+.image-availability-filter label > span,
+.image-availability-filter p > strong {
+  color: var(--muted);
+  font-family: 'SFMono-Regular', Consolas, monospace;
+  font-size: 0.875rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.image-availability-filter select {
+  background: var(--paper-bright);
+  border: 1px solid var(--rule-strong);
+  color: var(--ink);
+  font-size: 0.9375rem;
+  min-height: 2.65rem;
+  padding: 0.55rem 0.65rem;
+}
+
+.image-availability-filter p > span {
+  color: var(--muted);
+  font-size: 0.875rem;
+  line-height: 1.35;
+}
+
+.image-availability-filter button {
+  background: transparent;
+  border: 1px solid var(--rule-strong);
+  color: var(--ink);
+  cursor: pointer;
+  font-size: 0.875rem;
+  font-weight: 800;
+  min-height: 2.65rem;
+  padding: 0.55rem 0.75rem;
+  text-transform: uppercase;
+}
+
+.image-availability-filter button:hover,
+.image-availability-filter button:focus-visible {
+  border-color: var(--signal);
+  color: var(--signal-dark);
+}
+
+.image-availability-filter button:disabled {
+  cursor: wait;
+  opacity: 0.55;
 }
 
 .uuid-search {
@@ -5159,9 +5225,14 @@ a.paper-row:hover {
   .paper-content-search > form,
   .corpus-search-mode,
   .corpus-search-collection,
+  .image-availability-filter,
   .uuid-search-missing,
   .uuid-search-summary {
     grid-column: 1;
+  }
+
+  .image-availability-filter {
+    grid-template-columns: minmax(12rem, 0.8fr) minmax(16rem, 1.2fr) auto;
   }
 
   .raw-content-search {
@@ -5298,6 +5369,11 @@ a.paper-row:hover {
 
   .raw-content-search {
     grid-template-columns: 1fr 1fr;
+  }
+
+  .image-availability-filter {
+    align-items: stretch;
+    grid-template-columns: 1fr;
   }
 
   .raw-content-search > label:first-child {

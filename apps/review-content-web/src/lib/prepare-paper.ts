@@ -319,7 +319,7 @@ function compactPrefix(context: ReviewAssetContext): string {
   return parts.join('-');
 }
 
-function ownerPath(
+export function paperImageOwnerPath(
   context: ReviewAssetContext,
   scope: ImageScope,
   imageIndex: number,
@@ -626,14 +626,19 @@ function paperImageMarkdown(
   );
   const canonicalMatches = (['manual', 'v1', 'v2'] as const).flatMap(
     (provenance) => {
-      const location = ownerPath(context, scope, imageIndex, provenance);
+      const location = paperImageOwnerPath(
+        context,
+        scope,
+        imageIndex,
+        provenance,
+      );
       return IMAGE_EXTENSIONS.filter((extension) =>
         existsSync(path.join(paperRoot, `${location.sourceStem}.${extension}`)),
       ).map((extension) => ({ extension, location, provenance }));
     },
   );
   const debugMatches = (['v1', 'v2'] as const).flatMap((version) => {
-    const location = ownerPath(context, scope, imageIndex, version);
+    const location = paperImageOwnerPath(context, scope, imageIndex, version);
     return existsSync(path.join(debugPaperRoot, `${location.sourceStem}.svg`))
       ? [
           {
@@ -644,7 +649,12 @@ function paperImageMarkdown(
         ]
       : [];
   });
-  const retiredLocation = ownerPath(context, scope, imageIndex, 'manual');
+  const retiredLocation = paperImageOwnerPath(
+    context,
+    scope,
+    imageIndex,
+    'manual',
+  );
   const retiredMatches = IMAGE_EXTENSIONS.filter((extension) =>
     existsSync(
       path.join(retiredPaperRoot, `${retiredLocation.sourceStem}.${extension}`),

@@ -8,10 +8,12 @@ import type {
 } from './display-model.ts';
 import {
   imageComparisonVersionForProvenance,
+  paperImageHasComparisonVersion,
   parseImageComparisonVersions,
   serializeImageComparisonVersions,
   visualOccurrencesForNode,
 } from './image-view.ts';
+import { normalizeImageAvailabilityFilter } from './image-availability-types.ts';
 
 const image: DisplayPaperImage = {
   align: 'start',
@@ -50,6 +52,12 @@ test('normalizes URL-backed image comparison versions', () => {
   );
 });
 
+test('normalizes the orthogonal V2 availability filter', () => {
+  assert.equal(normalizeImageAvailabilityFilter(null), 'any');
+  assert.equal(normalizeImageAvailabilityFilter('v2'), 'v2');
+  assert.equal(normalizeImageAvailabilityFilter('unknown'), 'any');
+});
+
 test('maps stored provenance to reviewer-facing versions', () => {
   assert.equal(imageComparisonVersionForProvenance('manual'), 'original');
   assert.equal(imageComparisonVersionForProvenance('retired'), 'original');
@@ -58,6 +66,31 @@ test('maps stored provenance to reviewer-facing versions', () => {
   assert.equal(imageComparisonVersionForProvenance('missing'), 'v1');
   assert.equal(imageComparisonVersionForProvenance('debug-v1'), 'debug-v1');
   assert.equal(imageComparisonVersionForProvenance('debug-v2'), 'debug-v2');
+});
+
+test('checks image availability independently for each generated version', () => {
+  const compared: DisplayPaperImage = {
+    ...image,
+    variants: [
+      {
+        alt: 'V1',
+        description: '',
+        format: 'SVG',
+        provenance: 'v1',
+        src: '/v1.svg',
+      },
+      {
+        alt: 'V2',
+        description: '',
+        format: 'SVG',
+        provenance: 'v2',
+        src: '/v2.svg',
+      },
+    ],
+  };
+  assert.equal(paperImageHasComparisonVersion(compared, 'v1'), true);
+  assert.equal(paperImageHasComparisonVersion(compared, 'v2'), true);
+  assert.equal(paperImageHasComparisonVersion(compared, 'debug-v2'), false);
 });
 
 function field(

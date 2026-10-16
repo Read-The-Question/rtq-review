@@ -58,6 +58,10 @@ const corpusSearchLibraryUrl = new URL(
   '../lib/corpus-search.ts',
   import.meta.url,
 );
+const imageAvailabilityIndexUrl = new URL(
+  '../lib/image-availability-index.ts',
+  import.meta.url,
+);
 
 test('the change-request queue counts and renders comment records only', async () => {
   const inbox = await fs.readFile(changeRequestInboxUrl, 'utf8');
@@ -892,6 +896,35 @@ test('corpus search has a distinct ordered multi-UUID mode', async () => {
     reviewSurface,
     /corpus\?\.searchMode === 'content'[\s\S]*<CorpusPageNavigation/,
   );
+});
+
+test('V2 availability is an indexed orthogonal corpus filter with an explicit rebuild', async () => {
+  const [component, page, route, search, reviewSurface, imageIndex] =
+    await Promise.all([
+      fs.readFile(corpusSearchUrl, 'utf8'),
+      fs.readFile(corpusSearchPageUrl, 'utf8'),
+      fs.readFile(corpusSearchRouteUrl, 'utf8'),
+      fs.readFile(corpusSearchLibraryUrl, 'utf8'),
+      fs.readFile(componentUrl, 'utf8'),
+      fs.readFile(imageAvailabilityIndexUrl, 'utf8'),
+    ]);
+
+  assert.match(page, /image-availability/);
+  assert.match(page, /imageAvailability !== 'any'/);
+  assert.match(component, /params\.set\('image-availability', 'v2'\)/);
+  assert.match(component, /method: 'POST'/);
+  assert.match(component, /onRebuildImageIndex: rebuildImageIndex/);
+  assert.match(route, /getImageAvailabilityIndex/);
+  assert.match(route, /rebuild: rebuildImageIndex/);
+  assert.match(route, /searchCanonicalQuestionCorpusByImageAvailability/);
+  assert.match(route, /candidateQuestionKeys: imageIndex\.questionKeys/);
+  assert.match(search, /candidateQuestionKeys/);
+  assert.match(imageIndex, /const imageAvailabilityIndexes = new Map/);
+  assert.match(imageIndex, /paperImageOwnerPath/);
+  assert.match(imageIndex, /corpusQuestionLocationKey/);
+  assert.match(reviewSurface, /IMAGE_AVAILABILITY_FILTERS\.map/);
+  assert.match(reviewSurface, /imageVersionVisibleNodeIds/);
+  assert.match(reviewSurface, /paperImageHasComparisonVersion/);
 });
 
 test('the landing page uses a compact paper-first introduction', async () => {

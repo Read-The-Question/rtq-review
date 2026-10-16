@@ -44,6 +44,16 @@ export function imageComparisonVersionForProvenance(
   return 'v1';
 }
 
+export function paperImageHasComparisonVersion(
+  image: DisplayPaperImage,
+  version: ImageComparisonVersion,
+): boolean {
+  return [...image.variants, ...(image.retiredVariants ?? [])].some(
+    (variant) =>
+      imageComparisonVersionForProvenance(variant.provenance) === version,
+  );
+}
+
 export function normalizeImageComparisonVersions(
   versions: readonly unknown[],
 ): readonly ImageComparisonVersion[] {

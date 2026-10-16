@@ -1,4 +1,8 @@
 import type { DisplayReviewPaper } from './display-model';
+import type {
+  ImageAvailabilityFilter,
+  ImageAvailabilityIndexSummary,
+} from './image-availability-types';
 import type { PaperPdfOption } from './paper-pdf';
 import type { PaperCollectionId } from '@rtq/review-paper-model';
 import type { ReviewCommentLoad, ReviewOutcomeLoad } from './review-types';
@@ -11,6 +15,9 @@ export type CorpusSearchResponse = Readonly<{
   commentLoad: ReviewCommentLoad;
   collectionId: PaperCollectionId;
   endPosition: number;
+  excludedUuidCount: number;
+  imageAvailability: ImageAvailabilityFilter;
+  imageIndex?: ImageAvailabilityIndexSummary;
   invalidFileCount: number;
   limit: CorpusSearchLimit;
   missingUuids: readonly string[];

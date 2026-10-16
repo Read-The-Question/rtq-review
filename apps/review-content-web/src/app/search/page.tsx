@@ -11,6 +11,8 @@ import {
   type CorpusSearchLimit,
 } from '@/lib/corpus-search-types';
 import { emptyCanonicalQuestionCorpus } from '@/lib/corpus-search';
+import { imageAvailabilityIndexSummary } from '@/lib/image-availability-index';
+import { normalizeImageAvailabilityFilter } from '@/lib/image-availability-types';
 
 export const dynamic = 'force-dynamic';
 export const runtime = 'nodejs';
@@ -27,6 +29,7 @@ export default async function CorpusSearchPage({
     content?: string | string[];
     'content-scope'?: string | string[];
     cursor?: string | string[];
+    'image-availability'?: string | string[];
     limit?: string | string[];
     uuids?: string | string[];
   }>;
@@ -48,7 +51,11 @@ export default async function CorpusSearchPage({
   );
   const pattern = stringParameter(parameters.content).trim();
   const uuidInput = stringParameter(parameters.uuids).trim();
+  const imageAvailability = normalizeImageAvailabilityFilter(
+    stringParameter(parameters['image-availability']),
+  );
   const cursor = stringParameter(parameters.cursor).trim() || undefined;
+  const imageIndex = imageAvailabilityIndexSummary(collectionId);
 
   return (
     <CorpusSearch
@@ -59,11 +66,14 @@ export default async function CorpusSearchPage({
       }))}
       cursor={cursor}
       initialResponse={
-        pattern || uuidInput
+        pattern || uuidInput || imageAvailability !== 'any'
           ? undefined
-          : emptyCanonicalQuestionCorpus(collectionId, limit)
+          : emptyCanonicalQuestionCorpus(collectionId, limit, {
+              index: imageIndex,
+            })
       }
-      key={`${collectionId}:${pattern}:${scope}:${uuidInput}:${limit}:${cursor ?? ''}`}
+      imageAvailability={imageAvailability}
+      key={`${collectionId}:${pattern}:${scope}:${uuidInput}:${imageAvailability}:${limit}:${cursor ?? ''}`}
       limit={limit}
       pattern={pattern}
       scope={scope}

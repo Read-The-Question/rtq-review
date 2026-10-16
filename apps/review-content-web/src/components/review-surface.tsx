@@ -48,11 +48,18 @@ import type {
 import {
   IMAGE_COMPARISON_VERSION_LABELS,
   IMAGE_COMPARISON_VERSIONS,
+  paperImageHasComparisonVersion,
   parseImageComparisonVersions,
   serializeImageComparisonVersions,
   visualOccurrencesForNode,
   type ImageComparisonVersion,
 } from '@/lib/image-view';
+import {
+  IMAGE_AVAILABILITY_FILTERS,
+  IMAGE_AVAILABILITY_LABELS,
+  type ImageAvailabilityFilter,
+  type ImageAvailabilityIndexSummary,
+} from '@/lib/image-availability-types';
 import type { PaperPdf, PaperPdfOption } from '@/lib/paper-pdf';
 import {
   DEFAULT_REVIEW_PREFERENCES,
@@ -125,6 +132,29 @@ const axisCopy: Readonly<Record<DimensionalTagAxis, string>> = {
   math: 'Math',
   reasoning: 'Reasoning',
 };
+
+function imageVersionVisibleNodeIds(
+  paper: DisplayReviewPaper,
+  version: ImageComparisonVersion,
+  includeSolutions: boolean,
+): ReadonlySet<string> {
+  const visible = new Set<string>();
+  const visit = (node: DisplayPaperNode): boolean => {
+    const ownVisible = visualOccurrencesForNode(node, {
+      includeSolutions,
+    }).some((occurrence) =>
+      paperImageHasComparisonVersion(occurrence.image, version),
+    );
+    let descendantVisible = false;
+    node.children.forEach((child) => {
+      descendantVisible = visit(child) || descendantVisible;
+    });
+    if (ownVisible || descendantVisible) visible.add(node.id);
+    return ownVisible || descendantVisible;
+  };
+  paper.sections.forEach((section) => section.questions.forEach(visit));
+  return visible;
+}
 
 const contentScopeLabels: Readonly<Record<ContentSearchScope, string>> = {
   all: 'All content',
@@ -1485,6 +1515,7 @@ function ImageQuestionNode({
   matchingNodeIds,
   node,
   preferences,
+  requiredImageVersion,
   reviewRuntime,
   topLevelQuestion,
   trail = [],
@@ -1495,6 +1526,7 @@ function ImageQuestionNode({
   matchingNodeIds: ReadonlySet<string>;
   node: DisplayPaperNode;
   preferences: ReviewPreferences;
+  requiredImageVersion?: ImageComparisonVersion;
   reviewRuntime: ReviewRuntimeState;
   topLevelQuestion: DisplayPaperNode;
   trail?: readonly string[];
@@ -1503,7 +1535,11 @@ function ImageQuestionNode({
 }) {
   const occurrences = visualOccurrencesForNode(node, {
     includeSolutions: preferences.showSolutions,
-  });
+  }).filter(
+    (occurrence) =>
+      !requiredImageVersion ||
+      paperImageHasComparisonVersion(occurrence.image, requiredImageVersion),
+  );
   const visibleChildren = visibleNodeIds
     ? node.children.filter((child) => visibleNodeIds.has(child.id))
     : node.children;
@@ -1612,6 +1648,7 @@ function ImageQuestionNode({
               matchingNodeIds={matchingNodeIds}
               node={child}
               preferences={preferences}
+              requiredImageVersion={requiredImageVersion}
               reviewRuntime={reviewRuntime}
               topLevelQuestion={topLevelQuestion}
               trail={nextTrail}
@@ -2099,10 +2136,15 @@ function PaperContentSearch({
   collections = [],
   context,
   error,
+  excludedUuidCount = 0,
+  imageAvailability = 'any',
+  imageIndex,
   limit,
   onApply,
   onClear,
+  onRebuildImageIndex,
   onUuidApply,
+  rebuildingImageIndex = false,
   search,
   searchMode = 'content',
   uuidInput = '',
@@ -2117,14 +2159,24 @@ function PaperContentSearch({
   >;
   context: 'corpus' | 'paper';
   error?: string;
+  excludedUuidCount?: number;
+  imageAvailability?: ImageAvailabilityFilter;
+  imageIndex?: ImageAvailabilityIndexSummary;
   limit?: 20 | 50 | 100;
   onApply: (
-    search: ContentSearchQuery,
+    search: ContentSearchQuery | undefined,
     limit?: 20 | 50 | 100,
     collectionId?: PaperCollectionId,
+    imageAvailability?: ImageAvailabilityFilter,
   ) => void;
   onClear: () => void;
-  onUuidApply?: (input: string, collectionId: PaperCollectionId) => void;
+  onRebuildImageIndex?: () => Promise<void>;
+  onUuidApply?: (
+    input: string,
+    collectionId: PaperCollectionId,
+    imageAvailability: ImageAvailabilityFilter,
+  ) => void;
+  rebuildingImageIndex?: boolean;
   search?: ContentSearchQuery;
   searchMode?: 'content' | 'uuid';
   uuidInput?: string;
@@ -2142,9 +2194,25 @@ function PaperContentSearch({
   const [selectedCollectionId, setSelectedCollectionId] = useState(
     collectionId ?? 'toml',
   );
+  const [selectedImageAvailability, setSelectedImageAvailability] =
+    useState<ImageAvailabilityFilter>(imageAvailability);
 
   function submit(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
+    if (!pattern.trim()) {
+      if (selectedImageAvailability === 'any') {
+        setDraftError('Enter a regular expression or choose an image filter.');
+        return;
+      }
+      setDraftError(undefined);
+      onApply(
+        undefined,
+        resultLimit,
+        selectedCollectionId,
+        selectedImageAvailability,
+      );
+      return;
+    }
     const compiled = compileContentSearch({ pattern, scope });
     if (compiled.state === 'invalid') {
       setDraftError(compiled.message);
@@ -2158,18 +2226,37 @@ function PaperContentSearch({
       },
       resultLimit,
       selectedCollectionId,
+      selectedImageAvailability,
     );
   }
 
   function submitUuids(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
+    if (!uuidDraft.trim()) {
+      if (selectedImageAvailability === 'any') {
+        setUuidDraftError('Enter UUIDs or choose an image filter.');
+        return;
+      }
+      setUuidDraftError(undefined);
+      onApply(
+        undefined,
+        resultLimit,
+        selectedCollectionId,
+        selectedImageAvailability,
+      );
+      return;
+    }
     const compiled = compileUuidSearch(uuidDraft);
     if (compiled.state === 'invalid') {
       setUuidDraftError(compiled.message);
       return;
     }
     setUuidDraftError(undefined);
-    onUuidApply?.(compiled.uuids.join(','), selectedCollectionId);
+    onUuidApply?.(
+      compiled.uuids.join(','),
+      selectedCollectionId,
+      selectedImageAvailability,
+    );
   }
 
   const displayedError =
@@ -2247,6 +2334,46 @@ function PaperContentSearch({
           </select>
         </label>
       ) : null}
+      {isCorpusSearch ? (
+        <div className="image-availability-filter">
+          <label>
+            <span>Image availability</span>
+            <select
+              onChange={(event) =>
+                setSelectedImageAvailability(
+                  event.currentTarget.value as ImageAvailabilityFilter,
+                )
+              }
+              value={selectedImageAvailability}
+            >
+              {IMAGE_AVAILABILITY_FILTERS.map((value) => (
+                <option key={value} value={value}>
+                  {IMAGE_AVAILABILITY_LABELS[value]}
+                </option>
+              ))}
+            </select>
+          </label>
+          <p>
+            <strong>Image index</strong>
+            <span>
+              {imageIndex
+                ? `${imageIndex.v2ImageCount} V2 images in ${imageIndex.v2QuestionCount} questions · built ${imageIndex.builtAt.slice(0, 19).replace('T', ' ')} UTC`
+                : 'Not built in this server session'}
+            </span>
+          </p>
+          <button
+            disabled={rebuildingImageIndex}
+            onClick={() => void onRebuildImageIndex?.()}
+            type="button"
+          >
+            {rebuildingImageIndex
+              ? 'Rebuilding…'
+              : imageIndex
+                ? 'Rebuild index'
+                : 'Build index'}
+          </button>
+        </div>
+      ) : null}
       {mode === 'uuid' && isCorpusSearch ? (
         <form className="uuid-search" onSubmit={submitUuids}>
           <label>
@@ -2261,10 +2388,14 @@ function PaperContentSearch({
               value={uuidDraft}
             />
           </label>
-          <button disabled={!uuidDraft.trim()} type="submit">
-            Find UUIDs
+          <button
+            disabled={!uuidDraft.trim() && selectedImageAvailability === 'any'}
+            type="submit"
+          >
+            {uuidDraft.trim() ? 'Find UUIDs' : 'Find images'}
           </button>
-          {searchMode === 'uuid' && uuidInput ? (
+          {(searchMode === 'uuid' && uuidInput) ||
+          imageAvailability !== 'any' ? (
             <button onClick={onClear} type="button">
               Clear
             </button>
@@ -2316,10 +2447,17 @@ function PaperContentSearch({
               </select>
             </label>
           ) : null}
-          <button disabled={!pattern.trim()} type="submit">
-            {isCorpusSearch ? 'Search corpus' : 'Apply to paper'}
+          <button
+            disabled={!pattern.trim() && selectedImageAvailability === 'any'}
+            type="submit"
+          >
+            {isCorpusSearch
+              ? pattern.trim()
+                ? 'Search corpus'
+                : 'Find images'
+              : 'Apply to paper'}
           </button>
-          {search ? (
+          {search || imageAvailability !== 'any' ? (
             <button onClick={onClear} type="button">
               Clear
             </button>
@@ -2334,10 +2472,19 @@ function PaperContentSearch({
         >
           {displayedError}
         </p>
-      ) : mode === 'uuid' && missingUuids.length > 0 ? (
+      ) : mode === 'uuid' &&
+        (missingUuids.length > 0 || excludedUuidCount > 0) ? (
         <p className="uuid-search-missing" role="status">
-          <strong>{missingUuids.length} not found:</strong>{' '}
-          {missingUuids.join(', ')}
+          {missingUuids.length > 0 ? (
+            <>
+              <strong>{missingUuids.length} not found:</strong>{' '}
+              {missingUuids.join(', ')}
+            </>
+          ) : null}
+          {missingUuids.length > 0 && excludedUuidCount > 0 ? ' · ' : null}
+          {excludedUuidCount > 0
+            ? `${excludedUuidCount} excluded by ${IMAGE_AVAILABILITY_LABELS[imageAvailability]}`
+            : null}
         </p>
       ) : mode === 'uuid' && searchMode === 'uuid' && uuidInput ? (
         <p className="uuid-search-summary" role="status">
@@ -2445,12 +2592,17 @@ function reviewOutlineSections({
 function paperImageCountsByNode(
   paper: DisplayReviewPaper,
   includeSolutions = true,
+  requiredVersion?: ImageComparisonVersion,
 ): ReadonlyMap<string, number> {
   const counts = new Map<string, number>();
 
   function visit(node: DisplayPaperNode) {
     const countImages = (field: DisplayContentField) =>
-      field.paperImages?.length ?? 0;
+      (field.paperImages ?? []).filter(
+        (image) =>
+          !requiredVersion ||
+          paperImageHasComparisonVersion(image, requiredVersion),
+      ).length;
     const count =
       countImages(node.content.question) +
       (includeSolutions
@@ -2594,18 +2746,27 @@ export type CorpusReviewSurfaceConfig = Readonly<{
     }>
   >;
   endPosition: number;
+  excludedUuidCount: number;
+  imageAvailability: ImageAvailabilityFilter;
+  imageIndex?: ImageAvailabilityIndexSummary;
   invalidFileCount: number;
   limit: 20 | 50 | 100;
   missingUuids: readonly string[];
   nextCursor?: string;
   onClearSearch: () => void;
   onContentSearch: (
-    search: ContentSearchQuery,
+    search: ContentSearchQuery | undefined,
     limit: 20 | 50 | 100,
     collectionId: PaperCollectionId,
+    imageAvailability: ImageAvailabilityFilter,
   ) => void;
   onPage: (cursor: string) => void;
-  onUuidSearch: (input: string, collectionId: PaperCollectionId) => void;
+  onRebuildImageIndex: () => Promise<void>;
+  onUuidSearch: (
+    input: string,
+    collectionId: PaperCollectionId,
+    imageAvailability: ImageAvailabilityFilter,
+  ) => void;
   previousCursor?: string;
   scannedFileCount: number;
   searchError?: string;
@@ -2613,6 +2774,7 @@ export type CorpusReviewSurfaceConfig = Readonly<{
   startPosition: number;
   uuidInput: string;
   uuidRequestCount: number;
+  rebuildingImageIndex: boolean;
 }>;
 
 function CorpusPageNavigation({
@@ -2796,6 +2958,8 @@ export function ReviewSurface({
     requestedSurfaceView === 'images' ||
     (requestedSurfaceView !== 'content' &&
       preferences.surfaceView === 'images');
+  const requiredImageVersion: ImageComparisonVersion | undefined =
+    imageView && corpus?.imageAvailability === 'v2' ? 'v2' : undefined;
   const requestedImageVersions = searchParams.get('image-versions');
   const visibleImageVersionList = useMemo(
     () =>
@@ -2919,16 +3083,34 @@ export function ReviewSurface({
       paper,
     ],
   );
-  const visibleNodeIds = useMemo(
+  const imageAvailabilityVisibleNodeIds = useMemo(
     () =>
+      requiredImageVersion
+        ? imageVersionVisibleNodeIds(
+            paper,
+            requiredImageVersion,
+            !imageView || displayPreferences.showSolutions,
+          )
+        : undefined,
+    [displayPreferences.showSolutions, imageView, paper, requiredImageVersion],
+  );
+  const visibleNodeIds = useMemo(() => {
+    const contentVisible =
       displayPreferences.questionContentFilter === 'all'
         ? undefined
-        : new Set(questionContentMatches.visibleNodeIds),
-    [
-      displayPreferences.questionContentFilter,
-      questionContentMatches.visibleNodeIds,
-    ],
-  );
+        : new Set(questionContentMatches.visibleNodeIds);
+    if (!imageAvailabilityVisibleNodeIds) return contentVisible;
+    if (!contentVisible) return imageAvailabilityVisibleNodeIds;
+    return new Set(
+      [...contentVisible].filter((id) =>
+        imageAvailabilityVisibleNodeIds.has(id),
+      ),
+    );
+  }, [
+    displayPreferences.questionContentFilter,
+    imageAvailabilityVisibleNodeIds,
+    questionContentMatches.visibleNodeIds,
+  ]);
   const result = useMemo(() => {
     if (displayPreferences.questionContentFilter === 'all') {
       return unfilteredResult;
@@ -3085,8 +3267,9 @@ export function ReviewSurface({
       paperImageCountsByNode(
         paper,
         !imageView || displayPreferences.showSolutions,
+        requiredImageVersion,
       ),
-    [displayPreferences.showSolutions, imageView, paper],
+    [displayPreferences.showSolutions, imageView, paper, requiredImageVersion],
   );
   const outlineSections = useMemo(
     () =>
@@ -3654,18 +3837,21 @@ export function ReviewSurface({
   }
 
   function applyContentSearch(
-    search: ContentSearchQuery,
+    search: ContentSearchQuery | undefined,
     requestedLimit?: 20 | 50 | 100,
     requestedCollectionId?: PaperCollectionId,
+    imageAvailability: ImageAvailabilityFilter = 'any',
   ) {
     if (corpus) {
       corpus.onContentSearch(
         search,
         requestedLimit ?? corpus.limit,
         requestedCollectionId ?? corpus.collectionId,
+        imageAvailability,
       );
       return;
     }
+    if (!search) return;
     const current = new URLSearchParams(searchParams.toString());
     current.delete('question');
     current.set('content', search.pattern);
@@ -4044,10 +4230,12 @@ export function ReviewSurface({
             </h1>
             <code>
               {corpus?.searchMode === 'uuid'
-                ? `${corpus.uuidRequestCount - corpus.missingUuids.length} found · ${corpus.missingUuids.length} missing`
+                ? `${corpus.uuidRequestCount - corpus.missingUuids.length - corpus.excludedUuidCount} found · ${corpus.missingUuids.length} missing${corpus.excludedUuidCount ? ` · ${corpus.excludedUuidCount} excluded` : ''}`
                 : corpus && contentSearch
-                  ? `/${contentSearch.pattern}/im · ${contentScopeLabels[contentSearch.scope]}`
-                  : paper.source.fileName}
+                  ? `/${contentSearch.pattern}/im · ${contentScopeLabels[contentSearch.scope]}${corpus.imageAvailability === 'v2' ? ' · Has V2' : ''}`
+                  : corpus?.imageAvailability === 'v2'
+                    ? 'Has V2 images'
+                    : paper.source.fileName}
             </code>
             <dl className="paper-summary-metadata">
               <div>
@@ -4121,12 +4309,17 @@ export function ReviewSurface({
           collections={corpus.collections}
           context="corpus"
           error={corpus.searchError}
-          key={`${corpus.collectionId}:${corpus.searchMode}:${contentSearch?.pattern ?? ''}:${contentSearch?.scope ?? 'all'}:${corpus.uuidInput}:${corpus.limit}`}
+          excludedUuidCount={corpus.excludedUuidCount}
+          imageAvailability={corpus.imageAvailability}
+          imageIndex={corpus.imageIndex}
+          key={`${corpus.collectionId}:${corpus.searchMode}:${contentSearch?.pattern ?? ''}:${contentSearch?.scope ?? 'all'}:${corpus.uuidInput}:${corpus.imageAvailability}:${corpus.limit}`}
           limit={corpus.limit}
           missingUuids={corpus.missingUuids}
           onApply={applyContentSearch}
           onClear={clearContentSearch}
+          onRebuildImageIndex={corpus.onRebuildImageIndex}
           onUuidApply={corpus.onUuidSearch}
+          rebuildingImageIndex={corpus.rebuildingImageIndex}
           search={contentSearch}
           searchMode={corpus.searchMode}
           uuidInput={corpus.uuidInput}
@@ -4605,6 +4798,7 @@ export function ReviewSurface({
                         matchingNodeIds={matchingNodeIds}
                         node={displayQuestion}
                         preferences={displayPreferences}
+                        requiredImageVersion={requiredImageVersion}
                         reviewRuntime={reviewRuntime}
                         topLevelQuestion={displayQuestion}
                         visibleImageVersions={visibleImageVersions}

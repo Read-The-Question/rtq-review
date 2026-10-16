@@ -88,6 +88,7 @@ export type {
   ReviewWorking,
 } from './model.ts';
 export {
+  corpusQuestionLocationKey,
   inspectPaperSource,
   listPaperSources,
   listPaperSourcesForCollection,

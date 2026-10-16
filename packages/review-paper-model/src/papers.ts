@@ -74,6 +74,7 @@ export class PaperContentSearchError extends Error {
 }
 
 type CorpusQuestionSearchOptions = Readonly<{
+  candidateQuestionKeys?: ReadonlySet<string>;
   cursor?: string;
   limit: number;
 }>;
@@ -84,17 +85,34 @@ type CorpusSearchCursor = Readonly<{
   version: 1;
 }>;
 
-function corpusSearchQueryKey(query: ContentSearchQuery): string {
-  return hashContent(`${query.scope}\0${query.pattern}`);
+export function corpusQuestionLocationKey(
+  relativePath: string,
+  sectionIndex: number,
+  questionIndex: number,
+): string {
+  return `${relativePath}\0${sectionIndex}\0${questionIndex}`;
+}
+
+function corpusSearchQueryKey(
+  query: ContentSearchQuery,
+  candidateQuestionKeys?: ReadonlySet<string>,
+): string {
+  const candidateFingerprint = candidateQuestionKeys
+    ? hashContent([...candidateQuestionKeys].toSorted().join('\0'))
+    : '';
+  return hashContent(
+    `${query.scope}\0${query.pattern}\0${candidateFingerprint}`,
+  );
 }
 
 function encodeCorpusSearchCursor(
   query: ContentSearchQuery,
   offset: number,
+  candidateQuestionKeys?: ReadonlySet<string>,
 ): string {
   const cursor: CorpusSearchCursor = {
     offset,
-    query: corpusSearchQueryKey(query),
+    query: corpusSearchQueryKey(query, candidateQuestionKeys),
     version: 1,
   };
   return Buffer.from(JSON.stringify(cursor), 'utf8').toString('base64url');
@@ -103,6 +121,7 @@ function encodeCorpusSearchCursor(
 function decodeCorpusSearchCursor(
   value: string | undefined,
   query: ContentSearchQuery,
+  candidateQuestionKeys?: ReadonlySet<string>,
 ): number {
   if (!value) return 0;
   try {
@@ -117,7 +136,7 @@ function decodeCorpusSearchCursor(
       !Number.isSafeInteger((parsed as Partial<CorpusSearchCursor>).offset) ||
       ((parsed as Partial<CorpusSearchCursor>).offset ?? -1) < 0 ||
       (parsed as Partial<CorpusSearchCursor>).query !==
-        corpusSearchQueryKey(query)
+        corpusSearchQueryKey(query, candidateQuestionKeys)
     ) {
       throw new Error('Invalid cursor.');
     }
@@ -629,6 +648,7 @@ export async function searchPaperQuestionTrees(
   const offset = decodeCorpusSearchCursor(
     searchOptions.cursor,
     normalizedQuery,
+    searchOptions.candidateQuestionKeys,
   );
   const collection = paperCollectionForId(collectionId);
   const root = resolvePaperCollectionRoot(collection.directory, options);
@@ -683,6 +703,18 @@ export async function searchPaperQuestionTrees(
           questionIndex < questions.length;
           questionIndex += 1
         ) {
+          if (
+            searchOptions.candidateQuestionKeys &&
+            !searchOptions.candidateQuestionKeys.has(
+              corpusQuestionLocationKey(
+                relativePath,
+                sectionIndex,
+                questionIndex,
+              ),
+            )
+          ) {
+            continue;
+          }
           const matchingNodeIds = parsedQuestionTreeContentMatchNodeIds(
             questions[questionIndex],
             compiled.search,
@@ -721,6 +753,7 @@ export async function searchPaperQuestionTrees(
           nextCursor: encodeCorpusSearchCursor(
             normalizedQuery,
             offset + matches.length,
+            searchOptions.candidateQuestionKeys,
           ),
         }
       : {}),
@@ -729,6 +762,7 @@ export async function searchPaperQuestionTrees(
           previousCursor: encodeCorpusSearchCursor(
             normalizedQuery,
             Math.max(0, offset - searchOptions.limit),
+            searchOptions.candidateQuestionKeys,
           ),
         }
       : {}),

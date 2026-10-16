@@ -32,7 +32,8 @@ test('normalizes URL-backed image comparison versions', () => {
   ]);
   assert.deepEqual(parseImageComparisonVersions('debug,original,unknown'), [
     'original',
-    'debug',
+    'debug-v1',
+    'debug-v2',
   ]);
   assert.deepEqual(parseImageComparisonVersions('unknown'), [
     'original',
@@ -44,8 +45,8 @@ test('normalizes URL-backed image comparison versions', () => {
     undefined,
   );
   assert.equal(
-    serializeImageComparisonVersions(['debug', 'original']),
-    'original,debug',
+    serializeImageComparisonVersions(['debug-v2', 'original']),
+    'original,debug-v2',
   );
 });
 
@@ -55,8 +56,8 @@ test('maps stored provenance to reviewer-facing versions', () => {
   assert.equal(imageComparisonVersionForProvenance('v1'), 'v1');
   assert.equal(imageComparisonVersionForProvenance('v2'), 'v2');
   assert.equal(imageComparisonVersionForProvenance('missing'), 'v1');
-  assert.equal(imageComparisonVersionForProvenance('debug-v1'), 'debug');
-  assert.equal(imageComparisonVersionForProvenance('debug-v2'), 'debug');
+  assert.equal(imageComparisonVersionForProvenance('debug-v1'), 'debug-v1');
+  assert.equal(imageComparisonVersionForProvenance('debug-v2'), 'debug-v2');
 });
 
 function field(

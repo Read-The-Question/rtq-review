@@ -170,8 +170,8 @@ const comparisonVariantOrder: Readonly<
   manual: 0,
   retired: 1,
   v1: 2,
-  v2: 3,
-  'debug-v1': 4,
+  'debug-v1': 3,
+  v2: 4,
   'debug-v2': 5,
   missing: 6,
 };
@@ -215,8 +215,8 @@ export function PaperImageComparison({
       imageComparisonVersionForProvenance(variant.provenance),
     ),
   ).size;
-  const threeVersionLayout =
-    versionCount === 3 &&
+  const originalSpansRow =
+    versionCount >= 3 &&
     variants.some(
       (variant) =>
         imageComparisonVersionForProvenance(variant.provenance) === 'original',
@@ -232,7 +232,8 @@ export function PaperImageComparison({
       {showImageTags ? <PaperImageTags image={image} /> : null}
       <span
         className="visual-paper-image-variants"
-        data-layout={threeVersionLayout ? 'three' : versionCount}
+        data-layout={versionCount}
+        data-original-row={originalSpansRow ? 'true' : undefined}
       >
         {variants.length ? (
           variants.map((variant) => (

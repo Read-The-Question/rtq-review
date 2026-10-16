@@ -2112,7 +2112,8 @@ a.paper-row:hover {
   --version-colour: var(--image-prepared);
 }
 
-.image-version-switch button[data-version='debug'] {
+.image-version-switch button[data-version='debug-v1'],
+.image-version-switch button[data-version='debug-v2'] {
   --version-colour: var(--image-debug);
 }
 
@@ -2970,7 +2971,7 @@ a.paper-row:hover {
   grid-template-columns: minmax(0, 1fr);
 }
 
-.visual-paper-image-variants[data-layout='three']
+.visual-paper-image-variants[data-original-row='true']
   > .rtq-paper-image-variant[data-version='original'] {
   grid-column: 1 / -1;
 }
@@ -5437,7 +5438,7 @@ a.paper-row:hover {
     grid-template-columns: minmax(0, 1fr);
   }
 
-  .visual-paper-image-variants[data-layout='three']
+  .visual-paper-image-variants[data-original-row='true']
     > .rtq-paper-image-variant[data-version='original'] {
     grid-column: auto;
   }

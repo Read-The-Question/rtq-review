@@ -89,7 +89,7 @@ test('preferences survive partial and malformed local values', () => {
     parseReviewPreferences(
       '{"imageComparisonVersions":["debug","original","unknown"]}',
     ).imageComparisonVersions,
-    ['original', 'debug'],
+    ['original', 'debug-v1', 'debug-v2'],
   );
   assert.deepEqual(
     parseReviewPreferences('{"imageComparisonVersions":[]}')

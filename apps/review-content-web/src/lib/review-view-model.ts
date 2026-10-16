@@ -9,7 +9,7 @@ import type { ReviewSide } from '@rtq/review-store/types';
 import type { QuestionContentFilter } from './question-content-filter';
 import {
   DEFAULT_IMAGE_COMPARISON_VERSIONS,
-  IMAGE_COMPARISON_VERSIONS,
+  normalizeImageComparisonVersions,
   type ImageComparisonVersion,
 } from './image-view.ts';
 
@@ -240,13 +240,8 @@ export function parseReviewPreferences(
   const requestedImageVersions = records
     .map((record) => record?.imageComparisonVersions)
     .find(Array.isArray);
-  const migratedImageVersions = requestedImageVersions?.map((version) =>
-    version === 'prepared' ? 'v1' : version,
-  );
   const normalizedImageVersions = requestedImageVersions
-    ? IMAGE_COMPARISON_VERSIONS.filter((version) =>
-        migratedImageVersions?.includes(version),
-      )
+    ? normalizeImageComparisonVersions(requestedImageVersions)
     : [];
   const requestedImageScale = records
     .map((record) => record?.imageScale ?? record?.paperImageScale)

@@ -31,7 +31,13 @@ const { prepareReviewPaperNodeForDisplay } = await import('./prepare-paper.ts');
 const { PaperImageComparison, RtqMarkdown } =
   await import('../components/rtq-markdown.tsx');
 
-const ALL_IMAGE_VERSIONS = new Set(['original', 'v1', 'v2', 'debug'] as const);
+const ALL_IMAGE_VERSIONS = new Set([
+  'original',
+  'v1',
+  'debug-v1',
+  'v2',
+  'debug-v2',
+] as const);
 const PREPARED_IMAGE_VERSION = new Set(['v1'] as const);
 
 function fixture(t: TestContext) {
@@ -247,7 +253,9 @@ function render(
     paperImageScale?: 1 | 2;
     paperImages?: readonly DisplayPaperImage[];
     showImageTags?: boolean;
-    visibleImageVersions?: ReadonlySet<'debug' | 'original' | 'v1' | 'v2'>;
+    visibleImageVersions?: ReadonlySet<
+      'debug-v1' | 'debug-v2' | 'original' | 'v1' | 'v2'
+    >;
   }> = {},
 ) {
   return renderToStaticMarkup(
@@ -532,7 +540,7 @@ test('shows retired manual artwork through the shared comparison renderer', (t) 
       image: prepared.paperImages?.[0] as DisplayPaperImage,
       paperImageScale: 1,
       showImageTags: false,
-      visibleVersions: new Set(['original', 'v1', 'debug'] as const),
+      visibleVersions: new Set(['original', 'v1', 'debug-v1'] as const),
     }),
   );
   assert.match(comparison, /V1 · SVG/);
@@ -541,7 +549,7 @@ test('shows retired manual artwork through the shared comparison renderer', (t) 
   assert.match(comparison, /Retired screenshot/);
 });
 
-test('filters comparison versions and puts the original above generated SVGs', () => {
+test('puts the original first and pairs each generated SVG with its debug SVG', () => {
   const comparisonImage: DisplayPaperImage = {
     align: 'start',
     alt: 'Comparison',
@@ -566,11 +574,25 @@ test('filters comparison versions and puts the original above generated SVGs', (
         src: '/prepared.svg',
       },
       {
+        alt: 'Prepared diagram V2',
+        description: '',
+        format: 'SVG',
+        provenance: 'v2',
+        src: '/prepared-v2.svg',
+      },
+      {
         alt: 'Debug diagram',
         description: '',
         format: 'SVG',
         provenance: 'debug-v1',
         src: '/debug.svg',
+      },
+      {
+        alt: 'Debug diagram V2',
+        description: '',
+        format: 'SVG',
+        provenance: 'debug-v2',
+        src: '/debug-v2.svg',
       },
     ],
   };
@@ -579,29 +601,47 @@ test('filters comparison versions and puts the original above generated SVGs', (
       image: comparisonImage,
       paperImageScale: 1,
       showImageTags: false,
-      visibleVersions: new Set(['original', 'v1', 'debug'] as const),
+      visibleVersions: ALL_IMAGE_VERSIONS,
     }),
   );
-  assert.match(all, /data-layout="three"/);
+  assert.match(all, /data-layout="5"/);
+  assert.match(all, /data-original-row="true"/);
   assert.match(all, /data-version="original"/);
   assert.match(all, /data-format="PNG"/);
   assert.match(all, /data-format="SVG"/);
   assert.match(all, /Original · PNG/);
-  assert.match(all, /V1 · SVG/);
-  assert.match(all, /Debug V1 · SVG/);
+  assert.match(
+    all,
+    /Original · PNG[\s\S]*V1 · SVG[\s\S]*Debug V1 · SVG[\s\S]*V2 · SVG[\s\S]*Debug V2 · SVG/,
+  );
 
   const generated = renderToStaticMarkup(
     createElement(PaperImageComparison, {
       image: comparisonImage,
       paperImageScale: 1,
       showImageTags: false,
-      visibleVersions: new Set(['v1', 'debug'] as const),
+      visibleVersions: new Set(['v1', 'debug-v1'] as const),
     }),
   );
   assert.match(generated, /data-layout="2"/);
+  assert.doesNotMatch(generated, /data-original-row/);
   assert.doesNotMatch(generated, /Original · PNG|original\.png/);
   assert.match(generated, /V1 · SVG/);
   assert.match(generated, /Debug V1 · SVG/);
+  assert.doesNotMatch(generated, /V2 · SVG|Debug V2 · SVG/);
+
+  const generatedV2 = renderToStaticMarkup(
+    createElement(PaperImageComparison, {
+      image: comparisonImage,
+      paperImageScale: 1,
+      showImageTags: false,
+      visibleVersions: new Set(['v2', 'debug-v2'] as const),
+    }),
+  );
+  assert.match(generatedV2, /data-layout="2"/);
+  assert.match(generatedV2, /V2 · SVG/);
+  assert.match(generatedV2, /Debug V2 · SVG/);
+  assert.doesNotMatch(generatedV2, /V1 · SVG|Debug V1 · SVG/);
 });
 
 test('maps a retired-only original back to its current question UUID', (t) => {

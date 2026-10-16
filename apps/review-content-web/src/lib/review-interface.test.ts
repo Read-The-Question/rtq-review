@@ -690,7 +690,7 @@ test('the URL-backed image view projects PaperImage occurrences without question
   assert.match(css, /grid-template-columns:\s*repeat\(2, minmax\(0, 1fr\)\)/);
   assert.match(
     css,
-    /\.visual-paper-image-variants\[data-layout='three'\][\s\S]*data-version='original'/,
+    /\.visual-paper-image-variants\[data-original-row='true'\][\s\S]*data-version='original'/,
   );
   assert.match(css, /\.image-version-switch\s*{/);
   assert.match(

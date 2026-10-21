@@ -23,6 +23,7 @@ import type {
   PaperSourceSummary,
   ReviewAnswer,
   ReviewAssetContext,
+  ReviewContentFieldSource,
   ReviewPaper,
   ReviewPaperMetadata,
   ReviewPaperNode,
@@ -58,6 +59,11 @@ type NodePosition = Readonly<{
   subquestionIndex?: number;
   subSubquestionIndex?: number;
 }>;
+
+type ContentFieldSourceLocation = Pick<
+  ReviewContentFieldSource,
+  'collectionId' | 'relativePath'
+>;
 
 type CachedPaperSource = Readonly<{
   fingerprint: string;
@@ -1022,32 +1028,82 @@ function reviewWorkings(
   rawWorkings: unknown,
   macros: PaperMacros,
   position: NodePosition,
+  nodeUuid: string | undefined,
+  sourceLocation: ContentFieldSourceLocation,
 ): ReviewWorking[] {
   return asRecords(rawWorkings).map((working, workingIndex) => {
     const context = assetContext(position, 'working', workingIndex);
     return {
-      formulas: asRecords(working.formulas).map((formula) =>
-        createReviewContentField(formula.formula, macros, context),
+      formulas: asRecords(working.formulas).map((formula, itemIndex) =>
+        createReviewContentField(formula.formula, macros, context, {
+          ...sourceLocation,
+          itemIndex,
+          kind: 'formula',
+          ...(nodeUuid ? { nodeUuid } : {}),
+          workingIndex,
+        }),
       ),
-      tips: asRecords(working.tips).map((tip) =>
-        createReviewContentField(tip.tip, macros, context),
+      tips: asRecords(working.tips).map((tip, itemIndex) =>
+        createReviewContentField(tip.tip, macros, context, {
+          ...sourceLocation,
+          itemIndex,
+          kind: 'tip',
+          ...(nodeUuid ? { nodeUuid } : {}),
+          workingIndex,
+        }),
       ),
-      working: createReviewContentField(working.working, macros, context),
+      working: createReviewContentField(working.working, macros, context, {
+        ...sourceLocation,
+        kind: 'working',
+        ...(nodeUuid ? { nodeUuid } : {}),
+        workingIndex,
+      }),
     };
   });
+}
+
+function answerFieldSource(
+  kind: 'answer' | 'key' | 'option',
+  answerIndex: number,
+  nodeUuid: string | undefined,
+  sourceLocation: ContentFieldSourceLocation,
+) {
+  return {
+    ...sourceLocation,
+    answerIndex,
+    kind,
+    ...(nodeUuid ? { nodeUuid } : {}),
+  } as const;
 }
 
 function reviewAnswers(
   rawAnswers: unknown,
   macros: PaperMacros,
   position: NodePosition,
+  nodeUuid: string | undefined,
+  sourceLocation: ContentFieldSourceLocation,
 ): ReviewAnswer[] {
   return asRecords(rawAnswers).map((answer, answerIndex) => {
     const context = assetContext(position, 'answer', answerIndex);
     return {
-      answer: createReviewContentField(answer.answer, macros, context),
-      key: createReviewContentField(answer.key, macros, context),
-      option: createReviewContentField(answer.option, macros, context),
+      answer: createReviewContentField(
+        answer.answer,
+        macros,
+        context,
+        answerFieldSource('answer', answerIndex, nodeUuid, sourceLocation),
+      ),
+      key: createReviewContentField(
+        answer.key,
+        macros,
+        context,
+        answerFieldSource('key', answerIndex, nodeUuid, sourceLocation),
+      ),
+      option: createReviewContentField(
+        answer.option,
+        macros,
+        context,
+        answerFieldSource('option', answerIndex, nodeUuid, sourceLocation),
+      ),
     };
   });
 }
@@ -1061,6 +1117,7 @@ function buildNode(
   numbering: QuestionNumberingConfig,
   inheritedSourceQuestionId: string | undefined,
   macros: PaperMacros,
+  sourceLocation: ContentFieldSourceLocation,
 ): ReviewPaperNode {
   const questionId = meaningfulString(record['rtq-question-id']);
   const sourceQuestionId =
@@ -1098,19 +1155,37 @@ function buildNode(
       descendantNumbering,
       sourceQuestionId,
       macros,
+      sourceLocation,
     ),
   );
 
   return {
     children,
     content: {
-      answers: reviewAnswers(record.answers, macros, contentPosition),
+      answers: reviewAnswers(
+        record.answers,
+        macros,
+        contentPosition,
+        uuid,
+        sourceLocation,
+      ),
       question: createReviewContentField(
         record.question,
         macros,
         assetContext(contentPosition, 'question'),
+        {
+          ...sourceLocation,
+          kind: 'question',
+          ...(uuid ? { nodeUuid: uuid } : {}),
+        },
       ),
-      workings: reviewWorkings(record.workings, macros, contentPosition),
+      workings: reviewWorkings(
+        record.workings,
+        macros,
+        contentPosition,
+        uuid,
+        sourceLocation,
+      ),
     },
     depth,
     effectiveTags: [],
@@ -1199,6 +1274,7 @@ export async function readReviewPaper(
           numbering,
           undefined,
           macros,
+          { collectionId, relativePath },
         ),
       ),
     };

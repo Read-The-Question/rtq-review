@@ -10,6 +10,7 @@ import {
 import type {
   ReviewAssetContext,
   ReviewContentField,
+  ReviewContentFieldSource,
   ReviewContentPreparation,
 } from './model.ts';
 
@@ -114,6 +115,7 @@ export function createReviewContentField(
   value: unknown,
   macros: PaperMacros,
   context: ReviewAssetContext,
+  source?: ReviewContentFieldSource,
 ): ReviewContentField {
   const raw = typeof value === 'string' ? value : '';
   const expanded = applyPaperMacros(raw, macros);
@@ -123,5 +125,6 @@ export function createReviewContentField(
     expanded,
     preparations: contentPreparations(expanded, context),
     raw,
+    ...(source ? { source } : {}),
   };
 }

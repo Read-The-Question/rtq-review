@@ -49,6 +49,8 @@ export const RTQ_BINARY_OPERATOR_SYMBOL_MACROS = {
   "\\rtqMathsBinaryOperatorBoxDot": "\\mathbin{\\rtqMathsSymbolBoxDot}",
   "\\rtqMathsBinaryOperatorBlackSquare":
     "\\mathbin{\\rtqMathsSymbolBlackSquare}",
+  "\\rtqMathsBinaryOperatorRightArrowWithCircledPlus":
+    "\\mathbin{\\rtqMathsSymbolRightArrowWithCircledPlus}",
 } as const;
 
 export const RTQ_BINARY_OPERATOR_WORD_MACROS = {
@@ -57,6 +59,7 @@ export const RTQ_BINARY_OPERATOR_WORD_MACROS = {
 
 export const RTQ_ROLE_NEUTRAL_SYMBOL_MACROS = {
   "\\rtqMathsSymbolRightArrow": "\\rightarrow",
+  "\\rtqMathsSymbolRightArrowWithCircledPlus": '\\text{\\char"27F4}',
 } as const;
 
 export const RTQ_ELLIPSIS_EMPTY_MACROS = {

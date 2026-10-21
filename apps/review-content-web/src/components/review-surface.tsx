@@ -121,6 +121,10 @@ import {
   sourceVersionUrl,
   type SourceFreshnessStatus,
 } from '@/lib/source-freshness';
+import {
+  contentFieldApiUrl,
+  type ContentFieldApiTarget,
+} from '@/lib/content-field-api';
 
 import { PaperImageComparison, RtqMarkdown } from './rtq-markdown';
 import { SiteHeader } from './site-header';
@@ -163,10 +167,30 @@ const contentScopeLabels: Readonly<Record<ContentSearchScope, string>> = {
   working: 'Workings',
 };
 
-const ContentSearchContext = createContext<CompiledContentSearch | undefined>(
-  undefined,
-);
+type ContentFieldEditorRuntime = Readonly<{
+  activeKey?: string;
+  refresh: () => void;
+  release: (key: string) => void;
+  request: (key: string) => boolean;
+}>;
+type ReviewContentRuntime = Readonly<{
+  contentSearch?: CompiledContentSearch;
+  editor: ContentFieldEditorRuntime;
+}>;
+const ReviewContentContext = createContext<ReviewContentRuntime>({
+  editor: {
+    refresh: () => undefined,
+    release: () => undefined,
+    request: () => false,
+  },
+});
 const PDF_SESSION_STORAGE_PREFIX = 'rtq.review-content.search-pdf.v1:';
+const PDF_PAGE_SESSION_STORAGE_PREFIX = 'rtq.review-content.pdf-page.v1:';
+
+function parseStoredPdfPage(value: string | null): number {
+  const page = Number(value);
+  return Number.isSafeInteger(page) && page > 0 ? page : 1;
+}
 
 const PRIMARY_REVIEW_OPTIONS = REVIEW_OUTCOME_OPTIONS.filter(
   ({ outcome }) =>
@@ -282,7 +306,32 @@ function FieldSupportingInfo({
   label: string;
   preferences: ReviewPreferences;
 }) {
-  const contentSearch = useContext(ContentSearchContext);
+  const { contentSearch, editor: editorRuntime } =
+    useContext(ReviewContentContext);
+  const source = field.source;
+  const editorKey = source?.nodeUuid
+    ? [
+        source.collectionId,
+        source.relativePath,
+        source.nodeUuid,
+        source.kind,
+        source.workingIndex ?? '',
+        source.answerIndex ?? '',
+        source.itemIndex ?? '',
+      ].join(':')
+    : undefined;
+  const [editorState, setEditorState] = useState<
+    | Readonly<{ state: 'closed' }>
+    | Readonly<{ state: 'loading' }>
+    | Readonly<{
+        draft: string;
+        fileName: string;
+        initialValue: string;
+        state: 'editing' | 'saving';
+        version: string;
+      }>
+  >({ state: 'closed' });
+  const [editorError, setEditorError] = useState<string>();
   const searchRanges = useMemo(
     () =>
       contentSearch
@@ -292,6 +341,136 @@ function FieldSupportingInfo({
   );
   const rawSource = field.raw || '(empty)';
   let rawCursor = 0;
+  const target: ContentFieldApiTarget | undefined = source?.nodeUuid
+    ? {
+        collectionId: source.collectionId,
+        relativePath: source.relativePath,
+        source: {
+          ...(source.answerIndex === undefined
+            ? {}
+            : { answerIndex: source.answerIndex }),
+          ...(source.itemIndex === undefined
+            ? {}
+            : { itemIndex: source.itemIndex }),
+          kind: source.kind,
+          nodeUuid: source.nodeUuid,
+          ...(source.workingIndex === undefined
+            ? {}
+            : { workingIndex: source.workingIndex }),
+        },
+      }
+    : undefined;
+  const anotherEditorActive = Boolean(
+    editorRuntime.activeKey && editorRuntime.activeKey !== editorKey,
+  );
+
+  const releaseEditor = editorRuntime.release;
+  useEffect(
+    () => () => {
+      if (editorKey) releaseEditor(editorKey);
+    },
+    [editorKey, releaseEditor],
+  );
+
+  function closeEditor() {
+    if (editorKey) editorRuntime.release(editorKey);
+    setEditorError(undefined);
+    setEditorState({ state: 'closed' });
+  }
+
+  async function openEditor() {
+    if (!editorKey || !target || !editorRuntime.request(editorKey)) return;
+    setEditorError(undefined);
+    setEditorState({ state: 'loading' });
+    try {
+      const response = await fetch(contentFieldApiUrl(target), {
+        cache: 'no-store',
+      });
+      const payload: unknown = await response.json();
+      const record =
+        payload && typeof payload === 'object' && !Array.isArray(payload)
+          ? (payload as Record<string, unknown>)
+          : {};
+      if (
+        !response.ok ||
+        typeof record.value !== 'string' ||
+        typeof record.version !== 'string' ||
+        typeof record.fileName !== 'string'
+      ) {
+        throw new Error(
+          typeof record.message === 'string'
+            ? record.message
+            : 'The displayed source field could not be loaded.',
+        );
+      }
+      setEditorState({
+        draft: record.value,
+        fileName: record.fileName,
+        initialValue: record.value,
+        state: 'editing',
+        version: record.version,
+      });
+    } catch (error) {
+      editorRuntime.release(editorKey);
+      setEditorState({ state: 'closed' });
+      setEditorError(
+        error instanceof Error
+          ? error.message
+          : 'The displayed source field could not be loaded.',
+      );
+    }
+  }
+
+  async function saveEditor(event: FormEvent<HTMLFormElement>) {
+    event.preventDefault();
+    if (
+      !editorKey ||
+      !target ||
+      editorState.state !== 'editing' ||
+      editorState.draft === editorState.initialValue
+    ) {
+      return;
+    }
+    const editingState = editorState;
+    setEditorState({ ...editingState, state: 'saving' });
+    try {
+      const response = await fetch('/api/papers/content-field', {
+        body: JSON.stringify({
+          expectedVersion: editingState.version,
+          target,
+          value: editingState.draft,
+        }),
+        headers: { 'Content-Type': 'application/json' },
+        method: 'PATCH',
+      });
+      const payload: unknown = await response.json();
+      const record =
+        payload && typeof payload === 'object' && !Array.isArray(payload)
+          ? (payload as Record<string, unknown>)
+          : {};
+      if (
+        !response.ok ||
+        typeof record.version !== 'string' ||
+        typeof record.fileName !== 'string'
+      ) {
+        throw new Error(
+          typeof record.message === 'string'
+            ? record.message
+            : 'The displayed TOML could not be updated.',
+        );
+      }
+      editorRuntime.release(editorKey);
+      setEditorState({ state: 'closed' });
+      editorRuntime.refresh();
+    } catch (error) {
+      setEditorState(editingState);
+      setEditorError(
+        error instanceof Error
+          ? error.message
+          : 'The displayed TOML could not be updated.',
+      );
+    }
+  }
 
   return (
     <>
@@ -303,29 +482,109 @@ function FieldSupportingInfo({
       {preferences.showRaw ? (
         <details className="raw-source" open>
           <summary>{label} source</summary>
-          <pre>
-            <code>
-              {searchRanges.length === 0
-                ? rawSource
-                : searchRanges.flatMap((range, index) => {
-                    const leading = field.raw.slice(rawCursor, range.start);
-                    const matched = field.raw.slice(range.start, range.end);
-                    rawCursor = range.end;
-                    return [
-                      leading,
-                      <mark
-                        className="raw-search-match"
-                        key={`${range.start}-${range.end}-${index}`}
-                      >
-                        {matched}
-                      </mark>,
-                      ...(index === searchRanges.length - 1
-                        ? [field.raw.slice(rawCursor)]
-                        : []),
-                    ];
-                  })}
-            </code>
-          </pre>
+          <div className="raw-source__toolbar">
+            <span>
+              {target
+                ? `Displayed TOML · ${target.collectionId}`
+                : 'Read-only · missing rtq-uuid'}
+            </span>
+            {target && editorState.state === 'closed' ? (
+              <button
+                disabled={anotherEditorActive}
+                onClick={openEditor}
+                title={
+                  anotherEditorActive
+                    ? 'Finish the open source edit first.'
+                    : `Edit ${label.toLowerCase()} in ${target?.relativePath ?? 'the displayed TOML'}`
+                }
+                type="button"
+              >
+                Edit
+              </button>
+            ) : null}
+          </div>
+          {editorError ? (
+            <div className="raw-source__error" role="alert">
+              <p>{editorError}</p>
+              {editorState.state === 'closed' ? (
+                <button onClick={() => setEditorError(undefined)} type="button">
+                  Dismiss
+                </button>
+              ) : null}
+            </div>
+          ) : null}
+          {editorState.state === 'loading' ? (
+            <p className="raw-source__status" role="status">
+              Loading the current canonical value…
+            </p>
+          ) : editorState.state === 'editing' ||
+            editorState.state === 'saving' ? (
+            <form className="raw-source__editor" onSubmit={saveEditor}>
+              <label htmlFor={`source-editor-${editorKey}`}>
+                Editing {editorState.fileName}
+              </label>
+              <textarea
+                autoFocus
+                disabled={editorState.state === 'saving'}
+                id={`source-editor-${editorKey}`}
+                onChange={(event) => {
+                  setEditorError(undefined);
+                  setEditorState({
+                    ...editorState,
+                    draft: event.target.value,
+                  });
+                }}
+                rows={Math.min(
+                  24,
+                  Math.max(7, editorState.draft.split('\n').length + 2),
+                )}
+                spellCheck={false}
+                value={editorState.draft}
+              />
+              <div className="raw-source__actions">
+                <button
+                  disabled={editorState.state === 'saving'}
+                  onClick={closeEditor}
+                  type="button"
+                >
+                  Cancel
+                </button>
+                <button
+                  disabled={
+                    editorState.state === 'saving' ||
+                    editorState.draft === editorState.initialValue
+                  }
+                  type="submit"
+                >
+                  {editorState.state === 'saving' ? 'Saving…' : 'Save changes'}
+                </button>
+              </div>
+            </form>
+          ) : (
+            <pre>
+              <code>
+                {searchRanges.length === 0
+                  ? rawSource
+                  : searchRanges.flatMap((range, index) => {
+                      const leading = field.raw.slice(rawCursor, range.start);
+                      const matched = field.raw.slice(range.start, range.end);
+                      rawCursor = range.end;
+                      return [
+                        leading,
+                        <mark
+                          className="raw-search-match"
+                          key={`${range.start}-${range.end}-${index}`}
+                        >
+                          {matched}
+                        </mark>,
+                        ...(index === searchRanges.length - 1
+                          ? [field.raw.slice(rawCursor)]
+                          : []),
+                      ];
+                    })}
+              </code>
+            </pre>
+          )}
         </details>
       ) : null}
     </>
@@ -2822,6 +3081,44 @@ function PaperPdfPane({
   pdf: Extract<PaperPdf, { state: 'available' }>;
   selectedKey: string;
 }) {
+  const [page, setPage] = useState<number>();
+  const [pageDraft, setPageDraft] = useState('1');
+  const [navigationVersion, setNavigationVersion] = useState(0);
+  const pageStorageKey = `${PDF_PAGE_SESSION_STORAGE_PREFIX}${pdf.url}`;
+
+  useEffect(() => {
+    const frame = requestAnimationFrame(() => {
+      let restoredPage = 1;
+      try {
+        restoredPage = parseStoredPdfPage(
+          sessionStorage.getItem(pageStorageKey),
+        );
+      } catch {
+        // Session storage is optional; page navigation still works in memory.
+      }
+      setPage(restoredPage);
+      setPageDraft(String(restoredPage));
+    });
+    return () => cancelAnimationFrame(frame);
+  }, [pageStorageKey]);
+
+  function navigateToPage(nextPage: number) {
+    if (!Number.isSafeInteger(nextPage) || nextPage < 1) return;
+    setPage(nextPage);
+    setPageDraft(String(nextPage));
+    setNavigationVersion((current) => current + 1);
+    try {
+      sessionStorage.setItem(pageStorageKey, String(nextPage));
+    } catch {
+      // Session storage is optional; page navigation still works in memory.
+    }
+  }
+
+  function submitPage(event: FormEvent<HTMLFormElement>) {
+    event.preventDefault();
+    navigateToPage(Number(pageDraft));
+  }
+
   return (
     <aside className="paper-pdf-pane" aria-label="Original paper PDF">
       <header>
@@ -2851,15 +3148,63 @@ function PaperPdfPane({
             <strong title={pdf.fileName}>{pdf.fileName}</strong>
           )}
         </div>
-        <button onClick={onHide} type="button">
-          Hide PDF
-        </button>
+        <div className="paper-pdf-pane__actions">
+          <form
+            aria-label="PDF page navigation"
+            className="paper-pdf-pane__page-navigation"
+            onSubmit={submitPage}
+            title="Pages opened here are remembered for this PDF in the current browser tab."
+          >
+            <button
+              aria-label="Previous PDF page"
+              disabled={page === undefined || page <= 1}
+              onClick={() => page !== undefined && navigateToPage(page - 1)}
+              type="button"
+            >
+              ←
+            </button>
+            <label>
+              <span>Page</span>
+              <input
+                aria-label="PDF page number"
+                inputMode="numeric"
+                min="1"
+                onChange={(event) => setPageDraft(event.target.value)}
+                required
+                step="1"
+                type="number"
+                value={pageDraft}
+              />
+            </label>
+            <button disabled={page === undefined} type="submit">
+              Go &amp; remember
+            </button>
+            <button
+              aria-label="Next PDF page"
+              disabled={page === undefined}
+              onClick={() => page !== undefined && navigateToPage(page + 1)}
+              type="button"
+            >
+              →
+            </button>
+          </form>
+          <button onClick={onHide} type="button">
+            Hide PDF
+          </button>
+        </div>
       </header>
-      <iframe
-        loading="lazy"
-        src={`${pdf.url}#view=FitH`}
-        title={`Original paper PDF: ${pdf.fileName}`}
-      />
+      {page === undefined ? (
+        <div className="paper-pdf-pane__loading" role="status">
+          Restoring PDF page…
+        </div>
+      ) : (
+        <iframe
+          key={`${page}:${navigationVersion}`}
+          loading="lazy"
+          src={`${pdf.url}#page=${page}&view=FitH`}
+          title={`Original paper PDF: ${pdf.fileName}`}
+        />
+      )}
     </aside>
   );
 }
@@ -2912,6 +3257,9 @@ export function ReviewSurface({
     status: SourceFreshnessStatus;
   }>({ status: { state: 'current' } });
   const [sourceFreshnessChecking, setSourceFreshnessChecking] = useState(false);
+  const [activeContentEditorKey, setActiveContentEditorKey] = useState<
+    string | undefined
+  >();
   const [currentNodeId, setCurrentNodeId] = useState<string>();
   const [keyboardStatus, setKeyboardStatus] = useState<ReviewActionStatus>({
     kind: 'idle',
@@ -3904,13 +4252,54 @@ export function ReviewSurface({
     });
   }
 
-  function refreshPaper() {
+  const refreshPaper = useCallback(() => {
     if (corpus) {
       window.location.reload();
       return;
     }
     startRefresh(() => router.refresh());
-  }
+  }, [corpus, router]);
+
+  const releaseContentEditor = useCallback((key: string) => {
+    setActiveContentEditorKey((current) =>
+      current === key ? undefined : current,
+    );
+  }, []);
+
+  const requestContentEditor = useCallback(
+    (key: string) => {
+      if (activeContentEditorKey && activeContentEditorKey !== key) {
+        return false;
+      }
+      setActiveContentEditorKey(key);
+      return true;
+    },
+    [activeContentEditorKey],
+  );
+
+  const contentFieldEditorRuntime = useMemo<ContentFieldEditorRuntime>(
+    () => ({
+      activeKey: activeContentEditorKey,
+      refresh: refreshPaper,
+      release: releaseContentEditor,
+      request: requestContentEditor,
+    }),
+    [
+      activeContentEditorKey,
+      refreshPaper,
+      releaseContentEditor,
+      requestContentEditor,
+    ],
+  );
+  const reviewContentRuntime = useMemo<ReviewContentRuntime>(
+    () => ({
+      ...(compiledContentSearch
+        ? { contentSearch: compiledContentSearch }
+        : {}),
+      editor: contentFieldEditorRuntime,
+    }),
+    [compiledContentSearch, contentFieldEditorRuntime],
+  );
 
   function scrollToPageBoundary(boundary: 'top' | 'bottom') {
     document
@@ -4270,7 +4659,7 @@ export function ReviewSurface({
                 <dt>{corpus ? 'Source' : 'Access'}</dt>
                 <dd>
                   {corpus
-                    ? 'Canonical TOML'
+                    ? corpus.collectionId
                     : (paper.metadata.accessTier ?? '—')}
                 </dd>
               </div>
@@ -4765,7 +5154,7 @@ export function ReviewSurface({
           </div>
         </section>
       ) : (
-        <ContentSearchContext.Provider value={compiledContentSearch}>
+        <ReviewContentContext.Provider value={reviewContentRuntime}>
           <div
             className={`paper-body${imageView ? ' paper-body--images' : ''}`}
           >
@@ -4821,7 +5210,7 @@ export function ReviewSurface({
               ))}
             </div>
           </div>
-        </ContentSearchContext.Provider>
+        </ReviewContentContext.Provider>
       )}
 
       <QuestionNavigation
@@ -4835,10 +5224,13 @@ export function ReviewSurface({
       ) : null}
       <footer className="paper-footer" id="paper-bottom">
         <a href="#paper-top">Back to top ↑</a>
-        <span>TOML and canonical assets are never mutated by this app.</span>
+        <span>
+          Displayed TOML changes require an explicit field-level edit and save.
+        </span>
       </footer>
       {visiblePdf ? (
         <PaperPdfPane
+          key={visiblePdf.url}
           onHide={() => updatePreference('showPdf', false)}
           onSelect={selectPaperPdf}
           options={pdfOptions}

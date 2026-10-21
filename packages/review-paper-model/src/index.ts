@@ -5,6 +5,11 @@ export {
 } from './collection-contract.ts';
 export { listPaperCollections, paperCollectionForId } from './collections.ts';
 export {
+  PaperContentFieldSourceError,
+  readPaperContentField,
+  replacePaperContentField,
+} from './content-source.ts';
+export {
   clearAllDimensionalFilters,
   clearAllReviewFilters,
   clearDimensionalFilter,
@@ -68,6 +73,9 @@ export type {
   ReviewAnswer,
   ReviewAssetContext,
   ReviewContentField,
+  ReviewContentFieldKind,
+  ReviewContentFieldLocator,
+  ReviewContentFieldSource,
   ReviewContentPreparation,
   ReviewFilterSelection,
   ReviewLongDivisionPreparation,

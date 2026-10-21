@@ -755,6 +755,12 @@ test('parses the complete nested read model and safe preparation inputs', async 
     });
     assert.equal(paper.source.questionCount, 1);
     assert.equal(question.content.question.raw.includes('rtq_abbr_test'), true);
+    assert.deepEqual(question.content.question.source, {
+      collectionId: 'corpusPrimaryTopicToml',
+      kind: 'question',
+      nodeUuid: 'TOP-UUID',
+      relativePath: 'corpus_primary_topic_family.money_1.toml',
+    });
     assert.match(
       question.content.question.expanded,
       /Expanded project abbreviation/,
@@ -796,6 +802,28 @@ test('parses the complete nested read model and safe preparation inputs', async 
     ]);
     assert.equal(question.content.workings[0].formulas.length, 2);
     assert.equal(question.content.workings[0].tips.length, 2);
+    assert.deepEqual(question.content.workings[0].working.source, {
+      collectionId: 'corpusPrimaryTopicToml',
+      kind: 'working',
+      nodeUuid: 'TOP-UUID',
+      relativePath: 'corpus_primary_topic_family.money_1.toml',
+      workingIndex: 0,
+    });
+    assert.deepEqual(question.content.workings[0].formulas[1].source, {
+      collectionId: 'corpusPrimaryTopicToml',
+      itemIndex: 1,
+      kind: 'formula',
+      nodeUuid: 'TOP-UUID',
+      relativePath: 'corpus_primary_topic_family.money_1.toml',
+      workingIndex: 0,
+    });
+    assert.deepEqual(question.content.answers[0].answer.source, {
+      answerIndex: 0,
+      collectionId: 'corpusPrimaryTopicToml',
+      kind: 'answer',
+      nodeUuid: 'TOP-UUID',
+      relativePath: 'corpus_primary_topic_family.money_1.toml',
+    });
     assert.equal(
       question.content.workings[0].formulas[0].expanded,
       '$a + b = c$',

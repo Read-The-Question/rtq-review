@@ -142,11 +142,29 @@ export type ReviewContentPreparation =
   | ReviewPaperImagePreparation
   | ReviewLongDivisionPreparation;
 
+export type ReviewContentFieldKind =
+  'answer' | 'formula' | 'key' | 'option' | 'question' | 'tip' | 'working';
+
+export type ReviewContentFieldLocator = Readonly<{
+  answerIndex?: number;
+  itemIndex?: number;
+  kind: ReviewContentFieldKind;
+  nodeUuid?: string;
+  workingIndex?: number;
+}>;
+
+export type ReviewContentFieldSource = ReviewContentFieldLocator &
+  Readonly<{
+    collectionId: PaperCollectionId;
+    relativePath: string;
+  }>;
+
 export type ReviewContentField = Readonly<{
   context: ReviewAssetContext;
   expanded: string;
   preparations: readonly ReviewContentPreparation[];
   raw: string;
+  source?: ReviewContentFieldSource;
 }>;
 
 export type ReviewWorking = Readonly<{

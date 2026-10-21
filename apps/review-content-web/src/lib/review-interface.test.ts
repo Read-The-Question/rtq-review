@@ -384,7 +384,16 @@ test('papers expose a selectable, independently scrolling PDF pane', async () =>
   assert.match(component, /option\.matchCount/);
   assert.match(component, /updatePreference\('showPdf', value\)/);
   assert.match(component, /aria-label="Original paper PDF"/);
-  assert.match(component, /src=\{`\$\{pdf\.url\}#view=FitH`\}/);
+  assert.match(component, /src=\{`\$\{pdf\.url\}#page=\$\{page\}&view=FitH`\}/);
+  assert.match(component, /aria-label="PDF page navigation"/);
+  assert.match(component, /aria-label="PDF page number"/);
+  assert.match(component, /Go &amp; remember/);
+  assert.match(component, /PDF_PAGE_SESSION_STORAGE_PREFIX/);
+  assert.match(component, /sessionStorage\.getItem\(pageStorageKey\)/);
+  assert.match(
+    component,
+    /sessionStorage\.setItem\(pageStorageKey, String\(nextPage\)\)/,
+  );
   assert.match(
     component,
     /onHide=\{\(\) => updatePreference\('showPdf', false\)\}/,
@@ -405,6 +414,7 @@ test('papers expose a selectable, independently scrolling PDF pane', async () =>
     css,
     /\.paper-pdf-pane iframe\s*{[^}]*height:\s*100%;[^}]*width:\s*100%/s,
   );
+  assert.match(css, /\.paper-pdf-pane__page-navigation input\s*{/);
 });
 
 test('reports SQLite review storage once in the page header', async () => {

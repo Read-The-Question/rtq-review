@@ -37,6 +37,12 @@ function cacheKey(collectionId: PaperCollectionId): string {
   return `${resolveRtqContentPaths().contentRoot}\0${collectionId}`;
 }
 
+export function invalidateImageAvailabilityIndex(
+  collectionId: PaperCollectionId,
+): void {
+  imageAvailabilityIndexes.delete(cacheKey(collectionId));
+}
+
 function fieldV2ImageCount(
   field: ReviewContentField,
   assetsRoot: string,

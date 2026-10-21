@@ -9,7 +9,7 @@ test('registers all prefixed RTQ macros including one-to-one symbol wrappers', (
   assert.equal(
     Object.keys(rtqKatexMacros).filter((name) => name.startsWith('\\rtqMaths'))
       .length,
-    125,
+    126,
   );
   assert.equal(
     rtqKatexMacros['\\rtqMathsUnderlineEmptyValueLong'],
@@ -86,6 +86,10 @@ test('registers all prefixed RTQ macros including one-to-one symbol wrappers', (
   assert.equal(rtqKatexMacros['\\rtqMathsSymbolWhiteSquare'], '\\square');
   assert.equal(rtqKatexMacros['\\rtqMathsSymbolRightArrow'], '\\rightarrow');
   assert.equal(
+    rtqKatexMacros['\\rtqMathsSymbolCrossPendingReview'],
+    '\\text{\\char"2717}',
+  );
+  assert.equal(
     rtqKatexMacros['\\rtqMathsSymbolRightArrowWithCircledPlus'],
     '\\text{\\char"27F4}',
   );
@@ -161,6 +165,17 @@ test('renders the beamed-notes and smiling-face symbol wrappers', () => {
   assert.doesNotMatch(html, /katex-error/);
   assert.match(html, /♫/);
   assert.match(html, /☻/);
+});
+
+test('renders the pending-review selection symbols', () => {
+  const html = katex.renderToString(
+    String.raw`\rtqMathsSymbolCheckmarkPendingReview + \rtqMathsSymbolCrossPendingReview`,
+    { ...rtqKatexOptions, throwOnError: true },
+  );
+
+  assert.doesNotMatch(html, /katex-error/);
+  assert.match(html, /✓/);
+  assert.match(html, /✗/);
 });
 
 test('renders role-specific symbols and words as binary operators', () => {

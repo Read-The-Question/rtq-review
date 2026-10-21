@@ -43,6 +43,7 @@ const reviewerKatexMacros: Record<string, string> = {
   '\\rtqMathsSymbolBlackTrianglePendingReview': '\\blacktriangle',
   '\\rtqMathsSymbolBigStarPendingReview': '\\bigstar',
   '\\rtqMathsSymbolCheckmarkPendingReview': '\\checkmark',
+  '\\rtqMathsSymbolCrossPendingReview': '\\text{\\char"2717}',
   '\\rtqMathsAddCarryOver': '\\scriptstyle \\grayF',
   '\\green': '\\textcolor{green}{#1}',
   '\\rtqMathsIncorrectValue': '\\textcolor{red}{#1}',

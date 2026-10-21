@@ -9,7 +9,7 @@ test('registers all prefixed RTQ macros including one-to-one symbol wrappers', (
   assert.equal(
     Object.keys(rtqKatexMacros).filter(name => name.startsWith('\\rtqMaths'))
       .length,
-    121,
+    123,
   );
   assert.equal(
     rtqKatexMacros['\\rtqMathsUnderlineEmptyValueLong'],
@@ -71,6 +71,10 @@ test('registers all prefixed RTQ macros including one-to-one symbol wrappers', (
   assert.equal(rtqKatexMacros['\\rtqMathsSymbolAsterisk'], '\\ast');
   assert.equal(rtqKatexMacros['\\rtqMathsSymbolBoxDot'], '\\boxdot');
   assert.equal(
+    rtqKatexMacros['\\rtqMathsSymbolBeamedEighthNotes'],
+    '\\text{\\char"266B}',
+  );
+  assert.equal(
     rtqKatexMacros['\\rtqMathsSymbolBlackHeartSuit'],
     '\\text{\\char"2665}',
   );
@@ -88,6 +92,10 @@ test('registers all prefixed RTQ macros including one-to-one symbol wrappers', (
   assert.equal(
     rtqKatexMacros['\\rtqMathsSymbolBlackLozenge'],
     '\\blacklozenge',
+  );
+  assert.equal(
+    rtqKatexMacros['\\rtqMathsSymbolBlackSmilingFace'],
+    '\\text{\\char"263B}',
   );
   assert.equal(rtqKatexMacros['\\rtqMathsSymbolPound'], '\\pounds');
   assert.equal(
@@ -134,6 +142,17 @@ test('renders the approved symbol wrappers', () => {
   assert.doesNotMatch(html, /katex-error/);
   assert.match(html, /♥/);
   assert.match(html, /□/);
+});
+
+test('renders the beamed-notes and smiling-face symbol wrappers', () => {
+  const html = katex.renderToString(
+    '\\rtqMathsSymbolBeamedEighthNotes + \\rtqMathsSymbolBlackSmilingFace',
+    { ...rtqKatexOptions, throwOnError: true },
+  );
+
+  assert.doesNotMatch(html, /katex-error/);
+  assert.match(html, /♫/);
+  assert.match(html, /☻/);
 });
 
 test('renders role-specific symbols and words as binary operators', () => {

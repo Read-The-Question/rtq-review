@@ -34,9 +34,11 @@ export default function RootLayout({
       lang="en"
       suppressHydrationWarning
     >
-      <Script id="rtq-theme" strategy="beforeInteractive">
-        {themeScript}
-      </Script>
+      <head>
+        <Script id="rtq-theme" strategy="beforeInteractive">
+          {themeScript}
+        </Script>
+      </head>
       <body>{children}</body>
     </html>
   );

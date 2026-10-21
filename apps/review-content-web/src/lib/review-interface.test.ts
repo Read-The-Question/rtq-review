@@ -6,6 +6,7 @@ const componentUrl = new URL(
   '../components/review-surface.tsx',
   import.meta.url,
 );
+const layoutUrl = new URL('../app/layout.tsx', import.meta.url);
 const siteHeaderUrl = new URL('../components/site-header.tsx', import.meta.url);
 const cssUrl = new URL('../app/globals.css', import.meta.url);
 const homeUrl = new URL('../app/page.tsx', import.meta.url);
@@ -75,6 +76,19 @@ test('the change-request queue counts and renders comment records only', async (
   assert.doesNotMatch(inbox, /Question \+ image|Answer \+ image/);
   assert.doesNotMatch(inbox, /state\.changeRequest/);
   assert.doesNotMatch(inbox, /Change requested/);
+});
+
+test('the pre-hydration theme script is nested in the document head', async () => {
+  const layout = await fs.readFile(layoutUrl, 'utf8');
+
+  assert.match(
+    layout,
+    /<head>\s*<Script id="rtq-theme" strategy="beforeInteractive">[\s\S]*?<\/Script>\s*<\/head>/,
+  );
+  assert.doesNotMatch(
+    layout,
+    /<\/head>\s*<Script id="rtq-theme" strategy="beforeInteractive">/,
+  );
 });
 
 test('display preferences separate the active side from inline visibility', async () => {

@@ -10,6 +10,7 @@ import {
   getRtqReviewKatexOptions,
   RTQ_BINARY_OPERATOR_SYMBOL_MACROS,
   RTQ_BINARY_OPERATOR_WORD_MACROS,
+  RTQ_BOXED_CELL_MACROS,
   RTQ_BOXED_VALUE_MACROS,
   RTQ_COLUMNAR_ARITHMETIC_STYLE_EXPANSION,
   RTQ_COLUMNAR_ARITHMETIC_STYLE_MACRO,
@@ -197,6 +198,12 @@ test("matches the canonical rtq-content shared macro contracts", () => {
       name,
     );
   }
+  for (const [name, expansion] of Object.entries(RTQ_BOXED_CELL_MACROS)) {
+    assert.deepEqual(
+      contract.macros.find((macro) => macro.name === name),
+      { expansion, name },
+    );
+  }
   for (const [name, expansion] of Object.entries(RTQ_UNDERLINE_VALUE_MACROS)) {
     assert.deepEqual(
       contract.macros.find((macro) => macro.name === name),
@@ -275,6 +282,18 @@ test("renders question-mark placeholders with their contracted math roles", () =
       normalize(katex.renderToString(expansion, options)),
     );
   }
+});
+
+test("renders approved white-shape binary operators", () => {
+  const html = katex.renderToString(
+    String.raw`6 \rtqMathsBinaryOperatorWhiteDiamond 3 \rtqMathsBinaryOperatorWhiteUpTriangle 1 = 1`,
+    { ...options, throwOnError: true },
+  );
+
+  assert.doesNotMatch(html, /katex-error/);
+  assert.match(html, /♢/);
+  assert.match(html, /△/);
+  assert.equal((html.match(/mbin/g) ?? []).length, 2);
 });
 
 test("renders role-neutral symbol wrappers", () => {
@@ -489,6 +508,24 @@ test("renders every boxed-value geometry in the shared review contract", () => {
     assert.doesNotMatch(html, /katex-error/, name);
     if (name.includes("CorrectValue")) assert.match(html, /color:green/, name);
   }
+});
+
+test("renders fixed boxed cells with matching visible and empty geometry", () => {
+  const visible = katex.renderToString(
+    String.raw`\rtqMathsBoxedCellFourDigitsWideOneDigitHigh{\times 5}`,
+    options,
+  );
+  const empty = katex.renderToString(
+    String.raw`\rtqMathsBoxedCellFourDigitsWideOneDigitHigh{}`,
+    options,
+  );
+
+  assert.doesNotMatch(visible, /katex-error/);
+  assert.doesNotMatch(empty, /katex-error/);
+  assert.match(visible, />×</);
+  const outerStrutStyle = (rendered: string) =>
+    rendered.match(/class="base"><span class="strut" style="([^"]+)"/)?.[1];
+  assert.equal(outerStrutStyle(visible), outerStrutStyle(empty));
 });
 
 test("renders boxed operator placeholders with their semantic atom classes", () => {

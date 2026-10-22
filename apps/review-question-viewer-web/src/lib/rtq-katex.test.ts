@@ -9,7 +9,7 @@ test('registers all prefixed RTQ macros including one-to-one symbol wrappers', (
   assert.equal(
     Object.keys(rtqKatexMacros).filter(name => name.startsWith('\\rtqMaths'))
       .length,
-    126,
+    131,
   );
   assert.equal(
     rtqKatexMacros['\\rtqMathsUnderlineEmptyValueLong'],
@@ -84,6 +84,14 @@ test('registers all prefixed RTQ macros including one-to-one symbol wrappers', (
   );
   assert.equal(rtqKatexMacros['\\rtqMathsSymbolBlackSquare'], '\\blacksquare');
   assert.equal(rtqKatexMacros['\\rtqMathsSymbolWhiteSquare'], '\\square');
+  assert.equal(
+    rtqKatexMacros['\\rtqMathsSymbolWhiteDiamond'],
+    '\\mathord{\\Large\\diamondsuit}',
+  );
+  assert.equal(
+    rtqKatexMacros['\\rtqMathsSymbolWhiteUpTriangle'],
+    '\\mathord{\\Large\\triangle}',
+  );
   assert.equal(rtqKatexMacros['\\rtqMathsSymbolRightArrow'], '\\rightarrow');
   assert.equal(
     rtqKatexMacros['\\rtqMathsSymbolCrossPendingReview'],

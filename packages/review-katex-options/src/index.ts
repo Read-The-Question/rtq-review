@@ -49,6 +49,10 @@ export const RTQ_BINARY_OPERATOR_SYMBOL_MACROS = {
   "\\rtqMathsBinaryOperatorBoxDot": "\\mathbin{\\rtqMathsSymbolBoxDot}",
   "\\rtqMathsBinaryOperatorBlackSquare":
     "\\mathbin{\\rtqMathsSymbolBlackSquare}",
+  "\\rtqMathsBinaryOperatorWhiteDiamond":
+    "\\mathbin{\\rtqMathsSymbolWhiteDiamond}",
+  "\\rtqMathsBinaryOperatorWhiteUpTriangle":
+    "\\mathbin{\\rtqMathsSymbolWhiteUpTriangle}",
   "\\rtqMathsBinaryOperatorRightArrowWithCircledPlus":
     "\\mathbin{\\rtqMathsSymbolRightArrowWithCircledPlus}",
 } as const;
@@ -58,6 +62,8 @@ export const RTQ_BINARY_OPERATOR_WORD_MACROS = {
 } as const;
 
 export const RTQ_ROLE_NEUTRAL_SYMBOL_MACROS = {
+  "\\rtqMathsSymbolWhiteDiamond": "\\mathord{\\Large\\diamondsuit}",
+  "\\rtqMathsSymbolWhiteUpTriangle": "\\mathord{\\Large\\triangle}",
   "\\rtqMathsSymbolRightArrow": "\\rightarrow",
   "\\rtqMathsSymbolRightArrowWithCircledPlus": '\\text{\\char"27F4}',
 } as const;
@@ -186,6 +192,26 @@ export const RTQ_BOXED_VALUE_MACROS = {
     "\\mathrel{\\boxed{\\phantom{0}\\rtqMathsCorrectValue{#1}\\phantom{0}}}",
 } as const;
 
+export const RTQ_BOXED_CELL_MACROS = {
+  "\\rtqMathsBoxedCellMatching":
+    "\\boxed{\\vphantom{#3}\\phantom{#2}\\mathclap{#1}\\phantom{#2}}",
+  "\\rtqMathsBoxedCellTwoDigitsWideOneDigitHigh":
+    "\\rtqMathsBoxedCellMatching{#1}{0}{0}",
+  "\\rtqMathsBoxedCellFourDigitsWideOneDigitHigh":
+    "\\rtqMathsBoxedCellMatching{#1}{00}{\\times 5}",
+  "\\rtqMathsBoxedCellFourDigitsWideFractionHigh":
+    "\\rtqMathsBoxedCellMatching{#1}{00}{\\dfrac{0}{0}}",
+  "\\rtqMathsBoxedCellFourDigitsWideFractionHighSpacer":
+    "\\phantom{\\rtqMathsBoxedCellFourDigitsWideFractionHigh{}}",
+  "\\rtqMathsBoxedCellArrayLayout":
+    "\\def\\arraystretch{#1}\\def\\rtqMathsBoxedCellSeparator{#2}",
+  "\\rtqMathsBoxedCellArrayOneDigitHighStyle":
+    "\\rtqMathsBoxedCellArrayLayout{1.5}{\\rtqMathsSpaceOneSixthEm}",
+  "\\rtqMathsBoxedCellArrayFractionHighStyle":
+    "\\rtqMathsBoxedCellArrayLayout{2.2}{\\rtqMathsSpaceOneSixthEm}",
+  "\\rtqMathsBoxedCellSeparator": "\\enspace",
+} as const;
+
 export const RTQ_UNDERLINE_VALUE_MACROS = {
   "\\rtqMathsUnderlineEmptyValueShort": "\\underline{\\phantom{0000}}",
   "\\rtqMathsUnderlineEmptyValueMedium": "\\underline{\\phantom{00000000}}",
@@ -267,6 +293,7 @@ export function getRtqReviewKatexOptions<
       ...RTQ_TIME_MERIDIEM_MACROS,
       ...RTQ_SIZE_WRAPPERS,
       ...RTQ_BOXED_VALUE_MACROS,
+      ...RTQ_BOXED_CELL_MACROS,
       ...RTQ_UNDERLINE_VALUE_MACROS,
       ...RTQ_EMPTY_VALUE_MACROS,
     },

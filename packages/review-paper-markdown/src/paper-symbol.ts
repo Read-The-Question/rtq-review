@@ -23,6 +23,7 @@ export const PAPER_SYMBOL_NAMES = [
   "black-triangle",
   "black-heart",
   "four-pane-pictogram",
+  "tally-marks",
 ] as const;
 export const PAPER_SYMBOL_VARIANTS = [
   "full",
@@ -51,7 +52,7 @@ export type PaperSymbolVariant = (typeof PAPER_SYMBOL_VARIANTS)[number];
 export type PaperSymbolSize = (typeof PAPER_SYMBOL_SIZES)[number];
 export type PaperSymbolGroupGap = (typeof PAPER_SYMBOL_GROUP_GAPS)[number];
 
-const SYMBOL_PROPS = ["name", "size", "variant"] as const;
+const SYMBOL_PROPS = ["count", "name", "size", "variant"] as const;
 const GROUP_PROPS = ["gap"] as const;
 const SPACE_PROPS = ["size"] as const;
 const DEFAULT_VARIANT = "full" satisfies PaperSymbolVariant;
@@ -90,6 +91,23 @@ const FOUR_PANE_PATH = {
   "three-quarters": "M3 3H21V12H12V21H3Z M12 3V12 M3 12H12",
   full: "M3 3H21V21H3Z M12 3V21 M3 12H21",
 } as const satisfies Record<FourPaneVariant, string>;
+
+const TALLY_COUNT = /^[1-9]\d*$/;
+const TALLY_VIEWBOX_HEIGHT = 24;
+const TALLY_GROUP_GAP_PX = 4;
+const TALLY_GROUP_PATHS = {
+  1: ["M4 4v16"],
+  2: ["M4 4v16", "M9 4v16"],
+  3: ["M4 4v16", "M9 4v16", "M14 4v16"],
+  4: ["M4 4v16", "M9 4v16", "M14 4v16", "M19 4v16"],
+  5: ["M4 4v16", "M9 4v16", "M14 4v16", "M19 4v16", "M22 6 2 18"],
+} as const;
+const TALLY_REMAINDER_VIEWBOX_WIDTH = {
+  1: 6,
+  2: 11,
+  3: 16,
+  4: 21,
+} as const;
 
 const GROUP_GAP_PX = {
   sm: 4,
@@ -143,7 +161,7 @@ function isPaperSymbolVariantForName(
   return isOneOf(
     name === "four-pane-pictogram"
       ? PAPER_SYMBOL_FOUR_PANE_VARIANTS
-      : name === "black-smiling-face"
+      : name === "black-smiling-face" || name === "tally-marks"
         ? PAPER_SYMBOL_FULL_ONLY_VARIANTS
         : PAPER_SYMBOL_CLIPPED_VARIANTS,
     variant,
@@ -155,7 +173,7 @@ function paperSymbolVariantsForName(
 ): readonly PaperSymbolVariant[] {
   return name === "four-pane-pictogram"
     ? PAPER_SYMBOL_FOUR_PANE_VARIANTS
-    : name === "black-smiling-face"
+    : name === "black-smiling-face" || name === "tally-marks"
       ? PAPER_SYMBOL_FULL_ONLY_VARIANTS
       : PAPER_SYMBOL_CLIPPED_VARIANTS;
 }
@@ -173,6 +191,52 @@ function openingFence(value: string): MarkdownFence | undefined {
 function closesFence(value: string, fence: MarkdownFence): boolean {
   return new RegExp(`^ {0,3}${fence.character}{${fence.length},}[ \\t]*$`).test(
     value,
+  );
+}
+
+function parseTallyCount(value: unknown): number | undefined {
+  if (typeof value !== "string" || !TALLY_COUNT.test(value)) {
+    return undefined;
+  }
+
+  const count = Number(value);
+  return Number.isSafeInteger(count) ? count : undefined;
+}
+
+type TallyGroup = keyof typeof TALLY_GROUP_PATHS;
+type TallyRemainder = keyof typeof TALLY_REMAINDER_VIEWBOX_WIDTH;
+
+function tallyGroups(count: number): TallyGroup[] {
+  const fullGroups = Math.floor(count / 5);
+  const remainder = (count % 5) as TallyRemainder | 0;
+
+  return [
+    ...Array.from({ length: fullGroups }, () => 5 as const),
+    ...(remainder === 0 ? [] : [remainder]),
+  ];
+}
+
+function tallyGroupWidthPx(group: TallyGroup, sizePx: number): number {
+  return group === 5
+    ? sizePx
+    : Math.round(
+        ((sizePx * TALLY_REMAINDER_VIEWBOX_WIDTH[group]) /
+          TALLY_VIEWBOX_HEIGHT) *
+          100,
+      ) / 100;
+}
+
+function tallyWidthPx(count: number, sizePx: number): number {
+  const groups = tallyGroups(count);
+  return (
+    Math.round(
+      (groups.reduce(
+        (width, group) => width + tallyGroupWidthPx(group, sizePx),
+        0,
+      ) +
+        Math.max(0, groups.length - 1) * TALLY_GROUP_GAP_PX) *
+        100,
+    ) / 100
   );
 }
 
@@ -586,6 +650,48 @@ function fourPaneSvg(
   );
 }
 
+function tallyGroupSvg(sizePx: number, group: TallyGroup): NativeNode {
+  const viewBox =
+    group === 5
+      ? `0 0 24 ${TALLY_VIEWBOX_HEIGHT}`
+      : `1 0 ${TALLY_REMAINDER_VIEWBOX_WIDTH[group]} ${TALLY_VIEWBOX_HEIGHT}`;
+
+  return nativeNode(
+    "svg",
+    {
+      "aria-hidden": "true",
+      className: `lucide lucide-tally-${group}`,
+      fill: "none",
+      focusable: "false",
+      height: sizePx,
+      preserveAspectRatio: "xMidYMid meet",
+      stroke: "currentColor",
+      strokeLinecap: "round",
+      strokeLinejoin: "round",
+      strokeWidth: 2,
+      style: "display:block;max-width:none;flex:none",
+      viewBox,
+      width: tallyGroupWidthPx(group, sizePx),
+      xmlns: "http://www.w3.org/2000/svg",
+    },
+    TALLY_GROUP_PATHS[group].map((d) => nativeNode("path", { d })),
+  );
+}
+
+function tallySvg(size: PaperSymbolSize, count: number): NativeNode {
+  const sizePx = SIZE_PX[size];
+
+  return nativeNode(
+    "span",
+    {
+      "aria-hidden": "true",
+      dataSlot: "paper-view-tally-marks",
+      style: `display:inline-flex;align-items:center;flex:none;column-gap:${TALLY_GROUP_GAP_PX}px`,
+    },
+    tallyGroups(count).map((group) => tallyGroupSvg(sizePx, group)),
+  );
+}
+
 // Geometry derived from Lucide's Smile icon. It is emitted manually so the
 // face can be filled while the eyes and mouth use the inverse surface colour.
 function blackSmilingFaceSvg(size: PaperSymbolSize): NativeNode {
@@ -630,12 +736,18 @@ function symbolSvg(
   name: PaperSymbolName,
   size: PaperSymbolSize,
   variant: PaperSymbolVariant,
+  count?: number,
 ): NativeNode {
   if (isOutlineShapeSymbolName(name)) {
     return outlineShapeSvg(name, size);
   }
 
   switch (name) {
+    case "tally-marks":
+      if (count === undefined) {
+        throw new Error("PaperSymbol tally marks require a count.");
+      }
+      return tallySvg(size, count);
     case "four-pane-pictogram":
       return fourPaneSvg(size, variant as FourPaneVariant);
     case "black-smiling-face":
@@ -695,7 +807,7 @@ function symbolSvg(
 }
 
 function symbolSvgHtml(
-  name: PaperSymbolName,
+  name: Exclude<PaperSymbolName, "tally-marks">,
   variant: PaperSymbolVariant,
 ): readonly string[] {
   if (name === "four-pane-pictogram") {
@@ -798,6 +910,26 @@ function symbolSvgHtml(
   ];
 }
 
+function tallyGroupSvgHtml(group: TallyGroup, sizePx: number): string {
+  const viewBox =
+    group === 5
+      ? `0 0 24 ${TALLY_VIEWBOX_HEIGHT}`
+      : `1 0 ${TALLY_REMAINDER_VIEWBOX_WIDTH[group]} ${TALLY_VIEWBOX_HEIGHT}`;
+  const paths = TALLY_GROUP_PATHS[group]
+    .map((d) => `<path d="${d}"></path>`)
+    .join("");
+
+  return `<svg aria-hidden="true" class="lucide lucide-tally-${group}" fill="none" focusable="false" height="${sizePx}" preserveAspectRatio="xMidYMid meet" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="display:block;max-width:none;flex:none" viewBox="${viewBox}" width="${tallyGroupWidthPx(group, sizePx)}" xmlns="http://www.w3.org/2000/svg">${paths}</svg>`;
+}
+
+function tallySvgHtml(count: number, sizePx: number): string {
+  return `<span aria-hidden="true" data-slot="paper-view-tally-marks" style="display:inline-flex;align-items:center;flex:none;column-gap:${TALLY_GROUP_GAP_PX}px">${tallyGroups(
+    count,
+  )
+    .map((group) => tallyGroupSvgHtml(group, sizePx))
+    .join("")}</span>`;
+}
+
 function attributesFromSource(
   source: string,
   componentName: string,
@@ -834,6 +966,7 @@ function attributesFromSource(
 }
 
 function validateSymbolValues(attributes: Record<string, string>): {
+  count?: number;
   name: PaperSymbolName;
   size: PaperSymbolSize;
   variant: PaperSymbolVariant;
@@ -841,6 +974,23 @@ function validateSymbolValues(attributes: Record<string, string>): {
   if (!isOneOf(PAPER_SYMBOL_NAMES, attributes.name)) {
     throw new Error(
       `PaperSymbol prop "name" received ${JSON.stringify(attributes.name)}; allowed values: ${PAPER_SYMBOL_NAMES.join(", ")}.`,
+    );
+  }
+  const count = parseTallyCount(attributes.count);
+  if (attributes.name === "tally-marks") {
+    if (count === undefined) {
+      throw new Error(
+        'PaperSymbol name="tally-marks" requires prop "count" as a positive integer string.',
+      );
+    }
+    if (attributes.variant !== undefined) {
+      throw new Error(
+        'PaperSymbol name="tally-marks" does not support prop "variant".',
+      );
+    }
+  } else if (attributes.count !== undefined) {
+    throw new Error(
+      'PaperSymbol prop "count" is supported only when name="tally-marks".',
     );
   }
   if (
@@ -862,6 +1012,7 @@ function validateSymbolValues(attributes: Record<string, string>): {
   }
 
   return {
+    count,
     name: attributes.name,
     size: attributes.size ?? DEFAULT_SIZE,
     variant: attributes.variant ?? DEFAULT_VARIANT,
@@ -869,26 +1020,34 @@ function validateSymbolValues(attributes: Record<string, string>): {
 }
 
 function paperSymbolHtml(attributesSource: string): string {
-  const { name, size, variant } = validateSymbolValues(
+  const { count, name, size, variant } = validateSymbolValues(
     attributesFromSource(attributesSource, "PaperSymbol", SYMBOL_PROPS),
   );
   const sizePx = SIZE_PX[size];
   const isFourPanePictogram = name === "four-pane-pictogram";
-  const visibleWidth = isFourPanePictogram
-    ? sizePx
-    : Math.round(
-        sizePx *
-          CLIPPED_VARIANT_RATIO[variant as keyof typeof CLIPPED_VARIANT_RATIO] *
-          100,
-      ) / 100;
+  const isTally = name === "tally-marks";
+  const visibleWidth = isTally
+    ? tallyWidthPx(count as number, sizePx)
+    : isFourPanePictogram
+      ? sizePx
+      : Math.round(
+          sizePx *
+            CLIPPED_VARIANT_RATIO[
+              variant as keyof typeof CLIPPED_VARIANT_RATIO
+            ] *
+            100,
+        ) / 100;
   const symbolLabel = isFourPanePictogram
     ? "four-pane"
     : name === "black-smiling-face"
       ? "black smiling-face"
       : name;
-  const label = `${VARIANT_LABEL[variant]} ${symbolLabel} pictogram symbol`;
+  const label = isTally
+    ? `${count} tally marks`
+    : `${VARIANT_LABEL[variant]} ${symbolLabel} pictogram symbol`;
   const fill =
     !isFourPanePictogram &&
+    !isTally &&
     (name === "computer" ||
       name === "woodlouse" ||
       name === "club-suit" ||
@@ -897,11 +1056,21 @@ function paperSymbolHtml(attributesSource: string): string {
       ? "currentColor"
       : "none";
 
+  const graphic = isTally
+    ? tallySvgHtml(count as number, sizePx)
+    : [
+        `<svg aria-hidden="true" fill="${fill}" focusable="false" height="${sizePx}" preserveAspectRatio="xMinYMid meet" style="display:block;max-width:none;flex:none" viewBox="${isOutlineShapeSymbolName(name) ? PAPER_SHAPE_VIEWBOX : "0 0 24 24"}" width="${sizePx}" xmlns="http://www.w3.org/2000/svg">`,
+        ...symbolSvgHtml(
+          name as Exclude<PaperSymbolName, "tally-marks">,
+          variant,
+        ),
+        "</svg>",
+      ].join("");
+
   return [
-    `<span aria-label="${label}" data-paper-symbol="" data-paper-symbol-name="${name}" data-paper-symbol-size="${size}" data-paper-symbol-variant="${variant}" role="img" style="display:inline-flex;flex:none;overflow:hidden;vertical-align:middle;line-height:1;height:${sizePx}px;width:${visibleWidth}px">`,
-    `<svg aria-hidden="true" fill="${fill}" focusable="false" height="${sizePx}" preserveAspectRatio="xMinYMid meet" style="display:block;max-width:none;flex:none" viewBox="${isOutlineShapeSymbolName(name) ? PAPER_SHAPE_VIEWBOX : "0 0 24 24"}" width="${sizePx}" xmlns="http://www.w3.org/2000/svg">`,
-    ...symbolSvgHtml(name, variant),
-    "</svg></span>",
+    `<span aria-label="${label}" data-paper-symbol="" data-paper-symbol-name="${name}" data-paper-symbol-size="${size}"${isTally ? ` data-paper-symbol-count="${count}"` : ` data-paper-symbol-variant="${variant}"`} role="img" style="display:inline-flex;flex:none;overflow:hidden;vertical-align:middle;line-height:1;height:${sizePx}px;width:${visibleWidth}px">`,
+    graphic,
+    "</span>",
   ].join("");
 }
 
@@ -1024,7 +1193,7 @@ export function toPaperSymbolCompatibilityMarkdown(markdown: string): string {
 
 function paperSymbolNode(node: MdxElement): NativeNode {
   const attributes = staticAttributes(node, "PaperSymbol", SYMBOL_PROPS);
-  const { name, size, variant } = validateSymbolValues(attributes);
+  const { count, name, size, variant } = validateSymbolValues(attributes);
   if (node.children.some((child) => !isWhitespace(child))) {
     throw new Error(
       "PaperSymbol must be empty and authored as a self-closing component.",
@@ -1032,8 +1201,10 @@ function paperSymbolNode(node: MdxElement): NativeNode {
   }
 
   const sizePx = SIZE_PX[size];
-  const visibleWidth =
-    name === "four-pane-pictogram"
+  const isTally = name === "tally-marks";
+  const visibleWidth = isTally
+    ? tallyWidthPx(count as number, sizePx)
+    : name === "four-pane-pictogram"
       ? sizePx
       : Math.round(
           sizePx *
@@ -1046,21 +1217,24 @@ function paperSymbolNode(node: MdxElement): NativeNode {
   return nativeNode(
     "span",
     {
-      "aria-label": `${VARIANT_LABEL[variant]} ${
-        name === "four-pane-pictogram"
-          ? "four-pane"
-          : name === "black-smiling-face"
-            ? "black smiling-face"
-            : name
-      } pictogram symbol`,
+      "aria-label": isTally
+        ? `${count} tally marks`
+        : `${VARIANT_LABEL[variant]} ${
+            name === "four-pane-pictogram"
+              ? "four-pane"
+              : name === "black-smiling-face"
+                ? "black smiling-face"
+                : name
+          } pictogram symbol`,
       dataPaperSymbol: "",
+      ...(isTally ? { dataPaperSymbolCount: count as number } : {}),
       dataPaperSymbolName: name,
       dataPaperSymbolSize: size,
-      dataPaperSymbolVariant: variant,
+      ...(isTally ? {} : { dataPaperSymbolVariant: variant }),
       role: "img",
       style: `display:inline-flex;flex:none;overflow:hidden;vertical-align:middle;line-height:1;height:${sizePx}px;width:${visibleWidth}px`,
     },
-    [symbolSvg(name, size, variant)],
+    [symbolSvg(name, size, variant, count)],
   );
 }
 

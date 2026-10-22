@@ -213,6 +213,25 @@ test("renders fixed-footprint four-pane variants with shared edges once", async 
   assert.equal(html.match(/shape-rendering="geometricPrecision"/g)?.length, 4);
 });
 
+test("renders counted tally marks in remark and compatibility paths", async () => {
+  const markdown = '<PaperSymbol name="tally-marks" count="13" size="lg" />';
+
+  for (const html of [
+    await render(markdown),
+    toPaperSymbolCompatibilityMarkdown(markdown),
+  ]) {
+    assert.match(html, /aria-label="13 tally marks"/);
+    assert.match(html, /data-paper-symbol-count="13"/);
+    assert.match(html, /height:28px;width:82\.67px/);
+    assert.equal(html.match(/class="lucide lucide-tally-5"/g)?.length, 2);
+    assert.equal(html.match(/class="lucide lucide-tally-3"/g)?.length, 1);
+    assert.match(html, /viewBox="1 0 16 24"/);
+    assert.match(html, /stroke-width="2"/);
+    assert.match(html, /d="M22 6 2 18"/);
+    assert.doesNotMatch(html, /data-paper-symbol-variant/);
+  }
+});
+
 test("reserves an accessibility-hidden symbol space", async () => {
   const html = await render('<PaperSymbolSpace size="xl" />');
 
@@ -234,6 +253,22 @@ test("rejects invalid symbols, props, expressions, and group children", async ()
     [
       '<PaperSymbol name="black-smiling-face" variant="half" />',
       'prop "variant"',
+    ],
+    [
+      '<PaperSymbol name="tally-marks" />',
+      'requires prop "count" as a positive integer string',
+    ],
+    [
+      '<PaperSymbol name="tally-marks" count="0" />',
+      'requires prop "count" as a positive integer string',
+    ],
+    [
+      '<PaperSymbol name="tally-marks" count="5" variant="full" />',
+      'does not support prop "variant"',
+    ],
+    [
+      '<PaperSymbol name="computer" count="5" />',
+      'prop "count" is supported only',
     ],
     ['<PaperSymbol name="computer" size="xxl" />', 'prop "size"'],
     ['<PaperSymbolSpace size="xxl" />', 'PaperSymbolSpace prop "size"'],

@@ -38,6 +38,8 @@ const PAPER_TABLE_KEEP_HTML_COMMENT =
 
 const ROOT_PRESENTATION_PROPS = new Set([
   "align",
+  "borderModel",
+  "cellBorder",
   "cellAlign",
   "density",
   "firstColumnStartPadding",
@@ -159,6 +161,8 @@ function takeProperty(
 function structuredTableProperties(node: MdxElement): NativeProperties {
   const properties = staticProperties(node);
   const cellAlignAuthored = Object.hasOwn(properties, "cellAlign");
+  const borderModel = takeProperty(properties, "borderModel", "table");
+  const cellBorder = takeProperty(properties, "cellBorder", "all");
 
   return {
     ...Object.fromEntries(
@@ -168,6 +172,8 @@ function structuredTableProperties(node: MdxElement): NativeProperties {
     ),
     dataAlign: takeProperty(properties, "align", PAPER_TABLE_DEFAULTS.align),
     dataBlankCorner: PAPER_TABLE_DEFAULTS.blankCorner,
+    dataBorderModel: borderModel,
+    ...(borderModel === "cells" ? { dataCellBorder: cellBorder } : {}),
     dataCellAlign: takeProperty(
       properties,
       "cellAlign",
@@ -197,7 +203,21 @@ function structuredElementProperties(node: MdxElement): NativeProperties {
   if (node.name === "PaperViewStructuredTable") {
     return structuredTableProperties(node);
   }
-  if (node.name === "PaperViewTableCell") {
+  if (
+    node.name === "PaperViewTableRow" ||
+    node.name === "PaperViewTableHeaderCell" ||
+    node.name === "PaperViewTableCell"
+  ) {
+    const cellBorder = properties.cellBorder;
+    delete properties.cellBorder;
+    if (cellBorder !== undefined) {
+      properties.dataCellBorder = cellBorder;
+    }
+
+    if (node.name !== "PaperViewTableCell") {
+      return properties;
+    }
+
     const tone = takeProperty(properties, "tone", "default");
     return {
       ...properties,

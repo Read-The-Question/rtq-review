@@ -116,12 +116,12 @@ test('renders raw GFM tables with the RTQ web defaults', () => {
 test('renders a complete structured table with review presentation metadata', () => {
   const html = render(
     [
-      '<PaperViewStructuredTable aria-label="Crossnumber" cellAlign="center" density="roomy" grid="framed">',
+      '<PaperViewStructuredTable aria-label="Crossnumber" borderModel="cells" cellBorder="all" cellAlign="center" density="roomy">',
       '  <PaperViewTableCaption>Number grid</PaperViewTableCaption>',
-      '  <PaperViewTableHead><PaperViewTableRow><PaperViewTableHeaderCell scope="col">Column</PaperViewTableHeaderCell></PaperViewTableRow></PaperViewTableHead>',
+      '  <PaperViewTableHead><PaperViewTableRow cellBorder="none"><PaperViewTableHeaderCell cellBorder="all" scope="col">Column</PaperViewTableHeaderCell></PaperViewTableRow></PaperViewTableHead>',
       '  <PaperViewTableBody>',
       '    <PaperViewTableRow>',
-      '      <PaperViewTableCell tone="muted" />',
+      '      <PaperViewTableCell cellBorder="none" tone="muted" />',
       '      <PaperViewTableCell><PaperViewTableCellLabel>$\\rtqMathsCellLabelNumber{1}$</PaperViewTableCellLabel>$49$</PaperViewTableCell>',
       '    </PaperViewTableRow>',
       '  </PaperViewTableBody>',
@@ -132,12 +132,14 @@ test('renders a complete structured table with review presentation metadata', ()
   assert.match(html, /class="rtq-paper-table"/);
   assert.match(html, /data-cell-align="center"/);
   assert.match(html, /data-density="roomy"/);
-  assert.match(html, /data-grid="framed"/);
+  assert.match(html, /data-grid="horizontal"/);
+  assert.match(html, /data-border-model="cells"/);
+  assert.match(html, /data-cell-border="all"/);
   assert.match(html, /<caption>Number grid<\/caption>/);
   assert.match(html, /<thead>/);
   assert.match(html, /<tbody>/);
-  assert.match(html, /<th scope="col">Column<\/th>/);
-  assert.match(html, /<td data-tone="muted"><\/td>/);
+  assert.match(html, /<th scope="col" data-cell-border="all">Column<\/th>/);
+  assert.match(html, /<td data-cell-border="none" data-tone="muted"><\/td>/);
   assert.match(html, /data-paper-table-cell-label=""/);
   assert.match(html, /class="katex"/);
   assert.match(html, /rtq-maths-cell-label-number/);
@@ -159,6 +161,7 @@ test('carries the RTQ web layout topology for every grid family', () => {
   assert.match(css, /border-block:\s*1\.5px solid/);
   assert.match(css, /border-inline-end:\s*1px solid/);
   assert.match(css, /\[data-grid='framed'\] table[\s\S]*border-inline:/);
+  assert.match(css, /:not\(\[data-border-model='cells'\]\)/);
   assert.match(css, /\[data-blank-corner='open'\][\s\S]*border-block-end: 0/);
   assert.match(css, /\[data-first-column-start-padding='none'\]/);
   assert.match(css, /\[data-density='compact'\]/);

@@ -286,14 +286,25 @@ test("renders question-mark placeholders with their contracted math roles", () =
 
 test("renders approved white-shape binary operators", () => {
   const html = katex.renderToString(
-    String.raw`6 \rtqMathsBinaryOperatorWhiteDiamond 3 \rtqMathsBinaryOperatorWhiteUpTriangle 1 = 1`,
+    String.raw`6 \rtqMathsBinaryOperatorWhiteDiamond 3 \rtqMathsBinaryOperatorWhiteUpTriangle 1 \rtqMathsBinaryOperatorWhiteSmilingFace 2 = 1`,
     { ...options, throwOnError: true },
   );
 
   assert.doesNotMatch(html, /katex-error/);
   assert.match(html, /♢/);
   assert.match(html, /△/);
-  assert.equal((html.match(/mbin/g) ?? []).length, 2);
+  assert.match(html, /☺/);
+  assert.equal((html.match(/mbin/g) ?? []).length, 3);
+});
+
+test("renders the low dot and wedge as binary operators", () => {
+  const html = katex.renderToString(
+    String.raw`1\rtqMathsBinaryOperatorLowDot 2\rtqMathsBinaryOperatorWedge 3`,
+    { ...options, throwOnError: true },
+  );
+
+  assert.doesNotMatch(html, /katex-error/);
+  assert.equal((html.match(/class="mbin"/g) ?? []).length, 2);
 });
 
 test("renders role-neutral symbol wrappers", () => {

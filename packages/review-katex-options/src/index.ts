@@ -47,6 +47,8 @@ export const RTQ_QUESTION_MARK_PLACEHOLDER_MACROS = {
 export const RTQ_BINARY_OPERATOR_SYMBOL_MACROS = {
   "\\rtqMathsBinaryOperatorAsterisk": "\\mathbin{\\rtqMathsSymbolAsterisk}",
   "\\rtqMathsBinaryOperatorBoxDot": "\\mathbin{\\rtqMathsSymbolBoxDot}",
+  "\\rtqMathsBinaryOperatorLowDot": "\\mathbin{\\ldotp}",
+  "\\rtqMathsBinaryOperatorWedge": "\\mathbin{\\wedge}",
   "\\rtqMathsBinaryOperatorBlackSquare":
     "\\mathbin{\\rtqMathsSymbolBlackSquare}",
   "\\rtqMathsBinaryOperatorWhiteDiamond":
@@ -55,6 +57,8 @@ export const RTQ_BINARY_OPERATOR_SYMBOL_MACROS = {
     "\\mathbin{\\rtqMathsSymbolWhiteUpTriangle}",
   "\\rtqMathsBinaryOperatorRightArrowWithCircledPlus":
     "\\mathbin{\\rtqMathsSymbolRightArrowWithCircledPlus}",
+  "\\rtqMathsBinaryOperatorWhiteSmilingFace":
+    "\\mathbin{\\rtqMathsSymbolWhiteSmilingFace}",
 } as const;
 
 export const RTQ_BINARY_OPERATOR_WORD_MACROS = {
@@ -66,6 +70,10 @@ export const RTQ_ROLE_NEUTRAL_SYMBOL_MACROS = {
   "\\rtqMathsSymbolWhiteUpTriangle": "\\mathord{\\Large\\triangle}",
   "\\rtqMathsSymbolRightArrow": "\\rightarrow",
   "\\rtqMathsSymbolRightArrowWithCircledPlus": '\\text{\\char"27F4}',
+  "\\rtqMathsSymbolWhiteSmilingFace": '\\text{\\char"263A}',
+  "\\rtqMathsSymbolCircledReverseSolidus": '\\mathord{\\text{\\char"29B8}}',
+  "\\rtqMathsSymbolCircledDot": "\\mathord{\\odot}",
+  "\\rtqMathsSymbolBoxTimes": "\\mathord{\\boxtimes}",
 } as const;
 
 export const RTQ_ELLIPSIS_EMPTY_MACROS = {

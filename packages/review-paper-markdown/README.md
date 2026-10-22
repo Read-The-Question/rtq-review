@@ -121,8 +121,11 @@ validate child order, row lengths, column counts, or presentation values. That
 is an intentional difference from the validated `PaperTable` GFM path.
 
 The structured root supports `align`, `cellAlign`, `density`,
-`firstColumnStartPadding`, `grid`, `indent`, and `width`.
-`PaperViewTableCell` supports `tone="default|muted"`.
+`firstColumnStartPadding`, `grid`, `indent`, and `width`. It also preserves the
+opt-in `borderModel="cells"` contract: `cellBorder="all|none"` cascades from
+the root to a row and then to an individual header or data cell. The nearest
+authored value wins, while the default table-owned border model remains
+unchanged. `PaperViewTableCell` supports `tone="default|muted"`.
 `PaperViewTableCellLabel` preserves ordinary Markdown/MDX children, including
 maths and empty-value geometry handled by the application's KaTeX plugins. It
 provides the default subordinate label size without imposing a semantic colour.

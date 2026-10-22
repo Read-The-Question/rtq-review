@@ -12,7 +12,7 @@ import { remarkPaperListMdx, remarkPaperStructuredTable } from "./index.ts";
 import { rehypePaperTable } from "./paper-table.ts";
 
 const structuredTable = [
-  '<PaperViewStructuredTable aria-label="Number grid" cellAlign="center" density="roomy" grid="framed">',
+  '<PaperViewStructuredTable aria-label="Number grid" borderModel="cells" cellBorder="all" cellAlign="center" density="roomy">',
   "  <PaperViewTableCaption>Crossnumber</PaperViewTableCaption>",
   "  <PaperViewTableHead>",
   "    <PaperViewTableRow>",
@@ -20,8 +20,8 @@ const structuredTable = [
   "    </PaperViewTableRow>",
   "  </PaperViewTableHead>",
   "  <PaperViewTableBody>",
-  "    <PaperViewTableRow>",
-  '      <PaperViewTableCell tone="muted" />',
+  '    <PaperViewTableRow cellBorder="none">',
+  '      <PaperViewTableCell cellBorder="all" tone="muted" />',
   "      <PaperViewTableCell>",
   "        <PaperViewTableCellLabel>$1$</PaperViewTableCellLabel>",
   "        $49$",
@@ -52,15 +52,17 @@ test("renders the structured vocabulary as native table semantics", async () => 
     /<div class="rtq-paper-table"[^>]*data-cell-align="center"/,
   );
   assert.match(html, /data-density="roomy"/);
-  assert.match(html, /data-grid="framed"/);
+  assert.match(html, /data-grid="horizontal"/);
+  assert.match(html, /data-border-model="cells"/);
+  assert.match(html, /data-cell-border="all"/);
   assert.match(html, /data-paper-table=""/);
   assert.match(html, /<table aria-label="Number grid">/);
   assert.match(html, /<caption>Crossnumber<\/caption>/);
   assert.match(html, /<thead>/);
   assert.match(html, /<tbody>/);
-  assert.match(html, /<tr>/);
+  assert.match(html, /<tr data-cell-border="none">/);
   assert.match(html, /<th scope="col">Column<\/th>/);
-  assert.match(html, /<td data-tone="muted"><\/td>/);
+  assert.match(html, /<td data-cell-border="all" data-tone="muted"><\/td>/);
   assert.match(
     html,
     /<span data-paper-table-cell-label="">[\s\S]*>1<\/code><\/span>/,
@@ -75,6 +77,8 @@ test("does not validate direct structure or presentation values", async () => {
   );
 
   assert.match(html, /data-density="authored-value"/);
+  assert.match(html, /data-border-model="table"/);
+  assert.doesNotMatch(html, /data-cell-border=/);
   assert.match(html, /<table><td data-tone="custom">Value<\/td><\/table>/);
 });
 
@@ -91,5 +95,14 @@ test("shares adjacent-table rhythm and muted annotation colours", () => {
   assert.match(
     css,
     /\.rtq-maths-cell-label-number,[\s\S]*\.rtq-maths-equation-number,[\s\S]*\.rtq-maths-working-annotation\s*\{[^}]*color: var\(--muted, currentColor\);/s,
+  );
+  assert.match(
+    css,
+    /\[data-border-model="cells"\]\[data-cell-border="all"\][\s\S]*border-block: 1px solid var\(--rtq-paper-table-rule-row\);/,
+  );
+  assert.match(css, /tr\[data-cell-border="none"\][\s\S]*border: 0;/);
+  assert.match(
+    css,
+    /:where\(th, td\)\[data-cell-border="all"\][\s\S]*border-inline: 1px solid var\(--rtq-paper-table-rule-column\);/,
   );
 });

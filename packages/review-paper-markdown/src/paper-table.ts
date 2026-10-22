@@ -487,6 +487,8 @@ function prepareHastTable(table: AstNode): AstNode {
       )
     : gfmConfig;
   const cellAlignAuthored = hasDataProperty(table, "cell-align-authored");
+  const borderModel = getDataProperty(table, "border-model");
+  const cellBorder = getDataProperty(table, "cell-border");
 
   if (configured && !structured) {
     applyColumnHeaderSemantics(
@@ -500,6 +502,8 @@ function prepareHastTable(table: AstNode): AstNode {
   for (const name of [
     "align",
     "blank-corner",
+    "border-model",
+    "cell-border",
     "cell-align",
     "cell-align-authored",
     "column-headers",
@@ -521,6 +525,14 @@ function prepareHastTable(table: AstNode): AstNode {
       className: ["rtq-paper-table"],
       dataAlign: renderConfig.align,
       dataBlankCorner: renderConfig.blankCorner,
+      ...(structured
+        ? {
+            dataBorderModel: borderModel ?? "table",
+            ...((borderModel ?? "table") === "cells"
+              ? { dataCellBorder: cellBorder ?? "all" }
+              : {}),
+          }
+        : {}),
       dataCellAlign: renderConfig.cellAlign,
       ...(cellAlignAuthored ? { dataCellAlignAuthored: "" } : {}),
       dataDensity: renderConfig.density,

@@ -135,7 +135,7 @@
   position: absolute;
 }
 
-.rtq-paper-table:is(
+.rtq-paper-table:not([data-border-model="cells"]):is(
     [data-grid="rows"],
     [data-grid="horizontal"],
     [data-grid="interior"],
@@ -147,7 +147,7 @@
   border-block-end: 1px solid var(--rtq-paper-table-rule-header);
 }
 
-.rtq-paper-table:is(
+.rtq-paper-table:not([data-border-model="cells"]):is(
     [data-grid="rows"],
     [data-grid="horizontal"],
     [data-grid="interior"],
@@ -159,7 +159,7 @@
   border-block-end: 1px solid var(--rtq-paper-table-rule-row);
 }
 
-.rtq-paper-table:is(
+.rtq-paper-table:not([data-border-model="cells"]):is(
     [data-grid="rows"],
     [data-grid="horizontal"],
     [data-grid="interior"],
@@ -171,7 +171,7 @@
   border-block-end: 1.5px solid var(--rtq-paper-table-rule-anchor);
 }
 
-.rtq-paper-table:is(
+.rtq-paper-table:not([data-border-model="cells"]):is(
     [data-grid="horizontal"],
     [data-grid="interior"],
     [data-grid="framed"]
@@ -190,7 +190,7 @@
   border-inline-end: 1px solid var(--rtq-paper-table-rule-column);
 }
 
-.rtq-paper-table[data-grid="framed"] table {
+.rtq-paper-table:not([data-border-model="cells"])[data-grid="framed"] table {
   border-inline: 1px solid var(--rtq-paper-table-rule-anchor);
 }
 
@@ -200,6 +200,43 @@
   > th:first-child {
   border-block-end: 0;
   border-inline-end: 0;
+}
+
+.rtq-paper-table[data-border-model="cells"] :where(th, td) {
+  border: 0;
+}
+
+.rtq-paper-table[data-border-model="cells"][data-cell-border="all"]
+  tr
+  > :where(th, td) {
+  border-block: 1px solid var(--rtq-paper-table-rule-row);
+  border-inline: 1px solid var(--rtq-paper-table-rule-column);
+}
+
+.rtq-paper-table[data-border-model="cells"]
+  tr[data-cell-border="all"]
+  > :where(th, td) {
+  border-block: 1px solid var(--rtq-paper-table-rule-row);
+  border-inline: 1px solid var(--rtq-paper-table-rule-column);
+}
+
+.rtq-paper-table[data-border-model="cells"]
+  tr[data-cell-border="none"]
+  > :where(th, td) {
+  border: 0;
+}
+
+.rtq-paper-table[data-border-model="cells"]
+  tr
+  > :where(th, td)[data-cell-border="all"] {
+  border-block: 1px solid var(--rtq-paper-table-rule-row);
+  border-inline: 1px solid var(--rtq-paper-table-rule-column);
+}
+
+.rtq-paper-table[data-border-model="cells"]
+  tr
+  > :where(th, td)[data-cell-border="none"] {
+  border: 0;
 }
 
 .rtq-paper-table[data-indent="sm"] {

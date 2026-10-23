@@ -3,8 +3,9 @@ import type { Plugin } from "unified";
 
 import {
   PAPER_SHAPE_VIEWBOX,
+  PAPER_SYMBOL_SHAPE_NAMES,
   SHAPE_PATHS,
-  type PaperShapeName,
+  type PaperSymbolShapeName,
 } from "./paper-shape-paths.ts";
 
 export const PAPER_SYMBOL_NAMES = [
@@ -65,6 +66,9 @@ const SIZE_PX = {
   lg: 28,
   xl: 48,
 } as const satisfies Record<PaperSymbolSize, number>;
+
+const BLACK_TRIANGLE_VIEWBOX = "0 0 48 48";
+const BLACK_TRIANGLE_PATH = "M24 4 44 44H4Z";
 
 const CLIPPED_VARIANT_RATIO = {
   full: 1,
@@ -488,17 +492,12 @@ type GeometricSymbolName = Extract<
 
 function isOutlineShapeSymbolName(
   name: PaperSymbolName,
-): name is PaperShapeName {
-  return (
-    name === "square" ||
-    name === "circle" ||
-    name === "triangle" ||
-    name === "hexagon"
-  );
+): name is PaperSymbolShapeName {
+  return PAPER_SYMBOL_SHAPE_NAMES.some((shapeName) => shapeName === name);
 }
 
 function outlineShapeSvg(
-  name: PaperShapeName,
+  name: PaperSymbolShapeName,
   size: PaperSymbolSize,
 ): NativeNode {
   const sizePx = SIZE_PX[size];
@@ -759,8 +758,9 @@ function symbolSvg(
     case "club-suit":
       return clubSuitSvg(size);
     case "black-triangle":
+      return filledTriangleSvg(size);
     case "black-heart":
-      return filledShapeSvg(name, size);
+      return filledHeartSvg(size);
     case "diamond":
     case "sun":
     case "smiling-face":
@@ -769,15 +769,33 @@ function symbolSvg(
       return computerSvg(size);
   }
 
-  function filledShapeSvg(
-    name: Extract<PaperSymbolName, "black-heart" | "black-triangle">,
-    size: PaperSymbolSize,
-  ): NativeNode {
+  function filledTriangleSvg(size: PaperSymbolSize): NativeNode {
     const sizePx = SIZE_PX[size];
-    const d =
-      name === "black-triangle"
-        ? "M13.73 4a2 2 0 0 0-3.46 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"
-        : "M2 9.5a5.5 5.5 0 0 1 9.591-3.676.56.56 0 0 0 .818 0A5.49 5.49 0 0 1 22 9.5c0 2.29-1.5 4-3 5.5l-5.492 5.313a2 2 0 0 1-3 .019L5 15c-1.5-1.5-3-3.2-3-5.5";
+
+    return nativeNode(
+      "svg",
+      {
+        "aria-hidden": "true",
+        fill: "currentColor",
+        focusable: "false",
+        height: sizePx,
+        preserveAspectRatio: "xMinYMid meet",
+        style: "display:block;max-width:none;flex:none",
+        viewBox: BLACK_TRIANGLE_VIEWBOX,
+        width: sizePx,
+        xmlns: "http://www.w3.org/2000/svg",
+      },
+      [
+        nativeNode("path", {
+          d: BLACK_TRIANGLE_PATH,
+          fill: "currentColor",
+        }),
+      ],
+    );
+  }
+
+  function filledHeartSvg(size: PaperSymbolSize): NativeNode {
+    const sizePx = SIZE_PX[size];
 
     return nativeNode(
       "svg",
@@ -794,7 +812,7 @@ function symbolSvg(
       },
       [
         nativeNode("path", {
-          d,
+          d: "M2 9.5a5.5 5.5 0 0 1 9.591-3.676.56.56 0 0 0 .818 0A5.49 5.49 0 0 1 22 9.5c0 2.29-1.5 4-3 5.5l-5.492 5.313a2 2 0 0 1-3 .019L5 15c-1.5-1.5-3-3.2-3-5.5",
           fill: "currentColor",
           stroke: "currentColor",
           strokeLinecap: "round",
@@ -869,9 +887,7 @@ function symbolSvgHtml(
     ];
   }
   if (name === "black-triangle") {
-    return [
-      '<path d="M13.73 4a2 2 0 0 0-3.46 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z" fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>',
-    ];
+    return [`<path d="${BLACK_TRIANGLE_PATH}" fill="currentColor"></path>`];
   }
   if (name === "black-heart") {
     return [
@@ -1059,7 +1075,7 @@ function paperSymbolHtml(attributesSource: string): string {
   const graphic = isTally
     ? tallySvgHtml(count as number, sizePx)
     : [
-        `<svg aria-hidden="true" fill="${fill}" focusable="false" height="${sizePx}" preserveAspectRatio="xMinYMid meet" style="display:block;max-width:none;flex:none" viewBox="${isOutlineShapeSymbolName(name) ? PAPER_SHAPE_VIEWBOX : "0 0 24 24"}" width="${sizePx}" xmlns="http://www.w3.org/2000/svg">`,
+        `<svg aria-hidden="true" fill="${fill}" focusable="false" height="${sizePx}" preserveAspectRatio="xMinYMid meet" style="display:block;max-width:none;flex:none" viewBox="${name === "black-triangle" ? BLACK_TRIANGLE_VIEWBOX : isOutlineShapeSymbolName(name) ? PAPER_SHAPE_VIEWBOX : "0 0 24 24"}" width="${sizePx}" xmlns="http://www.w3.org/2000/svg">`,
         ...symbolSvgHtml(
           name as Exclude<PaperSymbolName, "tally-marks">,
           variant,

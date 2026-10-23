@@ -9,7 +9,7 @@ test('registers all prefixed RTQ macros including one-to-one symbol wrappers', (
   assert.equal(
     Object.keys(rtqKatexMacros).filter(name => name.startsWith('\\rtqMaths'))
       .length,
-    138,
+    141,
   );
   assert.equal(
     rtqKatexMacros['\\rtqMathsUnderlineEmptyValueLong'],
@@ -24,6 +24,10 @@ test('registers all prefixed RTQ macros including one-to-one symbol wrappers', (
   assert.equal(
     rtqKatexMacros['\\rtqMathsDigitGroupSeparator'],
     '\\rtqMathsSpaceOneSixthEm',
+  );
+  assert.equal(
+    rtqKatexMacros['\\rtqMathsTimeSpaceSeparator'],
+    '\\rtqMathsSpaceQuarterEm',
   );
   assert.equal(rtqKatexMacros['\\rtqMathsSpaceOneSixthEm'], '\\,');
   assert.equal(
@@ -129,6 +133,10 @@ test('registers all prefixed RTQ macros including one-to-one symbol wrappers', (
     rtqKatexMacros['\\rtqMathsSymbolBlackSmilingFace'],
     '\\text{\\char"263B}',
   );
+  assert.equal(
+    rtqKatexMacros['\\rtqMathsSymbolTaurus'],
+    '\\mathord{\\text{\\char"2649\\char"FE0E}}',
+  );
   assert.equal(rtqKatexMacros['\\rtqMathsSymbolPound'], '\\pounds');
   assert.equal(
     rtqKatexMacros['\\rtqMathsUnit'],
@@ -178,13 +186,14 @@ test('renders the approved symbol wrappers', () => {
 
 test('renders the beamed-notes and smiling-face symbol wrappers', () => {
   const html = katex.renderToString(
-    '\\rtqMathsSymbolBeamedEighthNotes + \\rtqMathsSymbolBlackSmilingFace',
+    '\\rtqMathsSymbolBeamedEighthNotes + \\rtqMathsSymbolBlackSmilingFace + \\rtqMathsSymbolTaurus',
     { ...rtqKatexOptions, throwOnError: true },
   );
 
   assert.doesNotMatch(html, /katex-error/);
   assert.match(html, /♫/);
   assert.match(html, /☻/);
+  assert.match(html, /♉/);
 });
 
 test('renders the pending-review selection symbols', () => {
@@ -200,12 +209,13 @@ test('renders the pending-review selection symbols', () => {
 
 test('renders role-specific symbols and words as binary operators', () => {
   const html = katex.renderToString(
-    String.raw`1 \rtqMathsBinaryOperatorAsterisk 2 \rtqMathsBinaryOperatorBoxDot 3 \rtqMathsBinaryOperatorBlackSquare 4 \rtqMathsBinaryOperatorOf 5`,
+    String.raw`1 \rtqMathsBinaryOperatorAsterisk 2 \rtqMathsBinaryOperatorBoxDot 3 \rtqMathsBinaryOperatorBlackSquare 4 \rtqMathsBinaryOperatorTaurus 5 \rtqMathsBinaryOperatorOf 6`,
     { ...rtqKatexOptions, throwOnError: true },
   );
 
   assert.doesNotMatch(html, /katex-error/);
-  assert.equal(html.match(/class="mbin/g)?.length, 4);
+  assert.equal(html.match(/class="mbin/g)?.length, 5);
+  assert.match(html, /♉/);
 });
 
 test('renders standard and no-space mathematical unit suffixes', () => {

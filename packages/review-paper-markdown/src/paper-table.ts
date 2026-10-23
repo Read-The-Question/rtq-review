@@ -7,6 +7,7 @@ export const PAPER_TABLE_GRIDS = [
   "horizontal",
   "interior",
   "none",
+  "outline",
   "rows",
   "vertical",
 ] as const;

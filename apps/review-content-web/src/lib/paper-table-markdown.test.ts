@@ -160,7 +160,11 @@ test('carries the RTQ web layout topology for every grid family', () => {
   assert.match(css, /border-block-end:\s*1px solid/);
   assert.match(css, /border-block:\s*1\.5px solid/);
   assert.match(css, /border-inline-end:\s*1px solid/);
-  assert.match(css, /\[data-grid='framed'\] table[\s\S]*border-inline:/);
+  assert.match(
+    css,
+    /\[data-grid='framed'\],[\s\S]*\[data-grid='outline'\][\s\S]*border-inline:/,
+  );
+  assert.equal(css.match(/\[data-grid='outline'\]/g)?.length, 2);
   assert.match(css, /:not\(\[data-border-model='cells'\]\)/);
   assert.match(css, /\[data-blank-corner='open'\][\s\S]*border-block-end: 0/);
   assert.match(css, /\[data-first-column-start-padding='none'\]/);

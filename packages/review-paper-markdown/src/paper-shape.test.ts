@@ -50,9 +50,9 @@ test("preserves inline maths and formatting inside a same-line GFM cell", async 
 
 test("uses default pattern and size, and supports self-closing blanks", async () => {
   const html = await render(
-    '<PaperShape name="square" /> <PaperShape name="circle">caption</PaperShape> <PaperShape name="triangle" pattern="vertical-stripes" />',
+    '<PaperShape name="square" /> <PaperShape name="circle">caption</PaperShape> <PaperShape name="triangle" pattern="vertical-stripes" /> <PaperShape name="card">$7$</PaperShape>',
   );
-  assert.equal(html.match(/data-paper-shape=""/g)?.length, 3);
+  assert.equal(html.match(/data-paper-shape=""/g)?.length, 4);
   assert.match(
     html,
     /data-paper-shape-name="square" data-paper-shape-pattern="plain" data-paper-shape-size="xl"><\/span>/,
@@ -64,6 +64,10 @@ test("uses default pattern and size, and supports self-closing blanks", async ()
   assert.match(
     html,
     /data-paper-shape-name="triangle" data-paper-shape-pattern="vertical-stripes"/,
+  );
+  assert.match(
+    html,
+    /data-paper-shape-name="card" data-paper-shape-pattern="plain" data-paper-shape-size="xl"><span class="katex"/,
   );
 });
 

@@ -29,10 +29,12 @@ const reviewerKatexMacros: Record<string, string> = {
   '\\rtqMathsSymbolBlackCircle': '\\mathord{\\Large\\bullet}',
   '\\rtqMathsSymbolBlackLozenge': '\\blacklozenge',
   '\\rtqMathsSymbolBlackSmilingFace': '\\text{\\char"263B}',
+  '\\rtqMathsSymbolTaurus': '\\mathord{\\text{\\char"2649\\char"FE0E}}',
   '\\rtqMathsBinaryOperatorAsterisk': '\\mathbin{\\rtqMathsSymbolAsterisk}',
   '\\rtqMathsBinaryOperatorBoxDot': '\\mathbin{\\rtqMathsSymbolBoxDot}',
   '\\rtqMathsBinaryOperatorBlackSquare':
     '\\mathbin{\\rtqMathsSymbolBlackSquare}',
+  '\\rtqMathsBinaryOperatorTaurus': '\\mathbin{\\rtqMathsSymbolTaurus}',
   '\\rtqMathsSymbolHeartsPendingReview': '\\hearts',
   '\\rtqMathsSymbolHeartSuitPendingReview': '\\heartsuit',
   '\\rtqMathsSymbolSpadeSuitPendingReview': '\\spadesuit',

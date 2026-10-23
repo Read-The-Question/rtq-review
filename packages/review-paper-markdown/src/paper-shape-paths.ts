@@ -5,6 +5,16 @@ export const SHAPE_PATHS = {
   circle: "M61 32a29 29 0 1 1-58 0 29 29 0 1 1 58 0",
   triangle: "M32 3 61 61H3Z",
   hexagon: "M17 3H47L61 32 47 61H17L3 32Z",
+  card: "M17 3H47Q54 3 54 10V54Q54 61 47 61H17Q10 61 10 54V10Q10 3 17 3Z",
 } as const;
 
 export type PaperShapeName = keyof typeof SHAPE_PATHS;
+
+export const PAPER_SYMBOL_SHAPE_NAMES = [
+  "square",
+  "circle",
+  "triangle",
+  "hexagon",
+] as const satisfies readonly PaperShapeName[];
+
+export type PaperSymbolShapeName = (typeof PAPER_SYMBOL_SHAPE_NAMES)[number];

@@ -43,6 +43,8 @@ import {
   RTQ_TABLE_NO_VALUE_MACRO,
   RTQ_TIME_SEPARATOR_EXPANSION,
   RTQ_TIME_SEPARATOR_MACRO,
+  RTQ_TIME_SPACE_SEPARATOR_EXPANSION,
+  RTQ_TIME_SPACE_SEPARATOR_MACRO,
   RTQ_TIME_MERIDIEM_MACROS,
   RTQ_UNIT_MACROS,
   RTQ_UNDERLINE_VALUE_MACROS,
@@ -99,6 +101,9 @@ test("matches the canonical rtq-content shared macro contracts", () => {
   const timeSeparator = contract.macros.find(
     ({ name }) => name === RTQ_TIME_SEPARATOR_MACRO,
   );
+  const timeSpaceSeparator = contract.macros.find(
+    ({ name }) => name === RTQ_TIME_SPACE_SEPARATOR_MACRO,
+  );
   const digitGroupSeparator = contract.macros.find(
     ({ name }) => name === RTQ_DIGIT_GROUP_SEPARATOR_MACRO,
   );
@@ -151,6 +156,10 @@ test("matches the canonical rtq-content shared macro contracts", () => {
   assert.deepEqual(timeSeparator, {
     expansion: RTQ_TIME_SEPARATOR_EXPANSION,
     name: RTQ_TIME_SEPARATOR_MACRO,
+  });
+  assert.deepEqual(timeSpaceSeparator, {
+    expansion: RTQ_TIME_SPACE_SEPARATOR_EXPANSION,
+    name: RTQ_TIME_SPACE_SEPARATOR_MACRO,
   });
   assert.deepEqual(digitGroupSeparator, {
     expansion: RTQ_DIGIT_GROUP_SEPARATOR_EXPANSION,
@@ -284,9 +293,9 @@ test("renders question-mark placeholders with their contracted math roles", () =
   }
 });
 
-test("renders approved white-shape binary operators", () => {
+test("renders approved symbol binary operators", () => {
   const html = katex.renderToString(
-    String.raw`6 \rtqMathsBinaryOperatorWhiteDiamond 3 \rtqMathsBinaryOperatorWhiteUpTriangle 1 \rtqMathsBinaryOperatorWhiteSmilingFace 2 = 1`,
+    String.raw`6 \rtqMathsBinaryOperatorWhiteDiamond 3 \rtqMathsBinaryOperatorWhiteUpTriangle 1 \rtqMathsBinaryOperatorWhiteSmilingFace 2 \rtqMathsBinaryOperatorTaurus 4 = 1`,
     { ...options, throwOnError: true },
   );
 
@@ -294,7 +303,8 @@ test("renders approved white-shape binary operators", () => {
   assert.match(html, /♢/);
   assert.match(html, /△/);
   assert.match(html, /☺/);
-  assert.equal((html.match(/mbin/g) ?? []).length, 3);
+  assert.match(html, /♉/);
+  assert.equal((html.match(/mbin/g) ?? []).length, 4);
 });
 
 test("renders the low dot and wedge as binary operators", () => {
@@ -407,6 +417,20 @@ test("renders clock-time separators with ordinary-atom spacing", () => {
   assert.equal(normalize(macro), normalize(direct));
   assert.doesNotMatch(macro, /mspace/);
   assert.match(raw, /mspace/);
+});
+
+test("renders source clock-time spaces as quarter-em separators", () => {
+  const normalize = (html: string) =>
+    html.replace(/<annotation[^>]*>[\s\S]*?<\/annotation>/g, "<annotation/>");
+
+  assert.equal(
+    normalize(
+      katex.renderToString(`9${RTQ_TIME_SPACE_SEPARATOR_MACRO}25`, options),
+    ),
+    normalize(
+      katex.renderToString(`9${RTQ_TIME_SPACE_SEPARATOR_EXPANSION}25`, options),
+    ),
+  );
 });
 
 test("renders ratio separators as vertically centred relations", () => {

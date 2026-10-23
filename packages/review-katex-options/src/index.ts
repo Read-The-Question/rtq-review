@@ -59,6 +59,7 @@ export const RTQ_BINARY_OPERATOR_SYMBOL_MACROS = {
     "\\mathbin{\\rtqMathsSymbolRightArrowWithCircledPlus}",
   "\\rtqMathsBinaryOperatorWhiteSmilingFace":
     "\\mathbin{\\rtqMathsSymbolWhiteSmilingFace}",
+  "\\rtqMathsBinaryOperatorTaurus": "\\mathbin{\\rtqMathsSymbolTaurus}",
 } as const;
 
 export const RTQ_BINARY_OPERATOR_WORD_MACROS = {
@@ -71,6 +72,7 @@ export const RTQ_ROLE_NEUTRAL_SYMBOL_MACROS = {
   "\\rtqMathsSymbolRightArrow": "\\rightarrow",
   "\\rtqMathsSymbolRightArrowWithCircledPlus": '\\text{\\char"27F4}',
   "\\rtqMathsSymbolWhiteSmilingFace": '\\text{\\char"263A}',
+  "\\rtqMathsSymbolTaurus": '\\mathord{\\text{\\char"2649\\char"FE0E}}',
   "\\rtqMathsSymbolCircledReverseSolidus": '\\mathord{\\text{\\char"29B8}}',
   "\\rtqMathsSymbolCircledDot": "\\mathord{\\odot}",
   "\\rtqMathsSymbolBoxTimes": "\\mathord{\\boxtimes}",
@@ -114,6 +116,12 @@ export const RTQ_DIGIT_GROUP_SEPARATOR_EXPANSION =
 export const RTQ_TIME_SEPARATOR_MACRO = "\\rtqMathsTimeSeparator" as const;
 
 export const RTQ_TIME_SEPARATOR_EXPANSION = "\\mathord{:}" as const;
+
+export const RTQ_TIME_SPACE_SEPARATOR_MACRO =
+  "\\rtqMathsTimeSpaceSeparator" as const;
+
+export const RTQ_TIME_SPACE_SEPARATOR_EXPANSION =
+  "\\rtqMathsSpaceQuarterEm" as const;
 
 export const RTQ_RATIO_SEPARATOR_MACRO = "\\rtqMathsRatioSeparator" as const;
 
@@ -294,6 +302,7 @@ export function getRtqReviewKatexOptions<
       [RTQ_TABLE_NO_VALUE_MACRO]: RTQ_TABLE_NO_VALUE_EXPANSION,
       [RTQ_DIGIT_GROUP_SEPARATOR_MACRO]: RTQ_DIGIT_GROUP_SEPARATOR_EXPANSION,
       [RTQ_TIME_SEPARATOR_MACRO]: RTQ_TIME_SEPARATOR_EXPANSION,
+      [RTQ_TIME_SPACE_SEPARATOR_MACRO]: RTQ_TIME_SPACE_SEPARATOR_EXPANSION,
       [RTQ_RATIO_SEPARATOR_MACRO]: RTQ_RATIO_SEPARATOR_EXPANSION,
       ...RTQ_SPACING_MACROS,
       ...RTQ_UNIT_MACROS,

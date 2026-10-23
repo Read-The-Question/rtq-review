@@ -1,7 +1,10 @@
 import assert from 'node:assert/strict';
 import test from 'node:test';
 
-import { SHAPE_PATHS } from '@rtq/review-paper-markdown/paper-shape-paths';
+import {
+  PAPER_SYMBOL_SHAPE_NAMES,
+  SHAPE_PATHS,
+} from '@rtq/review-paper-markdown/paper-shape-paths';
 import { readReviewPaper } from '@rtq/review-paper-model';
 import { createElement } from 'react';
 import { renderToStaticMarkup } from 'react-dom/server';
@@ -83,7 +86,8 @@ test('renders the canonical Dulwich PaperShape grid from reviewed source', async
     createElement(RtqMarkdown, { markdown: preparedEquation.rendered }),
   );
   assert.equal(equationHtml.match(/data-paper-symbol-name=/g)?.length, 4);
-  for (const [name, path] of Object.entries(SHAPE_PATHS)) {
+  for (const name of PAPER_SYMBOL_SHAPE_NAMES) {
+    const path = SHAPE_PATHS[name];
     const symbol = equationHtml
       .split(`data-paper-symbol-name="${name}"`)[1]
       ?.split('</svg>')[0];

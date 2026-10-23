@@ -65,6 +65,7 @@ test("uses the exact RTQ web PaperTable values and defaults", () => {
     "horizontal",
     "interior",
     "none",
+    "outline",
     "rows",
     "vertical",
   ]);

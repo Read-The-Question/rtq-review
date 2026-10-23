@@ -12,8 +12,11 @@ import {
   remarkPaperSymbol,
   toPaperSymbolCompatibilityMarkdown,
 } from "./index.ts";
-import { PAPER_SHAPE_NAMES } from "./paper-shape.ts";
-import { PAPER_SHAPE_VIEWBOX, SHAPE_PATHS } from "./paper-shape-paths.ts";
+import {
+  PAPER_SHAPE_VIEWBOX,
+  PAPER_SYMBOL_SHAPE_NAMES,
+  SHAPE_PATHS,
+} from "./paper-shape-paths.ts";
 
 async function render(markdown: string): Promise<string> {
   const result = await unified()
@@ -116,7 +119,7 @@ test("renders a separate filled black smiling face with inverse details", async 
   );
 });
 
-test("renders the filled Lucide triangle and heart", async () => {
+test("renders the sharp filled triangle and Lucide heart", async () => {
   const html = await render(
     '<PaperSymbol name="black-triangle" size="lg" /><PaperSymbol name="black-heart" size="lg" />',
   );
@@ -124,7 +127,11 @@ test("renders the filled Lucide triangle and heart", async () => {
   assert.match(html, /data-paper-symbol-name="black-triangle"/);
   assert.match(html, /data-paper-symbol-name="black-heart"/);
   assert.equal(html.match(/<svg[^>]*fill="currentColor"/g)?.length, 2);
-  assert.match(html, /<path[^>]*d="M13\.73 4a2 2/);
+  assert.match(
+    html,
+    /<svg[^>]*viewBox="0 0 48 48"[^>]*><path d="M24 4 44 44H4Z" fill="currentColor"><\/path><\/svg>/,
+  );
+  assert.doesNotMatch(html, /M13\.73 4a2 2/);
   assert.match(html, /<path[^>]*d="M2 9\.5a5\.5 5\.5/);
 });
 
@@ -139,7 +146,7 @@ test("renders a club suit between adjacent inline maths spans", async () => {
 });
 
 test("renders the four shape symbols with the shared PaperShape outlines in both paths", async () => {
-  for (const name of PAPER_SHAPE_NAMES) {
+  for (const name of PAPER_SYMBOL_SHAPE_NAMES) {
     const markdown = [
       `<PaperSymbol name="${name}" size="lg" />`,
       `<PaperSymbol name="${name}" variant="half" size="lg" />`,

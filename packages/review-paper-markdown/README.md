@@ -40,9 +40,11 @@ other pictogram symbols retain their existing drawings.
 ## PaperShape
 
 `PaperShape` is an inline geometric container, not a pictogram symbol. Author
-`<PaperShape name="square|circle|triangle|hexagon" pattern="plain|vertical-stripes|wavy-hatch" size="xl|2xl">inline Markdown or $56$</PaperShape>`,
+`<PaperShape name="square|circle|triangle|hexagon|card" pattern="plain|vertical-stripes|wavy-hatch" size="xl|2xl">inline Markdown or $56$</PaperShape>`,
 or use a self-closing tag for a blank shape. The `name` prop is required;
 `pattern` defaults to `plain` and `size` to `xl` (48px; `2xl` is 64px).
+The `card` name draws a portrait rounded rectangle while retaining the same
+fixed footprint and centred accessible-child contract.
 Only static quoted props and inline children are supported. The remark
 transform preserves child Markdown and maths as AST nodes in a native span
 marker, including inside GFM cells; the browser package draws the accessible

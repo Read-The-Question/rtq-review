@@ -78,6 +78,28 @@ test('labels a self-closing shape as blank and keeps fenced examples literal', (
   assert.match(html, /&lt;PaperShape name=&quot;square&quot; \/&gt;/);
 });
 
+test('renders card as a rounded portrait outline around inline maths', () => {
+  const prepared = prepareQuestion(
+    '<PaperShape name="card" size="2xl">$7$</PaperShape>',
+  );
+  assert.equal(prepared.preparationIssue, undefined);
+  const html = renderToStaticMarkup(
+    createElement(RtqMarkdown, { markdown: prepared.rendered }),
+  );
+
+  assert.match(html, /data-paper-shape-name="card"/);
+  assert.match(html, /data-paper-shape-size="2xl"/);
+  assert.match(
+    html,
+    /<path d="M17 3H47Q54 3 54 10V54Q54 61 47 61H17Q10 61 10 54V10Q10 3 17 3Z" fill="none" stroke="currentColor" stroke-width="2"/,
+  );
+  assert.match(
+    html,
+    /<span class="rtq-paper-shape__content"><span class="katex">/,
+  );
+  assert.match(html, /<mn>7<\/mn>/);
+});
+
 test('assigns separate SVG pattern IDs to adjacent shapes', () => {
   const html = renderToStaticMarkup(
     createElement(RtqMarkdown, {

@@ -8,6 +8,7 @@ export const PAPER_SHAPE_NAMES = [
   "circle",
   "triangle",
   "hexagon",
+  "card",
 ] as const;
 export const PAPER_SHAPE_PATTERNS = [
   "plain",
@@ -109,7 +110,7 @@ function toShapeNode(node: MdxElement): ShapeNode {
   const attributes = shapeAttributes(node);
   if (!isAllowed(PAPER_SHAPE_NAMES, attributes.name)) {
     throw new Error(
-      `PaperShape prop "name" must be square, circle, triangle, or hexagon.`,
+      `PaperShape prop "name" must be square, circle, triangle, hexagon, or card.`,
     );
   }
   if (

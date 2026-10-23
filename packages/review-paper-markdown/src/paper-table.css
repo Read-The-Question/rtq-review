@@ -174,7 +174,8 @@
 .rtq-paper-table:not([data-border-model="cells"]):is(
     [data-grid="horizontal"],
     [data-grid="interior"],
-    [data-grid="framed"]
+    [data-grid="framed"],
+    [data-grid="outline"]
   )
   table {
   border-block: 1.5px solid var(--rtq-paper-table-rule-anchor);
@@ -190,7 +191,11 @@
   border-inline-end: 1px solid var(--rtq-paper-table-rule-column);
 }
 
-.rtq-paper-table:not([data-border-model="cells"])[data-grid="framed"] table {
+.rtq-paper-table:not([data-border-model="cells"]):is(
+    [data-grid="framed"],
+    [data-grid="outline"]
+  )
+  table {
   border-inline: 1px solid var(--rtq-paper-table-rule-anchor);
 }
 

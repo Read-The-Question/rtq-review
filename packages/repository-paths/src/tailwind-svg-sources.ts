@@ -53,7 +53,8 @@ const diagramSwatches = [
 ] as const;
 
 const diagramDiagnosticRoles = [
-  "axis-tick",
+  "axis-label-compact",
+  "axis-label-regular",
   "axis-title",
   "chart-title",
   "point",

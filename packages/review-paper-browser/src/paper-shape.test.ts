@@ -36,6 +36,7 @@ test('shape graphics use isolated SVG patterns and preserve accessible children'
     'circle',
     'triangle',
     'hexagon',
+    'card',
   ]);
   assert.match(css, /\.rtq-paper-shape\s*\{[^}]*color:\s*inherit;/s);
   assert.match(css, /\.rtq-paper-shape__content\s*\{[^}]*z-index:\s*1;/s);

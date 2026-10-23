@@ -29,7 +29,8 @@ const fixedSwatches = {
 };
 const fixedDiagnosticColours = {
   "--color-diagrams-debug-annotation-label": "rgba(240, 228, 66, 0.5)",
-  "--color-diagrams-debug-axis-tick": "rgba(0, 114, 178, 0.5)",
+  "--color-diagrams-debug-axis-label-compact": "rgba(0, 114, 178, 0.5)",
+  "--color-diagrams-debug-axis-label-regular": "rgba(230, 159, 0, 0.5)",
   "--color-diagrams-debug-axis-title": "rgba(123, 44, 191, 0.5)",
   "--color-diagrams-debug-chart-title": "rgba(0, 143, 140, 0.5)",
   "--color-diagrams-debug-custom-text": "rgba(215, 38, 61, 0.6)",
@@ -124,7 +125,7 @@ test("review compilers discover canonical SVG utilities through the configured c
       );
       write(
         svg,
-        '<svg class="text-maths-working-carry text-diagrams-debug-bounds"><path class="fill-diagrams-swatch-red stroke-diagrams-swatch-blue"/><path class="fill-diagrams-debug-point-label"/><path class="fill-diagrams-debug-custom-text"/></svg>',
+        '<svg class="text-maths-working-carry text-diagrams-debug-bounds"><path class="fill-diagrams-swatch-red stroke-diagrams-swatch-blue"/><path class="fill-diagrams-debug-axis-label-compact"/><path class="fill-diagrams-debug-axis-label-regular"/><path class="fill-diagrams-debug-point-label"/><path class="fill-diagrams-debug-custom-text"/></svg>',
       );
       const result = await compile();
       for (const utility of [
@@ -132,6 +133,8 @@ test("review compilers discover canonical SVG utilities through the configured c
         "text-diagrams-debug-bounds",
         "fill-diagrams-swatch-red",
         "stroke-diagrams-swatch-blue",
+        "fill-diagrams-debug-axis-label-compact",
+        "fill-diagrams-debug-axis-label-regular",
         "fill-diagrams-debug-point-label",
         "fill-diagrams-debug-custom-text",
       ]) {
@@ -162,6 +165,16 @@ test("review compilers discover canonical SVG utilities through the configured c
       assert.match(
         result.css,
         /\.stroke-diagrams-swatch-blue\s*\{\s*stroke:\s*#2288f8;/,
+        application,
+      );
+      assert.match(
+        result.css,
+        /\.fill-diagrams-debug-axis-label-compact\s*\{\s*fill:\s*rgba\(0, 114, 178, 0\.5\);/,
+        application,
+      );
+      assert.match(
+        result.css,
+        /\.fill-diagrams-debug-axis-label-regular\s*\{\s*fill:\s*rgba\(230, 159, 0, 0\.5\);/,
         application,
       );
       assert.match(

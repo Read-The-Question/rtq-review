@@ -41,10 +41,11 @@ page route.
 ### `fumadocs-mdx`
 
 `fumadocs-mdx` compiles allowlisted Markdown into data and React components.
-Each `defineDocs()` declaration identifies a physical owner directory and the
-same two allowed patterns: `README.md` and `docs/**/*.md`. These values are
-repeated as string literals because the Fumadocs macro discovers publication
-boundaries while compiling the application.
+Each `defineDocs()` declaration identifies a physical owner directory. Most
+use the two allowed patterns `README.md` and `docs/**/*.md`; the `rtq-content`
+repository and `rtq-web` web application also allow `design/**/*.md`. These
+values are repeated as string literals because the Fumadocs macro discovers
+publication boundaries while compiling the application.
 
 The `createMDX()` wrapper in `next.config.mjs` connects this compiler to
 Next.js. `source.config.ts` converts raw HTML-like nodes to visible text before
@@ -90,11 +91,13 @@ RTQ-specific code is concentrated in a few places:
 | `src/lib/__tests__/documentation-sources.test.ts`         | Inventory, inclusion, exclusion, hierarchy, route, and repository-path checks               |
 | `package.json`                                            | Development, validation, and production commands                                            |
 
-An owner's `README.md` and Markdown beneath its `docs/` folder are sources.
+An owner's `README.md` and Markdown beneath its `docs/` folder are sources. For
+the two registered design corpora, Markdown beneath `design/` is a source too.
 `AGENTS.md`, `CLAUDE.md`, source code, build output, and Markdown in any other
 folder remain excluded. An old or AI-related document is still included when
-it already lives beneath an approved `docs/` boundary; deciding whether it
-should be moved or deleted is separate work in the owning repository.
+it already lives beneath an approved `docs/` or `design/` boundary; deciding
+whether it should be moved or deleted is separate work in the owning
+repository.
 
 ## From a file to a page
 
@@ -150,8 +153,8 @@ A new source needs the following decisions before code is changed:
 3. Identify the physical owner directory relative to RTQ Docs.
 4. Record the owning Git repository, default branch, and repository-relative
    directory so source links are correct.
-5. Use only the conventional `README.md` and `docs/**/*.md` allowlist unless a
-   later requirement explicitly changes the convention.
+5. Use the conventional `README.md` and `docs/**/*.md` allowlist, adding
+   `design/**/*.md` only for owners with an intentional design corpus.
 6. Preserve the source-relative hierarchy; README remains an explicit
    `README.md` item and `docs/` remains an explicit `Docs` section.
 7. Add inclusion, exclusion, path, route, build, and live-update validation.
@@ -205,11 +208,12 @@ normal development refresh to connected browsers after invalidation. A custom
 watcher, server-sent-event route, and client refresh component would duplicate
 those responsibilities, so none are present.
 
-Only `README.md` and `docs/**/*.md` enter the Fumadocs collections. Changes to
-dependency folders, build output, agent instructions, planning files, and
-other unrelated Markdown do not alter content or navigation. The sources are
-always read from the active local working trees; there is no branch catalogue,
-version history, snapshot, or copied content.
+Only `README.md`, `docs/**/*.md`, and the two explicitly registered
+`design/**/*.md` trees enter the Fumadocs collections. Changes to dependency
+folders, build output, agent instructions, planning files, and other unrelated
+Markdown do not alter content or navigation. The sources are always read from
+the active local working trees; there is no branch catalogue, version history,
+snapshot, or copied content.
 
 The production command retains the known-good Webpack path because the current
 Fumadocs macro loader did not complete under the Turbopack production build in

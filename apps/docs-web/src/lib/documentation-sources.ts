@@ -3,6 +3,13 @@ export const conventionalDocumentationFiles = [
   "docs/**/*.md",
 ] as const;
 
+export const designDocumentationFiles = [
+  ...conventionalDocumentationFiles,
+  "design/**/*.md",
+] as const;
+
+type DocumentationFilePattern = (typeof designDocumentationFiles)[number];
+
 export type DocumentationOwnerType = "repository" | "app" | "package";
 
 export type DocumentationSource = Readonly<{
@@ -17,7 +24,7 @@ export type DocumentationSource = Readonly<{
     name: string;
     branch: string;
   }>;
-  files: typeof conventionalDocumentationFiles;
+  files: readonly DocumentationFilePattern[];
 }>;
 
 const readTheQuestion = "Read-The-Question";
@@ -36,7 +43,7 @@ export const documentationSources = [
       name: "rtq-content",
       branch: develop,
     },
-    files: conventionalDocumentationFiles,
+    files: designDocumentationFiles,
   },
   {
     key: "rtq-content-assets",
@@ -176,7 +183,7 @@ export const documentationSources = [
       name: "rtq-web",
       branch: develop,
     },
-    files: conventionalDocumentationFiles,
+    files: designDocumentationFiles,
   },
   {
     key: "rtq-web-feature-config",
@@ -271,7 +278,10 @@ export function isRepositoryDocumentationPath(
 
   return (
     relativePath === "README.md" ||
-    (relativePath.startsWith("docs/") && relativePath.endsWith(".md"))
+    (relativePath.endsWith(".md") &&
+      (relativePath.startsWith("docs/") ||
+        (source.files.includes("design/**/*.md") &&
+          relativePath.startsWith("design/"))))
   );
 }
 
@@ -318,7 +328,8 @@ export function getExpectedDocumentationPaths(
 ): readonly string[] {
   const prefix = normalizeRelativePath(source.repositoryDirectory);
 
-  return ["README.md", "docs"].map((path) =>
-    [prefix, path].filter(Boolean).join("/"),
-  );
+  const paths = ["README.md", "docs"];
+  if (source.files.includes("design/**/*.md")) paths.push("design");
+
+  return paths.map((path) => [prefix, path].filter(Boolean).join("/"));
 }

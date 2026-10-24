@@ -6,6 +6,7 @@ import { describe, it } from "node:test";
 import {
   compareTopLevelNavigationLabels,
   conventionalDocumentationFiles,
+  designDocumentationFiles,
   documentationSources,
   getDocumentationSourceByKey,
   getDocumentationSourceForVirtualPath,
@@ -118,13 +119,36 @@ describe("documentation ownership registry", () => {
     );
   });
 
-  it("uses only the conventional README and docs allowlist", () => {
+  it("adds design Markdown only for owners with design corpora", () => {
     for (const source of documentationSources) {
-      assert.deepEqual(source.files, conventionalDocumentationFiles);
+      assert.deepEqual(
+        source.files,
+        ["rtq-content", "rtq-web-web"].includes(source.key)
+          ? designDocumentationFiles
+          : conventionalDocumentationFiles,
+      );
     }
 
+    const content = getDocumentationSourceByKey("rtq-content");
     const papers = getDocumentationSourceByKey("rtq-content-papers");
+    const web = getDocumentationSourceByKey("rtq-web-web");
+    assert.ok(content);
     assert.ok(papers);
+    assert.ok(web);
+    assert.equal(
+      isRepositoryDocumentationPath(
+        content,
+        "design/ideas/diagram-colour-tokens-explore/diagram-colour-tokens-spec.md",
+      ),
+      true,
+    );
+    assert.equal(
+      isRepositoryDocumentationPath(
+        web,
+        "apps/web/design/ideas/about-page/agent-brief.md",
+      ),
+      true,
+    );
     assert.equal(
       isRepositoryDocumentationPath(
         papers,
@@ -160,8 +184,8 @@ describe("documentation ownership registry", () => {
       {
         sourceKey: "rtq-content-assets",
         expectedRoot: resolve(workspaceRoot, "../rtq-content/packages/assets"),
-        file: "docs/architecture/paper-assets.md",
-        heading: "# Paper Assets Architecture",
+        file: "docs/architecture/asset-lifecycle.md",
+        heading: "# Asset Ownership And Lifecycle",
       },
       {
         sourceKey: "rtq-web-web",
@@ -195,16 +219,17 @@ describe("documentation ownership registry", () => {
     );
     assert.match(
       await readFile(
-        resolve(sourceRoot(assets), "docs/architecture/paper-assets.md"),
+        resolve(sourceRoot(assets), "docs/architecture/asset-lifecycle.md"),
         "utf8",
       ),
-      /^# Paper Assets Architecture/m,
+      /^# Asset Ownership And Lifecycle/m,
     );
   });
 
   it("derives the current allowlisted inventory without a snapshot count", async () => {
     let readmeCount = 0;
     let docsCount = 0;
+    let designCount = 0;
 
     for (const source of documentationSources) {
       const root = sourceRoot(source);
@@ -232,10 +257,27 @@ describe("documentation ownership registry", () => {
           true,
         );
       }
+
+      if (source.files === designDocumentationFiles) {
+        const design = await listMarkdownFiles(resolve(root, "design"));
+        designCount += design.length;
+        for (const file of design) {
+          assert.equal(
+            isRepositoryDocumentationPath(
+              source,
+              [source.repositoryDirectory, relative(root, file)]
+                .filter(Boolean)
+                .join("/"),
+            ),
+            true,
+          );
+        }
+      }
     }
 
     assert.ok(readmeCount > 0);
     assert.ok(docsCount > 0);
+    assert.ok(designCount > 0);
   });
 
   it("reports missing conventional paths without broadening discovery", async () => {
@@ -286,16 +328,16 @@ describe("documentation routes and navigation", () => {
     assert.ok(assets);
     const virtualPath = toVirtualDocumentationPath(
       assets,
-      "docs/architecture/paper-assets.md",
+      "docs/architecture/asset-lifecycle.md",
     );
 
     assert.equal(
       toRepositoryDocumentationPath(assets, virtualPath),
-      "packages/assets/docs/architecture/paper-assets.md",
+      "packages/assets/docs/architecture/asset-lifecycle.md",
     );
     assert.equal(
       toRepositoryDocumentationUrl(assets, virtualPath),
-      "https://github.com/Read-The-Question/rtq-content/blob/develop/packages/assets/docs/architecture/paper-assets.md",
+      "https://github.com/Read-The-Question/rtq-content/blob/develop/packages/assets/docs/architecture/asset-lifecycle.md",
     );
 
     const environment = getDocumentationSourceByKey("rtq-env");

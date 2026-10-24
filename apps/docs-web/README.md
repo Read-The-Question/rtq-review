@@ -8,19 +8,22 @@ the active RTQ repository working trees.
 The navigation mirrors the four RTQ repositories and their current workspace
 ownership:
 
-- `rtq-content`: the repository README plus the `assets` and `papers` package
-  READMEs and documentation folders;
+- `rtq-content`: the repository README and design corpus plus the `assets` and
+  `papers` package READMEs and documentation folders;
 - `rtq-env`: the repository README and documentation folder;
 - `rtq-review`: the repository README, all six application READMEs, the RTQ
   Docs documentation folder, and the registered `repository-paths` package;
-- `rtq-web`: the repository README plus the `web` application README and
-  documentation folder and the `feature-config` package README.
+- `rtq-web`: the repository README plus the `web` application README,
+  documentation folder, and design corpus, and the `feature-config` package
+  README.
 
-Each owner is restricted to `README.md` and `docs/**/*.md`. Markdown outside
-those paths—including `AGENTS.md`, `CLAUDE.md`, prompts, planning files,
-application source content, and legacy content trees—is not scanned. Markdown
-already inside an approved `docs/` folder remains visible until it is cleaned
-up in its owning repository.
+Each owner is restricted to `README.md` and `docs/**/*.md`. The `rtq-content`
+repository and the `rtq-web` web application additionally expose
+`design/**/*.md`. Markdown outside those paths—including `AGENTS.md`,
+`CLAUDE.md`, prompts, planning files, application source content, and legacy
+content trees—is not scanned. Markdown already inside an approved `docs/` or
+`design/` folder remains visible until it is cleaned up in its owning
+repository.
 
 No maintained documentation copy is stored in this app. Fumadocs' generated
 `.source` output is reproducible and ignored by Git.
@@ -48,8 +51,10 @@ example:
 
 - `/docs/rtq-review/apps/review-tag-web/README`
 - `/docs/rtq-review/apps/docs-web/docs/architecture/fumadocs-architecture`
-- `/docs/rtq-content/packages/assets/docs/architecture/paper-assets`
+- `/docs/rtq-content/packages/assets/docs/architecture/asset-lifecycle`
+- `/docs/rtq-content/design/ideas/diagram-colour-tokens-explore/diagram-colour-tokens-spec`
 - `/docs/rtq-env/docs/environment-manifest`
+- `/docs/rtq-web/apps/web/design/ideas/about-page/agent-brief`
 - `/docs/rtq-web/apps/web/docs/architecture/frontend/routing`
 
 While the development server is running, edits, additions, renames, and

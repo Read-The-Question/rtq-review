@@ -19,11 +19,12 @@ ownership:
 
 Each owner is restricted to `README.md` and `docs/**/*.md`. The `rtq-content`
 repository and the `rtq-web` web application additionally expose
-`design/**/*.md`. Markdown outside those paths—including `AGENTS.md`,
+`design/**/*.md`, excluding `design/ideas-archive/` and
+`design/ideas-archived/`. Markdown outside those paths—including `AGENTS.md`,
 `CLAUDE.md`, prompts, planning files, application source content, and legacy
 content trees—is not scanned. Markdown already inside an approved `docs/` or
-`design/` folder remains visible until it is cleaned up in its owning
-repository.
+non-archived `design/` folder remains visible until it is cleaned up in its
+owning repository.
 
 No maintained documentation copy is stored in this app. Fumadocs' generated
 `.source` output is reproducible and ignored by Git.
@@ -54,7 +55,7 @@ example:
 - `/docs/rtq-content/packages/assets/docs/architecture/asset-lifecycle`
 - `/docs/rtq-content/design/ideas/diagram-colour-tokens-explore/diagram-colour-tokens-spec`
 - `/docs/rtq-env/docs/environment-manifest`
-- `/docs/rtq-web/apps/web/design/ideas/about-page/agent-brief`
+- `/docs/rtq-web/apps/web/design/ideas/paper-slug/agent-brief-one-question`
 - `/docs/rtq-web/apps/web/docs/architecture/frontend/routing`
 
 While the development server is running, edits, additions, renames, and

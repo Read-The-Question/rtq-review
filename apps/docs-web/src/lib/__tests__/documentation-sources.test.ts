@@ -145,9 +145,23 @@ describe("documentation ownership registry", () => {
     assert.equal(
       isRepositoryDocumentationPath(
         web,
-        "apps/web/design/ideas/about-page/agent-brief.md",
+        "apps/web/design/ideas/paper-slug/agent-brief-one-question.md",
       ),
       true,
+    );
+    assert.equal(
+      isRepositoryDocumentationPath(
+        web,
+        "apps/web/design/ideas-archived/about-page/agent-brief.md",
+      ),
+      false,
+    );
+    assert.equal(
+      isRepositoryDocumentationPath(
+        web,
+        "apps/web/design/ideas-archive/about-page/agent-brief.md",
+      ),
+      false,
     );
     assert.equal(
       isRepositoryDocumentationPath(
@@ -230,6 +244,7 @@ describe("documentation ownership registry", () => {
     let readmeCount = 0;
     let docsCount = 0;
     let designCount = 0;
+    let archivedDesignCount = 0;
 
     for (const source of documentationSources) {
       const root = sourceRoot(source);
@@ -260,16 +275,22 @@ describe("documentation ownership registry", () => {
 
       if (source.files === designDocumentationFiles) {
         const design = await listMarkdownFiles(resolve(root, "design"));
-        designCount += design.length;
         for (const file of design) {
+          const relativeToOwner = relative(root, file);
+          const isArchived =
+            relativeToOwner.startsWith("design/ideas-archive/") ||
+            relativeToOwner.startsWith("design/ideas-archived/");
+          if (isArchived) archivedDesignCount += 1;
+          else designCount += 1;
+
           assert.equal(
             isRepositoryDocumentationPath(
               source,
-              [source.repositoryDirectory, relative(root, file)]
+              [source.repositoryDirectory, relativeToOwner]
                 .filter(Boolean)
                 .join("/"),
             ),
-            true,
+            !isArchived,
           );
         }
       }
@@ -278,6 +299,7 @@ describe("documentation ownership registry", () => {
     assert.ok(readmeCount > 0);
     assert.ok(docsCount > 0);
     assert.ok(designCount > 0);
+    assert.ok(archivedDesignCount > 0);
   });
 
   it("reports missing conventional paths without broadening discovery", async () => {

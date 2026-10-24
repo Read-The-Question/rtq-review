@@ -47,7 +47,13 @@ function documentationPageSchema(context: MacroSchemaContext) {
 const rtqContent = defineDocs({
   dir: "../../../rtq-content",
   docs: {
-    files: ["README.md", "docs/**/*.md", "design/**/*.md"],
+    files: [
+      "README.md",
+      "docs/**/*.md",
+      "design/**/*.md",
+      "!design/ideas-archive/**/*.md",
+      "!design/ideas-archived/**/*.md",
+    ],
     schema: documentationPageSchema,
   },
   meta: { files: [], schema: metaSchema },
@@ -127,7 +133,13 @@ const rtqWeb = defineDocs({
 const rtqWebApp = defineDocs({
   dir: "../../../rtq-web/apps/web",
   docs: {
-    files: ["README.md", "docs/**/*.md", "design/**/*.md"],
+    files: [
+      "README.md",
+      "docs/**/*.md",
+      "design/**/*.md",
+      "!design/ideas-archive/**/*.md",
+      "!design/ideas-archived/**/*.md",
+    ],
     schema: documentationPageSchema,
   },
   meta: { files: [], schema: metaSchema },

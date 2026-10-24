@@ -6,6 +6,8 @@ export const conventionalDocumentationFiles = [
 export const designDocumentationFiles = [
   ...conventionalDocumentationFiles,
   "design/**/*.md",
+  "!design/ideas-archive/**/*.md",
+  "!design/ideas-archived/**/*.md",
 ] as const;
 
 type DocumentationFilePattern = (typeof designDocumentationFiles)[number];
@@ -275,10 +277,14 @@ export function isRepositoryDocumentationPath(
   if (!normalizedPath.startsWith(sourcePrefix)) return false;
 
   const relativePath = normalizedPath.slice(sourcePrefix.length);
+  const isArchivedDesignIdea =
+    relativePath.startsWith("design/ideas-archive/") ||
+    relativePath.startsWith("design/ideas-archived/");
 
   return (
     relativePath === "README.md" ||
     (relativePath.endsWith(".md") &&
+      !isArchivedDesignIdea &&
       (relativePath.startsWith("docs/") ||
         (source.files.includes("design/**/*.md") &&
           relativePath.startsWith("design/"))))

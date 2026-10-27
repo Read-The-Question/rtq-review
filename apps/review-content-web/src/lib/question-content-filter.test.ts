@@ -116,6 +116,72 @@ test('finds tables in question, working, and answer fields', () => {
   }
 });
 
+test('filters images by question and working location', () => {
+  const questionImage = node('question-image', {
+    question: field({ image: true }),
+  });
+  const workingImage = node('working-image', {
+    working: field({ image: true }),
+  });
+  const answerImage = node('answer-image', {
+    answer: field({ image: true }),
+  });
+
+  assert.equal(
+    nodeMatchesQuestionContentFilter(questionImage, 'image-question'),
+    true,
+  );
+  assert.equal(
+    nodeMatchesQuestionContentFilter(questionImage, 'image-working'),
+    false,
+  );
+  assert.equal(
+    nodeMatchesQuestionContentFilter(workingImage, 'image-question'),
+    false,
+  );
+  assert.equal(
+    nodeMatchesQuestionContentFilter(workingImage, 'image-working'),
+    true,
+  );
+  assert.equal(
+    nodeMatchesQuestionContentFilter(answerImage, 'image-working'),
+    true,
+  );
+});
+
+test('filters tables by question and working location', () => {
+  const questionTable = node('question-table', {
+    question: field({ table: true }),
+  });
+  const workingTable = node('working-table', {
+    working: field({ table: true }),
+  });
+  const answerTable = node('answer-table', {
+    answer: field({ table: true }),
+  });
+
+  assert.equal(
+    nodeMatchesQuestionContentFilter(questionTable, 'table-question'),
+    true,
+  );
+  assert.equal(
+    nodeMatchesQuestionContentFilter(questionTable, 'table-working'),
+    false,
+  );
+  assert.equal(
+    nodeMatchesQuestionContentFilter(workingTable, 'table-question'),
+    false,
+  );
+  assert.equal(
+    nodeMatchesQuestionContentFilter(workingTable, 'table-working'),
+    true,
+  );
+  assert.equal(
+    nodeMatchesQuestionContentFilter(answerTable, 'table-working'),
+    true,
+  );
+});
+
 test('the all filter retains every question node', () => {
   const reviewPaper = paper(
     node('parent', { children: [node('first-child'), node('second-child')] }),
@@ -187,6 +253,22 @@ test('can restrict image matches to question-scope images', () => {
       directNodeIds: ['question-image', 'retired-question-image'],
       questionTreeIds: ['parent'],
       visibleNodeIds: ['question-image', 'retired-question-image', 'parent'],
+    },
+  );
+
+  assert.deepEqual(
+    questionContentFilterMatches(reviewPaper, 'image-working', {
+      includeRetiredImages: true,
+    }),
+    {
+      directNodeIds: ['working-image', 'answer-image', 'retired-working-image'],
+      questionTreeIds: ['parent'],
+      visibleNodeIds: [
+        'working-image',
+        'answer-image',
+        'retired-working-image',
+        'parent',
+      ],
     },
   );
 });

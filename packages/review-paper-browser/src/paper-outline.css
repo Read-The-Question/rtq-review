@@ -5,6 +5,7 @@
   --paper-outline-current-foreground: var(--paper-bright, var(--panel, #fff));
   --paper-outline-muted: var(--muted, #666);
   --paper-outline-rule: var(--rule, var(--line, rgb(0 0 0 / 16%)));
+  --paper-outline-table: var(--navy, #344054);
   --paper-outline-top: var(--review-toolbar-offset, 1rem);
   display: grid;
   gap: 0.45rem;
@@ -94,7 +95,9 @@
   align-items: center;
   display: flex;
   flex: 0 0 auto;
+  flex-wrap: wrap;
   gap: 0.3rem;
+  justify-content: flex-end;
 }
 
 .paper-outline__badge {
@@ -132,6 +135,20 @@
   background: #fff1d6;
   border-color: #d18b18;
   color: #7a4b00;
+}
+
+.paper-outline__badge[data-tone='table'] {
+  background: color-mix(
+    in srgb,
+    var(--paper-outline-table) 12%,
+    var(--paper-outline-background)
+  );
+  border-color: color-mix(
+    in srgb,
+    var(--paper-outline-table) 45%,
+    var(--paper-outline-background)
+  );
+  color: var(--paper-outline-table);
 }
 
 .paper-outline__link[aria-current='location'] {

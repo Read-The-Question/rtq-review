@@ -613,20 +613,30 @@ test('view options support minimal metadata and centered review panel modes', as
   assert.match(component, /checked=\{preferences\.showMetadata\}/);
   assert.match(component, /label="Metadata"/);
   assert.match(component, /label="Image tags"/);
-  assert.match(component, /label="Image markers in navigation"/);
+  assert.match(component, /label="Image & table markers in navigation"/);
   assert.match(component, /<span>Questions shown<\/span>/);
   assert.match(
     component,
     /value=\{displayPreferences\.questionContentFilter\}/,
   );
   assert.match(component, /<option value="all">All questions<\/option>/);
+  assert.match(component, /<option value="image">Images · anywhere<\/option>/);
   assert.match(
     component,
-    /<option value="image">Questions with images<\/option>/,
+    /<option value="image-question">[\s\S]*?Images · question[\s\S]*?<\/option>/,
   );
   assert.match(
     component,
-    /<option value="table">Questions with tables<\/option>/,
+    /<option value="image-working">[\s\S]*?Images · workings &amp; answers[\s\S]*?<\/option>/,
+  );
+  assert.match(component, /<option value="table">Tables · anywhere<\/option>/);
+  assert.match(
+    component,
+    /<option value="table-question">[\s\S]*?Tables · question[\s\S]*?<\/option>/,
+  );
+  assert.match(
+    component,
+    /<option value="table-working">[\s\S]*?Tables · workings &amp; answers[\s\S]*?<\/option>/,
   );
   assert.match(component, /questionContentFilterMatches\(/);
   assert.match(component, /visibleNodeIds=\{visibleNodeIds\}/);
@@ -656,12 +666,20 @@ test('view options support minimal metadata and centered review panel modes', as
     /\.review-lanes--single \.review-lane\s*{[^}]*justify-self:\s*center/s,
   );
   assert.match(css, /\.paper-summary\s*{[^}]*display:\s*flex/s);
+  assert.match(component, /function paperContentMarkersByNode/);
+  assert.match(component, /countImages\(node\.content\.question\)/);
   assert.match(
     component,
-    /function paperImageCountsByNode[\s\S]*countImages\(node\.content\.question\)[\s\S]*countImages\(working\.working\)[\s\S]*countImages\(answer\.answer\)/,
+    /workingFields[\s\S]*working\.working[\s\S]*answer\.answer/,
   );
-  assert.match(component, /text:\s*'IMG'/);
-  assert.match(component, /showImageMarkers:\s*preferences\.showImageMarkers/);
+  assert.match(component, /text:\s*'Q·IMG'/);
+  assert.match(component, /text:\s*'W·IMG'/);
+  assert.match(component, /text:\s*'Q·TBL'/);
+  assert.match(component, /text:\s*'W·TBL'/);
+  assert.match(
+    component,
+    /showContentMarkers:\s*preferences\.showImageMarkers/,
+  );
   assert.match(
     css,
     /\.rtq-paper-image-tag\[data-dimension='type'\]\s*{[^}]*background:\s*#dce8ec/s,

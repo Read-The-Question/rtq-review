@@ -4,7 +4,17 @@ import type {
   DisplayReviewPaper,
 } from './display-model.ts';
 
-export type QuestionContentFilter = 'all' | 'image' | 'table';
+export type QuestionContentFilter =
+  | 'all'
+  | 'image'
+  | 'image-question'
+  | 'image-working'
+  | 'table'
+  | 'table-question'
+  | 'table-working';
+
+type QuestionContentKind = 'image' | 'table';
+type QuestionContentLocation = 'any' | 'question' | 'working';
 
 export type QuestionContentFilterMatches = Readonly<{
   directNodeIds: readonly string[];
@@ -12,35 +22,47 @@ export type QuestionContentFilterMatches = Readonly<{
   visibleNodeIds: readonly string[];
 }>;
 
-function nodeFields(
+function questionFields(
+  node: DisplayPaperNode,
+): readonly DisplayContentField[] {
+  return [node.content.question];
+}
+
+function workingFields(
   node: DisplayPaperNode,
   includeSolutions = true,
 ): readonly DisplayContentField[] {
+  if (!includeSolutions) return [];
   return [
-    node.content.question,
-    ...(includeSolutions
-      ? node.content.workings.flatMap((working) => [
-          working.working,
-          ...working.formulas,
-          ...working.tips,
-        ])
-      : []),
-    ...(includeSolutions
-      ? node.content.answers.flatMap((answer) => [
-          answer.answer,
-          answer.key,
-          answer.option,
-        ])
-      : []),
+    ...node.content.workings.flatMap((working) => [
+      working.working,
+      ...working.formulas,
+      ...working.tips,
+    ]),
+    ...node.content.answers.flatMap((answer) => [
+      answer.answer,
+      answer.key,
+      answer.option,
+    ]),
   ];
+}
+
+function filterDefinition(filter: Exclude<QuestionContentFilter, 'all'>): {
+  kind: QuestionContentKind;
+  location: QuestionContentLocation;
+} {
+  const [kind, location = 'any'] = filter.split('-') as [
+    QuestionContentKind,
+    QuestionContentLocation?,
+  ];
+  return { kind, location };
 }
 
 function fieldMatches(
   field: DisplayContentField,
-  filter: QuestionContentFilter,
+  kind: QuestionContentKind,
 ): boolean {
-  if (filter === 'all') return true;
-  if (filter === 'table') return field.hasTable;
+  if (kind === 'table') return field.hasTable;
   return field.preparations.some(
     (preparation) => preparation.kind === 'paper-image',
   );
@@ -52,17 +74,27 @@ export function nodeMatchesQuestionContentFilter(
   includeRetiredImages = false,
   includeSolutions = true,
 ): boolean {
+  if (filter === 'all') return true;
+  const { kind, location } = filterDefinition(filter);
+  const fields = [
+    ...(location === 'working' ? [] : questionFields(node)),
+    ...(location === 'question' ? [] : workingFields(node, includeSolutions)),
+  ];
+
   return (
-    (filter === 'image' &&
+    (kind === 'image' &&
       includeRetiredImages &&
       Boolean(
         node.retiredPaperImages?.some(
-          (entry) => includeSolutions || entry.scope === 'question',
+          (entry) =>
+            (includeSolutions || entry.scope === 'question') &&
+            (location === 'any' ||
+              (location === 'question'
+                ? entry.scope === 'question'
+                : entry.scope !== 'question')),
         ),
       )) ||
-    nodeFields(node, includeSolutions).some((field) =>
-      fieldMatches(field, filter),
-    )
+    fields.some((field) => fieldMatches(field, kind))
   );
 }
 

@@ -167,6 +167,18 @@ const contentScopeLabels: Readonly<Record<ContentSearchScope, string>> = {
   working: 'Workings',
 };
 
+const questionContentFilterLabels: Readonly<
+  Record<QuestionContentFilter, string>
+> = {
+  all: 'content',
+  image: 'images',
+  'image-question': 'images in the question',
+  'image-working': 'images in workings or answers',
+  table: 'tables',
+  'table-question': 'tables in the question',
+  'table-working': 'tables in workings or answers',
+};
+
 type ContentFieldEditorRuntime = Readonly<{
   activeKey?: string;
   refresh: () => void;
@@ -2758,34 +2770,64 @@ function PaperContentSearch({
   );
 }
 
+type PaperContentMarkers = Readonly<{
+  questionImages: number;
+  questionTable: boolean;
+  workingImages: number;
+  workingTable: boolean;
+}>;
+
 function reviewOutlineNode({
   contentMatchingNodeIds,
-  imageCountsByNodeId,
+  contentMarkersByNodeId,
   matchingNodeIds,
   node,
-  showImageMarkers,
+  showContentMarkers,
   visibleNodeIds,
 }: {
   contentMatchingNodeIds: ReadonlySet<string>;
-  imageCountsByNodeId: ReadonlyMap<string, number>;
+  contentMarkersByNodeId: ReadonlyMap<string, PaperContentMarkers>;
   matchingNodeIds: ReadonlySet<string>;
   node: ReviewPaperNode;
-  showImageMarkers: boolean;
+  showContentMarkers: boolean;
   visibleNodeIds?: ReadonlySet<string>;
 }): PaperOutlineNode {
   const exactMatch = matchingNodeIds.has(node.id);
   const contentMatch = contentMatchingNodeIds.has(node.id);
-  const imageCount = imageCountsByNodeId.get(node.id) ?? 0;
+  const markers = contentMarkersByNodeId.get(node.id);
   const badges: NonNullable<PaperOutlineNode['badges']>[number][] = [];
   if (contentMatch) {
     badges.push({ label: 'Raw content match', tone: 'search' });
   }
-  if (showImageMarkers && imageCount > 0) {
-    badges.push({
-      label: `${imageCount} ${imageCount === 1 ? 'paper image' : 'paper images'} visible for this view`,
-      text: 'IMG',
-      tone: 'accent',
-    });
+  if (showContentMarkers && markers) {
+    if (markers.questionImages > 0) {
+      badges.push({
+        label: `${markers.questionImages} ${markers.questionImages === 1 ? 'image' : 'images'} in the question`,
+        text: 'Q·IMG',
+        tone: 'accent',
+      });
+    }
+    if (markers.workingImages > 0) {
+      badges.push({
+        label: `${markers.workingImages} ${markers.workingImages === 1 ? 'image' : 'images'} in workings or answers`,
+        text: 'W·IMG',
+        tone: 'accent',
+      });
+    }
+    if (markers.questionTable) {
+      badges.push({
+        label: 'Table in the question',
+        text: 'Q·TBL',
+        tone: 'table',
+      });
+    }
+    if (markers.workingTable) {
+      badges.push({
+        label: 'Table in workings or answers',
+        text: 'W·TBL',
+        tone: 'table',
+      });
+    }
   }
 
   return {
@@ -2795,10 +2837,10 @@ function reviewOutlineNode({
       .map((child) =>
         reviewOutlineNode({
           contentMatchingNodeIds,
-          imageCountsByNodeId,
+          contentMarkersByNodeId,
           matchingNodeIds,
           node: child,
-          showImageMarkers,
+          showContentMarkers,
           visibleNodeIds,
         }),
       ),
@@ -2818,17 +2860,17 @@ function reviewOutlineNode({
 
 function reviewOutlineSections({
   contentMatchingNodeIds,
-  imageCountsByNodeId,
+  contentMarkersByNodeId,
   matchingNodeIds,
   sections,
-  showImageMarkers,
+  showContentMarkers,
   visibleNodeIds,
 }: {
   contentMatchingNodeIds: ReadonlySet<string>;
-  imageCountsByNodeId: ReadonlyMap<string, number>;
+  contentMarkersByNodeId: ReadonlyMap<string, PaperContentMarkers>;
   matchingNodeIds: ReadonlySet<string>;
   sections: ReturnType<typeof filterReviewPaper>['matchingSections'];
-  showImageMarkers: boolean;
+  showContentMarkers: boolean;
   visibleNodeIds?: ReadonlySet<string>;
 }): PaperOutlineSection[] {
   return sections.map((section) => ({
@@ -2838,22 +2880,22 @@ function reviewOutlineSections({
     nodes: section.questions.map((node) =>
       reviewOutlineNode({
         contentMatchingNodeIds,
-        imageCountsByNodeId,
+        contentMarkersByNodeId,
         matchingNodeIds,
         node,
-        showImageMarkers,
+        showContentMarkers,
         visibleNodeIds,
       }),
     ),
   }));
 }
 
-function paperImageCountsByNode(
+function paperContentMarkersByNode(
   paper: DisplayReviewPaper,
   includeSolutions = true,
   requiredVersion?: ImageComparisonVersion,
-): ReadonlyMap<string, number> {
-  const counts = new Map<string, number>();
+): ReadonlyMap<string, PaperContentMarkers> {
+  const markers = new Map<string, PaperContentMarkers>();
 
   function visit(node: DisplayPaperNode) {
     const countImages = (field: DisplayContentField) =>
@@ -2862,38 +2904,42 @@ function paperImageCountsByNode(
           !requiredVersion ||
           paperImageHasComparisonVersion(image, requiredVersion),
       ).length;
-    const count =
-      countImages(node.content.question) +
-      (includeSolutions
-        ? node.content.workings.reduce(
-            (total, working) =>
-              total +
-              countImages(working.working) +
-              working.formulas.reduce(
-                (fieldTotal, field) => fieldTotal + countImages(field),
-                0,
-              ) +
-              working.tips.reduce(
-                (fieldTotal, field) => fieldTotal + countImages(field),
-                0,
-              ),
-            0,
-          ) +
-          node.content.answers.reduce(
-            (total, answer) =>
-              total +
-              countImages(answer.answer) +
-              countImages(answer.key) +
-              countImages(answer.option),
-            0,
-          )
-        : 0);
-    if (count > 0) counts.set(node.id, count);
+    const workingFields = includeSolutions
+      ? [
+          ...node.content.workings.flatMap((working) => [
+            working.working,
+            ...working.formulas,
+            ...working.tips,
+          ]),
+          ...node.content.answers.flatMap((answer) => [
+            answer.answer,
+            answer.key,
+            answer.option,
+          ]),
+        ]
+      : [];
+    const nodeMarkers: PaperContentMarkers = {
+      questionImages: countImages(node.content.question),
+      questionTable: node.content.question.hasTable,
+      workingImages: workingFields.reduce(
+        (total, field) => total + countImages(field),
+        0,
+      ),
+      workingTable: workingFields.some((field) => field.hasTable),
+    };
+    if (
+      nodeMarkers.questionImages > 0 ||
+      nodeMarkers.questionTable ||
+      nodeMarkers.workingImages > 0 ||
+      nodeMarkers.workingTable
+    ) {
+      markers.set(node.id, nodeMarkers);
+    }
     node.children.forEach(visit);
   }
 
   paper.sections.forEach((section) => section.questions.forEach(visit));
-  return counts;
+  return markers;
 }
 
 function QuestionNavigation({
@@ -3610,9 +3656,9 @@ export function ReviewSurface({
     () => new Set(result.contentMatchingNodeIds),
     [result.contentMatchingNodeIds],
   );
-  const imageCountsByNodeId = useMemo(
+  const contentMarkersByNodeId = useMemo(
     () =>
-      paperImageCountsByNode(
+      paperContentMarkersByNode(
         paper,
         !imageView || displayPreferences.showSolutions,
         requiredImageVersion,
@@ -3623,15 +3669,15 @@ export function ReviewSurface({
     () =>
       reviewOutlineSections({
         contentMatchingNodeIds,
-        imageCountsByNodeId,
+        contentMarkersByNodeId,
         matchingNodeIds,
         sections: result.matchingSections,
-        showImageMarkers: preferences.showImageMarkers,
+        showContentMarkers: preferences.showImageMarkers,
         visibleNodeIds,
       }),
     [
       contentMatchingNodeIds,
-      imageCountsByNodeId,
+      contentMarkersByNodeId,
       matchingNodeIds,
       preferences.showImageMarkers,
       result.matchingSections,
@@ -3654,7 +3700,7 @@ export function ReviewSurface({
   const questionContentFilterActive =
     displayPreferences.questionContentFilter !== 'all';
   const questionContentFilterLabel =
-    displayPreferences.questionContentFilter === 'image' ? 'images' : 'tables';
+    questionContentFilterLabels[displayPreferences.questionContentFilter];
   const questionContentFilterRemovedAll =
     questionContentFilterActive &&
     unfilteredResult.matchingQuestionTreeCount > 0 &&
@@ -4934,8 +4980,20 @@ export function ReviewSurface({
                     value={displayPreferences.questionContentFilter}
                   >
                     <option value="all">All questions</option>
-                    <option value="image">Questions with images</option>
-                    <option value="table">Questions with tables</option>
+                    <optgroup label="Images">
+                      <option value="image">Images · anywhere</option>
+                      <option value="image-question">Images · question</option>
+                      <option value="image-working">
+                        Images · workings &amp; answers
+                      </option>
+                    </optgroup>
+                    <optgroup label="Tables">
+                      <option value="table">Tables · anywhere</option>
+                      <option value="table-question">Tables · question</option>
+                      <option value="table-working">
+                        Tables · workings &amp; answers
+                      </option>
+                    </optgroup>
                   </select>
                 </label>
                 <label className="view-option-select">
@@ -4987,7 +5045,7 @@ export function ReviewSurface({
                 />
                 <PreferenceToggle
                   checked={preferences.showImageMarkers}
-                  label="Image markers in navigation"
+                  label="Image & table markers in navigation"
                   onChange={(value) =>
                     updatePreference('showImageMarkers', value)
                   }

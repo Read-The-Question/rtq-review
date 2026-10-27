@@ -27,30 +27,30 @@ import {
 } from './review-view-model.ts';
 
 test('display preference storage is versioned for status chrome controls', () => {
-  assert.equal(REVIEW_PREFERENCES_KEY, 'rtq.review-content.preferences.v13');
+  assert.equal(REVIEW_PREFERENCES_KEY, 'rtq.review-content.preferences.v14');
   assert.equal(
     PREVIOUS_REVIEW_PREFERENCES_KEY,
-    'rtq.review-content.preferences.v12',
+    'rtq.review-content.preferences.v13',
   );
   assert.equal(
     LEGACY_REVIEW_PREFERENCES_KEY,
-    'rtq.review-content.preferences.v11',
+    'rtq.review-content.preferences.v12',
   );
   assert.equal(
     EARLIER_REVIEW_PREFERENCES_KEY,
-    'rtq.review-content.preferences.v10',
+    'rtq.review-content.preferences.v11',
   );
   assert.equal(
     INITIAL_REVIEW_PREFERENCES_KEY,
-    'rtq.review-content.preferences.v9',
+    'rtq.review-content.preferences.v10',
   );
   assert.equal(
     OLDEST_REVIEW_PREFERENCES_KEY,
-    'rtq.review-content.preferences.v8',
+    'rtq.review-content.preferences.v9',
   );
   assert.equal(
     EARLIEST_REVIEW_PREFERENCES_KEY,
-    'rtq.review-content.preferences.v7',
+    'rtq.review-content.preferences.v8',
   );
 });
 
@@ -130,6 +130,26 @@ test('preferences survive partial and malformed local values', () => {
     parseReviewPreferences('{"questionContentFilter":"table"}')
       .questionContentFilter,
     'table',
+  );
+  assert.equal(
+    parseReviewPreferences('{"questionContentFilter":"image-question"}')
+      .questionContentFilter,
+    'image-question',
+  );
+  assert.equal(
+    parseReviewPreferences('{"questionContentFilter":"image-working"}')
+      .questionContentFilter,
+    'image-working',
+  );
+  assert.equal(
+    parseReviewPreferences('{"questionContentFilter":"table-question"}')
+      .questionContentFilter,
+    'table-question',
+  );
+  assert.equal(
+    parseReviewPreferences('{"questionContentFilter":"table-working"}')
+      .questionContentFilter,
+    'table-working',
   );
   assert.equal(
     parseReviewPreferences('{"questionContentFilter":"unsupported"}')

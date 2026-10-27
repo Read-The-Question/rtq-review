@@ -5,7 +5,7 @@ import { type MouseEvent, type ReactNode, useEffect, useRef } from 'react';
 export type PaperOutlineBadge = {
   label: string;
   text?: string;
-  tone: 'accent' | 'search' | 'warning';
+  tone: 'accent' | 'search' | 'table' | 'warning';
 };
 
 export type PaperOutlineNode = {

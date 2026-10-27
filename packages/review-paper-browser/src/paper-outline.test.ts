@@ -20,6 +20,8 @@ test('the shared paper outline owns hierarchy, current-node visibility, and stat
   assert.match(component, /node\.badges\.map/);
   assert.match(css, /\.paper-outline\s*{[^}]*position:\s*sticky/s);
   assert.match(css, /overscroll-behavior:\s*contain/);
+  assert.match(css, /\.paper-outline__badge\[data-tone='table'\]/);
+  assert.match(css, /\.paper-outline__badges\s*{[^}]*flex-wrap:\s*wrap/s);
   assert.match(manifest, /"\.\/paper-outline"/);
   assert.match(manifest, /"\.\/paper-outline\.css"/);
 });

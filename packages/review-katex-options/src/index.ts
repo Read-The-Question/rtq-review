@@ -4,6 +4,7 @@ export const RTQ_CELL_LABEL_NUMBER_CLASS =
 export const RTQ_WORKING_ANNOTATION_CLASS =
   "rtq-maths-working-annotation" as const;
 export const RTQ_WORKING_STEP_CLASS = "rtq-maths-working-step" as const;
+export const RTQ_MARKER_HIGHLIGHT_CLASS = "rtq-maths-marker-highlight" as const;
 
 export const RTQ_EQUATION_NUMBER_MACRO = "\\rtqMathsEquationNumber" as const;
 export const RTQ_CELL_LABEL_NUMBER_MACRO = "\\rtqMathsCellLabelNumber" as const;
@@ -25,6 +26,12 @@ export const RTQ_WORKING_MARKER_MACROS = {
   "\\rtqMathsSolvedOrder":
     "\\htmlClass{rtq-maths-working-step}{\\rtqMathsSizeFour{(#1)}}",
   [RTQ_WORKING_ANNOTATION_MACRO]: RTQ_WORKING_ANNOTATION_EXPANSION,
+} as const;
+
+export const RTQ_MARKER_MACROS = {
+  "\\rtqMathsMarker":
+    "\\htmlClass{rtq-maths-marker-#1}{\\colorbox{transparent}{\\(#2\\)}}",
+  "\\rtqMathsHighlight": "\\rtqMathsMarker{highlight}{#1}",
 } as const;
 
 export const RTQ_COLUMNAR_ARITHMETIC_STYLE_MACRO =
@@ -265,6 +272,7 @@ type KatexTrustContext = Readonly<{
 const RTQ_TRUSTED_SEMANTIC_CLASSES = new Set<string>([
   RTQ_CELL_LABEL_NUMBER_CLASS,
   RTQ_EQUATION_NUMBER_CLASS,
+  RTQ_MARKER_HIGHLIGHT_CLASS,
   RTQ_WORKING_ANNOTATION_CLASS,
   RTQ_WORKING_STEP_CLASS,
 ]);
@@ -288,6 +296,7 @@ export function getRtqReviewKatexOptions<
     macros: {
       ...reviewerMacros,
       ...RTQ_WORKING_MARKER_MACROS,
+      ...RTQ_MARKER_MACROS,
       [RTQ_CELL_LABEL_NUMBER_MACRO]: RTQ_CELL_LABEL_NUMBER_EXPANSION,
       [RTQ_EQUATION_NUMBER_MACRO]: RTQ_EQUATION_NUMBER_EXPANSION,
       [RTQ_COLUMNAR_ARITHMETIC_STYLE_MACRO]:

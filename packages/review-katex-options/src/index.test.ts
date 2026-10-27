@@ -38,6 +38,8 @@ import {
   RTQ_SIZE_WRAPPERS,
   RTQ_LIST_SEPARATOR_EXPANSION,
   RTQ_LIST_SEPARATOR_MACRO,
+  RTQ_MARKER_HIGHLIGHT_CLASS,
+  RTQ_MARKER_MACROS,
   RTQ_SPACING_MACROS,
   RTQ_TABLE_NO_VALUE_EXPANSION,
   RTQ_TABLE_NO_VALUE_MACRO,
@@ -139,6 +141,13 @@ test("matches the canonical rtq-content shared macro contracts", () => {
     name: RTQ_SIZE_FOUR_MACRO,
   });
   for (const [name, expansion] of Object.entries(RTQ_WORKING_MARKER_MACROS)) {
+    assert.equal(
+      contract.macros.find((macro) => macro.name === name)?.expansion,
+      expansion,
+      name,
+    );
+  }
+  for (const [name, expansion] of Object.entries(RTQ_MARKER_MACROS)) {
     assert.equal(
       contract.macros.find((macro) => macro.name === name)?.expansion,
       expansion,
@@ -751,6 +760,19 @@ test("renders working annotations without adding punctuation", () => {
   assert.doesNotMatch(html, /(?:color:|#[\da-f]{3,8})/i);
 });
 
+test("renders registered marker recipes with native colorbox geometry", () => {
+  const html = katex.renderToString("\\rtqMathsHighlight{E_3}", options);
+
+  assert.match(html, new RegExp(`class="[^"]*${RTQ_MARKER_HIGHLIGHT_CLASS}`));
+  assert.match(html, /class="[^"]*boxpad[^"]*"/);
+  assert.match(
+    html,
+    /class="stretchy colorbox" style="[^"]*background-color:transparent;/,
+  );
+  assert.doesNotMatch(html, /(?:lightgray|black|#[\da-f]{3,8})/i);
+  assert.doesNotMatch(html, /katex-error/);
+});
+
 test("renders role-specific working markers through the shared subordinate size", () => {
   const cases = [
     {
@@ -804,6 +826,7 @@ test("trusts only canonical semantic classes", () => {
   for (const className of [
     RTQ_CELL_LABEL_NUMBER_CLASS,
     RTQ_EQUATION_NUMBER_CLASS,
+    RTQ_MARKER_HIGHLIGHT_CLASS,
     RTQ_WORKING_ANNOTATION_CLASS,
     RTQ_WORKING_STEP_CLASS,
   ]) {

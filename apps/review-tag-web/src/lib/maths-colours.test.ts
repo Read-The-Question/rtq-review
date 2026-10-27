@@ -19,6 +19,18 @@ test('review tags mirror the five production maths roles and SVG utilities', asy
     assert.match(css, new RegExp(`--color-${role}: var\\(--rtq-${role}\\)`));
     assert.match(css, new RegExp(`\\.rtq-${role}\\s*\\{`));
   }
+  assert.match(
+    css,
+    /\.rtq-maths-marker-highlight\s*\{\s*--rtq-katex-marker-fill: var\(--line-strong\);/,
+  );
+  assert.match(
+    css,
+    /\.rtq-maths-marker-highlight \.colorbox\s*\{[^}]*background-color: var\(--rtq-katex-marker-fill\) !important;/,
+  );
+  assert.doesNotMatch(
+    css,
+    /\.rtq-maths-marker-highlight\s*\{[^}]*(?:^|\s)color:/m,
+  );
   assert.doesNotMatch(
     css,
     /maths-working-remainder|long-division-working-rule/,

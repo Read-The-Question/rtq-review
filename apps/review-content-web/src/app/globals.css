@@ -202,6 +202,14 @@ body {
   color: var(--rtq-maths-working-step);
 }
 
+.rtq-maths-marker-highlight {
+  --rtq-katex-marker-fill: var(--rule-strong);
+}
+
+.rtq-maths-marker-highlight .colorbox {
+  background-color: var(--rtq-katex-marker-fill) !important;
+}
+
 .rtq-maths-answer-correct {
   color: var(--rtq-maths-answer-correct);
 }

@@ -18,5 +18,17 @@ test('review content mirrors the five production maths roles in both themes', as
     assert.match(css, new RegExp(`--rtq-${role}: ${dark}`));
     assert.match(css, new RegExp(`\\.rtq-${role}\\s*\\{`));
   }
+  assert.match(
+    css,
+    /\.rtq-maths-marker-highlight\s*\{\s*--rtq-katex-marker-fill: var\(--rule-strong\);/,
+  );
+  assert.match(
+    css,
+    /\.rtq-maths-marker-highlight \.colorbox\s*\{[^}]*background-color: var\(--rtq-katex-marker-fill\) !important;/,
+  );
+  assert.doesNotMatch(
+    css,
+    /\.rtq-maths-marker-highlight\s*\{[^}]*(?:^|\s)color:/m,
+  );
   assert.doesNotMatch(css, /maths-working-remainder/);
 });

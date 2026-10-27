@@ -9,7 +9,11 @@ test('registers all prefixed RTQ macros including one-to-one symbol wrappers', (
   assert.equal(
     Object.keys(rtqKatexMacros).filter((name) => name.startsWith('\\rtqMaths'))
       .length,
-    141,
+    143,
+  );
+  assert.equal(
+    rtqKatexMacros['\\rtqMathsHighlight'],
+    '\\rtqMathsMarker{highlight}{#1}',
   );
   assert.equal(
     rtqKatexMacros['\\rtqMathsUnderlineEmptyValueLong'],

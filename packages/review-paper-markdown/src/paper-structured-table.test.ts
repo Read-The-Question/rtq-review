@@ -22,7 +22,7 @@ const structuredTable = [
   "  </PaperViewTableHead>",
   "  <PaperViewTableBody>",
   '    <PaperViewTableRow cellBorder="none">',
-  '      <PaperViewTableCell cellBorder="all" tone="muted" />',
+  '      <PaperViewTableCell cellBorder="all" tone="blocked" />',
   "      <PaperViewTableCell>",
   "        <PaperViewTableCellLabel>$1$</PaperViewTableCellLabel>",
   "        $49$",
@@ -75,9 +75,9 @@ test("renders the structured vocabulary as native table semantics", async () => 
   assert.doesNotMatch(html, /PaperViewStructuredTable|PaperViewTableCell/);
 });
 
-test("passes an authored grid through and maps the deprecated density", async () => {
+test("passes an authored density and grid through", async () => {
   const html = await render(
-    '<PaperViewStructuredTable density="default" grid="framed"><PaperViewTableBody /></PaperViewStructuredTable>',
+    '<PaperViewStructuredTable density="regular" grid="framed"><PaperViewTableBody /></PaperViewStructuredTable>',
   );
 
   assert.match(html, /data-density="regular"/);
@@ -140,7 +140,7 @@ test("renders structured meanings with their words for assistive tech", async ()
     meaningsTable({
       bodyRows: [
         "    <PaperViewTableRow>",
-        '      <PaperViewTableCell mark="answer" tone="muted">12</PaperViewTableCell>',
+        '      <PaperViewTableCell mark="answer" tone="blocked">12</PaperViewTableCell>',
         "    </PaperViewTableRow>",
       ],
     }),
@@ -156,7 +156,7 @@ test("validates structured meanings with the RTQ web build rules", () => {
     validatePaperTableMarkdown(meaningsTable({ root: 'totals="both"' })),
   );
   assert.doesNotThrow(() =>
-    validatePaperTableMarkdown(structuredTable.replace('tone="muted"', "")),
+    validatePaperTableMarkdown(structuredTable.replace('tone="blocked"', "")),
   );
 
   const twoMarks = [
@@ -182,8 +182,12 @@ test("validates structured meanings with the RTQ web build rules", () => {
       /PaperViewStructuredTable prop "totals" received "row", but a totals row needs at least two body rows; the body has 1\./,
     ],
     [
-      structuredTable.replace('tone="muted"', 'tone="grey"'),
+      structuredTable.replace('tone="blocked"', 'tone="grey"'),
       /PaperViewTableCell prop "tone" received "grey"; allowed values: default, blocked\./,
+    ],
+    [
+      structuredTable.replace('tone="blocked"', 'tone="muted"'),
+      /PaperViewTableCell prop "tone" received "muted"; "muted" was renamed to "blocked"; allowed values: default, blocked\./,
     ],
     [
       meaningsTable({ bodyRows: twoMarks }),
@@ -229,11 +233,11 @@ test("shares adjacent-table rhythm and muted annotation colours", () => {
   );
   assert.match(
     css,
-    /\[data-border-model="cells"\]\[data-cell-border="all"\][\s\S]*border-block: var\(--rtq-paper-table-border-inner\);/,
+    /\[data-border-model="cells"\]\[data-cell-border="all"\][\s\S]*border-block: var\(--rtq-paper-table-border-medium\);/,
   );
   assert.match(css, /tr\[data-cell-border="none"\][\s\S]*border: 0;/);
   assert.match(
     css,
-    /:where\(th, td\)\[data-cell-border="all"\][\s\S]*border-inline: var\(--rtq-paper-table-border-inner\);/,
+    /:where\(th, td\)\[data-cell-border="all"\][\s\S]*border-inline: var\(--rtq-paper-table-border-medium\);/,
   );
 });

@@ -57,7 +57,7 @@ test('renders a complete structured table for question review', () => {
       '  <PaperViewTableCaption>Number grid</PaperViewTableCaption>',
       '  <PaperViewTableHead><PaperViewTableRow><PaperViewTableHeaderCell scope="col">Column</PaperViewTableHeaderCell></PaperViewTableRow></PaperViewTableHead>',
       '  <PaperViewTableBody><PaperViewTableRow cellBorder="none">',
-      '    <PaperViewTableCell cellBorder="all" tone="muted" />',
+      '    <PaperViewTableCell cellBorder="all" tone="blocked" />',
       '    <PaperViewTableCell><PaperViewTableCellLabel>$\\rtqMathsCellLabelNumber{1}$</PaperViewTableCellLabel>$49$</PaperViewTableCell>',
       '  </PaperViewTableRow></PaperViewTableBody>',
       '</PaperViewStructuredTable>',

@@ -1,6 +1,8 @@
 import type { Data, Parent, Root, RootContent } from "mdast";
 import type { Plugin } from "unified";
 
+import type { PAPER_STRUCTURED_TABLE_CELL_TONES } from "./paper-structured-table.ts";
+
 export const PAPER_TABLE_DENSITIES = ["compact", "regular", "roomy"] as const;
 export const PAPER_TABLE_GRIDS = [
   "framed",
@@ -76,13 +78,15 @@ export const PAPER_TABLE_DEFAULTS = {
 };
 
 /**
- * Superseded authored values. Each is still accepted and resolves to its
- * canonical replacement until the content migration (web PRD T7) removes it.
+ * Values retired by the 04 renames (web PRD T7). They are rejected like any
+ * other unknown value; this map only lets the error name the replacement.
  */
-export const PAPER_TABLE_DEPRECATED_ALIASES = {
+export const PAPER_TABLE_RETIRED_VALUES = {
   density: { default: "regular" },
+  tone: { muted: "blocked" },
 } as const satisfies {
-  [Name in PaperTablePropName]?: Record<string, PaperTablePropValue<Name>>;
+  density: Record<string, PaperTablePropValue<"density">>;
+  tone: Record<string, (typeof PAPER_STRUCTURED_TABLE_CELL_TONES)[number]>;
 };
 
 export const PAPER_TABLE_PROP_NAMES = Object.keys(
@@ -164,17 +168,16 @@ function paperTableDefault(name: PaperTablePropName): string | undefined {
     : undefined;
 }
 
-function resolvePaperTableDeprecatedAlias(
-  name: PaperTablePropName,
+/** Returns `"<old>" was renamed to "<new>"; ` for a retired value, else "". */
+export function describePaperTableRetiredValue(
+  name: string,
   value: unknown,
-): unknown {
-  const aliases: Readonly<Record<string, string>> | undefined =
-    PAPER_TABLE_DEPRECATED_ALIASES[
-      name as keyof typeof PAPER_TABLE_DEPRECATED_ALIASES
-    ];
-  return typeof value === "string" && aliases && Object.hasOwn(aliases, value)
-    ? aliases[value]
-    : value;
+): string {
+  const retired: Readonly<Record<string, string>> | undefined =
+    PAPER_TABLE_RETIRED_VALUES[name as keyof typeof PAPER_TABLE_RETIRED_VALUES];
+  return typeof value === "string" && retired && Object.hasOwn(retired, value)
+    ? `${JSON.stringify(value)} was renamed to ${JSON.stringify(retired[value])}; `
+    : "";
 }
 
 type AstPoint = Readonly<{ column?: number; line?: number }>;
@@ -355,14 +358,9 @@ function getPaperTableAttributes(node: AstNode): PaperTableAttributes {
       continue;
     }
 
-    if (
-      !isPaperTablePropValue(
-        name,
-        resolvePaperTableDeprecatedAlias(name, value),
-      )
-    ) {
+    if (!isPaperTablePropValue(name, value)) {
       throwPaperTableError(
-        `PaperTable prop ${JSON.stringify(name)} received ${JSON.stringify(value)}; ${allowedValues}.`,
+        `PaperTable prop ${JSON.stringify(name)} received ${JSON.stringify(value)}; ${describePaperTableRetiredValue(name, value)}${allowedValues}.`,
         rawAttribute,
       );
     }
@@ -376,10 +374,7 @@ function resolvePaperTableConfig(
   attributes: readonly PaperTableAttribute[],
 ): PaperTableConfig {
   const authored = Object.fromEntries(
-    attributes.map(({ name, value }) => [
-      name,
-      resolvePaperTableDeprecatedAlias(name, value),
-    ]),
+    attributes.map(({ name, value }) => [name, value]),
   ) as Partial<Record<PaperTablePropName, string>>;
   return Object.fromEntries(
     PAPER_TABLE_PROP_NAMES.map((name) => [
@@ -707,10 +702,7 @@ function resolvedDataValue(
     /[A-Z]/g,
     (letter) => `-${letter.toLowerCase()}`,
   );
-  const value = resolvePaperTableDeprecatedAlias(
-    name,
-    getDataProperty(table, propertyName),
-  );
+  const value = getDataProperty(table, propertyName);
   return isPaperTablePropValue(name, value) ? value : paperTableDefault(name);
 }
 
@@ -719,11 +711,7 @@ function directDataValue(table: AstNode, name: PaperTablePropName): unknown {
     /[A-Z]/g,
     (letter) => `-${letter.toLowerCase()}`,
   );
-  const value = resolvePaperTableDeprecatedAlias(
-    name,
-    getDataProperty(table, propertyName),
-  );
-  return value ?? paperTableDefault(name);
+  return getDataProperty(table, propertyName) ?? paperTableDefault(name);
 }
 
 function getRowCells(row: AstNode): AstNode[] {

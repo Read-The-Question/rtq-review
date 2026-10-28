@@ -142,13 +142,10 @@ test("leaves an unset grid to the voice default", async () => {
   assert.doesNotMatch(html, /data-grid/);
 });
 
-test("accepts the deprecated density default as regular", async () => {
-  assert.doesNotThrow(() =>
-    validatePaperTableMarkdown(tableSource('density="default"')),
-  );
-  assert.match(
-    await render(tableSource('density="default"')),
-    /data-density="regular"/,
+test("rejects the retired density default and names regular", () => {
+  assert.throws(
+    () => validatePaperTableMarkdown(tableSource('density="default"')),
+    /PaperTable prop "density" received "default"; "default" was renamed to "regular"; allowed values: compact, regular, roomy\./,
   );
   assert.throws(
     () => validatePaperTableMarkdown(tableSource('density="giant"')),
@@ -333,13 +330,13 @@ test("mirrors the RTQ web table rules and voice defaults", () => {
     assert.match(css, new RegExp(`\\[data-grid="${grid}"\\][ ,]`));
   }
   assert.doesNotMatch(css, /data-grid="horizontal"/);
-  assert.match(css, /--rtq-paper-table-rule-strong-width: 2px;/);
-  assert.match(css, /--rtq-paper-table-rule-strong-width-working: 1\.5px;/);
-  assert.match(css, /--rtq-paper-table-rule-width: 1px;/);
-  for (const role of ["strong", "inner", "quiet"]) {
+  assert.match(css, /--rtq-paper-table-stroke-width-firm: 2px;/);
+  assert.match(css, /--rtq-paper-table-stroke-width-firm-working: 1\.5px;/);
+  assert.match(css, /--rtq-paper-table-stroke-width: 1px;/);
+  for (const role of ["ink", "medium", "soft"]) {
     assert.match(
       css,
-      new RegExp(`var\\(\\s*--rtq-paper-table-rule-${role},\\s*var\\(--line`),
+      new RegExp(`var\\(\\s*--rtq-paper-table-stroke-${role},\\s*var\\(--line`),
     );
   }
   assert.match(
@@ -382,11 +379,11 @@ test("draws the table meanings from the paper-table tokens", () => {
 
   assert.match(
     css,
-    /:is\(\[data-totals="row"\], \[data-totals="both"\]\)\s*tbody\s*> tr:last-child:not\(:first-child\)\s*> :where\(th, td\) \{\s*border-block-start: var\(--rtq-paper-table-rule-strong-width\)/,
+    /:is\(\[data-totals="row"\], \[data-totals="both"\]\)\s*tbody\s*> tr:last-child:not\(:first-child\)\s*> :where\(th, td\) \{\s*border-block-start: var\(--rtq-paper-table-stroke-width-firm\)/,
   );
   assert.match(
     css,
-    /:is\(\[data-totals="column"\], \[data-totals="both"\]\)\s*tr\s*> :where\(th, td\):last-child:not\(:first-child\) \{\s*border-inline-start: var\(--rtq-paper-table-rule-strong-width\)/,
+    /:is\(\[data-totals="column"\], \[data-totals="both"\]\)\s*tr\s*> :where\(th, td\):last-child:not\(:first-child\) \{\s*border-inline-start: var\(--rtq-paper-table-stroke-width-firm\)/,
   );
   assert.match(
     css,
@@ -394,11 +391,11 @@ test("draws the table meanings from the paper-table tokens", () => {
   );
   assert.match(
     css,
-    /\[data-mark="answer"\]::before \{[^}]*border-inline-start: var\(--rtq-paper-table-mark-answer-width\) solid\s*var\(--rtq-paper-table-mark-answer, currentColor\);/,
+    /\[data-mark="answer"\]::before \{[^}]*border-inline-start: var\(--rtq-paper-table-stroke-width-answer\) solid\s*var\(--rtq-paper-table-stroke-answer, currentColor\);/,
   );
   assert.match(
     css,
-    /td\[data-tone="blocked"\] \{[^}]*background-color: var\(\s*--rtq-paper-table-fill-blocked,/,
+    /td\[data-tone="blocked"\] \{[^}]*background-color: var\(\s*--rtq-paper-table-fill-medium,/,
   );
   assert.doesNotMatch(css, /data-tone="muted"|muted-surface/);
   assert.match(

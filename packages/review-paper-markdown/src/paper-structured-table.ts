@@ -5,6 +5,7 @@ import {
   PAPER_TABLE_DEFAULTS,
   PAPER_TABLE_MARKS,
   PAPER_TABLE_PROP_VALUES,
+  describePaperTableRetiredValue,
   getPaperTableTotalsCountError,
   isPaperTableMark,
   isPaperTablePropValue,
@@ -15,16 +16,6 @@ export const PAPER_STRUCTURED_TABLE_CELL_TONES = [
   "default",
   "blocked",
 ] as const;
-/**
- * Superseded tone values. muted renders exactly as blocked until the content
- * migration (web PRD T7) removes it.
- */
-export const PAPER_STRUCTURED_TABLE_CELL_TONE_DEPRECATED_ALIASES = {
-  muted: "blocked",
-} as const satisfies Record<
-  string,
-  (typeof PAPER_STRUCTURED_TABLE_CELL_TONES)[number]
->;
 
 export type PaperStructuredTableOptions = Readonly<{
   /**
@@ -234,15 +225,6 @@ function structuredTableProperties(node: MdxElement): NativeProperties {
   };
 }
 
-function resolveCellTone(value: NativeProperty): NativeProperty {
-  return typeof value === "string" &&
-    Object.hasOwn(PAPER_STRUCTURED_TABLE_CELL_TONE_DEPRECATED_ALIASES, value)
-    ? PAPER_STRUCTURED_TABLE_CELL_TONE_DEPRECATED_ALIASES[
-        value as keyof typeof PAPER_STRUCTURED_TABLE_CELL_TONE_DEPRECATED_ALIASES
-      ]
-    : value;
-}
-
 function structuredElementProperties(node: MdxElement): NativeProperties {
   const properties = staticProperties(node);
 
@@ -271,7 +253,7 @@ function structuredElementProperties(node: MdxElement): NativeProperties {
       return properties;
     }
 
-    const tone = resolveCellTone(takeProperty(properties, "tone", "default"));
+    const tone = takeProperty(properties, "tone", "default");
     return {
       ...properties,
       dataTone: tone,
@@ -384,10 +366,9 @@ function getStaticStringAttribute(
   };
 }
 
-function isAuthoredCellTone(value: string): boolean {
-  return (
-    (PAPER_STRUCTURED_TABLE_CELL_TONES as readonly string[]).includes(value) ||
-    Object.hasOwn(PAPER_STRUCTURED_TABLE_CELL_TONE_DEPRECATED_ALIASES, value)
+function isCellTone(value: string): boolean {
+  return (PAPER_STRUCTURED_TABLE_CELL_TONES as readonly string[]).includes(
+    value,
   );
 }
 
@@ -428,9 +409,9 @@ function collectStructuredMeanings(
         "tone",
         PAPER_STRUCTURED_TABLE_CELL_TONES,
       );
-      if (tone && !isAuthoredCellTone(tone.value)) {
+      if (tone && !isCellTone(tone.value)) {
         throwStructuredTableError(
-          `PaperViewTableCell prop "tone" received ${JSON.stringify(tone.value)}; allowed values: ${PAPER_STRUCTURED_TABLE_CELL_TONES.join(", ")}.`,
+          `PaperViewTableCell prop "tone" received ${JSON.stringify(tone.value)}; ${describePaperTableRetiredValue("tone", tone.value)}allowed values: ${PAPER_STRUCTURED_TABLE_CELL_TONES.join(", ")}.`,
           tone.node,
         );
       }

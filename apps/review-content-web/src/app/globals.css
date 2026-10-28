@@ -31,16 +31,17 @@
   --rtq-maths-answer-correct: #107823;
   --rtq-maths-answer-incorrect: #c5002b;
   /* Paper table roles, mirroring the RTQ web values. */
-  --rtq-paper-table-rule-strong: #222222;
-  --rtq-paper-table-rule-inner: #8a8a8a;
-  --rtq-paper-table-rule-quiet: #b8b8b8;
-  --rtq-paper-table-fill-blocked: #bebebe;
+  --rtq-paper-table-stroke-ink: #515151;
+  --rtq-paper-table-stroke-strong: #696969;
+  --rtq-paper-table-stroke-medium: #8a8a8a;
+  --rtq-paper-table-stroke-soft: #b8b8b8;
+  --rtq-paper-table-fill-medium: #bebebe;
   --rtq-paper-table-fill-answer: color-mix(
     in oklab,
     var(--rtq-maths-answer-correct) 11%,
     var(--paper-bright)
   );
-  --rtq-paper-table-mark-answer: var(--rtq-maths-answer-correct);
+  --rtq-paper-table-stroke-answer: var(--rtq-maths-answer-correct);
   --feedback-background: #fff3f2;
   --review-approved-background: #16724b;
   --review-approved-border: #105c3c;
@@ -100,16 +101,17 @@
   --rtq-maths-answer-correct: #53c75d;
   --rtq-maths-answer-incorrect: #ff6367;
   /* Paper table roles, mirroring the RTQ web values. */
-  --rtq-paper-table-rule-strong: #d7d7d7;
-  --rtq-paper-table-rule-inner: #727272;
-  --rtq-paper-table-rule-quiet: #444444;
-  --rtq-paper-table-fill-blocked: #484848;
+  --rtq-paper-table-stroke-ink: #a5a5a5;
+  --rtq-paper-table-stroke-strong: #878787;
+  --rtq-paper-table-stroke-medium: #727272;
+  --rtq-paper-table-stroke-soft: #444444;
+  --rtq-paper-table-fill-medium: #484848;
   --rtq-paper-table-fill-answer: color-mix(
     in oklab,
     var(--rtq-maths-answer-correct) 16%,
     var(--paper-bright)
   );
-  --rtq-paper-table-mark-answer: var(--rtq-maths-answer-correct);
+  --rtq-paper-table-stroke-answer: var(--rtq-maths-answer-correct);
   --feedback-background: #321d1d;
   --review-approved-background: #236e50;
   --review-approved-border: #63c995;
@@ -167,16 +169,17 @@
     --rtq-maths-answer-correct: #53c75d;
     --rtq-maths-answer-incorrect: #ff6367;
     /* Paper table roles, mirroring the RTQ web values. */
-    --rtq-paper-table-rule-strong: #d7d7d7;
-    --rtq-paper-table-rule-inner: #727272;
-    --rtq-paper-table-rule-quiet: #444444;
-    --rtq-paper-table-fill-blocked: #484848;
+    --rtq-paper-table-stroke-ink: #a5a5a5;
+    --rtq-paper-table-stroke-strong: #878787;
+    --rtq-paper-table-stroke-medium: #727272;
+    --rtq-paper-table-stroke-soft: #444444;
+    --rtq-paper-table-fill-medium: #484848;
     --rtq-paper-table-fill-answer: color-mix(
       in oklab,
       var(--rtq-maths-answer-correct) 16%,
       var(--paper-bright)
     );
-    --rtq-paper-table-mark-answer: var(--rtq-maths-answer-correct);
+    --rtq-paper-table-stroke-answer: var(--rtq-maths-answer-correct);
     --feedback-background: #321d1d;
     --review-approved-background: #236e50;
     --review-approved-border: #63c995;

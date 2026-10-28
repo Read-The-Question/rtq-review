@@ -1,5 +1,6 @@
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
+import path from 'node:path';
 import test from 'node:test';
 
 import {
@@ -8,6 +9,7 @@ import {
   remarkPaperStructuredTable,
   remarkPaperTable,
 } from '@rtq/review-paper-markdown';
+import { resolveRtqContentPaths } from '@rtq/review-repository-paths';
 import { createElement } from 'react';
 import { renderToStaticMarkup } from 'react-dom/server';
 import ReactMarkdown from 'react-markdown';
@@ -121,7 +123,7 @@ test('renders a complete structured table with review presentation metadata', ()
       '  <PaperViewTableHead><PaperViewTableRow cellBorder="none"><PaperViewTableHeaderCell cellBorder="all" scope="col">Column</PaperViewTableHeaderCell></PaperViewTableRow></PaperViewTableHead>',
       '  <PaperViewTableBody>',
       '    <PaperViewTableRow>',
-      '      <PaperViewTableCell cellBorder="none" tone="muted" />',
+      '      <PaperViewTableCell cellBorder="none" tone="blocked" />',
       '      <PaperViewTableCell><PaperViewTableCellLabel>$\\rtqMathsCellLabelNumber{1}$</PaperViewTableCellLabel>$49$</PaperViewTableCell>',
       '    </PaperViewTableRow>',
       '  </PaperViewTableBody>',
@@ -153,23 +155,40 @@ test('uses the shared table rules and the RTQ web table colours in both themes',
     new URL('../app/globals.css', import.meta.url),
     'utf8',
   );
+  // The retained snapshot is built from RTQ web CSS, so this fails on drift.
+  const { themes } = JSON.parse(
+    readFileSync(
+      path.join(
+        resolveRtqContentPaths().assetsPackageRoot,
+        'assets/design-tokens/svg-colours.json',
+      ),
+      'utf8',
+    ),
+  ) as { themes: Record<'light' | 'dark', Record<string, string>> };
 
   assert.match(css, /@import '@rtq\/review-paper-markdown\/paper-table\.css'/);
   assert.doesNotMatch(css, /\.rtq-paper-table/);
-  for (const [role, light, dark] of [
-    ['rule-strong', '#222222', '#d7d7d7'],
-    ['rule-inner', '#8a8a8a', '#727272'],
-    ['rule-quiet', '#b8b8b8', '#444444'],
-    ['fill-blocked', '#bebebe', '#484848'],
-  ] as const) {
+  for (const role of [
+    'stroke-ink',
+    'stroke-strong',
+    'stroke-medium',
+    'stroke-soft',
+    'fill-medium',
+  ]) {
+    const light = themes.light[`--color-paper-table-${role}`];
+    const dark = themes.dark[`--color-paper-table-${role}`];
+    assert.match(light, /^#[0-9a-f]{6}$/);
+    assert.match(dark, /^#[0-9a-f]{6}$/);
     assert.equal(
       css.match(new RegExp(`--rtq-paper-table-${role}: ${light};`, 'g'))
         ?.length,
       1,
+      `light ${role} differs from the RTQ web snapshot ${light}`,
     );
     assert.equal(
       css.match(new RegExp(`--rtq-paper-table-${role}: ${dark};`, 'g'))?.length,
       2,
+      `dark ${role} differs from the RTQ web snapshot ${dark}`,
     );
   }
   assert.equal(
@@ -186,7 +205,7 @@ test('uses the shared table rules and the RTQ web table colours in both themes',
   );
   assert.equal(
     css.match(
-      /--rtq-paper-table-mark-answer: var\(--rtq-maths-answer-correct\);/g,
+      /--rtq-paper-table-stroke-answer: var\(--rtq-maths-answer-correct\);/g,
     )?.length,
     3,
   );

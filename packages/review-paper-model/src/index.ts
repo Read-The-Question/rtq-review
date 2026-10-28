@@ -65,6 +65,8 @@ export type {
   OriginalQuestionSource,
   PaperCollection,
   PaperCollectionId,
+  PaperRagStateCount,
+  PaperRagStateCounts,
   PaperSource,
   PaperSourceProvenance,
   PaperSourceSummary,

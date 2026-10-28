@@ -64,12 +64,22 @@ export type PaperSourceProvenance = Readonly<{
   sourcePaperStems: readonly string[];
 }>;
 
+export type PaperRagStateCount = Readonly<{
+  count: number;
+  state: string;
+}>;
+
+export type PaperRagStateCounts = Readonly<
+  Record<ReviewStateFilterSide, readonly PaperRagStateCount[]>
+>;
+
 export type PaperSource = Readonly<{
   collection: PaperCollection;
   fileName: string;
   focusGroups: readonly string[];
   provenance: PaperSourceProvenance;
   questionCount: number;
+  ragStateCounts?: PaperRagStateCounts;
   ragGrouping?: string;
   relativePath: string;
   title: string;

@@ -18,6 +18,7 @@ import type {
   CorpusQuestionUuidSearchResult,
   PaperCollection,
   PaperCollectionId,
+  PaperRagStateCounts,
   PaperSource,
   PaperSourceProvenance,
   PaperSourceSummary,
@@ -335,6 +336,49 @@ function topLevelQuestionCount(parsed: ParsedPaper): number {
   );
 }
 
+const ragStateSides = [
+  'question',
+  'answer',
+  'question-image',
+  'answer-image',
+] as const;
+
+function paperRagStateCounts(parsed: ParsedPaper): PaperRagStateCounts {
+  const counts = Object.fromEntries(
+    ragStateSides.map((side) => [side, new Map<string, number>()]),
+  ) as Record<(typeof ragStateSides)[number], Map<string, number>>;
+
+  function visit(record: Record<string, unknown>) {
+    for (const side of ragStateSides) {
+      const state = reviewTarget(record, side, undefined).contentRag;
+      if (state) counts[side].set(state, (counts[side].get(state) ?? 0) + 1);
+    }
+    asRecords(record.subquestions).forEach(visit);
+  }
+
+  parsed.sections.forEach((section) =>
+    asRecords(section.questions).forEach(visit),
+  );
+
+  function stateCounts(side: (typeof ragStateSides)[number]) {
+    return [...counts[side]]
+      .map(([state, count]) => ({ count, state }))
+      .sort((left, right) =>
+        left.state.localeCompare(right.state, undefined, {
+          numeric: true,
+          sensitivity: 'base',
+        }),
+      );
+  }
+
+  return {
+    answer: stateCounts('answer'),
+    'answer-image': stateCounts('answer-image'),
+    question: stateCounts('question'),
+    'question-image': stateCounts('question-image'),
+  };
+}
+
 function parseQuestionId(value: string):
   | Readonly<{
       paperStem: string;
@@ -412,6 +456,7 @@ function buildPaperSource(
     focusGroups: focusGroups(parsed),
     provenance: sourceProvenance(parsed, collection, stem),
     questionCount: topLevelQuestionCount(parsed),
+    ragStateCounts: paperRagStateCounts(parsed),
     ...grouping,
     relativePath,
     title: titleFromPaper(parsed, collection.id, stem),

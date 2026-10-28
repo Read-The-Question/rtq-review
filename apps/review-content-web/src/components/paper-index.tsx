@@ -5,7 +5,10 @@ import {
   PaperBrowserSecondaryNavigation,
   PaperBrowserUnavailable,
 } from '@rtq/review-paper-browser/frame';
-import type { PaperBrowserRouteContract } from '@rtq/review-paper-browser/model';
+import type {
+  PaperBrowserRagView,
+  PaperBrowserRouteContract,
+} from '@rtq/review-paper-browser/model';
 import { loadPaperBrowserWorkspace } from '@rtq/review-paper-browser/server';
 
 const routes: PaperBrowserRouteContract = {
@@ -46,11 +49,13 @@ export async function PaperIndex({
   initialContentPattern,
   initialContentScope,
   initialQuery,
+  initialRagView,
 }: {
   initialCollectionId?: string;
   initialContentPattern?: string;
   initialContentScope?: string;
   initialQuery?: string;
+  initialRagView?: PaperBrowserRagView;
 }) {
   const workspace = await loadPaperBrowserWorkspace(initialCollectionId);
   const detail = workspace.issue ?? workspace.status.detail;
@@ -77,7 +82,8 @@ export async function PaperIndex({
           initialContentPattern={initialContentPattern}
           initialContentScope={initialContentScope}
           initialQuery={initialQuery}
-          key={`${workspace.model.activeCollectionId}:${initialQuery ?? ''}:${initialContentPattern ?? ''}:${initialContentScope ?? ''}`}
+          initialRagView={initialRagView}
+          key={`${workspace.model.activeCollectionId}:${initialQuery ?? ''}:${initialContentPattern ?? ''}:${initialContentScope ?? ''}:${initialRagView ?? ''}`}
           model={workspace.model}
           routes={routes}
           secondaryNavigation={<ContentReviewNavigation />}

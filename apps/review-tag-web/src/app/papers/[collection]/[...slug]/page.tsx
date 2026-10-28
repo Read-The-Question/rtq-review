@@ -29,6 +29,7 @@ export default async function PaperPage({
     content?: string | string[];
     'content-scope'?: string | string[];
     q?: string | string[];
+    'rag-view'?: string | string[];
   }>;
 }) {
   const { collection, slug } = await params;

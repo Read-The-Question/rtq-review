@@ -15,15 +15,21 @@ import {
   type CollectionContentSearchResult,
   type ContentSearchQuery,
   type ContentSearchScope,
+  type ReviewStateFilterSide,
 } from '@rtq/review-paper-model/client';
 
 import {
   filterPaperBrowserPapers,
+  normalizePaperBrowserRagView,
   paginatePaperBrowserPapers,
   paperBrowserCollectionHref,
   paperBrowserPaperHref,
+  paperBrowserRagStateLabel,
+  paperBrowserRagStatePending,
   PAPER_BROWSER_PAGE_SIZE,
   type PaperBrowserModel,
+  type PaperBrowserPaper,
+  type PaperBrowserRagView,
   type PaperBrowserRouteContract,
   type PaperBrowserSearchState,
 } from './model.ts';
@@ -34,6 +40,73 @@ const contentScopeLabels: Readonly<Record<ContentSearchScope, string>> = {
   question: 'Questions',
   working: 'Workings',
 };
+
+const ragTrackOptions: readonly Readonly<{
+  label: string;
+  shortLabel: string;
+  value: ReviewStateFilterSide;
+}>[] = [
+  { label: 'Question', shortLabel: 'Q', value: 'question' },
+  { label: 'Answer', shortLabel: 'A', value: 'answer' },
+  { label: 'Question image', shortLabel: 'QI', value: 'question-image' },
+  { label: 'Answer image', shortLabel: 'AI', value: 'answer-image' },
+];
+
+function PaperRagStateSummary({
+  paper,
+  view,
+}: {
+  paper: PaperBrowserPaper;
+  view: Exclude<PaperBrowserRagView, 'none'>;
+}) {
+  const tracks =
+    view === 'all'
+      ? ragTrackOptions
+      : ragTrackOptions.filter((track) => track.value === view);
+
+  return (
+    <span className="paper-browser-rag-summary">
+      {tracks.map((track) => {
+        const stateCounts = paper.ragStateCounts?.[track.value] ?? [];
+        return (
+          <span className="paper-browser-rag-track" key={track.value}>
+            <span
+              aria-label={track.label}
+              className="paper-browser-rag-track-label"
+              title={track.label}
+            >
+              {track.shortLabel}
+            </span>
+            <span className="paper-browser-rag-values">
+              {stateCounts.length > 0 ? (
+                stateCounts.map(({ count, state }) => (
+                  <span
+                    className="paper-browser-rag-value"
+                    data-pending={
+                      paperBrowserRagStatePending(state) ? 'true' : undefined
+                    }
+                    key={state}
+                    title={`${track.label}: ${state}`}
+                  >
+                    <span>{paperBrowserRagStateLabel(state)}</span>
+                    <strong>{count.toLocaleString()}</strong>
+                  </span>
+                ))
+              ) : (
+                <span
+                  aria-label={`${track.label}: no states`}
+                  className="paper-browser-rag-empty"
+                >
+                  —
+                </span>
+              )}
+            </span>
+          </span>
+        );
+      })}
+    </span>
+  );
+}
 
 function contentSearchUrl(
   routes: PaperBrowserRouteContract,
@@ -52,6 +125,7 @@ export function PaperBrowser({
   initialContentPattern = '',
   initialContentScope,
   initialQuery = '',
+  initialRagView = 'none',
   model,
   routes,
   secondaryNavigation,
@@ -59,12 +133,14 @@ export function PaperBrowser({
   initialContentPattern?: string;
   initialContentScope?: string;
   initialQuery?: string;
+  initialRagView?: PaperBrowserRagView;
   model: PaperBrowserModel;
   routes: PaperBrowserRouteContract;
   secondaryNavigation?: ReactNode;
 }) {
   const activeCollectionId = model.activeCollectionId;
   const [query, setQuery] = useState(initialQuery);
+  const [ragView, setRagView] = useState<PaperBrowserRagView>(initialRagView);
   const [visibleCount, setVisibleCount] = useState(PAPER_BROWSER_PAGE_SIZE);
   const initialScope = normalizeContentSearchScope(initialContentScope);
   const normalizedInitialPattern = initialContentPattern.trim();
@@ -121,6 +197,7 @@ export function PaperBrowser({
   const searchState: PaperBrowserSearchState = {
     content: contentSearch,
     query: query.trim(),
+    ragView,
   };
 
   useEffect(() => {
@@ -179,6 +256,15 @@ export function PaperBrowser({
     const normalized = value.trim();
     if (normalized) parameters.set('q', normalized);
     else parameters.delete('q');
+    replaceUrl(parameters);
+  }
+
+  function updateRagView(value: string) {
+    const next = normalizePaperBrowserRagView(value);
+    setRagView(next);
+    const parameters = new URLSearchParams(window.location.search);
+    if (next === 'none') parameters.delete('rag-view');
+    else parameters.set('rag-view', next);
     replaceUrl(parameters);
   }
 
@@ -360,17 +446,38 @@ export function PaperBrowser({
           </div>
         </div>
 
-        <div className="paper-browser-result-summary" aria-live="polite">
-          <span>
-            {contentSearching
-              ? 'Searching current TOML files…'
-              : `${matches.length.toLocaleString()} matching files`}
-          </span>
-          <span>
-            {contentResult
-              ? `${contentResult.matches.reduce((count, match) => count + match.matchingQuestionCount, 0).toLocaleString()} questions matched across ${contentResult.scannedFileCount.toLocaleString()} files`
-              : 'Filename filters update immediately'}
-          </span>
+        <div className="paper-browser-result-summary">
+          <div aria-live="polite">
+            <span>
+              {contentSearching
+                ? 'Searching current TOML files…'
+                : `${matches.length.toLocaleString()} matching files`}
+            </span>
+            <span>
+              {contentResult
+                ? `${contentResult.matches.reduce((count, match) => count + match.matchingQuestionCount, 0).toLocaleString()} questions matched across ${contentResult.scannedFileCount.toLocaleString()} files`
+                : 'Filename filters update immediately'}
+            </span>
+          </div>
+          <label
+            className="paper-browser-rag-view-control"
+            title="Counts include questions and nested subquestions"
+          >
+            <span>RAG state counts</span>
+            <select
+              aria-label="Show RAG state counts"
+              onChange={(event) => updateRagView(event.target.value)}
+              value={ragView}
+            >
+              <option value="none">Hidden</option>
+              <option value="all">All four tracks</option>
+              {ragTrackOptions.map((track) => (
+                <option key={track.value} value={track.value}>
+                  {track.label} only
+                </option>
+              ))}
+            </select>
+          </label>
         </div>
 
         {contentSearching ? (
@@ -392,7 +499,11 @@ export function PaperBrowser({
               <li key={`${paper.collectionId}:${paper.relativePath}`}>
                 {paper.state === 'ready' ? (
                   <a
-                    className="paper-browser-paper-row"
+                    className={`paper-browser-paper-row${
+                      ragView === 'none'
+                        ? ''
+                        : ' paper-browser-paper-row--with-rag'
+                    }`}
                     href={paperBrowserPaperHref(
                       routes,
                       paper.collectionId,
@@ -415,6 +526,9 @@ export function PaperBrowser({
                         ? `${contentMatchByPath.get(paper.relativePath)?.matchingQuestionCount ?? 0} matching / ${paper.questionCount}`
                         : `${paper.questionCount} questions`}
                     </span>
+                    {ragView !== 'none' ? (
+                      <PaperRagStateSummary paper={paper} view={ragView} />
+                    ) : null}
                     <span
                       className="paper-browser-paper-arrow"
                       aria-hidden="true"

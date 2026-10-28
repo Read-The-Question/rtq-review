@@ -14,6 +14,8 @@ import {
   paginatePaperBrowserPapers,
   paperBrowserCollectionHref,
   paperBrowserPaperHref,
+  paperBrowserRagStateLabel,
+  paperBrowserRagStatePending,
 } from './model.ts';
 
 function collection(id: PaperCollectionId, label: string): PaperCollection {
@@ -43,6 +45,15 @@ function source(
         sourcePaperStems: [],
       },
       questionCount: 4,
+      ragStateCounts: {
+        answer: [{ count: 2, state: 'rag_wf_ng3' }],
+        'answer-image': [],
+        question: [
+          { count: 3, state: 'rag_wf_g0' },
+          { count: 1, state: 'rag_wf_ng4' },
+        ],
+        'question-image': [{ count: 1, state: 'rag_wf_notapplicable' }],
+      },
       relativePath: fileName,
       title: options.title ?? fileName.replace(/\.toml$/u, ''),
       version: 'version',
@@ -99,6 +110,10 @@ test('builds the shared collection hierarchy, counts, invalid rows, and ordering
     model.papers.slice(0, 2).map((paper) => paper.fileName),
     ['a.toml', 'z.toml'],
   );
+  assert.deepEqual(model.papers[0]?.ragStateCounts?.question, [
+    { count: 3, state: 'rag_wf_g0' },
+    { count: 1, state: 'rag_wf_ng4' },
+  ]);
   assert.equal(model.papers.at(-1)?.state, 'invalid');
 });
 
@@ -108,10 +123,12 @@ test('normalizes URL search state and filters every metadata term', () => {
       content: '  perimeter  ',
       'content-scope': 'working',
       q: '  school alpha ',
+      'rag-view': 'question-image',
     }),
     {
       content: { pattern: 'perimeter', scope: 'working' },
       query: 'school alpha',
+      ragView: 'question-image',
     },
   );
   assert.deepEqual(
@@ -120,7 +137,7 @@ test('normalizes URL search state and filters every metadata term', () => {
       'content-scope': 'unsupported',
       q: ['ignored'],
     }),
-    { content: undefined, query: '' },
+    { content: undefined, query: '', ragView: 'none' },
   );
 
   const papers = collection('toml', 'Papers');
@@ -168,12 +185,14 @@ test('paginates without mutation and produces stable collection and paper links'
     paperBrowserCollectionHref(routes, 'toml', {
       content: { pattern: 'x + y', scope: 'question' },
       query: 'Dulwich',
+      ragView: 'question',
     }),
-    '/papers/toml?q=Dulwich&content=x+%2B+y&content-scope=question',
+    '/papers/toml?q=Dulwich&content=x+%2B+y&content-scope=question&rag-view=question',
   );
   assert.equal(
     paperBrowserPaperHref(routes, 'toml', 'nested/paper one.toml', {
       query: '',
+      ragView: 'none',
     }),
     '/papers/toml/nested/paper%20one.toml',
   );
@@ -182,8 +201,18 @@ test('paginates without mutation and produces stable collection and paper links'
       paperBrowserCollectionHref(
         { ...routes, collectionBasePath: 'papers' },
         'toml',
-        { query: '' },
+        { query: '', ragView: 'none' },
       ),
     /absolute URL paths/,
   );
+});
+
+test('labels RAG states and identifies pending states', () => {
+  assert.equal(paperBrowserRagStateLabel('rag_wf_ng4'), 'NG4');
+  assert.equal(paperBrowserRagStateLabel('rag_wf_notapplicable'), 'N/A');
+  assert.equal(paperBrowserRagStatePending('rag_wf_ng3'), true);
+  assert.equal(paperBrowserRagStatePending('rag_wf_blocked'), true);
+  assert.equal(paperBrowserRagStatePending('rag_wf_missing'), true);
+  assert.equal(paperBrowserRagStatePending('rag_wf_not_started'), true);
+  assert.equal(paperBrowserRagStatePending('rag_wf_g0'), false);
 });

@@ -428,6 +428,10 @@ test('collection routes encode the collection identifier', () => {
     }),
     '/papers/focusPaperToml?content=PaperTable',
   );
+  assert.equal(
+    collectionRoute('focusPaperToml', undefined, undefined, 'question-image'),
+    '/papers/focusPaperToml?rag-view=question-image',
+  );
 });
 
 test('rack states have compact reviewer-facing labels', () => {

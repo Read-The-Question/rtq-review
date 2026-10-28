@@ -16,6 +16,7 @@ export default async function CollectionPage({
     content?: string | string[];
     'content-scope'?: string | string[];
     q?: string | string[];
+    'rag-view'?: string | string[];
   }>;
 }) {
   const { collection } = await params;
@@ -28,6 +29,7 @@ export default async function CollectionPage({
       initialContentPattern={search.content?.pattern}
       initialContentScope={search.content?.scope}
       initialQuery={search.query}
+      initialRagView={search.ragView}
     />
   );
 }

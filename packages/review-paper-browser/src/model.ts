@@ -3,10 +3,14 @@ import type {
   ContentSearchScope,
   PaperCollection,
   PaperCollectionId,
+  PaperRagStateCounts,
   PaperSourceSummary,
+  ReviewStateFilterSide,
 } from '@rtq/review-paper-model';
 
 export const PAPER_BROWSER_PAGE_SIZE = 80;
+
+export type PaperBrowserRagView = 'none' | 'all' | ReviewStateFilterSide;
 
 export type PaperBrowserCollection = Readonly<{
   count: number;
@@ -22,6 +26,7 @@ export type PaperBrowserPaper = Readonly<{
   focusGroups: readonly string[];
   provenance: 'canonical' | 'derived' | 'exemplar' | 'invalid';
   questionCount?: number;
+  ragStateCounts?: PaperRagStateCounts;
   relativePath: string;
   state: 'invalid' | 'ready';
   title: string;
@@ -48,12 +53,14 @@ export type PaperBrowserModel = Readonly<{
 export type PaperBrowserSearchState = Readonly<{
   content?: ContentSearchQuery;
   query: string;
+  ragView: PaperBrowserRagView;
 }>;
 
 export type PaperBrowserSearchParameters = Readonly<{
   content?: string | string[];
   'content-scope'?: string | string[];
   q?: string | string[];
+  'rag-view'?: string | string[];
 }>;
 
 export type PaperBrowserRouteContract = Readonly<{
@@ -96,6 +103,7 @@ function browserPaper(summary: PaperSourceSummary): PaperBrowserPaper {
     focusGroups: source.focusGroups,
     provenance: source.provenance.kind,
     questionCount: source.questionCount,
+    ragStateCounts: source.ragStateCounts,
     relativePath: source.relativePath,
     state: 'ready',
     title: source.title,
@@ -268,11 +276,50 @@ export function normalizePaperBrowserSearchParameters(
   ].includes(requestedScope)
     ? (requestedScope as ContentSearchScope)
     : 'all';
+  const requestedRagView =
+    typeof parameters['rag-view'] === 'string'
+      ? parameters['rag-view']
+      : 'none';
+  const ragView = normalizePaperBrowserRagView(requestedRagView);
 
   return {
     content: pattern ? { pattern, scope } : undefined,
     query,
+    ragView,
   };
+}
+
+export function normalizePaperBrowserRagView(
+  value: string | undefined,
+): PaperBrowserRagView {
+  return value === 'all' ||
+    value === 'answer' ||
+    value === 'answer-image' ||
+    value === 'question' ||
+    value === 'question-image'
+    ? value
+    : 'none';
+}
+
+export function paperBrowserRagStateLabel(value: string): string {
+  const state = value
+    .trim()
+    .replace(/^rag_wf_/iu, '')
+    .replace(/^rag_/iu, '')
+    .replaceAll(/[_-]+/gu, ' ');
+  return state.toLocaleLowerCase() === 'notapplicable'
+    ? 'N/A'
+    : state.toLocaleUpperCase();
+}
+
+export function paperBrowserRagStatePending(value: string): boolean {
+  const label = paperBrowserRagStateLabel(value).replaceAll(' ', '');
+  return (
+    label.startsWith('NG') ||
+    label === 'BLOCKED' ||
+    label === 'MISSING' ||
+    label === 'NOTSTARTED'
+  );
 }
 
 export function filterPaperBrowserPapers(
@@ -331,6 +378,9 @@ function withSearchState(
     if (search.content.scope !== 'all') {
       parameters.set('content-scope', search.content.scope);
     }
+  }
+  if (search.ragView !== 'none') {
+    parameters.set('rag-view', search.ragView);
   }
   const serialized = parameters.toString();
   return serialized ? `${path}?${serialized}` : path;

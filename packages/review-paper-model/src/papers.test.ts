@@ -471,12 +471,15 @@ answer = '''42
 rtq-uuid = "SUB-UUID"
 rtq-inherit-tags = true
 rtq-tags = ["marker.fill-missing-values"]
+rag.answer.state = "rag_wf_ng3"
+rag.question.state = "rag_wf_ng4"
 question = '''Subquestion'''
 
 [[sections.questions.subquestions.subquestions]]
 rtq-uuid = "SUB-SUB-UUID"
 rtq-inherit-tags = false
 rtq-tags = ["reasoning.direct"]
+rag.question.image.state = "rag_wf_notapplicable"
 question = '''Sub-subquestion'''
 `;
 
@@ -754,6 +757,18 @@ test('parses the complete nested read model and safe preparation inputs', async 
       year: '2020',
     });
     assert.equal(paper.source.questionCount, 1);
+    assert.deepEqual(paper.source.ragStateCounts, {
+      answer: [{ count: 2, state: 'rag_wf_ng3' }],
+      'answer-image': [{ count: 1, state: 'rag_wf_ng2' }],
+      question: [
+        { count: 1, state: 'rag_wf_g0' },
+        { count: 1, state: 'rag_wf_ng4' },
+      ],
+      'question-image': [
+        { count: 1, state: 'rag_wf_ng3' },
+        { count: 1, state: 'rag_wf_notapplicable' },
+      ],
+    });
     assert.equal(question.content.question.raw.includes('rtq_abbr_test'), true);
     assert.deepEqual(question.content.question.source, {
       collectionId: 'corpusPrimaryTopicToml',

@@ -12,6 +12,7 @@ export default async function HomePage({
     content?: string | string[];
     'content-scope'?: string | string[];
     q?: string | string[];
+    'rag-view'?: string | string[];
   }>;
 }) {
   const search = normalizePaperBrowserSearchParameters(await searchParams);
@@ -20,6 +21,7 @@ export default async function HomePage({
       initialContentPattern={search.content?.pattern}
       initialContentScope={search.content?.scope}
       initialQuery={search.query}
+      initialRagView={search.ragView}
     />
   );
 }

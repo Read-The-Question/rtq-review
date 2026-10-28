@@ -1,6 +1,8 @@
 import {
+  normalizePaperBrowserRagView,
   paperBrowserCollectionHref,
   paperBrowserPaperHref,
+  type PaperBrowserRagView,
   type PaperBrowserRouteContract,
 } from '@rtq/review-paper-browser/model';
 import type { ReviewFilterSelection } from '@rtq/review-paper-model/client';
@@ -476,6 +478,7 @@ const paperBrowserRoutes: PaperBrowserRouteContract = {
 function paperBrowserSearchState(
   indexQuery?: string,
   contentSearch?: ContentSearchRouteState,
+  ragView?: string,
 ) {
   const pattern = contentSearch?.pattern.trim() ?? '';
   return {
@@ -484,6 +487,7 @@ function paperBrowserSearchState(
         ? { pattern, scope: contentSearch.scope }
         : undefined,
     query: indexQuery?.trim() ?? '',
+    ragView: normalizePaperBrowserRagView(ragView),
   };
 }
 
@@ -505,11 +509,12 @@ export function collectionRoute(
   collectionId: string,
   indexQuery?: string,
   contentSearch?: ContentSearchRouteState,
+  ragView?: PaperBrowserRagView | string,
 ): string {
   return paperBrowserCollectionHref(
     paperBrowserRoutes,
     collectionId,
-    paperBrowserSearchState(indexQuery, contentSearch),
+    paperBrowserSearchState(indexQuery, contentSearch, ragView),
   );
 }
 

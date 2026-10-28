@@ -123,12 +123,12 @@ test('normalizes URL search state and filters every metadata term', () => {
       content: '  perimeter  ',
       'content-scope': 'working',
       q: '  school alpha ',
-      'rag-view': 'question-image',
+      'rag-view': ['answer-image', 'question', 'unsupported'],
     }),
     {
       content: { pattern: 'perimeter', scope: 'working' },
       query: 'school alpha',
-      ragView: 'question-image',
+      ragView: ['question', 'answer-image'],
     },
   );
   assert.deepEqual(
@@ -137,7 +137,11 @@ test('normalizes URL search state and filters every metadata term', () => {
       'content-scope': 'unsupported',
       q: ['ignored'],
     }),
-    { content: undefined, query: '', ragView: 'none' },
+    { content: undefined, query: '', ragView: [] },
+  );
+  assert.deepEqual(
+    normalizePaperBrowserSearchParameters({ 'rag-view': 'all' }).ragView,
+    ['question', 'answer', 'question-image', 'answer-image'],
   );
 
   const papers = collection('toml', 'Papers');
@@ -185,14 +189,14 @@ test('paginates without mutation and produces stable collection and paper links'
     paperBrowserCollectionHref(routes, 'toml', {
       content: { pattern: 'x + y', scope: 'question' },
       query: 'Dulwich',
-      ragView: 'question',
+      ragView: ['question', 'answer'],
     }),
-    '/papers/toml?q=Dulwich&content=x+%2B+y&content-scope=question&rag-view=question',
+    '/papers/toml?q=Dulwich&content=x+%2B+y&content-scope=question&rag-view=question&rag-view=answer',
   );
   assert.equal(
     paperBrowserPaperHref(routes, 'toml', 'nested/paper one.toml', {
       query: '',
-      ragView: 'none',
+      ragView: [],
     }),
     '/papers/toml/nested/paper%20one.toml',
   );
@@ -201,7 +205,7 @@ test('paginates without mutation and produces stable collection and paper links'
       paperBrowserCollectionHref(
         { ...routes, collectionBasePath: 'papers' },
         'toml',
-        { query: '', ragView: 'none' },
+        { query: '', ragView: [] },
       ),
     /absolute URL paths/,
   );

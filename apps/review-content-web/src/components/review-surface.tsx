@@ -4664,7 +4664,7 @@ export function ReviewSurface({
                 paper.source.collection.id,
                 searchParams.get('q') ?? undefined,
                 contentSearch,
-                searchParams.get('rag-view') ?? undefined,
+                searchParams.getAll('rag-view'),
               )}
             >
               {paper.source.collection.label}

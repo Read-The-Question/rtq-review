@@ -19,8 +19,10 @@ import {
 } from '@rtq/review-paper-model/client';
 
 import {
+  EMPTY_PAPER_BROWSER_RAG_VIEW,
   filterPaperBrowserPapers,
   normalizePaperBrowserRagView,
+  PAPER_BROWSER_RAG_TRACKS,
   paginatePaperBrowserPapers,
   paperBrowserCollectionHref,
   paperBrowserPaperHref,
@@ -54,19 +56,18 @@ const ragTrackOptions: readonly Readonly<{
 
 function PaperRagStateSummary({
   paper,
-  view,
+  tracks,
 }: {
   paper: PaperBrowserPaper;
-  view: Exclude<PaperBrowserRagView, 'none'>;
+  tracks: PaperBrowserRagView;
 }) {
-  const tracks =
-    view === 'all'
-      ? ragTrackOptions
-      : ragTrackOptions.filter((track) => track.value === view);
+  const selectedTrackOptions = ragTrackOptions.filter((track) =>
+    tracks.includes(track.value),
+  );
 
   return (
     <span className="paper-browser-rag-summary">
-      {tracks.map((track) => {
+      {selectedTrackOptions.map((track) => {
         const stateCounts = paper.ragStateCounts?.[track.value] ?? [];
         return (
           <span className="paper-browser-rag-track" key={track.value}>
@@ -125,7 +126,7 @@ export function PaperBrowser({
   initialContentPattern = '',
   initialContentScope,
   initialQuery = '',
-  initialRagView = 'none',
+  initialRagView = EMPTY_PAPER_BROWSER_RAG_VIEW,
   model,
   routes,
   secondaryNavigation,
@@ -259,13 +260,25 @@ export function PaperBrowser({
     replaceUrl(parameters);
   }
 
-  function updateRagView(value: string) {
+  function updateRagView(value: string | readonly string[]) {
     const next = normalizePaperBrowserRagView(value);
     setRagView(next);
     const parameters = new URLSearchParams(window.location.search);
-    if (next === 'none') parameters.delete('rag-view');
-    else parameters.set('rag-view', next);
+    parameters.delete('rag-view');
+    if (next.length === PAPER_BROWSER_RAG_TRACKS.length) {
+      parameters.set('rag-view', 'all');
+    } else {
+      next.forEach((track) => parameters.append('rag-view', track));
+    }
     replaceUrl(parameters);
+  }
+
+  function updateRagTrack(track: ReviewStateFilterSide, selected: boolean) {
+    updateRagView(
+      selected
+        ? [...ragView, track]
+        : ragView.filter((current) => current !== track),
+    );
   }
 
   function applyContentSearch(event: FormEvent<HTMLFormElement>) {
@@ -459,25 +472,49 @@ export function PaperBrowser({
                 : 'Filename filters update immediately'}
             </span>
           </div>
-          <label
+          <fieldset
             className="paper-browser-rag-view-control"
             title="Counts include questions and nested subquestions"
           >
-            <span>RAG state counts</span>
-            <select
-              aria-label="Show RAG state counts"
-              onChange={(event) => updateRagView(event.target.value)}
-              value={ragView}
-            >
-              <option value="none">Hidden</option>
-              <option value="all">All four tracks</option>
+            <legend>RAG state counts</legend>
+            <div className="paper-browser-rag-view-options">
               {ragTrackOptions.map((track) => (
-                <option key={track.value} value={track.value}>
-                  {track.label} only
-                </option>
+                <label
+                  data-selected={
+                    ragView.includes(track.value) ? 'true' : undefined
+                  }
+                  key={track.value}
+                  title={track.label}
+                >
+                  <input
+                    aria-label={`Show ${track.label.toLocaleLowerCase()} RAG state counts`}
+                    checked={ragView.includes(track.value)}
+                    onChange={(event) =>
+                      updateRagTrack(track.value, event.target.checked)
+                    }
+                    type="checkbox"
+                    value={track.value}
+                  />
+                  <span>{track.shortLabel}</span>
+                </label>
               ))}
-            </select>
-          </label>
+              <button
+                aria-pressed={
+                  ragView.length === PAPER_BROWSER_RAG_TRACKS.length
+                }
+                onClick={() =>
+                  updateRagView(
+                    ragView.length === PAPER_BROWSER_RAG_TRACKS.length
+                      ? EMPTY_PAPER_BROWSER_RAG_VIEW
+                      : PAPER_BROWSER_RAG_TRACKS,
+                  )
+                }
+                type="button"
+              >
+                All
+              </button>
+            </div>
+          </fieldset>
         </div>
 
         {contentSearching ? (
@@ -500,7 +537,7 @@ export function PaperBrowser({
                 {paper.state === 'ready' ? (
                   <a
                     className={`paper-browser-paper-row${
-                      ragView === 'none'
+                      ragView.length === 0
                         ? ''
                         : ' paper-browser-paper-row--with-rag'
                     }`}
@@ -526,8 +563,8 @@ export function PaperBrowser({
                         ? `${contentMatchByPath.get(paper.relativePath)?.matchingQuestionCount ?? 0} matching / ${paper.questionCount}`
                         : `${paper.questionCount} questions`}
                     </span>
-                    {ragView !== 'none' ? (
-                      <PaperRagStateSummary paper={paper} view={ragView} />
+                    {ragView.length > 0 ? (
+                      <PaperRagStateSummary paper={paper} tracks={ragView} />
                     ) : null}
                     <span
                       className="paper-browser-paper-arrow"

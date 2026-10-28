@@ -429,8 +429,11 @@ test('collection routes encode the collection identifier', () => {
     '/papers/focusPaperToml?content=PaperTable',
   );
   assert.equal(
-    collectionRoute('focusPaperToml', undefined, undefined, 'question-image'),
-    '/papers/focusPaperToml?rag-view=question-image',
+    collectionRoute('focusPaperToml', undefined, undefined, [
+      'question-image',
+      'answer',
+    ]),
+    '/papers/focusPaperToml?rag-view=answer&rag-view=question-image',
   );
 });
 

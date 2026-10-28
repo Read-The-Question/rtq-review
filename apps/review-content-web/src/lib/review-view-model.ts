@@ -2,7 +2,6 @@ import {
   normalizePaperBrowserRagView,
   paperBrowserCollectionHref,
   paperBrowserPaperHref,
-  type PaperBrowserRagView,
   type PaperBrowserRouteContract,
 } from '@rtq/review-paper-browser/model';
 import type { ReviewFilterSelection } from '@rtq/review-paper-model/client';
@@ -478,7 +477,7 @@ const paperBrowserRoutes: PaperBrowserRouteContract = {
 function paperBrowserSearchState(
   indexQuery?: string,
   contentSearch?: ContentSearchRouteState,
-  ragView?: string,
+  ragView?: string | readonly string[],
 ) {
   const pattern = contentSearch?.pattern.trim() ?? '';
   return {
@@ -509,7 +508,7 @@ export function collectionRoute(
   collectionId: string,
   indexQuery?: string,
   contentSearch?: ContentSearchRouteState,
-  ragView?: PaperBrowserRagView | string,
+  ragView?: string | readonly string[],
 ): string {
   return paperBrowserCollectionHref(
     paperBrowserRoutes,

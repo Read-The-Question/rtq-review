@@ -10,7 +10,16 @@ import type {
 
 export const PAPER_BROWSER_PAGE_SIZE = 80;
 
-export type PaperBrowserRagView = 'none' | 'all' | ReviewStateFilterSide;
+export const PAPER_BROWSER_RAG_TRACKS = [
+  'question',
+  'answer',
+  'question-image',
+  'answer-image',
+] as const satisfies readonly ReviewStateFilterSide[];
+
+export type PaperBrowserRagView = readonly ReviewStateFilterSide[];
+
+export const EMPTY_PAPER_BROWSER_RAG_VIEW: PaperBrowserRagView = [];
 
 export type PaperBrowserCollection = Readonly<{
   count: number;
@@ -276,11 +285,7 @@ export function normalizePaperBrowserSearchParameters(
   ].includes(requestedScope)
     ? (requestedScope as ContentSearchScope)
     : 'all';
-  const requestedRagView =
-    typeof parameters['rag-view'] === 'string'
-      ? parameters['rag-view']
-      : 'none';
-  const ragView = normalizePaperBrowserRagView(requestedRagView);
+  const ragView = normalizePaperBrowserRagView(parameters['rag-view']);
 
   return {
     content: pattern ? { pattern, scope } : undefined,
@@ -290,15 +295,11 @@ export function normalizePaperBrowserSearchParameters(
 }
 
 export function normalizePaperBrowserRagView(
-  value: string | undefined,
+  value: string | readonly string[] | undefined,
 ): PaperBrowserRagView {
-  return value === 'all' ||
-    value === 'answer' ||
-    value === 'answer-image' ||
-    value === 'question' ||
-    value === 'question-image'
-    ? value
-    : 'none';
+  const requested = typeof value === 'string' ? [value] : (value ?? []);
+  if (requested.includes('all')) return PAPER_BROWSER_RAG_TRACKS;
+  return PAPER_BROWSER_RAG_TRACKS.filter((track) => requested.includes(track));
 }
 
 export function paperBrowserRagStateLabel(value: string): string {
@@ -379,8 +380,10 @@ function withSearchState(
       parameters.set('content-scope', search.content.scope);
     }
   }
-  if (search.ragView !== 'none') {
-    parameters.set('rag-view', search.ragView);
+  if (search.ragView.length === PAPER_BROWSER_RAG_TRACKS.length) {
+    parameters.set('rag-view', 'all');
+  } else {
+    search.ragView.forEach((track) => parameters.append('rag-view', track));
   }
   const serialized = parameters.toString();
   return serialized ? `${path}?${serialized}` : path;

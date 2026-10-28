@@ -8,11 +8,7 @@
   --rtq-paper-table-rule-strong-width-working: 1.5px;
   --rtq-paper-table-rule-width: 1px;
   --rtq-paper-table-label-max-width: 13em;
-  --rtq-paper-table-muted-surface: color-mix(
-    in srgb,
-    currentColor 8%,
-    transparent
-  );
+  --rtq-paper-table-mark-answer-width: 3px;
 
   max-width: 100%;
   overflow-x: auto;
@@ -114,10 +110,6 @@
   tr
   > :where(th, td):first-child {
   padding-inline-start: 0;
-}
-
-.rtq-paper-table [data-tone="muted"] {
-  background: var(--rtq-paper-table-muted-surface);
 }
 
 .rtq-paper-table [data-paper-table-cell-label] {
@@ -307,4 +299,81 @@
   .rtq-paper-table[data-indent="md"] {
     padding-inline-start: 2rem;
   }
+}
+
+/*
+ * Meanings (04 §5). They come from the content, not the grid, so they draw
+ * in every grid mode and border model. The fallbacks serve review apps that
+ * don't define the paper-table theme tokens.
+ */
+
+/*
+ * Totals: a strong rule above the last body row and/or before the last
+ * column. In the collapsing border model the wider rule wins where it meets
+ * a row or column rule.
+ */
+.rtq-paper-table:is([data-totals="row"], [data-totals="both"])
+  tbody
+  > tr:last-child:not(:first-child)
+  > :where(th, td) {
+  border-block-start: var(--rtq-paper-table-rule-strong-width) solid
+    var(
+      --rtq-paper-table-rule-strong,
+      var(--line-strong, var(--rule-strong, currentColor))
+    );
+}
+
+.rtq-paper-table:is([data-totals="column"], [data-totals="both"])
+  tr
+  > :where(th, td):last-child:not(:first-child) {
+  border-inline-start: var(--rtq-paper-table-rule-strong-width) solid
+    var(
+      --rtq-paper-table-rule-strong,
+      var(--line-strong, var(--rule-strong, currentColor))
+    );
+}
+
+/*
+ * Answer mark: a tint across the row or cell, and a bar on its leading
+ * edge. The bar is the cell's own positioned layer, so collapsed borders
+ * can't hide it, and a border keeps it visible in forced colours.
+ */
+.rtq-paper-table tr[data-mark="answer"] > :where(th, td),
+.rtq-paper-table :where(th, td)[data-mark="answer"] {
+  background-color: var(
+    --rtq-paper-table-fill-answer,
+    color-mix(in srgb, currentColor 6%, transparent)
+  );
+  position: relative;
+}
+
+.rtq-paper-table tr[data-mark="answer"] > :where(th, td):first-child::before,
+.rtq-paper-table :where(th, td)[data-mark="answer"]::before {
+  border-inline-start: var(--rtq-paper-table-mark-answer-width) solid
+    var(--rtq-paper-table-mark-answer, currentColor);
+  content: "";
+  inset-block: 0;
+  inset-inline-start: 0;
+  pointer-events: none;
+  position: absolute;
+}
+
+.rtq-paper-table td[data-tone="blocked"] {
+  background-color: var(
+    --rtq-paper-table-fill-blocked,
+    color-mix(in srgb, currentColor 8%, transparent)
+  );
+}
+
+/* Words for assistive tech: "Answer row", "Answer cell", "shaded". */
+.rtq-paper-table [data-paper-table-hidden-text] {
+  border: 0;
+  clip-path: inset(50%);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
 }

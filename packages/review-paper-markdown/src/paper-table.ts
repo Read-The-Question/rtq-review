@@ -22,6 +22,7 @@ export const PAPER_TABLE_FIRST_COLUMN_START_PADDINGS = [
   "none",
 ] as const;
 export const PAPER_TABLE_INDENTS = ["none", "sm", "md"] as const;
+export const PAPER_TABLE_TOTALS = ["row", "column", "both"] as const;
 
 export const PAPER_TABLE_PROP_VALUES = {
   align: PAPER_TABLE_ALIGNS,
@@ -33,6 +34,7 @@ export const PAPER_TABLE_PROP_VALUES = {
   grid: PAPER_TABLE_GRIDS,
   indent: PAPER_TABLE_INDENTS,
   rowHeaders: PAPER_TABLE_ROW_HEADERS,
+  totals: PAPER_TABLE_TOTALS,
   width: PAPER_TABLE_WIDTHS,
 } as const;
 
@@ -45,14 +47,18 @@ export type PaperTablePropValue<Name extends PaperTablePropName> =
  * the voice default (framed in a question, horizontal everywhere else).
  */
 export type PaperTableVoiceDefaultPropName = "grid";
+/** Meanings with no default: an unset value means the table has none. */
+export type PaperTableOptionalPropName = "totals";
 export type PaperTableFixedDefaultPropName = Exclude<
   PaperTablePropName,
-  PaperTableVoiceDefaultPropName
+  PaperTableVoiceDefaultPropName | PaperTableOptionalPropName
 >;
 export type PaperTableConfig = {
   [Name in PaperTableFixedDefaultPropName]: PaperTablePropValue<Name>;
 } & {
-  [Name in PaperTableVoiceDefaultPropName]?: PaperTablePropValue<Name>;
+  [
+    Name in PaperTableVoiceDefaultPropName | PaperTableOptionalPropName
+  ]?: PaperTablePropValue<Name>;
 };
 
 export const PAPER_TABLE_DEFAULTS = {
@@ -82,6 +88,75 @@ export const PAPER_TABLE_DEPRECATED_ALIASES = {
 export const PAPER_TABLE_PROP_NAMES = Object.keys(
   PAPER_TABLE_PROP_VALUES,
 ) as PaperTablePropName[];
+
+/**
+ * PaperTable's answer mark (04 §5). Positions count body rows and columns
+ * from 1, after header semantics apply.
+ */
+export const PAPER_TABLE_ANSWER_PROP_FORMATS = {
+  answerCell: '"<body row>,<column>", each counted from 1',
+  answerRow: '"<body row>", counted from 1',
+} as const;
+
+export type PaperTableAnswerPropName =
+  keyof typeof PAPER_TABLE_ANSWER_PROP_FORMATS;
+
+export type PaperTableAnswerPosition = {
+  column?: number;
+  row: number;
+};
+
+export const PAPER_TABLE_ANSWER_PROP_NAMES = Object.keys(
+  PAPER_TABLE_ANSWER_PROP_FORMATS,
+) as PaperTableAnswerPropName[];
+
+const PAPER_TABLE_ANSWER_PROP_PATTERNS = {
+  answerCell: /^([1-9]\d*),([1-9]\d*)$/,
+  answerRow: /^([1-9]\d*)$/,
+} as const satisfies Record<PaperTableAnswerPropName, RegExp>;
+
+export function isPaperTableAnswerPropName(
+  value: string,
+): value is PaperTableAnswerPropName {
+  return Object.hasOwn(PAPER_TABLE_ANSWER_PROP_FORMATS, value);
+}
+
+/** Returns undefined for a malformed value. */
+export function parsePaperTableAnswerPosition(
+  name: PaperTableAnswerPropName,
+  value: string,
+): PaperTableAnswerPosition | undefined {
+  const match = PAPER_TABLE_ANSWER_PROP_PATTERNS[name].exec(value);
+  if (!match) return undefined;
+  return name === "answerCell"
+    ? { column: Number(match[2]), row: Number(match[1]) }
+    : { row: Number(match[1]) };
+}
+
+export const PAPER_TABLE_MARKS = ["answer"] as const;
+export type PaperTableMark = (typeof PAPER_TABLE_MARKS)[number];
+
+export function isPaperTableMark(value: unknown): value is PaperTableMark {
+  return (
+    typeof value === "string" &&
+    (PAPER_TABLE_MARKS as readonly string[]).includes(value)
+  );
+}
+
+/**
+ * Visually hidden text that carries each meaning to assistive tech. Cells
+ * without a meaning get none; screen readers announce an empty one as blank.
+ */
+export const PAPER_TABLE_HIDDEN_TEXT = {
+  answerCell: "Answer cell",
+  answerRow: "Answer row",
+  blocked: "shaded",
+} as const;
+
+const SUPPORTED_PROP_NAMES = [
+  ...PAPER_TABLE_PROP_NAMES,
+  ...PAPER_TABLE_ANSWER_PROP_NAMES,
+].join(", ");
 
 function paperTableDefault(name: PaperTablePropName): string | undefined {
   return Object.hasOwn(PAPER_TABLE_DEFAULTS, name)
@@ -119,11 +194,22 @@ type PaperTableAttribute = Readonly<{
   node: AstNode;
   value: string;
 }>;
+type PaperTableAnswerAttribute = Readonly<{
+  name: PaperTableAnswerPropName;
+  node: AstNode;
+  position: PaperTableAnswerPosition;
+  value: string;
+}>;
+type PaperTableAttributes = Readonly<{
+  answers: PaperTableAnswerAttribute[];
+  props: PaperTableAttribute[];
+}>;
 type MarkdownFence = Readonly<{ character: "`" | "~"; length: number }>;
 
 const MARKDOWN_FENCE = /^ {0,3}(`{3,}|~{3,})/;
 const PAPER_TABLE_TAG = /<\/?PaperTable\b[^>\r\n]*(?:>|$)/g;
 const PAPER_TABLE_TOKEN = /<\/?PaperTable\b/;
+const PAPER_STRUCTURED_TABLE_TOKEN = /<PaperViewStructuredTable\b/;
 
 function isAstNode(value: unknown): value is AstNode {
   return (
@@ -203,14 +289,23 @@ function getAttributeForm(attribute: AstNode): string {
   return `${typeof attribute.value}-valued attribute`;
 }
 
-function getPaperTableAttributes(node: AstNode): PaperTableAttribute[] {
-  const attributes: PaperTableAttribute[] = [];
-  const seenNames = new Set<PaperTablePropName>();
+function describeAllowedValues(
+  name: PaperTablePropName | PaperTableAnswerPropName,
+): string {
+  return isPaperTableAnswerPropName(name)
+    ? `expected ${PAPER_TABLE_ANSWER_PROP_FORMATS[name]}`
+    : `allowed values: ${PAPER_TABLE_PROP_VALUES[name].join(", ")}`;
+}
+
+function getPaperTableAttributes(node: AstNode): PaperTableAttributes {
+  const answers: PaperTableAnswerAttribute[] = [];
+  const props: PaperTableAttribute[] = [];
+  const seenNames = new Set<string>();
 
   for (const rawAttribute of node.attributes ?? []) {
     if (!isAstNode(rawAttribute)) {
       throwPaperTableError(
-        `PaperTable received an unsupported attribute form; supported props: ${PAPER_TABLE_PROP_NAMES.join(", ")}.`,
+        `PaperTable received an unsupported attribute form; supported props: ${SUPPORTED_PROP_NAMES}.`,
         node,
       );
     }
@@ -219,18 +314,18 @@ function getPaperTableAttributes(node: AstNode): PaperTableAttribute[] {
       typeof rawAttribute.name !== "string"
     ) {
       throwPaperTableError(
-        `PaperTable received ${getAttributeForm(rawAttribute)}; only static quoted-string props are supported: ${PAPER_TABLE_PROP_NAMES.join(", ")}.`,
-        rawAttribute,
-      );
-    }
-    if (!isPaperTablePropName(rawAttribute.name)) {
-      throwPaperTableError(
-        `PaperTable prop ${JSON.stringify(rawAttribute.name)} is unsupported; supported props: ${PAPER_TABLE_PROP_NAMES.join(", ")}.`,
+        `PaperTable received ${getAttributeForm(rawAttribute)}; only static quoted-string props are supported: ${SUPPORTED_PROP_NAMES}.`,
         rawAttribute,
       );
     }
 
     const name = rawAttribute.name;
+    if (!isPaperTablePropName(name) && !isPaperTableAnswerPropName(name)) {
+      throwPaperTableError(
+        `PaperTable prop ${JSON.stringify(name)} is unsupported; supported props: ${SUPPORTED_PROP_NAMES}.`,
+        rawAttribute,
+      );
+    }
     if (seenNames.has(name)) {
       throwPaperTableError(
         `PaperTable prop ${JSON.stringify(name)} must be authored once; received a duplicate attribute.`,
@@ -239,27 +334,42 @@ function getPaperTableAttributes(node: AstNode): PaperTableAttribute[] {
     }
     seenNames.add(name);
 
+    const allowedValues = describeAllowedValues(name);
     if (typeof rawAttribute.value !== "string") {
       throwPaperTableError(
-        `PaperTable prop ${JSON.stringify(name)} must use a static quoted string; received ${getAttributeForm(rawAttribute)}. Allowed values: ${PAPER_TABLE_PROP_VALUES[name].join(", ")}.`,
+        `PaperTable prop ${JSON.stringify(name)} must use a static quoted string; received ${getAttributeForm(rawAttribute)}; ${allowedValues}.`,
         rawAttribute,
       );
     }
+
+    const value = rawAttribute.value;
+    if (isPaperTableAnswerPropName(name)) {
+      const position = parsePaperTableAnswerPosition(name, value);
+      if (!position) {
+        throwPaperTableError(
+          `PaperTable prop ${JSON.stringify(name)} received ${JSON.stringify(value)}; ${allowedValues}.`,
+          rawAttribute,
+        );
+      }
+      answers.push({ name, node: rawAttribute, position, value });
+      continue;
+    }
+
     if (
       !isPaperTablePropValue(
         name,
-        resolvePaperTableDeprecatedAlias(name, rawAttribute.value),
+        resolvePaperTableDeprecatedAlias(name, value),
       )
     ) {
       throwPaperTableError(
-        `PaperTable prop ${JSON.stringify(name)} received ${JSON.stringify(rawAttribute.value)}; allowed values: ${PAPER_TABLE_PROP_VALUES[name].join(", ")}.`,
+        `PaperTable prop ${JSON.stringify(name)} received ${JSON.stringify(value)}; ${allowedValues}.`,
         rawAttribute,
       );
     }
-    attributes.push({ name, node: rawAttribute, value: rawAttribute.value });
+    props.push({ name, node: rawAttribute, value });
   }
 
-  return attributes;
+  return { answers, props };
 }
 
 function resolvePaperTableConfig(
@@ -339,11 +449,95 @@ function validateBlankCorner(
   }
 }
 
+function getMdastBodyRows(
+  table: AstNode,
+  columnHeaders: PaperTableConfig["columnHeaders"],
+): AstNode[] {
+  const rows = (table.children ?? []).filter(isAstNode);
+  return columnHeaders === "first-row" ? rows.slice(1) : rows;
+}
+
+/** GFM renders every row at the delimiter row's width. */
+function getMdastColumnCount(table: AstNode): number {
+  const align = (table as { align?: unknown }).align;
+  return Array.isArray(align) ? align.length : 0;
+}
+
+export function getPaperTableTotalsCountError(
+  totals: PaperTablePropValue<"totals">,
+  bodyRowCount: number,
+  columnCount: number,
+): string | undefined {
+  if (totals !== "column" && bodyRowCount < 2) {
+    return `a totals row needs at least two body rows; the body has ${bodyRowCount}.`;
+  }
+  if (totals !== "row" && columnCount < 2) {
+    return `a totals column needs at least two columns; the table has ${columnCount}.`;
+  }
+  return undefined;
+}
+
+function validateTotals(
+  table: AstNode,
+  config: PaperTableConfig,
+  attributes: readonly PaperTableAttribute[],
+  owner: AstNode,
+): void {
+  if (!config.totals) return;
+  const reason = getPaperTableTotalsCountError(
+    config.totals,
+    getMdastBodyRows(table, config.columnHeaders).length,
+    getMdastColumnCount(table),
+  );
+  if (reason) {
+    throwPaperTableError(
+      `PaperTable prop "totals" received ${JSON.stringify(config.totals)}, but ${reason}`,
+      attributes.find(({ name }) => name === "totals")?.node ?? owner,
+    );
+  }
+}
+
+function validateAnswerMark(
+  table: AstNode,
+  config: PaperTableConfig,
+  answers: readonly PaperTableAnswerAttribute[],
+): PaperTableAnswerAttribute | undefined {
+  if (answers.length === 0) return undefined;
+  if (answers.length > 1) {
+    throwPaperTableError(
+      "PaperTable allows one answer mark; received both answerRow and answerCell. Mark the row or the cell, not both.",
+      answers[1].node,
+    );
+  }
+
+  const [answer] = answers;
+  const bodyRowCount = getMdastBodyRows(table, config.columnHeaders).length;
+  if (answer.position.row > bodyRowCount) {
+    throwPaperTableError(
+      `PaperTable prop ${JSON.stringify(answer.name)} received ${JSON.stringify(answer.value)}, but the table body has ${bodyRowCount} row${bodyRowCount === 1 ? "" : "s"}.`,
+      answer.node,
+    );
+  }
+  const columnCount = getMdastColumnCount(table);
+  if (
+    answer.position.column !== undefined &&
+    answer.position.column > columnCount
+  ) {
+    throwPaperTableError(
+      `PaperTable prop "answerCell" received ${JSON.stringify(answer.value)}, but body row ${answer.position.row} has ${columnCount} column${columnCount === 1 ? "" : "s"}.`,
+      answer.node,
+    );
+  }
+  return answer;
+}
+
 function configurePaperTable(node: AstNode): AstNode {
-  const attributes = getPaperTableAttributes(node);
+  const { answers, props: attributes } = getPaperTableAttributes(node);
   const config = resolvePaperTableConfig(attributes);
   const table = getOnlyDirectTable(node);
   validateBlankCorner(table, config, attributes, node);
+  validateTotals(table, config, attributes, node);
+  const answer = validateAnswerMark(table, config, answers);
 
   const existingData = table.data ?? {};
   const existingProperties = existingData.hProperties ?? {};
@@ -352,6 +546,13 @@ function configurePaperTable(node: AstNode): AstNode {
     hProperties: {
       ...existingProperties,
       "data-align": config.align,
+      ...(answer
+        ? {
+            [answer.name === "answerRow"
+              ? "data-answer-row"
+              : "data-answer-cell"]: answer.value,
+          }
+        : {}),
       "data-blank-corner": config.blankCorner,
       "data-cell-align": config.cellAlign,
       ...(attributes.some(({ name }) => name === "cellAlign")
@@ -364,6 +565,7 @@ function configurePaperTable(node: AstNode): AstNode {
       "data-indent": config.indent,
       "data-paper-table": "",
       "data-row-headers": config.rowHeaders,
+      ...(config.totals === undefined ? {} : { "data-totals": config.totals }),
       "data-width": config.width,
     },
   };
@@ -524,6 +726,79 @@ function directDataValue(table: AstNode, name: PaperTablePropName): unknown {
   return value ?? paperTableDefault(name);
 }
 
+function getRowCells(row: AstNode): AstNode[] {
+  return (row.children ?? []).filter(
+    (child): child is AstNode =>
+      isElement(child, "td") || isElement(child, "th"),
+  );
+}
+
+function getOwnRows(table: AstNode): AstNode[] {
+  return ["thead", "tbody", "tfoot"].flatMap((section) =>
+    getDirectElements(table, section).flatMap((group) =>
+      getDirectElements(group, "tr"),
+    ),
+  );
+}
+
+function applyAnswerMark(table: AstNode): void {
+  const answerRow = getDataProperty(table, "answer-row");
+  const answerCell = getDataProperty(table, "answer-cell");
+  const position =
+    typeof answerRow === "string"
+      ? parsePaperTableAnswerPosition("answerRow", answerRow)
+      : typeof answerCell === "string"
+        ? parsePaperTableAnswerPosition("answerCell", answerCell)
+        : undefined;
+  if (!position) return;
+
+  const tableBody = getDirectElement(table, "tbody");
+  const row = tableBody && getDirectElements(tableBody, "tr")[position.row - 1];
+  if (!row) return;
+  if (position.column === undefined) {
+    getProperties(row).dataMark = "answer";
+    return;
+  }
+  const cell = getRowCells(row)[position.column - 1];
+  if (cell) getProperties(cell).dataMark = "answer";
+}
+
+function prependHiddenText(cell: AstNode, text: string): void {
+  // The trailing space keeps the hidden words apart from the cell's own
+  // content when assistive tech joins them; it collapses visually.
+  cell.children = [
+    {
+      children: [{ type: "text", value: text }],
+      properties: { dataPaperTableHiddenText: "" },
+      tagName: "span",
+      type: "element",
+    },
+    { type: "text", value: " " },
+    ...(cell.children ?? []),
+  ];
+}
+
+/**
+ * Words for each meaning, in the order the web components render them:
+ * "Answer cell", then "shaded", then the row's "Answer row", then content.
+ */
+function addMeaningHiddenText(table: AstNode): void {
+  for (const row of getOwnRows(table)) {
+    const cells = getRowCells(row);
+    if (getDataProperty(row, "mark") === "answer" && cells[0]) {
+      prependHiddenText(cells[0], PAPER_TABLE_HIDDEN_TEXT.answerRow);
+    }
+    for (const cell of cells) {
+      if (getDataProperty(cell, "tone") === "blocked") {
+        prependHiddenText(cell, PAPER_TABLE_HIDDEN_TEXT.blocked);
+      }
+      if (getDataProperty(cell, "mark") === "answer") {
+        prependHiddenText(cell, PAPER_TABLE_HIDDEN_TEXT.answerCell);
+      }
+    }
+  }
+}
+
 function prepareHastTable(table: AstNode): AstNode {
   const configured = hasDataProperty(table, "paper-table");
   const structured = hasDataProperty(table, "paper-structured-table");
@@ -552,10 +827,14 @@ function prepareHastTable(table: AstNode): AstNode {
       gfmConfig.blankCorner,
     );
     applyRowHeaderSemantics(table, gfmConfig.rowHeaders);
+    applyAnswerMark(table);
   }
+  addMeaningHiddenText(table);
 
   for (const name of [
     "align",
+    "answer-cell",
+    "answer-row",
     "blank-corner",
     "border-model",
     "cell-border",
@@ -569,6 +848,7 @@ function prepareHastTable(table: AstNode): AstNode {
     "paper-table",
     "paper-structured-table",
     "row-headers",
+    "totals",
     "width",
   ]) {
     deleteDataProperty(table, name);
@@ -597,6 +877,9 @@ function prepareHastTable(table: AstNode): AstNode {
         : { dataGrid: renderConfig.grid }),
       dataIndent: renderConfig.indent,
       ...(configured || structured ? { dataPaperTable: "" } : {}),
+      ...(renderConfig.totals === undefined
+        ? {}
+        : { dataTotals: renderConfig.totals }),
       dataWidth: renderConfig.width,
     },
     tagName: "div",
@@ -640,7 +923,7 @@ function closesFence(value: string, fence: MarkdownFence): boolean {
   );
 }
 
-export function hasActivePaperTable(markdown: string): boolean {
+function hasActiveToken(markdown: string, token: RegExp): boolean {
   const lines = markdown.match(/.*(?:\r\n|\n|$)/g)?.filter(Boolean) ?? [];
   let fence: MarkdownFence | undefined;
   for (const line of lines) {
@@ -652,11 +935,19 @@ export function hasActivePaperTable(markdown: string): boolean {
     const nextFence = openingFence(content);
     if (nextFence) {
       fence = nextFence;
-    } else if (PAPER_TABLE_TOKEN.test(content)) {
+    } else if (token.test(content)) {
       return true;
     }
   }
   return false;
+}
+
+export function hasActivePaperTable(markdown: string): boolean {
+  return hasActiveToken(markdown, PAPER_TABLE_TOKEN);
+}
+
+export function hasActivePaperStructuredTable(markdown: string): boolean {
+  return hasActiveToken(markdown, PAPER_STRUCTURED_TABLE_TOKEN);
 }
 
 export function stripPaperTableWrapperLines(markdown: string): string {

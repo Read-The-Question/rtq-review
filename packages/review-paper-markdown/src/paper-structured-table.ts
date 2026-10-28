@@ -1,9 +1,40 @@
 import type { Data, Parent, Root, RootContent } from "mdast";
 import type { Plugin } from "unified";
 
-import { PAPER_TABLE_DEFAULTS } from "./paper-table.ts";
+import {
+  PAPER_TABLE_DEFAULTS,
+  PAPER_TABLE_MARKS,
+  PAPER_TABLE_PROP_VALUES,
+  getPaperTableTotalsCountError,
+  isPaperTableMark,
+  isPaperTablePropValue,
+} from "./paper-table.ts";
 
-export const PAPER_STRUCTURED_TABLE_CELL_TONES = ["default", "muted"] as const;
+/** Structured-table cell meanings (04 §5). */
+export const PAPER_STRUCTURED_TABLE_CELL_TONES = [
+  "default",
+  "blocked",
+] as const;
+/**
+ * Superseded tone values. muted renders exactly as blocked until the content
+ * migration (web PRD T7) removes it.
+ */
+export const PAPER_STRUCTURED_TABLE_CELL_TONE_DEPRECATED_ALIASES = {
+  muted: "blocked",
+} as const satisfies Record<
+  string,
+  (typeof PAPER_STRUCTURED_TABLE_CELL_TONES)[number]
+>;
+
+export type PaperStructuredTableOptions = Readonly<{
+  /**
+   * Check the table's meanings (totals, answer marks, cell tones) with the
+   * same rules as the RTQ web build, and throw on the first problem. Layout
+   * props stay unvalidated either way. Rendering leaves this off so an
+   * invalid table still shows; validation reports it as an issue.
+   */
+  validateMeanings?: boolean;
+}>;
 
 type MdxElement = Extract<
   RootContent,
@@ -45,6 +76,7 @@ const ROOT_PRESENTATION_PROPS = new Set([
   "firstColumnStartPadding",
   "grid",
   "indent",
+  "totals",
   "width",
 ]);
 const STRUCTURAL_CONTAINER_NAMES = new Set([
@@ -195,8 +227,20 @@ function structuredTableProperties(node: MdxElement): NativeProperties {
       : {}),
     dataIndent: takeProperty(properties, "indent", PAPER_TABLE_DEFAULTS.indent),
     dataPaperStructuredTable: "",
+    ...(Object.hasOwn(properties, "totals")
+      ? { dataTotals: takeProperty(properties, "totals", "") }
+      : {}),
     dataWidth: takeProperty(properties, "width", PAPER_TABLE_DEFAULTS.width),
   };
+}
+
+function resolveCellTone(value: NativeProperty): NativeProperty {
+  return typeof value === "string" &&
+    Object.hasOwn(PAPER_STRUCTURED_TABLE_CELL_TONE_DEPRECATED_ALIASES, value)
+    ? PAPER_STRUCTURED_TABLE_CELL_TONE_DEPRECATED_ALIASES[
+        value as keyof typeof PAPER_STRUCTURED_TABLE_CELL_TONE_DEPRECATED_ALIASES
+      ]
+    : value;
 }
 
 function structuredElementProperties(node: MdxElement): NativeProperties {
@@ -215,12 +259,19 @@ function structuredElementProperties(node: MdxElement): NativeProperties {
     if (cellBorder !== undefined) {
       properties.dataCellBorder = cellBorder;
     }
+    if (node.name !== "PaperViewTableHeaderCell") {
+      const mark = properties.mark;
+      delete properties.mark;
+      if (mark !== undefined) {
+        properties.dataMark = mark;
+      }
+    }
 
     if (node.name !== "PaperViewTableCell") {
       return properties;
     }
 
-    const tone = takeProperty(properties, "tone", "default");
+    const tone = resolveCellTone(takeProperty(properties, "tone", "default"));
     return {
       ...properties,
       dataTone: tone,
@@ -274,14 +325,214 @@ function transformChildren(
   }
 }
 
+type StructuredMark = Readonly<{
+  inBody: boolean;
+  node: unknown;
+  owner: string;
+}>;
+
+function isNamedMdxElement(node: RootContent, name: string): boolean {
+  return (
+    (node.type === "mdxJsxFlowElement" || node.type === "mdxJsxTextElement") &&
+    node.name === name
+  );
+}
+
+/** A row or cell written on one line with its parent arrives in a paragraph. */
+function structuredChildren(node: Root | Parent): RootContent[] {
+  return node.children.flatMap((child) =>
+    child.type === "paragraph" ? child.children : [child],
+  ) as RootContent[];
+}
+
+function throwStructuredTableError(message: string, node: unknown): never {
+  const start = (
+    node as { position?: { start?: { column?: number; line?: number } } }
+  ).position?.start;
+  throw Object.assign(new Error(message), {
+    column: start?.column,
+    line: start?.line,
+    ruleId: "paper-table-authoring",
+    source: "rtq-paper-table",
+  });
+}
+
+function getStaticStringAttribute(
+  node: MdxElement,
+  owner: string,
+  name: string,
+  allowedValues: readonly string[],
+): { node: unknown; value: string } | undefined {
+  const attribute = (node.attributes ?? []).find(
+    (candidate) =>
+      candidate.type === "mdxJsxAttribute" && candidate.name === name,
+  );
+  if (!attribute) return undefined;
+  if (typeof attribute.value !== "string") {
+    const form =
+      attribute.value === null || attribute.value === undefined
+        ? "boolean attribute"
+        : "expression-valued attribute";
+    throwStructuredTableError(
+      `${owner} prop ${JSON.stringify(name)} must use a static quoted string; received ${form}; allowed values: ${allowedValues.join(", ")}.`,
+      attribute.position ? attribute : node,
+    );
+  }
+  return {
+    node: attribute.position ? attribute : node,
+    value: attribute.value,
+  };
+}
+
+function isAuthoredCellTone(value: string): boolean {
+  return (
+    (PAPER_STRUCTURED_TABLE_CELL_TONES as readonly string[]).includes(value) ||
+    Object.hasOwn(PAPER_STRUCTURED_TABLE_CELL_TONE_DEPRECATED_ALIASES, value)
+  );
+}
+
+function collectStructuredMeanings(
+  node: Root | Parent,
+  inBody: boolean,
+  marks: StructuredMark[],
+  bodyRows: RootContent[],
+): void {
+  for (const child of structuredChildren(node)) {
+    const isRow = isNamedMdxElement(child, "PaperViewTableRow");
+    const isCell = isNamedMdxElement(child, "PaperViewTableCell");
+    if (isRow && isNamedMdxElement(node as RootContent, "PaperViewTableBody")) {
+      bodyRows.push(child);
+    }
+
+    if (isRow || isCell) {
+      const owner = isRow ? "PaperViewTableRow" : "PaperViewTableCell";
+      const mark = getStaticStringAttribute(
+        child as MdxElement,
+        owner,
+        "mark",
+        PAPER_TABLE_MARKS,
+      );
+      if (mark && !isPaperTableMark(mark.value)) {
+        throwStructuredTableError(
+          `${owner} prop "mark" received ${JSON.stringify(mark.value)}; allowed values: ${PAPER_TABLE_MARKS.join(", ")}.`,
+          mark.node,
+        );
+      }
+      if (mark) marks.push({ inBody, node: mark.node, owner });
+    }
+
+    if (isCell) {
+      const tone = getStaticStringAttribute(
+        child as MdxElement,
+        "PaperViewTableCell",
+        "tone",
+        PAPER_STRUCTURED_TABLE_CELL_TONES,
+      );
+      if (tone && !isAuthoredCellTone(tone.value)) {
+        throwStructuredTableError(
+          `PaperViewTableCell prop "tone" received ${JSON.stringify(tone.value)}; allowed values: ${PAPER_STRUCTURED_TABLE_CELL_TONES.join(", ")}.`,
+          tone.node,
+        );
+      }
+    }
+
+    if ("children" in child) {
+      collectStructuredMeanings(
+        child,
+        inBody || isNamedMdxElement(child, "PaperViewTableBody"),
+        marks,
+        bodyRows,
+      );
+    }
+  }
+}
+
+function countStructuredColumns(node: Root | Parent): number {
+  let columnCount = 0;
+  for (const child of structuredChildren(node)) {
+    if (isNamedMdxElement(child, "PaperViewTableRow") && "children" in child) {
+      const cellCount = structuredChildren(child).filter(
+        (cell) =>
+          isNamedMdxElement(cell, "PaperViewTableCell") ||
+          isNamedMdxElement(cell, "PaperViewTableHeaderCell"),
+      ).length;
+      columnCount = Math.max(columnCount, cellCount);
+    } else if ("children" in child) {
+      columnCount = Math.max(columnCount, countStructuredColumns(child));
+    }
+  }
+  return columnCount;
+}
+
+function validateStructuredTable(node: MdxElement): void {
+  const owner = "PaperViewStructuredTable";
+  const marks: StructuredMark[] = [];
+  const bodyRows: RootContent[] = [];
+  collectStructuredMeanings(node, false, marks, bodyRows);
+
+  const totals = getStaticStringAttribute(
+    node,
+    owner,
+    "totals",
+    PAPER_TABLE_PROP_VALUES.totals,
+  );
+  if (totals && !isPaperTablePropValue("totals", totals.value)) {
+    throwStructuredTableError(
+      `${owner} prop "totals" received ${JSON.stringify(totals.value)}; allowed values: ${PAPER_TABLE_PROP_VALUES.totals.join(", ")}.`,
+      totals.node,
+    );
+  }
+  if (totals && isPaperTablePropValue("totals", totals.value)) {
+    const reason = getPaperTableTotalsCountError(
+      totals.value,
+      bodyRows.length,
+      countStructuredColumns(node),
+    );
+    if (reason) {
+      throwStructuredTableError(
+        `${owner} prop "totals" received ${JSON.stringify(totals.value)}, but ${reason}`,
+        totals.node,
+      );
+    }
+  }
+
+  const outsideBody = marks.find((mark) => !mark.inBody);
+  if (outsideBody) {
+    throwStructuredTableError(
+      `${outsideBody.owner} mark="answer" must be inside PaperViewTableBody; answer marks apply to body rows and cells only.`,
+      outsideBody.node,
+    );
+  }
+  if (marks.length > 1) {
+    throwStructuredTableError(
+      `${owner} allows one answer mark; received ${marks.length}. Mark one row or one cell.`,
+      marks[1].node,
+    );
+  }
+}
+
+function validateStructuredTables(parent: Root | Parent): void {
+  for (const child of parent.children as RootContent[]) {
+    if (isNamedMdxElement(child, "PaperViewStructuredTable")) {
+      validateStructuredTable(child as MdxElement);
+    }
+    if ("children" in child) validateStructuredTables(child);
+  }
+}
+
 /**
  * Lower direct paper-table MDX primitives to native table elements.
  *
- * The transform intentionally performs no structure or presentation-value
- * validation. Direct composition has the same author-owned validity boundary
- * as ordinary React and HTML table markup.
+ * Layout props get no structure or presentation-value validation: direct
+ * composition has the same author-owned validity boundary as ordinary React
+ * and HTML table markup. Meanings are checked only when validateMeanings is
+ * set, matching the RTQ web build's rules.
  */
-export const remarkPaperStructuredTable: Plugin<[], Root> = () => (tree) => {
+export const remarkPaperStructuredTable: Plugin<
+  [PaperStructuredTableOptions?],
+  Root
+> = (options) => (tree) => {
+  if (options?.validateMeanings) validateStructuredTables(tree);
   transformChildren(tree, false);
 };
 

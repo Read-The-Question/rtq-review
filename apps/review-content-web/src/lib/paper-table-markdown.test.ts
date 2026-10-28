@@ -139,7 +139,10 @@ test('renders a complete structured table with review presentation metadata', ()
   assert.match(html, /<thead>/);
   assert.match(html, /<tbody>/);
   assert.match(html, /<th scope="col" data-cell-border="all">Column<\/th>/);
-  assert.match(html, /<td data-cell-border="none" data-tone="muted"><\/td>/);
+  assert.match(
+    html,
+    /<td data-cell-border="none" data-tone="blocked"><span data-paper-table-hidden-text="">shaded<\/span> <\/td>/,
+  );
   assert.match(html, /data-paper-table-cell-label=""/);
   assert.match(html, /class="katex"/);
   assert.match(html, /rtq-maths-cell-label-number/);

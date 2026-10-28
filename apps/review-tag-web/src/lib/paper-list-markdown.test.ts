@@ -93,7 +93,10 @@ test('renders a complete structured table for tag review', () => {
   assert.match(html, /data-cell-border="all"/);
   assert.match(html, /<caption>Number grid<\/caption>/);
   assert.match(html, /<th scope="col">Column<\/th>/);
-  assert.match(html, /<td data-cell-border="all" data-tone="muted"><\/td>/);
+  assert.match(
+    html,
+    /<td data-cell-border="all" data-tone="blocked"><span data-paper-table-hidden-text="">shaded<\/span> <\/td>/,
+  );
   assert.match(html, /data-paper-table-cell-label=""/);
   assert.match(html, /class="katex"/);
   assert.match(html, /rtq-maths-cell-label-number/);

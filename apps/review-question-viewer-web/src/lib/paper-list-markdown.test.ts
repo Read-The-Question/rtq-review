@@ -67,12 +67,15 @@ test('renders a complete structured table for question review', () => {
   assert.match(html, /class="rtq-paper-table"/);
   assert.match(html, /data-cell-align="center"/);
   assert.match(html, /data-density="roomy"/);
-  assert.match(html, /data-grid="horizontal"/);
+  assert.doesNotMatch(html, /data-grid/);
   assert.match(html, /data-border-model="cells"/);
   assert.match(html, /data-cell-border="all"/);
   assert.match(html, /<caption>Number grid<\/caption>/);
   assert.match(html, /<th scope="col">Column<\/th>/);
-  assert.match(html, /<td data-cell-border="all" data-tone="muted"><\/td>/);
+  assert.match(
+    html,
+    /<td data-cell-border="all" data-tone="blocked"><span data-paper-table-hidden-text="">shaded<\/span> <\/td>/,
+  );
   assert.match(html, /data-paper-table-cell-label=""/);
   assert.match(html, /class="katex"/);
   assert.match(html, /rtq-maths-cell-label-number/);

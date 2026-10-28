@@ -88,6 +88,7 @@ test("accepts every canonical PaperTable prop value", () => {
           name === "blankCorner" && value === "open"
             ? "| | Value |"
             : undefined,
+        rows: ["| Alpha | $12$ |", "| Beta | $20$ |"],
       });
       assert.doesNotThrow(() => validatePaperTableMarkdown(source));
     }
@@ -202,6 +203,104 @@ test("rejects non-canonical attributes and invalid structures", () => {
   }
 });
 
+test("renders totals on the wrapper only when authored", async () => {
+  const rows = ["| Alpha | 12 |", "| Total | 12 |"];
+  for (const totals of PAPER_TABLE_PROP_VALUES.totals) {
+    const html = await render(tableSource(`totals="${totals}"`, { rows }));
+    assert.match(
+      html,
+      new RegExp(`<div class="rtq-paper-table"[^>]*data-totals="${totals}"`),
+    );
+    assert.doesNotMatch(html, /<table[^>]*data-totals/);
+  }
+  assert.doesNotMatch(await render(tableSource()), /data-totals/);
+});
+
+test("marks the answer row after header semantics and names it for assistive tech", async () => {
+  const html = await render(
+    tableSource('rowHeaders="first-column" answerRow="2"', {
+      rows: ["| Alpha | 12 |", "| Beta | 20 |"],
+    }),
+  );
+
+  assert.match(
+    html,
+    /<tr data-mark="answer">\s*<th align="left" scope="row"><span data-paper-table-hidden-text="">Answer row<\/span> Beta<\/th>\s*<td align="right">20<\/td>/,
+  );
+  assert.equal(html.match(/data-mark=/g)?.length, 1);
+  assert.doesNotMatch(html, /data-answer-(row|cell)/);
+});
+
+test("counts answerCell positions in the body after header demotion", async () => {
+  const html = await render(
+    tableSource('columnHeaders="none" answerCell="2,2" totals="column"'),
+  );
+
+  assert.match(
+    html,
+    /<td align="right" data-mark="answer"><span data-paper-table-hidden-text="">Answer cell<\/span> <code/,
+  );
+  assert.match(html, /data-totals="column"/);
+});
+
+test("rejects malformed, out-of-range, and doubled answer marks", () => {
+  const rows = ["| Alpha | 12 |", "| Beta | 20 |"];
+  const cases: ReadonlyArray<readonly [string, RegExp]> = [
+    [
+      'answerRow="0"',
+      /PaperTable prop "answerRow" received "0"; expected "<body row>", counted from 1\./,
+    ],
+    ['answerRow="1.5"', /"answerRow" received "1\.5"/],
+    [
+      'answerCell="1"',
+      /"answerCell" received "1"; expected "<body row>,<column>"/,
+    ],
+    ['answerCell="1, 2"', /"answerCell" received "1, 2"/],
+    [
+      'answerRow="3"',
+      /PaperTable prop "answerRow" received "3", but the table body has 2 rows\./,
+    ],
+    [
+      'answerCell="1,3"',
+      /PaperTable prop "answerCell" received "1,3", but body row 1 has 2 columns\./,
+    ],
+    [
+      'answerRow="1" answerCell="1,2"',
+      /PaperTable allows one answer mark; received both answerRow and answerCell\./,
+    ],
+    ["answerRow={1}", /"answerRow" must use a static quoted string/],
+  ];
+
+  for (const [attributes, message] of cases) {
+    assert.throws(
+      () => validatePaperTableMarkdown(tableSource(attributes, { rows })),
+      message,
+    );
+  }
+});
+
+test("rejects totals the table is too small to have", () => {
+  assert.throws(
+    () => validatePaperTableMarkdown(tableSource('totals="row"')),
+    /PaperTable prop "totals" received "row", but a totals row needs at least two body rows; the body has 1\./,
+  );
+  assert.throws(
+    () =>
+      validatePaperTableMarkdown(
+        '<PaperTable totals="column">\n\n| A |\n| - |\n| 1 |\n| 2 |\n\n</PaperTable>',
+      ),
+    /a totals column needs at least two columns; the table has 1\./,
+  );
+  assert.throws(
+    () => validatePaperTableMarkdown(tableSource('totals="rows"')),
+    /allowed values: row, column, both\./,
+  );
+  // A one-row frequency table can still end in a Total column.
+  assert.doesNotThrow(() =>
+    validatePaperTableMarkdown(tableSource('totals="column"')),
+  );
+});
+
 test("leaves fenced examples literal and strips only active fallback wrappers", async () => {
   const fenced = '```md\n<PaperTable width="full">\n</PaperTable>\n```';
   assert.doesNotThrow(() => validatePaperTableMarkdown(fenced));
@@ -255,7 +354,10 @@ test("mirrors the RTQ web table rules and voice defaults", () => {
     css,
     /\[data-density="regular"\] :where\(th, td\) \{[^}]*padding-block: 0\.5rem;/s,
   );
-  assert.doesNotMatch(css, /\[data-density[^\]]*\] table|white-space: nowrap/);
+  assert.doesNotMatch(
+    css.replace(/\[data-paper-table-hidden-text\] \{[^}]*\}/, ""),
+    /\[data-density[^\]]*\] table|white-space: nowrap/,
+  );
   assert.match(css, /thead :where\(th\) \{[^}]*font-weight: 600;/s);
   assert.match(
     css,
@@ -269,5 +371,38 @@ test("mirrors the RTQ web table rules and voice defaults", () => {
   assert.match(
     css,
     /:where\(\[data-variant="answer"\]\) \.rtq-paper-table\.rtq-paper-table table \{[^}]*font-weight: normal;/s,
+  );
+});
+
+test("draws the table meanings from the paper-table tokens", () => {
+  const css = readFileSync(
+    new URL("./paper-table.css", import.meta.url),
+    "utf8",
+  );
+
+  assert.match(
+    css,
+    /:is\(\[data-totals="row"\], \[data-totals="both"\]\)\s*tbody\s*> tr:last-child:not\(:first-child\)\s*> :where\(th, td\) \{\s*border-block-start: var\(--rtq-paper-table-rule-strong-width\)/,
+  );
+  assert.match(
+    css,
+    /:is\(\[data-totals="column"\], \[data-totals="both"\]\)\s*tr\s*> :where\(th, td\):last-child:not\(:first-child\) \{\s*border-inline-start: var\(--rtq-paper-table-rule-strong-width\)/,
+  );
+  assert.match(
+    css,
+    /tr\[data-mark="answer"\] > :where\(th, td\),\s*\.rtq-paper-table :where\(th, td\)\[data-mark="answer"\] \{[^}]*background-color: var\(\s*--rtq-paper-table-fill-answer,/,
+  );
+  assert.match(
+    css,
+    /\[data-mark="answer"\]::before \{[^}]*border-inline-start: var\(--rtq-paper-table-mark-answer-width\) solid\s*var\(--rtq-paper-table-mark-answer, currentColor\);/,
+  );
+  assert.match(
+    css,
+    /td\[data-tone="blocked"\] \{[^}]*background-color: var\(\s*--rtq-paper-table-fill-blocked,/,
+  );
+  assert.doesNotMatch(css, /data-tone="muted"|muted-surface/);
+  assert.match(
+    css,
+    /\[data-paper-table-hidden-text\] \{[^}]*clip-path: inset\(50%\);[^}]*position: absolute;/s,
   );
 });

@@ -6,6 +6,7 @@ import remarkParse from "remark-parse";
 
 import {
   hasActivePaperList,
+  hasActivePaperStructuredTable,
   hasActivePaperTable,
   remarkPaperList,
   remarkPaperListMdx,
@@ -27,19 +28,20 @@ export function validatePaperListMarkdown(markdown: string): void {
 }
 
 export function validatePaperTableMarkdown(markdown: string): void {
-  if (!hasActivePaperTable(markdown)) return;
+  const structured = hasActivePaperStructuredTable(markdown);
+  if (!hasActivePaperTable(markdown) && !structured) return;
 
-  paperTableTree(markdown);
+  paperTableTree(markdown, structured);
 }
 
-function paperTableTree(markdown: string): Root {
+function paperTableTree(markdown: string, validateMeanings = false): Root {
   const processor = unified()
     .use(remarkParse)
     .use(remarkGfm)
     .use(remarkMath)
     .use(remarkPaperListMdx)
     .use(remarkPaperTable)
-    .use(remarkPaperStructuredTable);
+    .use(remarkPaperStructuredTable, { validateMeanings });
   return processor.runSync(processor.parse(markdown)) as Root;
 }
 

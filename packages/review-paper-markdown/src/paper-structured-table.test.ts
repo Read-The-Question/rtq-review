@@ -10,6 +10,7 @@ import { unified } from "unified";
 
 import { remarkPaperListMdx, remarkPaperStructuredTable } from "./index.ts";
 import { rehypePaperTable } from "./paper-table.ts";
+import { validatePaperTableMarkdown } from "./validate.ts";
 
 const structuredTable = [
   '<PaperViewStructuredTable aria-label="Number grid" borderModel="cells" cellBorder="all" cellAlign="center" density="roomy">',
@@ -62,7 +63,10 @@ test("renders the structured vocabulary as native table semantics", async () => 
   assert.match(html, /<tbody>/);
   assert.match(html, /<tr data-cell-border="none">/);
   assert.match(html, /<th scope="col">Column<\/th>/);
-  assert.match(html, /<td data-cell-border="all" data-tone="muted"><\/td>/);
+  assert.match(
+    html,
+    /<td data-cell-border="all" data-tone="blocked"><span data-paper-table-hidden-text="">shaded<\/span> <\/td>/,
+  );
   assert.match(
     html,
     /<span data-paper-table-cell-label="">[\s\S]*>1<\/code><\/span>/,
@@ -80,7 +84,7 @@ test("passes an authored grid through and maps the deprecated density", async ()
   assert.match(html, /data-grid="framed"/);
 });
 
-test("does not validate direct structure or presentation values", async () => {
+test("renders without validating direct structure or presentation values", async () => {
   const html = await render(
     '<PaperViewStructuredTable density="authored-value"><PaperViewTableCell tone="custom">Value</PaperViewTableCell></PaperViewStructuredTable>',
   );
@@ -89,6 +93,124 @@ test("does not validate direct structure or presentation values", async () => {
   assert.match(html, /data-border-model="table"/);
   assert.doesNotMatch(html, /data-cell-border=/);
   assert.match(html, /<table><td data-tone="custom">Value<\/td><\/table>/);
+});
+
+function meaningsTable(
+  options: Readonly<{
+    bodyRows?: readonly string[];
+    headCell?: string;
+    root?: string;
+  }> = {},
+): string {
+  return [
+    `<PaperViewStructuredTable${options.root ? ` ${options.root}` : ""}>`,
+    "  <PaperViewTableHead>",
+    "    <PaperViewTableRow>",
+    `      ${options.headCell ?? "<PaperViewTableHeaderCell>Item</PaperViewTableHeaderCell>"}`,
+    "      <PaperViewTableHeaderCell>Count</PaperViewTableHeaderCell>",
+    "    </PaperViewTableRow>",
+    "  </PaperViewTableHead>",
+    "  <PaperViewTableBody>",
+    ...(options.bodyRows ?? [
+      "    <PaperViewTableRow>",
+      "      <PaperViewTableCell>Red</PaperViewTableCell>",
+      "      <PaperViewTableCell>4</PaperViewTableCell>",
+      "    </PaperViewTableRow>",
+      '    <PaperViewTableRow mark="answer">',
+      "      <PaperViewTableCell>Total</PaperViewTableCell>",
+      '      <PaperViewTableCell tone="blocked" />',
+      "    </PaperViewTableRow>",
+    ]),
+    "  </PaperViewTableBody>",
+    "</PaperViewStructuredTable>",
+  ].join("\n");
+}
+
+test("renders structured meanings with their words for assistive tech", async () => {
+  const html = await render(meaningsTable({ root: 'totals="both"' }));
+
+  assert.match(html, /<div class="rtq-paper-table"[^>]*data-totals="both"/);
+  assert.doesNotMatch(html, /<table[^>]*data-totals/);
+  assert.match(
+    html,
+    /<tr data-mark="answer">\s*<td data-tone="default"><span data-paper-table-hidden-text="">Answer row<\/span> Total<\/td>\s*<td data-tone="blocked"><span data-paper-table-hidden-text="">shaded<\/span> <\/td>/,
+  );
+
+  const cell = await render(
+    meaningsTable({
+      bodyRows: [
+        "    <PaperViewTableRow>",
+        '      <PaperViewTableCell mark="answer" tone="muted">12</PaperViewTableCell>',
+        "    </PaperViewTableRow>",
+      ],
+    }),
+  );
+  assert.match(
+    cell,
+    /<td data-mark="answer" data-tone="blocked"><span data-paper-table-hidden-text="">Answer cell<\/span> <span data-paper-table-hidden-text="">shaded<\/span> 12<\/td>/,
+  );
+});
+
+test("validates structured meanings with the RTQ web build rules", () => {
+  assert.doesNotThrow(() =>
+    validatePaperTableMarkdown(meaningsTable({ root: 'totals="both"' })),
+  );
+  assert.doesNotThrow(() =>
+    validatePaperTableMarkdown(structuredTable.replace('tone="muted"', "")),
+  );
+
+  const twoMarks = [
+    '    <PaperViewTableRow mark="answer">',
+    "      <PaperViewTableCell>Red</PaperViewTableCell>",
+    '      <PaperViewTableCell mark="answer">4</PaperViewTableCell>',
+    "    </PaperViewTableRow>",
+  ];
+  const cases: ReadonlyArray<readonly [string, RegExp]> = [
+    [
+      meaningsTable({ root: 'totals="rows"' }),
+      /PaperViewStructuredTable prop "totals" received "rows"; allowed values: row, column, both\./,
+    ],
+    [
+      meaningsTable({
+        bodyRows: [
+          "    <PaperViewTableRow>",
+          "      <PaperViewTableCell>Red</PaperViewTableCell>",
+          "    </PaperViewTableRow>",
+        ],
+        root: 'totals="row"',
+      }),
+      /PaperViewStructuredTable prop "totals" received "row", but a totals row needs at least two body rows; the body has 1\./,
+    ],
+    [
+      structuredTable.replace('tone="muted"', 'tone="grey"'),
+      /PaperViewTableCell prop "tone" received "grey"; allowed values: default, blocked\./,
+    ],
+    [
+      meaningsTable({ bodyRows: twoMarks }),
+      /PaperViewStructuredTable allows one answer mark; received 2\. Mark one row or one cell\./,
+    ],
+    [
+      meaningsTable({
+        bodyRows: [
+          '    <PaperViewTableRow mark="correct">',
+          "      <PaperViewTableCell>Red</PaperViewTableCell>",
+          "    </PaperViewTableRow>",
+        ],
+      }),
+      /PaperViewTableRow prop "mark" received "correct"; allowed values: answer\./,
+    ],
+    [
+      meaningsTable({
+        headCell: '<PaperViewTableCell mark="answer">Item</PaperViewTableCell>',
+        bodyRows: [],
+      }),
+      /PaperViewTableCell mark="answer" must be inside PaperViewTableBody/,
+    ],
+  ];
+
+  for (const [source, message] of cases) {
+    assert.throws(() => validatePaperTableMarkdown(source), message);
+  }
 });
 
 test("shares adjacent-table rhythm and muted annotation colours", () => {

@@ -190,7 +190,9 @@ function structuredTableProperties(node: MdxElement): NativeProperties {
       "firstColumnStartPadding",
       PAPER_TABLE_DEFAULTS.firstColumnStartPadding,
     ),
-    dataGrid: takeProperty(properties, "grid", PAPER_TABLE_DEFAULTS.grid),
+    ...(Object.hasOwn(properties, "grid")
+      ? { dataGrid: takeProperty(properties, "grid", "") }
+      : {}),
     dataIndent: takeProperty(properties, "indent", PAPER_TABLE_DEFAULTS.indent),
     dataPaperStructuredTable: "",
     dataWidth: takeProperty(properties, "width", PAPER_TABLE_DEFAULTS.width),

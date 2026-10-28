@@ -1,4 +1,5 @@
 import assert from "node:assert/strict";
+import { readFileSync } from "node:fs";
 import test from "node:test";
 
 import rehypeStringify from "rehype-stringify";
@@ -53,13 +54,17 @@ test("uses the exact RTQ web PaperTable values and defaults", () => {
     blankCorner: "ruled",
     cellAlign: "center",
     columnHeaders: "first-row",
-    density: "default",
+    density: "roomy",
     firstColumnStartPadding: "default",
-    grid: "horizontal",
     indent: "none",
     rowHeaders: "none",
     width: "fit",
   });
+  assert.deepEqual(PAPER_TABLE_PROP_VALUES.density, [
+    "compact",
+    "regular",
+    "roomy",
+  ]);
   assert.deepEqual(PAPER_TABLE_PROP_VALUES.grid, [
     "framed",
     "horizontal",
@@ -128,11 +133,34 @@ test("demotes the GFM header row when columnHeaders is none", async () => {
   assert.match(html, /<tbody>\s*<tr>\s*<td align="left">Label<\/td>/);
 });
 
+test("leaves an unset grid to the voice default", async () => {
+  const html = await render(tableSource());
+
+  assert.match(html, /data-density="roomy"/);
+  assert.match(html, /data-paper-table=""/);
+  assert.doesNotMatch(html, /data-grid/);
+});
+
+test("accepts the deprecated density default as regular", async () => {
+  assert.doesNotThrow(() =>
+    validatePaperTableMarkdown(tableSource('density="default"')),
+  );
+  assert.match(
+    await render(tableSource('density="default"')),
+    /data-density="regular"/,
+  );
+  assert.throws(
+    () => validatePaperTableMarkdown(tableSource('density="giant"')),
+    /allowed values: compact, regular, roomy\./,
+  );
+});
+
 test("wraps raw GFM tables with the same visual defaults", async () => {
   const html = await render("| A | B |\n| - | - |\n| 1 | 2 |");
 
   assert.match(html, /<div class="rtq-paper-table" data-align="start"/);
-  assert.match(html, /data-grid="horizontal"/);
+  assert.match(html, /data-density="roomy"/);
+  assert.doesNotMatch(html, /data-grid/);
   assert.match(html, /data-width="fit"/);
   assert.doesNotMatch(html, /data-paper-table/);
   assert.doesNotMatch(html, /scope="col"/);
@@ -183,4 +211,63 @@ test("leaves fenced examples literal and strips only active fallback wrappers", 
   const stripped = stripPaperTableWrapperLines(source);
   assert.doesNotMatch(stripped, /<\/?PaperTable/);
   assert.match(stripped, /Before[\s\S]*\| Label \| Value \|[\s\S]*After/);
+});
+
+test("mirrors the RTQ web table rules and voice defaults", () => {
+  const css = readFileSync(
+    new URL("./paper-table.css", import.meta.url),
+    "utf8",
+  );
+
+  assert.match(
+    css,
+    /:where\(\[data-variant="question"\]\) \.rtq-paper-table:not\(\[data-grid\]\)/,
+  );
+  for (const grid of [
+    "framed",
+    "interior",
+    "rows",
+    "vertical",
+    "outline",
+    "none",
+  ]) {
+    assert.match(css, new RegExp(`\\[data-grid="${grid}"\\][ ,]`));
+  }
+  assert.doesNotMatch(css, /data-grid="horizontal"/);
+  assert.match(css, /--rtq-paper-table-rule-strong-width: 2px;/);
+  assert.match(css, /--rtq-paper-table-rule-strong-width-working: 1\.5px;/);
+  assert.match(css, /--rtq-paper-table-rule-width: 1px;/);
+  for (const role of ["strong", "inner", "quiet"]) {
+    assert.match(
+      css,
+      new RegExp(`var\\(\\s*--rtq-paper-table-rule-${role},\\s*var\\(--line`),
+    );
+  }
+  assert.match(
+    css,
+    /\.rtq-paper-table\.rtq-paper-table table \{[^}]*font: inherit;[^}]*line-height: 1\.5;/s,
+  );
+  assert.match(
+    css,
+    /:where\(th, td\) \{[^}]*padding-block: 0\.75rem;[^}]*padding-inline: 1\.25rem;[^}]*vertical-align: middle;/s,
+  );
+  assert.match(
+    css,
+    /\[data-density="regular"\] :where\(th, td\) \{[^}]*padding-block: 0\.5rem;/s,
+  );
+  assert.doesNotMatch(css, /\[data-density[^\]]*\] table|white-space: nowrap/);
+  assert.match(css, /thead :where\(th\) \{[^}]*font-weight: 600;/s);
+  assert.match(
+    css,
+    /th\[scope="row"\]\) \{[^}]*font-weight: normal;[^}]*max-width: var\(--rtq-paper-table-label-max-width\);/s,
+  );
+  assert.match(css, /:has\(tbody th\[scope="row"\]\)/);
+  assert.match(
+    css,
+    /\[data-blank-corner="open"\][^{]*\{[^}]*border-block-start: hidden;[^}]*border-inline-start: hidden;/s,
+  );
+  assert.match(
+    css,
+    /:where\(\[data-variant="answer"\]\) \.rtq-paper-table\.rtq-paper-table table \{[^}]*font-weight: normal;/s,
+  );
 });

@@ -88,7 +88,7 @@ test('renders a complete structured table for tag review', () => {
   assert.match(html, /class="rtq-paper-table"/);
   assert.match(html, /data-cell-align="center"/);
   assert.match(html, /data-density="roomy"/);
-  assert.match(html, /data-grid="horizontal"/);
+  assert.doesNotMatch(html, /data-grid/);
   assert.match(html, /data-border-model="cells"/);
   assert.match(html, /data-cell-border="all"/);
   assert.match(html, /<caption>Number grid<\/caption>/);

@@ -110,6 +110,16 @@ Run `validatePaperTableMarkdown` from `@rtq/review-paper-markdown/validate` at
 the server preparation boundary so invalid TOML becomes a reviewer-facing
 issue before client rendering.
 
+`density` is `compact`, `regular` or `roomy` (the default) and sets cell
+padding only; table type follows the text of the field around it.
+`density="default"` is a deprecated alias that renders as `regular`. `grid` has
+no fixed default: an unset grid is not emitted, and `paper-table.css` gives it
+its voice default from the nearest `[data-variant]` ancestor, which is `framed`
+inside a `question` and `horizontal` everywhere else. Applications that render
+paper fields mark each field's voice with `data-variant`, and may define the
+`--rtq-paper-table-rule-strong`, `-rule-inner` and `-rule-quiet` colours;
+otherwise the rules fall back to the app's `--line`/`--rule` tokens.
+
 ## PaperViewStructuredTable
 
 `PaperViewStructuredTable` is the direct-composition alternative for tables that

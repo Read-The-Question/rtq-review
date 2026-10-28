@@ -67,7 +67,7 @@ test('keeps invalid PaperTable content readable and reports the issue', () => {
   );
   assert.match(
     prepared.issue ?? '',
-    /density.*giant.*compact.*default.*roomy/i,
+    /density.*giant.*compact, regular, roomy/i,
   );
   assert.doesNotMatch(prepared.markdown, /<\/?PaperTable/);
   assert.match(prepared.markdown, /\| A \|/);
@@ -107,8 +107,8 @@ test('renders raw GFM tables with the RTQ web defaults', () => {
   const html = render('| A | B |\n| - | - |\n| 1 | 2 |');
   assert.match(html, /class="rtq-paper-table"/);
   assert.match(html, /data-align="start"/);
-  assert.match(html, /data-density="default"/);
-  assert.match(html, /data-grid="horizontal"/);
+  assert.match(html, /data-density="roomy"/);
+  assert.doesNotMatch(html, /data-grid/);
   assert.match(html, /data-width="fit"/);
   assert.doesNotMatch(html, /data-paper-table/);
 });
@@ -132,7 +132,7 @@ test('renders a complete structured table with review presentation metadata', ()
   assert.match(html, /class="rtq-paper-table"/);
   assert.match(html, /data-cell-align="center"/);
   assert.match(html, /data-density="roomy"/);
-  assert.match(html, /data-grid="horizontal"/);
+  assert.doesNotMatch(html, /data-grid/);
   assert.match(html, /data-border-model="cells"/);
   assert.match(html, /data-cell-border="all"/);
   assert.match(html, /<caption>Number grid<\/caption>/);
@@ -145,31 +145,77 @@ test('renders a complete structured table with review presentation metadata', ()
   assert.match(html, /rtq-maths-cell-label-number/);
 });
 
-test('carries the RTQ web layout topology for every grid family', () => {
+test('uses the shared table rules and the RTQ web table colours in both themes', () => {
   const css = readFileSync(
     new URL('../app/globals.css', import.meta.url),
     'utf8',
   );
 
-  for (const grid of ['rows', 'horizontal', 'interior', 'framed']) {
-    assert.match(css, new RegExp(`\\[data-grid=['"]${grid}['"]\\]`));
+  assert.match(css, /@import '@rtq\/review-paper-markdown\/paper-table\.css'/);
+  assert.doesNotMatch(css, /\.rtq-paper-table/);
+  for (const [role, light, dark] of [
+    ['rule-strong', '#222222', '#d7d7d7'],
+    ['rule-inner', '#8a8a8a', '#727272'],
+    ['rule-quiet', '#b8b8b8', '#444444'],
+    ['fill-blocked', '#bebebe', '#484848'],
+  ] as const) {
+    assert.equal(
+      css.match(new RegExp(`--rtq-paper-table-${role}: ${light};`, 'g'))
+        ?.length,
+      1,
+    );
+    assert.equal(
+      css.match(new RegExp(`--rtq-paper-table-${role}: ${dark};`, 'g'))?.length,
+      2,
+    );
   }
-  for (const grid of ['vertical', 'interior', 'framed']) {
-    assert.match(css, new RegExp(`\\[data-grid=['"]${grid}['"]\\]`));
-  }
-  assert.match(css, /border-block-end:\s*1px solid/);
-  assert.match(css, /border-block:\s*1\.5px solid/);
-  assert.match(css, /border-inline-end:\s*1px solid/);
-  assert.match(
-    css,
-    /\[data-grid='framed'\],[\s\S]*\[data-grid='outline'\][\s\S]*border-inline:/,
+  assert.equal(
+    css.match(
+      /--rtq-paper-table-fill-answer: color-mix\(\s*in oklab,\s*var\(--rtq-maths-answer-correct\) 11%,\s*var\(--paper-bright\)\s*\);/g,
+    )?.length,
+    1,
   );
-  assert.equal(css.match(/\[data-grid='outline'\]/g)?.length, 2);
-  assert.match(css, /:not\(\[data-border-model='cells'\]\)/);
-  assert.match(css, /\[data-blank-corner='open'\][\s\S]*border-block-end: 0/);
-  assert.match(css, /\[data-first-column-start-padding='none'\]/);
-  assert.match(css, /\[data-density='compact'\]/);
-  assert.match(css, /\[data-density='roomy'\]/);
-  assert.match(css, /\[data-indent='sm'\]/);
-  assert.match(css, /\[data-indent='md'\]/);
+  assert.equal(
+    css.match(
+      /--rtq-paper-table-fill-answer: color-mix\(\s*in oklab,\s*var\(--rtq-maths-answer-correct\) 16%,\s*var\(--paper-bright\)\s*\);/g,
+    )?.length,
+    2,
+  );
+  assert.equal(
+    css.match(
+      /--rtq-paper-table-mark-answer: var\(--rtq-maths-answer-correct\);/g,
+    )?.length,
+    3,
+  );
+});
+
+test('every content field marks its voice as production does', () => {
+  const markdown = readFileSync(
+    new URL('../components/rtq-markdown.tsx', import.meta.url),
+    'utf8',
+  );
+  const surface = readFileSync(
+    new URL('../components/review-surface.tsx', import.meta.url),
+    'utf8',
+  );
+
+  assert.match(markdown, /className="rtq-markdown" data-variant=\{variant\}/);
+  assert.match(
+    surface,
+    /field=\{node\.content\.question\}\s*label="Question"\s*preferences=\{preferences\}\s*variant="question"/,
+  );
+  assert.match(
+    surface,
+    /field=\{answer\.option\}\s*label="Option"\s*preferences=\{preferences\}\s*variant="answer"/,
+  );
+  assert.match(
+    surface,
+    /field=\{answer\.key\}\s*label="Key"\s*preferences=\{preferences\}\s*variant="default"/,
+  );
+  assert.match(
+    surface,
+    /field=\{answer\.answer\}\s*label="Answer"\s*preferences=\{preferences\}\s*variant="answer"/,
+  );
+  assert.match(surface, /preferences=\{preferences\}\s*variant=\{kind\}/);
+  assert.equal(surface.match(/variant="working"/g)?.length, 3);
 });

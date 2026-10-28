@@ -1,7 +1,7 @@
 import type { Data, Parent, Root, RootContent } from "mdast";
 import type { Plugin } from "unified";
 
-export const PAPER_TABLE_DENSITIES = ["compact", "default", "roomy"] as const;
+export const PAPER_TABLE_DENSITIES = ["compact", "regular", "roomy"] as const;
 export const PAPER_TABLE_GRIDS = [
   "framed",
   "horizontal",
@@ -39,8 +39,20 @@ export const PAPER_TABLE_PROP_VALUES = {
 export type PaperTablePropName = keyof typeof PAPER_TABLE_PROP_VALUES;
 export type PaperTablePropValue<Name extends PaperTablePropName> =
   (typeof PAPER_TABLE_PROP_VALUES)[Name][number];
+/**
+ * Props whose default depends on the voice of the field the table sits in.
+ * They have no fixed default: an unset value is not emitted, so the CSS picks
+ * the voice default (framed in a question, horizontal everywhere else).
+ */
+export type PaperTableVoiceDefaultPropName = "grid";
+export type PaperTableFixedDefaultPropName = Exclude<
+  PaperTablePropName,
+  PaperTableVoiceDefaultPropName
+>;
 export type PaperTableConfig = {
-  [Name in PaperTablePropName]: PaperTablePropValue<Name>;
+  [Name in PaperTableFixedDefaultPropName]: PaperTablePropValue<Name>;
+} & {
+  [Name in PaperTableVoiceDefaultPropName]?: PaperTablePropValue<Name>;
 };
 
 export const PAPER_TABLE_DEFAULTS = {
@@ -48,17 +60,47 @@ export const PAPER_TABLE_DEFAULTS = {
   blankCorner: "ruled",
   cellAlign: "center",
   columnHeaders: "first-row",
-  density: "default",
+  density: "roomy",
   firstColumnStartPadding: "default",
-  grid: "horizontal",
   indent: "none",
   rowHeaders: "none",
   width: "fit",
-} as const satisfies PaperTableConfig;
+} as const satisfies {
+  [Name in PaperTableFixedDefaultPropName]: PaperTablePropValue<Name>;
+};
+
+/**
+ * Superseded authored values. Each is still accepted and resolves to its
+ * canonical replacement until the content migration (web PRD T7) removes it.
+ */
+export const PAPER_TABLE_DEPRECATED_ALIASES = {
+  density: { default: "regular" },
+} as const satisfies {
+  [Name in PaperTablePropName]?: Record<string, PaperTablePropValue<Name>>;
+};
 
 export const PAPER_TABLE_PROP_NAMES = Object.keys(
   PAPER_TABLE_PROP_VALUES,
 ) as PaperTablePropName[];
+
+function paperTableDefault(name: PaperTablePropName): string | undefined {
+  return Object.hasOwn(PAPER_TABLE_DEFAULTS, name)
+    ? PAPER_TABLE_DEFAULTS[name as PaperTableFixedDefaultPropName]
+    : undefined;
+}
+
+function resolvePaperTableDeprecatedAlias(
+  name: PaperTablePropName,
+  value: unknown,
+): unknown {
+  const aliases: Readonly<Record<string, string>> | undefined =
+    PAPER_TABLE_DEPRECATED_ALIASES[
+      name as keyof typeof PAPER_TABLE_DEPRECATED_ALIASES
+    ];
+  return typeof value === "string" && aliases && Object.hasOwn(aliases, value)
+    ? aliases[value]
+    : value;
+}
 
 type AstPoint = Readonly<{ column?: number; line?: number }>;
 type AstNode = {
@@ -203,7 +245,12 @@ function getPaperTableAttributes(node: AstNode): PaperTableAttribute[] {
         rawAttribute,
       );
     }
-    if (!isPaperTablePropValue(name, rawAttribute.value)) {
+    if (
+      !isPaperTablePropValue(
+        name,
+        resolvePaperTableDeprecatedAlias(name, rawAttribute.value),
+      )
+    ) {
       throwPaperTableError(
         `PaperTable prop ${JSON.stringify(name)} received ${JSON.stringify(rawAttribute.value)}; allowed values: ${PAPER_TABLE_PROP_VALUES[name].join(", ")}.`,
         rawAttribute,
@@ -219,12 +266,15 @@ function resolvePaperTableConfig(
   attributes: readonly PaperTableAttribute[],
 ): PaperTableConfig {
   const authored = Object.fromEntries(
-    attributes.map(({ name, value }) => [name, value]),
+    attributes.map(({ name, value }) => [
+      name,
+      resolvePaperTableDeprecatedAlias(name, value),
+    ]),
   ) as Partial<Record<PaperTablePropName, string>>;
   return Object.fromEntries(
     PAPER_TABLE_PROP_NAMES.map((name) => [
       name,
-      authored[name] ?? PAPER_TABLE_DEFAULTS[name],
+      authored[name] ?? paperTableDefault(name),
     ]),
   ) as PaperTableConfig;
 }
@@ -310,7 +360,7 @@ function configurePaperTable(node: AstNode): AstNode {
       "data-column-headers": config.columnHeaders,
       "data-density": config.density,
       "data-first-column-start-padding": config.firstColumnStartPadding,
-      "data-grid": config.grid,
+      ...(config.grid === undefined ? {} : { "data-grid": config.grid }),
       "data-indent": config.indent,
       "data-paper-table": "",
       "data-row-headers": config.rowHeaders,
@@ -447,18 +497,19 @@ function applyRowHeaderSemantics(
   }
 }
 
-function resolvedDataValue<Name extends PaperTablePropName>(
+function resolvedDataValue(
   table: AstNode,
-  name: Name,
-): PaperTablePropValue<Name> {
+  name: PaperTablePropName,
+): string | undefined {
   const propertyName = name.replace(
     /[A-Z]/g,
     (letter) => `-${letter.toLowerCase()}`,
   );
-  const value = getDataProperty(table, propertyName);
-  return isPaperTablePropValue(name, value)
-    ? value
-    : PAPER_TABLE_DEFAULTS[name];
+  const value = resolvePaperTableDeprecatedAlias(
+    name,
+    getDataProperty(table, propertyName),
+  );
+  return isPaperTablePropValue(name, value) ? value : paperTableDefault(name);
 }
 
 function directDataValue(table: AstNode, name: PaperTablePropName): unknown {
@@ -466,8 +517,11 @@ function directDataValue(table: AstNode, name: PaperTablePropName): unknown {
     /[A-Z]/g,
     (letter) => `-${letter.toLowerCase()}`,
   );
-  const value = getDataProperty(table, propertyName);
-  return value ?? PAPER_TABLE_DEFAULTS[name];
+  const value = resolvePaperTableDeprecatedAlias(
+    name,
+    getDataProperty(table, propertyName),
+  );
+  return value ?? paperTableDefault(name);
 }
 
 function prepareHastTable(table: AstNode): AstNode {
@@ -538,7 +592,9 @@ function prepareHastTable(table: AstNode): AstNode {
       ...(cellAlignAuthored ? { dataCellAlignAuthored: "" } : {}),
       dataDensity: renderConfig.density,
       dataFirstColumnStartPadding: renderConfig.firstColumnStartPadding,
-      dataGrid: renderConfig.grid,
+      ...(renderConfig.grid === undefined
+        ? {}
+        : { dataGrid: renderConfig.grid }),
       dataIndent: renderConfig.indent,
       ...(configured || structured ? { dataPaperTable: "" } : {}),
       dataWidth: renderConfig.width,

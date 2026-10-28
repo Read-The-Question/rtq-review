@@ -1,14 +1,13 @@
+/*
+ * Mirrors the RTQ web paper table (paper-view-table.module.css). Colours come
+ * from the --rtq-paper-table-* theme tokens when the app defines them, and
+ * fall back to the app's own line tokens otherwise.
+ */
 .rtq-paper-table {
-  --rtq-paper-table-rule-anchor: var(
-    --line-strong,
-    var(--rule-strong, currentColor)
-  );
-  --rtq-paper-table-rule-header: var(
-    --line-strong,
-    var(--rule-strong, currentColor)
-  );
-  --rtq-paper-table-rule-row: var(--line, var(--rule, currentColor));
-  --rtq-paper-table-rule-column: var(--line, var(--rule, currentColor));
+  --rtq-paper-table-rule-strong-width: 2px;
+  --rtq-paper-table-rule-strong-width-working: 1.5px;
+  --rtq-paper-table-rule-width: 1px;
+  --rtq-paper-table-label-max-width: 13em;
   --rtq-paper-table-muted-surface: color-mix(
     in srgb,
     currentColor 8%,
@@ -30,13 +29,20 @@
   color: var(--muted, currentColor);
 }
 
+/* Type follows the text of the field the table sits in. */
 .rtq-paper-table.rtq-paper-table table {
   border-collapse: collapse;
   color: inherit;
   display: table;
+  font: inherit;
   font-variant-numeric: tabular-nums;
-  line-height: 1.3125rem;
+  line-height: 1.5;
   table-layout: auto;
+}
+
+/* Answer tables are read in the working voice: regular weight. */
+:where([data-variant="answer"]) .rtq-paper-table.rtq-paper-table table {
+  font-weight: normal;
 }
 
 .rtq-paper-table[data-width="fit"] table {
@@ -59,26 +65,23 @@
   margin-inline: auto 0;
 }
 
+/* density sets cell padding only. These base values are roomy, the default. */
 .rtq-paper-table.rtq-paper-table :where(th, td) {
   border: 0;
-  padding-block: 0.5rem;
-  padding-inline: 1rem;
+  padding-block: 0.75rem;
+  padding-inline: 1.25rem;
   position: relative;
   text-align: center;
-}
-
-.rtq-paper-table thead th {
-  font-weight: 650;
   vertical-align: middle;
-  white-space: nowrap;
 }
 
-.rtq-paper-table tbody :where(th, td) {
-  vertical-align: top;
+.rtq-paper-table thead :where(th) {
+  font-weight: 600;
 }
 
-.rtq-paper-table tbody th[scope="row"] {
-  font-weight: 650;
+.rtq-paper-table.rtq-paper-table tbody :where(th[scope="row"]) {
+  font-weight: normal;
+  max-width: var(--rtq-paper-table-label-max-width);
   text-align: start;
 }
 
@@ -97,24 +100,14 @@
   text-align: right;
 }
 
-.rtq-paper-table[data-density="compact"] table {
-  font-size: 0.8125rem;
-  line-height: 1.25rem;
-}
-
-.rtq-paper-table[data-density="compact"] :where(th, td) {
+.rtq-paper-table.rtq-paper-table[data-density="compact"] :where(th, td) {
   padding-block: 0.25rem;
   padding-inline: 0.75rem;
 }
 
-.rtq-paper-table[data-density="roomy"] table {
-  font-size: 1rem;
-  line-height: 1.5rem;
-}
-
-.rtq-paper-table[data-density="roomy"] :where(th, td) {
-  padding-block: 0.75rem;
-  padding-inline: 1.25rem;
+.rtq-paper-table.rtq-paper-table[data-density="regular"] :where(th, td) {
+  padding-block: 0.5rem;
+  padding-inline: 1rem;
 }
 
 .rtq-paper-table[data-first-column-start-padding="none"]
@@ -135,76 +128,130 @@
   position: absolute;
 }
 
-.rtq-paper-table:not([data-border-model="cells"]):is(
-    [data-grid="rows"],
-    [data-grid="horizontal"],
-    [data-grid="interior"],
-    [data-grid="framed"]
-  )
-  thead
-  > tr
-  > th {
-  border-block-end: 1px solid var(--rtq-paper-table-rule-header);
+/*
+ * Grid modes. Each mode sets the six rule roles; the rules below read them.
+ * An unset grid takes its voice default: framed inside a question, horizontal
+ * everywhere else.
+ */
+.rtq-paper-table {
+  --rtq-paper-table-border-strong: var(--rtq-paper-table-rule-strong-width)
+    solid
+    var(
+      --rtq-paper-table-rule-strong,
+      var(--line-strong, var(--rule-strong, currentColor))
+    );
+  --rtq-paper-table-border-strong-working: var(
+      --rtq-paper-table-rule-strong-width-working
+    )
+    solid
+    var(
+      --rtq-paper-table-rule-strong,
+      var(--line-strong, var(--rule-strong, currentColor))
+    );
+  --rtq-paper-table-border-inner: var(--rtq-paper-table-rule-width) solid
+    var(--rtq-paper-table-rule-inner, var(--line, var(--rule, currentColor)));
+  --rtq-paper-table-border-quiet: var(--rtq-paper-table-rule-width) solid
+    var(--rtq-paper-table-rule-quiet, var(--line, var(--rule, currentColor)));
+
+  /* horizontal: firm top, header and bottom; quiet rows; no column rules. */
+  --rtq-paper-table-grid-frame-block: var(
+    --rtq-paper-table-border-strong-working
+  );
+  --rtq-paper-table-grid-frame-inline: none;
+  --rtq-paper-table-grid-header: var(--rtq-paper-table-border-strong-working);
+  --rtq-paper-table-grid-label: none;
+  --rtq-paper-table-grid-row: var(--rtq-paper-table-border-quiet);
+  --rtq-paper-table-grid-column: none;
 }
 
-.rtq-paper-table:not([data-border-model="cells"]):is(
-    [data-grid="rows"],
-    [data-grid="horizontal"],
-    [data-grid="interior"],
-    [data-grid="framed"]
-  )
+/* framed: the question grid. Strong frame, header and label rules. */
+.rtq-paper-table[data-grid="framed"],
+:where([data-variant="question"]) .rtq-paper-table:not([data-grid]) {
+  --rtq-paper-table-grid-frame-block: var(--rtq-paper-table-border-strong);
+  --rtq-paper-table-grid-frame-inline: var(--rtq-paper-table-border-strong);
+  --rtq-paper-table-grid-header: var(--rtq-paper-table-border-strong);
+  --rtq-paper-table-grid-label: var(--rtq-paper-table-border-strong);
+  --rtq-paper-table-grid-row: var(--rtq-paper-table-border-inner);
+  --rtq-paper-table-grid-column: var(--rtq-paper-table-border-inner);
+}
+
+/* interior: fills in the question's table. No outer frame. */
+.rtq-paper-table[data-grid="interior"] {
+  --rtq-paper-table-grid-frame-block: none;
+  --rtq-paper-table-grid-label: var(--rtq-paper-table-border-strong-working);
+  --rtq-paper-table-grid-column: var(--rtq-paper-table-border-quiet);
+}
+
+/* rows: horizontal without the frame. */
+.rtq-paper-table[data-grid="rows"] {
+  --rtq-paper-table-grid-frame-block: none;
+}
+
+.rtq-paper-table[data-grid="vertical"] {
+  --rtq-paper-table-grid-frame-block: none;
+  --rtq-paper-table-grid-header: none;
+  --rtq-paper-table-grid-label: var(--rtq-paper-table-border-inner);
+  --rtq-paper-table-grid-row: none;
+  --rtq-paper-table-grid-column: var(--rtq-paper-table-border-inner);
+}
+
+.rtq-paper-table[data-grid="outline"] {
+  --rtq-paper-table-grid-frame-block: var(--rtq-paper-table-border-strong);
+  --rtq-paper-table-grid-frame-inline: var(--rtq-paper-table-border-strong);
+  --rtq-paper-table-grid-header: none;
+  --rtq-paper-table-grid-row: none;
+}
+
+.rtq-paper-table[data-grid="none"] {
+  --rtq-paper-table-grid-frame-block: none;
+  --rtq-paper-table-grid-header: none;
+  --rtq-paper-table-grid-row: none;
+}
+
+.rtq-paper-table:not([data-border-model="cells"]) table {
+  border-block: var(--rtq-paper-table-grid-frame-block);
+  border-inline: var(--rtq-paper-table-grid-frame-inline);
+}
+
+.rtq-paper-table:not([data-border-model="cells"]) thead > tr > :where(th, td) {
+  border-block-end: var(--rtq-paper-table-grid-header);
+}
+
+.rtq-paper-table:not([data-border-model="cells"])
   tbody
   > tr:not(:last-child)
   > :where(th, td) {
-  border-block-end: 1px solid var(--rtq-paper-table-rule-row);
+  border-block-end: var(--rtq-paper-table-grid-row);
 }
 
-.rtq-paper-table:not([data-border-model="cells"]):is(
-    [data-grid="rows"],
-    [data-grid="horizontal"],
-    [data-grid="interior"],
-    [data-grid="framed"]
-  )
-  tbody:not(:last-of-type)
-  > tr:last-child
-  > :where(th, td) {
-  border-block-end: 1.5px solid var(--rtq-paper-table-rule-anchor);
-}
-
-.rtq-paper-table:not([data-border-model="cells"]):is(
-    [data-grid="horizontal"],
-    [data-grid="interior"],
-    [data-grid="framed"],
-    [data-grid="outline"]
-  )
-  table {
-  border-block: 1.5px solid var(--rtq-paper-table-rule-anchor);
-}
-
-.rtq-paper-table:is(
-    [data-grid="vertical"],
-    [data-grid="interior"],
-    [data-grid="framed"]
-  )
+.rtq-paper-table:not([data-border-model="cells"])
   tr
   > :where(th, td):not(:last-child) {
-  border-inline-end: 1px solid var(--rtq-paper-table-rule-column);
+  border-inline-end: var(--rtq-paper-table-grid-column);
 }
 
-.rtq-paper-table:not([data-border-model="cells"]):is(
-    [data-grid="framed"],
-    [data-grid="outline"]
-  )
-  table {
-  border-inline: 1px solid var(--rtq-paper-table-rule-anchor);
+.rtq-paper-table:not([data-border-model="cells"])
+  tbody
+  > tr
+  > :where(th[scope="row"]):not(:last-child),
+.rtq-paper-table:not([data-border-model="cells"]):has(tbody th[scope="row"])
+  thead
+  > tr
+  > :where(th):first-child:not(:last-child) {
+  border-inline-end: var(--rtq-paper-table-grid-label);
 }
 
+/*
+ * An open corner sits outside the frame, as on the paper. Hidden edges also
+ * suppress the table frame there in the collapsing border model, while the
+ * header and label rules still meet at the corner.
+ */
 .rtq-paper-table[data-blank-corner="open"]
   thead
   > tr:first-child
-  > th:first-child {
-  border-block-end: 0;
-  border-inline-end: 0;
+  > :where(th):first-child {
+  border-block-start: hidden;
+  border-inline-start: hidden;
 }
 
 .rtq-paper-table[data-border-model="cells"] :where(th, td) {
@@ -214,15 +261,15 @@
 .rtq-paper-table[data-border-model="cells"][data-cell-border="all"]
   tr
   > :where(th, td) {
-  border-block: 1px solid var(--rtq-paper-table-rule-row);
-  border-inline: 1px solid var(--rtq-paper-table-rule-column);
+  border-block: var(--rtq-paper-table-border-inner);
+  border-inline: var(--rtq-paper-table-border-inner);
 }
 
 .rtq-paper-table[data-border-model="cells"]
   tr[data-cell-border="all"]
   > :where(th, td) {
-  border-block: 1px solid var(--rtq-paper-table-rule-row);
-  border-inline: 1px solid var(--rtq-paper-table-rule-column);
+  border-block: var(--rtq-paper-table-border-inner);
+  border-inline: var(--rtq-paper-table-border-inner);
 }
 
 .rtq-paper-table[data-border-model="cells"]
@@ -234,8 +281,8 @@
 .rtq-paper-table[data-border-model="cells"]
   tr
   > :where(th, td)[data-cell-border="all"] {
-  border-block: 1px solid var(--rtq-paper-table-rule-row);
-  border-inline: 1px solid var(--rtq-paper-table-rule-column);
+  border-block: var(--rtq-paper-table-border-inner);
+  border-inline: var(--rtq-paper-table-border-inner);
 }
 
 .rtq-paper-table[data-border-model="cells"]

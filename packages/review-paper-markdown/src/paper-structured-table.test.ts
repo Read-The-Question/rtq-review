@@ -52,7 +52,7 @@ test("renders the structured vocabulary as native table semantics", async () => 
     /<div class="rtq-paper-table"[^>]*data-cell-align="center"/,
   );
   assert.match(html, /data-density="roomy"/);
-  assert.match(html, /data-grid="horizontal"/);
+  assert.doesNotMatch(html, /data-grid/);
   assert.match(html, /data-border-model="cells"/);
   assert.match(html, /data-cell-border="all"/);
   assert.match(html, /data-paper-table=""/);
@@ -69,6 +69,15 @@ test("renders the structured vocabulary as native table semantics", async () => 
   );
   assert.match(html, /49/);
   assert.doesNotMatch(html, /PaperViewStructuredTable|PaperViewTableCell/);
+});
+
+test("passes an authored grid through and maps the deprecated density", async () => {
+  const html = await render(
+    '<PaperViewStructuredTable density="default" grid="framed"><PaperViewTableBody /></PaperViewStructuredTable>',
+  );
+
+  assert.match(html, /data-density="regular"/);
+  assert.match(html, /data-grid="framed"/);
 });
 
 test("does not validate direct structure or presentation values", async () => {
@@ -98,11 +107,11 @@ test("shares adjacent-table rhythm and muted annotation colours", () => {
   );
   assert.match(
     css,
-    /\[data-border-model="cells"\]\[data-cell-border="all"\][\s\S]*border-block: 1px solid var\(--rtq-paper-table-rule-row\);/,
+    /\[data-border-model="cells"\]\[data-cell-border="all"\][\s\S]*border-block: var\(--rtq-paper-table-border-inner\);/,
   );
   assert.match(css, /tr\[data-cell-border="none"\][\s\S]*border: 0;/);
   assert.match(
     css,
-    /:where\(th, td\)\[data-cell-border="all"\][\s\S]*border-inline: 1px solid var\(--rtq-paper-table-rule-column\);/,
+    /:where\(th, td\)\[data-cell-border="all"\][\s\S]*border-inline: var\(--rtq-paper-table-border-inner\);/,
   );
 });

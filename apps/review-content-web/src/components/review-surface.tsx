@@ -126,7 +126,11 @@ import {
   type ContentFieldApiTarget,
 } from '@/lib/content-field-api';
 
-import { PaperImageComparison, RtqMarkdown } from './rtq-markdown';
+import {
+  PaperImageComparison,
+  RtqMarkdown,
+  type RtqMarkdownVariant,
+} from './rtq-markdown';
 import { SiteHeader } from './site-header';
 
 const axisCopy: Readonly<Record<DimensionalTagAxis, string>> = {
@@ -255,10 +259,12 @@ function PaperMarkdown({
   field,
   markdown,
   preferences,
+  variant,
 }: {
   field: DisplayContentField;
   markdown: string;
   preferences: ReviewPreferences;
+  variant: RtqMarkdownVariant;
 }) {
   const visibleImageVersions = useMemo(
     () => new Set(preferences.imageComparisonVersions),
@@ -271,6 +277,7 @@ function PaperMarkdown({
       paperImageScale={preferences.imageScale}
       paperImages={field.paperImages}
       showImageTags={preferences.showImageTags}
+      variant={variant}
       visibleImageVersions={visibleImageVersions}
     />
   );
@@ -281,11 +288,13 @@ function ContentField({
   hideLabel = false,
   label,
   preferences,
+  variant,
 }: {
   field: DisplayContentField;
   hideLabel?: boolean;
   label: string;
   preferences: ReviewPreferences;
+  variant: RtqMarkdownVariant;
 }) {
   if (!hasField(field)) return null;
   return (
@@ -298,6 +307,7 @@ function ContentField({
           field={field}
           markdown={field.rendered}
           preferences={preferences}
+          variant={variant}
         />
       ) : null}
       <FieldSupportingInfo
@@ -1278,6 +1288,7 @@ function WorkingStage({
             field={field}
             markdown={segment.rendered}
             preferences={preferences}
+            variant="working"
           />
         ) : null}
       </div>
@@ -1300,6 +1311,7 @@ function WorkingBody({
         hideLabel
         label="Working"
         preferences={preferences}
+        variant="working"
       />
     );
   }
@@ -1323,6 +1335,7 @@ function WorkingBody({
                   field={field}
                   markdown={segment.rendered}
                   preferences={preferences}
+                  variant="working"
                 />
               </div>
             ) : null;
@@ -1373,6 +1386,7 @@ function SolutionContentRow({
             key={index}
             label={`${kind === 'formulas' ? 'Formula' : 'Tip'} ${index + 1}`}
             preferences={preferences}
+            variant={kind}
           />
         ))}
       </div>
@@ -1473,16 +1487,19 @@ function SolutionContent({
                 field={answer.option}
                 label="Option"
                 preferences={preferences}
+                variant="answer"
               />
               <ContentField
                 field={answer.key}
                 label="Key"
                 preferences={preferences}
+                variant="default"
               />
               <ContentField
                 field={answer.answer}
                 label="Answer"
                 preferences={preferences}
+                variant="answer"
               />
             </div>
           ))}
@@ -1709,6 +1726,7 @@ function QuestionNode({
           field={node.content.question}
           label="Question"
           preferences={preferences}
+          variant="question"
         />
       </div>
       {preferences.reviewSide === 'question' &&

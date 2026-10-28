@@ -359,17 +359,26 @@ function PaperImage({
   );
 }
 
+/**
+ * The voice of the content field, as in production's paper rich text. Tables
+ * read it for their voice defaults: framed in a question, horizontal elsewhere.
+ */
+export type RtqMarkdownVariant =
+  'answer' | 'default' | 'formulas' | 'question' | 'tips' | 'working';
+
 export function RtqMarkdown({
   markdown,
   paperImageScale = 1,
   paperImages,
   showImageTags = true,
+  variant,
   visibleImageVersions = DEFAULT_IMAGE_COMPARISON_VERSION_SET,
 }: {
   markdown: string;
   paperImageScale?: PaperImageScale;
   paperImages?: readonly DisplayPaperImage[];
   showImageTags?: boolean;
+  variant?: RtqMarkdownVariant;
   visibleImageVersions?: ReadonlySet<ImageComparisonVersion>;
 }) {
   const paperImagesByReference = useMemo(
@@ -383,7 +392,7 @@ export function RtqMarkdown({
   );
   if (!markdown.trim()) return null;
   return (
-    <div className="rtq-markdown">
+    <div className="rtq-markdown" data-variant={variant}>
       <ReactMarkdown
         components={{
           span: PaperShapeSpan,

@@ -203,10 +203,24 @@ test("counts a structured row-label column in equal widths", async () => {
 });
 
 test("renders structured meanings with their words for assistive tech", async () => {
-  const html = await render(meaningsTable({ root: 'totals="both"' }));
+  const html = await render(
+    meaningsTable({
+      root: 'horizontalDensity="tight" totals="both" verticalDensity="regular"',
+    }),
+  );
 
   assert.match(html, /<div class="rtq-paper-table"[^>]*data-totals="both"/);
   assert.doesNotMatch(html, /<table[^>]*data-totals/);
+  assert.match(
+    html,
+    /<div class="rtq-paper-table"[^>]*data-horizontal-density="tight"/,
+  );
+  assert.doesNotMatch(html, /<table[^>]*data-horizontal-density/);
+  assert.match(
+    html,
+    /<div class="rtq-paper-table"[^>]*data-vertical-density="regular"/,
+  );
+  assert.doesNotMatch(html, /<table[^>]*data-vertical-density/);
   assert.match(
     html,
     /<tr data-mark="answer">\s*<td data-tone="default"><span data-paper-table-hidden-text="">Answer row<\/span> Total<\/td>\s*<td data-tone="blocked"><span data-paper-table-hidden-text="">shaded<\/span> <\/td>/,
@@ -289,6 +303,14 @@ test("validates structured meanings with the RTQ web build rules", () => {
     [
       meaningsTable({ root: 'columnWidths="fixed"' }),
       /PaperViewStructuredTable prop "columnWidths" received "fixed"; allowed values: content, equal\./,
+    ],
+    [
+      meaningsTable({ root: 'horizontalDensity="slim"' }),
+      /PaperViewStructuredTable prop "horizontalDensity" received "slim"; allowed values: tight, compact, regular, roomy\./,
+    ],
+    [
+      meaningsTable({ root: 'verticalDensity="tight"' }),
+      /PaperViewStructuredTable prop "verticalDensity" received "tight"; allowed values: compact, regular, roomy\./,
     ],
     [
       meaningsTable({

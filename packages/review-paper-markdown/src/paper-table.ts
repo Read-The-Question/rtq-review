@@ -26,6 +26,19 @@ export const PAPER_TABLE_COLUMN_HEADERS = ["first-row", "none"] as const;
  * rows whose columns are read as a set.
  */
 export const PAPER_TABLE_COLUMN_WIDTHS = ["content", "equal"] as const;
+/**
+ * density sets both padding axes. horizontalDensity and verticalDensity each
+ * override one axis: inline padding (column gaps) and block padding (row
+ * height). Unset follows density. tight is narrower than any density and keeps
+ * a compact outer edge.
+ */
+export const PAPER_TABLE_HORIZONTAL_DENSITIES = [
+  "tight",
+  "compact",
+  "regular",
+  "roomy",
+] as const;
+export const PAPER_TABLE_VERTICAL_DENSITIES = PAPER_TABLE_DENSITIES;
 export const PAPER_TABLE_ROW_HEADERS = ["none", "first-column"] as const;
 /** Intent, not a font weight: strong maps to semibold in paper-table.css. */
 export const PAPER_TABLE_ROW_HEADER_WEIGHTS = ["normal", "strong"] as const;
@@ -46,10 +59,12 @@ export const PAPER_TABLE_PROP_VALUES = {
   density: PAPER_TABLE_DENSITIES,
   firstColumnStartPadding: PAPER_TABLE_FIRST_COLUMN_START_PADDINGS,
   grid: PAPER_TABLE_GRIDS,
+  horizontalDensity: PAPER_TABLE_HORIZONTAL_DENSITIES,
   indent: PAPER_TABLE_INDENTS,
   rowHeaderWeight: PAPER_TABLE_ROW_HEADER_WEIGHTS,
   rowHeaders: PAPER_TABLE_ROW_HEADERS,
   totals: PAPER_TABLE_TOTALS,
+  verticalDensity: PAPER_TABLE_VERTICAL_DENSITIES,
   width: PAPER_TABLE_WIDTHS,
 } as const;
 
@@ -62,8 +77,12 @@ export type PaperTablePropValue<Name extends PaperTablePropName> =
  * the voice default (framed in a question, horizontal everywhere else).
  */
 export type PaperTableVoiceDefaultPropName = "grid";
-/** Meanings with no default: an unset value means the table has none. */
-export type PaperTableOptionalPropName = "totals";
+/**
+ * Props with no default: an unset totals means the table has none, and an
+ * unset horizontalDensity or verticalDensity follows density.
+ */
+export type PaperTableOptionalPropName =
+  "horizontalDensity" | "totals" | "verticalDensity";
 export type PaperTableFixedDefaultPropName = Exclude<
   PaperTablePropName,
   PaperTableVoiceDefaultPropName | PaperTableOptionalPropName
@@ -591,11 +610,17 @@ function configurePaperTable(node: AstNode): AstNode {
       "data-density": config.density,
       "data-first-column-start-padding": config.firstColumnStartPadding,
       ...(config.grid === undefined ? {} : { "data-grid": config.grid }),
+      ...(config.horizontalDensity === undefined
+        ? {}
+        : { "data-horizontal-density": config.horizontalDensity }),
       "data-indent": config.indent,
       "data-paper-table": "",
       "data-row-header-weight": config.rowHeaderWeight,
       "data-row-headers": config.rowHeaders,
       ...(config.totals === undefined ? {} : { "data-totals": config.totals }),
+      ...(config.verticalDensity === undefined
+        ? {}
+        : { "data-vertical-density": config.verticalDensity }),
       "data-width": config.width,
     },
   };
@@ -926,12 +951,14 @@ function prepareHastTable(table: AstNode): AstNode {
     "density",
     "first-column-start-padding",
     "grid",
+    "horizontal-density",
     "indent",
     "paper-table",
     "paper-structured-table",
     "row-header-weight",
     "row-headers",
     "totals",
+    "vertical-density",
     "width",
   ]) {
     deleteDataProperty(table, name);
@@ -959,6 +986,9 @@ function prepareHastTable(table: AstNode): AstNode {
       ...(renderConfig.grid === undefined
         ? {}
         : { dataGrid: renderConfig.grid }),
+      ...(renderConfig.horizontalDensity === undefined
+        ? {}
+        : { dataHorizontalDensity: renderConfig.horizontalDensity }),
       dataIndent: renderConfig.indent,
       ...(configured || structured ? { dataPaperTable: "" } : {}),
       ...(renderConfig.rowHeaderWeight === "strong"
@@ -967,6 +997,9 @@ function prepareHastTable(table: AstNode): AstNode {
       ...(renderConfig.totals === undefined
         ? {}
         : { dataTotals: renderConfig.totals }),
+      ...(renderConfig.verticalDensity === undefined
+        ? {}
+        : { dataVerticalDensity: renderConfig.verticalDensity }),
       dataWidth: renderConfig.width,
     },
     tagName: "div",

@@ -20,8 +20,8 @@ export const PAPER_STRUCTURED_TABLE_CELL_TONES = [
 export type PaperStructuredTableOptions = Readonly<{
   /**
    * Check the table's meanings (totals, answer marks, cell tones), row and
-   * cell cellAlign, and columnWidths with the same rules as the RTQ web build,
-   * and throw on the first problem. Other layout props stay unvalidated either
+   * cell cellAlign, columnWidths, horizontalDensity and verticalDensity with
+   * the same rules as the RTQ web build, and throw on the first problem. Other layout props stay unvalidated either
    * way. Rendering leaves this off so an
    * invalid table still shows; validation reports it as an issue.
    */
@@ -68,9 +68,11 @@ const ROOT_PRESENTATION_PROPS = new Set([
   "density",
   "firstColumnStartPadding",
   "grid",
+  "horizontalDensity",
   "indent",
   "rowHeaderWeight",
   "totals",
+  "verticalDensity",
   "width",
 ]);
 const STRUCTURAL_CONTAINER_NAMES = new Set([
@@ -224,6 +226,15 @@ function structuredTableProperties(node: MdxElement): NativeProperties {
     ...(Object.hasOwn(properties, "grid")
       ? { dataGrid: takeProperty(properties, "grid", "") }
       : {}),
+    ...(Object.hasOwn(properties, "horizontalDensity")
+      ? {
+          dataHorizontalDensity: takeProperty(
+            properties,
+            "horizontalDensity",
+            "",
+          ),
+        }
+      : {}),
     dataIndent: takeProperty(properties, "indent", PAPER_TABLE_DEFAULTS.indent),
     dataPaperStructuredTable: "",
     dataRowHeaderWeight: takeProperty(
@@ -233,6 +244,11 @@ function structuredTableProperties(node: MdxElement): NativeProperties {
     ),
     ...(Object.hasOwn(properties, "totals")
       ? { dataTotals: takeProperty(properties, "totals", "") }
+      : {}),
+    ...(Object.hasOwn(properties, "verticalDensity")
+      ? {
+          dataVerticalDensity: takeProperty(properties, "verticalDensity", ""),
+        }
       : {}),
     dataWidth: takeProperty(properties, "width", PAPER_TABLE_DEFAULTS.width),
   };
@@ -484,18 +500,22 @@ function countStructuredColumns(node: Root | Parent): number {
   return columnCount;
 }
 
-function validateStructuredColumnWidths(node: MdxElement, owner: string): void {
-  const columnWidths = getStaticStringAttribute(
+function validateStructuredRootValue(
+  node: MdxElement,
+  owner: string,
+  name: "columnWidths" | "horizontalDensity" | "verticalDensity",
+): void {
+  const attribute = getStaticStringAttribute(
     node,
     owner,
-    "columnWidths",
-    PAPER_TABLE_PROP_VALUES.columnWidths,
+    name,
+    PAPER_TABLE_PROP_VALUES[name],
   );
-  if (!columnWidths) return;
-  if (!isPaperTablePropValue("columnWidths", columnWidths.value)) {
+  if (!attribute) return;
+  if (!isPaperTablePropValue(name, attribute.value)) {
     throwStructuredTableError(
-      `${owner} prop "columnWidths" received ${JSON.stringify(columnWidths.value)}; allowed values: ${PAPER_TABLE_PROP_VALUES.columnWidths.join(", ")}.`,
-      columnWidths.node,
+      `${owner} prop ${JSON.stringify(name)} received ${JSON.stringify(attribute.value)}; allowed values: ${PAPER_TABLE_PROP_VALUES[name].join(", ")}.`,
+      attribute.node,
     );
   }
 }
@@ -505,7 +525,9 @@ function validateStructuredTable(node: MdxElement): void {
   const marks: StructuredMark[] = [];
   const bodyRows: RootContent[] = [];
   collectStructuredMeanings(node, false, marks, bodyRows);
-  validateStructuredColumnWidths(node, owner);
+  validateStructuredRootValue(node, owner, "columnWidths");
+  validateStructuredRootValue(node, owner, "horizontalDensity");
+  validateStructuredRootValue(node, owner, "verticalDensity");
 
   const totals = getStaticStringAttribute(
     node,

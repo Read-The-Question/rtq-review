@@ -264,6 +264,8 @@ test("rejects non-canonical attributes and invalid structures", () => {
     ),
     tableSource('rowHeaderWeight="semibold" rowHeaders="first-column"'),
     tableSource('columnWidths="fixed"'),
+    tableSource('horizontalDensity="slim"'),
+    tableSource('verticalDensity="tight"'),
   ];
 
   for (const source of invalidSources) {
@@ -295,6 +297,72 @@ test("renders totals on the wrapper only when authored", async () => {
     assert.doesNotMatch(html, /<table[^>]*data-totals/);
   }
   assert.doesNotMatch(await render(tableSource()), /data-totals/);
+});
+
+test("renders each axis density on the wrapper only when authored", async () => {
+  for (const [name, attribute] of [
+    ["horizontalDensity", "horizontal-density"],
+    ["verticalDensity", "vertical-density"],
+  ] as const) {
+    for (const value of PAPER_TABLE_PROP_VALUES[name]) {
+      const html = await render(tableSource(`${name}="${value}"`));
+      const wrapper = html.match(/<div class="rtq-paper-table"[^>]*>/)?.[0];
+      assert.match(wrapper ?? "", new RegExp(`data-${attribute}="${value}"`));
+      assert.match(wrapper ?? "", /data-density="roomy"/);
+      assert.doesNotMatch(html, new RegExp(`<table[^>]*data-${attribute}`));
+    }
+  }
+  const unset = await render(tableSource());
+  assert.doesNotMatch(unset, /data-horizontal-density/);
+  assert.doesNotMatch(unset, /data-vertical-density/);
+});
+
+test("lets each axis density set one padding axis, before the first-column override", () => {
+  const css = readFileSync(
+    new URL("./paper-table.css", import.meta.url),
+    "utf8",
+  );
+  const spacing = css.indexOf('[data-horizontal-density="tight"]');
+
+  assert.match(
+    css,
+    /\[data-horizontal-density="tight"\]\s+:where\(th, td\) \{\s*padding-inline: 0\.375rem;\s*\}/,
+  );
+  assert.match(
+    css,
+    /\.rtq-paper-table\[data-horizontal-density="tight"\]\s+tr\s+>\s+:where\(th, td\):first-child \{\s*padding-inline-start: 0\.75rem;\s*\}/,
+  );
+  assert.match(
+    css,
+    /\.rtq-paper-table\[data-horizontal-density="tight"\]\s+tr\s+>\s+:where\(th, td\):last-child \{\s*padding-inline-end: 0\.75rem;\s*\}/,
+  );
+  for (const [value, padding] of [
+    ["compact", "0.75rem"],
+    ["regular", "1rem"],
+    ["roomy", "1.25rem"],
+  ]) {
+    assert.match(
+      css,
+      new RegExp(
+        `\\[data-horizontal-density="${value}"\\]\\s+:where\\(th, td\\) \\{\\s*padding-inline: ${padding.replace(".", "\\.")};\\s*\\}`,
+      ),
+    );
+  }
+  for (const [value, padding] of [
+    ["compact", "0.25rem"],
+    ["regular", "0.5rem"],
+    ["roomy", "0.75rem"],
+  ]) {
+    assert.match(
+      css,
+      new RegExp(
+        `\\.rtq-paper-table\\.rtq-paper-table\\[data-vertical-density="${value}"\\]\\s+:where\\(th, td\\) \\{\\s*padding-block: ${padding.replace(".", "\\.")};\\s*\\}`,
+      ),
+    );
+  }
+  const vertical = css.lastIndexOf("[data-vertical-density=");
+  assert.ok(spacing > css.indexOf('[data-density="regular"]'));
+  assert.ok(vertical < css.indexOf('[data-first-column-start-padding="none"]'));
 });
 
 test("marks the answer row after header semantics and names it for assistive tech", async () => {

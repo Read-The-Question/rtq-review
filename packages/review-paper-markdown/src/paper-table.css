@@ -149,6 +149,58 @@
   padding-inline: 1rem;
 }
 
+/* density sets both axes; horizontalDensity and verticalDensity each override
+ * one, and come after density so they win at equal specificity. Unset follows
+ * density. horizontalDensity sets the inline padding (the gap between
+ * columns); tight keeps compact's padding at the outer edges. The edge rules
+ * take one class so firstColumnStartPadding="none" still wins. */
+.rtq-paper-table.rtq-paper-table[data-horizontal-density="tight"]
+  :where(th, td) {
+  padding-inline: 0.375rem;
+}
+
+.rtq-paper-table[data-horizontal-density="tight"]
+  tr
+  > :where(th, td):first-child {
+  padding-inline-start: 0.75rem;
+}
+
+.rtq-paper-table[data-horizontal-density="tight"]
+  tr
+  > :where(th, td):last-child {
+  padding-inline-end: 0.75rem;
+}
+
+.rtq-paper-table.rtq-paper-table[data-horizontal-density="compact"]
+  :where(th, td) {
+  padding-inline: 0.75rem;
+}
+
+.rtq-paper-table.rtq-paper-table[data-horizontal-density="regular"]
+  :where(th, td) {
+  padding-inline: 1rem;
+}
+
+.rtq-paper-table.rtq-paper-table[data-horizontal-density="roomy"]
+  :where(th, td) {
+  padding-inline: 1.25rem;
+}
+
+/* verticalDensity sets the block padding: the row height. */
+.rtq-paper-table.rtq-paper-table[data-vertical-density="compact"]
+  :where(th, td) {
+  padding-block: 0.25rem;
+}
+
+.rtq-paper-table.rtq-paper-table[data-vertical-density="regular"]
+  :where(th, td) {
+  padding-block: 0.5rem;
+}
+
+.rtq-paper-table.rtq-paper-table[data-vertical-density="roomy"] :where(th, td) {
+  padding-block: 0.75rem;
+}
+
 .rtq-paper-table[data-first-column-start-padding="none"]
   tr
   > :where(th, td):first-child {

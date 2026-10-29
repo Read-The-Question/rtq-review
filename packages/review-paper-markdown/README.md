@@ -99,7 +99,7 @@ content rather than leaving an unsupported MDX node for ReactMarkdown.
 
 `PaperTable` wraps exactly one GFM pipe table. The shared transform implements
 the RTQ web contract for `align`, `blankCorner`, `cellAlign`, `columnHeaders`,
-`columnWidths`, `density`, `firstColumnStartPadding`, `grid`, `indent`, `rowHeaderWeight`,
+`horizontalDensity`, `columnWidths`, `density`, `firstColumnStartPadding`, `grid`, `indent`, `rowHeaderWeight`,
 `rowHeaders`, `totals` and `width`. Values are exact, case-sensitive static strings; unsupported,
 duplicate, expression-valued, or structurally invalid authoring is rejected.
 
@@ -112,7 +112,13 @@ issue before client rendering.
 
 `density` is `compact`, `regular` or `roomy` (the default) and sets cell
 padding only; table type follows the text of the field around it.
-The retired `density="default"` is rejected with an error naming `regular`. `grid` has
+The retired `density="default"` is rejected with an error naming `regular`.
+`horizontalDensity` is `tight`, `compact`, `regular` or `roomy` and sets only the
+cells' inline padding, so a narrow table can keep roomy rows with closer
+columns. Unset, it is not emitted and the density's inline padding applies.
+`compact`, `regular` and `roomy` match the densities' 12px, 16px and 20px;
+`tight` is 6px per side with 12px at the table's outer edges.
+`firstColumnStartPadding="none"` still wins at the first column. `grid` has
 no fixed default: an unset grid is not emitted, and `paper-table.css` gives it
 its voice default from the nearest `[data-variant]` ancestor, which is `framed`
 inside a `question` and `horizontal` everywhere else. Applications that render
@@ -152,7 +158,7 @@ and `PaperViewTableCellLabel`.
 validate child order, row lengths, column counts, or presentation values. That
 is an intentional difference from the validated `PaperTable` GFM path.
 
-The structured root supports `align`, `cellAlign`, `density`,
+The structured root supports `align`, `cellAlign`, `horizontalDensity`, `density`,
 `firstColumnStartPadding`, `grid`, `indent`, and `width`. It also preserves the
 opt-in `borderModel="cells"` contract: `cellBorder="all|none"` cascades from
 the root to a row and then to an individual header or data cell. The nearest

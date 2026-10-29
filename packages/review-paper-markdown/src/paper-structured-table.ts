@@ -19,9 +19,10 @@ export const PAPER_STRUCTURED_TABLE_CELL_TONES = [
 
 export type PaperStructuredTableOptions = Readonly<{
   /**
-   * Check the table's meanings (totals, answer marks, cell tones) and
-   * columnWidths with the same rules as the RTQ web build, and throw on the
-   * first problem. Other layout props stay unvalidated either way. Rendering leaves this off so an
+   * Check the table's meanings (totals, answer marks, cell tones), row and
+   * cell cellAlign, and columnWidths with the same rules as the RTQ web build,
+   * and throw on the first problem. Other layout props stay unvalidated either
+   * way. Rendering leaves this off so an
    * invalid table still shows; validation reports it as an issue.
    */
   validateMeanings?: boolean;
@@ -253,6 +254,11 @@ function structuredElementProperties(node: MdxElement): NativeProperties {
     if (cellBorder !== undefined) {
       properties.dataCellBorder = cellBorder;
     }
+    const cellAlign = properties.cellAlign;
+    delete properties.cellAlign;
+    if (cellAlign !== undefined) {
+      properties.dataCellAlign = cellAlign;
+    }
     if (node.name !== "PaperViewTableHeaderCell") {
       const mark = properties.mark;
       delete properties.mark;
@@ -412,6 +418,27 @@ function collectStructuredMeanings(
         );
       }
       if (mark) marks.push({ inBody, node: mark.node, owner });
+    }
+
+    const isHeaderCell = isNamedMdxElement(child, "PaperViewTableHeaderCell");
+    if (isRow || isCell || isHeaderCell) {
+      const owner = isRow
+        ? "PaperViewTableRow"
+        : isCell
+          ? "PaperViewTableCell"
+          : "PaperViewTableHeaderCell";
+      const cellAlign = getStaticStringAttribute(
+        child as MdxElement,
+        owner,
+        "cellAlign",
+        PAPER_TABLE_PROP_VALUES.cellAlign,
+      );
+      if (cellAlign && !isPaperTablePropValue("cellAlign", cellAlign.value)) {
+        throwStructuredTableError(
+          `${owner} prop "cellAlign" received ${JSON.stringify(cellAlign.value)}; allowed values: ${PAPER_TABLE_PROP_VALUES.cellAlign.join(", ")}.`,
+          cellAlign.node,
+        );
+      }
     }
 
     if (isCell) {

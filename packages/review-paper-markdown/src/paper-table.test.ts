@@ -73,7 +73,10 @@ test("uses the exact RTQ web PaperTable values and defaults", () => {
     "roomy",
   ]);
   assert.deepEqual(PAPER_TABLE_PROP_VALUES.grid, [
+    "axes",
     "framed",
+    "framed-rows",
+    "framed-columns",
     "horizontal",
     "interior",
     "none",
@@ -401,7 +404,10 @@ test("mirrors the RTQ web table rules and voice defaults", () => {
     /:where\(\[data-variant="question"\]\) \.rtq-paper-table:not\(\[data-grid\]\)/,
   );
   for (const grid of [
+    "axes",
     "framed",
+    "framed-rows",
+    "framed-columns",
     "interior",
     "rows",
     "vertical",

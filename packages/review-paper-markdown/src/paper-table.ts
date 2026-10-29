@@ -5,7 +5,10 @@ import type { PAPER_STRUCTURED_TABLE_CELL_TONES } from "./paper-structured-table
 
 export const PAPER_TABLE_DENSITIES = ["compact", "regular", "roomy"] as const;
 export const PAPER_TABLE_GRIDS = [
+  "axes",
   "framed",
+  "framed-rows",
+  "framed-columns",
   "horizontal",
   "interior",
   "none",

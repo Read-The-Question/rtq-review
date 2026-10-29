@@ -159,7 +159,16 @@ the root to a row and then to an individual header or data cell. The nearest
 authored value wins, while the default table-owned border model remains
 unchanged. In the cells model, row labels draw the firm label rule, and each
 cell's resolved `cellBorder` decides whether the label and totals rules draw on
-it, so an explicit `cellBorder="none"` row or cell stays unruled.
+it, so an explicit `cellBorder="none"` row or cell stays unruled. In the
+default table model, `grid="framed-rows"` draws the question frame and row
+rules with no vertical rules, `grid="framed-columns"` draws the question frame and
+column rules with no horizontal rules, `grid="axes"` draws only the firm header and label rules,
+and a row or cell written with `cellBorder="all"` adds its own medium box over
+the grid (an answer box); `cellBorder="none"` adds nothing there. A row,
+header cell or data cell may also set `cellAlign="left|center|right"`; a cell's
+own value wins over its row's, which wins over the root's `cellAlign` and the
+row-label start fallback. With `validateMeanings`, an unknown row or cell
+`cellAlign` is rejected.
 `PaperViewTableCell` supports `tone="default|blocked"`; the retired
 `tone="muted"` is rejected with an error naming `blocked`.
 `PaperViewTableCellLabel` preserves ordinary Markdown/MDX children, including

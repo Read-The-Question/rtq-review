@@ -109,6 +109,36 @@
   text-align: right;
 }
 
+/* Structured rows and cells may set their own cellAlign. A cell takes its
+ * own value, else its row's. The :is() list lifts these above the
+ * table-wide cellAlign and the row-label fallback. */
+.rtq-paper-table
+  tr
+  > :is(th, td):is(
+    [data-cell-align="center"],
+    tr[data-cell-align="center"] > :not([data-cell-align])
+  ) {
+  text-align: center;
+}
+
+.rtq-paper-table
+  tr
+  > :is(th, td):is(
+    [data-cell-align="left"],
+    tr[data-cell-align="left"] > :not([data-cell-align])
+  ) {
+  text-align: left;
+}
+
+.rtq-paper-table
+  tr
+  > :is(th, td):is(
+    [data-cell-align="right"],
+    tr[data-cell-align="right"] > :not([data-cell-align])
+  ) {
+  text-align: right;
+}
+
 .rtq-paper-table.rtq-paper-table[data-density="compact"] :where(th, td) {
   padding-block: 0.25rem;
   padding-inline: 0.75rem;
@@ -199,6 +229,28 @@
   --rtq-paper-table-grid-column: var(--rtq-paper-table-border-medium);
 }
 
+/* framed-rows: the question grid without vertical rules. Firm frame and
+ * header rule, medium row rules, no label or column rules. */
+.rtq-paper-table[data-grid="framed-rows"] {
+  --rtq-paper-table-grid-frame-block: var(--rtq-paper-table-border-firm);
+  --rtq-paper-table-grid-frame-inline: var(--rtq-paper-table-border-firm);
+  --rtq-paper-table-grid-header: var(--rtq-paper-table-border-firm);
+  --rtq-paper-table-grid-label: none;
+  --rtq-paper-table-grid-row: var(--rtq-paper-table-border-medium);
+  --rtq-paper-table-grid-column: none;
+}
+
+/* framed-columns: the question grid without horizontal rules. Firm frame and
+ * label rule, medium column rules, no header or row rules. */
+.rtq-paper-table[data-grid="framed-columns"] {
+  --rtq-paper-table-grid-frame-block: var(--rtq-paper-table-border-firm);
+  --rtq-paper-table-grid-frame-inline: var(--rtq-paper-table-border-firm);
+  --rtq-paper-table-grid-header: none;
+  --rtq-paper-table-grid-label: var(--rtq-paper-table-border-firm);
+  --rtq-paper-table-grid-row: none;
+  --rtq-paper-table-grid-column: var(--rtq-paper-table-border-medium);
+}
+
 /* interior: fills in the question's table. No outer frame. */
 .rtq-paper-table[data-grid="interior"] {
   --rtq-paper-table-grid-frame-block: none;
@@ -230,6 +282,16 @@
   --rtq-paper-table-grid-frame-block: none;
   --rtq-paper-table-grid-header: none;
   --rtq-paper-table-grid-row: none;
+}
+
+/* axes: only the header and label rules, as on a printed timetable. */
+.rtq-paper-table[data-grid="axes"] {
+  --rtq-paper-table-grid-frame-block: none;
+  --rtq-paper-table-grid-frame-inline: none;
+  --rtq-paper-table-grid-header: var(--rtq-paper-table-border-firm);
+  --rtq-paper-table-grid-label: var(--rtq-paper-table-border-firm);
+  --rtq-paper-table-grid-row: none;
+  --rtq-paper-table-grid-column: none;
 }
 
 .rtq-paper-table:not([data-border-model="cells"]) table {
@@ -276,6 +338,24 @@
   > :where(th):first-child {
   border-block-start: hidden;
   border-inline-start: hidden;
+}
+
+/*
+ * In the table model the grid draws the rules, and a row or cell written
+ * with cellBorder="all" adds its own box over them, such as an answer box.
+ * :is() gives these the specificity to outrank the row and label rules;
+ * cellBorder="none" adds nothing here.
+ */
+.rtq-paper-table:not([data-border-model="cells"])
+  :is(thead, tbody)
+  > tr[data-cell-border="all"]
+  > :is(th, td),
+.rtq-paper-table:not([data-border-model="cells"])
+  :is(thead, tbody)
+  > tr
+  > :is(th, td)[data-cell-border="all"] {
+  border-block: var(--rtq-paper-table-border-medium);
+  border-inline: var(--rtq-paper-table-border-medium);
 }
 
 .rtq-paper-table[data-border-model="cells"] :where(th, td) {

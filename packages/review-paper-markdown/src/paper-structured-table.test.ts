@@ -290,6 +290,13 @@ test("validates structured meanings with the RTQ web build rules", () => {
       meaningsTable({ root: 'columnWidths="fixed"' }),
       /PaperViewStructuredTable prop "columnWidths" received "fixed"; allowed values: content, equal\./,
     ],
+    [
+      meaningsTable({
+        headCell:
+          '<PaperViewTableHeaderCell cellAlign="start">Item</PaperViewTableHeaderCell>',
+      }),
+      /PaperViewTableHeaderCell prop "cellAlign" received "start"; allowed values: center, left, right\./,
+    ],
   ];
 
   for (const [source, message] of cases) {
@@ -341,5 +348,71 @@ test("lets cell-owned borders decide the label and totals rules", () => {
       /border-(block|inline)-start: var\(--rtq-paper-table-stroke-width-firm\)\s*var\(--rtq-paper-table-cell-rule-style, solid\)/g,
     )?.length,
     2,
+  );
+});
+
+test("lets a row or cell set its own alignment over the table cellAlign", async () => {
+  const source = [
+    '<PaperViewStructuredTable aria-label="Ingredients" cellAlign="left">',
+    "  <PaperViewTableHead>",
+    '    <PaperViewTableRow cellAlign="center">',
+    '      <PaperViewTableHeaderCell colSpan="2" scope="colgroup">Ingredients</PaperViewTableHeaderCell>',
+    "    </PaperViewTableRow>",
+    "  </PaperViewTableHead>",
+    "  <PaperViewTableBody>",
+    "    <PaperViewTableRow>",
+    '      <PaperViewTableCell cellAlign="right">180 g</PaperViewTableCell>',
+    "      <PaperViewTableCell>flour</PaperViewTableCell>",
+    "    </PaperViewTableRow>",
+    "  </PaperViewTableBody>",
+    "</PaperViewStructuredTable>",
+  ].join("\n");
+  const html = await render(source);
+  const css = readFileSync(
+    new URL("./paper-table.css", import.meta.url),
+    "utf8",
+  ).replace(/\s+/g, " ");
+
+  assert.doesNotThrow(() => validatePaperTableMarkdown(source));
+  assert.match(html, /<tr data-cell-align="center">/);
+  assert.match(
+    html,
+    /<td data-cell-align="right" data-tone="default">180 g<\/td>/,
+  );
+  assert.match(html, /<td data-tone="default">flour<\/td>/);
+  for (const value of ["center", "left", "right"]) {
+    assert.ok(
+      css.includes(
+        `.rtq-paper-table tr > :is(th, td):is( [data-cell-align="${value}"], tr[data-cell-align="${value}"] > :not([data-cell-align]) ) { text-align: ${value}; }`,
+      ),
+    );
+  }
+});
+
+test("lets a row or cell draw its own box over the table-model grid", async () => {
+  const html = await render(
+    [
+      '<PaperViewStructuredTable aria-label="Timetable" grid="axes">',
+      "  <PaperViewTableBody>",
+      "    <PaperViewTableRow>",
+      '      <PaperViewTableHeaderCell scope="row">Haymarket</PaperViewTableHeaderCell>',
+      '      <PaperViewTableCell cellBorder="all" />',
+      "    </PaperViewTableRow>",
+      "  </PaperViewTableBody>",
+      "</PaperViewStructuredTable>",
+    ].join("\n"),
+  );
+  const css = readFileSync(
+    new URL("./paper-table.css", import.meta.url),
+    "utf8",
+  ).replace(/\s+/g, " ");
+
+  assert.match(html, /data-border-model="table"/);
+  assert.match(html, /data-grid="axes"/);
+  assert.match(html, /<td data-cell-border="all"/);
+  assert.ok(
+    css.includes(
+      '.rtq-paper-table:not([data-border-model="cells"]) :is(thead, tbody) > tr[data-cell-border="all"] > :is(th, td), .rtq-paper-table:not([data-border-model="cells"]) :is(thead, tbody) > tr > :is(th, td)[data-cell-border="all"] { border-block: var(--rtq-paper-table-border-medium); border-inline: var(--rtq-paper-table-border-medium); }',
+    ),
   );
 });

@@ -9,6 +9,7 @@ const componentUrl = new URL(
 const layoutUrl = new URL('../app/layout.tsx', import.meta.url);
 const siteHeaderUrl = new URL('../components/site-header.tsx', import.meta.url);
 const cssUrl = new URL('../app/globals.css', import.meta.url);
+const fontsUrl = new URL('../app/fonts.ts', import.meta.url);
 const homeUrl = new URL('../app/page.tsx', import.meta.url);
 const paperIndexUrl = new URL('../components/paper-index.tsx', import.meta.url);
 const browserUrl = new URL(
@@ -867,6 +868,98 @@ test('review Markdown uses the shared Paper component contracts', async () => {
     css,
     /\.rtq-markdown small\[data-paper-small\]\s*{[^}]*font-size:\s*0\.8em[^}]*line-height:\s*1\.5/s,
   );
+});
+
+test('review paper text mirrors the RTQ web voices, type and rhythm', async () => {
+  const [fonts, layout, css] = await Promise.all([
+    fs.readFile(fontsUrl, 'utf8'),
+    fs.readFile(layoutUrl, 'utf8'),
+    fs.readFile(cssUrl, 'utf8'),
+  ]);
+  const rule = (selector: string) => {
+    const start = css.indexOf(`${selector} {`);
+    assert.notEqual(start, -1, `missing rule ${selector}`);
+    return css.slice(start, css.indexOf('}', start));
+  };
+  const blocks =
+    ':where(\n    p:not(:has(> .katex-display:only-child)),\n    ul,\n    ol,\n';
+
+  assert.match(fonts, /Besley\(\{[^}]*variable: '--font-besley'/s);
+  assert.match(
+    fonts,
+    /Source_Sans_3\(\{[^}]*variable: '--font-source-sans-3'/s,
+  );
+  assert.match(layout, /className=\{paperFontVariableClassName\}/);
+  assert.match(css, /--rtq-font-title: var\(--font-besley,/);
+  assert.match(css, /--rtq-font-body: var\(\s*--font-source-sans-3,/);
+
+  const md = rule('.rtq-markdown[data-variant]');
+  assert.match(md, /--rtq-paper-rich-text-font-family: var\(--rtq-font-body\)/);
+  assert.match(md, /--rtq-paper-rich-text-font-size: 1rem;/);
+  assert.match(md, /--rtq-paper-rich-text-line-height: 1\.75rem;/);
+  assert.match(md, /--rtq-paper-rich-text-block-space: 1\.25rem;/);
+  assert.match(md, /--rtq-paper-rich-text-list-item-space: 0\.5rem;/);
+  assert.match(md, /--rtq-paper-rich-text-table-space: 1\.75rem;/);
+  assert.match(md, /--rtq-paper-rich-text-image-space: 2rem;/);
+  assert.match(md, /font-size: var\(--rtq-paper-rich-text-font-size\)/);
+  assert.match(md, /line-height: var\(--rtq-paper-rich-text-line-height\)/);
+
+  const lg = rule(
+    ".rtq-markdown:is(\n  [data-variant='question'],\n  [data-variant='answer'],\n  [data-variant='default']\n)",
+  );
+  assert.match(lg, /--rtq-paper-rich-text-font-size: 1\.0625rem;/);
+  assert.match(lg, /--rtq-paper-rich-text-line-height: 1\.875rem;/);
+  assert.match(lg, /--rtq-paper-rich-text-block-space: 1\.5rem;/);
+  assert.match(lg, /--rtq-paper-rich-text-list-item-space: 0\.75rem;/);
+  assert.match(lg, /--rtq-paper-rich-text-table-space: 2rem;/);
+  assert.match(
+    rule(".rtq-markdown[data-variant='question']"),
+    /--rtq-paper-rich-text-font-family: var\(--rtq-font-title\)/,
+  );
+  const answer = rule(".rtq-markdown[data-variant='answer']");
+  assert.match(
+    answer,
+    /--rtq-paper-rich-text-font-family: var\(--rtq-font-title\)/,
+  );
+  assert.match(answer, /--rtq-paper-rich-text-font-size: 1\.25rem;/);
+  assert.match(answer, /--rtq-paper-rich-text-font-weight: 600;/);
+  assert.match(answer, /--rtq-paper-rich-text-line-height: 1\.5;/);
+
+  assert.match(
+    rule('.rtq-markdown[data-variant] :where(p, ul, ol, li, h1, h2, h3, h4)'),
+    /margin-block: 0;/,
+  );
+  assert.match(
+    css,
+    /\.rtq-markdown\[data-variant\]\s*:is\(\s*\.rtq-paper-image,\s*\.visual-paper-image,\s*\.rtq-placeholder,\s*\.paper-author-note\s*\)\s*{\s*margin-block: 0;/,
+  );
+  assert.ok(
+    css.includes(
+      `.rtq-markdown[data-variant]\n  ${blocks}    li,\n    h1,\n    h2,\n    h3,\n    .rtq-paper-table,\n    .paper-author-note\n  )\n  + ${blocks}    li,`,
+    ),
+    'missing block sibling rule',
+  );
+  assert.match(
+    css,
+    /\+ :where\(\.rtq-paper-table\) {\s*margin-block-start: var\(--rtq-paper-rich-text-table-space\);/,
+  );
+  assert.match(
+    css,
+    /:where\(\.rtq-paper-table\)\s*\+ :where\(\s*p:not\(:has\(> \.katex-display:only-child\)\),/,
+  );
+  assert.match(
+    css,
+    /\+ :where\(\s*p:has\(> :is\(\.rtq-paper-image, \.visual-paper-image, \.rtq-placeholder\)\)\s*\) {\s*margin-block-start: var\(--rtq-paper-rich-text-image-space\);/,
+  );
+  assert.match(
+    css,
+    /:where\(p:has\(> :is\(\.rtq-paper-image, \.visual-paper-image, \.rtq-placeholder\)\)\)\s*\+ :where\(/,
+  );
+  assert.match(
+    rule('.rtq-markdown[data-variant] :where(li) + :where(li)'),
+    /margin-block-start: var\(--rtq-paper-rich-text-list-item-space\);/,
+  );
+  assert.doesNotMatch(css, /\.solution-block \.rtq-markdown\s*{[^}]*font-size/);
 });
 
 test('corpus search is bounded, URL-backed, and reuses the complete review surface', async () => {

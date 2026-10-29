@@ -9,6 +9,8 @@
   --rtq-paper-table-stroke-width: 1px;
   --rtq-paper-table-label-max-width: 13em;
   --rtq-paper-table-stroke-width-answer: 3px;
+  /* rowHeaderWeight="strong" maps here, as on the web. */
+  --rtq-paper-table-label-weight-strong: 600;
 
   max-width: 100%;
   overflow-x: auto;
@@ -36,8 +38,13 @@
   table-layout: auto;
 }
 
-/* Answer tables are read in the working voice: regular weight. */
+/*
+ * Answer tables are read in the working voice, as on the web: sans, regular
+ * weight, at the working size of the normal view (the answer itself is lg).
+ */
 :where([data-variant="answer"]) .rtq-paper-table.rtq-paper-table table {
+  font-family: var(--rtq-font-body, ui-sans-serif, system-ui, sans-serif);
+  font-size: 1rem;
   font-weight: normal;
 }
 
@@ -81,6 +88,12 @@
   text-align: start;
 }
 
+.rtq-paper-table.rtq-paper-table[data-row-header-weight="strong"]
+  tbody
+  :where(th[scope="row"]) {
+  font-weight: var(--rtq-paper-table-label-weight-strong);
+}
+
 .rtq-paper-table[data-cell-align-authored][data-cell-align="center"]
   :where(th, td) {
   text-align: center;
@@ -110,6 +123,26 @@
   tr
   > :where(th, td):first-child {
   padding-inline-start: 0;
+}
+
+/* columnWidths="equal": rehypePaperTable writes one col per column and the
+ * column count. The table stays auto-layout, so it is as wide as the widest
+ * column times the count (or the full width), and every column takes an
+ * equal share. */
+.rtq-paper-table[data-column-widths="equal"] col {
+  width: calc(100% / var(--rtq-paper-table-column-count));
+}
+
+/* An empty cell keeps one line of height, so a blank answer row is as tall
+ * as a written one without phantom content. Hidden text is out of flow, so a
+ * cell holding only hidden text counts as empty. */
+.rtq-paper-table
+  :where(th, td):where(
+    :empty,
+    :has(> [data-paper-table-hidden-text]:only-child)
+  )::after {
+  content: "\200b";
+  content: "\200b" / "";
 }
 
 .rtq-paper-table [data-paper-table-cell-label] {

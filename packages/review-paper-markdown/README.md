@@ -99,8 +99,8 @@ content rather than leaving an unsupported MDX node for ReactMarkdown.
 
 `PaperTable` wraps exactly one GFM pipe table. The shared transform implements
 the RTQ web contract for `align`, `blankCorner`, `cellAlign`, `columnHeaders`,
-`density`, `firstColumnStartPadding`, `grid`, `indent`, `rowHeaders`, and
-`width`. Values are exact, case-sensitive static strings; unsupported,
+`columnWidths`, `density`, `firstColumnStartPadding`, `grid`, `indent`, `rowHeaderWeight`,
+`rowHeaders`, `totals` and `width`. Values are exact, case-sensitive static strings; unsupported,
 duplicate, expression-valued, or structurally invalid authoring is rejected.
 
 `remarkPaperTable` validates and transfers presentation metadata to the GFM
@@ -119,6 +119,26 @@ inside a `question` and `horizontal` everywhere else. Applications that render
 paper fields mark each field's voice with `data-variant`, and may define the
 `--rtq-paper-table-stroke-ink`, `-stroke-medium` and `-stroke-soft` colours;
 otherwise the rules fall back to the app's `--line`/`--rule` tokens.
+
+Row labels are regular weight by default. `rowHeaderWeight="strong"` makes them
+semibold through `--rtq-paper-table-label-weight-strong`; it names intent, not a
+font weight, and requires `rowHeaders="first-column"` (or authored
+`scope="row"` cells on a structured root), because otherwise there are no row
+labels to weigh. Only `strong` is emitted on the wrapper as
+`data-row-header-weight`.
+
+`columnWidths` is `content` (the default: each column as wide as its content)
+or `equal`, for grids and number rows read as a set. For `equal`,
+`rehypePaperTable` inserts a `<colgroup data-slot="paper-table-columns">` with
+one `col` per column (the widest row, counting `colSpan`) after any caption,
+sets `--rtq-paper-table-column-count` on the table and `data-column-widths` on
+the wrapper; `paper-table.css` gives each `col` an equal share. The table stays
+auto-layout, so `fit` stays fit and `full` shares the full width equally. In
+v1, `equal` is rejected with `rowHeaders="first-column"` or a structured
+`scope="row"` header cell, because a label column cannot keep its own width.
+
+Empty cells keep one line of height through a zero-width `::after`, so a blank
+answer row needs no phantom content: write an empty cell.
 
 ## PaperViewStructuredTable
 
@@ -147,7 +167,9 @@ Use `\rtqMathsCellLabelNumber{number}` for a muted numeric cell label.
 Both table paths pass through `rehypePaperTable`, which adds one
 `.rtq-paper-table` presentation wrapper. Applications import the shared
 essential presentation contract. It also gives adjacent table wrappers the
-same default relationship spacing used by production paper rich text:
+same default relationship spacing used by production paper rich text.
+Applications that port the full production rhythm (as review-content-web does
+in `globals.css`) cover this pair in their own sibling rules:
 
 ```css
 @import "@rtq/review-paper-markdown/paper-table.css";

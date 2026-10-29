@@ -5,6 +5,14 @@
 
 :root {
   color-scheme: light;
+  /* The RTQ web faces and fallbacks (rtq-theme.css), loaded in fonts.ts. */
+  --rtq-font-title: var(--font-besley, Georgia, 'Times New Roman', serif);
+  --rtq-font-body: var(
+    --font-source-sans-3,
+    ui-sans-serif,
+    system-ui,
+    sans-serif
+  );
   --paper: #f5f6f7;
   --paper-bright: #ffffff;
   --paper-deep: #e9ecef;
@@ -3628,6 +3636,213 @@ a.paper-row:hover {
   margin-bottom: 0;
 }
 
+/*
+ * Paper text rhythm and type mirror RTQ web: rtq-web apps/web/src/components/
+ * app/papers/paper-view-section/paper-view-rich-text/paper-view-rich-text.module.css.
+ * Each paper field (data-variant) reads in its production voice at its
+ * normal-view size (paper-content-density.utils.ts): question, answer and key
+ * are lg, working, formulas and tips are md. Blocks are spaced only by the
+ * sibling rules below, as on the web; port production changes here.
+ * Unvoiced Markdown (macro previews) keeps the review type above.
+ */
+.rtq-markdown[data-variant] {
+  --rtq-paper-rich-text-font-family: var(--rtq-font-body);
+  --rtq-paper-rich-text-font-size: 1rem;
+  --rtq-paper-rich-text-line-height: 1.75rem;
+  --rtq-paper-rich-text-font-weight: 400;
+  --rtq-paper-rich-text-block-space: 1.25rem;
+  --rtq-paper-rich-text-list-item-space: 0.5rem;
+  --rtq-paper-rich-text-table-space: 1.75rem;
+  --rtq-paper-rich-text-image-space: 2rem;
+
+  font-family: var(--rtq-paper-rich-text-font-family);
+  font-size: var(--rtq-paper-rich-text-font-size);
+  font-weight: var(--rtq-paper-rich-text-font-weight);
+  letter-spacing: normal;
+  line-height: var(--rtq-paper-rich-text-line-height);
+}
+
+.rtq-markdown:is(
+  [data-variant='question'],
+  [data-variant='answer'],
+  [data-variant='default']
+) {
+  --rtq-paper-rich-text-font-size: 1.0625rem;
+  --rtq-paper-rich-text-line-height: 1.875rem;
+  --rtq-paper-rich-text-block-space: 1.5rem;
+  --rtq-paper-rich-text-list-item-space: 0.75rem;
+  --rtq-paper-rich-text-table-space: 2rem;
+  --rtq-paper-rich-text-image-space: 2rem;
+}
+
+.rtq-markdown[data-variant='question'] {
+  --rtq-paper-rich-text-font-family: var(--rtq-font-title);
+}
+
+.rtq-markdown[data-variant='answer'] {
+  --rtq-paper-rich-text-font-family: var(--rtq-font-title);
+  --rtq-paper-rich-text-font-size: 1.25rem;
+  --rtq-paper-rich-text-font-weight: 600;
+  --rtq-paper-rich-text-line-height: 1.5;
+}
+
+.rtq-markdown[data-variant] :where(strong) {
+  font-weight: 600;
+}
+
+.rtq-markdown[data-variant] :where(h1, h2, h3) {
+  font-family: var(--rtq-font-body);
+  font-weight: 600;
+  letter-spacing: -0.025em;
+  line-height: 1.375;
+}
+
+.rtq-markdown[data-variant] :where(h1) {
+  font-size: 1.25rem;
+}
+
+.rtq-markdown[data-variant] :where(h2) {
+  font-size: 1.125rem;
+}
+
+.rtq-markdown[data-variant] :where(h3) {
+  font-size: 0.875rem;
+  font-weight: 500;
+  letter-spacing: normal;
+  line-height: 1.5rem;
+}
+
+@media (width >= 40rem) {
+  .rtq-markdown[data-variant] :where(h1) {
+    font-size: 1.5rem;
+  }
+
+  .rtq-markdown[data-variant] :where(h2) {
+    font-size: 1.25rem;
+  }
+}
+
+/* Review-only chrome inside paper text keeps the review type. */
+.rtq-markdown[data-variant]
+  :where(
+    .rtq-paper-image-tags,
+    .rtq-paper-image-format,
+    .visual-paper-image-empty,
+    .paper-author-note
+  ) {
+  font-family: Charter, 'Iowan Old Style', Georgia, serif;
+  font-size: clamp(1rem, 1.45vw, 1.22rem);
+  font-weight: 400;
+  line-height: 1.65;
+}
+
+/* Only the sibling rules space paper blocks: no browser-default margins. */
+.rtq-markdown[data-variant] :where(p, ul, ol, li, h1, h2, h3, h4) {
+  margin-block: 0;
+}
+
+/* Outranks the review's own image, placeholder and note margins below. */
+.rtq-markdown[data-variant]
+  :is(
+    .rtq-paper-image,
+    .visual-paper-image,
+    .rtq-placeholder,
+    .paper-author-note
+  ) {
+  margin-block: 0;
+}
+
+/*
+ * Blocks: paragraphs, lists, list items, headings, tables (plain and
+ * structured), paragraphs holding a paper image or diagram, and the review's
+ * author notes. Display maths is left out, as on the web.
+ */
+.rtq-markdown[data-variant]
+  :where(
+    p:not(:has(> .katex-display:only-child)),
+    ul,
+    ol,
+    li,
+    h1,
+    h2,
+    h3,
+    .rtq-paper-table,
+    .paper-author-note
+  )
+  + :where(
+    p:not(:has(> .katex-display:only-child)),
+    ul,
+    ol,
+    li,
+    h1,
+    h2,
+    h3,
+    .rtq-paper-table,
+    .paper-author-note
+  ) {
+  margin-block-start: var(--rtq-paper-rich-text-block-space);
+}
+
+.rtq-markdown[data-variant]
+  :where(.rtq-paper-table)
+  + :where(
+    p:not(:has(> .katex-display:only-child)),
+    ul,
+    ol,
+    h1,
+    h2,
+    h3,
+    .rtq-paper-table,
+    .paper-author-note
+  ),
+.rtq-markdown[data-variant]
+  :where(
+    p:not(:has(> .katex-display:only-child)),
+    ul,
+    ol,
+    h1,
+    h2,
+    h3,
+    .rtq-paper-table,
+    .paper-author-note
+  )
+  + :where(.rtq-paper-table) {
+  margin-block-start: var(--rtq-paper-rich-text-table-space);
+}
+
+.rtq-markdown[data-variant]
+  :where(p:has(> :is(.rtq-paper-image, .visual-paper-image, .rtq-placeholder)))
+  + :where(
+    p:not(:has(> .katex-display:only-child)),
+    ul,
+    ol,
+    h1,
+    h2,
+    h3,
+    .rtq-paper-table,
+    .paper-author-note
+  ),
+.rtq-markdown[data-variant]
+  :where(
+    p:not(:has(> .katex-display:only-child)),
+    ul,
+    ol,
+    h1,
+    h2,
+    h3,
+    .rtq-paper-table,
+    .paper-author-note
+  )
+  + :where(
+    p:has(> :is(.rtq-paper-image, .visual-paper-image, .rtq-placeholder))
+  ) {
+  margin-block-start: var(--rtq-paper-rich-text-image-space);
+}
+
+.rtq-markdown[data-variant] :where(li) + :where(li) {
+  margin-block-start: var(--rtq-paper-rich-text-list-item-space);
+}
+
 .rtq-markdown ul {
   list-style-type: disc;
 }
@@ -4072,10 +4287,6 @@ a.paper-row:hover {
   color: var(--muted);
   display: block;
   margin-bottom: 0.8rem;
-}
-
-.solution-block .rtq-markdown {
-  font-size: 1rem;
 }
 
 .working-content-rows {

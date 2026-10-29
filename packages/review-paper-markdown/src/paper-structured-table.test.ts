@@ -126,6 +126,64 @@ function meaningsTable(
   ].join("\n");
 }
 
+test("carries strong row labels from the structured root", async () => {
+  const labelled = [
+    '<PaperViewStructuredTable aria-label="Labelled" rowHeaderWeight="strong">',
+    "  <PaperViewTableBody>",
+    "    <PaperViewTableRow>",
+    '      <PaperViewTableHeaderCell scope="row">Label</PaperViewTableHeaderCell>',
+    "      <PaperViewTableCell>Value</PaperViewTableCell>",
+    "    </PaperViewTableRow>",
+    "  </PaperViewTableBody>",
+    "</PaperViewStructuredTable>",
+  ].join("\n");
+  const html = await render(labelled);
+
+  assert.match(
+    html,
+    /<div class="rtq-paper-table"[^>]*data-row-header-weight="strong"/,
+  );
+  assert.match(html, /<table aria-label="Labelled">/);
+  assert.doesNotMatch(await render(structuredTable), /data-row-header-weight/);
+});
+
+test("writes equal structured columns from the widest row with colSpan", async () => {
+  const teams = [
+    '<PaperViewStructuredTable aria-label="Teams" columnWidths="equal">',
+    "  <PaperViewTableCaption>Scores</PaperViewTableCaption>",
+    "  <PaperViewTableHead>",
+    "    <PaperViewTableRow>",
+    '      <PaperViewTableHeaderCell colSpan="2" scope="col">Team A</PaperViewTableHeaderCell>',
+    '      <PaperViewTableHeaderCell colSpan="2" scope="col">Team B</PaperViewTableHeaderCell>',
+    "    </PaperViewTableRow>",
+    "  </PaperViewTableHead>",
+    "  <PaperViewTableBody>",
+    "    <PaperViewTableRow>",
+    "      <PaperViewTableCell>1</PaperViewTableCell>",
+    "      <PaperViewTableCell>12</PaperViewTableCell>",
+    "      <PaperViewTableCell />",
+    "      <PaperViewTableCell>4</PaperViewTableCell>",
+    "    </PaperViewTableRow>",
+    "  </PaperViewTableBody>",
+    "</PaperViewStructuredTable>",
+  ].join("\n");
+  const html = await render(teams);
+
+  assert.match(
+    html,
+    /<div class="rtq-paper-table"[^>]*data-column-widths="equal"/,
+  );
+  assert.match(
+    html,
+    /<table aria-label="Teams" style="--rtq-paper-table-column-count: 4">\s*<caption>Scores<\/caption>\s*<colgroup data-slot="paper-table-columns"><col><col><col><col><\/colgroup>\s*<thead>/,
+  );
+  assert.doesNotThrow(() => validatePaperTableMarkdown(teams));
+  assert.doesNotMatch(
+    await render(structuredTable),
+    /data-column-widths|colgroup|column-count/,
+  );
+});
+
 test("renders structured meanings with their words for assistive tech", async () => {
   const html = await render(meaningsTable({ root: 'totals="both"' }));
 
@@ -209,6 +267,22 @@ test("validates structured meanings with the RTQ web build rules", () => {
         bodyRows: [],
       }),
       /PaperViewTableCell mark="answer" must be inside PaperViewTableBody/,
+    ],
+    [
+      meaningsTable({ root: 'columnWidths="fixed"' }),
+      /PaperViewStructuredTable prop "columnWidths" received "fixed"; allowed values: content, equal\./,
+    ],
+    [
+      meaningsTable({
+        bodyRows: [
+          "    <PaperViewTableRow>",
+          '      <PaperViewTableHeaderCell scope="row">Red</PaperViewTableHeaderCell>',
+          "      <PaperViewTableCell>4</PaperViewTableCell>",
+          "    </PaperViewTableRow>",
+        ],
+        root: 'columnWidths="equal"',
+      }),
+      /PaperViewStructuredTable prop "columnWidths" received "equal" with a PaperViewTableHeaderCell scope="row"; equal cannot be combined with row labels in v1/,
     ],
   ];
 

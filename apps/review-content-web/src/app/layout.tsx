@@ -5,6 +5,8 @@ import 'katex/dist/katex.min.css';
 import type { Metadata } from 'next';
 import Script from 'next/script';
 
+import { paperFontVariableClassName } from './fonts';
+
 const themeScript = `
 try {
   var theme = localStorage.getItem('rtq-color-theme:v1');
@@ -29,6 +31,7 @@ export default function RootLayout({
 }>) {
   return (
     <html
+      className={paperFontVariableClassName}
       data-scroll-behavior="smooth"
       data-theme="system"
       lang="en"

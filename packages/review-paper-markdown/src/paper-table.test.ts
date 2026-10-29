@@ -54,12 +54,19 @@ test("uses the exact RTQ web PaperTable values and defaults", () => {
     blankCorner: "ruled",
     cellAlign: "center",
     columnHeaders: "first-row",
+    columnWidths: "content",
     density: "roomy",
     firstColumnStartPadding: "default",
     indent: "none",
+    rowHeaderWeight: "normal",
     rowHeaders: "none",
     width: "fit",
   });
+  assert.deepEqual(PAPER_TABLE_PROP_VALUES.rowHeaderWeight, [
+    "normal",
+    "strong",
+  ]);
+  assert.deepEqual(PAPER_TABLE_PROP_VALUES.columnWidths, ["content", "equal"]);
   assert.deepEqual(PAPER_TABLE_PROP_VALUES.density, [
     "compact",
     "regular",
@@ -82,7 +89,9 @@ test("accepts every canonical PaperTable prop value", () => {
       const blankCornerContext =
         name === "blankCorner" && value === "open"
           ? ' columnHeaders="first-row" rowHeaders="first-column"'
-          : "";
+          : name === "rowHeaderWeight" && value === "strong"
+            ? ' rowHeaders="first-column"'
+            : "";
       const source = tableSource(`${name}="${value}"${blankCornerContext}`, {
         header:
           name === "blankCorner" && value === "open"
@@ -125,6 +134,51 @@ test("applies column, row, and open-corner semantics", async () => {
   assert.match(html, /<th align="right" scope="col">Value<\/th>/);
   assert.match(html, /<th align="left" scope="row">Alpha<\/th>/);
   assert.match(html, /<th align="left" scope="row">Beta<\/th>/);
+});
+
+test("marks strong row labels on the wrapper only when authored", async () => {
+  const strong = await render(
+    tableSource('rowHeaders="first-column" rowHeaderWeight="strong"'),
+  );
+  assert.match(
+    strong,
+    /<div class="rtq-paper-table"[^>]*data-row-header-weight="strong"/,
+  );
+  assert.match(strong, /<th align="left" scope="row">Alpha<\/th>/);
+  assert.doesNotMatch(strong, /<table[^>]*data-row-header-weight/);
+  for (const source of [
+    tableSource('rowHeaders="first-column" rowHeaderWeight="normal"'),
+    tableSource('rowHeaders="first-column"'),
+  ]) {
+    assert.doesNotMatch(await render(source), /data-row-header-weight/);
+  }
+});
+
+test("writes equal columns as a colgroup and the column count", async () => {
+  const html = await render(
+    tableSource('columnHeaders="none" columnWidths="equal"', {
+      header: "| 5 | 4 |",
+      rows: ["| 10 |  |"],
+    }),
+  );
+
+  assert.match(
+    html,
+    /<div class="rtq-paper-table"[^>]*data-column-widths="equal"/,
+  );
+  assert.match(
+    html,
+    /<table style="--rtq-paper-table-column-count: 2">\s*<colgroup data-slot="paper-table-columns"><col><col><\/colgroup>\s*<tbody>/,
+  );
+  assert.match(html, /<td align="right"><\/td>/);
+  for (const source of [
+    tableSource('columnWidths="content"'),
+    tableSource(),
+    "| A | B |\n| - | - |\n| 1 | 2 |",
+  ]) {
+    const plain = await render(source);
+    assert.doesNotMatch(plain, /data-column-widths|colgroup|column-count/);
+  }
 });
 
 test("demotes the GFM header row when columnHeaders is none", async () => {
@@ -193,11 +247,33 @@ test("rejects non-canonical attributes and invalid structures", () => {
     tableSource(
       'blankCorner="open" columnHeaders="first-row" rowHeaders="first-column"',
     ),
+    tableSource('rowHeaderWeight="semibold" rowHeaders="first-column"'),
+    tableSource('columnWidths="fixed"'),
   ];
 
   for (const source of invalidSources) {
     assert.throws(() => validatePaperTableMarkdown(source), /PaperTable/);
   }
+  for (const rowHeaders of ["", 'rowHeaders="none" ']) {
+    assert.throws(
+      () =>
+        validatePaperTableMarkdown(
+          tableSource(`${rowHeaders}rowHeaderWeight="strong"`),
+        ),
+      /PaperTable prop "rowHeaderWeight" received "strong"; strong requires rowHeaders="first-column"/,
+    );
+  }
+  assert.throws(
+    () => validatePaperTableMarkdown(tableSource('columnWidths="fixed"')),
+    /PaperTable prop "columnWidths" received "fixed"; allowed values: content, equal\./,
+  );
+  assert.throws(
+    () =>
+      validatePaperTableMarkdown(
+        tableSource('columnWidths="equal" rowHeaders="first-column"'),
+      ),
+    /PaperTable prop "columnWidths" received "equal" with rowHeaders="first-column"; equal cannot be combined with row labels in v1/,
+  );
 });
 
 test("renders totals on the wrapper only when authored", async () => {
@@ -360,14 +436,27 @@ test("mirrors the RTQ web table rules and voice defaults", () => {
     css,
     /th\[scope="row"\]\) \{[^}]*font-weight: normal;[^}]*max-width: var\(--rtq-paper-table-label-max-width\);/s,
   );
+  assert.match(css, /--rtq-paper-table-label-weight-strong: 600;/);
+  assert.match(
+    css,
+    /\[data-row-header-weight="strong"\]\s*tbody\s*:where\(th\[scope="row"\]\) \{\s*font-weight: var\(--rtq-paper-table-label-weight-strong\);/,
+  );
   assert.match(css, /:has\(tbody th\[scope="row"\]\)/);
+  assert.match(
+    css,
+    /\[data-column-widths="equal"\] col \{\s*width: calc\(100% \/ var\(--rtq-paper-table-column-count\)\);/,
+  );
+  assert.match(
+    css,
+    /:where\(th, td\):where\(\s*:empty,\s*:has\(> \[data-paper-table-hidden-text\]:only-child\)\s*\)::after \{\s*content: "\\200b";\s*content: "\\200b" \/ "";/,
+  );
   assert.match(
     css,
     /\[data-blank-corner="open"\][^{]*\{[^}]*border-block-start: hidden;[^}]*border-inline-start: hidden;/s,
   );
   assert.match(
     css,
-    /:where\(\[data-variant="answer"\]\) \.rtq-paper-table\.rtq-paper-table table \{[^}]*font-weight: normal;/s,
+    /:where\(\[data-variant="answer"\]\) \.rtq-paper-table\.rtq-paper-table table \{\s*font-family: var\(--rtq-font-body, [^;]*\);\s*font-size: 1rem;\s*font-weight: normal;/s,
   );
 });
 

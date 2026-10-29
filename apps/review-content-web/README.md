@@ -143,6 +143,19 @@ checkout; each process maintains its own disposable index-summary cache.
 Dimensional and RAG filtering operates entirely on the already loaded paper in
 the browser and does not read TOML or contact an external state service.
 
+## Paper text type and rhythm
+
+Paper fields read as they do on RTQ web, so review judgements about spacing and
+type carry over. `src/app/fonts.ts` loads Besley and Source Sans 3 as the web
+does, and the voice block in `src/app/globals.css` ports
+`paper-view-rich-text.module.css` from rtq-web
+(`apps/web/src/components/app/papers/paper-view-section/paper-view-rich-text/`):
+per-voice font, size, line height and weight at the normal-view size, and the
+block, table, image and list-item sibling spacing. Port production changes to
+that block. Review chrome (headers, controls, image tags, author notes) keeps
+the review type, and column widths follow the review layout, so line wrapping
+can differ from the web.
+
 ## Corpus search
 
 Open `/search`, or select **All questions** in the landing-page rail, to search

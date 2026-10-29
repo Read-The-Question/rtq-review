@@ -167,7 +167,9 @@ test('uses the shared table rules and the RTQ web table colours in both themes',
   ) as { themes: Record<'light' | 'dark', Record<string, string>> };
 
   assert.match(css, /@import '@rtq\/review-paper-markdown\/paper-table\.css'/);
-  assert.doesNotMatch(css, /\.rtq-paper-table/);
+  // Table presentation stays in the shared package; the app names table
+  // wrappers only as blocks in its paper rhythm sibling selectors.
+  assert.doesNotMatch(css, /\.rtq-paper-table[^,{)]*{/);
   for (const role of [
     'stroke-ink',
     'stroke-strong',

@@ -17,7 +17,15 @@ export const PAPER_TABLE_CELL_ALIGNS = ["center", "left", "right"] as const;
 export const PAPER_TABLE_WIDTHS = ["fit", "full"] as const;
 export const PAPER_TABLE_ALIGNS = ["start", "center", "end"] as const;
 export const PAPER_TABLE_COLUMN_HEADERS = ["first-row", "none"] as const;
+/**
+ * content: each column is as wide as its content (the browser's auto layout).
+ * equal: every column takes the widest column's width, for grids and number
+ * rows whose columns are read as a set.
+ */
+export const PAPER_TABLE_COLUMN_WIDTHS = ["content", "equal"] as const;
 export const PAPER_TABLE_ROW_HEADERS = ["none", "first-column"] as const;
+/** Intent, not a font weight: strong maps to semibold in paper-table.css. */
+export const PAPER_TABLE_ROW_HEADER_WEIGHTS = ["normal", "strong"] as const;
 export const PAPER_TABLE_BLANK_CORNERS = ["ruled", "open"] as const;
 export const PAPER_TABLE_FIRST_COLUMN_START_PADDINGS = [
   "default",
@@ -31,10 +39,12 @@ export const PAPER_TABLE_PROP_VALUES = {
   blankCorner: PAPER_TABLE_BLANK_CORNERS,
   cellAlign: PAPER_TABLE_CELL_ALIGNS,
   columnHeaders: PAPER_TABLE_COLUMN_HEADERS,
+  columnWidths: PAPER_TABLE_COLUMN_WIDTHS,
   density: PAPER_TABLE_DENSITIES,
   firstColumnStartPadding: PAPER_TABLE_FIRST_COLUMN_START_PADDINGS,
   grid: PAPER_TABLE_GRIDS,
   indent: PAPER_TABLE_INDENTS,
+  rowHeaderWeight: PAPER_TABLE_ROW_HEADER_WEIGHTS,
   rowHeaders: PAPER_TABLE_ROW_HEADERS,
   totals: PAPER_TABLE_TOTALS,
   width: PAPER_TABLE_WIDTHS,
@@ -68,9 +78,11 @@ export const PAPER_TABLE_DEFAULTS = {
   blankCorner: "ruled",
   cellAlign: "center",
   columnHeaders: "first-row",
+  columnWidths: "content",
   density: "roomy",
   firstColumnStartPadding: "default",
   indent: "none",
+  rowHeaderWeight: "normal",
   rowHeaders: "none",
   width: "fit",
 } as const satisfies {
@@ -444,6 +456,40 @@ function validateBlankCorner(
   }
 }
 
+function validateRowHeaderWeight(
+  config: PaperTableConfig,
+  attributes: readonly PaperTableAttribute[],
+  owner: AstNode,
+): void {
+  if (
+    config.rowHeaderWeight !== "strong" ||
+    config.rowHeaders === "first-column"
+  ) {
+    return;
+  }
+  throwPaperTableError(
+    'PaperTable prop "rowHeaderWeight" received "strong"; strong requires rowHeaders="first-column", because there are no row labels to weigh.',
+    attributes.find(({ name }) => name === "rowHeaderWeight")?.node ?? owner,
+  );
+}
+
+export const PAPER_TABLE_EQUAL_COLUMN_WIDTHS_ROW_LABEL_LIMIT =
+  'equal cannot be combined with row labels in v1: every column takes an equal share of the table, so a label column cannot keep its own width. Use columnWidths="content" for tables with row labels.';
+
+function validateColumnWidths(
+  config: PaperTableConfig,
+  attributes: readonly PaperTableAttribute[],
+  owner: AstNode,
+): void {
+  if (config.columnWidths !== "equal" || config.rowHeaders !== "first-column") {
+    return;
+  }
+  throwPaperTableError(
+    `PaperTable prop "columnWidths" received "equal" with rowHeaders="first-column"; ${PAPER_TABLE_EQUAL_COLUMN_WIDTHS_ROW_LABEL_LIMIT}`,
+    attributes.find(({ name }) => name === "columnWidths")?.node ?? owner,
+  );
+}
+
 function getMdastBodyRows(
   table: AstNode,
   columnHeaders: PaperTableConfig["columnHeaders"],
@@ -531,6 +577,8 @@ function configurePaperTable(node: AstNode): AstNode {
   const config = resolvePaperTableConfig(attributes);
   const table = getOnlyDirectTable(node);
   validateBlankCorner(table, config, attributes, node);
+  validateRowHeaderWeight(config, attributes, node);
+  validateColumnWidths(config, attributes, node);
   validateTotals(table, config, attributes, node);
   const answer = validateAnswerMark(table, config, answers);
 
@@ -554,11 +602,13 @@ function configurePaperTable(node: AstNode): AstNode {
         ? { "data-cell-align-authored": "" }
         : {}),
       "data-column-headers": config.columnHeaders,
+      "data-column-widths": config.columnWidths,
       "data-density": config.density,
       "data-first-column-start-padding": config.firstColumnStartPadding,
       ...(config.grid === undefined ? {} : { "data-grid": config.grid }),
       "data-indent": config.indent,
       "data-paper-table": "",
+      "data-row-header-weight": config.rowHeaderWeight,
       "data-row-headers": config.rowHeaders,
       ...(config.totals === undefined ? {} : { "data-totals": config.totals }),
       "data-width": config.width,
@@ -787,6 +837,61 @@ function addMeaningHiddenText(table: AstNode): void {
   }
 }
 
+function getRowColumnCount(row: AstNode): number {
+  return getRowCells(row).reduce((count, cell) => {
+    const span = Number(getProperties(cell).colSpan ?? 1);
+    return count + (Number.isInteger(span) && span > 0 ? span : 1);
+  }, 0);
+}
+
+/** The widest row's cell count, with colSpan, across the table's sections. */
+function countHastTableColumns(node: AstNode): number {
+  let count = 0;
+  for (const child of node.children ?? []) {
+    if (!isAstNode(child) || isElement(child, "caption")) continue;
+    count = Math.max(
+      count,
+      isElement(child, "tr")
+        ? getRowColumnCount(child)
+        : countHastTableColumns(child),
+    );
+  }
+  return count;
+}
+
+/**
+ * columnWidths="equal" gives every column the same share of the table, as
+ * the RTQ web runtime does: one col per column after any caption, and the
+ * count on the table for paper-table.css. The table stays auto-layout, so fit
+ * stays fit and full shares the full width equally.
+ */
+function applyEqualColumns(table: AstNode, columnCount: number): void {
+  const children = table.children ?? [];
+  const firstContent = children.findIndex(
+    (child) => isElement(child) && !isElement(child, "caption"),
+  );
+  children.splice(firstContent === -1 ? children.length : firstContent, 0, {
+    children: Array.from({ length: columnCount }, () => ({
+      children: [],
+      properties: {},
+      tagName: "col",
+      type: "element",
+    })),
+    properties: { dataSlot: "paper-table-columns" },
+    tagName: "colgroup",
+    type: "element",
+  });
+  table.children = children;
+  const properties = getProperties(table);
+  const style =
+    typeof properties.style === "string"
+      ? properties.style.trim().replace(/;$/, "")
+      : "";
+  properties.style = [style, `--rtq-paper-table-column-count: ${columnCount}`]
+    .filter(Boolean)
+    .join("; ");
+}
+
 function prepareHastTable(table: AstNode): AstNode {
   const configured = hasDataProperty(table, "paper-table");
   const structured = hasDataProperty(table, "paper-structured-table");
@@ -818,6 +923,9 @@ function prepareHastTable(table: AstNode): AstNode {
     applyAnswerMark(table);
   }
   addMeaningHiddenText(table);
+  const equalColumnCount =
+    renderConfig.columnWidths === "equal" ? countHastTableColumns(table) : 0;
+  if (equalColumnCount > 0) applyEqualColumns(table, equalColumnCount);
 
   for (const name of [
     "align",
@@ -829,12 +937,14 @@ function prepareHastTable(table: AstNode): AstNode {
     "cell-align",
     "cell-align-authored",
     "column-headers",
+    "column-widths",
     "density",
     "first-column-start-padding",
     "grid",
     "indent",
     "paper-table",
     "paper-structured-table",
+    "row-header-weight",
     "row-headers",
     "totals",
     "width",
@@ -858,6 +968,7 @@ function prepareHastTable(table: AstNode): AstNode {
         : {}),
       dataCellAlign: renderConfig.cellAlign,
       ...(cellAlignAuthored ? { dataCellAlignAuthored: "" } : {}),
+      ...(equalColumnCount > 0 ? { dataColumnWidths: "equal" } : {}),
       dataDensity: renderConfig.density,
       dataFirstColumnStartPadding: renderConfig.firstColumnStartPadding,
       ...(renderConfig.grid === undefined
@@ -865,6 +976,9 @@ function prepareHastTable(table: AstNode): AstNode {
         : { dataGrid: renderConfig.grid }),
       dataIndent: renderConfig.indent,
       ...(configured || structured ? { dataPaperTable: "" } : {}),
+      ...(renderConfig.rowHeaderWeight === "strong"
+        ? { dataRowHeaderWeight: "strong" }
+        : {}),
       ...(renderConfig.totals === undefined
         ? {}
         : { dataTotals: renderConfig.totals }),

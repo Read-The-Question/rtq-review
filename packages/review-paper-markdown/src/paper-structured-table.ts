@@ -3,6 +3,7 @@ import type { Plugin } from "unified";
 
 import {
   PAPER_TABLE_DEFAULTS,
+  PAPER_TABLE_EQUAL_COLUMN_WIDTHS_ROW_LABEL_LIMIT,
   PAPER_TABLE_MARKS,
   PAPER_TABLE_PROP_VALUES,
   describePaperTableRetiredValue,
@@ -19,9 +20,9 @@ export const PAPER_STRUCTURED_TABLE_CELL_TONES = [
 
 export type PaperStructuredTableOptions = Readonly<{
   /**
-   * Check the table's meanings (totals, answer marks, cell tones) with the
-   * same rules as the RTQ web build, and throw on the first problem. Layout
-   * props stay unvalidated either way. Rendering leaves this off so an
+   * Check the table's meanings (totals, answer marks, cell tones) and
+   * columnWidths with the same rules as the RTQ web build, and throw on the
+   * first problem. Other layout props stay unvalidated either way. Rendering leaves this off so an
    * invalid table still shows; validation reports it as an issue.
    */
   validateMeanings?: boolean;
@@ -63,10 +64,12 @@ const ROOT_PRESENTATION_PROPS = new Set([
   "borderModel",
   "cellBorder",
   "cellAlign",
+  "columnWidths",
   "density",
   "firstColumnStartPadding",
   "grid",
   "indent",
+  "rowHeaderWeight",
   "totals",
   "width",
 ]);
@@ -203,6 +206,11 @@ function structuredTableProperties(node: MdxElement): NativeProperties {
       PAPER_TABLE_DEFAULTS.cellAlign,
     ),
     ...(cellAlignAuthored ? { dataCellAlignAuthored: "" } : {}),
+    dataColumnWidths: takeProperty(
+      properties,
+      "columnWidths",
+      PAPER_TABLE_DEFAULTS.columnWidths,
+    ),
     dataDensity: takeProperty(
       properties,
       "density",
@@ -218,6 +226,11 @@ function structuredTableProperties(node: MdxElement): NativeProperties {
       : {}),
     dataIndent: takeProperty(properties, "indent", PAPER_TABLE_DEFAULTS.indent),
     dataPaperStructuredTable: "",
+    dataRowHeaderWeight: takeProperty(
+      properties,
+      "rowHeaderWeight",
+      PAPER_TABLE_DEFAULTS.rowHeaderWeight,
+    ),
     ...(Object.hasOwn(properties, "totals")
       ? { dataTotals: takeProperty(properties, "totals", "") }
       : {}),
@@ -445,11 +458,48 @@ function countStructuredColumns(node: Root | Parent): number {
   return columnCount;
 }
 
+function hasStructuredRowHeader(node: Root | Parent): boolean {
+  return structuredChildren(node).some(
+    (child) =>
+      (isNamedMdxElement(child, "PaperViewTableHeaderCell") &&
+        getStaticStringAttribute(
+          child as MdxElement,
+          "PaperViewTableHeaderCell",
+          "scope",
+          ["col", "row"],
+        )?.value === "row") ||
+      ("children" in child && hasStructuredRowHeader(child)),
+  );
+}
+
+function validateStructuredColumnWidths(node: MdxElement, owner: string): void {
+  const columnWidths = getStaticStringAttribute(
+    node,
+    owner,
+    "columnWidths",
+    PAPER_TABLE_PROP_VALUES.columnWidths,
+  );
+  if (!columnWidths) return;
+  if (!isPaperTablePropValue("columnWidths", columnWidths.value)) {
+    throwStructuredTableError(
+      `${owner} prop "columnWidths" received ${JSON.stringify(columnWidths.value)}; allowed values: ${PAPER_TABLE_PROP_VALUES.columnWidths.join(", ")}.`,
+      columnWidths.node,
+    );
+  }
+  if (columnWidths.value === "equal" && hasStructuredRowHeader(node)) {
+    throwStructuredTableError(
+      `${owner} prop "columnWidths" received "equal" with a PaperViewTableHeaderCell scope="row"; ${PAPER_TABLE_EQUAL_COLUMN_WIDTHS_ROW_LABEL_LIMIT}`,
+      columnWidths.node,
+    );
+  }
+}
+
 function validateStructuredTable(node: MdxElement): void {
   const owner = "PaperViewStructuredTable";
   const marks: StructuredMark[] = [];
   const bodyRows: RootContent[] = [];
   collectStructuredMeanings(node, false, marks, bodyRows);
+  validateStructuredColumnWidths(node, owner);
 
   const totals = getStaticStringAttribute(
     node,
@@ -506,8 +556,9 @@ function validateStructuredTables(parent: Root | Parent): void {
  *
  * Layout props get no structure or presentation-value validation: direct
  * composition has the same author-owned validity boundary as ordinary React
- * and HTML table markup. Meanings are checked only when validateMeanings is
- * set, matching the RTQ web build's rules.
+ * and HTML table markup. The exception is columnWidths, whose equal value
+ * has a structural limit. It and the meanings are checked only when
+ * validateMeanings is set, matching the RTQ web build's rules.
  */
 export const remarkPaperStructuredTable: Plugin<
   [PaperStructuredTableOptions?],

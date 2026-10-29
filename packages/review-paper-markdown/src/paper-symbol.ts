@@ -12,6 +12,10 @@ export const PAPER_SYMBOL_NAMES = [
   "computer",
   "lorry",
   "woodlouse",
+  "car",
+  "drink-can",
+  "eiffel-tower",
+  "tree",
   "square",
   "circle",
   "triangle",
@@ -487,7 +491,13 @@ function clubSuitSvg(size: PaperSymbolSize): NativeNode {
 
 type GeometricSymbolName = Extract<
   PaperSymbolName,
-  "diamond" | "smiling-face" | "sun"
+  | "car"
+  | "diamond"
+  | "drink-can"
+  | "eiffel-tower"
+  | "smiling-face"
+  | "sun"
+  | "tree"
 >;
 
 function isOutlineShapeSymbolName(
@@ -541,6 +551,44 @@ function geometricSvg(
   let shapes: NativeNode[];
 
   switch (name) {
+    case "car":
+      shapes = [
+        nativeNode("path", {
+          ...shapeProperties,
+          d: "M19 17h2c.6 0 1-.4 1-1v-3c0-.9-.7-1.7-1.5-1.9C18.7 10.6 16 10 16 10s-1.3-1.4-2.2-2.3c-.5-.4-1.1-.7-1.8-.7H5c-.6 0-1.1.4-1.4.9l-1.4 2.9A3.7 3.7 0 0 0 2 12v4c0 .6.4 1 1 1h2",
+        }),
+        nativeNode("circle", { ...shapeProperties, cx: 7, cy: 17, r: 2 }),
+        nativeNode("path", { ...shapeProperties, d: "M9 17h6" }),
+        nativeNode("circle", { ...shapeProperties, cx: 17, cy: 17, r: 2 }),
+      ];
+      break;
+    case "drink-can":
+      shapes = [
+        "m17 22 1.664-2.496a2 2 0 00.336-1.11V5.606a2 2 0 00-.336-1.11L17 2",
+        "M18 22H6",
+        "M18 2H6",
+        "M5 17h14",
+        "M5 7h14",
+        "m7 22-1.664-2.496A2 2 0 015 18.394V5.606a2 2 0 01.336-1.11L7 2",
+      ].map((d) => nativeNode("path", { ...shapeProperties, d }));
+      break;
+    // Geometry from Tabler Icons `building-eiffel-tower`
+    // (https://github.com/tabler/tabler-icons), MIT License,
+    // Copyright (c) 2020-2026 Paweł Kuna.
+    case "eiffel-tower":
+      shapes = [
+        nativeNode("path", {
+          ...shapeProperties,
+          d: "M11 4c0 4.889-2.292 12.111-5 17m7-17c0 4.889 2.292 12.111 5 17M3 21h18M8 14h8m-7-4h6m-5-6h4m-2-2v1.778M10 21s.27-1.406.667-2c.333-.5.666-1 1.333-1s1 .5 1.333 1c.448.672.667 2 .667 2",
+        }),
+      ];
+      break;
+    case "tree":
+      shapes = [
+        "M8 19a4 4 0 0 1-2.24-7.32A3.5 3.5 0 0 1 9 6.03V6a3 3 0 1 1 6 0v.04a3.5 3.5 0 0 1 3.24 5.65A4 4 0 0 1 16 19Z",
+        "M12 19v3",
+      ].map((d) => nativeNode("path", { ...shapeProperties, d }));
+      break;
     case "diamond":
       shapes = [
         nativeNode("path", {
@@ -761,9 +809,13 @@ function symbolSvg(
       return filledTriangleSvg(size);
     case "black-heart":
       return filledHeartSvg(size);
+    case "car":
     case "diamond":
-    case "sun":
+    case "drink-can":
+    case "eiffel-tower":
     case "smiling-face":
+    case "sun":
+    case "tree":
       return geometricSvg(name, size);
     default:
       return computerSvg(size);

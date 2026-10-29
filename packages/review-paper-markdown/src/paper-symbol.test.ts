@@ -196,6 +196,25 @@ test("keeps the remaining geometric Lucide symbols as outlines", async () => {
   assert.match(html, /<path[^>]*d="M12 2v2"/);
 });
 
+test("renders the car, drink-can, Eiffel Tower and tree pictograms as outlines", async () => {
+  const names = ["car", "drink-can", "eiffel-tower", "tree"];
+  const html = await render(
+    names.map((name) => `<PaperSymbol name="${name}" size="xl" />`).join(" "),
+  );
+
+  for (const name of names) {
+    assert.match(html, new RegExp(`data-paper-symbol-name="${name}"`));
+    assert.match(html, new RegExp(`One full ${name} pictogram symbol`));
+  }
+  assert.equal(html.match(/<svg[^>]*fill="none"/g)?.length, 4);
+  assert.match(html, /height:48px;width:48px/);
+  assert.match(html, /<path[^>]*d="M19 17h2c\.6 0 1-\.4 1-1v-3/);
+  assert.match(html, /<path[^>]*d="M5 17h14"/);
+  assert.match(html, /<path[^>]*d="M11 4c0 4\.889-2\.292 12\.111-5 17m7-17/);
+  assert.match(html, /<path[^>]*d="M8 19a4 4 0 0 1-2\.24-7\.32/);
+  assert.doesNotMatch(html, /<rect[^>]*fill="currentColor"/);
+});
+
 test("renders fixed-footprint four-pane variants with shared edges once", async () => {
   const html = await render(
     [

@@ -181,6 +181,18 @@ test("writes equal columns as a colgroup and the column count", async () => {
   }
 });
 
+test("counts the row-label column in equal widths", async () => {
+  const html = await render(
+    tableSource('columnWidths="equal" rowHeaders="first-column"'),
+  );
+
+  assert.match(
+    html,
+    /<colgroup data-slot="paper-table-columns"><col><col><\/colgroup>/,
+  );
+  assert.match(html, /<th[^>]*scope="row">Alpha<\/th>/);
+});
+
 test("demotes the GFM header row when columnHeaders is none", async () => {
   const html = await render(tableSource('columnHeaders="none"'));
 
@@ -266,13 +278,6 @@ test("rejects non-canonical attributes and invalid structures", () => {
   assert.throws(
     () => validatePaperTableMarkdown(tableSource('columnWidths="fixed"')),
     /PaperTable prop "columnWidths" received "fixed"; allowed values: content, equal\./,
-  );
-  assert.throws(
-    () =>
-      validatePaperTableMarkdown(
-        tableSource('columnWidths="equal" rowHeaders="first-column"'),
-      ),
-    /PaperTable prop "columnWidths" received "equal" with rowHeaders="first-column"; equal cannot be combined with row labels in v1/,
   );
 });
 

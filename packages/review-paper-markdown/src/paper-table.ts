@@ -473,23 +473,6 @@ function validateRowHeaderWeight(
   );
 }
 
-export const PAPER_TABLE_EQUAL_COLUMN_WIDTHS_ROW_LABEL_LIMIT =
-  'equal cannot be combined with row labels in v1: every column takes an equal share of the table, so a label column cannot keep its own width. Use columnWidths="content" for tables with row labels.';
-
-function validateColumnWidths(
-  config: PaperTableConfig,
-  attributes: readonly PaperTableAttribute[],
-  owner: AstNode,
-): void {
-  if (config.columnWidths !== "equal" || config.rowHeaders !== "first-column") {
-    return;
-  }
-  throwPaperTableError(
-    `PaperTable prop "columnWidths" received "equal" with rowHeaders="first-column"; ${PAPER_TABLE_EQUAL_COLUMN_WIDTHS_ROW_LABEL_LIMIT}`,
-    attributes.find(({ name }) => name === "columnWidths")?.node ?? owner,
-  );
-}
-
 function getMdastBodyRows(
   table: AstNode,
   columnHeaders: PaperTableConfig["columnHeaders"],
@@ -578,7 +561,6 @@ function configurePaperTable(node: AstNode): AstNode {
   const table = getOnlyDirectTable(node);
   validateBlankCorner(table, config, attributes, node);
   validateRowHeaderWeight(config, attributes, node);
-  validateColumnWidths(config, attributes, node);
   validateTotals(table, config, attributes, node);
   const answer = validateAnswerMark(table, config, answers);
 

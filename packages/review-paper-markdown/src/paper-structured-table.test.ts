@@ -184,6 +184,24 @@ test("writes equal structured columns from the widest row with colSpan", async (
   );
 });
 
+test("counts a structured row-label column in equal widths", async () => {
+  const labelled = meaningsTable({
+    bodyRows: [
+      "    <PaperViewTableRow>",
+      '      <PaperViewTableHeaderCell scope="row">Red</PaperViewTableHeaderCell>',
+      "      <PaperViewTableCell>4</PaperViewTableCell>",
+      "    </PaperViewTableRow>",
+    ],
+    root: 'columnWidths="equal"',
+  });
+
+  assert.doesNotThrow(() => validatePaperTableMarkdown(labelled));
+  assert.match(
+    await render(labelled),
+    /<colgroup data-slot="paper-table-columns"><col><col><\/colgroup>/,
+  );
+});
+
 test("renders structured meanings with their words for assistive tech", async () => {
   const html = await render(meaningsTable({ root: 'totals="both"' }));
 
@@ -272,18 +290,6 @@ test("validates structured meanings with the RTQ web build rules", () => {
       meaningsTable({ root: 'columnWidths="fixed"' }),
       /PaperViewStructuredTable prop "columnWidths" received "fixed"; allowed values: content, equal\./,
     ],
-    [
-      meaningsTable({
-        bodyRows: [
-          "    <PaperViewTableRow>",
-          '      <PaperViewTableHeaderCell scope="row">Red</PaperViewTableHeaderCell>',
-          "      <PaperViewTableCell>4</PaperViewTableCell>",
-          "    </PaperViewTableRow>",
-        ],
-        root: 'columnWidths="equal"',
-      }),
-      /PaperViewStructuredTable prop "columnWidths" received "equal" with a PaperViewTableHeaderCell scope="row"; equal cannot be combined with row labels in v1/,
-    ],
   ];
 
   for (const [source, message] of cases) {
@@ -313,5 +319,27 @@ test("shares adjacent-table rhythm and muted annotation colours", () => {
   assert.match(
     css,
     /:where\(th, td\)\[data-cell-border="all"\][\s\S]*border-inline: var\(--rtq-paper-table-border-medium\);/,
+  );
+});
+
+test("lets cell-owned borders decide the label and totals rules", () => {
+  const css = readFileSync(
+    new URL("./paper-table.css", import.meta.url),
+    "utf8",
+  );
+
+  assert.match(
+    css,
+    /tr\[data-cell-border="none"\]\s*> :where\(th, td\) \{\s*--rtq-paper-table-cell-rule-style: none;/,
+  );
+  assert.match(
+    css,
+    /\[data-border-model="cells"\]\s*tbody\s*> tr\s*> :where\(th\[scope="row"\]\):not\(:last-child\),[\s\S]*?border-inline-end: var\(--rtq-paper-table-stroke-width-firm\)\s*var\(--rtq-paper-table-cell-rule-style, solid\)/,
+  );
+  assert.equal(
+    css.match(
+      /border-(block|inline)-start: var\(--rtq-paper-table-stroke-width-firm\)\s*var\(--rtq-paper-table-cell-rule-style, solid\)/g,
+    )?.length,
+    2,
   );
 });

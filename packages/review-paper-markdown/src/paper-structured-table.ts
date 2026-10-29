@@ -3,7 +3,6 @@ import type { Plugin } from "unified";
 
 import {
   PAPER_TABLE_DEFAULTS,
-  PAPER_TABLE_EQUAL_COLUMN_WIDTHS_ROW_LABEL_LIMIT,
   PAPER_TABLE_MARKS,
   PAPER_TABLE_PROP_VALUES,
   describePaperTableRetiredValue,
@@ -458,20 +457,6 @@ function countStructuredColumns(node: Root | Parent): number {
   return columnCount;
 }
 
-function hasStructuredRowHeader(node: Root | Parent): boolean {
-  return structuredChildren(node).some(
-    (child) =>
-      (isNamedMdxElement(child, "PaperViewTableHeaderCell") &&
-        getStaticStringAttribute(
-          child as MdxElement,
-          "PaperViewTableHeaderCell",
-          "scope",
-          ["col", "row"],
-        )?.value === "row") ||
-      ("children" in child && hasStructuredRowHeader(child)),
-  );
-}
-
 function validateStructuredColumnWidths(node: MdxElement, owner: string): void {
   const columnWidths = getStaticStringAttribute(
     node,
@@ -483,12 +468,6 @@ function validateStructuredColumnWidths(node: MdxElement, owner: string): void {
   if (!isPaperTablePropValue("columnWidths", columnWidths.value)) {
     throwStructuredTableError(
       `${owner} prop "columnWidths" received ${JSON.stringify(columnWidths.value)}; allowed values: ${PAPER_TABLE_PROP_VALUES.columnWidths.join(", ")}.`,
-      columnWidths.node,
-    );
-  }
-  if (columnWidths.value === "equal" && hasStructuredRowHeader(node)) {
-    throwStructuredTableError(
-      `${owner} prop "columnWidths" received "equal" with a PaperViewTableHeaderCell scope="row"; ${PAPER_TABLE_EQUAL_COLUMN_WIDTHS_ROW_LABEL_LIMIT}`,
       columnWidths.node,
     );
   }

@@ -279,12 +279,19 @@
 }
 
 .rtq-paper-table[data-border-model="cells"] :where(th, td) {
+  /*
+   * Whether this cell draws rules. The table < row < cell cellBorder
+   * cascade below sets it, and the label and meaning rules read it, so an
+   * explicit cellBorder="none" wins over them. Unset in the table model.
+   */
+  --rtq-paper-table-cell-rule-style: none;
   border: 0;
 }
 
 .rtq-paper-table[data-border-model="cells"][data-cell-border="all"]
   tr
   > :where(th, td) {
+  --rtq-paper-table-cell-rule-style: solid;
   border-block: var(--rtq-paper-table-border-medium);
   border-inline: var(--rtq-paper-table-border-medium);
 }
@@ -292,6 +299,7 @@
 .rtq-paper-table[data-border-model="cells"]
   tr[data-cell-border="all"]
   > :where(th, td) {
+  --rtq-paper-table-cell-rule-style: solid;
   border-block: var(--rtq-paper-table-border-medium);
   border-inline: var(--rtq-paper-table-border-medium);
 }
@@ -299,12 +307,14 @@
 .rtq-paper-table[data-border-model="cells"]
   tr[data-cell-border="none"]
   > :where(th, td) {
+  --rtq-paper-table-cell-rule-style: none;
   border: 0;
 }
 
 .rtq-paper-table[data-border-model="cells"]
   tr
   > :where(th, td)[data-cell-border="all"] {
+  --rtq-paper-table-cell-rule-style: solid;
   border-block: var(--rtq-paper-table-border-medium);
   border-inline: var(--rtq-paper-table-border-medium);
 }
@@ -312,7 +322,25 @@
 .rtq-paper-table[data-border-model="cells"]
   tr
   > :where(th, td)[data-cell-border="none"] {
+  --rtq-paper-table-cell-rule-style: none;
   border: 0;
+}
+
+/* Row labels draw the firm label rule, as in the framed question grid. */
+.rtq-paper-table[data-border-model="cells"]
+  tbody
+  > tr
+  > :where(th[scope="row"]):not(:last-child),
+.rtq-paper-table[data-border-model="cells"]:has(tbody th[scope="row"])
+  thead
+  > tr
+  > :where(th):first-child:not(:last-child) {
+  border-inline-end: var(--rtq-paper-table-stroke-width-firm)
+    var(--rtq-paper-table-cell-rule-style, solid)
+    var(
+      --rtq-paper-table-stroke-ink,
+      var(--line-strong, var(--rule-strong, currentColor))
+    );
 }
 
 .rtq-paper-table[data-indent="sm"] {
@@ -348,7 +376,8 @@
   tbody
   > tr:last-child:not(:first-child)
   > :where(th, td) {
-  border-block-start: var(--rtq-paper-table-stroke-width-firm) solid
+  border-block-start: var(--rtq-paper-table-stroke-width-firm)
+    var(--rtq-paper-table-cell-rule-style, solid)
     var(
       --rtq-paper-table-stroke-ink,
       var(--line-strong, var(--rule-strong, currentColor))
@@ -358,7 +387,8 @@
 .rtq-paper-table:is([data-totals="column"], [data-totals="both"])
   tr
   > :where(th, td):last-child:not(:first-child) {
-  border-inline-start: var(--rtq-paper-table-stroke-width-firm) solid
+  border-inline-start: var(--rtq-paper-table-stroke-width-firm)
+    var(--rtq-paper-table-cell-rule-style, solid)
     var(
       --rtq-paper-table-stroke-ink,
       var(--line-strong, var(--rule-strong, currentColor))

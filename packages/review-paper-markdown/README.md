@@ -133,9 +133,9 @@ or `equal`, for grids and number rows read as a set. For `equal`,
 one `col` per column (the widest row, counting `colSpan`) after any caption,
 sets `--rtq-paper-table-column-count` on the table and `data-column-widths` on
 the wrapper; `paper-table.css` gives each `col` an equal share. The table stays
-auto-layout, so `fit` stays fit and `full` shares the full width equally. In
-v1, `equal` is rejected with `rowHeaders="first-column"` or a structured
-`scope="row"` header cell, because a label column cannot keep its own width.
+auto-layout, so `fit` stays fit and `full` shares the full width equally. Row
+labels (`rowHeaders="first-column"` or a structured `scope="row"` header cell)
+are counted in the `colgroup` and join the equal share.
 
 Empty cells keep one line of height through a zero-width `::after`, so a blank
 answer row needs no phantom content: write an empty cell.
@@ -157,7 +157,10 @@ The structured root supports `align`, `cellAlign`, `density`,
 opt-in `borderModel="cells"` contract: `cellBorder="all|none"` cascades from
 the root to a row and then to an individual header or data cell. The nearest
 authored value wins, while the default table-owned border model remains
-unchanged. `PaperViewTableCell` supports `tone="default|blocked"`; the retired
+unchanged. In the cells model, row labels draw the firm label rule, and each
+cell's resolved `cellBorder` decides whether the label and totals rules draw on
+it, so an explicit `cellBorder="none"` row or cell stays unruled.
+`PaperViewTableCell` supports `tone="default|blocked"`; the retired
 `tone="muted"` is rejected with an error naming `blocked`.
 `PaperViewTableCellLabel` preserves ordinary Markdown/MDX children, including
 maths and empty-value geometry handled by the application's KaTeX plugins. It

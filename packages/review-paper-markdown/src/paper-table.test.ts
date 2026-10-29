@@ -487,6 +487,18 @@ test("draws the table meanings from the paper-table tokens", () => {
   );
   assert.match(
     css,
+    /\.rtq-paper-table tbody:not\(:first-of-type\) > tr:first-child > :is\(th, td\) \{\s*border-block-start: var\(--rtq-paper-table-stroke-width-firm\)/,
+  );
+  assert.match(
+    css,
+    /\.rtq-paper-table:not\(\[data-border-model="cells"\]\)\s*tbody\s*> tr\s*> :where\(th\[scope="row"\]\):has\(\+ th\[scope="row"\]\) \{\s*border-inline-end: none;/,
+  );
+  assert.match(
+    css,
+    /\.rtq-paper-table\[data-border-model="cells"\]\s*tbody\s*> tr\s*> :where\(th\[scope="row"\]\):has\(\+ th\[scope="row"\]\) \{\s*border-inline-end: var\(--rtq-paper-table-stroke-width\)\s*var\(--rtq-paper-table-cell-rule-style, solid\)/,
+  );
+  assert.match(
+    css,
     /tr\[data-mark="answer"\] > :where\(th, td\),\s*\.rtq-paper-table :where\(th, td\)\[data-mark="answer"\] \{[^}]*background-color: var\(\s*--rtq-paper-table-fill-answer,/,
   );
   assert.match(

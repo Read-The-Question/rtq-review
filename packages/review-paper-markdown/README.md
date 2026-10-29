@@ -169,6 +169,12 @@ header cell or data cell may also set `cellAlign="left|center|right"`; a cell's
 own value wins over its row's, which wins over the root's `cellAlign` and the
 row-label start fallback. With `validateMeanings`, an unknown row or cell
 `cellAlign` is rejected.
+More than one `PaperViewTableBody` makes row groups: each body after the first
+opens with a firm ink rule in every grid mode, as a printed timetable rules off
+its route sections. Consecutive `scope="row"` header cells, such as a station
+and its d/a marker, read as one label column: no rule inside the run and the
+label rule after its last cell; span the head corner over the run with
+`colSpan`.
 `PaperViewTableCell` supports `tone="default|blocked"`; the retired
 `tone="muted"` is rejected with an error naming `blocked`.
 `PaperViewTableCellLabel` preserves ordinary Markdown/MDX children, including

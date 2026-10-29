@@ -328,6 +328,18 @@
 }
 
 /*
+ * A run of row labels, such as a station and its d/a marker, reads as one
+ * label column: no rule inside the run, the label rule after its last cell.
+ * The head corner spans the run with colSpan.
+ */
+.rtq-paper-table:not([data-border-model="cells"])
+  tbody
+  > tr
+  > :where(th[scope="row"]):has(+ th[scope="row"]) {
+  border-inline-end: none;
+}
+
+/*
  * An open corner sits outside the frame, as on the paper. Hidden edges also
  * suppress the table frame there in the collapsing border model, while the
  * header and label rules still meet at the corner.
@@ -423,6 +435,16 @@
     );
 }
 
+/* Inside a run of row labels a cell keeps only its own rule. */
+.rtq-paper-table[data-border-model="cells"]
+  tbody
+  > tr
+  > :where(th[scope="row"]):has(+ th[scope="row"]) {
+  border-inline-end: var(--rtq-paper-table-stroke-width)
+    var(--rtq-paper-table-cell-rule-style, solid)
+    var(--rtq-paper-table-stroke-medium, var(--line, var(--rule, currentColor)));
+}
+
 .rtq-paper-table[data-indent="sm"] {
   padding-inline-start: 0.75rem;
 }
@@ -468,6 +490,20 @@
   tr
   > :where(th, td):last-child:not(:first-child) {
   border-inline-start: var(--rtq-paper-table-stroke-width-firm)
+    var(--rtq-paper-table-cell-rule-style, solid)
+    var(
+      --rtq-paper-table-stroke-ink,
+      var(--line-strong, var(--rule-strong, currentColor))
+    );
+}
+
+/*
+ * Row groups: each body after the first opens with a firm rule, as a
+ * printed timetable rules off its route sections. :is() lets it outrank a
+ * row or cell box, as totals do.
+ */
+.rtq-paper-table tbody:not(:first-of-type) > tr:first-child > :is(th, td) {
+  border-block-start: var(--rtq-paper-table-stroke-width-firm)
     var(--rtq-paper-table-cell-rule-style, solid)
     var(
       --rtq-paper-table-stroke-ink,

@@ -329,7 +329,7 @@ test("shares adjacent-table rhythm and muted annotation colours", () => {
   );
 });
 
-test("lets cell-owned borders decide the label and totals rules", () => {
+test("lets cell-owned borders decide the label, totals and row-group rules", () => {
   const css = readFileSync(
     new URL("./paper-table.css", import.meta.url),
     "utf8",
@@ -347,7 +347,7 @@ test("lets cell-owned borders decide the label and totals rules", () => {
     css.match(
       /border-(block|inline)-start: var\(--rtq-paper-table-stroke-width-firm\)\s*var\(--rtq-paper-table-cell-rule-style, solid\)/g,
     )?.length,
-    2,
+    3,
   );
 });
 

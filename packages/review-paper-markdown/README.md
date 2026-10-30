@@ -186,7 +186,11 @@ its route sections. Consecutive `scope="row"` header cells, such as a station
 and its d/a marker, read as one label column: no rule inside the run and the
 label rule after its last cell; span the head corner over the run with
 `colSpan`.
-`PaperViewTableCell` supports `tone="default|blocked"`; the retired
+`PaperViewTableCell` supports `tone="default|shaded|blocked"` and
+`swatch="black|white|grey|red|orange|yellow|green|blue|purple|pink|brown"`,
+rendered as `data-tone` and `data-swatch`. A swatch keeps its fill in both
+themes and announces its colour name; shaded and blocked cells announce
+"shaded". A cell takes a swatch or a non-default tone, not both. The retired
 `tone="muted"` is rejected with an error naming `blocked`.
 `PaperViewTableCellLabel` preserves ordinary Markdown/MDX children, including
 maths and empty-value geometry handled by the application's KaTeX plugins. It

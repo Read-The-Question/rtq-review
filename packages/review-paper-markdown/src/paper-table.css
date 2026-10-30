@@ -588,6 +588,13 @@
   position: absolute;
 }
 
+.rtq-paper-table td[data-tone="shaded"] {
+  background-color: var(
+    --rtq-paper-table-fill-soft,
+    color-mix(in srgb, currentColor 5%, transparent)
+  );
+}
+
 .rtq-paper-table td[data-tone="blocked"] {
   background-color: var(
     --rtq-paper-table-fill-medium,
@@ -595,7 +602,62 @@
   );
 }
 
-/* Words for assistive tech: "Answer row", "Answer cell", "shaded". */
+/*
+ * A named colour the question calls out. Swatches keep their fill and ink in
+ * both themes so the colour still matches its name; black takes white ink.
+ * Fallbacks are the RTQ diagram swatch values.
+ */
+.rtq-paper-table td[data-swatch] {
+  color: var(--rtq-paper-table-swatch-black, #0a0a0a);
+}
+
+.rtq-paper-table td[data-swatch="black"] {
+  background-color: var(--rtq-paper-table-swatch-black, #0a0a0a);
+  color: var(--rtq-paper-table-swatch-white, #f5f5f5);
+}
+
+.rtq-paper-table td[data-swatch="white"] {
+  background-color: var(--rtq-paper-table-swatch-white, #f5f5f5);
+}
+
+.rtq-paper-table td[data-swatch="grey"] {
+  background-color: var(--rtq-paper-table-swatch-grey, #929292);
+}
+
+.rtq-paper-table td[data-swatch="red"] {
+  background-color: var(--rtq-paper-table-swatch-red, #f53e39);
+}
+
+.rtq-paper-table td[data-swatch="orange"] {
+  background-color: var(--rtq-paper-table-swatch-orange, #e97200);
+}
+
+.rtq-paper-table td[data-swatch="yellow"] {
+  background-color: var(--rtq-paper-table-swatch-yellow, #f7d710);
+}
+
+.rtq-paper-table td[data-swatch="green"] {
+  background-color: var(--rtq-paper-table-swatch-green, #01a943);
+}
+
+.rtq-paper-table td[data-swatch="blue"] {
+  background-color: var(--rtq-paper-table-swatch-blue, #2288f8);
+}
+
+.rtq-paper-table td[data-swatch="purple"] {
+  background-color: var(--rtq-paper-table-swatch-purple, #a661e8);
+}
+
+.rtq-paper-table td[data-swatch="pink"] {
+  background-color: var(--rtq-paper-table-swatch-pink, #f47db9);
+}
+
+.rtq-paper-table td[data-swatch="brown"] {
+  background-color: var(--rtq-paper-table-swatch-brown, #b6744b);
+}
+
+/* Words for assistive tech: "Answer row", "Answer cell", "shaded", or a
+ * swatch's colour name. */
 .rtq-paper-table [data-paper-table-hidden-text] {
   border: 0;
   clip-path: inset(50%);

@@ -239,6 +239,26 @@ test("renders structured meanings with their words for assistive tech", async ()
     cell,
     /<td data-mark="answer" data-tone="blocked"><span data-paper-table-hidden-text="">Answer cell<\/span> <span data-paper-table-hidden-text="">shaded<\/span> 12<\/td>/,
   );
+
+  const fills = await render(
+    meaningsTable({
+      bodyRows: [
+        "    <PaperViewTableRow>",
+        '      <PaperViewTableCell tone="shaded">3</PaperViewTableCell>',
+        '      <PaperViewTableCell mark="answer" swatch="grey">12</PaperViewTableCell>',
+        "    </PaperViewTableRow>",
+      ],
+    }),
+  );
+  assert.match(
+    fills,
+    /<td data-tone="shaded"><span data-paper-table-hidden-text="">shaded<\/span> 3<\/td>/,
+  );
+  assert.match(
+    fills,
+    /<td data-mark="answer" data-swatch="grey" data-tone="default"><span data-paper-table-hidden-text="">Answer cell<\/span> <span data-paper-table-hidden-text="">grey<\/span> 12<\/td>/,
+  );
+  assert.doesNotMatch(fills, / swatch=/);
 });
 
 test("validates structured meanings with the RTQ web build rules", () => {
@@ -248,6 +268,17 @@ test("validates structured meanings with the RTQ web build rules", () => {
   assert.doesNotThrow(() =>
     validatePaperTableMarkdown(structuredTable.replace('tone="blocked"', "")),
   );
+  for (const fill of [
+    'tone="shaded"',
+    'swatch="grey"',
+    'swatch="grey" tone="default"',
+  ]) {
+    assert.doesNotThrow(() =>
+      validatePaperTableMarkdown(
+        structuredTable.replace('tone="blocked"', fill),
+      ),
+    );
+  }
 
   const twoMarks = [
     '    <PaperViewTableRow mark="answer">',
@@ -273,11 +304,19 @@ test("validates structured meanings with the RTQ web build rules", () => {
     ],
     [
       structuredTable.replace('tone="blocked"', 'tone="grey"'),
-      /PaperViewTableCell prop "tone" received "grey"; allowed values: default, blocked\./,
+      /PaperViewTableCell prop "tone" received "grey"; allowed values: default, shaded, blocked\./,
     ],
     [
       structuredTable.replace('tone="blocked"', 'tone="muted"'),
-      /PaperViewTableCell prop "tone" received "muted"; "muted" was renamed to "blocked"; allowed values: default, blocked\./,
+      /PaperViewTableCell prop "tone" received "muted"; "muted" was renamed to "blocked"; allowed values: default, shaded, blocked\./,
+    ],
+    [
+      structuredTable.replace('tone="blocked"', 'swatch="pale-grey"'),
+      /PaperViewTableCell prop "swatch" received "pale-grey"; allowed values: black, white, grey, red, orange, yellow, green, blue, purple, pink, brown\./,
+    ],
+    [
+      structuredTable.replace('tone="blocked"', 'swatch="grey" tone="shaded"'),
+      /PaperViewTableCell takes swatch or tone, not both; both fill the cell\. Use swatch when the question names the colour, otherwise tone\./,
     ],
     [
       meaningsTable({ bodyRows: twoMarks }),

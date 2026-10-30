@@ -43,6 +43,7 @@
   --rtq-paper-table-stroke-strong: #696969;
   --rtq-paper-table-stroke-medium: #8a8a8a;
   --rtq-paper-table-stroke-soft: #b8b8b8;
+  --rtq-paper-table-fill-soft: #e0e0e0;
   --rtq-paper-table-fill-medium: #bebebe;
   --rtq-paper-table-fill-answer: color-mix(
     in oklab,
@@ -113,6 +114,7 @@
   --rtq-paper-table-stroke-strong: #878787;
   --rtq-paper-table-stroke-medium: #727272;
   --rtq-paper-table-stroke-soft: #444444;
+  --rtq-paper-table-fill-soft: #3a3a3a;
   --rtq-paper-table-fill-medium: #484848;
   --rtq-paper-table-fill-answer: color-mix(
     in oklab,
@@ -181,6 +183,7 @@
     --rtq-paper-table-stroke-strong: #878787;
     --rtq-paper-table-stroke-medium: #727272;
     --rtq-paper-table-stroke-soft: #444444;
+    --rtq-paper-table-fill-soft: #3a3a3a;
     --rtq-paper-table-fill-medium: #484848;
     --rtq-paper-table-fill-answer: color-mix(
       in oklab,

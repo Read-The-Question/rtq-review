@@ -189,6 +189,7 @@ export const PAPER_TABLE_HIDDEN_TEXT = {
   answerCell: "Answer cell",
   answerRow: "Answer row",
   blocked: "shaded",
+  shaded: "shaded",
 } as const;
 
 const SUPPORTED_PROP_NAMES = [
@@ -828,7 +829,9 @@ function prependHiddenText(cell: AstNode, text: string): void {
 
 /**
  * Words for each meaning, in the order the web components render them:
- * "Answer cell", then "shaded", then the row's "Answer row", then content.
+ * "Answer cell", then the fill ("shaded" or the swatch's colour name), then
+ * the row's "Answer row", then content. Each word is prepended, so the
+ * calls run in reverse.
  */
 function addMeaningHiddenText(table: AstNode): void {
   for (const row of getOwnRows(table)) {
@@ -837,8 +840,12 @@ function addMeaningHiddenText(table: AstNode): void {
       prependHiddenText(cells[0], PAPER_TABLE_HIDDEN_TEXT.answerRow);
     }
     for (const cell of cells) {
-      if (getDataProperty(cell, "tone") === "blocked") {
-        prependHiddenText(cell, PAPER_TABLE_HIDDEN_TEXT.blocked);
+      const tone = getDataProperty(cell, "tone");
+      const swatch = getDataProperty(cell, "swatch");
+      if (tone === "shaded" || tone === "blocked") {
+        prependHiddenText(cell, PAPER_TABLE_HIDDEN_TEXT[tone]);
+      } else if (typeof swatch === "string" && swatch) {
+        prependHiddenText(cell, swatch);
       }
       if (getDataProperty(cell, "mark") === "answer") {
         prependHiddenText(cell, PAPER_TABLE_HIDDEN_TEXT.answerCell);

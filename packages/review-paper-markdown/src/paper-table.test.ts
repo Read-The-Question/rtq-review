@@ -577,6 +577,23 @@ test("draws the table meanings from the paper-table tokens", () => {
     css,
     /td\[data-tone="blocked"\] \{[^}]*background-color: var\(\s*--rtq-paper-table-fill-medium,/,
   );
+  assert.match(
+    css,
+    /td\[data-tone="shaded"\] \{[^}]*background-color: var\(\s*--rtq-paper-table-fill-soft,/,
+  );
+  // Swatches keep a fixed ink so the named colour reads the same in both themes.
+  assert.match(
+    css,
+    /td\[data-swatch\] \{\s*color: var\(--rtq-paper-table-swatch-black, #0a0a0a\);/,
+  );
+  assert.match(
+    css,
+    /td\[data-swatch="black"\] \{\s*background-color: var\(--rtq-paper-table-swatch-black, #0a0a0a\);\s*color: var\(--rtq-paper-table-swatch-white, #f5f5f5\);/,
+  );
+  assert.match(
+    css,
+    /td\[data-swatch="grey"\] \{\s*background-color: var\(--rtq-paper-table-swatch-grey, #929292\);/,
+  );
   assert.doesNotMatch(css, /data-tone="muted"|muted-surface/);
   assert.match(
     css,

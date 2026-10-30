@@ -175,6 +175,7 @@ test('uses the shared table rules and the RTQ web table colours in both themes',
     'stroke-strong',
     'stroke-medium',
     'stroke-soft',
+    'fill-soft',
     'fill-medium',
   ]) {
     const light = themes.light[`--color-paper-table-${role}`];
@@ -211,6 +212,27 @@ test('uses the shared table rules and the RTQ web table colours in both themes',
     )?.length,
     3,
   );
+
+  // Swatches are the same in both themes, so the shared package's fallbacks
+  // carry them; they must match the RTQ web values.
+  const packageCss = readFileSync(
+    new URL(import.meta.resolve('@rtq/review-paper-markdown/paper-table.css')),
+    'utf8',
+  );
+  const swatches = Object.keys(themes.light).filter((token) =>
+    token.startsWith('--color-paper-table-swatch-'),
+  );
+  assert.equal(swatches.length, 11);
+  for (const token of swatches) {
+    const swatch = token.slice('--color-paper-table-swatch-'.length);
+    assert.equal(themes.light[token], themes.dark[token]);
+    assert.ok(
+      packageCss.includes(
+        `var(--rtq-paper-table-swatch-${swatch}, ${themes.light[token]})`,
+      ),
+      `${swatch} swatch fallback differs from the RTQ web snapshot ${themes.light[token]}`,
+    );
+  }
 });
 
 test('every content field marks its voice as production does', () => {

@@ -11,15 +11,38 @@ import {
   isPaperTablePropValue,
 } from "./paper-table.ts";
 
-/** Structured-table cell meanings (04 §5). */
+/**
+ * Structured-table cell meanings (04 §5). The question's words decide the
+ * fill: "shaded" (or no word) takes tone="shaded", a solid black-out takes
+ * tone="blocked", and a named colour takes a swatch instead.
+ */
 export const PAPER_STRUCTURED_TABLE_CELL_TONES = [
   "default",
+  "shaded",
   "blocked",
+] as const;
+
+/**
+ * Named colours a cell can take when the question names the colour. They
+ * mirror the RTQ diagram swatches and stay the same in light and dark mode.
+ */
+export const PAPER_STRUCTURED_TABLE_CELL_SWATCHES = [
+  "black",
+  "white",
+  "grey",
+  "red",
+  "orange",
+  "yellow",
+  "green",
+  "blue",
+  "purple",
+  "pink",
+  "brown",
 ] as const;
 
 export type PaperStructuredTableOptions = Readonly<{
   /**
-   * Check the table's meanings (totals, answer marks, cell tones), row and
+   * Check the table's meanings (totals, answer marks, cell tones and swatches), row and
    * cell cellAlign, columnWidths, horizontalDensity and verticalDensity with
    * the same rules as the RTQ web build, and throw on the first problem. Other layout props stay unvalidated either
    * way. Rendering leaves this off so an
@@ -288,8 +311,11 @@ function structuredElementProperties(node: MdxElement): NativeProperties {
     }
 
     const tone = takeProperty(properties, "tone", "default");
+    const swatch = properties.swatch;
+    delete properties.swatch;
     return {
       ...properties,
+      ...(swatch === undefined ? {} : { dataSwatch: swatch }),
       dataTone: tone,
     };
   }
@@ -406,6 +432,12 @@ function isCellTone(value: string): boolean {
   );
 }
 
+function isCellSwatch(value: string): boolean {
+  return (PAPER_STRUCTURED_TABLE_CELL_SWATCHES as readonly string[]).includes(
+    value,
+  );
+}
+
 function collectStructuredMeanings(
   node: Root | Parent,
   inBody: boolean,
@@ -468,6 +500,24 @@ function collectStructuredMeanings(
         throwStructuredTableError(
           `PaperViewTableCell prop "tone" received ${JSON.stringify(tone.value)}; ${describePaperTableRetiredValue("tone", tone.value)}allowed values: ${PAPER_STRUCTURED_TABLE_CELL_TONES.join(", ")}.`,
           tone.node,
+        );
+      }
+      const swatch = getStaticStringAttribute(
+        child as MdxElement,
+        "PaperViewTableCell",
+        "swatch",
+        PAPER_STRUCTURED_TABLE_CELL_SWATCHES,
+      );
+      if (swatch && !isCellSwatch(swatch.value)) {
+        throwStructuredTableError(
+          `PaperViewTableCell prop "swatch" received ${JSON.stringify(swatch.value)}; allowed values: ${PAPER_STRUCTURED_TABLE_CELL_SWATCHES.join(", ")}.`,
+          swatch.node,
+        );
+      }
+      if (swatch && tone && tone.value !== "default") {
+        throwStructuredTableError(
+          "PaperViewTableCell takes swatch or tone, not both; both fill the cell. Use swatch when the question names the colour, otherwise tone.",
+          swatch.node,
         );
       }
     }

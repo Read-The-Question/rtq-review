@@ -30,6 +30,7 @@ export const PAPER_STRUCTURED_TABLE_CELL_SWATCHES = [
   "black",
   "white",
   "grey",
+  "pale-grey",
   "red",
   "orange",
   "yellow",

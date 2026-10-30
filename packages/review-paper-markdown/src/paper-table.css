@@ -624,6 +624,10 @@
   background-color: var(--rtq-paper-table-swatch-grey, #929292);
 }
 
+.rtq-paper-table td[data-swatch="pale-grey"] {
+  background-color: var(--rtq-paper-table-swatch-pale-grey, #e4e4e4);
+}
+
 .rtq-paper-table td[data-swatch="red"] {
   background-color: var(--rtq-paper-table-swatch-red, #f53e39);
 }

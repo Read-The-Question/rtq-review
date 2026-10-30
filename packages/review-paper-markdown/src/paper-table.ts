@@ -845,7 +845,7 @@ function addMeaningHiddenText(table: AstNode): void {
       if (tone === "shaded" || tone === "blocked") {
         prependHiddenText(cell, PAPER_TABLE_HIDDEN_TEXT[tone]);
       } else if (typeof swatch === "string" && swatch) {
-        prependHiddenText(cell, swatch);
+        prependHiddenText(cell, swatch.replace("-", " "));
       }
       if (getDataProperty(cell, "mark") === "answer") {
         prependHiddenText(cell, PAPER_TABLE_HIDDEN_TEXT.answerCell);

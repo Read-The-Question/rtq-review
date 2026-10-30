@@ -246,6 +246,7 @@ test("renders structured meanings with their words for assistive tech", async ()
         "    <PaperViewTableRow>",
         '      <PaperViewTableCell tone="shaded">3</PaperViewTableCell>',
         '      <PaperViewTableCell mark="answer" swatch="grey">12</PaperViewTableCell>',
+        '      <PaperViewTableCell swatch="pale-grey">7</PaperViewTableCell>',
         "    </PaperViewTableRow>",
       ],
     }),
@@ -257,6 +258,10 @@ test("renders structured meanings with their words for assistive tech", async ()
   assert.match(
     fills,
     /<td data-mark="answer" data-swatch="grey" data-tone="default"><span data-paper-table-hidden-text="">Answer cell<\/span> <span data-paper-table-hidden-text="">grey<\/span> 12<\/td>/,
+  );
+  assert.match(
+    fills,
+    /<td data-swatch="pale-grey" data-tone="default"><span data-paper-table-hidden-text="">pale grey<\/span> 7<\/td>/,
   );
   assert.doesNotMatch(fills, / swatch=/);
 });
@@ -311,8 +316,8 @@ test("validates structured meanings with the RTQ web build rules", () => {
       /PaperViewTableCell prop "tone" received "muted"; "muted" was renamed to "blocked"; allowed values: default, shaded, blocked\./,
     ],
     [
-      structuredTable.replace('tone="blocked"', 'swatch="pale-grey"'),
-      /PaperViewTableCell prop "swatch" received "pale-grey"; allowed values: black, white, grey, red, orange, yellow, green, blue, purple, pink, brown\./,
+      structuredTable.replace('tone="blocked"', 'swatch="light-grey"'),
+      /PaperViewTableCell prop "swatch" received "light-grey"; allowed values: black, white, grey, pale-grey, red, orange, yellow, green, blue, purple, pink, brown\./,
     ],
     [
       structuredTable.replace('tone="blocked"', 'swatch="grey" tone="shaded"'),

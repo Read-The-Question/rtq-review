@@ -594,6 +594,10 @@ test("draws the table meanings from the paper-table tokens", () => {
     css,
     /td\[data-swatch="grey"\] \{\s*background-color: var\(--rtq-paper-table-swatch-grey, #929292\);/,
   );
+  assert.match(
+    css,
+    /td\[data-swatch="pale-grey"\] \{\s*background-color: var\(--rtq-paper-table-swatch-pale-grey, #e4e4e4\);/,
+  );
   assert.doesNotMatch(css, /data-tone="muted"|muted-surface/);
   assert.match(
     css,

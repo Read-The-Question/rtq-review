@@ -222,7 +222,7 @@ test('uses the shared table rules and the RTQ web table colours in both themes',
   const swatches = Object.keys(themes.light).filter((token) =>
     token.startsWith('--color-paper-table-swatch-'),
   );
-  assert.equal(swatches.length, 11);
+  assert.equal(swatches.length, 12);
   for (const token of swatches) {
     const swatch = token.slice('--color-paper-table-swatch-'.length);
     assert.equal(themes.light[token], themes.dark[token]);

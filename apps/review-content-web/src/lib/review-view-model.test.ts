@@ -20,7 +20,9 @@ import {
   parseReviewFilterDisclosure,
   parseReviewPreferences,
   reviewFilterSelectionForContext,
+  reviewFilterSelectionForSides,
   reviewSidesForContext,
+  reviewSidesForPanel,
   reviewStateLabel,
   visibleFeedbackSides,
   visibleReviewSides,
@@ -342,6 +344,12 @@ test('sticky review exposes the selected tracks in the active context', () => {
     'question',
     'question-image',
   ]);
+  assert.deepEqual(reviewSidesForPanel('question', 'content'), ['question']);
+  assert.deepEqual(reviewSidesForPanel('answer', 'image'), ['answer-image']);
+  assert.deepEqual(reviewSidesForPanel('question', 'both'), [
+    'question',
+    'question-image',
+  ]);
 });
 
 test('review filters apply only the active context and preserve the other lens', () => {
@@ -367,6 +375,15 @@ test('review filters apply only the active context and preserve the other lens',
     answerImageReview: [],
     answerRag: [],
     answerReview: [],
+  });
+  assert.deepEqual(reviewFilterSelectionForSides(selection, ['question']), {
+    ...selection,
+    answerImageRag: [],
+    answerImageReview: [],
+    answerRag: [],
+    answerReview: [],
+    questionImageRag: [],
+    questionImageReview: [],
   });
   assert.deepEqual(clearReviewOutcomeFiltersForContext(selection, 'question'), {
     ...selection,

@@ -370,15 +370,23 @@ export function activeReviewSides(
 function selectedReviewSides(
   preferences: ReviewPreferences,
 ): readonly ReviewSide[] {
-  if (preferences.reviewPanelMode === 'content') {
-    return preferences.reviewSide === 'question' ? ['question'] : ['answer'];
+  return reviewSidesForPanel(
+    preferences.reviewSide,
+    preferences.reviewPanelMode,
+  );
+}
+
+export function reviewSidesForPanel(
+  context: ReviewContext,
+  panelMode: ReviewPanelMode,
+): readonly ReviewSide[] {
+  if (panelMode === 'content') {
+    return context === 'question' ? ['question'] : ['answer'];
   }
-  if (preferences.reviewPanelMode === 'image') {
-    return preferences.reviewSide === 'question'
-      ? ['question-image']
-      : ['answer-image'];
+  if (panelMode === 'image') {
+    return context === 'question' ? ['question-image'] : ['answer-image'];
   }
-  return reviewSidesForContext(preferences.reviewSide);
+  return reviewSidesForContext(context);
 }
 
 export function reviewFilterSelectionForContext(
@@ -400,6 +408,30 @@ export function reviewFilterSelectionForContext(
         questionRag: [],
         questionReview: [],
       };
+}
+
+export function reviewFilterSelectionForSides(
+  selection: ReviewFilterSelection,
+  sides: readonly ReviewSide[],
+): ReviewFilterSelection {
+  const enabled = new Set(sides);
+  return {
+    ...selection,
+    answerImageRag: enabled.has('answer-image') ? selection.answerImageRag : [],
+    answerImageReview: enabled.has('answer-image')
+      ? selection.answerImageReview
+      : [],
+    answerRag: enabled.has('answer') ? selection.answerRag : [],
+    answerReview: enabled.has('answer') ? selection.answerReview : [],
+    questionImageRag: enabled.has('question-image')
+      ? selection.questionImageRag
+      : [],
+    questionImageReview: enabled.has('question-image')
+      ? selection.questionImageReview
+      : [],
+    questionRag: enabled.has('question') ? selection.questionRag : [],
+    questionReview: enabled.has('question') ? selection.questionReview : [],
+  };
 }
 
 export function clearReviewFiltersForContext(

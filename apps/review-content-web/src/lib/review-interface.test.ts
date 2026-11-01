@@ -148,7 +148,7 @@ test('review filters are context-scoped, paired, URL-backed, and failure-safe', 
   const component = await fs.readFile(componentUrl, 'utf8');
 
   assert.match(component, /className="review-context-filter-row"/);
-  assert.match(component, /reviewSidesForContext\(reviewContext\)\.map/);
+  assert.match(component, /reviewSides\.map/);
   assert.match(
     component,
     /reviewOutcomeFacets=\{result\.reviewOutcomeFacets\}/,
@@ -156,6 +156,7 @@ test('review filters are context-scoped, paired, URL-backed, and failure-safe', 
   assert.match(component, /reviewOutcomeFilterLabel\(option\.value\)/);
   assert.match(component, /reviewOutcomeError=\{outcomeLoad\.error\}/);
   assert.match(component, /reviewContext=\{preferences\.reviewSide\}/);
+  assert.match(component, /reviewSides=\{enabledReviewSides\}/);
   assert.match(component, /selection=\{activeSelection\}/);
   assert.match(component, /aria-label="Reset review outcome filters"/);
   assert.match(
@@ -172,6 +173,10 @@ test('review filters are context-scoped, paired, URL-backed, and failure-safe', 
   assert.match(
     component,
     /reviewFilterSelectionForContext\([\s\S]*selection,[\s\S]*displayPreferences\.reviewSide/,
+  );
+  assert.match(
+    component,
+    /reviewFilterSelectionForSides\([\s\S]*reviewFilterSelectionForContext/,
   );
 });
 
@@ -193,7 +198,7 @@ test('top-level questions expose current outcomes and feedback as scan badges', 
     /reviewStatusRails\(node, reviewSides, reviewRuntime\)/,
   );
   assert.match(component, /reviewSides=\{enabledReviewSides\}/);
-  assert.match(component, /activeReviewSides\(displayPreferences\)/);
+  assert.match(component, /reviewSidesForPanel\(/);
   assert.match(component, /return reviewSides\.flatMap/);
   assert.match(component, /aria-label="Review target"/);
   assert.match(component, /question-status-rail--\$\{tone\}/);

@@ -71,7 +71,6 @@ import {
   PREVIOUS_REVIEW_PREFERENCES_KEY,
   REVIEW_FILTER_DISCLOSURE_KEY,
   REVIEW_PREFERENCES_KEY,
-  activeReviewSides,
   adjacentQuestionId,
   clearReviewFiltersForContext,
   clearReviewOutcomeFiltersForContext,
@@ -80,7 +79,8 @@ import {
   parseReviewFilterDisclosure,
   parseReviewPreferences,
   reviewFilterSelectionForContext,
-  reviewSidesForContext,
+  reviewFilterSelectionForSides,
+  reviewSidesForPanel,
   reviewStateLabel,
   visibleFeedbackSides,
   visibleReviewSides,
@@ -2209,6 +2209,7 @@ function FilterPanel({
   reviewOutcomeError,
   reviewOutcomeFacets,
   reviewContext,
+  reviewSides,
   returnQuestionLabel,
   selection,
   stateFacets,
@@ -2235,6 +2236,7 @@ function FilterPanel({
     typeof filterReviewPaper
   >['reviewOutcomeFacets'];
   reviewContext: ReviewContext;
+  reviewSides: readonly ReviewSide[];
   returnQuestionLabel?: string;
   selection: ReviewFilterSelection;
   stateFacets: ReturnType<typeof filterReviewPaper>['stateFacets'];
@@ -2291,8 +2293,11 @@ function FilterPanel({
             <div>
               <strong>{reviewContext} review lens</strong>
               <span>
-                A match in either the main or image outcome keeps the question
-                in this view.
+                {reviewSides.length > 1
+                  ? 'Content and image states are both available; a match in either track keeps the question in this view.'
+                  : reviewSides[0]?.endsWith('-image')
+                    ? 'Only image RAG state and review outcome filters are shown.'
+                    : 'Only content RAG state and review outcome filters are shown.'}
               </span>
             </div>
           </div>
@@ -2308,7 +2313,7 @@ function FilterPanel({
           </div>
         </header>
         <div className="review-context-filter-rows">
-          {reviewSidesForContext(reviewContext).map((side) => {
+          {reviewSides.map((side) => {
             const stateFacet = stateFacets.find((facet) => facet.side === side);
             const outcomeFacet = reviewOutcomeFacets.find(
               (facet) => facet.side === side,
@@ -3427,12 +3432,25 @@ export function ReviewSurface({
     const compiled = compileContentSearch(contentSearch);
     return compiled.state === 'ready' ? compiled.search : undefined;
   }, [contentSearch]);
+  const enabledReviewSides = useMemo(
+    () =>
+      reviewSidesForPanel(
+        displayPreferences.reviewSide,
+        displayPreferences.reviewPanelMode,
+      ),
+    [displayPreferences.reviewPanelMode, displayPreferences.reviewSide],
+  );
   const activeSelection = useMemo(
     () =>
-      reviewFilterSelectionForContext(selection, displayPreferences.reviewSide),
-    [displayPreferences.reviewSide, selection],
+      reviewFilterSelectionForSides(
+        reviewFilterSelectionForContext(
+          selection,
+          displayPreferences.reviewSide,
+        ),
+        enabledReviewSides,
+      ),
+    [displayPreferences.reviewSide, enabledReviewSides, selection],
   );
-  const enabledReviewSides = activeReviewSides(displayPreferences);
   const reviewOutcomeFilterContext = useMemo(() => {
     if (outcomeLoad.error) return undefined;
     const source = {
@@ -4829,6 +4847,7 @@ export function ReviewSurface({
               reviewOutcomeError={outcomeLoad.error}
               reviewOutcomeFacets={result.reviewOutcomeFacets}
               reviewContext={preferences.reviewSide}
+              reviewSides={enabledReviewSides}
               returnQuestionLabel={
                 filterReturnQuestionId
                   ? (displayNodeById.get(filterReturnQuestionId)?.label ??

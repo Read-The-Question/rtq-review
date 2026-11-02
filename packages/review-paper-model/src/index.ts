@@ -1,6 +1,7 @@
 export {
   exemplarLevelFromCollectionId,
   isExemplarPaperCollectionId,
+  isEditablePaperCollectionId,
   isPaperCollectionId,
 } from './collection-contract.ts';
 export { listPaperCollections, paperCollectionForId } from './collections.ts';
@@ -9,6 +10,16 @@ export {
   readPaperContentField,
   replacePaperContentField,
 } from './content-source.ts';
+export {
+  readQuestionTagCatalog,
+  validateExplicitQuestionTags,
+} from './tag-catalog.ts';
+export {
+  PaperTagSourceError,
+  readPaperNodeTagSource,
+  replacePaperNodeTags,
+  sortPersistedQuestionTags,
+} from './tag-source.ts';
 export {
   clearAllDimensionalFilters,
   clearAllReviewFilters,
@@ -60,6 +71,7 @@ export type {
   DimensionalFacetOption,
   DimensionalTagAxis,
   DimensionalTagOrigin,
+  EditablePaperCollectionId,
   EffectiveDimensionalTag,
   ExemplarPaperCollectionId,
   OriginalQuestionSource,
@@ -92,10 +104,12 @@ export type {
   ReviewPaperMetadata,
   ReviewPaperNode,
   ReviewPaperTablePreparation,
+  ReviewNodeTagState,
   ReviewTargetState,
   ReviewStateFacet,
   ReviewStateFilterSide,
   ReviewWorking,
+  QuestionTagCatalog,
 } from './model.ts';
 export {
   corpusQuestionLocationKey,

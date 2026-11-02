@@ -1,5 +1,6 @@
 import {
   REVIEWABLE_COLLECTION_IDS,
+  type EditablePaperCollectionId,
   type ExemplarPaperCollectionId,
   type PaperCollectionId,
 } from './model.ts';
@@ -26,5 +27,14 @@ export function isPaperCollectionId(value: string): value is PaperCollectionId {
   return (
     (REVIEWABLE_COLLECTION_IDS as readonly string[]).includes(value) ||
     isExemplarPaperCollectionId(value)
+  );
+}
+
+export function isEditablePaperCollectionId(
+  value: string,
+): value is EditablePaperCollectionId {
+  return (
+    value !== 'corpusAllTopicsToml' &&
+    (REVIEWABLE_COLLECTION_IDS as readonly string[]).includes(value)
   );
 }

@@ -1,6 +1,7 @@
 'use client';
 
 import Link from 'next/link';
+import dynamic from 'next/dynamic';
 import { usePathname, useRouter, useSearchParams } from 'next/navigation';
 import {
   createContext,
@@ -22,6 +23,7 @@ import {
   contentSearchRanges,
   CONTENT_SEARCH_SCOPES,
   filterReviewPaper,
+  isEditablePaperCollectionId,
   normalizeContentSearchScope,
   parseReviewFilterSearchParams,
   serializeReviewFilterSearchParams,
@@ -30,8 +32,10 @@ import {
   type ContentSearchQuery,
   type ContentSearchScope,
   type PaperCollectionId,
+  type QuestionTagCatalog,
   type ReviewFilterSelection,
   type ReviewPaperNode,
+  type ReviewNodeTagState,
 } from '@rtq/review-paper-model/client';
 import {
   PaperOutline,
@@ -125,6 +129,10 @@ import {
   contentFieldApiUrl,
   type ContentFieldApiTarget,
 } from '@/lib/content-field-api';
+import {
+  loadQuestionTagCatalogAction,
+  updateQuestionTagsAction,
+} from '@/app/tag-actions';
 
 import {
   PaperImageComparison,
@@ -132,6 +140,11 @@ import {
   type RtqMarkdownVariant,
 } from './rtq-markdown';
 import { SiteHeader } from './site-header';
+import type { QuestionTagSaveStatus } from './question-tag-editor';
+
+const QuestionTagEditor = dynamic(() =>
+  import('./question-tag-editor').then((module) => module.QuestionTagEditor),
+);
 
 const axisCopy: Readonly<Record<DimensionalTagAxis, string>> = {
   family: 'Family',
@@ -140,6 +153,70 @@ const axisCopy: Readonly<Record<DimensionalTagAxis, string>> = {
   math: 'Math',
   reasoning: 'Reasoning',
 };
+
+type QuestionTagSource = Readonly<{
+  collectionId: PaperCollectionId;
+  relativePath: string;
+  version?: string;
+}>;
+
+function questionTagSourceForNode(
+  node: ReviewPaperNode,
+  paper: DisplayReviewPaper,
+): QuestionTagSource {
+  const source = reviewSourceForNode(node, {
+    collectionId: paper.source.collection.id,
+    relativePath: paper.source.relativePath,
+    version: paper.source.version,
+  });
+  return {
+    collectionId: source.collectionId as PaperCollectionId,
+    relativePath: source.relativePath,
+    version: source.version,
+  };
+}
+
+function questionTagSourceKey(source: QuestionTagSource): string {
+  return `${source.collectionId}\u0000${source.relativePath}`;
+}
+
+function questionTagNodeKey(
+  source: QuestionTagSource,
+  nodeUuid: string,
+): string {
+  return `${questionTagSourceKey(source)}\u0000${nodeUuid}`;
+}
+
+function applyQuestionTagOverrides(
+  paper: DisplayReviewPaper,
+  overrides: Readonly<Record<string, ReviewNodeTagState>>,
+): DisplayReviewPaper {
+  function visit(node: DisplayPaperNode): DisplayPaperNode {
+    const source = questionTagSourceForNode(node, paper);
+    const override = node.uuid
+      ? overrides[questionTagNodeKey(source, node.uuid)]
+      : undefined;
+    return {
+      ...node,
+      ...(override
+        ? {
+            effectiveTags: override.effectiveTags,
+            explicitInherit: override.explicitInherit,
+            explicitTags: override.explicitTags,
+            inheritedTags: override.inheritedTags,
+          }
+        : {}),
+      children: node.children.map(visit),
+    };
+  }
+  return {
+    ...paper,
+    sections: paper.sections.map((section) => ({
+      ...section,
+      questions: section.questions.map(visit),
+    })),
+  };
+}
 
 function imageVersionVisibleNodeIds(
   paper: DisplayReviewPaper,
@@ -193,12 +270,34 @@ type ReviewContentRuntime = Readonly<{
   contentSearch?: CompiledContentSearch;
   editor: ContentFieldEditorRuntime;
 }>;
+type QuestionTagRuntime = Readonly<{
+  catalog?: QuestionTagCatalog;
+  catalogError?: string;
+  enabled: boolean;
+  isEditable: (node: DisplayPaperNode) => boolean;
+  loadingCatalog: boolean;
+  mutate: (
+    node: DisplayPaperNode,
+    explicitTags: readonly string[],
+    explicitInherit: boolean | null,
+  ) => void;
+  retryCatalog: () => void;
+  status: (node: DisplayPaperNode) => QuestionTagSaveStatus;
+}>;
 const ReviewContentContext = createContext<ReviewContentRuntime>({
   editor: {
     refresh: () => undefined,
     release: () => undefined,
     request: () => false,
   },
+});
+const QuestionTagContext = createContext<QuestionTagRuntime>({
+  enabled: false,
+  isEditable: () => false,
+  loadingCatalog: false,
+  mutate: () => undefined,
+  retryCatalog: () => undefined,
+  status: () => ({ kind: 'idle', message: '' }),
 });
 const PDF_SESSION_STORAGE_PREFIX = 'rtq.review-content.search-pdf.v1:';
 const PDF_PAGE_SESSION_STORAGE_PREFIX = 'rtq.review-content.pdf-page.v1:';
@@ -1226,7 +1325,7 @@ function ReviewPanel({
   );
 }
 
-function NodeTags({ node }: { node: DisplayPaperNode }) {
+function ReadOnlyNodeTags({ node }: { node: DisplayPaperNode }) {
   return (
     <div className="node-tags" aria-label={`${node.label} dimensional tags`}>
       {DIMENSIONAL_TAG_AXES.map((axis) => {
@@ -1245,6 +1344,68 @@ function NodeTags({ node }: { node: DisplayPaperNode }) {
         ) : null;
       })}
     </div>
+  );
+}
+
+function NodeTags({ node }: { node: DisplayPaperNode }) {
+  const runtime = useContext(QuestionTagContext);
+  if (!runtime.enabled) return <ReadOnlyNodeTags node={node} />;
+  if (!node.uuid) {
+    return (
+      <div className="tag-edit-unavailable" role="note">
+        <strong>Tags are read-only for {node.label}.</strong>
+        <span>
+          This question has no rtq-uuid, so it cannot be edited safely.
+        </span>
+        <ReadOnlyNodeTags node={node} />
+      </div>
+    );
+  }
+  if (!runtime.isEditable(node)) {
+    return (
+      <div className="tag-edit-unavailable" role="note">
+        <strong>Tags are read-only in this collection.</strong>
+        <ReadOnlyNodeTags node={node} />
+      </div>
+    );
+  }
+  if (!runtime.catalog) {
+    return (
+      <div
+        className={`tag-editor-loading${runtime.catalogError ? ' tag-editor-loading--error' : ''}`}
+        role={runtime.catalogError ? 'alert' : 'status'}
+      >
+        <span>
+          {runtime.catalogError ?? 'Preparing the question-tag vocabulary…'}
+        </span>
+        {runtime.catalogError ? (
+          <button onClick={runtime.retryCatalog} type="button">
+            Try again
+          </button>
+        ) : null}
+      </div>
+    );
+  }
+
+  const status = runtime.status(node);
+  return (
+    <QuestionTagEditor
+      catalog={runtime.catalog}
+      disabled={runtime.loadingCatalog || status.kind === 'saving'}
+      nodeDepth={node.depth}
+      nodeLabel={node.label}
+      onChange={(explicitTags, explicitInherit) =>
+        runtime.mutate(node, explicitTags, explicitInherit)
+      }
+      state={{
+        effectiveTags: node.effectiveTags,
+        explicitInherit: node.explicitInherit,
+        explicitTags: node.explicitTags,
+        inheritedTags: node.inheritedTags,
+        nodeUuid: node.uuid,
+      }}
+      status={status}
+    />
   );
 }
 
@@ -1604,6 +1765,7 @@ function QuestionNode({
   topLevelQuestion: DisplayPaperNode;
   visibleNodeIds?: ReadonlySet<string>;
 }) {
+  const questionTagRuntime = useContext(QuestionTagContext);
   const exactMatch = matchingNodeIds.has(node.id);
   const statusRails = reviewStatusRails(node, reviewSides, reviewRuntime);
   const visibleStatusRails = statusRails.filter(({ side }) =>
@@ -1720,7 +1882,9 @@ function QuestionNode({
         ) : null}
       </header>
 
-      {preferences.showTags ? <NodeTags node={node} /> : null}
+      {preferences.showTags || questionTagRuntime.enabled ? (
+        <NodeTags node={node} />
+      ) : null}
       <div className="question-copy">
         <ContentField
           field={node.content.question}
@@ -3282,7 +3446,7 @@ export function ReviewSurface({
   commentLoad,
   corpus,
   outcomeLoad,
-  paper,
+  paper: initialPaper,
   pdf,
   pdfSessionKey,
   pdfs,
@@ -3300,6 +3464,27 @@ export function ReviewSurface({
   const pathname = usePathname();
   const router = useRouter();
   const searchParams = useSearchParams();
+  const tagEditing = searchParams.get('edit') === 'tags';
+  const [tagOverrides, setTagOverrides] = useState<
+    Readonly<Record<string, ReviewNodeTagState>>
+  >({});
+  const paper = useMemo(
+    () => applyQuestionTagOverrides(initialPaper, tagOverrides),
+    [initialPaper, tagOverrides],
+  );
+  const [tagCatalogLoad, setTagCatalogLoad] = useState<
+    | Readonly<{ state: 'idle' | 'loading' }>
+    | Readonly<{ catalog: QuestionTagCatalog; state: 'ready' }>
+    | Readonly<{ message: string; state: 'error' }>
+  >({ state: 'idle' });
+  const [tagSaveStatuses, setTagSaveStatuses] = useState<
+    Readonly<Record<string, QuestionTagSaveStatus>>
+  >({});
+  const [tagSourceVersions, setTagSourceVersions] = useState<
+    Readonly<Record<string, string>>
+  >({});
+  const tagSourceVersionsRef = useRef<Record<string, string>>({});
+  const tagSaveChains = useRef(new Map<string, Promise<void>>());
   const [refreshing, startRefresh] = useTransition();
   const [preferences, setPreferences] = useState<ReviewPreferences>(
     DEFAULT_REVIEW_PREFERENCES,
@@ -3346,6 +3531,32 @@ export function ReviewSurface({
   const pendingRequestKeys = useRef(new Set<string>());
   const imageMetadataSaveChains = useRef(new Map<string, Promise<void>>());
   const sourceFreshnessPending = useRef(false);
+
+  const loadQuestionTagCatalog = useCallback(async () => {
+    setTagCatalogLoad({ state: 'loading' });
+    const result = await loadQuestionTagCatalogAction();
+    setTagCatalogLoad(
+      result.ok
+        ? { catalog: result.catalog, state: 'ready' }
+        : { message: result.message, state: 'error' },
+    );
+  }, []);
+
+  useEffect(() => {
+    if (!tagEditing || tagCatalogLoad.state !== 'idle') return;
+    let active = true;
+    void loadQuestionTagCatalogAction().then((result) => {
+      if (!active) return;
+      setTagCatalogLoad(
+        result.ok
+          ? { catalog: result.catalog, state: 'ready' }
+          : { message: result.message, state: 'error' },
+      );
+    });
+    return () => {
+      active = false;
+    };
+  }, [tagCatalogLoad.state, tagEditing]);
   const pdfOptions = useMemo<readonly PaperPdfOption[]>(() => {
     if (pdfs?.length) return pdfs;
     if (!pdf) return [];
@@ -3617,7 +3828,14 @@ export function ReviewSurface({
     : reviewSource;
   const currentSourceCollectionId = currentReviewSource.collectionId;
   const currentSourcePath = currentReviewSource.relativePath;
-  const currentSourceVersion = currentReviewSource.version ?? '';
+  const currentSourceIdentity = questionTagSourceKey({
+    collectionId: currentSourceCollectionId as PaperCollectionId,
+    relativePath: currentSourcePath,
+  });
+  const currentSourceVersion =
+    tagSourceVersions[currentSourceIdentity] ??
+    currentReviewSource.version ??
+    '';
   const currentSourceKey = `${currentSourceCollectionId}\u0000${currentSourcePath}\u0000${currentSourceVersion}`;
   const hasCurrentCursor = Boolean(currentCursor);
   const isCorpusSurface = Boolean(corpus);
@@ -4220,8 +4438,23 @@ export function ReviewSurface({
   function setSurfaceView(view: ReviewSurfaceView) {
     updatePreference('surfaceView', view);
     const current = new URLSearchParams(searchParams.toString());
-    if (view === 'images') current.set('view', 'images');
-    else current.delete('view');
+    if (view === 'images') {
+      current.set('view', 'images');
+      current.delete('edit');
+    } else current.delete('view');
+    replaceSearchParams(current);
+  }
+
+  function setTagEditing(enabled: boolean) {
+    if (enabled && activeContentEditorKey) return;
+    const current = new URLSearchParams(searchParams.toString());
+    if (enabled) {
+      updatePreference('surfaceView', 'content');
+      current.delete('view');
+      current.set('edit', 'tags');
+    } else {
+      current.delete('edit');
+    }
     replaceSearchParams(current);
   }
 
@@ -4333,6 +4566,141 @@ export function ReviewSurface({
       question?.focus({ preventScroll: true });
     });
   }
+
+  const mutateQuestionTags = useCallback(
+    (
+      node: DisplayPaperNode,
+      explicitTags: readonly string[],
+      explicitInherit: boolean | null,
+    ) => {
+      if (!node.uuid) return;
+      const source = questionTagSourceForNode(node, paper);
+      const sourceKey = questionTagSourceKey(source);
+      const nodeKey = questionTagNodeKey(source, node.uuid);
+      if (!isEditablePaperCollectionId(source.collectionId)) {
+        setTagSaveStatuses((current) => ({
+          ...current,
+          [nodeKey]: {
+            kind: 'error',
+            message: 'This paper collection is read-only for tag editing.',
+          },
+        }));
+        return;
+      }
+
+      setTagSaveStatuses((current) => ({
+        ...current,
+        [nodeKey]: { kind: 'saving', message: 'Saving directly to TOML…' },
+      }));
+      const preceding =
+        tagSaveChains.current.get(sourceKey) ?? Promise.resolve();
+      const save = preceding
+        .catch(() => undefined)
+        .then(async () => {
+          const expectedVersion =
+            tagSourceVersionsRef.current[sourceKey] ?? source.version;
+          if (!expectedVersion) {
+            throw new Error(
+              'The current source version is unavailable. Refresh the paper and try again.',
+            );
+          }
+          const result = await updateQuestionTagsAction({
+            expectedVersion,
+            explicitInherit,
+            explicitTags,
+            target: {
+              collectionId: source.collectionId,
+              nodeUuid: node.uuid,
+              relativePath: source.relativePath,
+            },
+          });
+          if (!result.ok) throw new Error(result.message);
+
+          tagSourceVersionsRef.current[sourceKey] = result.version;
+          setTagSourceVersions((current) => ({
+            ...current,
+            [sourceKey]: result.version,
+          }));
+          setTagOverrides((current) => {
+            const next = { ...current };
+            for (const state of result.nodes) {
+              next[questionTagNodeKey(source, state.nodeUuid)] = state;
+            }
+            return next;
+          });
+          setTagSaveStatuses((current) => ({
+            ...current,
+            [nodeKey]: { kind: 'success', message: 'Saved to TOML' },
+          }));
+          window.setTimeout(() => {
+            setTagSaveStatuses((current) => {
+              if (current[nodeKey]?.kind !== 'success') return current;
+              const next = { ...current };
+              delete next[nodeKey];
+              return next;
+            });
+          }, 1800);
+        })
+        .catch((error: unknown) => {
+          setTagSaveStatuses((current) => ({
+            ...current,
+            [nodeKey]: {
+              kind: 'error',
+              message:
+                error instanceof Error
+                  ? error.message
+                  : 'The question tags could not be saved.',
+            },
+          }));
+        })
+        .finally(() => {
+          if (tagSaveChains.current.get(sourceKey) === save) {
+            tagSaveChains.current.delete(sourceKey);
+          }
+        });
+      tagSaveChains.current.set(sourceKey, save);
+    },
+    [paper],
+  );
+
+  const questionTagRuntime = useMemo<QuestionTagRuntime>(
+    () => ({
+      ...(tagCatalogLoad.state === 'ready'
+        ? { catalog: tagCatalogLoad.catalog }
+        : {}),
+      ...(tagCatalogLoad.state === 'error'
+        ? { catalogError: tagCatalogLoad.message }
+        : {}),
+      enabled: tagEditing,
+      isEditable: (node) =>
+        isEditablePaperCollectionId(
+          questionTagSourceForNode(node, paper).collectionId,
+        ),
+      loadingCatalog:
+        tagCatalogLoad.state === 'loading' ||
+        (tagEditing && tagCatalogLoad.state === 'idle'),
+      mutate: mutateQuestionTags,
+      retryCatalog: () => void loadQuestionTagCatalog(),
+      status: (node) => {
+        if (!node.uuid) return { kind: 'idle', message: '' };
+        const source = questionTagSourceForNode(node, paper);
+        return (
+          tagSaveStatuses[questionTagNodeKey(source, node.uuid)] ?? {
+            kind: 'idle',
+            message: '',
+          }
+        );
+      },
+    }),
+    [
+      loadQuestionTagCatalog,
+      mutateQuestionTags,
+      paper,
+      tagCatalogLoad,
+      tagEditing,
+      tagSaveStatuses,
+    ],
+  );
 
   const refreshPaper = useCallback(() => {
     if (corpus) {
@@ -4967,6 +5335,22 @@ export function ReviewSurface({
                 Images
               </button>
             </div>
+            <button
+              aria-pressed={tagEditing}
+              className="toolbar-tag-edit-toggle"
+              disabled={Boolean(activeContentEditorKey)}
+              onClick={() => setTagEditing(!tagEditing)}
+              title={
+                activeContentEditorKey
+                  ? 'Finish the open source edit before editing tags.'
+                  : tagEditing
+                    ? 'Return to read-only tag presentation'
+                    : 'Edit question tags directly in the displayed TOML'
+              }
+              type="button"
+            >
+              {tagEditing ? 'Finish tagging' : 'Edit tags'}
+            </button>
             <div
               aria-label="Visible image versions"
               className="image-version-switch"
@@ -5250,63 +5634,65 @@ export function ReviewSurface({
           </div>
         </section>
       ) : (
-        <ReviewContentContext.Provider value={reviewContentRuntime}>
-          <div
-            className={`paper-body${imageView ? ' paper-body--images' : ''}`}
-          >
-            <PaperOutline
-              activeId={currentCursor?.node.id}
-              ariaLabel="Filtered question navigation"
-              sections={outlineSections}
-            />
-            <div className="paper-sections">
-              {result.matchingSections.map((section) => (
-                <section
-                  className="paper-section"
-                  id={section.id}
-                  key={section.id}
-                >
-                  <header>
-                    <span>Section</span>
-                    <h2>{section.label}</h2>
-                    <strong>
-                      {section.questions.length}{' '}
-                      {imageView ? 'image-bearing' : 'matching'} trees
-                    </strong>
-                  </header>
-                  {section.questions.map((question) => {
-                    const displayQuestion = displayNodeById.get(question.id);
-                    return displayQuestion && imageView ? (
-                      <ImageQuestionNode
-                        key={displayQuestion.id}
-                        imageComparisonScale={imageComparisonScale}
-                        matchingNodeIds={matchingNodeIds}
-                        node={displayQuestion}
-                        preferences={displayPreferences}
-                        requiredImageVersion={requiredImageVersion}
-                        reviewRuntime={reviewRuntime}
-                        topLevelQuestion={displayQuestion}
-                        visibleImageVersions={visibleImageVersions}
-                        visibleNodeIds={visibleNodeIds}
-                      />
-                    ) : displayQuestion ? (
-                      <QuestionNode
-                        key={displayQuestion.id}
-                        matchingNodeIds={matchingNodeIds}
-                        node={displayQuestion}
-                        preferences={displayPreferences}
-                        reviewSides={enabledReviewSides}
-                        reviewRuntime={reviewRuntime}
-                        topLevelQuestion={displayQuestion}
-                        visibleNodeIds={visibleNodeIds}
-                      />
-                    ) : null;
-                  })}
-                </section>
-              ))}
+        <QuestionTagContext.Provider value={questionTagRuntime}>
+          <ReviewContentContext.Provider value={reviewContentRuntime}>
+            <div
+              className={`paper-body${imageView ? ' paper-body--images' : ''}`}
+            >
+              <PaperOutline
+                activeId={currentCursor?.node.id}
+                ariaLabel="Filtered question navigation"
+                sections={outlineSections}
+              />
+              <div className="paper-sections">
+                {result.matchingSections.map((section) => (
+                  <section
+                    className="paper-section"
+                    id={section.id}
+                    key={section.id}
+                  >
+                    <header>
+                      <span>Section</span>
+                      <h2>{section.label}</h2>
+                      <strong>
+                        {section.questions.length}{' '}
+                        {imageView ? 'image-bearing' : 'matching'} trees
+                      </strong>
+                    </header>
+                    {section.questions.map((question) => {
+                      const displayQuestion = displayNodeById.get(question.id);
+                      return displayQuestion && imageView ? (
+                        <ImageQuestionNode
+                          key={displayQuestion.id}
+                          imageComparisonScale={imageComparisonScale}
+                          matchingNodeIds={matchingNodeIds}
+                          node={displayQuestion}
+                          preferences={displayPreferences}
+                          requiredImageVersion={requiredImageVersion}
+                          reviewRuntime={reviewRuntime}
+                          topLevelQuestion={displayQuestion}
+                          visibleImageVersions={visibleImageVersions}
+                          visibleNodeIds={visibleNodeIds}
+                        />
+                      ) : displayQuestion ? (
+                        <QuestionNode
+                          key={displayQuestion.id}
+                          matchingNodeIds={matchingNodeIds}
+                          node={displayQuestion}
+                          preferences={displayPreferences}
+                          reviewSides={enabledReviewSides}
+                          reviewRuntime={reviewRuntime}
+                          topLevelQuestion={displayQuestion}
+                          visibleNodeIds={visibleNodeIds}
+                        />
+                      ) : null;
+                    })}
+                  </section>
+                ))}
+              </div>
             </div>
-          </div>
-        </ReviewContentContext.Provider>
+          </ReviewContentContext.Provider>
+        </QuestionTagContext.Provider>
       )}
 
       <QuestionNavigation

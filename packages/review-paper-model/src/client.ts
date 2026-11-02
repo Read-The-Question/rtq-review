@@ -18,6 +18,7 @@ export {
 export {
   exemplarLevelFromCollectionId,
   isExemplarPaperCollectionId,
+  isEditablePaperCollectionId,
   isPaperCollectionId,
 } from './collection-contract.ts';
 export { DIMENSIONAL_TAG_AXES, REVIEWABLE_COLLECTION_IDS } from './model.ts';
@@ -46,6 +47,7 @@ export type {
   DimensionalFilterResult,
   DimensionalFilterSelection,
   DimensionalTagAxis,
+  EditablePaperCollectionId,
   EffectiveDimensionalTag,
   ExemplarPaperCollectionId,
   PaperCollectionId,
@@ -57,6 +59,7 @@ export type {
   ReviewContentFieldLocator,
   ReviewContentFieldSource,
   ReviewPaper,
+  ReviewNodeTagState,
   ReviewPaperNode,
   ReviewFilterSelection,
   ReviewOutcomeFacet,
@@ -66,4 +69,5 @@ export type {
   ReviewStateFilterSide,
   ReviewTargetState,
   ReviewWorking,
+  QuestionTagCatalog,
 } from './model.ts';

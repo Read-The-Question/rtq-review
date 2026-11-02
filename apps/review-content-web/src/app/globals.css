@@ -2264,6 +2264,39 @@ a.paper-row:hover {
   white-space: nowrap;
 }
 
+.toolbar-tag-edit-toggle {
+  background: var(--paper-bright);
+  border: 1px solid var(--rule-strong);
+  color: var(--ink);
+  cursor: pointer;
+  font-size: 0.875rem;
+  font-weight: 850;
+  min-height: 3rem;
+  padding: 0.55rem 0.8rem;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.toolbar-tag-edit-toggle:hover:not(:disabled) {
+  background: var(--paper-deep);
+}
+
+.toolbar-tag-edit-toggle[aria-pressed='true'] {
+  background: var(--signal);
+  border-color: var(--signal-dark);
+  color: #fff;
+}
+
+.toolbar-tag-edit-toggle:focus-visible {
+  outline: 2px solid var(--signal);
+  outline-offset: 2px;
+}
+
+.toolbar-tag-edit-toggle:disabled {
+  cursor: default;
+  opacity: 0.45;
+}
+
 .toolbar-raw-toggle:hover {
   background: var(--paper-deep);
 }
@@ -3484,6 +3517,267 @@ a.paper-row:hover {
   flex-wrap: wrap;
   gap: 0.45rem;
   padding: 1rem 0 0;
+}
+
+.visually-hidden {
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}
+
+.question-tag-editor {
+  background:
+    linear-gradient(
+      135deg,
+      color-mix(in oklab, var(--signal-soft) 48%, transparent),
+      transparent 42%
+    ),
+    var(--paper-bright);
+  border: 1px solid var(--rule-strong);
+  border-left: 4px solid var(--signal);
+  box-shadow: var(--shadow);
+  display: grid;
+  gap: 0.85rem;
+  margin-top: 1rem;
+  padding: clamp(0.85rem, 2vw, 1.25rem);
+}
+
+.question-tag-editor__header {
+  align-items: center;
+  display: flex;
+  gap: 1rem;
+  justify-content: space-between;
+}
+
+.question-tag-editor__header > div {
+  display: grid;
+  gap: 0.1rem;
+}
+
+.question-tag-editor__header > div > span,
+.tag-lineage-row > span,
+.tag-axis-card legend {
+  color: var(--muted);
+  font-size: 0.875rem;
+  font-weight: 850;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.question-tag-editor__header > div > strong {
+  font-family: var(--rtq-font-title);
+  font-size: 1.15rem;
+}
+
+.tag-inheritance-toggle {
+  align-items: center;
+  background: var(--paper);
+  border: 1px solid var(--rule);
+  cursor: pointer;
+  display: flex;
+  gap: 0.65rem;
+  max-width: 23rem;
+  padding: 0.55rem 0.7rem;
+}
+
+.tag-inheritance-toggle input {
+  accent-color: var(--signal);
+  height: 1.1rem;
+  margin: 0;
+  width: 1.1rem;
+}
+
+.tag-inheritance-toggle > span {
+  display: grid;
+  gap: 0.08rem;
+}
+
+.tag-inheritance-toggle small,
+.tag-root-note,
+.tag-edit-empty {
+  color: var(--muted);
+  font-size: 0.875rem;
+}
+
+.tag-lineage-row {
+  align-items: center;
+  border-top: 1px solid var(--rule);
+  display: grid;
+  gap: 0.55rem;
+  grid-template-columns: 6rem minmax(0, 1fr);
+  padding-top: 0.75rem;
+}
+
+.tag-axis-grid {
+  display: grid;
+  gap: 0.55rem;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+}
+
+.tag-axis-card {
+  --tag-axis-accent: var(--ready);
+
+  background: color-mix(
+    in oklab,
+    var(--tag-axis-accent) 7%,
+    var(--paper-bright)
+  );
+  border: 1px solid color-mix(in oklab, var(--tag-axis-accent) 38%, var(--rule));
+  display: grid;
+  gap: 0.55rem;
+  margin: 0;
+  min-width: 0;
+  padding: 0.65rem;
+}
+
+.tag-axis-card--math {
+  --tag-axis-accent: var(--image-original);
+}
+
+.tag-axis-card--frame {
+  --tag-axis-accent: var(--image-debug);
+}
+
+.tag-axis-card--marker {
+  --tag-axis-accent: var(--gold);
+}
+
+.tag-axis-card--reasoning {
+  --tag-axis-accent: var(--violet);
+}
+
+.tag-axis-card legend {
+  color: var(--tag-axis-accent);
+  padding: 0 0.2rem;
+}
+
+.tag-axis-card select {
+  background: var(--paper-bright);
+  border: 1px solid var(--rule-strong);
+  color: var(--ink);
+  font: inherit;
+  min-height: 2.25rem;
+  padding: 0.35rem 0.45rem;
+  width: 100%;
+}
+
+.tag-axis-card select:focus-visible {
+  outline: 2px solid var(--tag-axis-accent);
+  outline-offset: 2px;
+}
+
+.tag-edit-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+}
+
+.tag-edit-chip {
+  align-items: center;
+  background: var(--paper-deep);
+  border: 1px solid var(--rule);
+  display: inline-flex;
+  min-height: 1.75rem;
+}
+
+.tag-edit-chip code {
+  font-size: 0.875rem;
+  overflow-wrap: anywhere;
+  padding: 0.25rem 0.38rem;
+}
+
+.tag-edit-chip button {
+  align-self: stretch;
+  background: transparent;
+  border: 0;
+  border-left: 1px solid var(--rule);
+  color: var(--muted);
+  cursor: pointer;
+  font-size: 1rem;
+  min-width: 1.75rem;
+}
+
+.tag-edit-chip button:hover,
+.tag-edit-chip button:focus-visible {
+  background: var(--signal-soft);
+  color: var(--signal-dark);
+}
+
+.question-tag-editor__footer {
+  align-items: end;
+  display: grid;
+  gap: 0.75rem;
+  grid-template-columns: minmax(0, 1fr) auto;
+}
+
+.tag-lineage-row--effective {
+  border-top-color: var(--rule-strong);
+}
+
+.tag-lineage-row--effective .tag-edit-chip {
+  background: color-mix(in oklab, var(--ready) 12%, var(--paper-bright));
+  border-color: color-mix(in oklab, var(--ready) 45%, var(--rule));
+}
+
+.tag-save-status {
+  border: 1px solid currentColor;
+  font-size: 0.875rem;
+  font-weight: 800;
+  padding: 0.4rem 0.55rem;
+  white-space: nowrap;
+}
+
+.tag-save-status--saving {
+  color: var(--gold);
+}
+
+.tag-save-status--success {
+  color: var(--ready);
+}
+
+.tag-save-status--error {
+  color: var(--signal);
+  white-space: normal;
+}
+
+.tag-editor-loading,
+.tag-edit-unavailable {
+  align-items: center;
+  background: var(--paper-bright);
+  border: 1px dashed var(--rule-strong);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.7rem;
+  margin-top: 1rem;
+  padding: 0.8rem;
+}
+
+.tag-edit-unavailable {
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.tag-edit-unavailable .node-tags {
+  padding-top: 0.25rem;
+}
+
+.tag-editor-loading--error {
+  border-color: var(--signal);
+  color: var(--signal);
+}
+
+.tag-editor-loading button {
+  background: var(--paper-deep);
+  border: 1px solid var(--rule-strong);
+  color: var(--ink);
+  cursor: pointer;
+  font: inherit;
+  font-weight: 800;
+  padding: 0.35rem 0.55rem;
 }
 
 .tag-group {
@@ -5347,6 +5641,10 @@ a.paper-row:hover {
 }
 
 @media (max-width: 1050px) {
+  .tag-axis-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
   .review-scopes {
     grid-template-columns: 1fr;
   }
@@ -5389,6 +5687,10 @@ a.paper-row:hover {
 }
 
 @media (max-width: 800px) {
+  .tag-axis-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
   body {
     background: var(--paper);
   }
@@ -5580,6 +5882,21 @@ a.paper-row:hover {
 }
 
 @media (max-width: 560px) {
+  .question-tag-editor__header,
+  .question-tag-editor__footer {
+    align-items: stretch;
+    grid-template-columns: 1fr;
+  }
+
+  .question-tag-editor__header {
+    display: grid;
+  }
+
+  .tag-axis-grid,
+  .tag-lineage-row {
+    grid-template-columns: 1fr;
+  }
+
   .review-shell,
   .paper-shell {
     padding-left: 1rem;
@@ -5707,6 +6024,7 @@ a.paper-row:hover {
 
   .surface-view-switch,
   .image-version-switch,
+  .toolbar-tag-edit-toggle,
   .toolbar-raw-toggle,
   .review-view-menu {
     flex: none;

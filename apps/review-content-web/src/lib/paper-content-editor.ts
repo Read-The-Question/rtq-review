@@ -1,8 +1,7 @@
 import 'server-only';
 
-import { createHash, randomUUID } from 'node:crypto';
-import { open, readFile, rename, stat, unlink } from 'node:fs/promises';
-import { basename, dirname, join } from 'node:path';
+import { readFile } from 'node:fs/promises';
+import { basename } from 'node:path';
 
 import {
   PaperContentFieldSourceError,
@@ -15,6 +14,11 @@ import {
 import type { ResolveRtqContentOptions } from '@rtq/review-repository-paths';
 
 import { invalidateImageAvailabilityIndex } from './image-availability-index';
+import {
+  atomicWritePaperSource,
+  paperSourceVersion,
+  withPaperSourceWriteQueue,
+} from './paper-source-writer';
 
 export type PaperContentFieldTarget = Readonly<{
   collectionId: PaperCollectionId;
@@ -40,12 +44,6 @@ export class PaperContentEditorError extends Error {
     this.name = 'PaperContentEditorError';
     this.status = status;
   }
-}
-
-const writeQueues = new Map<string, Promise<void>>();
-
-function contentVersion(raw: string): string {
-  return createHash('sha256').update(raw).digest('hex');
 }
 
 function sourcePathFor(
@@ -81,49 +79,6 @@ function mapSourceError(error: unknown): never {
   throw error;
 }
 
-async function atomicWrite(sourcePath: string, value: string): Promise<void> {
-  const sourceStat = await stat(sourcePath);
-  const temporaryPath = join(
-    dirname(sourcePath),
-    `.${randomUUID()}.rtq-content-edit.tmp`,
-  );
-  let temporaryCreated = false;
-  try {
-    const handle = await open(temporaryPath, 'wx', sourceStat.mode);
-    temporaryCreated = true;
-    try {
-      await handle.writeFile(value, 'utf8');
-      await handle.sync();
-    } finally {
-      await handle.close();
-    }
-    await rename(temporaryPath, sourcePath);
-    temporaryCreated = false;
-  } finally {
-    if (temporaryCreated) await unlink(temporaryPath).catch(() => undefined);
-  }
-}
-
-async function queued<T>(
-  path: string,
-  operation: () => Promise<T>,
-): Promise<T> {
-  const preceding = writeQueues.get(path) ?? Promise.resolve();
-  let release!: () => void;
-  const turn = new Promise<void>((resolve) => {
-    release = resolve;
-  });
-  const queue = preceding.catch(() => undefined).then(() => turn);
-  writeQueues.set(path, queue);
-  await preceding.catch(() => undefined);
-  try {
-    return await operation();
-  } finally {
-    release();
-    if (writeQueues.get(path) === queue) writeQueues.delete(path);
-  }
-}
-
 export async function loadPaperContentField(
   target: PaperContentFieldTarget,
   options: ResolveRtqContentOptions = {},
@@ -134,7 +89,7 @@ export async function loadPaperContentField(
     return {
       fileName,
       value: readPaperContentField(raw, target.source),
-      version: contentVersion(raw),
+      version: paperSourceVersion(raw),
     };
   } catch (error) {
     mapSourceError(error);
@@ -150,9 +105,9 @@ export async function savePaperContentField(
   options: ResolveRtqContentOptions = {},
 ): Promise<PaperContentFieldSnapshot> {
   const { fileName, sourcePath } = sourcePathFor(input.target, options);
-  return queued(sourcePath, async () => {
+  return withPaperSourceWriteQueue(sourcePath, async () => {
     const raw = await readFile(sourcePath, 'utf8');
-    if (contentVersion(raw) !== input.expectedVersion) {
+    if (paperSourceVersion(raw) !== input.expectedVersion) {
       throw new PaperContentEditorError(
         'The displayed TOML changed after editing began. Reload this field and apply the edit again.',
         409,
@@ -165,12 +120,12 @@ export async function savePaperContentField(
     } catch (error) {
       mapSourceError(error);
     }
-    await atomicWrite(sourcePath, updated);
+    await atomicWritePaperSource(sourcePath, updated);
     invalidateImageAvailabilityIndex(input.target.collectionId);
     return {
       fileName,
       value: input.value,
-      version: contentVersion(updated),
+      version: paperSourceVersion(updated),
     };
   });
 }

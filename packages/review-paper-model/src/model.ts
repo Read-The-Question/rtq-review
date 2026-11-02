@@ -38,6 +38,10 @@ export type RegisteredPaperCollectionId =
 export type ExemplarPaperCollectionId = `exemplarsLevel${number}Toml`;
 export type PaperCollectionId =
   RegisteredPaperCollectionId | ExemplarPaperCollectionId;
+export type EditablePaperCollectionId = Exclude<
+  RegisteredPaperCollectionId,
+  'corpusAllTopicsToml'
+>;
 
 export type DimensionalTagOrigin = 'explicit' | 'inherited' | 'implicit';
 
@@ -46,6 +50,18 @@ export type EffectiveDimensionalTag = Readonly<{
   inheritedFromNodeId?: string;
   origin: DimensionalTagOrigin;
   value: string;
+}>;
+
+export type QuestionTagCatalog = Readonly<
+  Record<DimensionalTagAxis, readonly string[]>
+>;
+
+export type ReviewNodeTagState = Readonly<{
+  effectiveTags: readonly EffectiveDimensionalTag[];
+  explicitInherit: boolean | null;
+  explicitTags: readonly string[];
+  inheritedTags: readonly EffectiveDimensionalTag[];
+  nodeUuid: string;
 }>;
 
 export type PaperCollection = Readonly<{

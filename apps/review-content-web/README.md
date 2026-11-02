@@ -2,15 +2,18 @@
 
 Internal Next.js application for reviewing RTQ paper content directly from the
 active `rtq-content` checkout. It does not consume generated Markdown. Paper
-content is always read-only; review outcomes, comments, and product-wide
-findings use the shared review database.
+content is presented as a review surface, with targeted source-field and
+question-tag editing for writable paper collections. Review outcomes, comments,
+and product-wide findings use the shared review database.
 
 The application currently provides collection and file browsing, full nested
 paper presentation, corpus-wide canonical question search, five-axis runtime
 tag filters, independent question and answer content-RAG filters, rendered and
 raw content views, allowlisted canonical paper assets, database-backed outcome
 submission, local append-only review comments, and a separate product-wide
-finding inbox. A filter-aware left rail links directly to every visible
+finding inbox. **Edit tags** exposes contextual controls on each question and
+persists explicit tags or inheritance directly to that question's source TOML;
+image tags are intentionally not editable. A filter-aware left rail links directly to every visible
 question, subquestion, and sub-subquestion. The read-only `corpusAllTopicsToml`
 collection exposes the complete one-way projection across every active tag.
 
@@ -19,7 +22,7 @@ The landing-page paper browser is supplied by the workspace-owned
 package owns collection grouping, paper rows, metadata and content search,
 pagination, URL query state, and responsive styling. This app composes its
 corpus search, review queues, and macro links into the shared rail; its selected
-paper remains the private read-only `ReviewSurface`.
+paper remains the private `ReviewSurface`.
 
 Authored `PaperList` wrappers render directly in question, answer, working,
 formula, and tip Markdown. The optional `listStyleType` uses the shared review
@@ -235,7 +238,9 @@ or page size starts again from the first result.
   move through matching top-level question trees. The left question rail is
   built from that same filtered result and links to every displayed hierarchy
   level.
-- All TOML and assets remain read-only. The asset route exposes allowlisted
+- Assets and projected or exemplar TOML collections remain read-only. Writable
+  paper collections permit scoped source-field and question-tag updates with
+  source-version conflict detection. The asset route exposes allowlisted
   binaries in each owner's `manual/`, `generated/v1/diagrams/`, and
   `generated/v2/diagrams/` directories,
   plus generated long-division SVGs for questions, workings, and answers.
@@ -308,14 +313,17 @@ Use a disposable or development review database for this walkthrough.
 3. Copy the filtered URL, refresh, and confirm the filter scope is restored.
    Use **Clear all**, then reopen the copied URL to prove clear and restore
    independently.
-4. Submit a content or image outcome and confirm the success state is
+4. Select **Edit tags**, change a question's explicit tags or inheritance, and
+   confirm that the exact source TOML updates immediately. Confirm inherited
+   tags update on descendants, then select **Finish tagging**.
+5. Submit a content or image outcome and confirm the success state is
    visible without changing the source TOML.
-5. Append feedback to a question or nested question, refresh, and confirm it
+6. Append feedback to a question or nested question, refresh, and confirm it
    remains attached to that exact UUID at the current top-level RAG state.
-6. Change the current state, confirm the earlier feedback is hidden, then turn
+7. Change the current state, confirm the earlier feedback is hidden, then turn
    on **Show previous feedback** and confirm the prior-state feedback appears
    in its original context.
-7. Open **Global finding** from a selected question, confirm the product scope
+8. Open **Global finding** from a selected question, confirm the product scope
    and source context are prefilled, submit one finding, and confirm no finding
    indicator appears on the paper. Read it through `GET /api/review/findings`,
    process it through `PATCH /api/review/findings`, and confirm it no longer

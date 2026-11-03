@@ -320,6 +320,7 @@ const REVIEW_SIDE_OPTIONS = [
   { label: 'Question image', shortLabel: 'QI', value: 'question-image' },
   { label: 'Answer', shortLabel: 'A', value: 'answer' },
   { label: 'Answer image', shortLabel: 'AI', value: 'answer-image' },
+  { label: 'Tags', shortLabel: 'T', value: 'tags' },
 ] as const satisfies readonly Readonly<{
   label: string;
   shortLabel: string;
@@ -329,6 +330,7 @@ const REVIEW_SIDE_OPTIONS = [
 const REVIEW_CONTEXT_OPTIONS = [
   { label: 'Question', shortLabel: 'Q', value: 'question' },
   { label: 'Answer', shortLabel: 'A', value: 'answer' },
+  { label: 'Tags', shortLabel: 'T', value: 'tags' },
 ] as const satisfies readonly Readonly<{
   label: string;
   shortLabel: string;
@@ -1779,7 +1781,8 @@ function QuestionNode({
   const contentStatusTone = preferences.showStatusBackground
     ? contentStatus?.tone
     : undefined;
-  const imageSide = `${preferences.reviewSide}-image` as const;
+  const imageSide =
+    preferences.reviewSide === 'question' ? 'question-image' : 'answer-image';
   const corpusSource = node.depth === 0 ? node.reviewSource : undefined;
   const visibleChildren = visibleNodeIds
     ? node.children.filter((child) => visibleNodeIds.has(child.id))
@@ -1885,6 +1888,17 @@ function QuestionNode({
       {preferences.showTags || questionTagRuntime.enabled ? (
         <NodeTags node={node} />
       ) : null}
+      {visibleFeedbackSides(preferences)
+        .filter((side) => side === 'tags')
+        .map((side) => (
+          <ReviewFeedback
+            key={side}
+            node={node}
+            runtime={reviewRuntime}
+            side={side}
+            topLevelQuestion={topLevelQuestion}
+          />
+        ))}
       <div className="question-copy">
         <ContentField
           field={node.content.question}
@@ -1999,7 +2013,8 @@ function ImageQuestionNode({
   if (occurrences.length === 0 && visibleChildren.length === 0) return null;
 
   const nextTrail = [...trail, node.label];
-  const imageSide = `${preferences.reviewSide}-image` as const;
+  const imageSide =
+    preferences.reviewSide === 'question' ? 'question-image' : 'answer-image';
   const corpusSource = topLevelQuestion.reviewSource;
   const exactMatch = matchingNodeIds.has(node.id);
 
@@ -2391,7 +2406,9 @@ function FilterPanel({
       | 'questionImageRag'
       | 'questionImageReview'
       | 'questionRag'
-      | 'questionReview',
+      | 'questionReview'
+      | 'tagRag'
+      | 'tagReview',
     value: string,
   ) => void;
   onReturnToQuestion?: () => void;
@@ -2452,7 +2469,11 @@ function FilterPanel({
         <header className="review-context-filter-heading">
           <div>
             <span className="review-context-filter-mark" aria-hidden="true">
-              {reviewContext === 'question' ? 'Q' : 'A'}
+              {reviewContext === 'question'
+                ? 'Q'
+                : reviewContext === 'tags'
+                  ? 'T'
+                  : 'A'}
             </span>
             <div>
               <strong>{reviewContext} review lens</strong>
@@ -3617,6 +3638,9 @@ export function ReviewSurface({
             showQuestionStatusInfo: false,
           }
         : {}),
+      ...(preferences.reviewSide === 'tags'
+        ? { reviewPanelMode: 'content', showTags: true }
+        : {}),
     }),
     [imageComparisonScale, imageView, preferences, visibleImageVersionList],
   );
@@ -3690,6 +3714,7 @@ export function ReviewSurface({
                 'answer-image': valueFor('answer-image'),
                 question: valueFor('question'),
                 'question-image': valueFor('question-image'),
+                tags: valueFor('tags'),
               },
             ];
           }),
@@ -4403,7 +4428,9 @@ export function ReviewSurface({
       | 'questionImageRag'
       | 'questionImageReview'
       | 'questionRag'
-      | 'questionReview',
+      | 'questionReview'
+      | 'tagRag'
+      | 'tagReview',
     value: string,
   ) {
     const selected = selection[parameter].includes(value);
@@ -5392,7 +5419,9 @@ export function ReviewSurface({
                 <label className="view-option-select">
                   <span>Questions shown</span>
                   <select
-                    disabled={imageView}
+                    disabled={
+                      imageView || displayPreferences.reviewSide === 'tags'
+                    }
                     onChange={(event) =>
                       updatePreference(
                         'questionContentFilter',
@@ -5421,7 +5450,9 @@ export function ReviewSurface({
                 <label className="view-option-select">
                   <span>Review panels</span>
                   <select
-                    disabled={imageView}
+                    disabled={
+                      imageView || displayPreferences.reviewSide === 'tags'
+                    }
                     onChange={(event) =>
                       updatePreference(
                         'reviewPanelMode',

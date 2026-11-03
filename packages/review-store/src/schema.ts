@@ -12,6 +12,7 @@ const REVIEW_SIDE_VALUES = [
   "answer",
   "question-image",
   "answer-image",
+  "tags",
 ] as const;
 
 export const globalReviewFindings = sqliteTable(
@@ -72,7 +73,7 @@ export const reviewComments = sqliteTable(
   (table) => [
     check(
       "review_comments_side_check",
-      sql`${table.side} in ('question', 'answer', 'question-image', 'answer-image')`,
+      sql`${table.side} in ('question', 'answer', 'question-image', 'answer-image', 'tags')`,
     ),
     uniqueIndex("review_comments_submission_id_unique").on(table.submissionId),
     index("review_comments_identity_state_created_idx").on(
@@ -98,7 +99,7 @@ export const reviewOutcomes = sqliteTable(
   (table) => [
     check(
       "review_outcomes_side_check",
-      sql`${table.side} in ('question', 'answer', 'question-image', 'answer-image')`,
+      sql`${table.side} in ('question', 'answer', 'question-image', 'answer-image', 'tags')`,
     ),
     uniqueIndex("review_outcomes_identity_state_unique").on(
       table.uuid,

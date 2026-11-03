@@ -32,6 +32,7 @@ const source = {
     'answer-image': 'rag_wf_na',
     question: 'rag_wf_ng2',
     'question-image': 'rag_wf_ng2',
+    tags: 'rag_wf_ng2',
   },
   uuid: 'uuid-1',
 } satisfies ReviewWorkOccurrence;

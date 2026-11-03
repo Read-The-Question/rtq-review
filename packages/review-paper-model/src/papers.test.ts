@@ -424,6 +424,9 @@ rag.answer.image.review.comments = '''Answer image comment'''
 rag.question.state = "rag_wf_g0"
 rag.question.review.outcome = "rag_wf_prcc"
 rag.question.review.comments = '''Legacy question comment'''
+rag.tags.state = "rag_wf_ng2"
+rag.tags.review.outcome = "rag_wf_prns"
+rag.tags.review.comments = '''Tag review comment'''
 rag.question.image.state = "rag_wf_ng3"
 rag.question.image.types = []
 rag.question.image.ignored = ["decorative"]
@@ -768,6 +771,7 @@ test('parses the complete nested read model and safe preparation inputs', async 
         { count: 1, state: 'rag_wf_ng3' },
         { count: 1, state: 'rag_wf_notapplicable' },
       ],
+      tags: [{ count: 1, state: 'rag_wf_ng2' }],
     });
     assert.equal(question.content.question.raw.includes('rtq_abbr_test'), true);
     assert.deepEqual(question.content.question.source, {
@@ -806,6 +810,9 @@ test('parses the complete nested read model and safe preparation inputs', async 
       'Draw the working diagram.',
     );
     assert.equal(question.review.question.contentRag, 'rag_wf_g0');
+    assert.equal(question.review.tags?.contentRag, 'rag_wf_ng2');
+    assert.equal(question.review.tags?.reviewOutcome, 'rag_wf_prns');
+    assert.equal(question.review.tags?.legacyComments, 'Tag review comment');
     assert.equal(
       question.review.question.legacyComments,
       'Legacy question comment',

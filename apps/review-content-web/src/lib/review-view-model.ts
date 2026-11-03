@@ -16,25 +16,25 @@ import {
 
 export type { QuestionContentFilter } from './question-content-filter';
 
-export const REVIEW_PREFERENCES_KEY = 'rtq.review-content.preferences.v14';
+export const REVIEW_PREFERENCES_KEY = 'rtq.review-content.preferences.v15';
 export const REVIEW_FILTER_DISCLOSURE_KEY =
   'rtq.review-content.filter-disclosure.v1';
 export const PREVIOUS_REVIEW_PREFERENCES_KEY =
-  'rtq.review-content.preferences.v13';
+  'rtq.review-content.preferences.v14';
 export const LEGACY_REVIEW_PREFERENCES_KEY =
-  'rtq.review-content.preferences.v12';
+  'rtq.review-content.preferences.v13';
 export const EARLIER_REVIEW_PREFERENCES_KEY =
-  'rtq.review-content.preferences.v11';
+  'rtq.review-content.preferences.v12';
 export const INITIAL_REVIEW_PREFERENCES_KEY =
-  'rtq.review-content.preferences.v10';
+  'rtq.review-content.preferences.v11';
 export const OLDEST_REVIEW_PREFERENCES_KEY =
-  'rtq.review-content.preferences.v9';
+  'rtq.review-content.preferences.v10';
 export const EARLIEST_REVIEW_PREFERENCES_KEY =
-  'rtq.review-content.preferences.v8';
+  'rtq.review-content.preferences.v9';
 
 export type PaperImageScale = 1 | 2;
 export type ReviewControlMode = 'advanced' | 'simple';
-export type ReviewContext = 'answer' | 'question';
+export type ReviewContext = 'answer' | 'question' | 'tags';
 export type ReviewPanelMode = 'both' | 'content' | 'image';
 export type ReviewSurfaceView = 'content' | 'images';
 export type VisibleReviewSide = ReviewContext;
@@ -184,6 +184,7 @@ export function parseReviewPreferences(
       if (requestedSide === 'question' || requestedSide === 'question-image') {
         return 'question';
       }
+      if (requestedSide === 'tags') return 'tags';
       if (
         record?.showQuestionReview === true &&
         record?.showAnswerReview !== true
@@ -216,6 +217,7 @@ export function parseReviewPreferences(
     side: VisibleReviewSide,
     suffix: 'Feedback' | 'Review',
   ): boolean | undefined {
+    if (side === 'tags') return undefined;
     const key = `show${side === 'question' ? 'Question' : 'Answer'}${suffix}`;
     for (const record of records) {
       const requested = record?.[key];
@@ -343,7 +345,8 @@ export function parseReviewPreferences(
 
 export function reviewSidesForContext(
   context: ReviewContext,
-): readonly [ReviewSide, ReviewSide] {
+): readonly ReviewSide[] {
+  if (context === 'tags') return ['tags'];
   return context === 'question'
     ? ['question', 'question-image']
     : ['answer', 'answer-image'];
@@ -380,6 +383,7 @@ export function reviewSidesForPanel(
   context: ReviewContext,
   panelMode: ReviewPanelMode,
 ): readonly ReviewSide[] {
+  if (context === 'tags') return ['tags'];
   if (panelMode === 'content') {
     return context === 'question' ? ['question'] : ['answer'];
   }
@@ -393,6 +397,19 @@ export function reviewFilterSelectionForContext(
   selection: ReviewFilterSelection,
   context: ReviewContext,
 ): ReviewFilterSelection {
+  if (context === 'tags') {
+    return {
+      ...selection,
+      answerImageRag: [],
+      answerImageReview: [],
+      answerRag: [],
+      answerReview: [],
+      questionImageRag: [],
+      questionImageReview: [],
+      questionRag: [],
+      questionReview: [],
+    };
+  }
   return context === 'question'
     ? {
         ...selection,
@@ -400,6 +417,8 @@ export function reviewFilterSelectionForContext(
         answerImageReview: [],
         answerRag: [],
         answerReview: [],
+        tagRag: [],
+        tagReview: [],
       }
     : {
         ...selection,
@@ -407,6 +426,8 @@ export function reviewFilterSelectionForContext(
         questionImageReview: [],
         questionRag: [],
         questionReview: [],
+        tagRag: [],
+        tagReview: [],
       };
 }
 
@@ -431,6 +452,8 @@ export function reviewFilterSelectionForSides(
       : [],
     questionRag: enabled.has('question') ? selection.questionRag : [],
     questionReview: enabled.has('question') ? selection.questionReview : [],
+    tagRag: enabled.has('tags') ? selection.tagRag : [],
+    tagReview: enabled.has('tags') ? selection.tagReview : [],
   };
 }
 
@@ -446,6 +469,9 @@ export function clearReviewFiltersForContext(
     math: [],
     reasoning: [],
   };
+  if (context === 'tags') {
+    return { ...withoutDimensions, tagRag: [], tagReview: [] };
+  }
   return context === 'question'
     ? {
         ...withoutDimensions,
@@ -467,6 +493,7 @@ export function clearReviewOutcomeFiltersForContext(
   selection: ReviewFilterSelection,
   context: ReviewContext,
 ): ReviewFilterSelection {
+  if (context === 'tags') return { ...selection, tagReview: [] };
   return context === 'question'
     ? {
         ...selection,

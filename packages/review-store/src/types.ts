@@ -3,6 +3,7 @@ export const REVIEW_SIDES = [
   "question-image",
   "answer",
   "answer-image",
+  "tags",
 ] as const;
 
 export type ReviewSide = (typeof REVIEW_SIDES)[number];

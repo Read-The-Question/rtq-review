@@ -41,6 +41,7 @@ function node(
     depth?: 0 | 1 | 2;
     inherit?: boolean | null;
     questionRag?: string;
+    tagRag?: string;
   }> = {},
 ): ReviewPaperNode {
   const depth = options.depth ?? 0;
@@ -77,6 +78,10 @@ function node(
       'question-image': {
         contentRag: 'rag_wf_ng2',
         imageTypes: [],
+        legacyComments: '',
+      },
+      tags: {
+        ...(depth === 0 ? { contentRag: options.tagRag ?? 'rag_wf_ng2' } : {}),
         legacyComments: '',
       },
     },
@@ -223,7 +228,7 @@ function filterFixture(): ReviewPaper {
         questionRag: 'rag_wf_g2',
       }),
     ],
-    { answerRag: 'rag_wf_g3', questionRag: 'rag_wf_g4' },
+    { answerRag: 'rag_wf_g3', questionRag: 'rag_wf_g4', tagRag: 'rag_wf_ng2' },
   );
   const splitAcrossNodesTree = node(
     's0.q1',
@@ -236,13 +241,13 @@ function filterFixture(): ReviewPaper {
         questionRag: 'rag_wf_g3',
       }),
     ],
-    { answerRag: 'rag_wf_g4', questionRag: 'rag_wf_g4' },
+    { answerRag: 'rag_wf_g4', questionRag: 'rag_wf_g4', tagRag: 'rag_wf_ng3' },
   );
   const ratioTree = node(
     's0.q2',
     ['family.recipe', 'math.ratio', 'frame.columnar'],
     [],
-    { answerRag: 'rag_wf_g4', questionRag: 'rag_wf_g1' },
+    { answerRag: 'rag_wf_g4', questionRag: 'rag_wf_g1', tagRag: 'rag_wf_ng4' },
   );
 
   return resolveReviewPaperTags(
@@ -386,6 +391,21 @@ test('filters question and answer content states independently on the same node'
   );
 });
 
+test('filters tag state only at the top-level question tree', () => {
+  const result = filterReviewPaper(filterFixture(), {
+    tagRag: ['rag_wf_ng3'],
+  });
+
+  assert.deepEqual(result.matchingQuestionTreeIds, ['s0.q1']);
+  assert.deepEqual(result.matchingNodeIds, ['s0.q1']);
+  assert.equal(
+    result.stateFacets
+      .find((facet) => facet.side === 'tags')
+      ?.options.find((option) => option.value === 'rag_wf_ng3')?.count,
+    1,
+  );
+});
+
 test('cross-filters question and answer state counts and retains zero selections', () => {
   const result = filterReviewPaper(filterFixture(), {
     answerRag: ['rag_wf_g4'],
@@ -398,7 +418,7 @@ test('cross-filters question and answer state counts and retains zero selections
 
   assert.deepEqual(
     result.stateFacets.map((facet) => facet.side),
-    ['question', 'question-image', 'answer', 'answer-image'],
+    ['question', 'question-image', 'answer', 'answer-image', 'tags'],
   );
   assert.deepEqual(
     question?.options.find((option) => option.value === 'rag_wf_missing'),
@@ -425,16 +445,19 @@ const outcomeContext: ReviewOutcomeFilterContext = {
       answer: 'PRCR',
       question: 'PRG',
       'question-image': null,
+      tags: 'PRG',
     },
     's0.q1': {
       answer: null,
       question: 'PRCC',
       'question-image': 'PRG',
+      tags: null,
     },
     's0.q2': {
       answer: 'PRG',
       question: null,
       'question-image': 'PRCR',
+      tags: 'PRCR',
     },
   },
 };
@@ -467,6 +490,19 @@ test('filters exact top-level question and answer review outcomes independently'
       outcomeContext,
     ).matchingQuestionTreeIds,
     ['s0.q0', 's0.q1'],
+  );
+});
+
+test('filters tag review outcomes as an independent singleton track', () => {
+  assert.deepEqual(
+    filterReviewPaper(filterFixture(), { tagReview: ['PRG'] }, outcomeContext)
+      .matchingQuestionTreeIds,
+    ['s0.q0'],
+  );
+  assert.deepEqual(
+    filterReviewPaper(filterFixture(), { tagReview: ['PRNS'] }, outcomeContext)
+      .matchingQuestionTreeIds,
+    ['s0.q1'],
   );
 });
 
@@ -554,7 +590,7 @@ test('cross-filters review outcomes with content state and dimensions', () => {
   assert.deepEqual(result.matchingNodeIds, ['s0.q0.sq0']);
   assert.deepEqual(
     result.reviewOutcomeFacets.map((facet) => facet.side),
-    ['question', 'question-image', 'answer', 'answer-image'],
+    ['question', 'question-image', 'answer', 'answer-image', 'tags'],
   );
   assert.equal(
     result.reviewOutcomeFacets[0].options.find(
@@ -640,6 +676,8 @@ test('round-trips state and dimensional filters and clears the complete lens', (
     questionRag: ['rag_wf_ng4'],
     questionReview: ['PRCR'],
     reasoning: [],
+    tagRag: [],
+    tagReview: [],
   });
   const serialized = serializeReviewFilterSearchParams(
     parsed,
@@ -671,5 +709,7 @@ test('round-trips state and dimensional filters and clears the complete lens', (
     questionRag: [],
     questionReview: [],
     reasoning: [],
+    tagRag: [],
+    tagReview: [],
   });
 });

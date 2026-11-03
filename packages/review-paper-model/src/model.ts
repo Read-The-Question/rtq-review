@@ -254,6 +254,7 @@ export type ReviewPaperNode = Readonly<{
     'answer-image': ReviewTargetState;
     question: ReviewTargetState;
     'question-image': ReviewTargetState;
+    tags?: ReviewTargetState;
   }>;
   sourceQuestionId?: string;
   uuid?: string;
@@ -329,7 +330,7 @@ export type DimensionalFilterSelection = Readonly<
 >;
 
 export type ReviewStateFilterSide =
-  'answer' | 'answer-image' | 'question' | 'question-image';
+  'answer' | 'answer-image' | 'question' | 'question-image' | 'tags';
 export type ReviewOutcomeFilterSide = ReviewStateFilterSide;
 
 export type ReviewOutcomeFilterContext = Readonly<{
@@ -353,6 +354,8 @@ export type ReviewFilterSelection = DimensionalFilterSelection &
     questionImageReview: readonly string[];
     questionRag: readonly string[];
     questionReview: readonly string[];
+    tagRag: readonly string[];
+    tagReview: readonly string[];
   }>;
 
 export type DimensionalFacetOption = Readonly<{
@@ -372,7 +375,11 @@ export type ReviewStateFacet = Readonly<{
   label: string;
   options: readonly DimensionalFacetOption[];
   parameter:
-    'answerImageRag' | 'answerRag' | 'questionImageRag' | 'questionRag';
+    | 'answerImageRag'
+    | 'answerRag'
+    | 'questionImageRag'
+    | 'questionRag'
+    | 'tagRag';
   side: ReviewStateFilterSide;
 }>;
 
@@ -383,7 +390,8 @@ export type ReviewOutcomeFacet = Readonly<{
     | 'answerImageReview'
     | 'answerReview'
     | 'questionImageReview'
-    | 'questionReview';
+    | 'questionReview'
+    | 'tagReview';
   side: ReviewOutcomeFilterSide;
 }>;
 

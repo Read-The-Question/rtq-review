@@ -53,6 +53,7 @@ function source(
           { count: 1, state: 'rag_wf_ng4' },
         ],
         'question-image': [{ count: 1, state: 'rag_wf_notapplicable' }],
+        tags: [{ count: 4, state: 'rag_wf_ng2' }],
       },
       relativePath: fileName,
       title: options.title ?? fileName.replace(/\.toml$/u, ''),
@@ -141,7 +142,7 @@ test('normalizes URL search state and filters every metadata term', () => {
   );
   assert.deepEqual(
     normalizePaperBrowserSearchParameters({ 'rag-view': 'all' }).ragView,
-    ['question', 'answer', 'question-image', 'answer-image'],
+    ['question', 'answer', 'question-image', 'answer-image', 'tags'],
   );
 
   const papers = collection('toml', 'Papers');

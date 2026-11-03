@@ -15,6 +15,7 @@ export const PAPER_BROWSER_RAG_TRACKS = [
   'answer',
   'question-image',
   'answer-image',
+  'tags',
 ] as const satisfies readonly ReviewStateFilterSide[];
 
 export type PaperBrowserRagView = readonly ReviewStateFilterSide[];

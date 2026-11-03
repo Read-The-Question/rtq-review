@@ -43,6 +43,7 @@ const stateFacetParameters = {
   'answer-image': 'answerImageRag',
   question: 'questionRag',
   'question-image': 'questionImageRag',
+  tags: 'tagRag',
 } as const;
 
 const stateFacetLabels: Readonly<Record<ReviewStateFilterSide, string>> = {
@@ -50,6 +51,7 @@ const stateFacetLabels: Readonly<Record<ReviewStateFilterSide, string>> = {
   'answer-image': 'Answer image state',
   question: 'Question state',
   'question-image': 'Question image state',
+  tags: 'Tag state',
 };
 
 const outcomeFacetParameters = {
@@ -57,6 +59,7 @@ const outcomeFacetParameters = {
   'answer-image': 'answerImageReview',
   question: 'questionReview',
   'question-image': 'questionImageReview',
+  tags: 'tagReview',
 } as const;
 
 const outcomeFacetLabels: Readonly<Record<ReviewOutcomeFilterSide, string>> = {
@@ -64,6 +67,7 @@ const outcomeFacetLabels: Readonly<Record<ReviewOutcomeFilterSide, string>> = {
   'answer-image': 'Answer image review outcome',
   question: 'Question review outcome',
   'question-image': 'Question image review outcome',
+  tags: 'Tag review outcome',
 };
 
 const reviewFilterSides = [
@@ -71,18 +75,17 @@ const reviewFilterSides = [
   'question-image',
   'answer',
   'answer-image',
+  'tags',
 ] as const satisfies readonly ReviewStateFilterSide[];
 
 const reviewOutcomeSidePairs = [
   ['question', 'question-image'],
   ['answer', 'answer-image'],
-] as const satisfies readonly (readonly [
-  ReviewOutcomeFilterSide,
-  ReviewOutcomeFilterSide,
-])[];
+  ['tags'],
+] as const satisfies readonly (readonly ReviewOutcomeFilterSide[])[];
 
 const pairedReviewOutcomeSide: Readonly<
-  Record<ReviewOutcomeFilterSide, ReviewOutcomeFilterSide>
+  Partial<Record<ReviewOutcomeFilterSide, ReviewOutcomeFilterSide>>
 > = {
   answer: 'answer-image',
   'answer-image': 'answer',
@@ -118,6 +121,8 @@ export function emptyReviewFilterSelection(): ReviewFilterSelection {
     questionImageReview: [],
     questionRag: [],
     questionReview: [],
+    tagRag: [],
+    tagReview: [],
   };
 }
 
@@ -157,6 +162,8 @@ export function normalizeReviewFilterSelection(
     questionImageReview: normalizeStateValues(selection.questionImageReview),
     questionRag: normalizeStateValues(selection.questionRag),
     questionReview: normalizeStateValues(selection.questionReview),
+    tagRag: normalizeStateValues(selection.tagRag),
+    tagReview: normalizeStateValues(selection.tagReview),
   };
 }
 
@@ -210,6 +217,8 @@ export function parseReviewFilterSearchParams(
     questionImageReview: searchParams.getAll('question-image-review'),
     questionRag: searchParams.getAll('question-rag'),
     questionReview: searchParams.getAll('question-review'),
+    tagRag: searchParams.getAll('tag-rag'),
+    tagReview: searchParams.getAll('tag-review'),
   });
 }
 
@@ -230,6 +239,8 @@ export function serializeReviewFilterSearchParams(
   searchParams.delete('question-image-review');
   searchParams.delete('question-rag');
   searchParams.delete('question-review');
+  searchParams.delete('tag-rag');
+  searchParams.delete('tag-review');
   for (const value of normalized.answerImageRag) {
     searchParams.append('answer-image-rag', value);
   }
@@ -253,6 +264,12 @@ export function serializeReviewFilterSearchParams(
   }
   for (const value of normalized.questionReview) {
     searchParams.append('question-review', value);
+  }
+  for (const value of normalized.tagRag) {
+    searchParams.append('tag-rag', value);
+  }
+  for (const value of normalized.tagReview) {
+    searchParams.append('tag-review', value);
   }
   searchParams.sort();
   return searchParams.toString();
@@ -282,6 +299,7 @@ export function clearReviewOutcomeFilters(
     answerReview: [],
     questionImageReview: [],
     questionReview: [],
+    tagReview: [],
   });
 }
 
@@ -310,7 +328,7 @@ function nodeMatches(
     if (side === excludedStateSide) return true;
     const selected = selection[stateFacetParameters[side]];
     if (selected.length === 0) return true;
-    const state = node.review[side].contentRag;
+    const state = node.review[side]?.contentRag;
     return state ? selected.includes(state) : false;
   });
 }
@@ -431,7 +449,7 @@ function stateFacetValues(
       ...paper.sections.flatMap((section) =>
         section.questions.flatMap((question) =>
           flattenNode(question).flatMap((node) => {
-            const value = node.review[side].contentRag;
+            const value = node.review[side]?.contentRag;
             return value ? [value] : [];
           }),
         ),
@@ -454,7 +472,7 @@ function stateFacetCount(
       tree.nodes.some(
         (node) =>
           nodeMatches(node, selection, undefined, side) &&
-          node.review[side].contentRag === value,
+          node.review[side]?.contentRag === value,
       ),
   ).length;
 }
@@ -483,7 +501,7 @@ function reviewOutcomeFacetCount(
   const candidateSelection = normalizeReviewFilterSelection({
     ...selection,
     [parameter]: [value],
-    [outcomeFacetParameters[pairedSide]]: [],
+    ...(pairedSide ? { [outcomeFacetParameters[pairedSide]]: [] } : {}),
   });
   return trees.filter(
     (tree) =>

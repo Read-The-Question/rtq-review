@@ -61,6 +61,7 @@ const SIDE_LABELS: Readonly<Record<ReviewSide, string>> = {
   'answer-image': 'Answer image',
   question: 'Question',
   'question-image': 'Question image',
+  tags: 'Tags',
 };
 
 function reviewDate(value: string) {

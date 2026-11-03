@@ -337,6 +337,12 @@ test("outcomes replace within one identity and state without consumption flags",
     outcome: "PRG",
     reviewer: "reviewer-4",
   });
+  store.outcomes.set({
+    ...target,
+    side: "tags",
+    outcome: "PRG",
+    reviewer: "reviewer-5",
+  });
 
   assert.equal(replacement.createdAt, first.createdAt);
   assert.equal(replacement.updatedAt, "2026-09-09T08:01:00.000Z");
@@ -357,6 +363,7 @@ test("outcomes replace within one identity and state without consumption flags",
       ["uuid-1", "answer", "rag_wf_g1"],
       ["uuid-1", "answer", "rag_wf_g2"],
       ["uuid-1", "question", "rag_wf_g1"],
+      ["uuid-1", "tags", "rag_wf_g1"],
     ],
   );
   assert.deepEqual(Object.keys(replacement).sort(), [
@@ -371,7 +378,7 @@ test("outcomes replace within one identity and state without consumption flags",
   assert.equal(store.outcomes.clear(target), true);
   assert.equal(store.outcomes.clear(target), false);
   assert.equal(store.outcomes.get(target), undefined);
-  assert.equal(store.outcomes.listAll().length, 2);
+  assert.equal(store.outcomes.listAll().length, 3);
   store.close();
 });
 

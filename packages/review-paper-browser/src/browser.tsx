@@ -52,6 +52,7 @@ const ragTrackOptions: readonly Readonly<{
   { label: 'Answer', shortLabel: 'A', value: 'answer' },
   { label: 'Question image', shortLabel: 'QI', value: 'question-image' },
   { label: 'Answer image', shortLabel: 'AI', value: 'answer-image' },
+  { label: 'Tags', shortLabel: 'T', value: 'tags' },
 ];
 
 function PaperRagStateSummary({

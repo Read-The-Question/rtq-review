@@ -263,6 +263,7 @@ async function loadOccurrences(
                 'question-image': normalizedState(
                   question.review['question-image'].contentRag,
                 ),
+                tags: normalizedState(question.review.tags?.contentRag),
               },
               uuid: node.uuid,
             },

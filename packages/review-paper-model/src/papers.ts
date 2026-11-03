@@ -341,6 +341,7 @@ const ragStateSides = [
   'answer',
   'question-image',
   'answer-image',
+  'tags',
 ] as const;
 
 function paperRagStateCounts(parsed: ParsedPaper): PaperRagStateCounts {
@@ -348,16 +349,17 @@ function paperRagStateCounts(parsed: ParsedPaper): PaperRagStateCounts {
     ragStateSides.map((side) => [side, new Map<string, number>()]),
   ) as Record<(typeof ragStateSides)[number], Map<string, number>>;
 
-  function visit(record: Record<string, unknown>) {
+  function visit(record: Record<string, unknown>, depth: number) {
     for (const side of ragStateSides) {
+      if (side === 'tags' && depth !== 0) continue;
       const state = reviewTarget(record, side, undefined).contentRag;
       if (state) counts[side].set(state, (counts[side].get(state) ?? 0) + 1);
     }
-    asRecords(record.subquestions).forEach(visit);
+    asRecords(record.subquestions).forEach((child) => visit(child, depth + 1));
   }
 
   parsed.sections.forEach((section) =>
-    asRecords(section.questions).forEach(visit),
+    asRecords(section.questions).forEach((question) => visit(question, 0)),
   );
 
   function stateCounts(side: (typeof ragStateSides)[number]) {
@@ -373,6 +375,7 @@ function paperRagStateCounts(parsed: ParsedPaper): PaperRagStateCounts {
 
   return {
     answer: stateCounts('answer'),
+    tags: stateCounts('tags'),
     'answer-image': stateCounts('answer-image'),
     question: stateCounts('question'),
     'question-image': stateCounts('question-image'),
@@ -1019,11 +1022,16 @@ function assetContext(
 
 function reviewTarget(
   record: Record<string, unknown>,
-  target: 'answer' | 'answer-image' | 'question' | 'question-image',
+  target: 'answer' | 'answer-image' | 'question' | 'question-image' | 'tags',
   uuid: string | undefined,
 ): ReviewTargetState {
   const rag = isRecord(record.rag) ? record.rag : {};
-  const sideName = target.startsWith('answer') ? 'answer' : 'question';
+  const sideName =
+    target === 'tags'
+      ? 'tags'
+      : target.startsWith('answer')
+        ? 'answer'
+        : 'question';
   const rawSide = rag[sideName];
   const side = isRecord(rawSide) ? rawSide : {};
   const imageTarget = target.endsWith('-image');
@@ -1254,6 +1262,10 @@ function buildNode(
       'answer-image': reviewTarget(record, 'answer-image', uuid),
       question: reviewTarget(record, 'question', uuid),
       'question-image': reviewTarget(record, 'question-image', uuid),
+      tags:
+        depth === 0
+          ? reviewTarget(record, 'tags', uuid)
+          : { legacyComments: '' },
     },
     ...(sourceQuestionId ? { sourceQuestionId } : {}),
     ...(uuid ? { uuid } : {}),

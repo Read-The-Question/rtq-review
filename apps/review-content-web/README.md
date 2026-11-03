@@ -46,7 +46,7 @@ recorded in the canonical
 
 ## Requirements
 
-- Node.js 24.19.0 and pnpm 10.15.1 from the workspace root
+- Node.js 24.22.2 and pnpm 10.15.1 from the workspace root
 - A sibling `../rtq-content` checkout, or `RTQ_CONTENT_ROOT` set to a complete
   `rtq-content` Git root
 

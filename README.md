@@ -56,7 +56,7 @@ corepack enable
 pnpm install --frozen-lockfile
 ```
 
-The workspace uses Node `24.19.0` and pnpm `10.15.1`.
+The workspace uses Node `24.22.2` and pnpm `10.15.1`.
 
 The three maintained Next.js reviewers resolve a sibling `../rtq-content`
 checkout from this workspace root. For a different layout, set

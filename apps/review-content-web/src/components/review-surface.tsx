@@ -90,6 +90,7 @@ import {
   visibleReviewSides,
   type ReviewContext,
   type ReviewControlMode,
+  type OriginalImageSize,
   type PaperImageScale,
   type QuestionContentFilter,
   type ReviewPanelMode,
@@ -3626,11 +3627,19 @@ export function ReviewSurface({
     requestedImageScale === '1' || requestedImageScale === '2'
       ? (Number(requestedImageScale) as PaperImageScale)
       : preferences.imageScale;
+  const requestedOriginalImageSize = searchParams.get('original-image-size');
+  const originalImageSize: OriginalImageSize =
+    requestedOriginalImageSize === 'sm' ||
+    requestedOriginalImageSize === 'md' ||
+    requestedOriginalImageSize === 'lg'
+      ? requestedOriginalImageSize
+      : preferences.originalImageSize;
   const displayPreferences = useMemo<ReviewPreferences>(
     () => ({
       ...preferences,
       imageComparisonVersions: visibleImageVersionList,
       imageScale: imageComparisonScale,
+      originalImageSize,
       ...(imageView
         ? {
             questionContentFilter: 'image',
@@ -3642,7 +3651,13 @@ export function ReviewSurface({
         ? { reviewPanelMode: 'content', showTags: true }
         : {}),
     }),
-    [imageComparisonScale, imageView, preferences, visibleImageVersionList],
+    [
+      imageComparisonScale,
+      imageView,
+      originalImageSize,
+      preferences,
+      visibleImageVersionList,
+    ],
   );
   const contentPattern = searchParams.get('content')?.trim() ?? '';
   const contentScope = normalizeContentSearchScope(
@@ -4510,6 +4525,14 @@ export function ReviewSurface({
     replaceSearchParams(current);
   }
 
+  function setOriginalImageSize(size: OriginalImageSize) {
+    updatePreference('originalImageSize', size);
+    const current = new URLSearchParams(searchParams.toString());
+    if (size === 'sm') current.delete('original-image-size');
+    else current.set('original-image-size', size);
+    replaceSearchParams(current);
+  }
+
   function clearReviewOutcomes() {
     const current = new URLSearchParams(searchParams.toString());
     current.delete('question');
@@ -5062,6 +5085,7 @@ export function ReviewSurface({
   return (
     <main
       className={`paper-shell${visiblePdf ? ' paper-shell--with-pdf' : ''}${imageView ? ' paper-shell--image-view' : ''}`}
+      data-original-image-size={originalImageSize}
       id="paper-top"
     >
       <SiteHeader compact showReviewStorage />
@@ -5515,6 +5539,21 @@ export function ReviewSurface({
                   >
                     <option value="1">Original (1×)</option>
                     <option value="2">Enlarged (2×)</option>
+                  </select>
+                </label>
+                <label className="view-option-select">
+                  <span>Original image size</span>
+                  <select
+                    onChange={(event) =>
+                      setOriginalImageSize(
+                        event.target.value as OriginalImageSize,
+                      )
+                    }
+                    value={originalImageSize}
+                  >
+                    <option value="sm">Small</option>
+                    <option value="md">Medium</option>
+                    <option value="lg">Large</option>
                   </select>
                 </label>
                 <PreferenceToggle

@@ -33,6 +33,12 @@ export const EARLIEST_REVIEW_PREFERENCES_KEY =
   'rtq.review-content.preferences.v9';
 
 export type PaperImageScale = 1 | 2;
+/**
+ * Raises the width cap on original (manual and retired) raster variants without
+ * lowering an authored displaySize, so the paper scan can be inspected at a
+ * readable size independently of the SVG scale.
+ */
+export type OriginalImageSize = 'lg' | 'md' | 'sm';
 export type ReviewControlMode = 'advanced' | 'simple';
 export type ReviewContext = 'answer' | 'question' | 'tags';
 export type ReviewPanelMode = 'both' | 'content' | 'image';
@@ -42,6 +48,7 @@ export type VisibleReviewSide = ReviewContext;
 export type ReviewPreferences = Readonly<{
   imageComparisonVersions: readonly ImageComparisonVersion[];
   imageScale: PaperImageScale;
+  originalImageSize: OriginalImageSize;
   questionContentFilter: QuestionContentFilter;
   reviewControlMode: ReviewControlMode;
   reviewPanelMode: ReviewPanelMode;
@@ -64,6 +71,7 @@ export type ReviewPreferences = Readonly<{
 export const DEFAULT_REVIEW_PREFERENCES: ReviewPreferences = {
   imageComparisonVersions: DEFAULT_IMAGE_COMPARISON_VERSIONS,
   imageScale: 1,
+  originalImageSize: 'sm',
   questionContentFilter: 'all',
   reviewControlMode: 'simple',
   reviewPanelMode: 'both',
@@ -249,6 +257,9 @@ export function parseReviewPreferences(
   const requestedImageScale = records
     .map((record) => record?.imageScale ?? record?.paperImageScale)
     .find((value) => value === 1 || value === 2);
+  const requestedOriginalImageSize = records
+    .map((record) => record?.originalImageSize)
+    .find((value) => value === 'sm' || value === 'md' || value === 'lg');
   const requestedQuestionContentFilter = records
     .map((record) => record?.questionContentFilter)
     .find(
@@ -274,6 +285,12 @@ export function parseReviewPreferences(
       requestedImageScale === 1 || requestedImageScale === 2
         ? requestedImageScale
         : DEFAULT_REVIEW_PREFERENCES.imageScale,
+    originalImageSize:
+      requestedOriginalImageSize === 'sm' ||
+      requestedOriginalImageSize === 'md' ||
+      requestedOriginalImageSize === 'lg'
+        ? requestedOriginalImageSize
+        : DEFAULT_REVIEW_PREFERENCES.originalImageSize,
     questionContentFilter:
       requestedQuestionContentFilter === 'image' ||
       requestedQuestionContentFilter === 'image-question' ||

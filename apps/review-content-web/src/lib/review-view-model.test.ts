@@ -102,6 +102,20 @@ test('preferences survive partial and malformed local values', () => {
   assert.equal(parseReviewPreferences('{"imageScale":2}').imageScale, 2);
   assert.equal(parseReviewPreferences('{"imageScale":1.5}').imageScale, 1);
   assert.equal(parseReviewPreferences('{"paperImageScale":2}').imageScale, 2);
+  assert.equal(parseReviewPreferences(null).originalImageSize, 'sm');
+  assert.equal(
+    parseReviewPreferences('{"originalImageSize":"lg"}').originalImageSize,
+    'lg',
+  );
+  assert.equal(
+    parseReviewPreferences('{"originalImageSize":"full"}').originalImageSize,
+    'sm',
+  );
+  assert.equal(
+    parseReviewPreferences(null, '{"originalImageSize":"md"}')
+      .originalImageSize,
+    'md',
+  );
   assert.equal(
     parseReviewPreferences('{"showQuestionStatusInfo":false}')
       .showQuestionStatusInfo,

@@ -89,7 +89,14 @@ to reviewer builds, startup, or requests.
 
 SVGs retain their intentional natural size, shrink proportionally to the
 shared 75% floor and then scroll locally. `displaySize` caps remain raster-only;
-alignment defaults to start and indentation to none. Inline and external SVGs
+alignment defaults to start and indentation to none. The **SVG image size**
+preference (`image-scale`) scales only the generated SVG versions. Because
+original scans are rasters, an independent **Original image size** preference
+(`original-image-size`, Small by default, then Medium and Large) raises the
+width cap on **Original** variants alone. It is a floor over the authored
+`displaySize`, so a paper that authored `lg` or `full` never shrinks at the
+Small default, and an enlarged original fills the raised cap rather than
+staying at its intrinsic width. Inline and external SVGs
 use the shared [SVG preparation bridge](../../packages/review-paper-assets/README.md).
 Inline utilities compile from the actual SVG against the retained light palette,
 scoped to the SVG host. Current review surfaces are light-only, not production

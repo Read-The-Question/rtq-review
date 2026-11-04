@@ -3285,11 +3285,50 @@ a.paper-row:hover {
   --comparison-raster-max-width: 100%;
 }
 
+/*
+ * The Original image size preference raises the cap on original (manual and
+ * retired) rasters only. It is a floor over the authored displaySize, so a
+ * paper that authored lg or full never shrinks at the Small default, and the
+ * generated SVG versions keep their own 1x/2x scale.
+ */
+.paper-shell[data-original-image-size='md'] {
+  --original-raster-floor: 20rem;
+}
+
+.paper-shell[data-original-image-size='lg'] {
+  --original-raster-floor: 36rem;
+}
+
 .visual-paper-image .rtq-paper-image-variant:not([data-format='SVG']) > img,
 .visual-paper-image
   .rtq-paper-image-variant:not([data-format='SVG'])
   > .paper-raster-surface {
   max-width: var(--comparison-raster-max-width);
+  width: 100%;
+}
+
+.visual-paper-image
+  .rtq-paper-image-variant[data-version='original']:not([data-format='SVG'])
+  > img,
+.visual-paper-image
+  .rtq-paper-image-variant[data-version='original']:not([data-format='SVG'])
+  > .paper-raster-surface {
+  max-width: max(
+    var(--comparison-raster-max-width),
+    var(--original-raster-floor, 0px)
+  );
+}
+
+/*
+ * Comparison cards otherwise leave rasters at their intrinsic width, so an
+ * enlarged original has to opt into filling the raised cap.
+ */
+.paper-shell[data-original-image-size='md']
+  .rtq-paper-image-variant[data-version='original']:not([data-format='SVG'])
+  img,
+.paper-shell[data-original-image-size='lg']
+  .rtq-paper-image-variant[data-version='original']:not([data-format='SVG'])
+  img {
   width: 100%;
 }
 

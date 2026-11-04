@@ -653,6 +653,13 @@ test('view options support minimal metadata and centered review panel modes', as
   assert.match(component, /<option value="2">Enlarged \(2×\)<\/option>/);
   assert.match(component, /setImageComparisonScale\(/);
   assert.match(component, /updatePreference\('imageScale', scale\)/);
+  assert.match(component, /<span>Original image size<\/span>/);
+  assert.match(component, /value=\{originalImageSize\}/);
+  assert.match(component, /<option value="sm">Small<\/option>/);
+  assert.match(component, /<option value="md">Medium<\/option>/);
+  assert.match(component, /<option value="lg">Large<\/option>/);
+  assert.match(component, /updatePreference\('originalImageSize', size\)/);
+  assert.match(component, /data-original-image-size=\{originalImageSize\}/);
   assert.match(component, /value=\{displayPreferences\.reviewPanelMode\}/);
   assert.match(component, /<option value="content">Content only<\/option>/);
   assert.match(component, /<option value="image">Image only<\/option>/);
@@ -757,6 +764,21 @@ test('the URL-backed image view projects PaperImage occurrences without question
     css,
     /\.visual-paper-image\[data-size='lg'\]\s*{[^}]*--comparison-raster-max-width:\s*36rem/s,
   );
+  assert.match(
+    css,
+    /\.paper-shell\[data-original-image-size='md'\]\s*{[^}]*--original-raster-floor:\s*20rem/s,
+  );
+  assert.match(
+    css,
+    /\.paper-shell\[data-original-image-size='lg'\]\s*{[^}]*--original-raster-floor:\s*36rem/s,
+  );
+  // The preference raises the original cap without lowering an authored
+  // displaySize, and never applies to the generated SVG versions.
+  assert.match(
+    css,
+    /data-version='original'\]:not\(\[data-format='SVG'\]\)[\s\S]*?max-width:\s*max\(\s*var\(--comparison-raster-max-width\),\s*var\(--original-raster-floor,\s*0px\)\s*\)/,
+  );
+  assert.doesNotMatch(css, /data-original-image-size='sm'/);
   assert.match(markdown, /data-format=\{variant\.format\}/);
   assert.match(css, /\.visual-question-card\s*{/);
   assert.match(

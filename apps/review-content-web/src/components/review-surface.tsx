@@ -73,8 +73,9 @@ import {
   LEGACY_REVIEW_PREFERENCES_KEY,
   OLDEST_REVIEW_PREFERENCES_KEY,
   PREVIOUS_REVIEW_PREFERENCES_KEY,
-  REVIEW_FILTER_DISCLOSURE_KEY,
-  REVIEW_PREFERENCES_KEY,
+  DEFAULT_REVIEW_SESSION_ID,
+  REVIEW_SESSION_IDS,
+  REVIEW_SESSION_TAB_KEY,
   adjacentQuestionId,
   clearReviewFiltersForContext,
   clearReviewOutcomeFiltersForContext,
@@ -82,7 +83,10 @@ import {
   paperRoute,
   parseReviewFilterDisclosure,
   parseReviewPreferences,
+  parseReviewSessionId,
+  reviewFilterDisclosureKey,
   reviewFilterSelectionForContext,
+  reviewPreferencesKey,
   reviewFilterSelectionForSides,
   reviewSidesForPanel,
   reviewStateLabel,
@@ -95,6 +99,7 @@ import {
   type QuestionContentFilter,
   type ReviewPanelMode,
   type ReviewPreferences,
+  type ReviewSessionId,
   type ReviewSurfaceView,
 } from '@/lib/review-view-model';
 import { questionContentFilterMatches } from '@/lib/question-content-filter';
@@ -302,6 +307,49 @@ const QuestionTagContext = createContext<QuestionTagRuntime>({
 });
 const PDF_SESSION_STORAGE_PREFIX = 'rtq.review-content.search-pdf.v1:';
 const PDF_PAGE_SESSION_STORAGE_PREFIX = 'rtq.review-content.pdf-page.v1:';
+
+function readReviewSessionPreferences(sessionId: ReviewSessionId): {
+  filtersExpanded: boolean;
+  preferences: ReviewPreferences;
+} {
+  let preferences = DEFAULT_REVIEW_PREFERENCES;
+  let filtersExpanded = false;
+  try {
+    const sessionKey = reviewPreferencesKey(sessionId);
+    const stored = localStorage.getItem(sessionKey);
+    // Session 0 owns the original key and its legacy fallbacks. A new session
+    // starts as a copy of session 0 rather than the factory defaults.
+    preferences = parseReviewPreferences(
+      stored ??
+        localStorage.getItem(reviewPreferencesKey(DEFAULT_REVIEW_SESSION_ID)),
+      localStorage.getItem(PREVIOUS_REVIEW_PREFERENCES_KEY),
+      localStorage.getItem(LEGACY_REVIEW_PREFERENCES_KEY),
+      localStorage.getItem(EARLIER_REVIEW_PREFERENCES_KEY),
+      localStorage.getItem(INITIAL_REVIEW_PREFERENCES_KEY),
+      localStorage.getItem(OLDEST_REVIEW_PREFERENCES_KEY),
+      localStorage.getItem(EARLIEST_REVIEW_PREFERENCES_KEY),
+    );
+    if (!stored) {
+      localStorage.setItem(sessionKey, JSON.stringify(preferences));
+    }
+  } catch {
+    // Browser storage is optional; the in-memory controls still work.
+  }
+  try {
+    const disclosure = localStorage.getItem(
+      reviewFilterDisclosureKey(sessionId),
+    );
+    filtersExpanded = parseReviewFilterDisclosure(
+      disclosure ??
+        localStorage.getItem(
+          reviewFilterDisclosureKey(DEFAULT_REVIEW_SESSION_ID),
+        ),
+    );
+  } catch {
+    // The disclosure keeps its default when browser storage is unavailable.
+  }
+  return { filtersExpanded, preferences };
+}
 
 function parseStoredPdfPage(value: string | null): number {
   const page = Number(value);
@@ -3511,6 +3559,9 @@ export function ReviewSurface({
   const [preferences, setPreferences] = useState<ReviewPreferences>(
     DEFAULT_REVIEW_PREFERENCES,
   );
+  const [reviewSessionId, setReviewSessionId] = useState<ReviewSessionId>(
+    DEFAULT_REVIEW_SESSION_ID,
+  );
   const [comments, setComments] = useState<readonly LocalReviewComment[]>(
     commentLoad.comments,
   );
@@ -4199,34 +4250,18 @@ export function ReviewSurface({
 
   useEffect(() => {
     const frame = requestAnimationFrame(() => {
-      let next = DEFAULT_REVIEW_PREFERENCES;
-      let nextFiltersExpanded = false;
+      let sessionId = DEFAULT_REVIEW_SESSION_ID;
       try {
-        const stored = localStorage.getItem(REVIEW_PREFERENCES_KEY);
-        next = parseReviewPreferences(
-          stored,
-          localStorage.getItem(PREVIOUS_REVIEW_PREFERENCES_KEY),
-          localStorage.getItem(LEGACY_REVIEW_PREFERENCES_KEY),
-          localStorage.getItem(EARLIER_REVIEW_PREFERENCES_KEY),
-          localStorage.getItem(INITIAL_REVIEW_PREFERENCES_KEY),
-          localStorage.getItem(OLDEST_REVIEW_PREFERENCES_KEY),
-          localStorage.getItem(EARLIEST_REVIEW_PREFERENCES_KEY),
-        );
-        if (!stored) {
-          localStorage.setItem(REVIEW_PREFERENCES_KEY, JSON.stringify(next));
-        }
-      } catch {
-        // Browser storage is optional; the in-memory controls still work.
-      }
-      try {
-        nextFiltersExpanded = parseReviewFilterDisclosure(
-          localStorage.getItem(REVIEW_FILTER_DISCLOSURE_KEY),
+        sessionId = parseReviewSessionId(
+          sessionStorage.getItem(REVIEW_SESSION_TAB_KEY),
         );
       } catch {
-        // The disclosure keeps its default when browser storage is unavailable.
+        // Without session storage every tab uses session 0.
       }
-      setPreferences(next);
-      setFiltersExpanded(nextFiltersExpanded);
+      const next = readReviewSessionPreferences(sessionId);
+      setReviewSessionId(sessionId);
+      setPreferences(next.preferences);
+      setFiltersExpanded(next.filtersExpanded);
     });
     return () => cancelAnimationFrame(frame);
   }, []);
@@ -4376,14 +4411,28 @@ export function ReviewSurface({
     );
   }
 
+  function switchReviewSession(sessionId: ReviewSessionId) {
+    if (sessionId === reviewSessionId) return;
+    try {
+      sessionStorage.setItem(REVIEW_SESSION_TAB_KEY, String(sessionId));
+    } catch {
+      // The switch still applies to this page when session storage is unavailable.
+    }
+    const next = readReviewSessionPreferences(sessionId);
+    setReviewSessionId(sessionId);
+    setPreferences(next.preferences);
+    setFiltersExpanded(next.filtersExpanded);
+  }
+
   function updatePreference<Key extends keyof ReviewPreferences>(
     key: Key,
     value: ReviewPreferences[Key],
   ) {
+    const sessionKey = reviewPreferencesKey(reviewSessionId);
     setPreferences((current) => {
       const next = { ...current, [key]: value };
       try {
-        localStorage.setItem(REVIEW_PREFERENCES_KEY, JSON.stringify(next));
+        localStorage.setItem(sessionKey, JSON.stringify(next));
       } catch {
         // Display preferences remain usable when browser storage is unavailable.
       }
@@ -4409,7 +4458,7 @@ export function ReviewSurface({
     setFiltersExpanded(expanded);
     try {
       localStorage.setItem(
-        REVIEW_FILTER_DISCLOSURE_KEY,
+        reviewFilterDisclosureKey(reviewSessionId),
         JSON.stringify({ expanded }),
       );
     } catch {
@@ -5367,6 +5416,24 @@ export function ReviewSurface({
           </div>
           <div className="toolbar-view-controls">
             <div
+              aria-label="Settings session"
+              className="image-version-switch review-session-switch"
+              role="group"
+              title="Each session keeps its own display settings for this tab"
+            >
+              <span>Session</span>
+              {REVIEW_SESSION_IDS.map((sessionId) => (
+                <button
+                  aria-pressed={sessionId === reviewSessionId}
+                  key={sessionId}
+                  onClick={() => switchReviewSession(sessionId)}
+                  type="button"
+                >
+                  {sessionId}
+                </button>
+              ))}
+            </div>
+            <div
               aria-label="Review presentation"
               className="surface-view-switch"
               role="group"
@@ -5443,9 +5510,7 @@ export function ReviewSurface({
                 <label className="view-option-select">
                   <span>Questions shown</span>
                   <select
-                    disabled={
-                      imageView || displayPreferences.reviewSide === 'tags'
-                    }
+                    disabled={imageView}
                     onChange={(event) =>
                       updatePreference(
                         'questionContentFilter',

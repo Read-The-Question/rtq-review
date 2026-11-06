@@ -32,6 +32,38 @@ export const OLDEST_REVIEW_PREFERENCES_KEY =
 export const EARLIEST_REVIEW_PREFERENCES_KEY =
   'rtq.review-content.preferences.v9';
 
+/**
+ * Review sessions keep independent display settings so one tab can stay on,
+ * say, image review while another works on tagging. Session 0 reuses the
+ * original storage keys, so settings saved before sessions existed belong to it.
+ * The active session is remembered per tab (sessionStorage), never in the URL.
+ */
+export const REVIEW_SESSION_IDS = [0, 1, 2] as const;
+export type ReviewSessionId = (typeof REVIEW_SESSION_IDS)[number];
+export const DEFAULT_REVIEW_SESSION_ID: ReviewSessionId = 0;
+export const REVIEW_SESSION_TAB_KEY = 'rtq.review-content.session.v1';
+
+export function parseReviewSessionId(value: string | null): ReviewSessionId {
+  const parsed = Number(value);
+  return (
+    REVIEW_SESSION_IDS.find((id) => id === parsed) ?? DEFAULT_REVIEW_SESSION_ID
+  );
+}
+
+function sessionScopedKey(baseKey: string, sessionId: ReviewSessionId) {
+  return sessionId === DEFAULT_REVIEW_SESSION_ID
+    ? baseKey
+    : `${baseKey}:session-${sessionId}`;
+}
+
+export function reviewPreferencesKey(sessionId: ReviewSessionId): string {
+  return sessionScopedKey(REVIEW_PREFERENCES_KEY, sessionId);
+}
+
+export function reviewFilterDisclosureKey(sessionId: ReviewSessionId): string {
+  return sessionScopedKey(REVIEW_FILTER_DISCLOSURE_KEY, sessionId);
+}
+
 export type PaperImageScale = 1 | 2;
 /**
  * Raises the width cap on original (manual and retired) raster variants without

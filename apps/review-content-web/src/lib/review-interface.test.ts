@@ -286,17 +286,37 @@ test('the sticky toolbar keeps compact filter access with focus and return contr
   assert.match(css, /\.filter-disclosure-toggle\s*{/);
 });
 
+test('review settings sessions are remembered per tab without touching the URL', async () => {
+  const component = await fs.readFile(componentUrl, 'utf8');
+
+  assert.match(component, /sessionStorage\.getItem\(REVIEW_SESSION_TAB_KEY\)/);
+  assert.match(
+    component,
+    /sessionStorage\.setItem\(REVIEW_SESSION_TAB_KEY, String\(sessionId\)\)/,
+  );
+  assert.match(
+    component,
+    /localStorage\.setItem\(sessionKey, JSON\.stringify\(next\)\)/,
+  );
+  assert.match(component, /aria-label="Settings session"/);
+  assert.match(
+    component,
+    /onClick=\{\(\) => switchReviewSession\(sessionId\)\}/,
+  );
+  assert.doesNotMatch(component, /searchParams\.get\('session'\)/);
+});
+
 test('review filter disclosure restores and persists its expanded state', async () => {
   const component = await fs.readFile(componentUrl, 'utf8');
 
   assert.match(
     component,
-    /localStorage\.getItem\(REVIEW_FILTER_DISCLOSURE_KEY\)/,
+    /localStorage\.getItem\([\s\S]*reviewFilterDisclosureKey\(sessionId\)/,
   );
   assert.match(component, /parseReviewFilterDisclosure/);
   assert.match(
     component,
-    /localStorage\.setItem\([\s\S]*REVIEW_FILTER_DISCLOSURE_KEY,[\s\S]*JSON\.stringify\(\{ expanded \}\)/,
+    /localStorage\.setItem\([\s\S]*reviewFilterDisclosureKey\(reviewSessionId\),[\s\S]*JSON\.stringify\(\{ expanded \}\)/,
   );
   assert.match(
     component,
@@ -621,6 +641,11 @@ test('view options support minimal metadata and centered review panel modes', as
   assert.match(component, /label="Image tags"/);
   assert.match(component, /label="Image & table markers in navigation"/);
   assert.match(component, /<span>Questions shown<\/span>/);
+  // The content filter still applies in tag review, so it must stay editable.
+  assert.match(
+    component,
+    /<span>Questions shown<\/span>\s*<select\s*disabled=\{imageView\}/,
+  );
   assert.match(
     component,
     /value=\{displayPreferences\.questionContentFilter\}/,

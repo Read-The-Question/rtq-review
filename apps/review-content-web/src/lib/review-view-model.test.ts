@@ -19,6 +19,9 @@ import {
   paperRoute,
   parseReviewFilterDisclosure,
   parseReviewPreferences,
+  parseReviewSessionId,
+  reviewFilterDisclosureKey,
+  reviewPreferencesKey,
   reviewFilterSelectionForContext,
   reviewFilterSelectionForSides,
   reviewSidesForContext,
@@ -481,4 +484,21 @@ test('rack states have compact reviewer-facing labels', () => {
   assert.equal(reviewStateLabel('rag_ng2'), 'NG2');
   assert.equal(reviewStateLabel('rag_wf_notapplicable'), 'N/A');
   assert.equal(reviewStateLabel('editorial_hold'), 'EDITORIAL HOLD');
+});
+
+test('review settings sessions keep session 0 on the original storage keys', () => {
+  assert.equal(reviewPreferencesKey(0), REVIEW_PREFERENCES_KEY);
+  assert.equal(reviewFilterDisclosureKey(0), REVIEW_FILTER_DISCLOSURE_KEY);
+  assert.equal(
+    reviewPreferencesKey(1),
+    'rtq.review-content.preferences.v15:session-1',
+  );
+  assert.equal(
+    reviewFilterDisclosureKey(2),
+    'rtq.review-content.filter-disclosure.v1:session-2',
+  );
+  assert.equal(parseReviewSessionId(null), 0);
+  assert.equal(parseReviewSessionId('2'), 2);
+  assert.equal(parseReviewSessionId('7'), 0);
+  assert.equal(parseReviewSessionId('nonsense'), 0);
 });

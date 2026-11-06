@@ -4,6 +4,7 @@ import {
   mkdirSync,
   mkdtempSync,
   readFileSync,
+  realpathSync,
   rmSync,
   writeFileSync,
 } from "node:fs";
@@ -26,7 +27,45 @@ import {
 import {
   REVIEW_DATABASE_PATH,
   REVIEW_MIGRATIONS_FOLDER,
+  resolveReviewDatabasePath,
 } from "./review-store.ts";
+
+test("RTQ_REVIEW_DATABASE_PATH shares another checkout's database", () => {
+  const parent = mkdtempSync(path.join(tmpdir(), "rtq-review-db-path-"));
+  const primary = path.join(parent, "rtq-review");
+  const secondary = path.join(parent, "rtq-review-tagging");
+  mkdirSync(path.join(primary, "database"), { recursive: true });
+  mkdirSync(secondary, { recursive: true });
+  const shared = path.join(primary, "database", "review-content.sqlite");
+  writeFileSync(shared, "");
+
+  try {
+    assert.equal(
+      resolveReviewDatabasePath({ environment: {}, workspaceRoot: secondary }),
+      path.join(secondary, "database", "review-content.sqlite"),
+    );
+    assert.equal(
+      resolveReviewDatabasePath({
+        environment: {
+          RTQ_REVIEW_DATABASE_PATH:
+            "../rtq-review/database/review-content.sqlite",
+        },
+        workspaceRoot: secondary,
+      }),
+      realpathSync(shared),
+    );
+    assert.throws(
+      () =>
+        resolveReviewDatabasePath({
+          environment: { RTQ_REVIEW_DATABASE_PATH: "../missing.sqlite" },
+          workspaceRoot: secondary,
+        }),
+      /not an existing database file/,
+    );
+  } finally {
+    rmSync(parent, { force: true, recursive: true });
+  }
+});
 
 test("resolves the shared database and package-owned migrations", () => {
   assert.equal(

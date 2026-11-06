@@ -1,4 +1,4 @@
-import { mkdirSync } from "node:fs";
+import { existsSync, mkdirSync, realpathSync, statSync } from "node:fs";
 import path from "node:path";
 
 import { REVIEW_WORKSPACE_ROOT } from "@rtq/review-repository-paths";
@@ -73,11 +73,38 @@ export type OpenReviewSyncReader = Readonly<{
   outcomes: ReviewOutcomeReader;
 }>;
 
-export const REVIEW_DATABASE_PATH = path.join(
-  REVIEW_WORKSPACE_ROOT,
-  "database",
-  "review-content.sqlite",
-);
+/**
+ * Resolves the review database. RTQ_REVIEW_DATABASE_PATH lets a second
+ * rtq-review worktree (for example rtq-review-tagging) share the primary
+ * checkout's database instead of using its own tracked copy. Relative values
+ * resolve from the review workspace root. An override must name an existing
+ * file so a typo cannot silently create a fresh, empty database.
+ */
+export function resolveReviewDatabasePath(
+  options: Readonly<{
+    environment?: Readonly<Record<string, string | undefined>>;
+    workspaceRoot?: string;
+  }> = {},
+): string {
+  const environment = options.environment ?? process.env;
+  const workspaceRoot = path.resolve(
+    options.workspaceRoot ?? REVIEW_WORKSPACE_ROOT,
+  );
+  const configured = environment.RTQ_REVIEW_DATABASE_PATH?.trim();
+  if (!configured) {
+    return path.join(workspaceRoot, "database", "review-content.sqlite");
+  }
+  const candidate = path.resolve(workspaceRoot, configured);
+  if (!existsSync(candidate) || !statSync(candidate).isFile()) {
+    throw new Error(
+      `RTQ_REVIEW_DATABASE_PATH=${JSON.stringify(configured)} resolved to ${candidate}, ` +
+        `which is not an existing database file. Relative values are resolved from ${workspaceRoot}.`,
+    );
+  }
+  return realpathSync(candidate);
+}
+
+export const REVIEW_DATABASE_PATH = resolveReviewDatabasePath();
 
 export const REVIEW_MIGRATIONS_FOLDER = path.join(
   REVIEW_WORKSPACE_ROOT,

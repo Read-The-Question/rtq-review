@@ -3709,6 +3709,38 @@ a.paper-row:hover {
   outline-offset: 2px;
 }
 
+.tag-axis-inherited {
+  align-items: center;
+  border-top: 1px dashed
+    color-mix(in oklab, var(--tag-axis-accent) 38%, var(--rule));
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem 0.45rem;
+  padding-top: 0.45rem;
+}
+
+.tag-axis-inherited > span,
+.tag-axis-inherited > small {
+  color: var(--muted);
+  font-size: 0.8rem;
+}
+
+.tag-axis-inherited > span {
+  font-weight: 850;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.tag-axis-inherited .tag-edit-chip {
+  background: transparent;
+  border-style: dashed;
+  color: var(--muted);
+}
+
+.tag-axis-inherited--overridden .tag-edit-chip code {
+  text-decoration: line-through;
+}
+
 .tag-edit-chips {
   display: flex;
   flex-wrap: wrap;

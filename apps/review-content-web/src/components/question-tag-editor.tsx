@@ -67,6 +67,70 @@ function TagChips({
   );
 }
 
+/**
+ * Read-only line under each axis card: what this axis would take from its
+ * parent (or the implicit default) so a reviewer can read one card and know
+ * what applies, without cross-checking the top-level Inherited row.
+ */
+function AxisInheritanceLine({
+  axis,
+  hasExplicit,
+  nodeDepth,
+  state,
+}: {
+  axis: DimensionalTagAxis;
+  hasExplicit: boolean;
+  nodeDepth: number;
+  state: ReviewNodeTagState;
+}) {
+  const inherited = state.inheritedTags
+    .filter((tag) => tag.axis === axis)
+    .map((tag) => tag.value);
+  const implicit = hasExplicit
+    ? []
+    : state.effectiveTags
+        .filter((tag) => tag.axis === axis && tag.origin === 'implicit')
+        .map((tag) => tag.value);
+
+  let label: string;
+  let note: string | undefined;
+  let tags: readonly string[] = [];
+  let overridden = false;
+
+  if (nodeDepth > 0 && state.explicitInherit === false) {
+    label = 'Inherited';
+    note = 'Inheritance is off';
+  } else if (inherited.length > 0) {
+    label = 'Inherited';
+    tags = inherited;
+    overridden = hasExplicit;
+    note = hasExplicit ? 'overridden' : undefined;
+  } else if (nodeDepth > 0) {
+    label = 'Inherited';
+    note = 'None';
+  } else {
+    label = 'Default';
+  }
+
+  if (implicit.length > 0 && inherited.length === 0) {
+    label = 'Default';
+    tags = implicit;
+    note = undefined;
+  }
+
+  if (!tags.length && !note) return null;
+
+  return (
+    <div
+      className={`tag-axis-inherited${overridden ? ' tag-axis-inherited--overridden' : ''}`}
+    >
+      <span>{label}</span>
+      <TagChips tags={tags} />
+      {note ? <small>{note}</small> : null}
+    </div>
+  );
+}
+
 export function QuestionTagEditor({
   catalog,
   disabled,
@@ -197,6 +261,12 @@ export function QuestionTagEditor({
                   ))}
                 </select>
               </label>
+              <AxisInheritanceLine
+                axis={axis}
+                hasExplicit={selected.length > 0}
+                nodeDepth={nodeDepth}
+                state={state}
+              />
             </fieldset>
           );
         })}

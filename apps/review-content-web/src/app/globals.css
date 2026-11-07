@@ -3888,6 +3888,55 @@ a.paper-row:hover {
   background: #e5deeb;
 }
 
+.node-tags--layered {
+  display: grid;
+  gap: 0.4rem;
+}
+
+.node-tags-layer {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+}
+
+.node-tags-layer--final {
+  border-top: 1px solid var(--rule);
+  padding-top: 0.45rem;
+}
+
+.node-tags-layer__label {
+  color: var(--muted);
+  font-size: 0.8rem;
+  font-weight: 850;
+  letter-spacing: 0.08em;
+  min-width: 5.5rem;
+  text-transform: uppercase;
+}
+
+.node-tags-layer--final .node-tags-layer__label {
+  color: var(--ink);
+}
+
+.node-tags-layer__empty {
+  color: var(--muted);
+  font-size: 0.875rem;
+}
+
+.node-tags-layer--inherited .tag-group {
+  opacity: 0.85;
+}
+
+.tag-group code small {
+  color: var(--muted);
+  font-size: 0.8em;
+}
+
+.tag-group code.node-tag--overridden {
+  opacity: 0.6;
+  text-decoration: line-through;
+}
+
 .question-copy {
   padding: clamp(1.5rem, 3vw, 3rem) 0;
 }

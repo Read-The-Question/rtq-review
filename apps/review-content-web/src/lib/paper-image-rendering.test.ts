@@ -481,6 +481,44 @@ test('renders matching active formats in PNG, JPEG, SVG order', (t) => {
   assert.match(all, /Compare each active format\./);
 });
 
+test('tolerates the image-set minimumSetWidth field in the technical manifest', (t) => {
+  const f = fixture(t);
+  f.image(metadata('A geometric diagram.', 'Set-width tolerance.'));
+  f.asset(
+    f.sourcePath.replace(/\.png$/, '.svg'),
+    '<svg width="480" height="360" />',
+  );
+  f.asset(
+    'paper-images.generated.json',
+    JSON.stringify({
+      assets: {
+        [f.sourcePath]: { intrinsicHeight: 120, intrinsicWidth: 160 },
+        [f.sourcePath.replace(/\.png$/, '.svg')]: {
+          intrinsicHeight: 360,
+          intrinsicWidth: 480,
+          minimumReadableWidth: 360,
+          minimumSetWidth: 240,
+          naturalHeight: 360,
+          naturalWidth: 480,
+        },
+      },
+      version: 1,
+    }),
+  );
+  const prepared = f.prepareDisplay('<PaperImage assetScope="question" />');
+  assert.deepEqual(
+    prepared.paperImages?.[0].variants.map((variant) => ({
+      format: variant.format,
+      height: variant.height,
+      width: variant.width,
+    })),
+    [
+      { format: 'PNG', height: 120, width: 160 },
+      { format: 'SVG', height: 360, width: 480 },
+    ],
+  );
+});
+
 test('reports when an image has none of the selected versions', (t) => {
   const f = fixture(t);
   f.image(metadata('A raster diagram.'));

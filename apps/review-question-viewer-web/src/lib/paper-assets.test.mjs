@@ -99,6 +99,25 @@ test('PaperImage family/type is rendering-neutral across scopes, nesting and for
         scope === 'question' ? undefined : { scopeType: scope, scopeIndex: 0 };
       const source = `<PaperImage assetScope="${scope}" displaySize="lg" />\n\n<PaperImage assetScope="${scope}" />`;
       const baseline = enrichRtqMarkdown(source, context, options);
+      const assetsWithSetWidth = Object.fromEntries(
+        Object.entries(assets).map(([key, value]) => [
+          key,
+          value.format === 'svg' ? { ...value, minimumSetWidth: 80 } : value,
+        ]),
+      );
+      write(
+        `${paperRoot}/paper-images.generated.json`,
+        JSON.stringify({ assets: assetsWithSetWidth, version: 1 }),
+      );
+      assert.equal(
+        enrichRtqMarkdown(source, context, options),
+        baseline,
+        'a manifest minimumSetWidth field is tolerated and does not change rendering',
+      );
+      write(
+        `${paperRoot}/paper-images.generated.json`,
+        JSON.stringify({ assets, version: 1 }),
+      );
       for (const attributes of [
         'family="venn"',
         'family="" type=""',

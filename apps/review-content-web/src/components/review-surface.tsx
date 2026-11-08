@@ -2457,19 +2457,20 @@ function ReviewLane({
           <span>{label} review</span>
           <strong>{nodeLabel}</strong>
         </div>
+        {/* Shares the heading row so the lane spends no extra row on it. */}
+        <div className="review-lane-status" aria-live="polite">
+          <span>Current outcome</span>
+          <strong
+            className={
+              outcome
+                ? `review-lane-status--${reviewOutcomeTone(outcome)}`
+                : 'review-lane-status--pending'
+            }
+          >
+            {outcome ? reviewOutcomeLabel(outcome) : 'Pending'}
+          </strong>
+        </div>
       </header>
-      <div className="review-lane-status" aria-live="polite">
-        <span>Current outcome</span>
-        <strong
-          className={
-            outcome
-              ? `review-lane-status--${reviewOutcomeTone(outcome)}`
-              : 'review-lane-status--pending'
-          }
-        >
-          {outcome ? reviewOutcomeLabel(outcome) : 'Pending'}
-        </strong>
-      </div>
       {imageMetadata && onImageMetadataChange ? (
         <ImageMetadataControls
           disabled={Boolean(disabledReason)}

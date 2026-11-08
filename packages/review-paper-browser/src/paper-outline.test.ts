@@ -20,6 +20,11 @@ test('the shared paper outline owns hierarchy, current-node visibility, and stat
   assert.match(component, /node\.badges\.map/);
   assert.match(css, /\.paper-outline\s*{[^}]*position:\s*sticky/s);
   assert.match(css, /overscroll-behavior:\s*contain/);
+  // Containment is only safe if the outline never extends below the viewport,
+  // so its height must follow its live position, not just the sticky offset.
+  assert.match(css, /max-height:\s*var\(\s*--paper-outline-available-height/);
+  assert.match(component, /--paper-outline-available-height/);
+  assert.match(component, /window\.innerHeight - top/);
   assert.match(css, /\.paper-outline__badge\[data-tone='table'\]/);
   assert.match(css, /\.paper-outline__badges\s*{[^}]*flex-wrap:\s*wrap/s);
   assert.match(manifest, /"\.\/paper-outline"/);

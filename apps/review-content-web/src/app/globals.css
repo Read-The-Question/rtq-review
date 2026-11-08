@@ -3722,7 +3722,7 @@ a.paper-row:hover {
 .tag-axis-inherited > span,
 .tag-axis-inherited > small {
   color: var(--muted);
-  font-size: 0.8rem;
+  font-size: 0.875rem;
 }
 
 .tag-axis-inherited > span {
@@ -3907,7 +3907,7 @@ a.paper-row:hover {
 
 .node-tags-layer__label {
   color: var(--muted);
-  font-size: 0.8rem;
+  font-size: 0.875rem;
   font-weight: 850;
   letter-spacing: 0.08em;
   min-width: 5.5rem;

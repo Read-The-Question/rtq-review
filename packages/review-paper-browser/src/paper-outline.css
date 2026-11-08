@@ -9,7 +9,12 @@
   --paper-outline-top: var(--review-toolbar-offset, 1rem);
   display: grid;
   gap: 0.45rem;
-  max-height: calc(100vh - var(--paper-outline-top) - 1rem);
+  /* paper-outline.tsx sets the available height from the outline's live
+     position; the calc is the fallback before hydration. */
+  max-height: var(
+    --paper-outline-available-height,
+    calc(100vh - var(--paper-outline-top) - 1rem)
+  );
   overflow-y: auto;
   overscroll-behavior: contain;
   padding-right: 0.55rem;

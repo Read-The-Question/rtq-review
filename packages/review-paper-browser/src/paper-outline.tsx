@@ -104,6 +104,49 @@ export function PaperOutline({
 }) {
   const outlineRef = useRef<HTMLElement>(null);
 
+  // The outline is sticky, but before the page has scrolled far enough to pin
+  // it, it sits lower than its sticky offset. A max-height derived from the
+  // sticky offset alone then pushes its last entries below the viewport, and
+  // overscroll containment stops wheel input from scrolling the page to reveal
+  // them. Fit the outline to the space actually visible below its top edge.
+  useEffect(() => {
+    const outline = outlineRef.current;
+    if (!outline) return;
+    let frame: number | undefined;
+    let applied = '';
+
+    function fitToViewport() {
+      frame = undefined;
+      if (!outline) return;
+      const top = Math.max(outline.getBoundingClientRect().top, 0);
+      const available = Math.max(
+        160,
+        Math.floor(window.innerHeight - top - 16),
+      );
+      const value = `${available}px`;
+      if (value === applied) return;
+      applied = value;
+      outline.style.setProperty('--paper-outline-available-height', value);
+    }
+
+    function schedule() {
+      if (frame === undefined) frame = requestAnimationFrame(fitToViewport);
+    }
+
+    const resizeObserver = new ResizeObserver(schedule);
+    resizeObserver.observe(document.documentElement);
+    window.addEventListener('scroll', schedule, { passive: true });
+    window.addEventListener('resize', schedule);
+    fitToViewport();
+    return () => {
+      if (frame !== undefined) cancelAnimationFrame(frame);
+      resizeObserver.disconnect();
+      window.removeEventListener('scroll', schedule);
+      window.removeEventListener('resize', schedule);
+      outline.style.removeProperty('--paper-outline-available-height');
+    };
+  }, []);
+
   useEffect(() => {
     const frame = requestAnimationFrame(() => {
       const outline = outlineRef.current;

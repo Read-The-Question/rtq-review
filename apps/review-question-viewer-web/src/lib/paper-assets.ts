@@ -2,7 +2,9 @@ import { createHash } from 'node:crypto';
 import { existsSync, readFileSync } from 'node:fs';
 import path from 'node:path';
 
+import { getPaperImageListWidth } from '@rtq/review-paper-markdown';
 import {
+  validatePaperImageListMarkdown,
   validatePaperListMarkdown,
   validatePaperShapeMarkdown,
   validatePaperSymbolMarkdown,
@@ -112,6 +114,8 @@ type PaperImageTechnicalEntry = {
   format: (typeof PAPER_IMAGE_EXTENSIONS)[number];
   intrinsicHeight: number;
   intrinsicWidth: number;
+  /** Natural SVG width, when the manifest has it. */
+  naturalWidth?: number;
 };
 
 function escapeHtmlAttribute(value: string) {
@@ -500,9 +504,7 @@ function paperImageMetadata(
       : assetScope === 'working'
         ? 'workings'
         : 'answers',
-    ...(provenance === 'v1'
-      ? ['generated', 'v1', 'diagrams']
-      : ['manual']),
+    ...(provenance === 'v1' ? ['generated', 'v1', 'diagrams'] : ['manual']),
   ];
   const scopeToken =
     assetScope === 'question'
@@ -736,7 +738,13 @@ function paperImageMarkup(
   const graphic = surface
     ? `<span class="paper-raster-surface" data-surface="${surface}" style="${escapeHtmlAttribute(paperImageStyle(displaySize, align))}">${visual}</span>`
     : visual;
-  return `<div class="paper-image-layout" data-indent="${indent}">${graphic}</div>${description}`;
+  // A PaperImageList gives each image its standalone width (web PRD D8/D9).
+  const listWidth = getPaperImageListWidth({
+    displaySize,
+    naturalWidth:
+      technical.format === 'svg' ? technical.naturalWidth : undefined,
+  });
+  return `<div class="paper-image-layout" data-indent="${indent}" data-image-list-width="${listWidth ?? 'fill'}">${graphic}</div>${description}`;
 }
 
 function longDivisionMarkup(
@@ -875,6 +883,7 @@ export function enrichRtqMarkdown(
   }
 
   validatePaperListMarkdown(text);
+  validatePaperImageListMarkdown(text);
   validatePaperSymbolMarkdown(text);
   validatePaperShapeMarkdown(text);
   const withWorkingSections = replaceWorkingSections(text);

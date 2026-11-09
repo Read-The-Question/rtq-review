@@ -1,6 +1,7 @@
 @import 'tailwindcss';
 @import '@rtq/review-paper-markdown/paper-table.css';
 @import '@rtq/review-paper-markdown/paper-image.css';
+@import '@rtq/review-paper-markdown/paper-image-list.css';
 @import '@rtq/review-paper-browser/paper-outline.css';
 @import '@rtq/review-paper-browser/paper-shape.css';
 
@@ -2062,6 +2063,16 @@ kbd {
 .paper-image-layout {
   box-sizing: border-box;
   width: 100%;
+}
+
+/* V1-only mode for PaperImageList: one list per version (web PRD D7). */
+.paper-images--v1
+  .rtq-image-lists:has(> [data-version='v1'])
+  > .rtq-image-list-version:not([data-version='v1']),
+.paper-images--v1
+  .rtq-image-lists:not(:has(> [data-version='v1']))
+  > .rtq-image-list-version:not(:first-child) {
+  display: none;
 }
 
 .paper-svg-scroll {

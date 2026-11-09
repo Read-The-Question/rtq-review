@@ -5,9 +5,11 @@ import remarkMath from "remark-math";
 import remarkParse from "remark-parse";
 
 import {
+  hasActivePaperImageList,
   hasActivePaperList,
   hasActivePaperStructuredTable,
   hasActivePaperTable,
+  remarkPaperImageList,
   remarkPaperList,
   remarkPaperListMdx,
   remarkPaperShape,
@@ -24,6 +26,17 @@ export function validatePaperListMarkdown(markdown: string): void {
     .use(remarkMath)
     .use(remarkPaperListMdx)
     .use(remarkPaperList);
+  processor.runSync(processor.parse(markdown));
+}
+
+export function validatePaperImageListMarkdown(markdown: string): void {
+  if (!hasActivePaperImageList(markdown)) return;
+
+  const processor = unified()
+    .use(remarkParse)
+    .use(remarkMath)
+    .use(remarkPaperListMdx)
+    .use(remarkPaperImageList);
   processor.runSync(processor.parse(markdown));
 }
 

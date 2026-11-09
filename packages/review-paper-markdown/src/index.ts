@@ -323,3 +323,6 @@ export * from "./paper-shape.ts";
 export * from "./paper-structured-table.ts";
 export * from "./paper-symbol.ts";
 export * from "./paper-table.ts";
+export * from "./paper-image-list.ts";
+export * from "./paper-image-list-rehype.ts";
+export * from "./paper-image-list-html.ts";

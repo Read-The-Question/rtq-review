@@ -424,6 +424,7 @@ function PaperMarkdown({
   return (
     <RtqMarkdown
       markdown={markdown}
+      originalImageSize={preferences.originalImageSize}
       paperImageScale={preferences.imageScale}
       paperImages={field.paperImages}
       showImageTags={preferences.showImageTags}

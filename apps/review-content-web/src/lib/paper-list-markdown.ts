@@ -1,5 +1,11 @@
-import { stripPaperListWrapperLines } from '@rtq/review-paper-markdown';
-import { validatePaperListMarkdown } from '@rtq/review-paper-markdown/validate';
+import {
+  stripPaperImageListWrapperLines,
+  stripPaperListWrapperLines,
+} from '@rtq/review-paper-markdown';
+import {
+  validatePaperImageListMarkdown,
+  validatePaperListMarkdown,
+} from '@rtq/review-paper-markdown/validate';
 
 export type PreparedPaperListMarkdown = Readonly<{
   issue?: string;
@@ -11,6 +17,7 @@ export function preparePaperListMarkdown(
 ): PreparedPaperListMarkdown {
   try {
     validatePaperListMarkdown(markdown);
+    validatePaperImageListMarkdown(markdown);
     return { markdown };
   } catch (error) {
     return {
@@ -18,7 +25,9 @@ export function preparePaperListMarkdown(
         error instanceof Error
           ? error.message
           : 'PaperList preparation failed.',
-      markdown: stripPaperListWrapperLines(markdown),
+      markdown: stripPaperImageListWrapperLines(
+        stripPaperListWrapperLines(markdown),
+      ),
     };
   }
 }

@@ -2,8 +2,11 @@
 
 import { PaperShapeSpan } from '@rtq/review-paper-browser/paper-shape';
 import {
+  PAPER_IMAGE_GROUP_LIST_OPTIONS,
+  rehypePaperImageList,
   rehypePaperTable,
   remarkPaperAuthorNote,
+  remarkPaperImageList,
   remarkPaperList,
   remarkPaperListMdx,
   remarkPaperShape,
@@ -36,6 +39,7 @@ export function RtqMarkdown({ markdown }: RtqMarkdownProps) {
         rehypePlugins={[
           rehypePaperTable,
           rehypeRaw,
+          [rehypePaperImageList, PAPER_IMAGE_GROUP_LIST_OPTIONS],
           [rehypeKatex, rtqKatexOptions],
         ]}
         remarkPlugins={[
@@ -46,6 +50,7 @@ export function RtqMarkdown({ markdown }: RtqMarkdownProps) {
           remarkPaperTable,
           remarkPaperStructuredTable,
           remarkPaperList,
+          remarkPaperImageList,
           remarkPaperShape,
           remarkPaperSymbol,
         ]}>

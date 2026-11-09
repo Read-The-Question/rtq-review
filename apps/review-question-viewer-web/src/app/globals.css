@@ -1,6 +1,7 @@
 @import 'tailwindcss';
 @import '@rtq/review-paper-markdown/paper-table.css';
 @import '@rtq/review-paper-markdown/paper-image.css';
+@import '@rtq/review-paper-markdown/paper-image-list.css';
 @import '@rtq/review-paper-browser/paper-shape.css';
 @import 'katex/dist/katex.min.css';
 

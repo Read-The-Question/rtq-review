@@ -9,11 +9,14 @@ import {
   prepareReviewSvg,
 } from '@rtq/review-paper-assets';
 import {
+  getPaperImageListWidth,
+  toPaperImageListCompatibilityMarkdown,
   toPaperListCompatibilityMarkdown,
   toPaperMdxCompatibilityMarkdown,
   toPaperSymbolCompatibilityMarkdown,
 } from '@rtq/review-paper-markdown';
 import {
+  validatePaperImageListMarkdown,
   validatePaperListMarkdown,
   validatePaperShapeMarkdown,
 } from '@rtq/review-paper-markdown/validate';
@@ -155,8 +158,8 @@ function hasExactKeys(
 ) {
   const keys = Object.keys(value);
   return (
-    required.every((key) => keys.includes(key)) &&
-    keys.every((key) => required.includes(key) || optional.includes(key))
+    required.every(key => keys.includes(key)) &&
+    keys.every(key => required.includes(key) || optional.includes(key))
   );
 }
 
@@ -350,7 +353,7 @@ function workingSectionCloseMarkup() {
 function replaceWorkingSections(text: string) {
   return text
     .split('\n')
-    .map((line) => {
+    .map(line => {
       const openMatch = line.match(WORKING_SECTION_OPEN_REGEX);
 
       if (openMatch) {
@@ -427,7 +430,7 @@ function paperImageAssetRelativePaths(
       : `-${assetScope === 'working' ? 'w' : 'a'}${String((scopeIndex ?? 0) + 1).padStart(2, '0')}`;
 
   const basename = `${compactAssetPrefix(context)}${scopeToken}-i${String(imageIndex).padStart(2, '0')}`;
-  const locations = (['manual', 'v1', 'v2'] as const).map((provenance) => {
+  const locations = (['manual', 'v1', 'v2'] as const).map(provenance => {
     const sourceRelativeStem = `${owner}/${provenance === 'manual' ? 'manual' : `generated/${provenance}/diagrams`}/${basename}`;
     const logicalPath = [
       'papers',
@@ -436,12 +439,12 @@ function paperImageAssetRelativePaths(
     ].join('/');
     return { provenance, sourceRelativeStem, logicalPath };
   });
-  const matches = locations.flatMap((location) =>
+  const matches = locations.flatMap(location =>
     resolveCanonicalPaperImageExtensions(
       context.assetFileStem ?? context.fileStem,
       location.sourceRelativeStem,
       EXTERNAL_ASSETS_ROOT,
-    ).map((extension) => ({
+    ).map(extension => ({
       provenance: location.provenance,
       extension,
       relativePath: `${location.logicalPath}.${extension}`,
@@ -585,7 +588,7 @@ function paperImageMetadata(
     'surface',
     'version',
   ];
-  if (Object.keys(metadata).some((key) => !keys.includes(key))) {
+  if (Object.keys(metadata).some(key => !keys.includes(key))) {
     throw new Error(
       `Invalid PaperImage metadata at ${metadataPath}: fields must match version 1.`,
     );
@@ -661,7 +664,7 @@ function prepareLongDivision(
 ): PreparedLongDivision {
   const attrs = parseComponentAttributes(componentKey);
   const unknownAttribute = Object.keys(attrs).find(
-    (attribute) =>
+    attribute =>
       !LONG_DIVISION_AUTHORED_ATTRIBUTES.includes(
         attribute as (typeof LONG_DIVISION_AUTHORED_ATTRIBUTES)[number],
       ),
@@ -786,7 +789,13 @@ function paperImageVariantMarkup(
   const css = svg?.svgCss
     ? `<style>${svg.svgCss.replaceAll('<', '\\3c ')}</style>`
     : '';
-  return `<div class="paper-image-variant" data-format="${extension ?? 'missing'}" data-provenance="${provenance}" data-primary="${primary}">${css}${formatLabel}<div class="paper-image-layout" data-indent="${indent}">${graphic}</div>${description}</div>`;
+  // A PaperImageList gives each image its standalone width (web PRD D8/D9).
+  const listWidth = getPaperImageListWidth({
+    displaySize,
+    naturalWidth: svg?.naturalWidth,
+  });
+  const setAttributes = ` data-image-list-width="${listWidth ?? 'fill'}"`;
+  return `<div class="paper-image-variant" data-format="${extension ?? 'missing'}" data-provenance="${provenance}" data-primary="${primary}"${setAttributes}>${css}${formatLabel}<div class="paper-image-layout" data-indent="${indent}">${graphic}</div>${description}</div>`;
 }
 
 function paperImageMarkup(
@@ -794,7 +803,7 @@ function paperImageMarkup(
   variants: readonly PaperImageVariant[],
   assetScope: PaperImageAssetScope,
 ) {
-  const hasV1 = variants.some((variant) => variant.provenance === 'v1');
+  const hasV1 = variants.some(variant => variant.provenance === 'v1');
   const showFormat = variants.length > 1;
   const markup = variants
     .map((variant, index) =>
@@ -837,14 +846,14 @@ function replacePaperImages(
 ) {
   let imageIndex = imageIndexOffset;
 
-  return text.replace(PAPER_IMAGE_REGEX, (match) => {
+  return text.replace(PAPER_IMAGE_REGEX, match => {
     if (!match.startsWith('<PaperImage')) {
       return TODO_IMAGE_MARKUP;
     }
     const attrs = parseComponentAttributes(match);
     const requestedRenderMode = paperImageRenderMode(match);
     const preparationAttribute = PAPER_IMAGE_PREPARATION_ATTRIBUTES.find(
-      (attribute) => attrs[attribute] !== undefined,
+      attribute => attrs[attribute] !== undefined,
     );
     if (preparationAttribute) {
       throw new Error(
@@ -852,7 +861,7 @@ function replacePaperImages(
       );
     }
     const unknownAttribute = Object.keys(attrs).find(
-      (attribute) =>
+      attribute =>
         !PAPER_IMAGE_AUTHORED_ATTRIBUTES.includes(
           attribute as (typeof PAPER_IMAGE_AUTHORED_ATTRIBUTES)[number],
         ),
@@ -874,13 +883,13 @@ function replacePaperImages(
       imageIndex,
     );
     const preferred = resolutions.some(
-      (resolution) => resolution.provenance === 'v1',
+      resolution => resolution.provenance === 'v1',
     )
       ? 'v1'
-      : resolutions.some((resolution) => resolution.provenance === 'manual')
+      : resolutions.some(resolution => resolution.provenance === 'manual')
         ? 'manual'
         : 'v2';
-    const variants = resolutions.map((resolution) => {
+    const variants = resolutions.map(resolution => {
       const metadata = paperImageMetadata(
         context,
         expectedScope,
@@ -934,7 +943,7 @@ function replaceLongDivisions(
 ) {
   let assetIndex = 0;
 
-  return text.replace(LONG_DIVISION_REGEX, (match) => {
+  return text.replace(LONG_DIVISION_REGEX, match => {
     const attrs = parseComponentAttributes(match);
     const variant =
       attrs.variant === 'bus' || attrs.variant === 'long'
@@ -944,7 +953,7 @@ function replaceLongDivisions(
       variant === 'both' ? ['long', 'bus'] : [variant];
 
     const output = variants
-      .map((currentVariant) => {
+      .map(currentVariant => {
         const paths = longDivisionAssetRelativePath(
           context,
           scopeType,
@@ -979,9 +988,13 @@ export function enrichRtqMarkdown(
   }
 
   validatePaperListMarkdown(text);
+  validatePaperImageListMarkdown(text);
   validatePaperShapeMarkdown(text);
   const withPaperLists = toPaperListCompatibilityMarkdown(text);
-  const withPaperSymbols = toPaperSymbolCompatibilityMarkdown(withPaperLists);
+  const withPaperImageLists =
+    toPaperImageListCompatibilityMarkdown(withPaperLists);
+  const withPaperSymbols =
+    toPaperSymbolCompatibilityMarkdown(withPaperImageLists);
   const withPaperTables = normalizePaperTableMarkdown(withPaperSymbols);
   const withMdxCompatibility = toPaperMdxCompatibilityMarkdown(withPaperTables);
   const withWorkingSections = replaceWorkingSections(withMdxCompatibility);

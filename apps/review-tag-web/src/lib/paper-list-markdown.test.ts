@@ -155,12 +155,21 @@ test('uses the shared contract at the central read-only Tag Web boundaries', asy
 
   assert.match(assets, /validatePaperListMarkdown\(text\)/);
   assert.match(assets, /toPaperListCompatibilityMarkdown\(text\)/);
-  assert.match(assets, /toPaperSymbolCompatibilityMarkdown\(withPaperLists\)/);
+  assert.match(assets, /validatePaperImageListMarkdown\(text\)/);
+  assert.match(
+    assets,
+    /toPaperImageListCompatibilityMarkdown\(withPaperLists\)/,
+  );
+  assert.match(
+    assets,
+    /toPaperSymbolCompatibilityMarkdown\(withPaperImageLists\)/,
+  );
   assert.match(assets, /toPaperMdxCompatibilityMarkdown\(withPaperTables\)/);
   assert.match(component, /remarkPaperListMdx/);
   assert.match(component, /remarkPaperStructuredTable/);
   assert.match(component, /rehypePaperTable/);
   assert.match(component, /remarkPaperList/);
+  assert.match(component, /remarkPaperImageList/);
   assert.match(css, /\.rtq-markdown ul\s*{[^}]*list-style-type:\s*disc/s);
   assert.match(css, /\.rtq-markdown ol\s*{[^}]*list-style-type:\s*decimal/s);
   assert.match(css, /@import '@rtq\/review-paper-markdown\/paper-table\.css'/);

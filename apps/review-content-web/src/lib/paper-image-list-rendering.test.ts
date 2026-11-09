@@ -56,15 +56,11 @@ const MARKDOWN = [
   '</PaperImageList>',
 ].join('\n');
 
-function render(
-  versions: ReadonlyArray<'original' | 'v1' | 'v2'>,
-  showImageTags = false,
-) {
+function render(versions: ReadonlyArray<'original' | 'v1' | 'v2'>) {
   return renderToStaticMarkup(
     createElement(RtqMarkdown, {
       markdown: MARKDOWN,
       paperImages: [image('a', 128), image('b', 230)],
-      showImageTags,
       visibleImageVersions: new Set(versions),
     }),
   );
@@ -104,20 +100,14 @@ test('raises an Original raster to the Original image size preference', () => {
       markdown: MARKDOWN,
       originalImageSize: 'lg',
       paperImages: [image('a', 128), image('b', 230)],
-      showImageTags: false,
       visibleImageVersions: new Set(['original'] as const),
     }),
   );
   assert.match(html, /--rtq-image-list-item-width:576px/);
 });
 
-test('omits the label with one visible version and draws tags after the lists', () => {
-  const html = render(['v2'], true);
+test('omits the label with one visible version and draws no image tags', () => {
+  const html = render(['v2']);
   assert.doesNotMatch(html, /rtq-image-list-label/);
-  assert.match(html, /class="rtq-image-list-chrome"/);
-  assert.ok(
-    html.indexOf('rtq-image-list-chrome') >
-      html.lastIndexOf('data-slot="paper-image-list"'),
-  );
-  assert.equal(html.match(/rtq-paper-image-tags"/g)?.length, 2);
+  assert.doesNotMatch(html, /rtq-image-list-chrome|rtq-paper-image-tags/);
 });

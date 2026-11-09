@@ -293,30 +293,6 @@ function imageListVersions(
   });
 }
 
-function PaperImageTags({ image }: { image: DisplayPaperImage }) {
-  return (
-    <span className="rtq-paper-image-tags">
-      <span className="rtq-paper-image-tags-label">Image tags</span>
-      {image.tags.length ? (
-        image.tags.map((tag) => (
-          <span
-            className="rtq-paper-image-tag"
-            data-dimension={tag.dimensionKey}
-            data-supported={tag.supported}
-            key={`${tag.dimensionLabel}:${tag.value}`}
-          >
-            <span>{tag.dimensionLabel}</span>
-            <strong>{tag.valueLabel}</strong>
-            {tag.supported ? null : <em>Unsupported</em>}
-          </span>
-        ))
-      ) : (
-        <span className="rtq-paper-image-tags-empty">Unclassified</span>
-      )}
-    </span>
-  );
-}
-
 const comparisonVariantOrder: Readonly<
   Record<DisplayPaperImageVariant['provenance'], number>
 > = {
@@ -344,12 +320,10 @@ const comparisonVariantLabels: Readonly<
 export function PaperImageComparison({
   image,
   paperImageScale,
-  showImageTags,
   visibleVersions,
 }: Readonly<{
   image: DisplayPaperImage;
   paperImageScale: PaperImageScale;
-  showImageTags: boolean;
   visibleVersions: ReadonlySet<ImageComparisonVersion>;
 }>) {
   const variants = [...image.variants, ...(image.retiredVariants ?? [])]
@@ -382,7 +356,6 @@ export function PaperImageComparison({
       data-indent={image.indent}
       data-size={image.displaySize}
     >
-      {showImageTags ? <PaperImageTags image={image} /> : null}
       <span
         className="visual-paper-image-variants"
         data-layout={versionCount}
@@ -413,7 +386,6 @@ function PaperImage({
   alt,
   image,
   paperImageScale,
-  showImageTags,
   src,
   title,
   visibleImageVersions,
@@ -421,7 +393,6 @@ function PaperImage({
   alt?: string;
   image?: DisplayPaperImage;
   paperImageScale: PaperImageScale;
-  showImageTags: boolean;
   src?: string;
   title?: string;
   visibleImageVersions: ReadonlySet<ImageComparisonVersion>;
@@ -448,7 +419,6 @@ function PaperImage({
       <PaperImageComparison
         image={image}
         paperImageScale={paperImageScale}
-        showImageTags={showImageTags}
         visibleVersions={visibleImageVersions}
       />
     );
@@ -524,7 +494,6 @@ export function RtqMarkdown({
   originalImageSize = 'sm',
   paperImageScale = 1,
   paperImages,
-  showImageTags = true,
   variant,
   visibleImageVersions = DEFAULT_IMAGE_COMPARISON_VERSION_SET,
 }: {
@@ -532,7 +501,6 @@ export function RtqMarkdown({
   originalImageSize?: OriginalImageSize;
   paperImageScale?: PaperImageScale;
   paperImages?: readonly DisplayPaperImage[];
-  showImageTags?: boolean;
   variant?: RtqMarkdownVariant;
   visibleImageVersions?: ReadonlySet<ImageComparisonVersion>;
 }) {
@@ -553,15 +521,7 @@ export function RtqMarkdown({
         : undefined;
     };
     return {
-      // D7: one list per visible version; image tags stay outside the lists.
-      ...(showImageTags
-        ? {
-            chrome: (node: HastNode): HastNode => ({
-              ...node,
-              properties: { ...node.properties, dataImageChrome: 'tags' },
-            }),
-          }
-        : {}),
+      // D7: one list per visible version.
       resolve: (node: HastNode) => {
         const image = lookup(node);
         return image
@@ -582,7 +542,6 @@ export function RtqMarkdown({
     originalImageSize,
     paperImageScale,
     paperImagesByReference,
-    showImageTags,
     visibleImageVersions,
   ]);
   if (!markdown.trim()) return null;
@@ -604,12 +563,6 @@ export function RtqMarkdown({
             const listVersion = (props as Record<string, unknown>)[
               'data-image-version'
             ];
-            const listChrome = (props as Record<string, unknown>)[
-              'data-image-chrome'
-            ];
-            if (image && typeof listChrome === 'string') {
-              return <PaperImageTags image={image} />;
-            }
             if (image && typeof listVersion === 'string') {
               const variant = visibleListVariants(
                 image,
@@ -635,7 +588,6 @@ export function RtqMarkdown({
                     : undefined
                 }
                 paperImageScale={paperImageScale}
-                showImageTags={showImageTags}
                 src={typeof src === 'string' ? src : undefined}
                 title={title}
                 visibleImageVersions={visibleImageVersions}

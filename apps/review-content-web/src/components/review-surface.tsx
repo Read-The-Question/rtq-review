@@ -427,7 +427,6 @@ function PaperMarkdown({
       originalImageSize={preferences.originalImageSize}
       paperImageScale={preferences.imageScale}
       paperImages={field.paperImages}
-      showImageTags={preferences.showImageTags}
       variant={variant}
       visibleImageVersions={visibleImageVersions}
     />
@@ -2244,7 +2243,6 @@ function ImageQuestionNode({
                 <PaperImageComparison
                   image={occurrence.image}
                   paperImageScale={imageComparisonScale}
-                  showImageTags={preferences.showImageTags}
                   visibleVersions={visibleImageVersions}
                 />
               </section>
@@ -5703,11 +5701,6 @@ export function ReviewSurface({
                   checked={preferences.showTags}
                   label="Tags"
                   onChange={(value) => updatePreference('showTags', value)}
-                />
-                <PreferenceToggle
-                  checked={preferences.showImageTags}
-                  label="Image tags"
-                  onChange={(value) => updatePreference('showImageTags', value)}
                 />
                 <PreferenceToggle
                   checked={preferences.showImageMarkers}

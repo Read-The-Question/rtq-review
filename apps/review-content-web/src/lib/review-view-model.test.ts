@@ -82,9 +82,10 @@ test('preferences survive partial and malformed local values', () => {
     showRaw: true,
   });
   assert.equal(parseReviewPreferences('{"showPdf":false}').showPdf, false);
-  assert.equal(
-    parseReviewPreferences('{"showImageTags":false}').showImageTags,
-    false,
+  // Image tags are no longer displayed; a stored legacy value is ignored.
+  assert.deepEqual(
+    parseReviewPreferences('{"showImageTags":false}'),
+    DEFAULT_REVIEW_PREFERENCES,
   );
   assert.equal(
     parseReviewPreferences('{"showImageMarkers":false}').showImageMarkers,
@@ -182,13 +183,6 @@ test('preferences survive partial and malformed local values', () => {
   assert.equal(
     parseReviewPreferences('{"surfaceView":"unsupported"}').surfaceView,
     'content',
-  );
-  assert.equal(
-    parseReviewPreferences(
-      null,
-      '{"showQuestionStatusInfo":false,"showImageStatusInfo":false,"showImageTags":false,"showImageMarkers":false,"paperImageMode":"svg"}',
-    ).showImageTags,
-    false,
   );
   assert.equal(
     parseReviewPreferences(

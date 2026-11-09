@@ -252,7 +252,6 @@ function render(
   options: Readonly<{
     paperImageScale?: 1 | 2;
     paperImages?: readonly DisplayPaperImage[];
-    showImageTags?: boolean;
     visibleImageVersions?: ReadonlySet<
       'debug-v1' | 'debug-v2' | 'original' | 'v1' | 'v2'
     >;
@@ -361,7 +360,7 @@ test('preserves explicitly requested inline manual SVG delivery', (t) => {
 });
 
 for (const scope of ['question', 'working', 'answer'] as const) {
-  test(`renders occurrence-local image tags in ${scope} content`, (t) => {
+  test(`keeps occurrence-local image tags in ${scope} data without displaying them`, (t) => {
     const f = fixture(t);
     const owner =
       scope === 'question'
@@ -396,23 +395,15 @@ for (const scope of ['question', 'working', 'answer'] as const) {
       paperImages: prepared.paperImages,
     });
     assert.equal(imageTags(html).length, 2);
-    assert.match(html, /Image tags/);
-    assert.match(html, /data-dimension="family"/);
-    assert.match(html, /data-dimension="type"/);
-    assert.match(html, /Family/);
-    assert.match(html, /Triangle/);
-    assert.match(html, /Venn diagram/);
+    // Image tags are being deprecated: content review no longer shows them.
     assert.doesNotMatch(
-      render(prepared.rendered, {
-        paperImages: prepared.paperImages,
-        showImageTags: false,
-      }),
-      /Image tags|Triangle|Venn diagram/,
+      html,
+      /Image tags|data-dimension=|Triangle|Venn diagram/,
     );
   });
 }
 
-test('shows image tags with the existing missing-binary fallback', (t) => {
+test('keeps the missing-binary fallback without showing image tags', (t) => {
   const f = fixture(t);
   const prepared = f.prepareDisplay(
     '<PaperImage assetScope="question" family="geometry" type="triangle" />',
@@ -421,8 +412,7 @@ test('shows image tags with the existing missing-binary fallback', (t) => {
     paperImages: prepared.paperImages,
   });
   assert.match(html, /Missing paper image/);
-  assert.match(html, /Geometry/);
-  assert.match(html, /Triangle/);
+  assert.doesNotMatch(html, /Geometry|Triangle/);
 });
 
 test('renders matching active formats in PNG, JPEG, SVG order', (t) => {
@@ -577,7 +567,6 @@ test('shows retired manual artwork through the shared comparison renderer', (t) 
     createElement(PaperImageComparison, {
       image: prepared.paperImages?.[0] as DisplayPaperImage,
       paperImageScale: 1,
-      showImageTags: false,
       visibleVersions: new Set(['original', 'v1', 'debug-v1'] as const),
     }),
   );
@@ -638,7 +627,6 @@ test('puts the original first and pairs each generated SVG with its debug SVG', 
     createElement(PaperImageComparison, {
       image: comparisonImage,
       paperImageScale: 1,
-      showImageTags: false,
       visibleVersions: ALL_IMAGE_VERSIONS,
     }),
   );
@@ -657,7 +645,6 @@ test('puts the original first and pairs each generated SVG with its debug SVG', 
     createElement(PaperImageComparison, {
       image: comparisonImage,
       paperImageScale: 1,
-      showImageTags: false,
       visibleVersions: new Set(['v1', 'debug-v1'] as const),
     }),
   );
@@ -672,7 +659,6 @@ test('puts the original first and pairs each generated SVG with its debug SVG', 
     createElement(PaperImageComparison, {
       image: comparisonImage,
       paperImageScale: 1,
-      showImageTags: false,
       visibleVersions: new Set(['v2', 'debug-v2'] as const),
     }),
   );

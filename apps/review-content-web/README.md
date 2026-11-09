@@ -13,7 +13,8 @@ raw content views, allowlisted canonical paper assets, database-backed outcome
 submission, local append-only review comments, and a separate product-wide
 finding inbox. **Edit tags** exposes contextual controls on each question and
 persists explicit tags or inheritance directly to that question's source TOML;
-image tags are intentionally not editable. A filter-aware left rail links directly to every visible
+image tags are deprecated and are neither editable nor displayed (they stay
+in the source content). A filter-aware left rail links directly to every visible
 question, subquestion, and sub-subquestion. The read-only `corpusAllTopicsToml`
 collection exposes the complete one-way projection across every active tag.
 
@@ -162,7 +163,7 @@ does, and the voice block in `src/app/globals.css` ports
 (`apps/web/src/components/app/papers/paper-view-section/paper-view-rich-text/`):
 per-voice font, size, line height and weight at the normal-view size, and the
 block, table, image and list-item sibling spacing. Port production changes to
-that block. Review chrome (headers, controls, image tags, author notes) keeps
+that block. Review chrome (headers, controls, author notes) keeps
 the review type, and column widths follow the review layout, so line wrapping
 can differ from the web.
 

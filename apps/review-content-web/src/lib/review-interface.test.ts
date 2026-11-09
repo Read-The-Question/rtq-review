@@ -216,7 +216,7 @@ test('top-level questions expose current outcomes and feedback as scan badges', 
     /updatePreference\('showQuestionStatusInfo', value\)/,
   );
   assert.match(component, /updatePreference\('showImageStatusInfo', value\)/);
-  assert.match(component, /updatePreference\('showImageTags', value\)/);
+  assert.doesNotMatch(component, /showImageTags/);
   assert.match(component, /updatePreference\('showImageMarkers', value\)/);
   assert.match(
     component,
@@ -638,7 +638,7 @@ test('view options support minimal metadata and centered review panel modes', as
   assert.match(component, /<summary>View options<\/summary>/);
   assert.match(component, /checked=\{preferences\.showMetadata\}/);
   assert.match(component, /label="Metadata"/);
-  assert.match(component, /label="Image tags"/);
+  assert.doesNotMatch(component, /label="Image tags"/);
   assert.match(component, /label="Image & table markers in navigation"/);
   assert.match(component, /<span>Questions shown<\/span>/);
   // The content filter still applies in tag review, so it must stay editable.
@@ -718,10 +718,7 @@ test('view options support minimal metadata and centered review panel modes', as
     component,
     /showContentMarkers:\s*preferences\.showImageMarkers/,
   );
-  assert.match(
-    css,
-    /\.rtq-paper-image-tag\[data-dimension='type'\]\s*{[^}]*background:\s*#dce8ec/s,
-  );
+  assert.doesNotMatch(css, /\.rtq-paper-image-tag/);
 });
 
 test('the URL-backed image view projects PaperImage occurrences without question copy', async () => {

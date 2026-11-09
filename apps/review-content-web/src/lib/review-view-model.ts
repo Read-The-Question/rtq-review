@@ -88,7 +88,6 @@ export type ReviewPreferences = Readonly<{
   surfaceView: ReviewSurfaceView;
   showFeedback: boolean;
   showImageMarkers: boolean;
-  showImageTags: boolean;
   showImageStatusInfo: boolean;
   showInlineReview: boolean;
   showMetadata: boolean;
@@ -111,7 +110,6 @@ export const DEFAULT_REVIEW_PREFERENCES: ReviewPreferences = {
   surfaceView: 'content',
   showFeedback: true,
   showImageMarkers: true,
-  showImageTags: true,
   showImageStatusInfo: true,
   showInlineReview: true,
   showMetadata: true,
@@ -355,10 +353,6 @@ export function parseReviewPreferences(
     showImageMarkers: preference(
       'showImageMarkers',
       DEFAULT_REVIEW_PREFERENCES.showImageMarkers,
-    ),
-    showImageTags: preference(
-      'showImageTags',
-      DEFAULT_REVIEW_PREFERENCES.showImageTags,
     ),
     showImageStatusInfo: preference(
       'showImageStatusInfo',

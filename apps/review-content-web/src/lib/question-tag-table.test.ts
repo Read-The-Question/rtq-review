@@ -121,8 +121,10 @@ test('inheritance off and top-level questions keep the same columns', () => {
   assert.match(topLevel, /data-row="final"/);
 });
 
-test('edit mode makes only the Set here row editable', () => {
-  const markup = renderToStaticMarkup(
+function editorMarkup(
+  overrides: Partial<Parameters<typeof QuestionTagEditor>[0]> = {},
+): string {
+  return renderToStaticMarkup(
     createElement(QuestionTagEditor, {
       catalog,
       disabled: false,
@@ -131,31 +133,88 @@ test('edit mode makes only the Set here row editable', () => {
       onChange: () => undefined,
       state: { ...subQuestion, nodeUuid: 'uuid-1' },
       status: { kind: 'idle', message: '' },
+      ...overrides,
     }),
   );
+}
 
-  const explicitRow = /<tr data-row="explicit">(.*?)<\/tr>/.exec(markup)?.[1];
-  assert.ok(explicitRow);
+function row(markup: string, name: string): string {
+  const match = new RegExp(`<tr data-row="${name}">(.*?)</tr>`).exec(markup);
+  assert.ok(match, `row ${name} is rendered`);
+  return match[1];
+}
+
+test('the Set here row is the editor; Inherited carries Use parent tags', () => {
+  const markup = editorMarkup();
+
+  const explicitRow = row(markup, 'explicit');
   assert.match(explicitRow, /aria-label="Remove frame\.money"/);
   assert.match(explicitRow, /aria-label="Add family tag"/);
   assert.match(explicitRow, /aria-label="Change frame tag"/);
   // Every marker is already chosen, so there is nothing left to add.
   assert.doesNotMatch(explicitRow, /Add markers tag/);
-  for (const row of ['inherited', 'final']) {
-    const cells = /<tr data-row="[a-z]+">(.*?)<\/tr>/g;
-    for (const match of markup.matchAll(cells)) {
-      if (match[0].includes(`data-row="${row}"`)) {
-        assert.doesNotMatch(match[1], /<select|<button/);
-      }
-    }
-  }
 
-  // The old duplicate rows and per-card lines are gone.
+  const inheritedRow = row(markup, 'inherited');
+  assert.match(
+    inheritedRow,
+    /<input aria-label="Use parent tags" type="checkbox" checked=""/,
+  );
+  assert.doesNotMatch(inheritedRow, /<select|<button/);
+  assert.doesNotMatch(row(markup, 'final'), /<select|<button|<input/);
+
+  // No edit-mode panel around the table, and no duplicate rows.
   assert.doesNotMatch(
     markup,
-    /tag-lineage-row|tag-axis-card|tag-axis-inherited|No explicit tag|Effective/,
+    /question-tag-editor|Tag edit mode|tag-lineage-row|tag-axis-card|No explicit tag|Effective/,
   );
-  assert.match(markup, /Use parent tags/);
+});
+
+test('top-level questions have no Use parent tags switch', () => {
+  const markup = editorMarkup({
+    nodeDepth: 0,
+    state: { ...subQuestion, inheritedTags: [], nodeUuid: 'uuid-1' },
+  });
+  assert.doesNotMatch(markup, /Use parent tags/);
+  assert.match(row(markup, 'explicit'), /aria-label="Add family tag"/);
+});
+
+test('while the vocabulary loads, + add shows but is disabled', () => {
+  const markup = editorMarkup({ catalog: undefined });
+  const explicitRow = row(markup, 'explicit');
+  assert.match(explicitRow, /<select aria-label="Add markers tag" disabled=""/);
+  // Removing an existing tag does not need the vocabulary.
+  assert.doesNotMatch(
+    explicitRow,
+    /aria-label="Remove frame\.money" disabled=""/,
+  );
+});
+
+test('an open source edit locks every control and says why', () => {
+  const reason = 'Finish the open source edit before editing tags.';
+  const markup = editorMarkup({ disabled: true, disabledReason: reason });
+  assert.match(
+    row(markup, 'explicit'),
+    /aria-label="Remove frame\.money" disabled="" title="Finish the open source edit/,
+  );
+  assert.match(row(markup, 'inherited'), /disabled=""/);
+  assert.match(markup, new RegExp(`title="${reason}"`));
+});
+
+test('save state sits in the corner cell; errors show below', () => {
+  const saving = editorMarkup({
+    status: { kind: 'saving', message: 'Saving directly to TOML…' },
+  });
+  assert.match(
+    saving,
+    /<td class="tag-table__corner"><span class="tag-save-status tag-save-status--saving" role="status" title="Saving directly to TOML…">Saving…<\/span><\/td>/,
+  );
+  const failed = editorMarkup({
+    status: { kind: 'error', message: 'The TOML changed on disk.' },
+  });
+  assert.match(
+    failed,
+    /<p class="tag-save-error" role="alert">The TOML changed on disk\.<\/p>/,
+  );
 });
 
 test('colour is on the axis headers only', async () => {
@@ -165,5 +224,25 @@ test('colour is on the axis headers only', async () => {
   );
   assert.match(css, /\.tag-table thead th\s*{[^}]*--tag-axis-accent/s);
   assert.doesNotMatch(css, /\.tag-table tbody td\s*{[^}]*background/s);
-  assert.doesNotMatch(css, /\.tag-group|\.tag-axis-card|\.node-tags-layer/);
+  assert.doesNotMatch(
+    css,
+    /\.tag-group|\.tag-axis-card|\.node-tags-layer|\.question-tag-editor|\.toolbar-tag-edit-toggle/,
+  );
+});
+
+test('there is no separate tag edit mode to switch into', async () => {
+  const surface = await readFile(
+    new URL('../components/review-surface.tsx', import.meta.url),
+    'utf8',
+  );
+  assert.doesNotMatch(
+    surface,
+    /Finish tagging|'Edit tags'|searchParams\.get\('edit'\)|next\/dynamic/,
+  );
+  // Showing tags is the only switch; editability follows the collection.
+  assert.match(surface, /\{preferences\.showTags \? \(?\s*<NodeTags/);
+  assert.match(
+    surface,
+    /if \(!runtime\.isEditable\(node\)\) return <ReadOnlyNodeTags/,
+  );
 });

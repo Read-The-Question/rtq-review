@@ -1,7 +1,6 @@
 'use client';
 
 import Link from 'next/link';
-import dynamic from 'next/dynamic';
 import { usePathname, useRouter, useSearchParams } from 'next/navigation';
 import {
   createContext,
@@ -149,12 +148,11 @@ import {
   type RtqMarkdownVariant,
 } from './rtq-markdown';
 import { SiteHeader } from './site-header';
-import type { QuestionTagSaveStatus } from './question-tag-editor';
+import {
+  QuestionTagEditor,
+  type QuestionTagSaveStatus,
+} from './question-tag-editor';
 import { QuestionTagTable } from './question-tag-table';
-
-const QuestionTagEditor = dynamic(() =>
-  import('./question-tag-editor').then((module) => module.QuestionTagEditor),
-);
 
 type QuestionTagSource = Readonly<{
   collectionId: PaperCollectionId;
@@ -274,16 +272,14 @@ type ReviewContentRuntime = Readonly<{
 }>;
 type QuestionTagRuntime = Readonly<{
   catalog?: QuestionTagCatalog;
-  catalogError?: string;
-  enabled: boolean;
   isEditable: (node: DisplayPaperNode) => boolean;
-  loadingCatalog: boolean;
+  /** Why every tag control is disabled right now, such as an open source edit. */
+  lockedReason?: string;
   mutate: (
     node: DisplayPaperNode,
     explicitTags: readonly string[],
     explicitInherit: boolean | null,
   ) => void;
-  retryCatalog: () => void;
   status: (node: DisplayPaperNode) => QuestionTagSaveStatus;
 }>;
 const ReviewContentContext = createContext<ReviewContentRuntime>({
@@ -294,11 +290,8 @@ const ReviewContentContext = createContext<ReviewContentRuntime>({
   },
 });
 const QuestionTagContext = createContext<QuestionTagRuntime>({
-  enabled: false,
   isEditable: () => false,
-  loadingCatalog: false,
   mutate: () => undefined,
-  retryCatalog: () => undefined,
   status: () => ({ kind: 'idle', message: '' }),
 });
 const PDF_SESSION_STORAGE_PREFIX = 'rtq.review-content.search-pdf.v1:';
@@ -1387,65 +1380,51 @@ function ReadOnlyNodeTags({ node }: { node: DisplayPaperNode }) {
   );
 }
 
+/**
+ * Tags are always editable in writable collections: the "Set here" row of the
+ * table is the editor, so there is no separate edit mode to switch into.
+ */
 function NodeTags({ node }: { node: DisplayPaperNode }) {
   const runtime = useContext(QuestionTagContext);
-  if (!runtime.enabled) return <ReadOnlyNodeTags node={node} />;
+  if (!runtime.isEditable(node)) return <ReadOnlyNodeTags node={node} />;
   if (!node.uuid) {
     return (
-      <div className="tag-edit-unavailable" role="note">
-        <strong>Tags are read-only for {node.label}.</strong>
-        <span>
-          This question has no rtq-uuid, so it cannot be edited safely.
-        </span>
-        <ReadOnlyNodeTags node={node} />
-      </div>
-    );
-  }
-  if (!runtime.isEditable(node)) {
-    return (
-      <div className="tag-edit-unavailable" role="note">
-        <strong>Tags are read-only in this collection.</strong>
-        <ReadOnlyNodeTags node={node} />
-      </div>
-    );
-  }
-  if (!runtime.catalog) {
-    return (
-      <div
-        className={`tag-editor-loading${runtime.catalogError ? ' tag-editor-loading--error' : ''}`}
-        role={runtime.catalogError ? 'alert' : 'status'}
-      >
-        <span>
-          {runtime.catalogError ?? 'Preparing the question-tag vocabulary…'}
-        </span>
-        {runtime.catalogError ? (
-          <button onClick={runtime.retryCatalog} type="button">
-            Try again
-          </button>
-        ) : null}
+      <div className="node-tags">
+        <QuestionTagTable
+          label={`${node.label} dimensional tags`}
+          nodeDepth={node.depth}
+          state={node}
+        />
+        <p className="tag-table-hint">
+          Read-only: this question has no rtq-uuid, so it cannot be edited
+          safely.
+        </p>
       </div>
     );
   }
 
   const status = runtime.status(node);
   return (
-    <QuestionTagEditor
-      catalog={runtime.catalog}
-      disabled={runtime.loadingCatalog || status.kind === 'saving'}
-      nodeDepth={node.depth}
-      nodeLabel={node.label}
-      onChange={(explicitTags, explicitInherit) =>
-        runtime.mutate(node, explicitTags, explicitInherit)
-      }
-      state={{
-        effectiveTags: node.effectiveTags,
-        explicitInherit: node.explicitInherit,
-        explicitTags: node.explicitTags,
-        inheritedTags: node.inheritedTags,
-        nodeUuid: node.uuid,
-      }}
-      status={status}
-    />
+    <div className="node-tags">
+      <QuestionTagEditor
+        catalog={runtime.catalog}
+        disabled={Boolean(runtime.lockedReason) || status.kind === 'saving'}
+        disabledReason={runtime.lockedReason}
+        nodeDepth={node.depth}
+        nodeLabel={node.label}
+        onChange={(explicitTags, explicitInherit) =>
+          runtime.mutate(node, explicitTags, explicitInherit)
+        }
+        state={{
+          effectiveTags: node.effectiveTags,
+          explicitInherit: node.explicitInherit,
+          explicitTags: node.explicitTags,
+          inheritedTags: node.inheritedTags,
+          nodeUuid: node.uuid,
+        }}
+        status={status}
+      />
+    </div>
   );
 }
 
@@ -1805,7 +1784,6 @@ function QuestionNode({
   topLevelQuestion: DisplayPaperNode;
   visibleNodeIds?: ReadonlySet<string>;
 }) {
-  const questionTagRuntime = useContext(QuestionTagContext);
   const exactMatch = matchingNodeIds.has(node.id);
   const statusRails = reviewStatusRails(node, reviewSides, reviewRuntime);
   const visibleStatusRails = statusRails.filter(({ side }) =>
@@ -1923,9 +1901,7 @@ function QuestionNode({
         ) : null}
       </header>
 
-      {preferences.showTags || questionTagRuntime.enabled ? (
-        <NodeTags node={node} />
-      ) : null}
+      {preferences.showTags ? <NodeTags node={node} /> : null}
       {visibleFeedbackSides(preferences)
         .filter((side) => side === 'tags')
         .map((side) => (
@@ -3538,7 +3514,6 @@ export function ReviewSurface({
   const pathname = usePathname();
   const router = useRouter();
   const searchParams = useSearchParams();
-  const tagEditing = searchParams.get('edit') === 'tags';
   const [tagOverrides, setTagOverrides] = useState<
     Readonly<Record<string, ReviewNodeTagState>>
   >({});
@@ -3619,21 +3594,6 @@ export function ReviewSurface({
     );
   }, []);
 
-  useEffect(() => {
-    if (!tagEditing || tagCatalogLoad.state !== 'idle') return;
-    let active = true;
-    void loadQuestionTagCatalogAction().then((result) => {
-      if (!active) return;
-      setTagCatalogLoad(
-        result.ok
-          ? { catalog: result.catalog, state: 'ready' }
-          : { message: result.message, state: 'error' },
-      );
-    });
-    return () => {
-      active = false;
-    };
-  }, [tagCatalogLoad.state, tagEditing]);
   const pdfOptions = useMemo<readonly PaperPdfOption[]>(() => {
     if (pdfs?.length) return pdfs;
     if (!pdf) return [];
@@ -3723,6 +3683,24 @@ export function ReviewSurface({
       visibleImageVersionList,
     ],
   );
+  const tagsVisible = displayPreferences.showTags;
+  // The tag vocabulary loads once, the first time tags are shown; until then
+  // the "+ add" controls stay visible but disabled.
+  useEffect(() => {
+    if (!tagsVisible || tagCatalogLoad.state !== 'idle') return;
+    let active = true;
+    void loadQuestionTagCatalogAction().then((result) => {
+      if (!active) return;
+      setTagCatalogLoad(
+        result.ok
+          ? { catalog: result.catalog, state: 'ready' }
+          : { message: result.message, state: 'error' },
+      );
+    });
+    return () => {
+      active = false;
+    };
+  }, [tagCatalogLoad.state, tagsVisible]);
   const contentPattern = searchParams.get('content')?.trim() ?? '';
   const contentScope = normalizeContentSearchScope(
     searchParams.get('content-scope'),
@@ -4542,23 +4520,8 @@ export function ReviewSurface({
   function setSurfaceView(view: ReviewSurfaceView) {
     updatePreference('surfaceView', view);
     const current = new URLSearchParams(searchParams.toString());
-    if (view === 'images') {
-      current.set('view', 'images');
-      current.delete('edit');
-    } else current.delete('view');
-    replaceSearchParams(current);
-  }
-
-  function setTagEditing(enabled: boolean) {
-    if (enabled && activeContentEditorKey) return;
-    const current = new URLSearchParams(searchParams.toString());
-    if (enabled) {
-      updatePreference('surfaceView', 'content');
-      current.delete('view');
-      current.set('edit', 'tags');
-    } else {
-      current.delete('edit');
-    }
+    if (view === 'images') current.set('view', 'images');
+    else current.delete('view');
     replaceSearchParams(current);
   }
 
@@ -4792,19 +4755,14 @@ export function ReviewSurface({
       ...(tagCatalogLoad.state === 'ready'
         ? { catalog: tagCatalogLoad.catalog }
         : {}),
-      ...(tagCatalogLoad.state === 'error'
-        ? { catalogError: tagCatalogLoad.message }
-        : {}),
-      enabled: tagEditing,
       isEditable: (node) =>
         isEditablePaperCollectionId(
           questionTagSourceForNode(node, paper).collectionId,
         ),
-      loadingCatalog:
-        tagCatalogLoad.state === 'loading' ||
-        (tagEditing && tagCatalogLoad.state === 'idle'),
+      ...(activeContentEditorKey
+        ? { lockedReason: 'Finish the open source edit before editing tags.' }
+        : {}),
       mutate: mutateQuestionTags,
-      retryCatalog: () => void loadQuestionTagCatalog(),
       status: (node) => {
         if (!node.uuid) return { kind: 'idle', message: '' };
         const source = questionTagSourceForNode(node, paper);
@@ -4817,11 +4775,10 @@ export function ReviewSurface({
       },
     }),
     [
-      loadQuestionTagCatalog,
+      activeContentEditorKey,
       mutateQuestionTags,
       paper,
       tagCatalogLoad,
-      tagEditing,
       tagSaveStatuses,
     ],
   );
@@ -5478,22 +5435,17 @@ export function ReviewSurface({
                 Images
               </button>
             </div>
-            <button
-              aria-pressed={tagEditing}
-              className="toolbar-tag-edit-toggle"
-              disabled={Boolean(activeContentEditorKey)}
-              onClick={() => setTagEditing(!tagEditing)}
-              title={
-                activeContentEditorKey
-                  ? 'Finish the open source edit before editing tags.'
-                  : tagEditing
-                    ? 'Return to read-only tag presentation'
-                    : 'Edit question tags directly in the displayed TOML'
-              }
-              type="button"
-            >
-              {tagEditing ? 'Finish tagging' : 'Edit tags'}
-            </button>
+            {tagsVisible && tagCatalogLoad.state === 'error' ? (
+              <span className="toolbar-tag-catalog-error" role="alert">
+                {`Tag list failed to load: ${tagCatalogLoad.message}`}
+                <button
+                  onClick={() => void loadQuestionTagCatalog()}
+                  type="button"
+                >
+                  Try again
+                </button>
+              </span>
+            ) : null}
             <div
               aria-label="Visible image versions"
               className="image-version-switch"

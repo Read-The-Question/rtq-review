@@ -1,3 +1,5 @@
+import type { ReactNode } from 'react';
+
 import {
   DIMENSIONAL_TAG_AXES,
   type DimensionalTagAxis,
@@ -35,9 +37,14 @@ export type QuestionTagTableState = Pick<
 >;
 
 export type QuestionTagTableEditing = Readonly<{
-  catalog: QuestionTagCatalog;
+  /** Undefined while the vocabulary loads: "+ add" shows but stays disabled. */
+  catalog?: QuestionTagCatalog;
   disabled: boolean;
+  /** Shown on hover when the controls are disabled for a reason. */
+  disabledReason?: string;
   onAdd: (axis: DimensionalTagAxis, value: string) => void;
+  /** Sub-questions only: the "Use parent tags" switch on the Inherited row. */
+  onInheritChange?: (inherit: boolean) => void;
   onRemove: (value: string) => void;
 }>;
 
@@ -70,29 +77,31 @@ function EditableTagCell({
   selected: readonly string[];
 }) {
   const label = TAG_AXIS_LABELS[axis];
-  const options = editing.catalog[axis].filter(
+  const options = (editing.catalog?.[axis] ?? []).filter(
     (tag) => !selected.includes(tag),
   );
   const replaces = SINGLE_VALUE_TAG_AXES.has(axis) && selected.length > 0;
+  const disabled = editing.disabled || !editing.catalog;
+  const title = disabled ? editing.disabledReason : undefined;
 
   return (
     <div className="tag-table__edit">
       {selected.map((tag) => (
         <span className="tag-table__chip" key={tag} title={tag}>
           {shortTagValue(tag)}
-          {editing.disabled ? null : (
-            <button
-              aria-label={`Remove ${tag}`}
-              onClick={() => editing.onRemove(tag)}
-              type="button"
-            >
-              ×
-            </button>
-          )}
+          <button
+            aria-label={`Remove ${tag}`}
+            disabled={editing.disabled}
+            onClick={() => editing.onRemove(tag)}
+            title={editing.disabled ? editing.disabledReason : undefined}
+            type="button"
+          >
+            ×
+          </button>
         </span>
       ))}
-      {options.length ? (
-        <label className="tag-table__add">
+      {options.length || !editing.catalog ? (
+        <label className="tag-table__add" title={title}>
           <span aria-hidden="true">{replaces ? 'change' : '+ add'}</span>
           <select
             aria-label={
@@ -100,7 +109,7 @@ function EditableTagCell({
                 ? `Change ${label.toLowerCase()} tag`
                 : `Add ${label.toLowerCase()} tag`
             }
-            disabled={editing.disabled}
+            disabled={disabled}
             onChange={(event) => {
               if (event.target.value) editing.onAdd(axis, event.target.value);
             }}
@@ -124,15 +133,19 @@ function EditableTagCell({
  * a column per axis, and rows for what the parent passes down, what is set on
  * this question, and the result. Per axis, a value set here replaces the
  * inherited one; with neither, Final shows the model's default. Colour stays
- * on the headers so the values read as plain text. Editing makes only the
- * "Set here" row interactive.
+ * on the headers so the values read as plain text. In writable collections
+ * the "Set here" row is always editable (there is no separate edit mode), and
+ * the Inherited row carries the "Use parent tags" switch.
  */
 export function QuestionTagTable({
+  corner,
   editing,
   label,
   nodeDepth,
   state,
 }: {
+  /** Short status for the empty top-left cell, such as "Saving…". */
+  corner?: ReactNode;
   editing?: QuestionTagTableEditing;
   label: string;
   nodeDepth: number;
@@ -154,7 +167,7 @@ export function QuestionTagTable({
       >
         <thead>
           <tr>
-            <td />
+            <td className="tag-table__corner">{corner}</td>
             {DIMENSIONAL_TAG_AXES.map((axis) => (
               <th data-axis={axis} key={axis} scope="col">
                 {TAG_AXIS_LABELS[axis]}
@@ -165,7 +178,31 @@ export function QuestionTagTable({
         <tbody>
           {nodeDepth > 0 ? (
             <tr data-row="inherited">
-              <th scope="row">Inherited</th>
+              <th scope="row">
+                {editing?.onInheritChange ? (
+                  <label
+                    className="tag-table__inherit"
+                    title={
+                      editing.disabled && editing.disabledReason
+                        ? editing.disabledReason
+                        : 'Use parent tags'
+                    }
+                  >
+                    <input
+                      aria-label="Use parent tags"
+                      checked={state.explicitInherit !== false}
+                      disabled={editing.disabled}
+                      onChange={(event) =>
+                        editing.onInheritChange?.(event.target.checked)
+                      }
+                      type="checkbox"
+                    />
+                    Inherited
+                  </label>
+                ) : (
+                  'Inherited'
+                )}
+              </th>
               {state.explicitInherit === false ? (
                 <td
                   className="tag-table__note"

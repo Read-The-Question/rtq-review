@@ -11,8 +11,11 @@ paper presentation, corpus-wide canonical question search, five-axis runtime
 tag filters, independent question and answer content-RAG filters, rendered and
 raw content views, allowlisted canonical paper assets, database-backed outcome
 submission, local append-only review comments, and a separate product-wide
-finding inbox. **Edit tags** exposes contextual controls on each question and
-persists explicit tags or inheritance directly to that question's source TOML;
+finding inbox. Question tags show as one table per question (Inherited, Set
+here and Final rows under a column per axis). In writable collections the Set
+here row and the Inherited row's "Use parent tags" switch are always editable,
+with no separate edit mode, and every change persists directly to that
+question's source TOML; tag controls are disabled while a source edit is open;
 image tags are deprecated and are neither editable nor displayed (they stay
 in the source content). A filter-aware left rail links directly to every visible
 question, subquestion, and sub-subquestion. The read-only `corpusAllTopicsToml`
@@ -340,9 +343,9 @@ Use a disposable or development review database for this walkthrough.
 3. Copy the filtered URL, refresh, and confirm the filter scope is restored.
    Use **Clear all**, then reopen the copied URL to prove clear and restore
    independently.
-4. Select **Edit tags**, change a question's explicit tags or inheritance, and
-   confirm that the exact source TOML updates immediately. Confirm inherited
-   tags update on descendants, then select **Finish tagging**.
+4. Turn on **Tags**, change a question's Set here tags or its "Use parent
+   tags" switch, and confirm that the exact source TOML updates immediately.
+   Confirm inherited tags update on descendants.
 5. Submit a content or image outcome and confirm the success state is
    visible without changing the source TOML.
 6. Append feedback to a question or nested question, refresh, and confirm it

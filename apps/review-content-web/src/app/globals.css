@@ -2265,37 +2265,22 @@ a.paper-row:hover {
   white-space: nowrap;
 }
 
-.toolbar-tag-edit-toggle {
-  background: var(--paper-bright);
+.toolbar-tag-catalog-error {
+  align-items: center;
+  color: var(--signal);
+  display: flex;
+  font-size: 0.875rem;
+  font-weight: 750;
+  gap: 0.5rem;
+}
+
+.toolbar-tag-catalog-error button {
+  background: var(--paper-deep);
   border: 1px solid var(--rule-strong);
   color: var(--ink);
   cursor: pointer;
-  font-size: 0.875rem;
-  font-weight: 850;
-  min-height: 3rem;
-  padding: 0.55rem 0.8rem;
-  text-transform: uppercase;
-  white-space: nowrap;
-}
-
-.toolbar-tag-edit-toggle:hover:not(:disabled) {
-  background: var(--paper-deep);
-}
-
-.toolbar-tag-edit-toggle[aria-pressed='true'] {
-  background: var(--signal);
-  border-color: var(--signal-dark);
-  color: #fff;
-}
-
-.toolbar-tag-edit-toggle:focus-visible {
-  outline: 2px solid var(--signal);
-  outline-offset: 2px;
-}
-
-.toolbar-tag-edit-toggle:disabled {
-  cursor: default;
-  opacity: 0.45;
+  font: inherit;
+  padding: 0.3rem 0.5rem;
 }
 
 .toolbar-raw-toggle:hover {
@@ -3538,29 +3523,6 @@ a.paper-row:hover {
   width: 1px;
 }
 
-.question-tag-editor {
-  background: var(--paper-bright);
-  border: 1px solid var(--rule-strong);
-  border-left: 4px solid var(--signal);
-  display: grid;
-  gap: 0.75rem;
-  margin-top: 1rem;
-  padding: clamp(0.75rem, 2vw, 1rem);
-}
-
-.question-tag-editor__header {
-  align-items: center;
-  display: flex;
-  gap: 1rem;
-  justify-content: space-between;
-}
-
-.question-tag-editor__header > div {
-  display: grid;
-  gap: 0.1rem;
-}
-
-.question-tag-editor__header > div > span,
 .tag-legacy-row > span {
   color: var(--muted);
   font-size: 0.875rem;
@@ -3569,34 +3531,10 @@ a.paper-row:hover {
   text-transform: uppercase;
 }
 
-.question-tag-editor__header > div > strong {
-  font-family: var(--rtq-font-title);
-  font-size: 1.15rem;
-}
-
-.tag-inheritance-toggle {
-  align-items: center;
-  cursor: pointer;
-  display: flex;
-  font-weight: 750;
-  gap: 0.5rem;
-}
-
-.tag-inheritance-toggle input {
-  accent-color: var(--signal);
-  height: 1.1rem;
-  margin: 0;
-  width: 1.1rem;
-}
-
-.tag-root-note {
-  color: var(--muted);
-  font-size: 0.875rem;
-}
-
 /*
- * One tag table for review and edit mode. Colour lives only on the axis
- * headers; values are plain text so they read quickly down a column.
+ * One tag table for every question. Colour lives only on the axis headers;
+ * values are plain text so they read quickly down a column. In writable
+ * collections the "Set here" row is always editable.
  */
 .tag-table-scroll {
   max-width: 100%;
@@ -3619,9 +3557,10 @@ a.paper-row:hover {
   vertical-align: top;
 }
 
+/* Wide enough for the "Use parent tags" checkbox beside "Inherited". */
 .tag-table thead td {
   border-bottom-color: transparent;
-  width: 6rem;
+  width: 8rem;
 }
 
 .tag-table thead th {
@@ -3711,7 +3650,12 @@ a.paper-row:hover {
   padding: 0.1rem 0.25rem;
 }
 
-.tag-table__chip button:hover,
+.tag-table__chip button:disabled {
+  cursor: default;
+  opacity: 0.4;
+}
+
+.tag-table__chip button:hover:not(:disabled),
 .tag-table__chip button:focus-visible {
   background: var(--signal-soft);
   color: var(--signal-dark);
@@ -3761,15 +3705,28 @@ a.paper-row:hover {
   gap: 0.45rem;
 }
 
-.question-tag-editor > .tag-save-status {
-  justify-self: end;
+.tag-table__inherit {
+  align-items: center;
+  cursor: pointer;
+  display: inline-flex;
+  gap: 0.35rem;
 }
 
+.tag-table__inherit input {
+  accent-color: var(--signal);
+  height: 0.95rem;
+  margin: 0;
+  width: 0.95rem;
+}
+
+.tag-table__inherit:has(input:disabled) {
+  cursor: default;
+}
+
+/* Save state sits in the empty corner cell, so saving never moves the rows. */
 .tag-save-status {
-  border: 1px solid currentColor;
   font-size: 0.875rem;
-  font-weight: 800;
-  padding: 0.4rem 0.55rem;
+  font-weight: 750;
   white-space: nowrap;
 }
 
@@ -3781,46 +3738,17 @@ a.paper-row:hover {
   color: var(--ready);
 }
 
-.tag-save-status--error {
+.tag-save-error {
   color: var(--signal);
-  white-space: normal;
+  font-size: 0.875rem;
+  font-weight: 750;
+  margin: 0.4rem 0 0;
 }
 
-.tag-editor-loading,
-.tag-edit-unavailable {
-  align-items: center;
-  background: var(--paper-bright);
-  border: 1px dashed var(--rule-strong);
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.7rem;
-  margin-top: 1rem;
-  padding: 0.8rem;
-}
-
-.tag-edit-unavailable {
-  align-items: flex-start;
-  flex-direction: column;
-}
-
-.tag-edit-unavailable .node-tags {
-  max-width: 100%;
-  padding-top: 0.25rem;
-}
-
-.tag-editor-loading--error {
-  border-color: var(--signal);
-  color: var(--signal);
-}
-
-.tag-editor-loading button {
-  background: var(--paper-deep);
-  border: 1px solid var(--rule-strong);
-  color: var(--ink);
-  cursor: pointer;
-  font: inherit;
-  font-weight: 800;
-  padding: 0.35rem 0.55rem;
+.tag-table-hint {
+  color: var(--muted);
+  font-size: 0.875rem;
+  margin: 0.4rem 0 0;
 }
 
 .question-copy {
@@ -5854,17 +5782,12 @@ a.paper-row:hover {
 }
 
 @media (max-width: 560px) {
-  .question-tag-editor__header {
-    align-items: start;
-    display: grid;
-  }
-
   .tag-table-scroll .tag-table__row-label-rest {
     display: none;
   }
 
   .tag-table thead td {
-    width: 4rem;
+    width: 7.25rem;
   }
 
   .review-shell,
@@ -5994,7 +5917,6 @@ a.paper-row:hover {
 
   .surface-view-switch,
   .image-version-switch,
-  .toolbar-tag-edit-toggle,
   .toolbar-raw-toggle,
   .review-view-menu {
     flex: none;

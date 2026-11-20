@@ -18,17 +18,31 @@ export type QuestionTagSaveStatus = Readonly<{
   message: string;
 }>;
 
+const cornerStatus: Readonly<
+  Partial<Record<QuestionTagSaveStatus['kind'], string>>
+> = {
+  saving: 'Saving…',
+  success: 'Saved',
+};
+
+/**
+ * The tag table with its "Set here" row editable. Each change saves straight
+ * to the question's source TOML; the save state sits in the table's empty
+ * corner so saving never shifts the layout.
+ */
 export function QuestionTagEditor({
   catalog,
   disabled,
+  disabledReason,
   nodeDepth,
   nodeLabel,
   onChange,
   state,
   status,
 }: {
-  catalog: QuestionTagCatalog;
+  catalog?: QuestionTagCatalog;
   disabled: boolean;
+  disabledReason?: string;
   nodeDepth: number;
   nodeLabel: string;
   onChange: (
@@ -54,35 +68,35 @@ export function QuestionTagEditor({
     );
   }
 
-  return (
-    <section
-      aria-label={`Edit dimensional tags for ${nodeLabel}`}
-      className="question-tag-editor"
-    >
-      <header className="question-tag-editor__header">
-        <div>
-          <span>Tag edit mode</span>
-          <strong>{nodeLabel}</strong>
-        </div>
-        {nodeDepth > 0 ? (
-          <label className="tag-inheritance-toggle">
-            <input
-              checked={state.explicitInherit !== false}
-              disabled={disabled}
-              onChange={(event) =>
-                onChange(state.explicitTags, event.target.checked)
-              }
-              type="checkbox"
-            />
-            <span>Use parent tags</span>
-          </label>
-        ) : (
-          <span className="tag-root-note">Top-level tag source</span>
-        )}
-      </header>
+  const corner = cornerStatus[status.kind];
 
+  return (
+    <>
       <QuestionTagTable
-        editing={{ catalog, disabled, onAdd: addTag, onRemove: removeTag }}
+        corner={
+          corner ? (
+            <span
+              className={`tag-save-status tag-save-status--${status.kind}`}
+              role="status"
+              title={status.message}
+            >
+              {corner}
+            </span>
+          ) : null
+        }
+        editing={{
+          catalog,
+          disabled,
+          disabledReason,
+          onAdd: addTag,
+          ...(nodeDepth > 0
+            ? {
+                onInheritChange: (inherit: boolean) =>
+                  onChange(state.explicitTags, inherit),
+              }
+            : {}),
+          onRemove: removeTag,
+        }}
         label={`${nodeLabel} dimensional tags`}
         nodeDepth={nodeDepth}
         state={state}
@@ -94,28 +108,24 @@ export function QuestionTagEditor({
           {legacyTags.map((tag) => (
             <span className="tag-table__chip" key={tag} title={tag}>
               {shortTagValue(tag)}
-              {disabled ? null : (
-                <button
-                  aria-label={`Remove ${tag}`}
-                  onClick={() => removeTag(tag)}
-                  type="button"
-                >
-                  ×
-                </button>
-              )}
+              <button
+                aria-label={`Remove ${tag}`}
+                disabled={disabled}
+                onClick={() => removeTag(tag)}
+                type="button"
+              >
+                ×
+              </button>
             </span>
           ))}
         </div>
       ) : null}
 
-      {status.kind !== 'idle' ? (
-        <span
-          className={`tag-save-status tag-save-status--${status.kind}`}
-          role={status.kind === 'error' ? 'alert' : 'status'}
-        >
+      {status.kind === 'error' ? (
+        <p className="tag-save-error" role="alert">
           {status.message}
-        </span>
+        </p>
       ) : null}
-    </section>
+    </>
   );
 }

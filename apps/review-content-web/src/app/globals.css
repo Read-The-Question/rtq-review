@@ -4402,6 +4402,52 @@ a.paper-row:hover {
   height: auto;
 }
 
+/*
+ * Production image view (Versions → Production): each image once, laid out by
+ * the production rules above. The column is capped at the website's widest
+ * paper column, 63rem: rtq-web's max-w-screen-xl page (80rem) less its lg
+ * gutters (2 × 2rem), the 10rem navigation rail and the 3rem rail gap
+ * (paper-page-section.tsx, paper-view-section.content.ts). Narrower windows
+ * narrow it naturally, so lists stack and SVGs scroll as on the website.
+ */
+.rtq-markdown[data-image-presentation='production'] {
+  max-width: min(100%, 63rem);
+}
+
+/* Inside a list each image is laid out as if alone; the list spaces items. */
+.rtq-markdown .rtq-image-list-media > .rtq-paper-image {
+  margin: 0;
+}
+
+/* A production image list is an image block: image spacing on either side. */
+.rtq-markdown[data-image-presentation='production'][data-variant]
+  .rtq-image-lists {
+  margin-block: 0;
+}
+
+.rtq-markdown[data-image-presentation='production'][data-variant]
+  :where(*)
+  + .rtq-image-lists,
+.rtq-markdown[data-image-presentation='production'][data-variant]
+  .rtq-image-lists
+  + :where(*) {
+  margin-block-start: var(--rtq-paper-rich-text-image-space);
+}
+
+.rtq-production-image-missing {
+  border: 1px dashed currentColor;
+  display: block;
+  font-size: 0.875rem;
+  max-width: 16rem;
+  opacity: 0.6;
+  padding: 0.5rem;
+  text-align: center;
+}
+
+.image-version-switch button[data-version='production'] {
+  --version-colour: var(--ink);
+}
+
 .rtq-markdown .rtq-placeholder {
   background: var(--signal-soft);
   border: 1px solid var(--signal);

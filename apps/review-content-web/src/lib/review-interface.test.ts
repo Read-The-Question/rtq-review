@@ -767,6 +767,22 @@ test('the URL-backed image view projects PaperImage occurrences without question
     /if \(image\) \{[\s\S]*?<PaperImageComparison[\s\S]*?visibleVersions=\{visibleImageVersions\}/,
   );
   assert.doesNotMatch(markdown, /imageMode|const prepared = image\.variants/);
+  // Versions → Production: one image each, as the website shows it.
+  assert.match(component, /data-version="production"/);
+  assert.match(
+    component,
+    /imageProductionView\s*\?\s*null\s*:\s*IMAGE_COMPARISON_VERSIONS\.map/,
+  );
+  assert.match(
+    component,
+    /current\.set\('image-versions', PRODUCTION_IMAGE_VERSIONS_PARAM\)/,
+  );
+  assert.equal(component.match(/disabled=\{imageProductionView\}/g)?.length, 2);
+  assert.match(component, /<ProductionPaperImage image=\{occurrence\.image\}/);
+  assert.match(
+    css,
+    /\.rtq-markdown\[data-image-presentation='production'\]\s*{[^}]*max-width:\s*min\(100%, 63rem\)/s,
+  );
   assert.match(css, /\.visual-paper-image-variants\s*{/);
   assert.match(css, /grid-template-columns:\s*repeat\(2, minmax\(0, 1fr\)\)/);
   assert.match(

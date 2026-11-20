@@ -82,6 +82,11 @@ test('preferences survive partial and malformed local values', () => {
     showRaw: true,
   });
   assert.equal(parseReviewPreferences('{"showPdf":false}').showPdf, false);
+  assert.equal(parseReviewPreferences(null).imageProductionView, false);
+  assert.equal(
+    parseReviewPreferences('{"imageProductionView":true}').imageProductionView,
+    true,
+  );
   // Image tags are no longer displayed; a stored legacy value is ignored.
   assert.deepEqual(
     parseReviewPreferences('{"showImageTags":false}'),

@@ -103,6 +103,25 @@ Inline utilities compile from the actual SVG against the retained light palette,
 scoped to the SVG host. Current review surfaces are light-only, not production
 dark-mode parity.
 
+**Versions → Production** (`image-versions=production`, remembered per
+session) previews images as the website shows them. Each `PaperImage` shows
+only the variant production publishes: V2, then V1, then the manual image, as
+rtq-web's `resolveScopedPaperImageAsset` chooses; debug and retired-only
+variants are never shown, and an image with none shows the missing-image
+placeholder. Images use production sizing with no version labels or
+comparison cards: rasters fill their `displaySize` cap inside the paper
+surface, SVGs keep their natural width, shrink to the readable minimum and then
+scroll, and a `PaperImageList` is drawn once with production item widths (SVG
+natural width, otherwise the raster cap). The paper column is capped at
+production's widest column (63rem). There is no device switch: resize the
+window, since the image-list layout follows its container width and spacing
+follows the window as on the website. The column is narrower than production's
+at the same window width while the outline, PDF and review panes are open.
+**SVG image size** and **Original image size** do not apply and are disabled.
+This is a visual preview only; production validation stays with
+`assets:doctor`. The comparison versions are kept and return when Production
+is switched off.
+
 `PaperImage` attributes `family` and `type` are occurrence-local authoring
 metadata. The raw source retains them; preparation ignores them for rendering,
 URLs and accessibility, without adding a value/pair validation gate or changing

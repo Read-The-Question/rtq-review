@@ -1,3 +1,5 @@
+import { PAPER_IMAGE_DISPLAY_SIZE_CAPS_PX } from '@rtq/review-paper-markdown';
+
 import type {
   DisplayContentField,
   DisplayPaperImage,
@@ -42,6 +44,54 @@ export function imageComparisonVersionForProvenance(
   if (provenance === 'debug-v2') return 'debug-v2';
   if (provenance === 'v2') return 'v2';
   return 'v1';
+}
+
+/**
+ * The `image-versions` URL value that switches every image to the production
+ * view: one image each, laid out as the website lays it out.
+ */
+export const PRODUCTION_IMAGE_VERSIONS_PARAM = 'production';
+
+const PRODUCTION_IMAGE_PROVENANCE_ORDER = ['v2', 'v1', 'manual'] as const;
+
+/**
+ * The one variant the website publishes for an image: V2, then V1, then the
+ * manual image, as rtq-web's `resolveScopedPaperImageAsset`
+ * (`scripts/papers/build-papers-mdx.ts`) chooses. Debug and retired variants
+ * are never published. Undefined means the website's missing-image
+ * placeholder.
+ */
+export function productionImageVariant(
+  image: DisplayPaperImage,
+): DisplayPaperImageVariant | undefined {
+  for (const provenance of PRODUCTION_IMAGE_PROVENANCE_ORDER) {
+    const variant = image.variants.find(
+      (candidate) => candidate.provenance === provenance,
+    );
+    if (variant) return variant;
+  }
+  return undefined;
+}
+
+/** Retired-only originals are review context: the website never shows them. */
+export function paperImageIsPublished(image: DisplayPaperImage): boolean {
+  return image.variants.length > 0;
+}
+
+/**
+ * The width an image takes in a production PaperImageList, as rtq-web's
+ * `getStandaloneWidth`: an SVG's natural width, otherwise the raster
+ * `displaySize` cap (null for `full`, which fills the line). The missing-image
+ * placeholder is sized like a raster.
+ */
+export function productionImageListWidth(
+  image: DisplayPaperImage,
+): number | null {
+  const variant = productionImageVariant(image);
+  if (variant?.format === 'SVG' && variant.naturalWidth !== undefined) {
+    return variant.naturalWidth;
+  }
+  return PAPER_IMAGE_DISPLAY_SIZE_CAPS_PX[image.displaySize];
 }
 
 export function paperImageHasComparisonVersion(

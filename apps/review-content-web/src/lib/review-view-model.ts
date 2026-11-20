@@ -79,6 +79,8 @@ export type VisibleReviewSide = ReviewContext;
 
 export type ReviewPreferences = Readonly<{
   imageComparisonVersions: readonly ImageComparisonVersion[];
+  /** Show each image once, as the website shows it; versions are kept. */
+  imageProductionView: boolean;
   imageScale: PaperImageScale;
   originalImageSize: OriginalImageSize;
   questionContentFilter: QuestionContentFilter;
@@ -101,6 +103,7 @@ export type ReviewPreferences = Readonly<{
 
 export const DEFAULT_REVIEW_PREFERENCES: ReviewPreferences = {
   imageComparisonVersions: DEFAULT_IMAGE_COMPARISON_VERSIONS,
+  imageProductionView: false,
   imageScale: 1,
   originalImageSize: 'sm',
   questionContentFilter: 'all',
@@ -311,6 +314,10 @@ export function parseReviewPreferences(
     imageComparisonVersions: normalizedImageVersions.length
       ? normalizedImageVersions
       : DEFAULT_REVIEW_PREFERENCES.imageComparisonVersions,
+    imageProductionView: preference(
+      'imageProductionView',
+      DEFAULT_REVIEW_PREFERENCES.imageProductionView,
+    ),
     imageScale:
       requestedImageScale === 1 || requestedImageScale === 2
         ? requestedImageScale

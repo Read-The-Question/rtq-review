@@ -9,7 +9,10 @@ import type {
 import {
   imageComparisonVersionForProvenance,
   paperImageHasComparisonVersion,
+  paperImageIsPublished,
   parseImageComparisonVersions,
+  productionImageListWidth,
+  productionImageVariant,
   serializeImageComparisonVersions,
   visualOccurrencesForNode,
 } from './image-view.ts';
@@ -49,6 +52,79 @@ test('normalizes URL-backed image comparison versions', () => {
   assert.equal(
     serializeImageComparisonVersions(['debug-v2', 'original']),
     'original,debug-v2',
+  );
+});
+
+function variant(
+  provenance: DisplayPaperImage['variants'][number]['provenance'],
+  extra: Partial<DisplayPaperImage['variants'][number]> = {},
+): DisplayPaperImage['variants'][number] {
+  return {
+    alt: provenance,
+    description: '',
+    format: 'PNG',
+    provenance,
+    src: `/${provenance}.png`,
+    ...extra,
+  };
+}
+
+test('production shows the website version: V2, then V1, then manual', () => {
+  const all = ['manual', 'debug-v1', 'v1', 'debug-v2', 'v2'] as const;
+  const withVariants = (provenances: readonly (typeof all)[number][]) => ({
+    ...image,
+    variants: provenances.map((provenance) => variant(provenance)),
+  });
+  assert.equal(productionImageVariant(withVariants(all))?.provenance, 'v2');
+  assert.equal(
+    productionImageVariant(withVariants(['manual', 'v1', 'debug-v2']))
+      ?.provenance,
+    'v1',
+  );
+  assert.equal(
+    productionImageVariant(withVariants(['debug-v1', 'manual']))?.provenance,
+    'manual',
+  );
+  // Debug output alone is never published: the website shows its placeholder.
+  assert.equal(
+    productionImageVariant(withVariants(['debug-v1', 'debug-v2'])),
+    undefined,
+  );
+  // Retired originals are review context only.
+  const retiredOnly = {
+    ...image,
+    retiredVariants: [variant('retired')],
+  };
+  assert.equal(productionImageVariant(retiredOnly), undefined);
+  assert.equal(paperImageIsPublished(retiredOnly), false);
+  assert.equal(paperImageIsPublished(withVariants(['manual'])), true);
+});
+
+test('production list widths follow the website: SVG natural, raster cap', () => {
+  const svg = variant('v2', {
+    format: 'SVG',
+    minimumReadableWidth: 300,
+    naturalWidth: 400,
+  });
+  assert.equal(productionImageListWidth({ ...image, variants: [svg] }), 400);
+  // A 196px crop still takes its displaySize cap, as on the website.
+  const crop = variant('manual', { width: 196 });
+  assert.equal(productionImageListWidth({ ...image, variants: [crop] }), 256);
+  assert.equal(
+    productionImageListWidth({
+      ...image,
+      displaySize: 'lg',
+      variants: [crop],
+    }),
+    576,
+  );
+  assert.equal(
+    productionImageListWidth({
+      ...image,
+      displaySize: 'full',
+      variants: [crop],
+    }),
+    null,
   );
 });
 

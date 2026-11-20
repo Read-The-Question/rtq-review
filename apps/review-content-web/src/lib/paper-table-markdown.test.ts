@@ -245,7 +245,10 @@ test('every content field marks its voice as production does', () => {
     'utf8',
   );
 
-  assert.match(markdown, /className="rtq-markdown" data-variant=\{variant\}/);
+  assert.match(
+    markdown,
+    /className="rtq-markdown"\s+data-image-presentation=\{[^}]*\}\s+data-variant=\{variant\}/,
+  );
   assert.match(
     surface,
     /field=\{node\.content\.question\}\s*label="Question"\s*preferences=\{preferences\}\s*variant="question"/,

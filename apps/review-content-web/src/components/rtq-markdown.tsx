@@ -32,6 +32,9 @@ import {
   DEFAULT_IMAGE_COMPARISON_VERSION_SET,
   imageComparisonVersionForProvenance,
   type ImageComparisonVersion,
+  PRODUCTION_IMAGE_VERSIONS_PARAM,
+  productionImageListWidth,
+  productionImageVariant,
 } from '@/lib/image-view';
 import type {
   OriginalImageSize,
@@ -382,6 +385,110 @@ export function PaperImageComparison({
   );
 }
 
+/** Compare shows the selected versions; production shows the website's one. */
+export type PaperImagePresentation = 'compare' | 'production';
+
+/**
+ * One image as the website shows it (rtq-web PaperViewImage): only the
+ * published variant, at production size, with no review labels or cards.
+ * Rasters fill their displaySize cap inside the paper surface; SVGs keep their
+ * natural width, shrink to the readable minimum and then scroll. The layout
+ * rules are the `.rtq-markdown .rtq-paper-image` block in globals.css.
+ */
+export function ProductionPaperImage({
+  image,
+}: Readonly<{ image: DisplayPaperImage }>) {
+  const descriptionId = useId();
+  const variant =
+    productionImageVariant(image) ??
+    image.variants.find((candidate) => candidate.provenance === 'missing');
+  const layout = {
+    className: 'rtq-paper-image',
+    'data-align': image.align,
+    'data-image-presentation': 'production',
+    'data-indent': image.indent,
+    'data-kind': 'paper-image',
+    'data-size': image.displaySize,
+  } as const;
+  if (!variant) {
+    return (
+      <span {...layout}>
+        <span className="rtq-production-image-missing">
+          Missing paper image
+        </span>
+      </span>
+    );
+  }
+
+  const sized =
+    variant.format === 'SVG' &&
+    variant.naturalWidth !== undefined &&
+    variant.minimumReadableWidth !== undefined;
+  const rawVisual = variant.svgMarkup ? (
+    <span
+      role={variant.alt ? 'img' : undefined}
+      aria-label={variant.alt || undefined}
+      aria-describedby={variant.description ? descriptionId : undefined}
+      data-alt-review={variant.altReview}
+      className="rtq-svg-inline rtq-review-inline-svg"
+      dangerouslySetInnerHTML={{ __html: variant.svgMarkup }}
+    />
+  ) : (
+    // Canonical same-origin assets deliberately bypass image optimisation.
+    // eslint-disable-next-line @next/next/no-img-element
+    <img
+      alt={variant.alt}
+      aria-describedby={variant.description ? descriptionId : undefined}
+      data-alt-review={variant.altReview}
+      className={variant.format === 'SVG' ? 'rtq-svg-image' : undefined}
+      height={variant.height}
+      width={variant.width}
+      src={variant.src}
+    />
+  );
+  const visual =
+    variant.surface === undefined ? (
+      rawVisual
+    ) : (
+      <span className="paper-raster-surface" data-surface={variant.surface}>
+        {rawVisual}
+      </span>
+    );
+  return (
+    <span
+      {...layout}
+      data-format={variant.format}
+      data-provenance={variant.provenance}
+    >
+      {variant.svgCss ? <style>{variant.svgCss}</style> : null}
+      {sized ? (
+        <span
+          className="rtq-svg-scroll"
+          data-align={image.align}
+          role="group"
+          aria-label="Scrollable image"
+          tabIndex={0}
+          style={{ maxWidth: variant.naturalWidth }}
+        >
+          <span
+            className="rtq-svg-graphic"
+            style={{ minWidth: variant.minimumReadableWidth }}
+          >
+            {visual}
+          </span>
+        </span>
+      ) : (
+        visual
+      )}
+      {variant.description ? (
+        <span hidden id={descriptionId}>
+          {variant.description}
+        </span>
+      ) : null}
+    </span>
+  );
+}
+
 function PaperImage({
   alt,
   image,
@@ -490,6 +597,7 @@ export type RtqMarkdownVariant =
   'answer' | 'default' | 'formulas' | 'question' | 'tips' | 'working';
 
 export function RtqMarkdown({
+  imagePresentation = 'compare',
   markdown,
   originalImageSize = 'sm',
   paperImageScale = 1,
@@ -497,6 +605,7 @@ export function RtqMarkdown({
   variant,
   visibleImageVersions = DEFAULT_IMAGE_COMPARISON_VERSION_SET,
 }: {
+  imagePresentation?: PaperImagePresentation;
   markdown: string;
   originalImageSize?: OriginalImageSize;
   paperImageScale?: PaperImageScale;
@@ -521,9 +630,18 @@ export function RtqMarkdown({
         : undefined;
     };
     return {
-      // D7: one list per visible version.
+      // D7: one list per visible version; production draws a single list.
       resolve: (node: HastNode) => {
         const image = lookup(node);
+        if (image && imagePresentation === 'production') {
+          return [
+            {
+              label: 'Production',
+              version: PRODUCTION_IMAGE_VERSIONS_PARAM,
+              width: productionImageListWidth(image),
+            },
+          ];
+        }
         return image
           ? imageListVersions(
               image,
@@ -539,6 +657,7 @@ export function RtqMarkdown({
       }),
     };
   }, [
+    imagePresentation,
     originalImageSize,
     paperImageScale,
     paperImagesByReference,
@@ -546,7 +665,13 @@ export function RtqMarkdown({
   ]);
   if (!markdown.trim()) return null;
   return (
-    <div className="rtq-markdown" data-variant={variant}>
+    <div
+      className="rtq-markdown"
+      data-image-presentation={
+        imagePresentation === 'production' ? 'production' : undefined
+      }
+      data-variant={variant}
+    >
       <ReactMarkdown
         components={{
           span: PaperShapeSpan,
@@ -560,6 +685,9 @@ export function RtqMarkdown({
               typeof src === 'string'
                 ? paperImagesByReference.get(src)
                 : undefined;
+            if (image && imagePresentation === 'production') {
+              return <ProductionPaperImage image={image} />;
+            }
             const listVersion = (props as Record<string, unknown>)[
               'data-image-version'
             ];

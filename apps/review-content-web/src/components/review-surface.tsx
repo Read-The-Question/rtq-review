@@ -53,7 +53,9 @@ import {
   IMAGE_COMPARISON_VERSION_LABELS,
   IMAGE_COMPARISON_VERSIONS,
   paperImageHasComparisonVersion,
+  paperImageIsPublished,
   parseImageComparisonVersions,
+  PRODUCTION_IMAGE_VERSIONS_PARAM,
   serializeImageComparisonVersions,
   visualOccurrencesForNode,
   type ImageComparisonVersion,
@@ -142,6 +144,7 @@ import {
 
 import {
   PaperImageComparison,
+  ProductionPaperImage,
   RtqMarkdown,
   type RtqMarkdownVariant,
 } from './rtq-markdown';
@@ -423,6 +426,9 @@ function PaperMarkdown({
 
   return (
     <RtqMarkdown
+      imagePresentation={
+        preferences.imageProductionView ? 'production' : 'compare'
+      }
       markdown={markdown}
       originalImageSize={preferences.originalImageSize}
       paperImageScale={preferences.imageScale}
@@ -2175,8 +2181,14 @@ function ImageQuestionNode({
     includeSolutions: preferences.showSolutions,
   }).filter(
     (occurrence) =>
-      !requiredImageVersion ||
-      paperImageHasComparisonVersion(occurrence.image, requiredImageVersion),
+      (!requiredImageVersion ||
+        paperImageHasComparisonVersion(
+          occurrence.image,
+          requiredImageVersion,
+        )) &&
+      // The website never shows retired-only originals.
+      (!preferences.imageProductionView ||
+        paperImageIsPublished(occurrence.image)),
   );
   const visibleChildren = visibleNodeIds
     ? node.children.filter((child) => visibleNodeIds.has(child.id))
@@ -2240,11 +2252,20 @@ function ImageQuestionNode({
                     {occurrence.scope} image {index + 1}
                   </span>
                 </header>
-                <PaperImageComparison
-                  image={occurrence.image}
-                  paperImageScale={imageComparisonScale}
-                  visibleVersions={visibleImageVersions}
-                />
+                {preferences.imageProductionView ? (
+                  <div
+                    className="rtq-markdown"
+                    data-image-presentation="production"
+                  >
+                    <ProductionPaperImage image={occurrence.image} />
+                  </div>
+                ) : (
+                  <PaperImageComparison
+                    image={occurrence.image}
+                    paperImageScale={imageComparisonScale}
+                    visibleVersions={visibleImageVersions}
+                  />
+                )}
               </section>
             ))}
           </div>
@@ -3784,9 +3805,16 @@ export function ReviewSurface({
   const requiredImageVersion: ImageComparisonVersion | undefined =
     imageView && corpus?.imageAvailability === 'v2' ? 'v2' : undefined;
   const requestedImageVersions = searchParams.get('image-versions');
+  // `image-versions=production` shows the website's view; the comparison
+  // versions stay remembered for when it is switched off.
+  const imageProductionView =
+    requestedImageVersions === null
+      ? preferences.imageProductionView
+      : requestedImageVersions === PRODUCTION_IMAGE_VERSIONS_PARAM;
   const visibleImageVersionList = useMemo(
     () =>
-      requestedImageVersions === null
+      requestedImageVersions === null ||
+      requestedImageVersions === PRODUCTION_IMAGE_VERSIONS_PARAM
         ? preferences.imageComparisonVersions
         : parseImageComparisonVersions(requestedImageVersions),
     [preferences.imageComparisonVersions, requestedImageVersions],
@@ -3811,6 +3839,7 @@ export function ReviewSurface({
     () => ({
       ...preferences,
       imageComparisonVersions: visibleImageVersionList,
+      imageProductionView,
       imageScale: imageComparisonScale,
       originalImageSize,
       ...(imageView
@@ -3826,6 +3855,7 @@ export function ReviewSurface({
     }),
     [
       imageComparisonScale,
+      imageProductionView,
       imageView,
       originalImageSize,
       preferences,
@@ -4684,6 +4714,18 @@ export function ReviewSurface({
     updatePreference('imageComparisonVersions', normalizedVersions);
     const current = new URLSearchParams(searchParams.toString());
     if (value) current.set('image-versions', value);
+    else current.delete('image-versions');
+    replaceSearchParams(current);
+  }
+
+  function setImageProductionView(enabled: boolean) {
+    updatePreference('imageProductionView', enabled);
+    const current = new URLSearchParams(searchParams.toString());
+    const comparison = serializeImageComparisonVersions(
+      visibleImageVersionList,
+    );
+    if (enabled) current.set('image-versions', PRODUCTION_IMAGE_VERSIONS_PARAM);
+    else if (comparison) current.set('image-versions', comparison);
     else current.delete('image-versions');
     replaceSearchParams(current);
   }
@@ -5597,21 +5639,39 @@ export function ReviewSurface({
               role="group"
             >
               <span>Versions</span>
-              {IMAGE_COMPARISON_VERSIONS.map((version) => {
-                const selected = visibleImageVersions.has(version);
-                return (
-                  <button
-                    aria-pressed={selected}
-                    data-version={version}
-                    disabled={selected && visibleImageVersionList.length === 1}
-                    key={version}
-                    onClick={() => toggleImageComparisonVersion(version)}
-                    type="button"
-                  >
-                    {IMAGE_COMPARISON_VERSION_LABELS[version]}
-                  </button>
-                );
-              })}
+              <button
+                aria-pressed={imageProductionView}
+                data-version="production"
+                onClick={() => setImageProductionView(!imageProductionView)}
+                title={
+                  imageProductionView
+                    ? 'Showing each image as the website shows it. Click to compare versions again.'
+                    : 'Show each image once, as the website shows it'
+                }
+                type="button"
+              >
+                Production
+              </button>
+              {/* Production shows one image each, so the versions step aside. */}
+              {imageProductionView
+                ? null
+                : IMAGE_COMPARISON_VERSIONS.map((version) => {
+                    const selected = visibleImageVersions.has(version);
+                    return (
+                      <button
+                        aria-pressed={selected}
+                        data-version={version}
+                        disabled={
+                          selected && visibleImageVersionList.length === 1
+                        }
+                        key={version}
+                        onClick={() => toggleImageComparisonVersion(version)}
+                        type="button"
+                      >
+                        {IMAGE_COMPARISON_VERSION_LABELS[version]}
+                      </button>
+                    );
+                  })}
             </div>
             <PreferenceToggle
               checked={preferences.showRaw}
@@ -5712,6 +5772,7 @@ export function ReviewSurface({
                 <label className="view-option-select">
                   <span>SVG image size</span>
                   <select
+                    disabled={imageProductionView}
                     onChange={(event) =>
                       setImageComparisonScale(
                         Number(event.target.value) as PaperImageScale,
@@ -5726,6 +5787,7 @@ export function ReviewSurface({
                 <label className="view-option-select">
                   <span>Original image size</span>
                   <select
+                    disabled={imageProductionView}
                     onChange={(event) =>
                       setOriginalImageSize(
                         event.target.value as OriginalImageSize,

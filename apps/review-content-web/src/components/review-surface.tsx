@@ -150,18 +150,11 @@ import {
 } from './rtq-markdown';
 import { SiteHeader } from './site-header';
 import type { QuestionTagSaveStatus } from './question-tag-editor';
+import { QuestionTagTable } from './question-tag-table';
 
 const QuestionTagEditor = dynamic(() =>
   import('./question-tag-editor').then((module) => module.QuestionTagEditor),
 );
-
-const axisCopy: Readonly<Record<DimensionalTagAxis, string>> = {
-  family: 'Family',
-  frame: 'Frame',
-  marker: 'Marker',
-  math: 'Math',
-  reasoning: 'Reasoning',
-};
 
 type QuestionTagSource = Readonly<{
   collectionId: PaperCollectionId;
@@ -1382,146 +1375,14 @@ function ReviewPanel({
   );
 }
 
-type LayerTag = Readonly<{
-  axis: DimensionalTagAxis;
-  note?: string;
-  overridden?: boolean;
-  title: string;
-  value: string;
-}>;
-
-function tagAxis(value: string): DimensionalTagAxis | undefined {
-  return DIMENSIONAL_TAG_AXES.find((axis) => value.startsWith(`${axis}.`));
-}
-
-function NodeTagLayer({
-  empty,
-  label,
-  tags,
-  variant,
-}: {
-  empty: string;
-  label: string;
-  tags: readonly LayerTag[];
-  variant: 'explicit' | 'final' | 'inherited';
-}) {
-  return (
-    <div className={`node-tags-layer node-tags-layer--${variant}`}>
-      <span className="node-tags-layer__label">{label}</span>
-      {tags.length ? (
-        DIMENSIONAL_TAG_AXES.map((axis) => {
-          const axisTags = tags.filter((tag) => tag.axis === axis);
-          return axisTags.length ? (
-            <div className={`tag-group tag-group--${axis}`} key={axis}>
-              <span>{axisCopy[axis]}</span>
-              {axisTags.map((tag) => (
-                <code
-                  className={
-                    tag.overridden ? 'node-tag--overridden' : undefined
-                  }
-                  key={tag.value}
-                  title={tag.title}
-                >
-                  {tag.value.slice(axis.length + 1)}
-                  {tag.note ? <small>{` · ${tag.note}`}</small> : null}
-                </code>
-              ))}
-            </div>
-          ) : null;
-        })
-      ) : (
-        <span className="node-tags-layer__empty">{empty}</span>
-      )}
-    </div>
-  );
-}
-
-/**
- * Sub-questions show three read-only layers so parent tags, tags set on this
- * node, and the resulting tags can be compared without opening the editor.
- */
-function LayeredNodeTags({ node }: { node: DisplayPaperNode }) {
-  const explicitAxes = new Set(
-    node.explicitTags.flatMap((value) => tagAxis(value) ?? []),
-  );
-  const inheritedValues = new Set(node.inheritedTags.map((tag) => tag.value));
-  const inherited = node.inheritedTags.map((tag): LayerTag => ({
-    axis: tag.axis,
-    note: explicitAxes.has(tag.axis) ? 'overridden' : undefined,
-    overridden: explicitAxes.has(tag.axis),
-    title: tag.inheritedFromNodeId
-      ? `Inherited from ${tag.inheritedFromNodeId}`
-      : 'Inherited',
-    value: tag.value,
-  }));
-  const explicit = node.explicitTags.flatMap((value): LayerTag[] => {
-    const axis = tagAxis(value);
-    if (!axis) return [];
-    const duplicate = inheritedValues.has(value);
-    return [
-      {
-        axis,
-        note: duplicate ? 'same as parent' : undefined,
-        title: duplicate
-          ? 'Set on this node and also inherited from the parent'
-          : 'Set on this node',
-        value,
-      },
-    ];
-  });
-  const final = node.effectiveTags.map((tag): LayerTag => ({
-    axis: tag.axis,
-    note:
-      tag.origin === 'inherited'
-        ? 'inherited'
-        : tag.origin === 'implicit'
-          ? 'default'
-          : undefined,
-    title: tag.origin,
-    value: tag.value,
-  }));
-
-  return (
-    <div
-      className="node-tags node-tags--layered"
-      aria-label={`${node.label} dimensional tags`}
-    >
-      <NodeTagLayer
-        empty={node.explicitInherit === false ? 'Inheritance is off' : 'None'}
-        label="Inherited"
-        tags={inherited}
-        variant="inherited"
-      />
-      <NodeTagLayer
-        empty="None"
-        label="Set here"
-        tags={explicit}
-        variant="explicit"
-      />
-      <NodeTagLayer empty="None" label="Final" tags={final} variant="final" />
-    </div>
-  );
-}
-
 function ReadOnlyNodeTags({ node }: { node: DisplayPaperNode }) {
-  if (node.depth > 0) return <LayeredNodeTags node={node} />;
   return (
-    <div className="node-tags" aria-label={`${node.label} dimensional tags`}>
-      {DIMENSIONAL_TAG_AXES.map((axis) => {
-        const tags = node.effectiveTags.filter((tag) => tag.axis === axis);
-        return tags.length ? (
-          <div className={`tag-group tag-group--${axis}`} key={axis}>
-            <span>{axisCopy[axis]}</span>
-            {tags.map((tag) => (
-              <code key={`${tag.value}:${tag.origin}`} title={tag.origin}>
-                {tag.value.slice(axis.length + 1)}
-                {tag.origin === 'inherited' ? ' ↳' : ''}
-                {tag.origin === 'implicit' ? ' · default' : ''}
-              </code>
-            ))}
-          </div>
-        ) : null;
-      })}
+    <div className="node-tags">
+      <QuestionTagTable
+        label={`${node.label} dimensional tags`}
+        nodeDepth={node.depth}
+        state={node}
+      />
     </div>
   );
 }

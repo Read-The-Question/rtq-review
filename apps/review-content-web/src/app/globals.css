@@ -3525,9 +3525,6 @@ a.paper-row:hover {
 }
 
 .node-tags {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.45rem;
   padding: 1rem 0 0;
 }
 
@@ -3542,20 +3539,13 @@ a.paper-row:hover {
 }
 
 .question-tag-editor {
-  background:
-    linear-gradient(
-      135deg,
-      color-mix(in oklab, var(--signal-soft) 48%, transparent),
-      transparent 42%
-    ),
-    var(--paper-bright);
+  background: var(--paper-bright);
   border: 1px solid var(--rule-strong);
   border-left: 4px solid var(--signal);
-  box-shadow: var(--shadow);
   display: grid;
-  gap: 0.85rem;
+  gap: 0.75rem;
   margin-top: 1rem;
-  padding: clamp(0.85rem, 2vw, 1.25rem);
+  padding: clamp(0.75rem, 2vw, 1rem);
 }
 
 .question-tag-editor__header {
@@ -3571,8 +3561,7 @@ a.paper-row:hover {
 }
 
 .question-tag-editor__header > div > span,
-.tag-lineage-row > span,
-.tag-axis-card legend {
+.tag-legacy-row > span {
   color: var(--muted);
   font-size: 0.875rem;
   font-weight: 850;
@@ -3587,13 +3576,10 @@ a.paper-row:hover {
 
 .tag-inheritance-toggle {
   align-items: center;
-  background: var(--paper);
-  border: 1px solid var(--rule);
   cursor: pointer;
   display: flex;
-  gap: 0.65rem;
-  max-width: 23rem;
-  padding: 0.55rem 0.7rem;
+  font-weight: 750;
+  gap: 0.5rem;
 }
 
 .tag-inheritance-toggle input {
@@ -3603,168 +3589,180 @@ a.paper-row:hover {
   width: 1.1rem;
 }
 
-.tag-inheritance-toggle > span {
-  display: grid;
-  gap: 0.08rem;
-}
-
-.tag-inheritance-toggle small,
-.tag-root-note,
-.tag-edit-empty {
+.tag-root-note {
   color: var(--muted);
   font-size: 0.875rem;
 }
 
-.tag-lineage-row {
-  align-items: center;
-  border-top: 1px solid var(--rule);
-  display: grid;
-  gap: 0.55rem;
-  grid-template-columns: 6rem minmax(0, 1fr);
-  padding-top: 0.75rem;
+/*
+ * One tag table for review and edit mode. Colour lives only on the axis
+ * headers; values are plain text so they read quickly down a column.
+ */
+.tag-table-scroll {
+  max-width: 100%;
+  overflow-x: auto;
 }
 
-.tag-axis-grid {
-  display: grid;
-  gap: 0.55rem;
-  grid-template-columns: repeat(5, minmax(0, 1fr));
+.tag-table {
+  border-collapse: collapse;
+  min-width: 34rem;
+  table-layout: fixed;
+  width: 100%;
 }
 
-.tag-axis-card {
+.tag-table th,
+.tag-table td {
+  border-bottom: 1px solid var(--rule);
+  overflow-wrap: anywhere;
+  padding: 0.4rem 0.55rem;
+  text-align: left;
+  vertical-align: top;
+}
+
+.tag-table thead td {
+  border-bottom-color: transparent;
+  width: 6rem;
+}
+
+.tag-table thead th {
   --tag-axis-accent: var(--ready);
 
   background: color-mix(
     in oklab,
-    var(--tag-axis-accent) 7%,
+    var(--tag-axis-accent) 13%,
     var(--paper-bright)
   );
-  border: 1px solid color-mix(in oklab, var(--tag-axis-accent) 38%, var(--rule));
-  display: grid;
-  gap: 0.55rem;
-  margin: 0;
-  min-width: 0;
-  padding: 0.65rem;
-}
-
-.tag-axis-card--math {
-  --tag-axis-accent: var(--image-original);
-}
-
-.tag-axis-card--frame {
-  --tag-axis-accent: var(--image-debug);
-}
-
-.tag-axis-card--marker {
-  --tag-axis-accent: var(--gold);
-}
-
-.tag-axis-card--reasoning {
-  --tag-axis-accent: var(--violet);
-}
-
-.tag-axis-card legend {
+  border-bottom: 2px solid
+    color-mix(in oklab, var(--tag-axis-accent) 55%, var(--rule));
   color: var(--tag-axis-accent);
-  padding: 0 0.2rem;
-}
-
-.tag-axis-card select {
-  background: var(--paper-bright);
-  border: 1px solid var(--rule-strong);
-  color: var(--ink);
-  font: inherit;
-  min-height: 2.25rem;
-  padding: 0.35rem 0.45rem;
-  width: 100%;
-}
-
-.tag-axis-card select:focus-visible {
-  outline: 2px solid var(--tag-axis-accent);
-  outline-offset: 2px;
-}
-
-.tag-axis-inherited {
-  align-items: center;
-  border-top: 1px dashed
-    color-mix(in oklab, var(--tag-axis-accent) 38%, var(--rule));
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.3rem 0.45rem;
-  padding-top: 0.45rem;
-}
-
-.tag-axis-inherited > span,
-.tag-axis-inherited > small {
-  color: var(--muted);
   font-size: 0.875rem;
-}
-
-.tag-axis-inherited > span {
   font-weight: 850;
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
 
-.tag-axis-inherited .tag-edit-chip {
-  background: transparent;
-  border-style: dashed;
+.tag-table thead th[data-axis='math'] {
+  --tag-axis-accent: var(--image-original);
+}
+
+.tag-table thead th[data-axis='frame'] {
+  --tag-axis-accent: var(--image-debug);
+}
+
+.tag-table thead th[data-axis='marker'] {
+  --tag-axis-accent: var(--gold);
+}
+
+.tag-table thead th[data-axis='reasoning'] {
+  --tag-axis-accent: var(--violet);
+}
+
+.tag-table tbody th {
   color: var(--muted);
+  font-size: 0.875rem;
+  font-weight: 850;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  white-space: nowrap;
 }
 
-.tag-axis-inherited--overridden .tag-edit-chip code {
-  text-decoration: line-through;
+.tag-table tbody td {
+  font-size: 0.9375rem;
 }
 
-.tag-edit-chips {
+.tag-table tr[data-row='final'] > * {
+  border-bottom: 0;
+  border-top: 1px solid var(--rule-strong);
+}
+
+.tag-table tr[data-row='final'] th {
+  color: var(--ink);
+}
+
+.tag-table tr[data-row='final'] td {
+  font-weight: 750;
+}
+
+.tag-table__empty,
+.tag-table__note {
+  color: var(--faint);
+}
+
+.tag-table__edit {
+  align-items: center;
   display: flex;
   flex-wrap: wrap;
-  gap: 0.3rem;
+  gap: 0.3rem 0.45rem;
 }
 
-.tag-edit-chip {
+.tag-table__chip {
   align-items: center;
-  background: var(--paper-deep);
-  border: 1px solid var(--rule);
   display: inline-flex;
-  min-height: 1.75rem;
+  gap: 0.15rem;
 }
 
-.tag-edit-chip code {
-  font-size: 0.875rem;
-  overflow-wrap: anywhere;
-  padding: 0.25rem 0.38rem;
-}
-
-.tag-edit-chip button {
-  align-self: stretch;
+.tag-table__chip button {
   background: transparent;
   border: 0;
-  border-left: 1px solid var(--rule);
   color: var(--muted);
   cursor: pointer;
-  font-size: 1rem;
-  min-width: 1.75rem;
+  font: inherit;
+  line-height: 1;
+  padding: 0.1rem 0.25rem;
 }
 
-.tag-edit-chip button:hover,
-.tag-edit-chip button:focus-visible {
+.tag-table__chip button:hover,
+.tag-table__chip button:focus-visible {
   background: var(--signal-soft);
   color: var(--signal-dark);
 }
 
-.question-tag-editor__footer {
-  align-items: end;
-  display: grid;
-  gap: 0.75rem;
-  grid-template-columns: minmax(0, 1fr) auto;
+/*
+ * The visible "+ add" is a label; the native select sits invisibly on top of
+ * it so the control stays small whatever the longest tag name is.
+ */
+.tag-table__add {
+  color: var(--muted);
+  cursor: pointer;
+  display: inline-block;
+  font-size: 0.875rem;
+  position: relative;
+  text-decoration: underline dotted;
+  text-underline-offset: 0.2em;
 }
 
-.tag-lineage-row--effective {
-  border-top-color: var(--rule-strong);
+.tag-table__add:hover {
+  color: var(--ink);
 }
 
-.tag-lineage-row--effective .tag-edit-chip {
-  background: color-mix(in oklab, var(--ready) 12%, var(--paper-bright));
-  border-color: color-mix(in oklab, var(--ready) 45%, var(--rule));
+.tag-table__add:has(select:focus-visible) {
+  outline: 2px solid var(--signal);
+  outline-offset: 2px;
+}
+
+.tag-table__add:has(select:disabled) {
+  cursor: default;
+  opacity: 0.5;
+}
+
+.tag-table__add select {
+  cursor: inherit;
+  font: inherit;
+  inset: 0;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.tag-legacy-row {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+}
+
+.question-tag-editor > .tag-save-status {
+  justify-self: end;
 }
 
 .tag-save-status {
@@ -3806,6 +3804,7 @@ a.paper-row:hover {
 }
 
 .tag-edit-unavailable .node-tags {
+  max-width: 100%;
   padding-top: 0.25rem;
 }
 
@@ -3822,92 +3821,6 @@ a.paper-row:hover {
   font: inherit;
   font-weight: 800;
   padding: 0.35rem 0.55rem;
-}
-
-.tag-group {
-  align-items: center;
-  background: #e5ebdf;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.35rem;
-  padding: 0.38rem 0.48rem;
-}
-
-.tag-group > span {
-  color: var(--muted);
-  font-size: 0.875rem;
-  font-weight: 750;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-}
-
-.tag-group code {
-  font-size: 0.9375rem;
-}
-
-.tag-group--math {
-  background: #dce8ec;
-}
-
-.tag-group--frame {
-  background: #ede2d5;
-}
-
-.tag-group--marker {
-  background: #eee5c9;
-}
-
-.tag-group--reasoning {
-  background: #e5deeb;
-}
-
-.node-tags--layered {
-  display: grid;
-  gap: 0.4rem;
-}
-
-.node-tags-layer {
-  align-items: center;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.45rem;
-}
-
-.node-tags-layer--final {
-  border-top: 1px solid var(--rule);
-  padding-top: 0.45rem;
-}
-
-.node-tags-layer__label {
-  color: var(--muted);
-  font-size: 0.875rem;
-  font-weight: 850;
-  letter-spacing: 0.08em;
-  min-width: 5.5rem;
-  text-transform: uppercase;
-}
-
-.node-tags-layer--final .node-tags-layer__label {
-  color: var(--ink);
-}
-
-.node-tags-layer__empty {
-  color: var(--muted);
-  font-size: 0.875rem;
-}
-
-.node-tags-layer--inherited .tag-group {
-  opacity: 0.85;
-}
-
-.tag-group code small {
-  color: var(--muted);
-  font-size: 0.8em;
-}
-
-.tag-group code.node-tag--overridden {
-  opacity: 0.6;
-  text-decoration: line-through;
 }
 
 .question-copy {
@@ -5708,10 +5621,6 @@ a.paper-row:hover {
 }
 
 @media (max-width: 1050px) {
-  .tag-axis-grid {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-  }
-
   .review-scopes {
     grid-template-columns: 1fr;
   }
@@ -5754,10 +5663,6 @@ a.paper-row:hover {
 }
 
 @media (max-width: 800px) {
-  .tag-axis-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-
   body {
     background: var(--paper);
   }
@@ -5949,19 +5854,17 @@ a.paper-row:hover {
 }
 
 @media (max-width: 560px) {
-  .question-tag-editor__header,
-  .question-tag-editor__footer {
-    align-items: stretch;
-    grid-template-columns: 1fr;
-  }
-
   .question-tag-editor__header {
+    align-items: start;
     display: grid;
   }
 
-  .tag-axis-grid,
-  .tag-lineage-row {
-    grid-template-columns: 1fr;
+  .tag-table-scroll .tag-table__row-label-rest {
+    display: none;
+  }
+
+  .tag-table thead td {
+    width: 4rem;
   }
 
   .review-shell,

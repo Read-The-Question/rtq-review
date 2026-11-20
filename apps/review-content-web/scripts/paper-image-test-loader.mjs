@@ -1,4 +1,4 @@
-import { readFileSync } from 'node:fs';
+import { existsSync, readFileSync } from 'node:fs';
 import { registerHooks } from 'node:module';
 import { extname } from 'node:path';
 
@@ -26,7 +26,12 @@ registerHooks({
         );
       }
       if (specifier.startsWith('.') && !extname(specifier)) {
-        return nextResolve(`${specifier}.ts`, context);
+        // Components import each other without an extension, as Next does.
+        const tsx = new URL(`${specifier}.tsx`, context.parentURL);
+        return nextResolve(
+          existsSync(tsx) ? tsx.href : `${specifier}.ts`,
+          context,
+        );
       }
     }
     return nextResolve(specifier, context);

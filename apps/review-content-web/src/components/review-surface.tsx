@@ -81,6 +81,7 @@ import {
   clearReviewFiltersForContext,
   clearReviewOutcomeFiltersForContext,
   collectionRoute,
+  paperRagSummary,
   paperRoute,
   parseReviewFilterDisclosure,
   parseReviewPreferences,
@@ -91,6 +92,7 @@ import {
   reviewFilterSelectionForSides,
   reviewSidesForPanel,
   reviewStateLabel,
+  showsRawSource,
   visibleFeedbackSides,
   visibleReviewSides,
   type ReviewContext,
@@ -115,6 +117,7 @@ import {
   reviewTargetForNode,
   reviewTargetKey,
   reviewOutcomeLabel,
+  NOT_REVIEWED_LABEL,
   reviewOutcomeFilterLabel,
   reviewOutcomeTone,
   reviewSourceForNode,
@@ -394,6 +397,11 @@ function hasField(field: DisplayContentField): boolean {
   return Boolean(field.rendered.trim() || field.raw.trim());
 }
 
+/** Something to show in the rendered view (placeholders render as nothing). */
+function hasRenderedField(field: DisplayContentField): boolean {
+  return Boolean(field.rendered.trim() || field.preparationIssue);
+}
+
 function PaperMarkdown({
   field,
   markdown,
@@ -430,12 +438,15 @@ function ContentField({
   hideLabel = false,
   label,
   preferences,
+  showRaw = true,
   variant,
 }: {
   field: DisplayContentField;
   hideLabel?: boolean;
   label: string;
   preferences: ReviewPreferences;
+  /** False where the raw source is listed separately, after the content. */
+  showRaw?: boolean;
   variant: RtqMarkdownVariant;
 }) {
   if (!hasField(field)) return null;
@@ -456,19 +467,57 @@ function ContentField({
         field={field}
         label={label}
         preferences={preferences}
+        showRaw={showRaw}
       />
     </div>
   );
+}
+
+function PreparationIssue({ field }: { field: DisplayContentField }) {
+  return field.preparationIssue ? (
+    <p className="preparation-issue" role="status">
+      Content preparation note: {field.preparationIssue}
+    </p>
+  ) : null;
 }
 
 function FieldSupportingInfo({
   field,
   label,
   preferences,
+  showRaw = true,
 }: {
   field: DisplayContentField;
   label: string;
   preferences: ReviewPreferences;
+  showRaw?: boolean;
+}) {
+  return (
+    <>
+      <PreparationIssue field={field} />
+      {showRaw && showsRawSource(preferences, field.context.scope) ? (
+        <details className="raw-source" open>
+          <summary>{label} source</summary>
+          <RawSourceEntry field={field} label={label} />
+        </details>
+      ) : null}
+    </>
+  );
+}
+
+/**
+ * One field's TOML source with its inline editor. The Edit button sits at the
+ * right of the entry's header line, next to the entry's name when it has one.
+ */
+function RawSourceEntry({
+  field,
+  label,
+  title,
+}: {
+  field: DisplayContentField;
+  label: string;
+  /** Shown at the left of the header line, in grouped source lists. */
+  title?: string;
 }) {
   const { contentSearch, editor: editorRuntime } =
     useContext(ReviewContentContext);
@@ -637,121 +686,109 @@ function FieldSupportingInfo({
   }
 
   return (
-    <>
-      {field.preparationIssue ? (
-        <p className="preparation-issue" role="status">
-          Content preparation note: {field.preparationIssue}
-        </p>
-      ) : null}
-      {preferences.showRaw ? (
-        <details className="raw-source" open>
-          <summary>{label} source</summary>
-          <div className="raw-source__toolbar">
-            <span>
-              {target
-                ? `Displayed TOML · ${target.collectionId}`
-                : 'Read-only · missing rtq-uuid'}
-            </span>
-            {target && editorState.state === 'closed' ? (
-              <button
-                disabled={anotherEditorActive}
-                onClick={openEditor}
-                title={
-                  anotherEditorActive
-                    ? 'Finish the open source edit first.'
-                    : `Edit ${label.toLowerCase()} in ${target?.relativePath ?? 'the displayed TOML'}`
-                }
-                type="button"
-              >
-                Edit
-              </button>
-            ) : null}
-          </div>
-          {editorError ? (
-            <div className="raw-source__error" role="alert">
-              <p>{editorError}</p>
-              {editorState.state === 'closed' ? (
-                <button onClick={() => setEditorError(undefined)} type="button">
-                  Dismiss
-                </button>
-              ) : null}
-            </div>
+    <div className="raw-source-entry">
+      <div className="raw-source__toolbar">
+        {title ? <span className="raw-source__title">{title}</span> : null}
+        {target ? null : (
+          <span className="raw-source__note">Read-only · missing rtq-uuid</span>
+        )}
+        {target && editorState.state === 'closed' ? (
+          <button
+            disabled={anotherEditorActive}
+            onClick={openEditor}
+            title={
+              anotherEditorActive
+                ? 'Finish the open source edit first.'
+                : `Edit ${label.toLowerCase()} in ${target?.relativePath ?? 'the displayed TOML'}`
+            }
+            type="button"
+          >
+            Edit
+          </button>
+        ) : null}
+      </div>
+      {editorError ? (
+        <div className="raw-source__error" role="alert">
+          <p>{editorError}</p>
+          {editorState.state === 'closed' ? (
+            <button onClick={() => setEditorError(undefined)} type="button">
+              Dismiss
+            </button>
           ) : null}
-          {editorState.state === 'loading' ? (
-            <p className="raw-source__status" role="status">
-              Loading the current canonical value…
-            </p>
-          ) : editorState.state === 'editing' ||
-            editorState.state === 'saving' ? (
-            <form className="raw-source__editor" onSubmit={saveEditor}>
-              <label htmlFor={`source-editor-${editorKey}`}>
-                Editing {editorState.fileName}
-              </label>
-              <textarea
-                autoFocus
-                disabled={editorState.state === 'saving'}
-                id={`source-editor-${editorKey}`}
-                onChange={(event) => {
-                  setEditorError(undefined);
-                  setEditorState({
-                    ...editorState,
-                    draft: event.target.value,
-                  });
-                }}
-                rows={Math.min(
-                  24,
-                  Math.max(7, editorState.draft.split('\n').length + 2),
-                )}
-                spellCheck={false}
-                value={editorState.draft}
-              />
-              <div className="raw-source__actions">
-                <button
-                  disabled={editorState.state === 'saving'}
-                  onClick={closeEditor}
-                  type="button"
-                >
-                  Cancel
-                </button>
-                <button
-                  disabled={
-                    editorState.state === 'saving' ||
-                    editorState.draft === editorState.initialValue
-                  }
-                  type="submit"
-                >
-                  {editorState.state === 'saving' ? 'Saving…' : 'Save changes'}
-                </button>
-              </div>
-            </form>
-          ) : (
-            <pre>
-              <code>
-                {searchRanges.length === 0
-                  ? rawSource
-                  : searchRanges.flatMap((range, index) => {
-                      const leading = field.raw.slice(rawCursor, range.start);
-                      const matched = field.raw.slice(range.start, range.end);
-                      rawCursor = range.end;
-                      return [
-                        leading,
-                        <mark
-                          className="raw-search-match"
-                          key={`${range.start}-${range.end}-${index}`}
-                        >
-                          {matched}
-                        </mark>,
-                        ...(index === searchRanges.length - 1
-                          ? [field.raw.slice(rawCursor)]
-                          : []),
-                      ];
-                    })}
-              </code>
-            </pre>
-          )}
-        </details>
+        </div>
       ) : null}
-    </>
+      {editorState.state === 'loading' ? (
+        <p className="raw-source__status" role="status">
+          Loading the current canonical value…
+        </p>
+      ) : editorState.state === 'editing' || editorState.state === 'saving' ? (
+        <form className="raw-source__editor" onSubmit={saveEditor}>
+          <label htmlFor={`source-editor-${editorKey}`}>
+            Editing {editorState.fileName}
+          </label>
+          <textarea
+            autoFocus
+            disabled={editorState.state === 'saving'}
+            id={`source-editor-${editorKey}`}
+            onChange={(event) => {
+              setEditorError(undefined);
+              setEditorState({
+                ...editorState,
+                draft: event.target.value,
+              });
+            }}
+            rows={Math.min(
+              24,
+              Math.max(7, editorState.draft.split('\n').length + 2),
+            )}
+            spellCheck={false}
+            value={editorState.draft}
+          />
+          <div className="raw-source__actions">
+            <button
+              disabled={editorState.state === 'saving'}
+              onClick={closeEditor}
+              type="button"
+            >
+              Cancel
+            </button>
+            <button
+              disabled={
+                editorState.state === 'saving' ||
+                editorState.draft === editorState.initialValue
+              }
+              type="submit"
+            >
+              {editorState.state === 'saving' ? 'Saving…' : 'Save changes'}
+            </button>
+          </div>
+        </form>
+      ) : (
+        <pre>
+          <code>
+            {searchRanges.length === 0
+              ? rawSource
+              : searchRanges.flatMap((range, index) => {
+                  const leading = field.raw.slice(rawCursor, range.start);
+                  const matched = field.raw.slice(range.start, range.end);
+                  rawCursor = range.end;
+                  return [
+                    leading,
+                    <mark
+                      className="raw-search-match"
+                      key={`${range.start}-${range.end}-${index}`}
+                    >
+                      {matched}
+                    </mark>,
+                    ...(index === searchRanges.length - 1
+                      ? [field.raw.slice(rawCursor)]
+                      : []),
+                  ];
+                })}
+          </code>
+        </pre>
+      )}
+    </div>
   );
 }
 
@@ -1097,7 +1134,7 @@ function ReviewScope({
         </div>
         <dl>
           <div>
-            <dt>Source</dt>
+            <dt>RAG state</dt>
             <dd>
               {target
                 ? reviewStateLabel(target.ragState)
@@ -1129,11 +1166,11 @@ function ReviewScope({
           {outcomesEnabled ? (
             <>
               <div>
-                <dt>Review request</dt>
+                <dt>Outcome</dt>
                 <dd>
                   {displayedOutcome
                     ? reviewOutcomeLabel(displayedOutcome)
-                    : 'No request'}
+                    : NOT_REVIEWED_LABEL}
                 </dd>
               </div>
             </>
@@ -1491,6 +1528,7 @@ function WorkingBody({
         hideLabel
         label="Working"
         preferences={preferences}
+        showRaw={false}
         variant="working"
       />
     );
@@ -1534,11 +1572,50 @@ function WorkingBody({
           );
         })}
       </div>
-      <FieldSupportingInfo
-        field={field}
-        label="Working"
-        preferences={preferences}
-      />
+      <PreparationIssue field={field} />
+    </div>
+  );
+}
+
+type SolutionRowKind = 'answer' | 'formulas' | 'tips' | 'working';
+
+/** Production's left-pane row labels: a pin for notes, a tick for the answer. */
+function SolutionRowLabel({
+  kind,
+  label,
+}: {
+  kind: SolutionRowKind;
+  label: string;
+}) {
+  const icon =
+    kind === 'answer' ? (
+      <path d="M20 6 9 17l-5-5" />
+    ) : kind === 'working' ? null : (
+      <>
+        <path d="M12 17v5" />
+        <path
+          d="M9 10.76a2 2 0 0 1-1.11 1.79l-1.78.9A2 2 0 0 0 5 15.24V16a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-.76a2 2 0 0 0-1.11-1.79l-1.78-.9A2 2 0 0 1 15 10.76V7a1 1 0 0 1 1-1 2 2 0 0 0 0-4H8a2 2 0 0 0 0 4 1 1 0 0 1 1 1z"
+          fill="currentColor"
+        />
+      </>
+    );
+  return (
+    <div className={`solution-row-label solution-row-label--${kind}`}>
+      {icon ? (
+        <svg
+          aria-hidden="true"
+          className="solution-row-label__icon"
+          fill="none"
+          stroke="currentColor"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          strokeWidth="2"
+          viewBox="0 0 24 24"
+        >
+          {icon}
+        </svg>
+      ) : null}
+      <span>{label}</span>
     </div>
   );
 }
@@ -1554,18 +1631,20 @@ function SolutionContentRow({
   label: string;
   preferences: ReviewPreferences;
 }) {
-  if (!fields.some(hasField)) return null;
+  const visible = fields.filter(hasRenderedField);
+  if (!visible.length) return null;
   return (
     <div className={`solution-row solution-row--${kind}`}>
-      <div className="solution-row-label">{label}</div>
+      <SolutionRowLabel kind={kind} label={label} />
       <div className="solution-row-body">
-        {fields.map((field, index) => (
+        {visible.map((field, index) => (
           <ContentField
             field={field}
             hideLabel
             key={index}
             label={`${kind === 'formulas' ? 'Formula' : 'Tip'} ${index + 1}`}
             preferences={preferences}
+            showRaw={false}
             variant={kind}
           />
         ))}
@@ -1574,20 +1653,126 @@ function SolutionContentRow({
   );
 }
 
-function hasVisibleWorking(
-  field: DisplayContentField,
-  preferences: ReviewPreferences,
-): boolean {
-  if (!field.workingSegments) return hasField(field);
+function hasVisibleWorking(field: DisplayContentField): boolean {
+  if (!field.workingSegments) return hasRenderedField(field);
   return Boolean(
     field.preparationIssue ||
-    (preferences.showRaw && field.raw.trim()) ||
     field.workingSegments.some(
       (segment) => segment.kind === 'flat' || segment.visibility === 'visible',
     ),
   );
 }
 
+/** Production's answer line: option, then key = answer. */
+function AnswerLine({
+  answer,
+  preferences,
+}: {
+  answer: DisplayPaperNode['content']['answers'][number];
+  preferences: ReviewPreferences;
+}) {
+  const part = (
+    field: DisplayContentField,
+    kind: 'answer' | 'key' | 'option',
+  ) =>
+    field.rendered.trim() ? (
+      <div className={`answer-line__${kind}`}>
+        <PaperMarkdown
+          field={field}
+          markdown={field.rendered}
+          preferences={preferences}
+          variant={kind === 'key' ? 'default' : 'answer'}
+        />
+      </div>
+    ) : null;
+  const hasKey = Boolean(answer.key.rendered.trim());
+  const hasValue = Boolean(answer.answer.rendered.trim());
+
+  return (
+    <li className="answer-line">
+      <div className="answer-line__parts">
+        {part(answer.option, 'option')}
+        {part(answer.key, 'key')}
+        {hasKey && hasValue ? (
+          <span aria-hidden="true" className="answer-line__equals">
+            =
+          </span>
+        ) : null}
+        {part(answer.answer, 'answer')}
+      </div>
+      <PreparationIssue field={answer.option} />
+      <PreparationIssue field={answer.key} />
+      <PreparationIssue field={answer.answer} />
+    </li>
+  );
+}
+
+type RawSourceGroup = Readonly<{
+  entries: readonly Readonly<{ field: DisplayContentField; label: string }>[];
+  heading?: string;
+}>;
+
+/**
+ * The working and answer TOML in the order they render above: each method's
+ * Keep in mind, Formulas used and Working, then the answers.
+ */
+function solutionRawSourceGroups(
+  content: DisplayPaperNode['content'],
+): RawSourceGroup[] {
+  const numbered = (fields: readonly DisplayContentField[], label: string) =>
+    fields.map((field, index) => ({
+      field,
+      label: fields.length > 1 ? `${label} ${index + 1}` : label,
+    }));
+  return [
+    ...content.workings.map((working, index) => ({
+      entries: [
+        ...numbered(working.tips, 'Keep in mind'),
+        ...numbered(working.formulas, 'Formulas used'),
+        { field: working.working, label: 'Working' },
+      ].filter((entry) => hasField(entry.field)),
+      heading: content.workings.length > 1 ? `Method ${index + 1}` : undefined,
+    })),
+    ...content.answers.map((answer, index) => ({
+      entries: [
+        { field: answer.option, label: 'Option' },
+        { field: answer.key, label: 'Key' },
+        { field: answer.answer, label: 'Answer' },
+      ].filter((entry) => hasField(entry.field)),
+      heading: content.answers.length > 1 ? `Answer ${index + 1}` : undefined,
+    })),
+  ].filter((group) => group.entries.length > 0);
+}
+
+function SolutionRawSource({ groups }: { groups: readonly RawSourceGroup[] }) {
+  return (
+    <details className="raw-source raw-source--solution" open>
+      <summary>Working &amp; answer source</summary>
+      {groups.map((group, groupIndex) => (
+        <div className="raw-source-group" key={groupIndex}>
+          {group.heading ? (
+            <h5 className="raw-source-group__heading">{group.heading}</h5>
+          ) : null}
+          {group.entries.map((entry) => (
+            <RawSourceEntry
+              field={entry.field}
+              key={entry.label}
+              label={entry.label}
+              title={entry.label}
+            />
+          ))}
+        </div>
+      ))}
+    </details>
+  );
+}
+
+/**
+ * Working and answers read top to bottom as on the production site: Keep in
+ * mind, Formulas used, Working, then the Answer row. With raw source on, the
+ * TOML follows as one block in the same order, so the rendered answer can be
+ * reviewed without source interleaved.
+ */
 function SolutionContent({
   node,
   preferences,
@@ -1596,96 +1781,79 @@ function SolutionContent({
   preferences: ReviewPreferences;
 }) {
   if (!preferences.showSolutions) return null;
-  const hasWorkings = node.content.workings.some(
+  const workings = node.content.workings.filter(
     (working) =>
-      hasVisibleWorking(working.working, preferences) ||
-      working.formulas.some(hasField) ||
-      working.tips.some(hasField),
+      hasVisibleWorking(working.working) ||
+      working.formulas.some(hasRenderedField) ||
+      working.tips.some(hasRenderedField),
   );
-  const hasAnswers = node.content.answers.some(
+  const answers = node.content.answers.filter(
     (answer) =>
-      hasField(answer.option) ||
-      hasField(answer.key) ||
-      hasField(answer.answer),
+      hasRenderedField(answer.option) ||
+      hasRenderedField(answer.key) ||
+      hasRenderedField(answer.answer),
   );
-  if (!hasWorkings && !hasAnswers) return null;
+  const rawGroups = preferences.showRawSolutions
+    ? solutionRawSourceGroups(node.content)
+    : [];
+  if (!workings.length && !answers.length && !rawGroups.length) return null;
 
   return (
-    <div className="solution-grid">
-      {hasWorkings ? (
-        <section className="solution-block">
-          <h4>Working</h4>
-          {node.content.workings.map((working, index) => (
-            <div className="solution-entry working-entry" key={index}>
-              {index > 0 ? (
-                <div className="working-method-divider">
-                  <span>Method {index + 1}</span>
-                  <span aria-hidden="true" />
+    <section
+      aria-label={`${node.label} working and answer`}
+      className="solution-sequence"
+    >
+      {workings.map((working, index) => (
+        <div className="solution-entry working-entry" key={index}>
+          {index > 0 ? (
+            <div className="working-method-divider">
+              <span>Method {index + 1}</span>
+              <span aria-hidden="true" />
+            </div>
+          ) : null}
+          <div className="working-content-rows">
+            <SolutionContentRow
+              fields={working.tips}
+              kind="tips"
+              label="Keep in mind"
+              preferences={preferences}
+            />
+            <SolutionContentRow
+              fields={working.formulas}
+              kind="formulas"
+              label="Formulas used"
+              preferences={preferences}
+            />
+            {hasVisibleWorking(working.working) ? (
+              <div className="solution-row solution-row--working">
+                <SolutionRowLabel kind="working" label="Working" />
+                <div className="solution-row-body">
+                  <WorkingBody
+                    field={working.working}
+                    preferences={preferences}
+                  />
                 </div>
-              ) : null}
-              <div className="working-content-rows">
-                <SolutionContentRow
-                  fields={working.formulas}
-                  kind="formulas"
-                  label="Formulas used"
-                  preferences={preferences}
-                />
-                <SolutionContentRow
-                  fields={working.tips}
-                  kind="tips"
-                  label="Keep in mind"
-                  preferences={preferences}
-                />
-                {hasVisibleWorking(working.working, preferences) ? (
-                  <div className="solution-row solution-row--working">
-                    <div
-                      aria-hidden="true"
-                      className="solution-row-label solution-row-label--spacer"
-                    />
-                    <div className="solution-row-body">
-                      <WorkingBody
-                        field={working.working}
-                        preferences={preferences}
-                      />
-                    </div>
-                  </div>
-                ) : null}
               </div>
-            </div>
-          ))}
-        </section>
+            ) : null}
+          </div>
+        </div>
+      ))}
+      {answers.length ? (
+        <div className="solution-row solution-row--answer">
+          <SolutionRowLabel kind="answer" label="Answer" />
+          <ol className="solution-row-body answer-lines">
+            {answers.map((answer, index) => (
+              <AnswerLine
+                answer={answer}
+                key={index}
+                preferences={preferences}
+              />
+            ))}
+          </ol>
+        </div>
       ) : null}
-      {hasAnswers ? (
-        <section className="solution-block solution-block--answers">
-          <h4>Answers</h4>
-          {node.content.answers.map((answer, index) => (
-            <div className="solution-entry" key={index}>
-              {node.content.answers.length > 1 ? (
-                <span className="entry-number">Answer {index + 1}</span>
-              ) : null}
-              <ContentField
-                field={answer.option}
-                label="Option"
-                preferences={preferences}
-                variant="answer"
-              />
-              <ContentField
-                field={answer.key}
-                label="Key"
-                preferences={preferences}
-                variant="default"
-              />
-              <ContentField
-                field={answer.answer}
-                label="Answer"
-                preferences={preferences}
-                variant="answer"
-              />
-            </div>
-          ))}
-        </section>
-      ) : null}
-    </div>
+      {rawGroups.length ? <SolutionRawSource groups={rawGroups} /> : null}
+    </section>
   );
 }
 
@@ -1731,7 +1899,9 @@ function ImageReviewStatusBlock({
       </span>
       <div className="image-review-status-heading">
         <span>{reviewSideLabel(side)}</span>
-        <strong>{outcome ? reviewOutcomeLabel(outcome) : 'Pending'}</strong>
+        <strong>
+          {outcome ? reviewOutcomeLabel(outcome) : NOT_REVIEWED_LABEL}
+        </strong>
       </div>
       <dl>
         <div>
@@ -1840,18 +2010,6 @@ function QuestionNode({
             <div>
               <dt>Year</dt>
               <dd>{corpusSource.paperMetadata.year ?? '—'}</dd>
-            </div>
-            <div>
-              <dt>Paper RAG</dt>
-              <dd>{corpusSource.paperMetadata.paperRag ?? '—'}</dd>
-            </div>
-            <div>
-              <dt>Access</dt>
-              <dd>{corpusSource.paperMetadata.accessTier ?? '—'}</dd>
-            </div>
-            <div>
-              <dt>Schools</dt>
-              <dd>{corpusSource.paperMetadata.schoolIds.join(', ') || '—'}</dd>
             </div>
           </dl>
           <Link
@@ -2171,7 +2329,15 @@ function QuestionReviewActivity({
     const target = reviewTargetForNode(node, side, runtime.source);
     if (!target) return [];
     const commentGroups = partitionReviewComments(runtime.comments, target);
-    return [{ commentGroups, outcome, side, tone }];
+    return [
+      {
+        commentGroups,
+        outcome,
+        ragState: reviewStateLabel(target.ragState),
+        side,
+        tone,
+      },
+    ];
   });
   if (activity.length === 0) return null;
 
@@ -2181,13 +2347,20 @@ function QuestionReviewActivity({
       aria-label="Current review activity"
       aria-live="polite"
     >
-      {activity.map(({ commentGroups, outcome, side, tone }) => (
+      {activity.map(({ commentGroups, outcome, ragState, side, tone }) => (
         <div className="question-review-activity-side" key={side}>
+          {/* Only the sides being reviewed: their RAG state, then the outcome
+              recorded at that state. */}
           <span
             className={`review-activity-badge review-activity-badge--${tone}`}
+            title={`${reviewSideLabel(side)} RAG state ${ragState}: ${
+              outcome
+                ? reviewOutcomeLabel(outcome)
+                : `no review outcome recorded at ${ragState} yet`
+            }`}
           >
-            {reviewSideLabel(side)} ·{' '}
-            {outcome ? reviewOutcomeLabel(outcome) : 'Pending'}
+            {reviewSideLabel(side)} · <strong>{ragState}</strong> ·{' '}
+            {outcome ? reviewOutcomeLabel(outcome) : NOT_REVIEWED_LABEL}
           </span>
           {commentGroups.current.length > 0 ? (
             <span className="review-feedback-badge">
@@ -2203,6 +2376,16 @@ function QuestionReviewActivity({
       ))}
     </div>
   );
+}
+
+function rawSourceValue(
+  preferences: Pick<ReviewPreferences, 'showRawQuestion' | 'showRawSolutions'>,
+): 'both' | 'off' | 'question' | 'solutions' {
+  if (preferences.showRawQuestion && preferences.showRawSolutions) {
+    return 'both';
+  }
+  if (preferences.showRawQuestion) return 'question';
+  return preferences.showRawSolutions ? 'solutions' : 'off';
 }
 
 function PreferenceToggle({
@@ -2279,6 +2462,7 @@ function ReviewLane({
   onToggleInline,
   outcome,
   pending,
+  ragState,
   side,
 }: {
   commentDisabledReason?: string;
@@ -2296,6 +2480,8 @@ function ReviewLane({
   onToggleInline: (enabled: boolean) => void;
   outcome: ReviewOutcomeSelection | undefined;
   pending: boolean;
+  /** The current question's RAG state for this side; outcomes belong to it. */
+  ragState?: string;
   side: ReviewSide;
 }) {
   const label = reviewSideLabel(side);
@@ -2316,7 +2502,9 @@ function ReviewLane({
         </div>
         {/* Shares the heading row so the lane spends no extra row on it. */}
         <div className="review-lane-status" aria-live="polite">
-          <span>Current outcome</span>
+          <span>
+            {ragState ? `Outcome at ${reviewStateLabel(ragState)}` : 'Outcome'}
+          </span>
           <strong
             className={
               outcome
@@ -2324,7 +2512,7 @@ function ReviewLane({
                 : 'review-lane-status--pending'
             }
           >
-            {outcome ? reviewOutcomeLabel(outcome) : 'Pending'}
+            {outcome ? reviewOutcomeLabel(outcome) : NOT_REVIEWED_LABEL}
           </strong>
         </div>
       </header>
@@ -4525,6 +4713,13 @@ export function ReviewSurface({
     replaceSearchParams(current);
   }
 
+  function setRawSource(value: string) {
+    const question = value === 'question' || value === 'both';
+    const solutions = value === 'solutions' || value === 'both';
+    updatePreference('showRawQuestion', question);
+    updatePreference('showRawSolutions', solutions);
+  }
+
   function toggleImageComparisonVersion(version: ImageComparisonVersion) {
     const selected = visibleImageVersions.has(version);
     if (selected && visibleImageVersionList.length === 1) return;
@@ -5172,41 +5367,39 @@ export function ReviewSurface({
                     : (paper.metadata.year ?? '—')}
                 </dd>
               </div>
-              <div>
-                <dt>
-                  {corpus?.searchMode === 'uuid'
-                    ? 'Requested'
-                    : corpus
-                      ? 'Page'
-                      : 'RAG'}
-                </dt>
-                <dd>
-                  {corpus?.searchMode === 'uuid'
-                    ? corpus.uuidRequestCount
-                    : corpus
-                      ? corpus.limit
-                      : (paper.metadata.paperRag ?? '—')}
-                </dd>
-              </div>
-              <div>
-                <dt>{corpus ? 'Source' : 'Access'}</dt>
-                <dd>
-                  {corpus
-                    ? corpus.collectionId
-                    : (paper.metadata.accessTier ?? '—')}
-                </dd>
-              </div>
+              {corpus ? (
+                <>
+                  <div>
+                    <dt>
+                      {corpus.searchMode === 'uuid' ? 'Requested' : 'Page'}
+                    </dt>
+                    <dd>
+                      {corpus.searchMode === 'uuid'
+                        ? corpus.uuidRequestCount
+                        : corpus.limit}
+                    </dd>
+                  </div>
+                  <div>
+                    <dt>Collection</dt>
+                    <dd>{corpus.collectionId}</dd>
+                  </div>
+                </>
+              ) : (
+                // Only the sides being reviewed: top-level questions per RAG
+                // state, so the paper's progress on this review reads at once.
+                enabledReviewSides.map((side) => (
+                  <div className="paper-summary-rag" key={side}>
+                    <dt>{`${reviewSideLabel(side)} RAG`}</dt>
+                    <dd>
+                      {paperRagSummary(
+                        paper.sections.flatMap((section) => section.questions),
+                        side,
+                      )}
+                    </dd>
+                  </div>
+                ))
+              )}
             </dl>
-            {corpus ? null : (
-              <div className="paper-provenance">
-                {paper.metadata.paperId ? (
-                  <code>ID {paper.metadata.paperId}</code>
-                ) : null}
-                {paper.metadata.schoolIds.map((school) => (
-                  <code key={school}>School {school}</code>
-                ))}
-              </div>
-            )}
           </>
         ) : null}
       </header>
@@ -5486,12 +5679,20 @@ export function ReviewSurface({
                     );
                   })}
             </div>
-            <PreferenceToggle
-              checked={preferences.showRaw}
-              className="toolbar-raw-toggle"
-              label="Raw source"
-              onChange={(value) => updatePreference('showRaw', value)}
-            />
+            {/* Questions and workings & answers switch apart. */}
+            <label className="toolbar-raw-select">
+              <span>Raw</span>
+              <select
+                aria-label="Raw source"
+                onChange={(event) => setRawSource(event.target.value)}
+                value={rawSourceValue(preferences)}
+              >
+                <option value="off">Off</option>
+                <option value="question">Question</option>
+                <option value="solutions">Workings &amp; answers</option>
+                <option value="both">Both</option>
+              </select>
+            </label>
             <details className="review-view-menu review-popover">
               <summary>View options</summary>
               <div
@@ -5698,6 +5899,7 @@ export function ReviewSurface({
               }
               outcome={toolbarOutcome(side)}
               pending={toolbarOutcomePending(side)}
+              ragState={toolbarOutcomeTarget(side)?.ragState}
               side={side}
             />
           ))}

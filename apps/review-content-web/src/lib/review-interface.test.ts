@@ -229,7 +229,27 @@ test('top-level questions expose current outcomes and feedback as scan badges', 
   assert.match(component, /review-content-status--\$\{tone\}/);
   assert.match(
     component,
-    /outcome \? reviewOutcomeLabel\(outcome\) : 'Pending'/,
+    /outcome \? reviewOutcomeLabel\(outcome\) : NOT_REVIEWED_LABEL/,
+  );
+  // "Pending" read as a RAG state; each outcome now names the state it is at.
+  assert.doesNotMatch(component, /: 'Pending'|'No request'|<dt>Source<\/dt>/);
+  assert.match(
+    component,
+    /\{reviewSideLabel\(side\)\} · <strong>\{ragState\}<\/strong> ·/,
+  );
+  assert.match(component, /`Outcome at \$\{reviewStateLabel\(ragState\)\}`/);
+  assert.match(
+    component,
+    /ragState=\{toolbarOutcomeTarget\(side\)\?\.ragState\}/,
+  );
+  // Paper and search headers carry only what matters to the review in hand.
+  assert.doesNotMatch(
+    component,
+    /<dt>Paper RAG<\/dt>|<dt>Access<\/dt>|<dt>Schools<\/dt>|paper-provenance|metadata\.paperRag/,
+  );
+  assert.match(
+    component,
+    /enabledReviewSides\.map\(\(side\) => \(\s*<div className="paper-summary-rag"/,
   );
   assert.match(css, /--review-approved-background:/);
   assert.match(css, /--review-change-requested-background:/);
@@ -371,7 +391,7 @@ test('the sticky View popover dismisses after selection, outside click, and Esca
   assert.match(component, /review-view-menu review-popover/);
   assert.match(
     component,
-    /className="toolbar-view-controls"[\s\S]*label="Raw source"[\s\S]*<details className="review-view-menu review-popover">/,
+    /className="toolbar-view-controls"[\s\S]*aria-label="Raw source"[\s\S]*<details className="review-view-menu review-popover">/,
   );
   const viewMenu = component.slice(
     component.indexOf('<details className="review-view-menu review-popover">'),
@@ -383,6 +403,16 @@ test('the sticky View popover dismisses after selection, outside click, and Esca
     ),
   );
   assert.doesNotMatch(viewMenu, /label="Raw source"/);
+  // Raw source switches questions and workings & answers separately.
+  assert.match(
+    component,
+    /aria-label="Raw source"[\s\S]*value=\{rawSourceValue\(preferences\)\}[\s\S]*<option value="off">Off<\/option>[\s\S]*<option value="question">Question<\/option>[\s\S]*<option value="solutions">Workings &amp; answers<\/option>[\s\S]*<option value="both">Both<\/option>/,
+  );
+  assert.match(
+    component,
+    /\{showRaw && showsRawSource\(preferences, field\.context\.scope\) \? \(/,
+  );
+  assert.doesNotMatch(component, /preferences\.showRaw\b/);
   assert.match(
     component,
     /onChange=\{\(event\) =>\s*dismissReviewPopover\(event\.currentTarget\)\s*\}/,
@@ -1214,19 +1244,124 @@ test('the paper rail links to a read-only whole-file macro review', async () => 
   );
 });
 
+function solutionSource(component: string): string {
+  return component.slice(
+    component.indexOf('function SolutionContent('),
+    component.indexOf('function ImageReviewStatusBlock('),
+  );
+}
+
+test('working and answer read in one column with their source after', async () => {
+  const [component, css] = await Promise.all([
+    fs.readFile(componentUrl, 'utf8'),
+    fs.readFile(cssUrl, 'utf8'),
+  ]);
+
+  // No side column for answers.
+  assert.doesNotMatch(component, /solution-grid|solution-block--answers/);
+  assert.doesNotMatch(css, /\.solution-grid|\.solution-block/);
+  assert.match(css, /\.solution-sequence\s*{[^}]*flex-direction:\s*column/s);
+
+  // Every rendered row carries its production label in the left pane.
+  assert.match(
+    solutionSource(component),
+    /<SolutionRowLabel kind="working" label="Working" \/>/,
+  );
+  assert.match(
+    solutionSource(component),
+    /<SolutionRowLabel kind="answer" label="Answer" \/>/,
+  );
+  assert.match(
+    component,
+    /<SolutionRowLabel kind=\{kind\} label=\{label\} \/>/,
+  );
+  assert.doesNotMatch(component, /solution-row-label--spacer/);
+  assert.match(css, /\.solution-row-label\s*{[^}]*white-space:\s*nowrap/s);
+  // Rows with nothing rendered (only %empty%) are left out.
+  assert.match(component, /const visible = fields\.filter\(hasRenderedField\)/);
+
+  // The answer line is option, then key = answer.
+  const answerLine = component.slice(
+    component.indexOf('function AnswerLine('),
+    component.indexOf('type RawSourceGroup'),
+  );
+  const optionAt = answerLine.indexOf("part(answer.option, 'option')");
+  const keyAt = answerLine.indexOf("part(answer.key, 'key')");
+  const equalsAt = answerLine.indexOf('answer-line__equals');
+  const valueAt = answerLine.indexOf("part(answer.answer, 'answer')");
+  assert.ok(optionAt >= 0 && keyAt > optionAt && equalsAt > keyAt);
+  assert.ok(valueAt > equalsAt);
+
+  // Rendered working and answers carry no raw source of their own.
+  assert.match(
+    component,
+    /label="Working"\s+preferences=\{preferences\}\s+showRaw=\{false\}/,
+  );
+  assert.match(component, /variant=\{kind\}/);
+  assert.match(
+    component.slice(
+      component.indexOf('function SolutionContentRow('),
+      component.indexOf('function hasVisibleWorking('),
+    ),
+    /showRaw=\{false\}/,
+  );
+
+  // The source block follows the rendered order and edits each field inline.
+  const groups = component.slice(
+    component.indexOf('function solutionRawSourceGroups('),
+    component.indexOf('function SolutionRawSource('),
+  );
+  const order = [
+    "'Keep in mind'",
+    "'Formulas used'",
+    "label: 'Working'",
+    "label: 'Option'",
+    "label: 'Key'",
+    "label: 'Answer'",
+  ].map((label) => groups.indexOf(label));
+  assert.ok(order.every((position) => position >= 0));
+  assert.deepEqual(
+    order,
+    [...order].sort((a, b) => a - b),
+  );
+  // Every field in the file is listed, %empty% included, so it can be filled.
+  assert.doesNotMatch(groups, /%empty%|isEmptyPlaceholder/);
+  assert.match(component, /<summary>Working &amp; answer source<\/summary>/);
+  assert.match(
+    component,
+    /preferences\.showRawSolutions\s*\?\s*solutionRawSourceGroups/,
+  );
+
+  // The source header is just the field name and Edit, on the right.
+  assert.doesNotMatch(component, /Displayed TOML ·/);
+  assert.match(
+    css,
+    /\.raw-source__toolbar button\s*{[^}]*margin-left:\s*auto/s,
+  );
+});
+
 test('working content mirrors the production row hierarchy and stage rail', async () => {
   const [component, css] = await Promise.all([
     fs.readFile(componentUrl, 'utf8'),
     fs.readFile(cssUrl, 'utf8'),
   ]);
 
-  const formulasPosition = component.indexOf('label="Formulas used"');
-  const tipsPosition = component.indexOf('label="Keep in mind"');
-  const bodyPosition = component.indexOf('solution-row--working');
+  const solution = component.slice(
+    component.indexOf('function SolutionContent('),
+    component.indexOf('function ImageReviewStatusBlock('),
+  );
+  const tipsPosition = solution.indexOf('label="Keep in mind"');
+  const formulasPosition = solution.indexOf('label="Formulas used"');
+  const bodyPosition = solution.indexOf('solution-row--working');
+  const answerPosition = solution.indexOf('solution-row--answer');
+  const rawPosition = solution.indexOf('<SolutionRawSource');
 
-  assert.ok(formulasPosition >= 0, 'formula row label should render');
-  assert.ok(tipsPosition > formulasPosition, 'tips should follow formulas');
-  assert.ok(bodyPosition > tipsPosition, 'working body should follow tips');
+  // Production order: Keep in mind, Formulas used, Working, then Answer.
+  assert.ok(tipsPosition >= 0, 'tips row label should render');
+  assert.ok(formulasPosition > tipsPosition, 'formulas should follow tips');
+  assert.ok(bodyPosition > formulasPosition, 'working should follow formulas');
+  assert.ok(answerPosition > bodyPosition, 'the answer should follow working');
+  assert.ok(rawPosition > answerPosition, 'raw source should come last');
   assert.match(component, /className="working-method-divider"/);
   assert.match(component, /className="working-stage-track"/);
   assert.match(component, /className="working-stage-title-rule"/);

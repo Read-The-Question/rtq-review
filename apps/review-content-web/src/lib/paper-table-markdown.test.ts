@@ -253,18 +253,8 @@ test('every content field marks its voice as production does', () => {
     surface,
     /field=\{node\.content\.question\}\s*label="Question"\s*preferences=\{preferences\}\s*variant="question"/,
   );
-  assert.match(
-    surface,
-    /field=\{answer\.option\}\s*label="Option"\s*preferences=\{preferences\}\s*variant="answer"/,
-  );
-  assert.match(
-    surface,
-    /field=\{answer\.key\}\s*label="Key"\s*preferences=\{preferences\}\s*variant="default"/,
-  );
-  assert.match(
-    surface,
-    /field=\{answer\.answer\}\s*label="Answer"\s*preferences=\{preferences\}\s*variant="answer"/,
-  );
-  assert.match(surface, /preferences=\{preferences\}\s*variant=\{kind\}/);
+  // Answer line: option and answer in the answer voice, the key in the default.
+  assert.match(surface, /variant=\{kind === 'key' \? 'default' : 'answer'\}/);
+  assert.match(surface, /showRaw=\{false\}\s*variant=\{kind\}/);
   assert.equal(surface.match(/variant="working"/g)?.length, 3);
 });

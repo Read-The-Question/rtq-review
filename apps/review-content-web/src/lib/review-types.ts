@@ -106,8 +106,14 @@ export function reviewOutcomeLabel(outcome: ReviewOutcome): string {
     .label;
 }
 
+/**
+ * Shown when no outcome is recorded for a side at its current RAG state.
+ * Outcomes belong to one RAG state, so this resets when the state moves on.
+ */
+export const NOT_REVIEWED_LABEL = 'Not reviewed';
+
 export function reviewOutcomeFilterLabel(value: string): string {
-  if (value === PENDING_REVIEW_OUTCOME) return 'Pending';
+  if (value === PENDING_REVIEW_OUTCOME) return NOT_REVIEWED_LABEL;
   if (!isReviewOutcome(value)) return value;
   const labels: Readonly<Record<ReviewOutcome, string>> = {
     PRBD: 'Blocked',

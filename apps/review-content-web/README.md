@@ -243,6 +243,14 @@ or page size starts again from the first result.
 - The **Review target** selector persists the chosen Question or Answer side in
   local browser storage, so quick-review actions keep the same target after a
   refresh.
+- Status follows the review in hand: only the tracks the Review target and
+  panel mode select (for example Answer and Answer image) appear. Each
+  top-level question's badges, the side review panel, and the panel under
+  each question show that track's RAG state with the outcome recorded at it,
+  such as **Answer · G0 · Not reviewed**. **Not reviewed** means no outcome is
+  recorded at the current RAG state yet; it resets when the state moves on.
+  The paper header counts top-level questions per RAG state for the same
+  tracks; search results show only the paper, question, year and path.
 - Image `generated`, `screenshot`, and decorative-ignore selections save
   immediately to the review database for the image track's exact current RAG
   state. They do not require or modify an image review outcome; rapid changes
@@ -255,6 +263,18 @@ or page size starts again from the first result.
   `WorkingSection` stages retain their titles and connected side rail. Hidden
   stages remain absent from the rendered view but are still inspectable through
   **Raw source**.
+- Working and answers read in one column, in the production site's order,
+  each row labelled in a left pane as on production: **Keep in mind** and
+  **Formulas used** (pin), **Working**, then **Answer** (tick; option, then
+  key = answer). Rows with only `%empty%` placeholders are not shown.
+- **Raw** in the toolbar shows the authored TOML: **Off**, **Question**,
+  **Workings & answers** or **Both**. Question source sits under the question.
+  Workings & answers source comes after the rendered answer as one block, in
+  the same order (Keep in mind, Formulas used, Working, then Option, Key and
+  Answer for each answer), each with **Edit** at the right of its name. Fields
+  holding `%empty%` are still listed, so they can be filled in. The two
+  parts are remembered separately per review session; the retired single Raw
+  source switch turns both on.
 - Use **Show previous feedback** to reveal immutable feedback from RAG states
   other than the current state; it is off by default. Each feedback region
   reports current and previous counts even when history is hidden.

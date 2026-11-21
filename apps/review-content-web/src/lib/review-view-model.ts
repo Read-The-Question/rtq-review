@@ -95,7 +95,10 @@ export type ReviewPreferences = Readonly<{
   showMetadata: boolean;
   showPdf: boolean;
   showQuestionStatusInfo: boolean;
-  showRaw: boolean;
+  /** Show the question's TOML source under its rendered content. */
+  showRawQuestion: boolean;
+  /** Show the TOML source of workings and answers under their content. */
+  showRawSolutions: boolean;
   showSolutions: boolean;
   showStatusBackground: boolean;
   showTags: boolean;
@@ -118,7 +121,8 @@ export const DEFAULT_REVIEW_PREFERENCES: ReviewPreferences = {
   showMetadata: true,
   showPdf: true,
   showQuestionStatusInfo: true,
-  showRaw: false,
+  showRawQuestion: false,
+  showRawSolutions: false,
   showSolutions: true,
   showStatusBackground: false,
   showTags: true,
@@ -309,6 +313,10 @@ export function parseReviewPreferences(
     .map((record) => record?.surfaceView)
     .find((value) => value === 'content' || value === 'images');
   const reviewSide = legacySide();
+  // One "Raw source" switch used to cover every field; it seeds both parts.
+  const legacyShowRaw = records
+    .map((record) => record?.showRaw)
+    .find((value): value is boolean => typeof value === 'boolean');
 
   return {
     imageComparisonVersions: normalizedImageVersions.length
@@ -380,7 +388,14 @@ export function parseReviewPreferences(
       'showQuestionStatusInfo',
       DEFAULT_REVIEW_PREFERENCES.showQuestionStatusInfo,
     ),
-    showRaw: preference('showRaw', DEFAULT_REVIEW_PREFERENCES.showRaw),
+    showRawQuestion: preference(
+      'showRawQuestion',
+      legacyShowRaw ?? DEFAULT_REVIEW_PREFERENCES.showRawQuestion,
+    ),
+    showRawSolutions: preference(
+      'showRawSolutions',
+      legacyShowRaw ?? DEFAULT_REVIEW_PREFERENCES.showRawSolutions,
+    ),
     showSolutions: preference(
       'showSolutions',
       DEFAULT_REVIEW_PREFERENCES.showSolutions,
@@ -633,4 +648,44 @@ export function reviewStateLabel(value: string): string {
     .replace(/^rag_/i, '')
     .replaceAll(/[_-]+/g, ' ');
   return state.toLowerCase() === 'notapplicable' ? 'N/A' : state.toUpperCase();
+}
+
+/** Whether a field's TOML source shows: questions and solutions switch apart. */
+export function showsRawSource(
+  preferences: Pick<ReviewPreferences, 'showRawQuestion' | 'showRawSolutions'>,
+  scope: 'answer' | 'question' | 'working',
+): boolean {
+  return scope === 'question'
+    ? preferences.showRawQuestion
+    : preferences.showRawSolutions;
+}
+
+/**
+ * How many top-level questions sit at each RAG state for one review side,
+ * such as "G0 ×4 · NG2 ×33". Questions without a state count as "Not set".
+ */
+export function paperRagSummary(
+  questions: readonly Readonly<{
+    review: Readonly<
+      Partial<Record<ReviewSide, Readonly<{ contentRag?: string }>>>
+    >;
+  }>[],
+  side: ReviewSide,
+): string {
+  const counts = new Map<string, number>();
+  for (const question of questions) {
+    const rag = question.review[side]?.contentRag?.trim();
+    const label = rag ? reviewStateLabel(rag) : 'Not set';
+    counts.set(label, (counts.get(label) ?? 0) + 1);
+  }
+  if (counts.size === 0) return '—';
+  return [...counts]
+    .sort(([left], [right]) =>
+      left.localeCompare(right, undefined, {
+        numeric: true,
+        sensitivity: 'base',
+      }),
+    )
+    .map(([label, count]) => `${label} ×${count}`)
+    .join(' · ');
 }

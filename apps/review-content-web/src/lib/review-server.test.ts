@@ -84,7 +84,7 @@ test('maps canonical request values to the agreed reviewer-facing labels', () =>
       reviewOutcomeFilterLabel(outcome),
     ]),
     [
-      ['PRNS', 'Pending'],
+      ['PRNS', 'Not reviewed'],
       ['PRG', 'Approved'],
       ['PRCR', 'Reviewed (Comments)'],
       ['PRCC', 'Ready For Review'],

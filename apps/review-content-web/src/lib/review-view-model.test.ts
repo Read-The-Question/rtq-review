@@ -16,6 +16,7 @@ import {
   clearReviewFiltersForContext,
   clearReviewOutcomeFiltersForContext,
   collectionRoute,
+  paperRagSummary,
   paperRoute,
   parseReviewFilterDisclosure,
   parseReviewPreferences,
@@ -27,6 +28,7 @@ import {
   reviewSidesForContext,
   reviewSidesForPanel,
   reviewStateLabel,
+  showsRawSource,
   visibleFeedbackSides,
   visibleReviewSides,
 } from './review-view-model.ts';
@@ -77,10 +79,29 @@ test('preferences survive partial and malformed local values', () => {
     parseReviewPreferences('{broken'),
     DEFAULT_REVIEW_PREFERENCES,
   );
+  // The retired single Raw source switch turns on both parts.
   assert.deepEqual(parseReviewPreferences('{"showRaw":true}'), {
     ...DEFAULT_REVIEW_PREFERENCES,
-    showRaw: true,
+    showRawQuestion: true,
+    showRawSolutions: true,
   });
+  assert.deepEqual(
+    parseReviewPreferences(
+      '{"showRaw":true,"showRawQuestion":false,"showRawSolutions":true}',
+    ),
+    {
+      ...DEFAULT_REVIEW_PREFERENCES,
+      showRawQuestion: false,
+      showRawSolutions: true,
+    },
+  );
+  const solutionsOnly = {
+    showRawQuestion: false,
+    showRawSolutions: true,
+  };
+  assert.equal(showsRawSource(solutionsOnly, 'question'), false);
+  assert.equal(showsRawSource(solutionsOnly, 'working'), true);
+  assert.equal(showsRawSource(solutionsOnly, 'answer'), true);
   assert.equal(parseReviewPreferences('{"showPdf":false}').showPdf, false);
   assert.equal(parseReviewPreferences(null).imageProductionView, false);
   assert.equal(
@@ -207,7 +228,8 @@ test('preferences migrate independent side settings into one active review side'
     {
       ...DEFAULT_REVIEW_PREFERENCES,
       reviewSide: 'answer',
-      showRaw: true,
+      showRawQuestion: true,
+      showRawSolutions: true,
     },
   );
   assert.deepEqual(
@@ -500,4 +522,20 @@ test('review settings sessions keep session 0 on the original storage keys', () 
   assert.equal(parseReviewSessionId('2'), 2);
   assert.equal(parseReviewSessionId('7'), 0);
   assert.equal(parseReviewSessionId('nonsense'), 0);
+});
+
+test('the paper summary counts top-level questions per RAG state for one side', () => {
+  const questions = [
+    { review: { answer: { contentRag: 'rag_wf_ng2' } } },
+    { review: { answer: { contentRag: 'rag_wf_g0' } } },
+    { review: { answer: { contentRag: 'rag_wf_ng2' } } },
+    { review: { answer: {} } },
+    { review: { answer: { contentRag: 'rag_wf_ng10' } } },
+  ];
+  assert.equal(
+    paperRagSummary(questions, 'answer'),
+    'G0 ×1 · NG2 ×2 · NG10 ×1 · Not set ×1',
+  );
+  assert.equal(paperRagSummary(questions, 'tags'), 'Not set ×5');
+  assert.equal(paperRagSummary([], 'answer'), '—');
 });
